@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,No Scrubs,TLC,1,1,10
+2,Believe,Cher,2,1,19
+3,Every Morning,Sugar Ray,4,3,16
+4,What's It Gonna Be?!,Busta Rhymes Featuring Janet,3,3,7
+5,Kiss Me,Sixpence None The Richer,6,5,12
+6,Heartbreak Hotel,Whitney Houston Feat. Faith Evans & Kelly Price,5,2,18
+7,I Still Believe,Mariah Carey,7,4,12
+8,Angel Of Mine,Monica,8,1,21
+9,C'est La Vie,B*Witched,9,9,10
+10,Slide,Goo Goo Dolls,15,8,21
+11,Stay The Same,Joey McIntyre,10,10,9
+12,All I Have To Give,Backstreet Boys,11,5,13
+13,If You (Lovin' Me),Silk,13,13,7
+14,When I Close My Eyes,Shanice,14,12,5
+15,All Night Long,Faith Evans Featuring Puff Daddy,12,9,12
+16,Give It To You,Jordan Knight,25,16,4
+17,Please Remember Me,Tim McGraw,17,17,4
+18,Sweet Lady,Tyrese,21,18,14
+19,Angel,Sarah McLachlan,16,4,21
+20,...Baby One More Time,Britney Spears,19,1,23
+21,Fly Away,Lenny Kravitz,22,21,21
+22,Who Dat,JT Money Featuring Sole,-1,22,1
+23,What It's Like,Everlast,23,23,19
+24,These Are The Times,Dru Hill,31,21,19
+25,It Ain't My Fault 1 & 2,Silkk The Shocker Featuring Mystikal,18,18,8
+26,We Like To Party!,Vengaboys,26,26,11
+27,Anywhere,112 Featuring Lil'z,38,27,6
+28,My First Night With You,Mya,28,28,6
+29,One More Try,Divine,30,29,4
+30,Back 2 Good,matchbox 20,32,28,18
+31,Ex-Factor,Lauryn Hill,29,21,16
+32,Livin' La Vida Loca,Ricky Martin,54,32,2
+33,Hard Knock Life (Ghetto Anthem),JAY-Z,24,15,22
+34,You,Jesse Powell,33,10,10
+35,The Animal Song,Savage Garden,20,19,7
+36,The Hardest Thing,98 Degrees,42,36,5
+37,How Forever Feels,Kenny Chesney,34,27,12
+38,Save Tonight,Eagle-Eye Cherry,35,5,21
+39,Have You Ever?,Brandy,36,1,21
+40,I'll Think Of A Reason Later,Lee Ann Womack,41,40,9
+41,Ordinary Life,Chad Brock,40,40,10
+42,(God Must Have Spent) A Little More Time On You,'N Sync,27,8,21
+43,Miami,Will Smith,44,17,21
+44,Can I Get A...,Jay-Z Featuring Amil (Of Major Coinz) & Ja,50,19,30
+45,Wish You Were Here,Mark Wills,51,45,8
+46,Everybody's Free (To Wear Sunscreen),Baz Luhrmann,45,45,5
+47,That Don't Impress Me Much,Shania Twain,56,47,12
+48,Drive Me Wild,Sawyer Brown,49,48,9
+49,Gone Crazy,Alan Jackson,60,49,7
+50,Praise You,Fatboy Slim,53,50,7
+51,When A Woman's Fed Up,R. Kelly,39,22,18
+52,Girlfriend/Boyfriend,BLACKstreet With Janet,47,47,7
+53,I'm Not Ready,Keith Sweat,37,16,7
+54,What's So Different,Ginuwine,59,49,10
+55,You Won't Ever Be Lonely,Andy Griggs,63,55,5
+56,Blue Monday,Orgy,57,56,9
+57,808,Blaque,77,57,2
+58,Faded Pictures,Case & Joe,48,10,18
+59,Hands Of A Working Man,Ty Herndon,66,59,6
+60,You Got Me,The Roots Featuring Erykah Badu,52,39,11
+61,Fortunate,Maxwell,71,61,3
+62,Georgy Porgy,Eric Benet Featuring Faith Evans,55,55,6
+63,You Were Mine,Dixie Chicks,58,34,14
+64,Anyone Else,Collin Raye,69,64,7
+65,What'd You Come Here For?,Trina & Tamara,76,65,4
+66,Hillbilly Shoes,Montgomery Gentry,67,66,5
+67,Two Teardrops,Steve Wariner,73,67,4
+68,Get Involved,Raphael Saadiq & Q-Tip,81,68,4
+69,I Don't Want To Miss A Thing,Mark Chesnutt,65,17,19
+70,One,Creed,70,70,9
+71,Down So Long,Jewel,82,71,2
+72,I Want It That Way,Backstreet Boys,-1,72,1
+73,Anything But Down,Sheryl Crow,80,73,3
+74,Life,K-Ci & JoJo,85,74,6
+75,Special,Garbage,75,75,5
+76,Stand Beside Me,Jo Dee Messina,72,34,20
+77,My Favorite Girl,Dave Hollister,94,77,3
+78,With You,Lila McCann,78,78,4
+79,Everytime I Cry,Terri Clark,79,79,4
+80,Man! I Feel Like A Woman!,Shania Twain,93,80,2
+81,Hate Me Now,NAS Featuring Puff Daddy,-1,81,1
+82,Sitting Home,Total,87,82,3
+83,Nann,Trick Daddy Featuring Trina,68,62,7
+84,Heavy,Collective Soul,84,73,8
+85,Holla Holla,Ja Rule,91,85,4
+86,Slam Dunk,Five,86,86,2
+87,Love Ain't Like That,Faith Hill,74,68,8
+88,Why Don't You Get A Job?,The Offspring,88,88,3
+89,Written In The Stars,Elton John & LeAnn Rimes,61,29,7
+90,Almost Doesn't Count,Brandy,-1,90,1
+91,Unbelievable,Diamond Rio,90,36,19
+92,I Drive Myself Crazy,'N Sync,-1,92,1
+93,My Name Is,Eminem,62,36,9
+94,I Can't Get Over You,Brooks & Dunn,64,51,11
+95,Busy Man,Billy Ray Cyrus,83,46,14
+96,Maria,Blondie,92,82,3
+97,Write This Down,George Strait,-1,97,1
+98,My Own Worst Enemy,Lit,-1,98,1
+99,Can't Get Enough,Patty Loveless,99,99,2
+100,Crush,Dave Matthews Band,95,75,11

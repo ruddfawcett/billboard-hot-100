@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Boy Is Mine,Brandy & Monica,1,1,3
+2,Too Close,Next,2,1,18
+3,You're Still The One,Shania Twain,3,2,18
+4,My All,Mariah Carey,4,1,6
+5,I Get Lonely,Janet Featuring BLACKstreet,5,3,4
+6,Everybody [Backstreet's Back],Backstreet Boys,6,4,9
+7,All My Life,K-Ci & JoJo,8,1,12
+8,Truly Madly Deeply,Savage Garden,9,1,28
+9,The Arms Of The One Who Loves You,Xscape,7,7,7
+10,Sex And Candy,Marcy Playground,11,8,10
+11,Adia,Sarah McLachlan,14,11,3
+12,They Don't Know,Jon B,22,12,20
+13,It's All About Me,Mya & Sisqo,10,6,14
+14,Body Bumpin' Yippie-Yi-Yo,Public Announcement,12,5,17
+15,Let's Ride,Montell Jordan Feat. Master P & Silkk The Shocker,13,2,15
+16,I Want You Back,'N Sync,15,13,15
+17,Say It,Voices Of Theory,21,17,11
+18,Frozen,Madonna,16,2,13
+19,Gettin' Jiggy Wit It,Will Smith,18,1,16
+20,I Got The Hook Up!,Master P Featuring Sons Of Funk,20,20,10
+21,"No, No, No",Destiny's Child,19,3,29
+22,Turn It Up [Remix]/Fire It Up,Busta Rhymes,17,10,6
+23,Looking Through Your Eyes,LeAnn Rimes,24,18,9
+24,How's It Going To Be,Third Eye Blind,28,9,28
+25,Together Again,Janet,23,1,26
+26,Make Em' Say Uhh!,"Master P Feat. Fiend, Silkk The Shocker, Mia X & Mystikal",25,16,20
+27,Heaven's What I Feel,Gloria Estefan,29,27,4
+28,Raise The Roof,Luke Featuring No Good But So Good,26,26,12
+29,How Do I Live,LeAnn Rimes,33,2,52
+30,"Money, Power & Respect",The Lox [Featuring DMX & Lil' Kim],27,17,11
+31,This Kiss,Faith Hill,31,31,13
+32,I Don't Want To Wait,Paula Cole,30,11,33
+33,Victory,Puff Daddy & The Family Featuring The Notorious B.I.G. & Busta Rh,32,19,13
+34,Nice & Slow,Usher,34,1,21
+35,Shorty (You Keep Playin' With My Mind),Imajin Featuring Keith Murray,43,35,3
+36,My Heart Will Go On,Celine Dion,36,1,16
+37,What You Want,Mase Featuring Total,35,6,20
+38,Cheers 2 U,Playa,38,38,12
+39,You Make Me Wanna...,Usher,41,2,43
+40,Still Not A Player,Big Punisher Featuring Joe,-1,40,1
+41,Whatcha Gone Do?,Link,45,41,2
+42,Imagination,Tamia,42,37,13
+43,Who Am I,Beenie Man,44,40,14
+44,Romeo And Juliet,Sylk-E. Fyne Featuring Chill,37,6,18
+45,Deja Vu [Uptown Baby],Lord Tariq & Peter Gunz,39,9,27
+46,Gone Till November,Wyclef Jean,40,7,19
+47,Candle In The Wind 1997/Something About The Way You Look Tonight,Elton John,47,1,36
+48,Get At Me Dog,DMX Featuring Sheek Of The Lox,48,39,16
+49,Wishlist, Pearl Jam,50,47,4
+50,Bitter Sweet Symphony,The Verve,51,12,12
+51,Second Round K.O.,Canibus,49,28,10
+52,You Won't Forget Me,La Bouche,56,52,2
+53,Push It,Garbage,54,52,6
+54,Clock Strikes,Timbaland & Magoo,52,37,7
+55,This Is How We Party,S.O.A.P.,53,51,9
+56,One Heart At A Time,Various Artists,63,56,3
+57,When The Lights Go Out,Five,64,57,2
+58,I'm Alright,Jo Dee Messina,61,43,14
+59,Recover Your Soul,Elton John,58,55,9
+60,A Rose Is Still A Rose,Aretha Franklin,55,26,14
+61,Love You Down,INOJ/LATHUN,59,25,19
+62,Do For Love,2Pac Featuring Eric Williams,57,21,13
+63,The Mummers' Dance,Loreena McKennitt,60,18,15
+64,The Party Continues,JD Featuring Da Brat,62,29,15
+65,There's Your Trouble,Dixie Chicks,67,64,5
+66,I Just Want To Dance With You,George Strait,65,61,8
+67,I Honestly Love You (David Foster Vers.),Olivia Newton-John,69,67,3
+68,Ninety Nine [Flash The Message],John Forte,68,68,3
+69,Do Your Thing,7 Mile,70,65,8
+70,I'm From The Country,Tracy Byrd,73,63,11
+71,Ding-A-Ling,Hi-Town DJs,77,71,7
+72,I Do [Cherish You],Mark Wills,80,72,6
+73,Hooked On A Feeling (Ooga-Chaka),Baby Talk,71,71,3
+74,The Unforgiven II,Metallica,74,59,11
+75,Now That I Found You,Terri Clark,79,75,4
+76,Know What You Mean,Sister 7,82,76,3
+77,Just Be Straight With Me,"Silkk The Shocker Featuring Master P, Destiny's Child, O'Dell, Mo",75,57,13
+78,Gitty Up,Salt-N-Pepa,66,50,12
+79,My Heart Will Go On,Deja Vu,76,58,14
+80,Out Of My Bones,Randy Travis,83,64,8
+81,A Man Holdin' On (To A Woman Lettin' Go),Ty Herndon,92,81,2
+82,Too Much,Spice Girls,85,9,18
+83,Are You Jimmy Ray?,Jimmy Ray,78,13,17
+84,The City Is Mine,Jay-Z Featuring BLACKstreet,84,52,20
+85,Rain,SWV,88,25,12
+86,I Wanna Get Next To You,Christion,86,86,2
+87,That's Why I'm Here,Kenny Chesney,90,79,6
+88,One Of These Days,Tim McGraw,87,74,7
+89,Baby Be There,Nu Flavor,-1,89,1
+90,A Promise I Make,Dakota Moon,89,69,13
+91,Light In Your Eyes,Blessid Union Of Souls,94,48,18
+92,You Only Have To Say You Love Me,Hannah Jones,-1,92,1
+93,Blue On Black,The Kenny Wayne Shepherd Band,91,78,7
+94,Still Po' Pimpin',Do Or Die Featuring Johnny P & Twista,81,62,12
+95,Whatuon,LaTanya Featuring Twista,-1,95,1
+96,Let's Forget About It,Lisa Loeb,95,71,7
+97,It's Your Love,She Moves,97,67,13
+98,Strawberries,Smooth,98,49,17
+99,Come Over To My Place,Davina,96,81,9
+100,"Have Fun, Go Mad",Blair,93,86,4

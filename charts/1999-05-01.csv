@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,No Scrubs,TLC,1,1,11
+2,Kiss Me,Sixpence None The Richer,5,2,13
+3,Believe,Cher,2,1,20
+4,Every Morning,Sugar Ray,3,3,17
+5,What's It Gonna Be?!,Busta Rhymes Featuring Janet,4,3,8
+6,Heartbreak Hotel,Whitney Houston Feat. Faith Evans & Kelly Price,6,2,19
+7,Angel Of Mine,Monica,8,1,22
+8,Livin' La Vida Loca,Ricky Martin,32,8,3
+9,Slide,Goo Goo Dolls,10,8,22
+10,Please Remember Me,Tim McGraw,17,10,5
+11,I Still Believe,Mariah Carey,7,4,13
+12,Sweet Lady,Tyrese,18,12,15
+13,If You (Lovin' Me),Silk,13,13,8
+14,What It's Like,Everlast,23,14,20
+15,Fly Away,Lenny Kravitz,21,15,22
+16,Give It To You,Jordan Knight,16,16,5
+17,Anywhere,112 Featuring Lil'z,27,17,7
+18,Who Dat,JT Money Featuring Sole,22,18,2
+19,Angel,Sarah McLachlan,19,4,22
+20,C'est La Vie,B*Witched,9,9,11
+21,...Baby One More Time,Britney Spears,20,1,24
+22,All I Have To Give,Backstreet Boys,12,5,14
+23,All Night Long,Faith Evans Featuring Puff Daddy,15,9,13
+24,Back 2 Good,matchbox 20,30,24,19
+25,The Hardest Thing,98 Degrees,36,25,6
+26,Stay The Same,Joey McIntyre,11,10,10
+27,You,Jesse Powell,34,10,11
+28,We Like To Party!,Vengaboys,26,26,12
+29,When I Close My Eyes,Shanice,14,12,6
+30,Ex-Factor,Lauryn Hill,31,21,17
+31,Save Tonight,Eagle-Eye Cherry,38,5,22
+32,How Forever Feels,Kenny Chesney,37,27,13
+33,These Are The Times,Dru Hill,24,21,20
+34,I Want It That Way,Backstreet Boys,72,34,2
+35,That Don't Impress Me Much,Shania Twain,47,35,13
+36,Wish You Were Here,Mark Wills,45,36,9
+37,Can I Get A...,Jay-Z Featuring Amil (Of Major Coinz) & Ja,44,19,31
+38,I'll Think Of A Reason Later,Lee Ann Womack,40,38,10
+39,Ordinary Life,Chad Brock,41,39,11
+40,Have You Ever?,Brandy,39,1,22
+41,It Ain't My Fault 1 & 2,Silkk The Shocker Featuring Mystikal,25,18,9
+42,My First Night With You,Mya,28,28,7
+43,One More Try,Divine,29,29,5
+44,(God Must Have Spent) A Little More Time On You,'N Sync,42,8,22
+45,Drive Me Wild,Sawyer Brown,48,45,10
+46,You Won't Ever Be Lonely,Andy Griggs,55,46,6
+47,Gone Crazy,Alan Jackson,49,47,8
+48,Praise You,Fatboy Slim,50,48,8
+49,Everybody's Free (To Wear Sunscreen),Baz Luhrmann,46,45,6
+50,What's So Different,Ginuwine,54,49,11
+51,Sitting Home,Total,82,51,4
+52,Hands Of A Working Man,Ty Herndon,59,52,7
+53,Fortunate,Maxwell,61,53,4
+54,Almost Doesn't Count,Brandy,90,54,2
+55,Girlfriend/Boyfriend,BLACKstreet With Janet,52,47,8
+56,Anyone Else,Collin Raye,64,56,8
+57,808,Blaque,57,57,3
+58,Two Teardrops,Steve Wariner,67,58,5
+59,The Animal Song,Savage Garden,35,19,8
+60,Georgy Porgy,Eric Benet Featuring Faith Evans,62,55,7
+61,Man! I Feel Like A Woman!,Shania Twain,80,61,3
+62,Special,Garbage,75,62,6
+63,Life,K-Ci & JoJo,74,63,7
+64,Down So Long,Jewel,71,64,3
+65,What'd You Come Here For?,Trina & Tamara,65,65,5
+66,Hillbilly Shoes,Montgomery Gentry,66,66,6
+67,Get Involved,Raphael Saadiq & Q-Tip,68,67,5
+68,When A Woman's Fed Up,R. Kelly,51,22,19
+69,Hate Me Now,NAS Featuring Puff Daddy,81,69,2
+70,Anything But Down,Sheryl Crow,73,70,4
+71,Blue Monday,Orgy,56,56,10
+72,You Were Mine,Dixie Chicks,63,34,15
+73,Write This Down,George Strait,97,73,2
+74,Everytime I Cry,Terri Clark,79,74,5
+75,You Got Me,The Roots Featuring Erykah Badu,60,39,12
+76,With You,Lila McCann,78,76,5
+77,My Favorite Girl,Dave Hollister,77,77,4
+78,I Drive Myself Crazy,'N Sync,92,78,2
+79,One,Creed,70,70,10
+80,Faded Pictures,Case & Joe,58,10,19
+81,Why Don't You Get A Job?,The Offspring,88,81,4
+82,Nann,Trick Daddy Featuring Trina,83,62,8
+83,I Don't Want To Miss A Thing,Mark Chesnutt,69,17,20
+84,Heavy,Collective Soul,84,73,9
+85,Holla Holla,Ja Rule,85,85,5
+86,I'm Not Ready,Keith Sweat,53,16,8
+87,Unbelievable,Diamond Rio,91,36,20
+88,Written In The Stars,Elton John & LeAnn Rimes,89,29,8
+89,My Own Worst Enemy,Lit,98,89,2
+90,Where My Girls At?,702,-1,90,1
+91,"Luv Me, Luv Me",Shaggy Featuring Janet,-1,76,17
+92,I'm Leaving,Aaron Tippin,-1,92,1
+93,Whatever You Say,Martina McBride,-1,93,1
+94,Busy Man,Billy Ray Cyrus,95,46,15
+95,Crush,Dave Matthews Band,100,75,12
+96,Can't Get Enough,Patty Loveless,99,96,3
+97,You Get What You Give,New Radicals,-1,36,20
+98,Maria,Blondie,96,82,4
+99,Nothing Really Matters,Madonna,-1,99,1
+100,My Name Is,Eminem,93,36,10

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Bailamos,Enrique Iglesias,2,1,9
+2,Genie In A Bottle,Christina Aguilera,1,1,10
+3,Summer Girls,LFO,3,3,8
+4,Unpretty,TLC,23,4,11
+5,All Star,Smash Mouth,5,4,16
+6,"Bills, Bills, Bills",Destiny's Child,4,1,12
+7,Where My Girls At?,702,6,4,19
+8,Smooth,Santana Featuring Rob Thomas,11,8,6
+9,If You Had My Love,Jennifer Lopez,7,1,17
+10,Someday,Sugar Ray,12,10,10
+11,Last Kiss,Pearl Jam,10,2,15
+12,I Want It That Way,Backstreet Boys,9,6,20
+13,Tell Me It's Real,K-Ci & JoJo,8,2,15
+14,She's So High,Tal Bachman,14,14,12
+15,Scar Tissue,Red Hot Chili Peppers,15,15,14
+16,Jamboree,Naughty By Nature Featuring Zhane,13,10,10
+17,Never Gonna Let You Go,Faith Evans,57,17,9
+18,So Anxious,Ginuwine,16,16,8
+19,It's All About You (Not About Me),Tracie Spencer,20,18,4
+20,Out Of My Head,Fastball,21,20,10
+21,I Do (Cherish You),98 Degrees,28,21,5
+22,Smile,Vitamin C Featuring Lady Saw,18,18,8
+23,She's All I Ever Had,Ricky Martin,33,23,5
+24,Spend My Life With You,Eric Benet Featuring Tamia,22,21,10
+25,It's Not Right But It's Okay,Whitney Houston,17,4,18
+26,I Will Remember You (Live),Sarah McLachlan,19,14,36
+27,Black Balloon,Goo Goo Dolls,29,27,9
+28,Jigga My N****,JAY-Z,62,28,11
+29,Better Days (And The Bottom Drops Out),Citizen King,25,25,15
+30,Fortunate,Maxwell,24,4,22
+31,What Ya Want,EVE & Nokio,31,31,10
+32,Amazed,Lonestar,27,24,14
+33,Hey Leonardo (She Likes Me For Me),Blessid Union Of Souls,35,33,13
+34,Lesson In Leavin',Jo Dee Messina,30,28,14
+35,Mambo No. 5 (A Little Bit Of...),Lou Bega,63,35,2
+36,Happily Ever After,Case,26,15,14
+37,Back That Thang Up,Juvenile Featuring Mannie Fresh & Lil' Wayne,42,37,9
+38,Single White Female,Chely Wright,36,36,17
+39,You Had Me From Hello,Kenny Chesney,39,39,9
+40,Kiss Me,Sixpence None The Richer,34,2,31
+41,Steal My Sunshine,Len,50,41,4
+42,I Could Not Ask For More,Edwin McCain,37,37,11
+43,God Must Have Spent A Little More Time On You,Alabama Featuring 'N Sync,32,29,15
+44,All That I Can Say,Mary J. Blige,51,44,7
+45,The Hardest Thing,98 Degrees,38,5,24
+46,The Secret Of Life,Faith Hill,47,46,11
+47,You'll Be In My Heart,Phil Collins,41,21,10
+48,Something Like That,Tim McGraw,56,48,4
+49,Little Man,Alan Jackson,52,49,9
+50,Anywhere,112 Featuring Lil'z,48,15,25
+51,Ready To Run,Dixie Chicks,53,51,7
+52,Back At One,Brian McKnight,75,52,2
+53,Vivrant Thing,Q-Tip,71,53,8
+54,Sometimes,Britney Spears,40,21,16
+55,I Love You Came Too Late,Joey McIntyre,-1,55,1
+56,Beautiful Stranger,Madonna,45,19,13
+57,You've Got A Way,Shania Twain,49,49,8
+58,Little Good-Byes,SHeDAISY,44,43,18
+59,If I Could Turn Back The Hands Of Time, R. Kelly,72,59,2
+60,Heartbreaker,Mariah Carey Featuring Jay-Z,-1,60,1
+61,What's My Age Again?,Blink-182,66,61,8
+62,Write This Down,George Strait,59,27,20
+63,I Love You,Martina McBride,82,63,2
+64,Everything Is Everything,Lauryn Hill,60,35,12
+65,A Night To Remember,Joe Diffie,54,38,17
+66,Music Of My Heart,'N Sync & Gloria Estefan,-1,66,1
+67,All N My Grill,"Missy ""Misdemeanor"" Elliott Featuring Big Boi & Nicole",67,67,7
+68,Wild Wild West,Will Smith Featuring Dru Hill & Kool Mo Dee,43,1,16
+69,Girls' Best Friend,JAY-Z,81,69,2
+70,My Own Worst Enemy,Lit,68,51,20
+71,"The Cup Of Life (The Official Song Of The World Cup, France '98)",Ricky Martin,65,45,29
+72,Wanna Be A Baller,"Lil' Troy Featuring Yungsta, Fat Pat, Lil' Will, Hawk, Big T",73,72,4
+73,I'll Still Love You More,Trisha Yearwood,74,73,5
+74,Meeting In My Bedroom,Silk,80,74,3
+75,(Now You See Me) Now You Don't,Lee Ann Womack,78,75,5
+76,Southern Gul,Erykah Badu Featuring Rahzel,96,76,2
+77,Sunshine,Coko,76,70,7
+78,American Woman,Lenny Kravitz,70,70,8
+79,I Will Go With You (Con Te Partiro),Donna Summer,79,79,7
+80,Get Gone,Ideal,86,80,3
+81,My Love Is Your Love,Whitney Houston,-1,81,1
+82,What Do You Say To That,George Strait,-1,82,1
+83,Lately,Tyrese,64,56,12
+84,Almost Doesn't Count,Brandy,61,16,20
+85,I'll Be Your Everything,Youngstown,77,71,4
+86,Who Needs Pictures,Brad Paisley,69,65,12
+87,Nookie,Limp Bizkit,83,80,6
+88,Everyone Falls In Love,Tanto Metro & Devonte,88,88,10
+89,"Boom, Boom, Boom, Boom!!",Vengaboys,84,84,5
+90,Lonely And Gone,Montgomery Gentry,90,90,6
+91,Whatever You Say,Martina McBride,87,37,19
+92,Chante's Got A Man,Chante Moore,85,10,17
+93,Never Been Kissed,Sherrie Austin,95,89,6
+94,Did You Ever Think,R. Kelly,91,27,15
+95,The Day The World Went Away,Nine Inch Nails,89,17,5
+96,Sexual (Li Da Di),Amber,93,93,8
+97,Lightning Does The Work,Chad Brock,97,97,3
+98,Watch Out Now,The Beatnuts Featuring Yellaklaw,99,84,11
+99,Who Dat,JT Money Featuring Sole,98,5,20
+100,No Pigeons,Sporty Thievz Featuring Mr. Woods,92,12,17

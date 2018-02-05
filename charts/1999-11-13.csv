@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Smooth,Santana Featuring Rob Thomas,1,1,16
+2,Satisfy You,Puff Daddy Featuring R. Kelly,2,2,8
+3,Mambo No. 5 (A Little Bit Of...),Lou Bega,4,3,12
+4,Heartbreaker,Mariah Carey Featuring Jay-Z,3,1,11
+5,Unpretty,TLC,5,1,21
+6,Back At One,Brian McKnight,8,6,12
+7,I Need To Know,Marc Anthony,6,6,10
+8,My Love Is Your Love,Whitney Houston,7,7,11
+9,Steal My Sunshine,Len,10,9,14
+10,(You Drive Me) Crazy, Britney Spears,14,10,9
+11,We Can't Be Friends,Deborah Cox With R.L.,9,8,10
+12,Someday,Sugar Ray,11,7,20
+13,U Know What's Up,Donell Jones,20,13,8
+14,Where My Girls At?,702,16,4,29
+15,I Wanna Love You Forever,Jessica Simpson,25,15,5
+16,Get Gone,Ideal,18,16,13
+17,Scar Tissue,Red Hot Chili Peppers,12,9,24
+18,Waiting For Tonight,Jennifer Lopez,19,18,5
+19,Genie In A Bottle,Christina Aguilera,15,1,20
+20,Back That Thang Up,Juvenile Featuring Mannie Fresh & Lil' Wayne,23,20,19
+21,I Do (Cherish You),98 Degrees,17,13,15
+22,All Star,Smash Mouth,22,4,26
+23,Man! I Feel Like A Woman!,Shania Twain,31,23,27
+24,I Love You,Martina McBride,26,24,12
+25,Larger Than Life,Backstreet Boys,29,25,9
+26,Gotta Man,Eve,34,26,9
+27,I Want It All,Warren G Featuring Mack 10,28,27,9
+28,Vivrant Thing,Q-Tip,30,26,18
+29,She's All I Ever Had,Ricky Martin,21,2,15
+30,Music Of My Heart,'N Sync & Gloria Estefan,13,2,11
+31,I Knew I Loved You,Savage Garden,43,31,4
+32,Black Balloon,Goo Goo Dolls,27,16,19
+33,Bug A Boo,Destiny's Child,38,33,8
+34,If I Could Turn Back The Hands Of Time,R. Kelly,24,12,12
+35,She's So High,Tal Bachman,33,14,22
+36,Bling Bling,"B.G. Featuring Baby, Turk, Mannie Fresh, Juvenile & Lil' Wayne",41,36,9
+37,There She Goes,Sixpence None The Richer,32,32,10
+38,Stay The Night,IMx,40,38,6
+39,Something Like That,Tim McGraw,36,28,14
+40,I Want It That Way,Backstreet Boys,37,6,30
+41,Will 2K,Will Smith Featuring K-Ci,47,41,3
+42,Bring It All To Me,Blaque,50,42,4
+43,If You Love Me,Mint Condition,58,43,2
+44,Spend My Life With You,Eric Benet Featuring Tamia,39,21,20
+45,Meet Virginia,Train,48,45,6
+46,Lonely And Gone,Montgomery Gentry,46,46,16
+47,I'm Already Taken,Steve Wariner,42,42,10
+48,What Do You Say To That,George Strait,45,45,11
+49,American Woman,Lenny Kravitz,49,49,18
+50,When I Said I Do,Clint Black,52,50,5
+51,Big Deal,LeAnn Rimes,51,51,5
+52,Bailamos,Enrique Iglesias,35,1,19
+53,Home To You,John Michael Montgomery,53,53,7
+54,15 Minutes,Marc Nelson,55,54,7
+55,Candy,Mandy Moore,44,41,10
+56,Then The Morning Comes,Smash Mouth,59,56,3
+57,Higher,Creed,56,52,10
+58,Come On Over,Shania Twain,61,58,4
+59,He Didn't Have To Be,Brad Paisley,62,59,4
+60,Learn To Fly,Foo Fighters,63,60,5
+61,Got Your Money,Ol' Dirty Bastard Featuring Kelis,70,61,4
+62,"4, 5, 6",Sole Featuring JT Money & Kandi,68,62,3
+63,The Greatest Romance Ever Sold,Prince,73,63,4
+64,All Things Considered,Yankee Grey,66,64,9
+65,I'll Go Crazy,Andy Griggs,65,65,7
+66,Out Of My Head,Fastball,57,20,20
+67,So Anxious,Ginuwine,54,16,18
+68,Breathe,Faith Hill,81,68,2
+69,Get It On Tonite,Montell Jordan,72,69,4
+70,Hanginaround,Counting Crows,84,70,2
+71,What Do You Say,Reba,76,71,3
+72,The Chemicals Between Us,Bush,74,70,7
+73,Angels Would Fall,Melissa Etheridge,60,51,9
+74,That's The Way It Is,Celine Dion,-1,74,1
+75,What's My Age Again?, Blink-182,67,58,18
+76,Give You What You Want (Fa Sure),Chico DeBarge,90,76,4
+77,B-Please,Snoop Dogg Featuring Xzibit & Nate Dogg,86,77,6
+78,Guerrilla Radio,Rage Against The Machine,80,69,3
+79,Pop A Top,Alan Jackson,-1,79,1
+80,24/7,Kevon Edmonds,83,80,2
+81,The Dolphin's Cry,Live,78,78,5
+82,U Don't Know Me (Like U Used To),Brandy,85,79,4
+83,Deep Inside,Mary J. Blige,-1,83,1
+84,A Man Ain't Made Of Stone,Randy Travis,-1,84,1
+85,Ready To Run,Dixie Chicks,64,39,17
+86,Cowboy,Kid Rock,82,82,3
+87,You Had Me From Hello,Kenny Chesney,79,34,19
+88,Beauty,Dru Hill,92,79,8
+89,Steam,Ty Herndon,93,89,5
+90,Girls' Best Friend,JAY-Z,75,52,12
+91,Lost In You,Garth Brooks as Chris Gaines,71,5,10
+92,Never Gonna Let You Go,Faith Evans,69,17,19
+93,Lightning Does The Work,Chad Brock,88,86,12
+94,The Rockafeller Skank,Fatboy Slim,94,78,17
+95,You'll Be In My Heart,Phil Collins,89,21,20
+96,She's In Love,Mark Wills,77,60,10
+97,Simon Says,Pharoahe Monch,99,97,4
+98,Step To This,Master P Featuring D.I.G.,-1,98,1
+99,What Ya Want,EVE & Nokio,91,29,20
+100,Meeting In My Bedroom,Silk,95,62,13

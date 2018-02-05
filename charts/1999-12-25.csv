@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Smooth,Santana Featuring Rob Thomas,1,1,22
+2,Back At One,Brian McKnight,2,2,18
+3,I Wanna Love You Forever,Jessica Simpson,3,3,11
+4,I Knew I Loved You,Savage Garden,4,4,10
+5,My Love Is Your Love,Whitney Houston,5,5,17
+6,I Need To Know,Marc Anthony,6,3,16
+7,Hot Boyz,"Missy ""Misdemeanor"" Elliott Featuring NAS, EVE & Q-Tip",9,7,5
+8,U Know What's Up,Donell Jones,7,7,14
+9,Bring It All To Me,Blaque,11,9,10
+10,24/7,Kevon Edmonds,10,10,8
+11,Girl On TV,LFO,14,10,6
+12,Waiting For Tonight,Jennifer Lopez,8,8,11
+13,What A Girl Wants,Christina Aguilera,18,13,5
+14,Then The Morning Comes,Smash Mouth,16,14,9
+15,Steal My Sunshine,Len,12,9,20
+16,Blue (Da Ba Dee),Eiffel 65,29,16,3
+17,He Can't Love U,Jagged Edge,32,17,3
+18,Mambo No. 5 (A Little Bit Of...),Lou Bega,13,3,18
+19,Where My Girls At?,702,17,4,35
+20,Unpretty,TLC,15,1,27
+21,Meet Virginia,Train,22,21,12
+22,Learn To Fly,Foo Fighters,25,22,11
+23,"4, 5, 6",Sole Featuring JT Money & Kandi,21,21,9
+24,Get It On Tonite,Montell Jordan,38,24,10
+25,Back That Thang Up,Juvenile Featuring Mannie Fresh & Lil' Wayne,24,19,25
+26,Big Deal,LeAnn Rimes,26,26,11
+27,Get Gone,Ideal,20,13,19
+28,Breathe,Faith Hill,28,28,8
+29,Dancin',Guy,46,29,2
+30,That's The Way It Is,Celine Dion,34,30,7
+31,He Didn't Have To Be,Brad Paisley,30,30,10
+32,Satisfy You,Puff Daddy Featuring R. Kelly,19,2,14
+33,Got Your Money,Ol' Dirty Bastard Featuring Kelis,37,33,10
+34,Someday,Sugar Ray,23,7,26
+35,Hanginaround,Counting Crows,35,35,8
+36,Stay The Night,IMx,40,31,12
+37,Black Balloon,Goo Goo Dolls,33,16,25
+38,Take A Picture,Filter,52,38,5
+39,Shake Your Bon-Bon,Ricky Martin,39,39,6
+40,If You Love Me,Mint Condition,42,30,8
+41,When I Said I Do,Clint Black,31,31,11
+42,You Can Do It,Ice Cube Featuring Mack 10 & Ms. Toi,50,42,4
+43,15 Minutes,Marc Nelson,27,27,13
+44,Don't Say You Love Me,M2M,54,44,6
+45,Amazed,Lonestar,-1,24,21
+46,What Do You Say,Reba,51,46,9
+47,The Christmas Song (Chestnuts Roasting On An Open Fire),Christina Aguilera,97,47,2
+48,Got To Get It,Sisqo Featuring Make It Hot,48,48,6
+49,She's So High,Tal Bachman,44,14,28
+50,Thank God I Found You,Mariah Carey Featuring Joe & 98 Degrees,68,50,3
+51,Heartbreaker,Mariah Carey Featuring Jay-Z,41,1,17
+52,Cowboy Take Me Away,Dixie Chicks,61,52,5
+53,(You Drive Me) Crazy,Britney Spears,36,10,15
+54,My Best Friend,Tim McGraw,64,54,5
+55,Pop A Top,Alan Jackson,57,55,7
+56,Angels,Robbie Williams,62,56,6
+57,All Things Considered,Yankee Grey,55,55,15
+58,Will 2K,Will Smith Featuring K-Ci,43,25,9
+59,All The Small Things,Blink-182,69,59,4
+60,I Love You,Martina McBride,49,24,18
+61,Higher,Creed,60,52,16
+62,Bling Bling,"B.G. Featuring Baby, Turk, Mannie Fresh, Juvenile & Lil' Wayne",58,36,15
+63,Caught Out There,Kelis,67,63,4
+64,Deep Inside,Mary J. Blige,73,64,7
+65,Something Like That,Tim McGraw,66,28,20
+66,Gotta Man,Eve,59,26,15
+67,Rhythm Divine,Enrique Iglesias,79,67,4
+68,Home To You,John Michael Montgomery,53,45,13
+69,Sexual (Li Da Di),Amber,76,69,20
+70,Larger Than Life,Backstreet Boys,65,25,15
+71,None Of Ur Friends Business,Ginuwine,84,71,3
+72,Bug A Boo,Destiny's Child,71,33,14
+73,The Chemicals Between Us,Bush,75,67,13
+74,She Thinks My Tractor's Sexy,Kenny Chesney,81,74,6
+75,Left & Right,D'Angelo Featuring Method Man And Redman,77,75,3
+76,There She Goes,Sixpence None The Richer,80,32,16
+77,We Can't Be Friends,Deborah Cox With R.L.,63,8,16
+78,N 2 Gether Now,Limp Bizkit Featuring Method Man,85,78,4
+79,The Great Beyond,R.E.M.,-1,79,1
+80,Smile,Lonestar,89,80,2
+81,Come On Over, Shania Twain,70,58,10
+82,The Rockafeller Skank,Fatboy Slim,83,77,23
+83,Say My Name,Destiny's Child,-1,83,1
+84,Tha Block Is Hot,Lil' Wayne Featuring Juvenile & B.G.,92,84,4
+85,Music Of My Heart,'N Sync & Gloria Estefan,86,2,17
+86,No More Rain (In This Cloud),Angie Stone,-1,86,1
+87,Guerrilla Radio,Rage Against The Machine,91,69,9
+88,Notorious B.I.G.,The Notorious B.I.G. Featuring Puff Daddy & Lil' Kim,82,82,3
+89,Auld Lang Syne,Kenny G,-1,89,1
+90,Give You What You Want (Fa Sure),Chico DeBarge,78,71,10
+91,Steam,Ty Herndon,88,83,11
+92,The Greatest Romance Ever Sold,Prince,87,63,10
+93,I Want It All,Warren G Featuring Mack 10,72,23,15
+94,"Live, Laugh, Love",Clay Walker,94,94,4
+95,Re-arranged,Limp Bizkit,90,90,4
+96,One Night Stand,J-Shin Featuring LaTocha Scott,-1,96,1
+97,Deck The Halls,SHeDAISY,-1,97,1
+98,Still D.R.E.,Dr. Dre Featuring Snoop Dogg,98,93,4
+99,L.A. Song,Beth Hart,99,98,5
+100,NAStradamus,Nas,100,92,5

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I'll Be Missing You,Puff Daddy & Faith Evans Featuring 112,1,1,10
+2,Mo Money Mo Problems,The Notorious B.I.G. Featuring Puff Daddy & Mase,2,2,3
+3,Quit Playing Games (With My Heart),Backstreet Boys,3,3,8
+4,Semi-Charmed Life,Third Eye Blind,4,4,7
+5,Bitch,Meredith Brooks,5,2,17
+6,2 Become 1,Spice Girls,-1,6,1
+7,Not Tonight,"Lil' Kim Feat. Da Brat, Left Eye, Missy Elliott & Angie Mar",6,6,6
+8,Do You Know (What It Takes),Robyn,7,7,12
+9,Never Make A Promise,Dru Hill,10,9,2
+10,How Do I Live,LeAnn Rimes,9,9,9
+11,Sunny Came Home,Shawn Colvin,8,7,6
+12,"C U When U Get There (From ""Nothing To Lose"")",Coolio Featuring 40 Thevz,13,12,7
+13,Return Of The Mack,Mark Morrison,11,2,25
+14,G.H.E.T.T.O.U.T.,Changing Faces,16,8,15
+15,Gotham City,R. Kelly,12,9,5
+16,All For You,Sister Hazel,18,16,6
+17,"Look Into My Eyes (From ""Batman & Robin"")",Bone Thugs-N-Harmony,14,4,9
+18,Say You'll Be There,Spice Girls,17,3,13
+19,Foolish Games/You Were Meant For Me,Jewel,20,2,38
+20,The Freshmen,The Verve Pipe,21,5,26
+21,Invisible Man,98 Degrees,30,21,6
+22,Someone,SWV (Featuring Puff Daddy),22,22,4
+23,It's Your Love,Tim McGraw With Faith Hill,15,7,14
+24,Up Jumps Da Boogie,Magoo And Timbaland,32,24,5
+25,MMMBop,Hanson,19,1,16
+26,"For You I Will (From ""Space Jam"")",Monica,25,4,23
+27,Hard To Say I'm Sorry,Az Yet Featuring Peter Cetera,24,8,26
+28,I Can Love You,Mary J. Blige,28,28,4
+29,Barely Breathing,Duncan Sheik,29,16,38
+30,Whatever,En Vogue,23,16,5
+31,More Than This,"10,000 Maniacs",35,31,6
+32,Smile,Scarface Featuring 2Pac & Johnny P,26,12,9
+33,ESPN Presents The Jock Jam,Various Artists,31,31,15
+34,Take It To The Streets,Rampage Featuring Billy Lawrence,38,34,5
+35,Coco Jamboo,Mr. President,40,35,3
+36,I Belong To You (Every Time I See Your Face),Rome,27,6,23
+37,"Go The Distance (From ""Hercules"")",Michael Bolton,33,24,11
+38,Cupid,112,34,13,25
+39,I Want You,Savage Garden,37,4,25
+40,Do You Like This,Rome,50,40,3
+41,To The Moon And Back,Savage Garden,44,41,4
+42,Where Have All The Cowboys Gone?,Paula Cole,43,8,19
+43,You Bring Me Up,K-Ci & JoJo,42,26,10
+44,Call Me,Le Click,46,35,24
+45,Butterfly Kisses,Raybon Bros.,39,22,10
+46,Alone,Bee Gees,41,28,11
+47,I Say A Little Prayer,Diana King,54,47,5
+48,Da' Dip,Freak Nasty,45,15,33
+49,When I Die,No Mercy,51,49,11
+50,"How Do I Live (From ""Con Air"")",Trisha Yearwood,36,23,9
+51,"All I Want (From ""GOOD Burger"")",702,-1,51,1
+52,6 Underground,Sneaker Pimps,55,52,16
+53,I Wanna Be There,Blessid Union Of Souls,52,39,15
+54,To Make You Feel My Love,Billy Joel,-1,54,1
+55,"Big Bad Mamma (From ""Def Jam's How To Be A Player"")",Foxy Brown Featuring Dru Hill,-1,55,1
+56,When You Talk About Love,Patti LaBelle,59,56,5
+57,Smokin' Me Out,Warren G Featuring Ronald Isley,49,35,9
+58,Fix,BLACKstreet With Special Guests Ol' Dirty Bastard & Slash,58,58,3
+59,Rhythm Of Love,DJ Company,53,53,10
+60,Things Just Ain't The Same,Deborah Cox,62,60,7
+61,Hypnotize,The Notorious B.I.G.,57,1,17
+62,Can't Let Go,Laurnea,63,62,8
+63,Four Leaf Clover,Abra Moore,66,63,5
+64,Can U Feel It,3rd Party,60,43,16
+65,That's Right,DJ Taz Featuring Raheem The Dream,70,51,20
+66,"Don't Wanna Be A Player (From ""Booty Call"")",Joe,67,21,16
+67,5 Miles To Empty,Brownstone,71,39,14
+68,It's No Good,Depeche Mode,69,38,14
+69,Last Night On Earth,U2,64,57,5
+70,[Freak] And U Know It,Adina Howard,73,70,4
+71,Sweet Sexy Thing,Nu Flavor Featuring Roger,72,62,18
+72,Thinking Of You,Tony Toni Tone,68,22,15
+73,What's Stopping You,The O'Jays,80,73,7
+74,A Little Bit Of Ecstasy,Jocelyn Enriquez,78,55,20
+75,Down For Yours,Nastyboy Klick Featuring Roger Troutman,87,75,2
+76,"Never, Never Gonna Give You Up",Lisa Stansfield,90,76,2
+77,Until I Find You Again,Richard Marx,76,42,18
+78,We Trying To Stay Alive,Wyclef Jean Featuring Refugee Allstars,79,45,10
+79,Full Of Smoke,Christion,77,53,17
+80,Listen,Collective Soul,81,72,8
+81,Can't Get You Out Of My Mind,Lil Suzy,84,81,3
+82,"Can We (From ""Booty Call"")",SWV,75,75,3
+83,Far From Yours,O.C. Featuring Yvette Michele,-1,83,1
+84,Come With Me,Keith Sweat (Featuring Ronald Isley),86,68,10
+85,My Baby Daddy,B-Rock & The Bizz,85,10,18
+86,"Drink, Swear, Steal & Lie",Michael Peterson,92,86,2
+87,Gimme Some Love,Gina G,74,46,10
+88,Summertime Summertime,Corina,93,86,7
+89,Tide Is High,Angelina,-1,89,1
+90,"If I Could Change (From ""I'm Bout It"")","Master P Featuring Steady Mobb'n, Mia X, Mo B. Dick & O'Dell",88,60,14
+91,"No One But You (From ""Baps"")",Veronica (Featuring Craig Mack),89,66,12
+92,Relax & Party,Ivory,-1,92,1
+93,Staring At The Sun,U2,94,26,17
+94,Just Another Case,CRU Featuring Slick Rick,95,68,7
+95,"Dancehall Queen (From ""Dancehall Queen"")",Beenie Man Featuring Chevelle Franklyn,-1,95,1
+96,Hip Hop Drunkies,Tha Alkaholiks Featuring Ol' Dirty Bastard,91,66,8
+97,Everything You Want,Ray J,83,83,6
+98,Come On,Billy Lawrence Featuring MC Lyte,96,44,19
+99,If U Stay Ready,Suga Free,99,79,13
+100,Serenade,Shades,100,88,7

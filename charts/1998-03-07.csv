@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,My Heart Will Go On,Celine Dion,1,1,2
+2,Gettin' Jiggy Wit It,Will Smith,3,2,2
+3,Nice & Slow,Usher,2,1,7
+4,Together Again,Janet,4,1,12
+5,Truly Madly Deeply,Savage Garden,5,1,14
+6,"No, No, No",Destiny's Child,9,6,15
+7,Swing My Way,K.P. & Envyi,12,7,11
+8,I Don't Ever Want To See You Again,Uncle Sam,7,6,18
+9,What You Want,Mase Featuring Total,13,9,6
+10,How Do I Live,LeAnn Rimes,6,2,38
+11,Too Much,Spice Girls,11,9,4
+12,Gone Till November,Wyclef Jean,14,12,5
+13,A Song For Mama,Boyz II Men,8,7,13
+14,Been Around The World,Puff Daddy & The Family (Feat. The Notorious B.I.G. & Mase),10,2,14
+15,Deja Vu [Uptown Baby],Lord Tariq & Peter Gunz,15,15,13
+16,How's It Going To Be,Third Eye Blind,16,9,14
+17,Are You Jimmy Ray?,Jimmy Ray,20,17,3
+18,I Don't Want To Wait,Paula Cole,17,11,19
+19,The Mummers' Dance,Loreena McKennitt,-1,19,1
+20,You Make Me Wanna...,Usher,19,2,29
+21,Kiss The Rain,Billie Myers,18,15,18
+22,Too Close,Next,24,22,4
+23,Body Bumpin' Yippie-Yi-Yo,Public Announcement,29,23,3
+24,Candle In The Wind 1997/Something About The Way You Look Tonight,Elton John,23,1,22
+25,I Want You Back,'N Sync,-1,25,1
+26,You're Still The One,Shania Twain,27,26,4
+27,Father,LL Cool J,21,18,6
+28,Make Em' Say Uhh!,"Master P Feat. Fiend, Silkk The Shocker, Mia X & Mystikal",30,28,6
+29,Pink,Aerosmith,36,29,2
+30,Love You Down,INOJ/LATHUN,26,25,5
+31,Show Me Love,Robyn,25,7,17
+32,Dangerous,Busta Rhymes,22,9,9
+33,If You Think I'm Jiggy,The Lox,31,30,5
+34,All My Love,Queen Pen Featuring Eric Williams,32,28,5
+35,Tubthumping,Chumbawamba,28,6,26
+36,I Know Where It's At,All Saints,42,36,6
+37,I Do,Lisa Loeb,34,17,19
+38,Semi-Charmed Life,Third Eye Blind,40,4,36
+39,The Party Continues,JD Featuring Da Brat,-1,39,1
+40,We're Not Making Love No More,Dru Hill,33,13,13
+41,Heaven,Nu Flavor,38,27,22
+42,Quit Playing Games (With My Heart),Backstreet Boys,44,2,37
+43,Feel So Good,Mase,41,5,19
+44,Sweet Surrender,Sarah McLachlan,39,28,4
+45,My Body,LSG,37,4,19
+46,What Would Happen,Meredith Brooks,46,46,2
+47,Am I Dreaming,Ol Skool [Featuring Keith Sweat & Xscape],35,31,5
+48,All For You,Sister Hazel,45,11,35
+49,They Don't Know,Jon B,43,29,6
+50,Romeo And Juliet,Sylk-E. Fyne Featuring Chill,55,50,4
+51,I Will Come To You,Hanson,47,9,15
+52,Get At Me Dog,DMX Featuring Sheek Of The Lox,52,52,2
+53,All I Do,Somethin' For The People,53,53,3
+54,Light In Your Eyes,Blessid Union Of Souls,48,48,4
+55,Given To Fly,Pearl Jam,50,21,7
+56,32 Flavors,Alana Davis,54,37,14
+57,Spice Up Your Life,Spice Girls,51,18,18
+58,Burn,Militia,56,52,9
+59,What If I Said,Anita Cochran (Duet With Steve Wariner),59,59,10
+60,Strawberries,Smooth,66,60,3
+61,Breaking All The Rules,She Moves,57,32,18
+62,Going Back To Cali,The Notorious B.I.G.,58,26,14
+63,At The Beginning,Richard Marx & Donna Lewis,60,45,18
+64,Just Clownin',WC From Westside Connection ,62,56,13
+65,Bring It On,Keith Washington,-1,65,1
+66,Say You'll Stay,KAI,63,59,12
+67,If I Never Stop Loving You,David Kersh,69,67,4
+68,Ain't That Just The Way,Lutricia McNeal,72,63,10
+69,The Memory Remains,Metallica,64,28,15
+70,Life In Mono,Mono,71,70,4
+71,Then What?,Clay Walker,80,71,5
+72,Send My Love/Send One Your Love,Born Jamericans ,76,72,5
+73,Off The Hook,Jody Watley,77,73,3
+74,Brian Wilson,Barenaked Ladies,75,68,16
+75,Lollipop (Candyman),Aqua,73,23,13
+76,Nothin' Move But The Money,Mic Geronimo Featuring DMX & Black Rob,70,70,3
+77,I'm Not A Player,Big Punisher,74,57,19
+78,Don't Be Stupid (You Know I Love You),Shania Twain,68,40,14
+79,What If,Reba McEntire,79,50,13
+80,In A Dream,Rockell,99,80,7
+81,Tic Tic Tac,Fruit De La Passion,98,81,5
+82,Roxanne `97 - Puff Daddy Remix,Sting & The Police,82,59,11
+83,I Can Love You Better,Dixie Chicks,81,77,6
+84,Let's Ride,Montell Jordan Feat. Master P & Silkk The Shocker,-1,84,1
+85,You're Not Alone,Olive,84,56,20
+86,"4, 3, 2, 1","LL Cool J Featuring Method Man, Redman, DMX, Canibus And Master P",83,75,11
+87,"So Long (Well, Well, Well)",Phajja,91,87,3
+88,Tuck Me In,Kimberly Scott,87,58,13
+89,Jealousy,Kim Sanders,-1,89,5
+90,The Note,Daryle Singletary,90,90,2
+91,Tha Hop,Kinsu,93,88,7
+92,The Day That She Left Tulsa (In A Chevy),Wade Hayes,86,86,4
+93,Something That We Do,Clint Black,89,76,9
+94,Saint Of Me,The Rolling Stones,-1,94,1
+95,"Young, Sad And Blue",Lysette,88,75,9
+96,The City Is Mine,Jay-Z Featuring BLACKstreet,94,80,6
+97,I'm Afraid Of Americans,David Bowie,92,66,16
+98,So Good,Davina,97,60,19
+99,Tubthumping,Chucklebutt,96,87,6
+100,Love Of My Life,Sammy Kershaw,85,85,5

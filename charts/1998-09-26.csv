@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Don't Want To Miss A Thing,Aerosmith,1,1,4
+2,The First Night,Monica,2,2,7
+3,Crush,Jennifer Paige,3,3,13
+4,My Way,Usher,4,2,15
+5,The Boy Is Mine,Brandy & Monica,5,1,18
+6,Time After Time,Inoj,7,6,6
+7,I'll Be,Edwin McCain,-1,7,1
+8,Daydreamin',Tatyana Ali,6,6,8
+9,Too Close,Next,11,1,33
+10,You're Still The One,Shania Twain,9,2,33
+11,When The Lights Go Out,Five,10,10,17
+12,Lookin' At Me,Mase Featuring Puff Daddy,8,8,10
+13,This Kiss,Faith Hill,16,13,28
+14,I Can Do That,Montell Jordan,15,14,7
+15,Never Ever,All Saints,13,4,10
+16,Thinkin' Bout It,Gerald Levert,12,12,4
+17,I Still Love You,Next,17,17,8
+18,Adia,Sarah McLachlan,14,3,18
+19,Still A G Thang,Snoop Dogg,19,19,4
+20,Cruel Summer,Ace Of Base,18,10,11
+21,Truly Madly Deeply,Savage Garden,22,1,43
+22,Lately,Divine,30,22,3
+23,Touch It,Monifah,24,23,8
+24,Make It Hot,"Nicole Featuring Missy ""Misdemeanor"" Elliott & Mocha",21,5,14
+25,Friend Of Mine,Kelly Price,20,12,11
+26,Say It,Voices Of Theory,23,10,26
+27,Splackavellie,Pressha,27,27,4
+28,All My Life,K-Ci & JoJo,25,1,27
+29,Ghetto Supastar (That Is What You Are),Pras Michel Feat. Ol' Dirty Bastard & Introducing Mya,26,15,14
+30,Intergalactic,Beastie Boys,31,28,9
+31,So Into You,Tamia,32,30,11
+32,Come With Me,Puff Daddy Featuring Jimmy Page,29,4,14
+33,Still Not A Player,Big Punisher Featuring Joe,28,24,16
+34,Goodbye To My Homies,"Master P Featuring Silkk The Shocker, Sons Of Funk And Mo B. Dick",33,27,7
+35,Movin' On,Mya Featuring Silkk The Shocker,37,34,8
+36,Nobody Else,Tyrese,36,36,6
+37,I Don't Want To Wait,Paula Cole,35,11,48
+38,How's It Going To Be,Third Eye Blind,38,9,43
+39,To The Moon And Back,Savage Garden,34,24,32
+40,Ray Of Light,Madonna,41,5,12
+41,Together Again,Janet,43,1,41
+42,Shimmer,Fuel ,47,42,3
+43,How Do I Live,LeAnn Rimes,42,2,67
+44,Gettin' Jiggy Wit It,Will Smith,39,1,31
+45,Horse & Carriage,Cam'Ron Featuring Mase,45,41,11
+46,Sex And Candy,Marcy Playground,46,8,25
+47,SuperThug (What What),Noreaga,48,47,3
+48,Looking Through Your Eyes,LeAnn Rimes,44,18,24
+49,Gotta Be,Jagged Edge,40,23,7
+50,Ooh La La,Rod Stewart,50,39,13
+51,Nobody Does It Better,Nate Dogg Featuring Warren G,49,18,12
+52,Money Ain't A Thang,JD Featuring Jay-Z,53,52,13
+53,I Had No Right, P.M. Dawn,-1,53,1
+54,Landslide,Fleetwood Mac,58,51,11
+55,Cleopatra's Theme,Cleopatra,52,26,13
+56,Woof Woof,69 Boyz,56,31,11
+57,Heaven's What I Feel,Gloria Estefan,55,27,19
+58,Stop,Spice Girls,54,16,15
+59,Touch Me,Solo,61,59,3
+60,Definition,Mos Def & Kweli Are Black Star,64,60,6
+61,26 Cents,The Wilkinsons,57,55,9
+62,What U See Is What U Get,Xzibit,59,50,9
+63,Can't We Try,Rockell [Duet With Collage],63,59,13
+64,Yesterday,Debelah Morgan,79,64,2
+65,You Only Have To Say You Love Me,Hannah Jones,78,65,16
+66,If You Could Read My Mind,"Stars On 54: Ultra Nate, Amber, Jocelyn Enriquez",69,66,5
+67,I Get Lonely,Janet Featuring BLACKstreet,62,3,19
+68,Delicious,Pure Sugar,66,66,8
+69,Paper,Queen Latifah Featuring Apache,60,50,7
+70,Dr. Greenthumb,Cypress Hill,72,70,2
+71,Find A Way,A Tribe Called Quest,71,71,3
+72,I Should Cheat On You,J'Son,77,72,4
+73,Whatcha Gone Do?,Link,68,23,17
+74,How's It Goin' Down,DMX Featuring Faith Evans,-1,74,1
+75,It's Alright,Memphis Bleek (& Jay-Z),75,61,8
+76,Shorty (You Keep Playin' With My Mind),Imajin Featuring Keith Murray,67,25,18
+77,You Won't Forget Me,La Bouche,85,48,17
+78,Hey Now Now,Swirl 360,65,47,10
+79,What I Didn't Know,Athenaeum,84,58,9
+80,Remember When,Color Me Badd,83,48,10
+81,Here We Go,Funkmaster Flex Presents Khadejia Featuring Product,74,72,6
+82,Ava Adore,The Smashing Pumpkins,76,42,13
+83,Wide Open Spaces,Dixie Chicks,81,81,4
+84,Destiny,Myron,70,47,11
+85,I Wasn't With It,Jesse Powell,86,85,6
+86,'98 Thug Paradise,"Tragedy, Capone, Infinite",93,86,2
+87,Invasion Of The Flat Booty B*****s,Too $hort,-1,87,1
+88,Black Ice (Sky High),Goodie Mob Featuring Outkast,87,50,14
+89,How Do I Say I'm Sorry,Tami Davis,80,63,13
+90,One Heart At A Time,Various Artists,82,56,18
+91,Stepping Stone,Lari White,88,73,12
+92,The Rockafeller Skank,Fatboy Slim,89,84,8
+93,Here We Go Again,Aretha Franklin,94,76,11
+94,Wishlist,Pearl Jam,97,47,19
+95,Cover You In Kisses,John Michael Montgomery,98,91,9
+96,Cheated (To All The Girls),Wyclef Jean Featuring Queen Pen & The Product ,91,61,8
+97,If You Ever Have Forever In Mind,Vince Gill,92,60,13
+98,Spark,Tori Amos,96,49,14
+99,"The Cup Of Life (The Official Song Of The World Cup, France '98)",Ricky Martin,99,60,14
+100,2 Way Street,Missjones,95,62,13

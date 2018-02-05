@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Unpretty,TLC,1,1,15
+2,She's All I Ever Had,Ricky Martin,2,2,9
+3,Smooth,Santana Featuring Rob Thomas,7,3,10
+4,Mambo No. 5 (A Little Bit Of...),Lou Bega,6,4,6
+5,Bailamos,Enrique Iglesias,3,1,13
+6,Genie In A Bottle,Christina Aguilera,4,1,14
+7,Someday,Sugar Ray,9,7,14
+8,All Star,Smash Mouth,8,4,20
+9,Scar Tissue,Red Hot Chili Peppers,12,9,18
+10,I Need To Know,Marc Anthony,56,10,4
+11,My Love Is Your Love,Whitney Houston,16,11,5
+12,Where My Girls At?,702,10,4,23
+13,I Do (Cherish You),98 Degrees,13,13,9
+14,Summer Girls,LFO,5,3,12
+15,We Can't Be Friends,Deborah Cox With R.L.,62,15,4
+16,Heartbreaker,Mariah Carey Featuring Jay-Z,23,16,5
+17,I Want It That Way,Backstreet Boys,14,6,24
+18,Black Balloon,Goo Goo Dolls,18,18,13
+19,Lost In You,Garth Brooks as Chris Gaines,11,5,4
+20,She's So High,Tal Bachman,15,14,16
+21,Steal My Sunshine,Len,21,21,8
+22,Spend My Life With You,Eric Benet Featuring Tamia,22,21,14
+23,"Bills, Bills, Bills",Destiny's Child,17,1,16
+24,So Anxious,Ginuwine,20,16,12
+25,Back That Thang Up,Juvenile Featuring Mannie Fresh & Lil' Wayne,25,25,13
+26,If You Had My Love,Jennifer Lopez,24,1,21
+27,Back At One,Brian McKnight,29,27,6
+28,Something Like That,Tim McGraw,28,28,8
+29,Last Kiss,Pearl Jam,19,2,19
+30,Never Gonna Let You Go,Faith Evans,26,17,13
+31,Vivrant Thing,Q-Tip,32,31,12
+32,Out Of My Head,Fastball,27,20,14
+33,I Want It All,Warren G Featuring Mack 10,50,33,3
+34,(You Drive Me) Crazy,Britney Spears,48,34,3
+35,I Love You,Martina McBride,41,35,6
+36,Tell Me It's Real,K-Ci & JoJo,30,2,19
+37,Get Gone,Ideal,40,37,7
+38,There She Goes,Sixpence None The Richer,45,38,4
+39,Ready To Run,Dixie Chicks,44,39,11
+40,Amazed,Lonestar,35,24,18
+41,Music Of My Heart,'N Sync & Gloria Estefan,52,41,5
+42,You Had Me From Hello,Kenny Chesney,34,34,13
+43,Jigga My N****,JAY-Z,38,28,15
+44,Man! I Feel Like A Woman!,Shania Twain,53,34,21
+45,Little Man,Alan Jackson,39,39,13
+46,What Ya Want,EVE & Nokio,31,29,14
+47,Larger Than Life,Backstreet Boys,60,47,3
+48,Better Days (And The Bottom Drops Out),Citizen King,43,25,19
+49,I Will Remember You (Live),Sarah McLachlan,36,14,40
+50,It's All About You (Not About Me),Tracie Spencer,33,18,8
+51,Lesson In Leavin',Jo Dee Messina,49,28,18
+52,Bling Bling,"B.G. Featuring Baby, Turk, Mannie Fresh, Juvenile & Lil' Wayne",66,52,3
+53,Hey Leonardo (She Likes Me For Me),Blessid Union Of Souls,42,33,17
+54,Angels Would Fall,Melissa Etheridge,69,54,3
+55,If I Could Turn Back The Hands Of Time,R. Kelly,55,55,6
+56,Gotta Man,Eve,76,56,3
+57,The Secret Of Life,Faith Hill,47,46,15
+58,All That I Can Say,Mary J. Blige,51,44,11
+59,Girls' Best Friend,JAY-Z,63,57,6
+60,What Do You Say To That,George Strait,64,60,5
+61,What's My Age Again?,Blink-182,67,59,12
+62,You'll Be In My Heart,Phil Collins,57,21,14
+63,Higher,Creed,73,63,4
+64,Jamboree,Naughty By Nature Featuring Zhane,46,10,14
+65,I'll Still Love You More,Trisha Yearwood,65,65,9
+66,I Could Not Ask For More,Edwin McCain,58,37,15
+67,Bug A Boo,Destiny's Child,87,67,2
+68,Meeting In My Bedroom,Silk,68,62,7
+69,U Know What's Up,Donell Jones,88,69,2
+70,Wanna Be A Baller,"Lil' Troy Featuring Yungsta, Fat Pat, Lil' Will, Hawk, Big T",70,70,8
+71,Candy,Mandy Moore,71,71,4
+72,I'm Already Taken,Steve Wariner,75,72,4
+73,Lonely And Gone,Montgomery Gentry,80,73,10
+74,Satisfy You,Puff Daddy Featuring R. Kelly,74,74,2
+75,American Woman,Lenny Kravitz,83,69,12
+76,Happily Ever After,Case,61,15,18
+77,She's In Love,Mark Wills,77,77,4
+78,(Now You See Me) Now You Don't,Lee Ann Womack,72,72,9
+79,Beauty,Dru Hill,79,79,2
+80,All N My Grill,"Missy ""Misdemeanor"" Elliott Featuring Big Boi & Nicole",86,64,11
+81,Home To You,John Michael Montgomery,-1,81,1
+82,I'll Go Crazy,Andy Griggs,-1,82,1
+83,Smile,Vitamin C Featuring Lady Saw,59,18,12
+84,The Chemicals Between Us,Bush,-1,84,1
+85,God Must Have Spent A Little More Time On You,Alabama Featuring 'N Sync,78,29,19
+86,Sometimes,Britney Spears,81,21,20
+87,Beautiful Stranger,Madonna,84,19,17
+88,Sunshine,Coko,85,70,11
+89,All Things Considered,Yankee Grey,97,89,3
+90,Lightning Does The Work,Chad Brock,93,90,6
+91,15 Minutes,Marc Nelson,-1,91,1
+92,I Love You Came Too Late,Joey McIntyre,82,54,5
+93,I'll Be Your Everything,Youngstown,92,71,8
+94,Everything Is Everything,Lauryn Hill,90,35,16
+95,You've Got A Way,Shania Twain,91,49,12
+96,Everyone Falls In Love,Tanto Metro & Devonte,96,88,14
+97,"The Cup Of Life (The Official Song Of The World Cup, France '98)",Ricky Martin,94,45,33
+98,Nookie,Limp Bizkit,95,80,10
+99,Never Been Kissed,Sherrie Austin,100,89,10
+100,Southern Gul,Erykah Badu Featuring Rahzel,98,76,6

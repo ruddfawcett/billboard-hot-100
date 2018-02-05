@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Livin' La Vida Loca,Ricky Martin,1,1,5
+2,No Scrubs,TLC,2,1,13
+3,Kiss Me,Sixpence None The Richer,3,2,15
+4,Every Morning,Sugar Ray,4,3,19
+5,Believe,Cher,5,1,22
+6,What's It Gonna Be?!,Busta Rhymes Featuring Janet,6,3,10
+7,Heartbreak Hotel,Whitney Houston Feat. Faith Evans & Kelly Price,7,2,21
+8,Who Dat,JT Money Featuring Sole,10,8,4
+9,Fortunate,Maxwell,38,9,6
+10,Give It To You,Jordan Knight,13,10,7
+11,Please Remember Me,Tim McGraw,11,10,7
+12,Slide,Goo Goo Dolls,8,8,24
+13,What It's Like,Everlast,14,13,22
+14,Fly Away,Lenny Kravitz,12,12,24
+15,Where My Girls At?,702,69,15,3
+16,Sweet Lady,Tyrese,16,12,17
+17,If You (Lovin' Me),Silk,17,13,10
+18,Angel Of Mine,Monica,9,1,24
+19,Anywhere,112 Featuring Lil'z,15,15,9
+20,The Hardest Thing,98 Degrees,20,20,8
+21,That Don't Impress Me Much,Shania Twain,25,21,15
+22,808,Blaque,35,22,5
+23,I Want It That Way,Backstreet Boys,23,23,4
+24,...Baby One More Time,Britney Spears,18,1,26
+25,Angel,Sarah McLachlan,19,4,24
+26,Ex-Factor,Lauryn Hill,30,21,19
+27,All I Have To Give,Backstreet Boys,22,5,16
+28,I Still Believe,Mariah Carey,21,4,15
+29,Back 2 Good,matchbox 20,26,24,21
+30,We Like To Party!,Vengaboys,27,26,14
+31,Almost Doesn't Count,Brandy,36,31,4
+32,C'est La Vie,B*Witched,24,9,13
+33,You Won't Ever Be Lonely,Andy Griggs,37,33,8
+34,Wish You Were Here,Mark Wills,34,34,11
+35,Save Tonight,Eagle-Eye Cherry,29,5,24
+36,You,Jesse Powell,31,10,13
+37,Praise You,Fatboy Slim,41,37,10
+38,Can I Get A...,Jay-Z Featuring Amil (Of Major Coinz) & Ja,39,19,33
+39,How Forever Feels,Kenny Chesney,32,27,15
+40,Anyone Else,Collin Raye,53,40,10
+41,Two Teardrops,Steve Wariner,50,41,7
+42,Sitting Home,Total,42,42,6
+43,All Night Long,Faith Evans Featuring Puff Daddy,28,9,15
+44,My First Night With You,Mya,46,28,9
+45,Write This Down,George Strait,55,45,4
+46,Gone Crazy,Alan Jackson,43,43,10
+47,My Favorite Girl,Dave Hollister,58,47,6
+48,Man! I Feel Like A Woman!,Shania Twain,54,48,5
+49,Hands Of A Working Man,Ty Herndon,51,49,9
+50,It Ain't My Fault 1 & 2,Silkk The Shocker Featuring Mystikal,47,18,11
+51,Anything But Down,Sheryl Crow,57,51,6
+52,What's So Different,Ginuwine,56,49,13
+53,Drive Me Wild,Sawyer Brown,44,44,12
+54,I'll Think Of A Reason Later,Lee Ann Womack,45,38,12
+55,Stay The Same,Joey McIntyre,33,10,12
+56,Special,Garbage,61,56,8
+57,What'd You Come Here For?,Trina & Tamara,74,57,7
+58,When I Close My Eyes,Shanice,40,12,8
+59,Down So Long,Jewel,59,59,5
+60,Life,K-Ci & JoJo,60,60,9
+61,One More Try,Divine,52,29,7
+62,Blue Monday,Orgy,63,56,12
+63,With You,Lila McCann,68,63,7
+64,Hillbilly Shoes,Montgomery Gentry,64,64,8
+65,Hate Me Now,NAS Featuring Puff Daddy,62,62,4
+66,Ordinary Life,Chad Brock,48,39,13
+67,I Drive Myself Crazy,'N Sync,67,67,4
+68,My Own Worst Enemy,Lit,78,68,4
+69,Everytime I Cry,Terri Clark,70,69,7
+70,One,Creed,75,70,12
+71,It's Not Right But It's Okay,Whitney Houston,87,71,2
+72,Georgy Porgy,Eric Benet Featuring Faith Evans,66,55,9
+73,Holla Holla,Ja Rule,86,73,7
+74,Why Don't You Get A Job?,The Offspring,76,74,6
+75,Whatever You Say,Martina McBride,83,75,3
+76,Nann,Trick Daddy Featuring Trina,80,62,10
+77,Get Involved,Raphael Saadiq & Q-Tip,71,67,7
+78,You Were Mine,Dixie Chicks,73,34,17
+79,Heavy,Collective Soul,77,73,11
+80,No Pigeons,Sporty Thievz Featuring Mr. Woods,-1,80,1
+81,If You Had My Love,Jennifer Lopez,-1,81,1
+82,Girlfriend/Boyfriend,BLACKstreet With Janet,65,47,10
+83,Tonight The Heartache's On Me,Dixie Chicks,-1,83,1
+84,Jigga What...,Jay-Z Featuring Big Jaz,84,84,2
+85,Chante's Got A Man,Chante Moore,-1,85,1
+86,Maybe Not Tonight,Sammy Kershaw & Lorrie Morgan,-1,86,1
+87,I'm Leaving,Aaron Tippin,89,87,3
+88,Crush,Dave Matthews Band,92,75,14
+89,I'm Not Ready,Keith Sweat,88,16,10
+90,She's A Bitch,"Missy ""Misdemeanor"" Elliott",-1,90,1
+91,Written In The Stars,Elton John & LeAnn Rimes,90,29,10
+92,The Animal Song,Savage Garden,81,19,10
+93,Busy Man,Billy Ray Cyrus,91,46,17
+94,Maria,Blondie,94,82,6
+95,Little Good-Byes,SHeDAISY,98,95,2
+96,A Night To Remember,Joe Diffie,-1,96,1
+97,Single White Female,Chely Wright,-1,97,1
+98,Players Holiday,T.W.D.Y. Featuring Too Short & Mac Mall,100,98,2
+99,Harmless,Mulberry Lane,99,99,2
+100,You Got Me,The Roots Featuring Erykah Badu,85,39,14

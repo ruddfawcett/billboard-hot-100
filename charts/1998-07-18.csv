@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Boy Is Mine,Brandy & Monica,1,1,8
+2,You're Still The One,Shania Twain,2,2,23
+3,My Way,Usher,4,3,5
+4,Too Close,Next,3,1,23
+5,Adia,Sarah McLachlan,6,5,8
+6,Come With Me,Puff Daddy Featuring Jimmy Page,7,6,4
+7,Ray Of Light,Madonna,5,5,2
+8,Make It Hot,"Nicole Featuring Missy ""Misdemeanor"" Elliott & Mocha",11,8,4
+9,My All,Mariah Carey,8,1,11
+10,Everybody [Backstreet's Back],Backstreet Boys,10,4,14
+11,They Don't Know,Jon B,9,7,25
+12,Say It,Voices Of Theory,13,12,16
+13,All My Life,K-Ci & JoJo,12,1,17
+14,Truly Madly Deeply,Savage Garden,14,1,33
+15,When The Lights Go Out,Five,19,15,7
+16,Ghetto Supastar (That Is What You Are),Pras Michel Feat. Ol' Dirty Bastard & Introducing Mya,17,16,4
+17,Sex And Candy,Marcy Playground,15,8,15
+18,Stop,Spice Girls,21,16,5
+19,Looking Through Your Eyes,LeAnn Rimes,20,18,14
+20,I Got The Hook Up!,Master P Featuring Sons Of Funk,18,16,15
+21,I Get Lonely,Janet Featuring BLACKstreet,16,3,9
+22,Friend Of Mine,Kelly Price,-1,22,1
+23,Whatcha Gone Do?,Link,23,23,7
+24,Nobody Does It Better,Nate Dogg Featuring Warren G,54,24,2
+25,The Arms Of The One Who Loves You,Xscape,22,7,12
+26,Still Not A Player,Big Punisher Featuring Joe,26,26,6
+27,Shorty (You Keep Playin' With My Mind),Imajin Featuring Keith Murray,25,25,8
+28,This Kiss,Faith Hill,31,26,18
+29,How Do I Live,LeAnn Rimes,29,2,57
+30,Gettin' Jiggy Wit It,Will Smith,24,1,21
+31,Turn It Up [Remix]/Fire It Up,Busta Rhymes,30,10,11
+32,Cleopatra's Theme,Cleopatra,51,32,3
+33,Crush,Jennifer Paige,48,33,3
+34,Let's Ride,Montell Jordan Feat. Master P & Silkk The Shocker,28,2,20
+35,How's It Going To Be,Third Eye Blind,27,9,33
+36,Make Em' Say Uhh!,"Master P Feat. Fiend, Silkk The Shocker, Mia X & Mystikal",37,16,25
+37,Cruel Summer,Ace Of Base,-1,37,1
+38,I Want You Back,'N Sync,32,13,20
+39,Together Again,Janet,35,1,31
+40,"No, No, No",Destiny's Child,33,3,34
+41,To The Moon And Back,Savage Garden,46,37,22
+42,I Don't Want To Wait,Paula Cole,36,11,38
+43,Heaven's What I Feel,Gloria Estefan,39,27,9
+44,Raise The Roof,Luke Featuring No Good But So Good,40,26,17
+45,Ooh La La,Rod Stewart,45,45,3
+46,Body Bumpin' Yippie-Yi-Yo,Public Announcement,34,5,22
+47,Cheers 2 U,Playa,43,38,17
+48,Candle In The Wind 1997/Something About The Way You Look Tonight,Elton John,47,1,41
+49,There's Your Trouble,Dixie Chicks,57,49,10
+50,Do Your Thing,7 Mile,60,50,13
+51,It's All About Me,Mya & Sisqo,38,6,19
+52,Who Am I,Beenie Man,41,40,19
+53,Ava Adore,The Smashing Pumpkins,42,42,3
+54,Frozen,Madonna,44,2,18
+55,Black Ice (Sky High),Goodie Mob Featuring Outkast,59,55,4
+56,Ding-A-Ling,Hi-Town DJs,61,56,12
+57,There You Are,Sam Salter,70,57,5
+58,You Won't Forget Me,La Bouche,55,48,7
+59,Landslide,Fleetwood Mac,-1,59,1
+60,"The Cup Of Life (The Official Song Of The World Cup, France '98)",Ricky Martin,62,60,4
+61,Woof Woof,69 Boyz,-1,61,1
+62,Destiny,Myron,-1,62,1
+63,Freak Out,Nutta Butta Featuring Teddy Riley And Anonymous,63,63,5
+64,If You Ever Have Forever In Mind,Vince Gill,75,64,3
+65,I'm Alright,Jo Dee Messina,64,43,19
+66,Spark,Tori Amos,58,49,4
+67,Ninety Nine [Flash The Message],John Forte,69,59,8
+68,Horse & Carriage,Cam'Ron Featuring Mase,-1,68,1
+69,One Heart At A Time,Various Artists,71,56,8
+70,"Money, Power & Respect",The Lox [Featuring DMX & Lil' Kim],65,17,16
+71,Can't We Try,Rockell [Duet With Collage],73,71,3
+72,Wishlist,Pearl Jam,67,47,9
+73,How Do I Say I'm Sorry,Tami Davis,91,73,3
+74,I Do [Cherish You],Mark Wills,80,72,11
+75,Push It,Garbage,66,52,11
+76,2 Way Street,Missjones,76,76,3
+77,Recover Your Soul,Elton John,72,55,14
+78,I Just Want To Dance With You,George Strait,83,61,13
+79,Love The Way,EOL,89,79,2
+80,Victory,Puff Daddy & The Family Featuring The Notorious B.I.G. & Busta Rh,52,19,18
+81,The Actual,All City,87,81,2
+82,A Man Holdin' On (To A Woman Lettin' Go),Ty Herndon,84,81,7
+83,Bitter Sweet Symphony,The Verve,74,12,17
+84,Now That I Found You,Terri Clark,79,72,9
+85,Whatuon,LaTanya Featuring Twista,85,85,6
+86,I Honestly Love You (David Foster Vers.),Olivia Newton-John,78,67,8
+87,I'm From The Country,Tracy Byrd,97,63,16
+88,Stepping Stone,Lari White,94,88,2
+89,Money Ain't A Thang,JD Featuring Jay-Z,77,77,3
+90,Imagination,Tamia,68,37,18
+91,So Into You,Tamia,-1,91,1
+92,Baby Be There,Nu Flavor,100,83,6
+93,There Goes My Baby,Trisha Yearwood,-1,93,1
+94,Here We Go Again,Aretha Franklin,-1,94,1
+95,Sin So Well,Rebekah,93,80,5
+96,The Mummers' Dance,Loreena McKennitt,90,18,20
+97,Clock Strikes,Timbaland & Magoo,86,37,12
+98,Do For Love,2Pac Featuring Eric Williams,82,21,18
+99,Second Round K.O.,Canibus,81,28,15
+100,You Only Have To Say You Love Me,Hannah Jones,88,88,6
