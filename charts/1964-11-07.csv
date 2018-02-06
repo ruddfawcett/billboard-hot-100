@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Baby Love,The Supremes,1,1,6
+2,Last Kiss,J. Frank Wilson and The Cavaliers,3,2,10
+3,Do Wah Diddy Diddy,Manfred Mann,2,1,10
+4,Leader Of The Pack,The Shangri-Las,14,4,5
+5,Let It Be Me,Betty Everett & Jerry Butler,6,5,10
+6,Have I The Right?,The Honeycombs,7,6,8
+7,Come A Little Bit Closer, Jay & The Americans,11,7,9
+8,The Door Is Still Open To My Heart,Dean Martin,12,8,7
+9,Chug-A-Lug,Roger Miller,10,9,10
+10,We'll Sing In The Sunshine,Gale Garnett,4,4,14
+11,"Oh, Pretty Woman",Roy Orbison And The Candy Men,8,1,11
+12,Dancing In The Street,Martha & The Vandellas,5,2,12
+13,Little Honda,The Hondells,9,9,9
+14,Tobacco Road,The Nashville Teens,15,14,9
+15,Everybody Knows (I Still Love You),The Dave Clark Five,19,15,6
+16,I Don't Want To See You Again,Peter And Gordon,20,16,6
+17,I Like It,Gerry And The Pacemakers,18,17,7
+18,Ain't That Loving You Baby,Elvis Presley,23,18,5
+19,I'm Crying,The Animals,21,19,7
+20,You Really Got Me,The Kinks,32,20,7
+21,A Summer Song,Chad & Jeremy,13,7,13
+22,She's Not There,The Zombies ,45,22,4
+23,Is It True,Brenda Lee,30,23,4
+24,When I Grow Up (To Be A Man),The Beach Boys,17,9,10
+25,Ride The Wild Surf,Jan & Dean,16,16,8
+26,Ask Me,Elvis Presley With The Jordanaires,31,26,5
+27,Baby Don't You Do It,Marvin Gaye,29,27,8
+28,Ringo,Lorne Greene,62,28,2
+29,You Must Believe Me,The Impressions,24,15,10
+30,Time Is On My Side,The Rolling Stones,46,30,4
+31,Cousin Of Mine,Sam Cooke,33,31,7
+32,"Softly, As I Leave You",Frank Sinatra,27,27,10
+33,I'm Gonna Be Strong,Gene Pitney,51,33,3
+34,Who Can I Turn To (When Nobody Needs Me),Tony Bennett,36,34,6
+35,Mr. Lonely,Bobby Vinton,70,35,2
+36,I Don't Want To See Tomorrow,Nat King Cole,34,34,8
+37,I've Got Sand In My Shoes,The Drifters,37,33,7
+38,"Mercy, Mercy",Don Covay & The Goodtimers,43,35,10
+39,Reach Out For Me,Dionne Warwick,69,39,3
+40,Everything's Alright,The Newbeats,78,40,3
+41,I'm Into Something Good,Herman's Hermits,57,41,4
+42,Bless Our Love,Gene Chandler,48,42,7
+43,All Cried Out,Dusty Springfield,41,41,7
+44,When You Walk In The Room,The Searchers,58,44,4
+45,Death Of An Angel,The Kingsmen,42,42,9
+46,Right Or Wrong,Ronnie Dove,61,46,3
+47,Funny Girl,Barbra Streisand,47,44,9
+48,When You're Young And In Love,Ruby And The Romantics,50,48,6
+49,I Had A Talk With My Man,Mitty Collier,55,49,7
+50,Wendy,The Beach Boys,54,50,4
+51,You Should Have Seen The Way He Looked At Me,The Dixie Cups,64,51,3
+52,Needle In A Haystack,The Velvelettes,63,52,4
+53,Lumberjack,Brook Benton,53,53,6
+54,Teen Beat '65,Sandy Nelson,44,44,8
+55,Jump Back,Rufus Thomas,59,55,5
+56,Smack Dab In The Middle,Ray Charles and his Orchestra,52,52,7
+57,Slaughter On Tenth Avenue,The Ventures,68,57,3
+58,Baby Be Mine,The Jelly Beans,60,51,7
+59,Don't Ever Leave Me,Connie Francis,75,59,3
+60,Runnin' Out Of Fools,Aretha Franklin,65,60,8
+61,Mountain Of Love,Johnny Rivers,90,61,2
+62,Ain't Doing Too Bad (Part 1),Bobby Bland,66,62,3
+63,So Long Dearie,Louis Armstrong,56,56,6
+64,Walking In The Rain,The Ronettes,80,64,3
+65,"Gone, Gone, Gone",The Everly Brothers,74,65,4
+66,Sidewalk Surfin',Jan & Dean,83,66,2
+67,Shaggy Dog,Mickey Lee Lane,71,67,5
+68,She Understands Me,Johnny Tillotson,91,68,2
+69,Little Honda,The Beach Boys,73,69,4
+70,Something You Got,Ramsey Lewis Trio,72,70,5
+71,Ain't It The Truth,Mary Wells,86,71,2
+72,S-W-I-M,Bobby Freeman,87,72,2
+73,Look Away,Garnet Mimms,76,73,4
+74,What Good Am I Without You,Marvin Gaye & Kim Weston,81,74,3
+75,Goin' Out Of My Head,Little Anthony And The Imperials,-1,75,1
+76,Little Marie,Chuck Berry,93,76,3
+77,Opportunity,The Jewels,79,77,5
+78,Listen Lonely Girl,Johnny Mathis,82,78,3
+79,"Dance, Dance, Dance",The Beach Boys,-1,79,1
+80,Big Man In Town,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",-1,80,1
+81,Hey Now,Lesley Gore,89,81,4
+82,Too Many Fish In The Sea,The Marvelettes,-1,82,1
+83,We Could,Al Martino,-1,83,1
+84,Chained And Bound,Otis Redding,95,84,3
+85,Up Above My Head (I Hear Music In The Air),Al (He's the King) Hirt,85,85,5
+86,"My Love, Forgive Me (Amore, Scusami)",Robert Goulet,92,86,3
+87,Oh No Not My Baby,Maxine Brown,94,87,3
+88,Maybe Tonight,The Shirelles,88,88,2
+89,California Bound,Ronny And The Daytonas,-1,89,1
+90,The Dodo,Jumpin' Gene Simmons,-1,90,1
+91,Beautician Blues,B.B. King,-1,91,1
+92,Sometimes I Wish I Were A Boy,Lesley Gore,96,92,2
+93,That's Where It's At,Sam Cooke,-1,93,2
+94,Four Strong Winds,Bobby Bare,98,94,2
+95,If You Want This Love,Sonny Knight,-1,91,4
+96,Never Trust A Woman,B.B. King,-1,96,1
+97,Stop Takin' Me For Granted,Mary Wells,-1,97,1
+98,"It Ain't Me, Babe",Johnny Cash,100,98,2
+99,Heartbreak Hill,Fats Domino,99,99,2
+100,Times Have Changed,Irma Thomas,-1,100,1

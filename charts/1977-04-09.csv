@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Dancing Queen,ABBA,2,1,18
+2,Don't Give Up On Us,David Soul,3,2,11
+3,Don't Leave Me This Way,Thelma Houston,4,3,17
+4,Rich Girl,Daryl Hall John Oates,1,1,12
+5,Southern Nights,Glen Campbell,6,5,9
+6,The Things We Do For Love,10cc,7,6,14
+7,Hotel California,Eagles,8,7,7
+8,I've Got Love On My Mind,Natalie Cole,9,8,11
+9,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,5,1,18
+10,So In To You,Atlanta Rhythm Section,12,10,11
+11,Carry On Wayward Son,Kansas,11,11,16
+12,Maybe I'm Amazed,Wings,10,10,9
+13,Fly Like An Eagle,Steve Miller,13,2,17
+14,Tryin' To Love Two,William Bell,18,14,8
+15,Right Time Of The Night,Jennifer Warnes,19,15,11
+16,Say You'll Stay Until Tomorrow,Tom Jones,15,15,14
+17,When I Need You,Leo Sayer,21,17,7
+18,I Wanna Get Next To You,Rose Royce,22,18,7
+19,I Like Dreamin',Kenny Nolan,14,3,23
+20,Sam,Olivia Newton-John,20,20,11
+21,Lido Shuffle, Boz Scaggs,26,21,5
+22,The First Cut Is The Deepest,Rod Stewart,23,22,9
+23,Can't Stop Dancin',Captain & Tennille,30,23,4
+24,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,28,24,14
+25,I'm Your Boogie Man,KC And The Sunshine Band,35,25,7
+26,Free,Deniece Williams,27,26,18
+27,Couldn't Get It Right,Climax Blues Band,33,27,8
+28,Your Love,"Marilyn McCoo & Billy Davis, Jr.",32,28,4
+29,Do Ya,Electric Light Orchestra,24,24,10
+30,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,31,30,9
+31,Calling Dr. Love,KISS,48,31,4
+32,"N.y., You Got Me Dancing",Andrea True Connection,36,32,8
+33,Torn Between Two Lovers,Mary Macgregor,16,1,21
+34,Night Moves,Bob Seger,17,4,18
+35,Angel In Your Arms,Hot,40,35,8
+36,Love In 'C' Minor - Pt. I,Cerrone,38,36,7
+37,Sometimes,Facts Of Life,46,37,6
+38,Dancin' Man,Q,44,38,5
+39,Magical Mystery Tour,Ambrosia,39,39,7
+40,Spring Rain,Silvetti,42,39,12
+41,Lonely Boy,Andrew Gold,57,41,4
+42,Heard It In A Love Song,The Marshall Tucker Band,47,42,5
+43,Phantom Writer,Gary Wright,45,43,6
+44,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,56,44,8
+45,Uptown Festival (Part 1),Shalamar,55,45,5
+46,My Sweet Lady,John Denver,58,46,5
+47,Whodunit,Tavares ,60,47,3
+48,Sir Duke,Stevie Wonder,74,48,2
+49,Tie Your Mother Down,Queen,59,49,4
+50,Hello Stranger,Yvonne Elliman,65,50,4
+51,Go Your Own Way,Fleetwood Mac,29,10,14
+52,Do What You Wanna Do,T-Connection,52,52,5
+53,You're Throwing A Good Love Away,The Spinners,64,53,4
+54,Lucille,Kenny Rogers,66,54,3
+55,Sailing Ships,Mesa ,67,55,7
+56,Feels Like The First Time,Foreigner,70,56,3
+57,"""Roots"" Medley",Quincy Jones,61,57,6
+58,Cherry Baby,Starz,69,58,4
+59,Disco Inferno,The Trammps,63,59,6
+60,Ain't Gonna Bump No More (with No Big Fat Woman),Joe Tex,80,60,2
+61,Old Fashioned Boy (You're The One),Stallion,71,61,5
+62,Crackerbox Palace,George Harrison,41,19,11
+63,Gloria,Enchantment,25,25,11
+64,Boogie Child,Bee Gees,43,12,13
+65,Cinderella,Firefall,77,65,3
+66,I Think We're Alone Now,The Rubinoos,76,66,6
+67,I'll Be Standing By,Foghat,68,67,3
+68,Be My Girl,The Dramatics,53,53,14
+69,Sing,Tony Orlando & Dawn,89,69,2
+70,(Theme from) Charlie's Angels,Henry Mancini And His Orchestra,78,70,4
+71,Dancin',Crown Heights Affair,73,71,8
+72,Margaritaville,Jimmy Buffett,84,72,2
+73,Sleepwalker,The Kinks,86,73,2
+74,You Know Like I Know,Ozark Mountain Daredevils,75,74,12
+75,Sub-rosa Subway/calling Occupants,Klaatu,85,75,2
+76,I Wanna Do It To You,Jerry Butler,87,76,5
+77,Love Is Better In The A.M. (Part 1),Johnnie Taylor,79,77,7
+78,You Take My Heart Away,James Darren,88,78,4
+79,Love's Grown Deep,Kenny Nolan,90,79,2
+80,Living Next Door To Alice,Smokie,81,25,19
+81,Slowdown,John Miles,92,81,3
+82,Slow Dancin' Don't Turn Me On,Addrisi Brothers,-1,82,1
+83,You Are On My Mind,Chicago,-1,83,1
+84,Back In The Saddle,Aerosmith,-1,84,1
+85,The Whistler,Jethro Tull,-1,85,1
+86,Sound And Vision,David Bowie,-1,86,1
+87,Brooklyn,Cody Jameson,-1,87,1
+88,Undercover Angel,Alan O'Day,98,88,2
+89,Hold Back The Night,Graham Parker And The Rumour,-1,89,1
+90,Show You The Way To Go,The Jacksons,-1,90,1
+91,It Feels So Good To Be Loved So Bad,The Manhattans,91,91,3
+92,Arrested For Driving While Blind,ZZ Top,93,92,3
+93,Romeo,Mr. Big,96,91,6
+94,Deeply,Anson Williams,95,94,2
+95,Rock And Roll Star,Champagne,83,83,3
+96,All Strung Out On You,John Travolta,34,34,8
+97,Love In 'C' Minor,The Heart And Soul Orchestra,49,46,7
+98,You're Movin' Out Today,Bette Midler,-1,98,1
+99,Your Own Special Way,Genesis,62,62,5
+100,Somethin' 'bout 'cha,Latimore,37,37,10

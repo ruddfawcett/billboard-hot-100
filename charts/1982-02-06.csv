@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Centerfold,The J. Geils Band,3,1,14
+2,I Can't Go For That (No Can Do),Daryl Hall John Oates,1,1,13
+3,Waiting For A Girl Like You,Foreigner,2,2,18
+4,Harden My Heart,Quarterflash,5,4,17
+5,Turn Your Love Around,George Benson,7,5,16
+6,Leather And Lace,Stevie Nicks With Don Henley,6,6,16
+7,Physical,Olivia Newton-John,4,1,19
+8,The Sweetest Thing (I've Ever Known),Juice Newton,9,8,17
+9,Shake It Up,The Cars,13,9,12
+10,Hooked On Classics,Royal Philharmonic Orchestra,10,10,15
+11,Cool Night,Paul Davis,12,11,14
+12,Sweet Dreams,Air Supply,19,12,9
+13,Waiting On A Friend,The Rolling Stones,14,13,10
+14,Leader Of The Band,Dan Fogelberg,16,14,11
+15,Open Arms, Journey,21,15,4
+16,Take It Easy On Me,Little River Band,17,16,10
+17,Let's Groove,"Earth, Wind & Fire",8,3,19
+18,Come Go With Me,The Beach Boys,18,18,12
+19,You Could Have Been With Me,Sheena Easton,20,19,11
+20,Comin' In And Out Of Your Life,Barbra Streisand,11,11,13
+21,Through The Years,Kenny Rogers,25,21,7
+22,Love Is Alright Tonite,Rick Springfield,24,22,10
+23,"Mirror, Mirror",Diana Ross,29,23,5
+24,Trouble,Lindsey Buckingham,22,9,16
+25,Love In The First Degree,Alabama,30,25,13
+26,That Girl,Stevie Wonder,37,26,4
+27,Somewhere Down The Road,Barry Manilow,32,27,8
+28,Key Largo,Bertie Higgins,31,28,13
+29,Spirits In The Material World,The Police,39,29,4
+30,Abacab,Genesis,36,30,7
+31,Working For The Weekend,Loverboy,33,31,13
+32,All Our Tomorrows,Eddie Schwartz,34,32,9
+33,Sea Of Love,Del Shannon,35,33,9
+34,Someone Could Lose A Heart Tonight,Eddie Rabbitt,15,15,13
+35,Pac-Man Fever,Buckner & Garcia,38,35,5
+36,Daddy's Home,Cliff Richard,53,36,4
+37,Young Turks,Rod Stewart,26,5,17
+38,She's Got A Way,Billy Joel,23,23,12
+39,When All Is Said And Done,ABBA,49,39,5
+40,I Wouldn't Have Missed It For The World,Ronnie Milsap,27,20,16
+41,Yesterday's Songs,Neil Diamond,28,11,14
+42,Love Is Like A Rock,Donnie Iris,46,42,8
+43,Tonight I'm Yours (Don't Hurt Me),Rod Stewart,59,43,3
+44,Should I Do It,The Pointer Sisters,62,44,3
+45,One Hundred Ways,Quincy Jones Featuring James Ingram,52,45,8
+46,Bobbie Sue,The Oak Ridge Boys,60,46,4
+47,Crazy (Keep On Falling),The John Hall Band,51,47,7
+48,Call Me,Skyy,61,48,4
+49,"You're My Latest, My Greatest Inspiration",Teddy Pendergrass,57,49,5
+50,Keeping Our Love Alive,Henry Paul Band,50,50,9
+51,Let The Feeling Flow,Peabo Bryson,58,51,5
+52,Our Lips Are Sealed,Go-Go's,44,20,24
+53,Under Pressure,Queen & David Bowie,41,29,14
+54,I Believe,Chilliwack,64,54,4
+55,Tonight Tonight,Bill Champlin,55,55,7
+56,Let's Get It Up,AC/DC,65,56,4
+57,Tell Me Tomorrow - Part I,Smokey Robinson,66,57,4
+58,Wanna Be With You,"Earth, Wind & Fire",67,58,3
+59,Chariots Of Fire - Titles,Vangelis,68,59,9
+60,Perhaps Love,Placido Domingo & John Denver,63,60,4
+61,If Looks Could Kill,Player,71,61,3
+62,Don't Stop Believin',Journey,40,9,15
+63,I Love Rock 'N Roll,Joan Jett & the Blackhearts,-1,63,1
+64,We Got The Beat,Go-Go's,79,64,2
+65,Circle Of Love,The Steve Miller Band,75,65,3
+66,Take Off,Bob & Doug McKenzie,84,66,2
+67,Genius Of Love,Tom Tom Club,77,67,3
+68,867-5309/jenny,Tommy Tutone,78,68,3
+69,Just Can't Win 'em All,Stevie Woods,76,69,3
+70,Tainted Love,Soft Cell,73,70,4
+71,My Guy,Sister Sledge,81,71,2
+72,It's My Party,Dave Stewart and Barbara Gaskin,72,72,8
+73,I'll Fall In Love Again,Sammy Hagar,83,73,2
+74,Anyone Can See,Irene Cara,80,64,10
+75,Voice On The Radio,Conductor,85,75,2
+76,Don't Let Him Know,Prism,86,76,2
+77,Do You Believe In Love,Huey Lewis & The News,-1,77,1
+78,Another Sleepless Night,Anne Murray,88,78,2
+79,Why Do Fools Fall In Love,Diana Ross,42,7,17
+80,Theme From Magnum P.i.,Mike Post,-1,80,1
+81,Here To Love You,The Doobie Brothers,-1,81,1
+82,Why You Wanna Try Me,Commodores,-1,82,1
+83,Take My Heart (You Can Have It If You Want It),Kool & The Gang,45,17,17
+84,(oh) Pretty Woman,Van Halen,-1,84,1
+85,Oh No,Commodores,54,4,20
+86,Only One You,T.G. Sheppard,96,86,2
+87,Breakin' Away,Al Jarreau,43,43,10
+88,Opposites Do Attract,All Sports Band,-1,88,1
+89,You Can,Madleen Kane,-1,89,1
+90,Natural Love,Petula Clark,-1,90,1
+91,Cool (Part 1),The Time,94,91,2
+92,Seasons Of Gold,Gidea Park featuring Adrian Baker,82,82,3
+93,Could It Be Love,Jennifer Warnes,47,47,10
+94,Feel Like A Number,Bob Seger & The Silver Bullet Band,48,48,8
+95,Be Mine (Tonight),"Grover Washington, Jr.",-1,95,1
+96,A World Without Heroes,KISS,56,56,9
+97,More Than Just The Two Of Us,Sneaker,69,34,15
+98,Power Play,Molly Hatchet,-1,98,1
+99,Start It All Over,McGuffey Lane,-1,99,1
+100,Here I Am (Just When I Thought I Was Over You), Air Supply,74,5,20

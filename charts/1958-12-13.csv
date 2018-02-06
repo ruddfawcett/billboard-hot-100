@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"To Know Him, Is To Love Him",The Teddy Bears,1,1,13
+2,Problems,The Everly Brothers,6,2,6
+3,Tom Dooley,The Kingston Trio,2,1,12
+4,One Night,Elvis Presley,5,4,6
+5,Beep Beep,The Playmates,4,4,7
+6,Smoke Gets In Your Eyes,The Platters,11,6,5
+7,Lonesome Town,Ricky Nelson,7,7,9
+8,It's Only Make Believe,Conway Twitty,3,1,14
+9,I Got Stung,Elvis Presley,9,8,7
+10,The Chipmunk Song,The Chipmunks With David Seville,37,10,3
+11,Bimbombey,Jimmie Rodgers,18,11,6
+12,Topsy II,Cozy Cole,8,3,17
+13,A Lover's Question,Clyde McPhatter,14,13,10
+14,Queen Of The Hop,Bobby Darin,10,9,11
+15,Whole Lotta Loving,Fats Domino,16,15,5
+16,Love Is All We Need,Tommy Edwards,19,16,8
+17,I Got A Feeling,Ricky Nelson,13,10,10
+18,That Old Black Magic,Louis Prima And Keely Smith,22,18,7
+19,Cannonball,Duane Eddy His Twangy Guitar And The Rebels,17,15,7
+20,Gotta Travel On,Billy Grammer,30,20,4
+21,The End,Earl Grant,20,7,14
+22,Poor Boy,The Royaltones,24,17,9
+23,I'll Wait For You,Frankie Avalon,21,15,9
+24,Lonely Teardrops,Jackie Wilson,33,24,4
+25,It's All In The Game,Tommy Edwards,12,1,18
+26,Chantilly Lace,Big Bopper,15,6,20
+27,Need You,Donnie Owens,25,25,11
+28,A Letter To An Angel,Jimmy Clanton,29,25,9
+29,The Day The Rains Came,Jane Morgan,28,21,13
+30,The World Outside,The Four Coins,26,21,6
+31,Tea For Two Cha Cha,The Tommy Dorsey Orchestra,23,7,16
+32,Walking Along,The Diamonds,34,29,8
+33,Donna,Ritchie Valens,55,33,4
+34,The Teen Commandments,Paul Anka-Geo. Hamilton IV-Johnny Nash,42,34,3
+35,Forget Me Not,Kalin Twins,27,12,12
+36,Love You Most Of All,Sam Cooke,65,36,5
+37,Philadelphia U.S.A.,The Nu Tornados,45,37,5
+38,My Happiness,Connie Francis,57,38,2
+39,Pussy Cat,The Ames Brothers,41,17,12
+40,Love Of My Life,The Everly Brothers,73,40,4
+41,Turvy II,Cozy Cole,58,41,3
+42,Peek-A-Boo,The Cadillacs,61,42,2
+43,Call Me,Johnny Mathis,35,21,12
+44,Big Bopper's Wedding,Big Bopper,64,44,2
+45,The Mocking Bird,The Four Lads,32,32,7
+46,Sing Sing Sing,Bernie Lowe Orchestra,52,46,4
+47,Mr. Success,Frank Sinatra,47,41,8
+48,16 Candles,The Crests,68,48,4
+49,Cimarron (Roll On),Billy Vaughn And His Orchestra,44,44,9
+50,Hideaway,The Four Esquires,31,21,13
+51,The Diary,Neil Sedaka,83,51,2
+52,The Wedding,June Valli,71,52,4
+53,Pledging My Love,Roy Hamilton,50,50,5
+54,I'll Remember Tonight,Pat Boone,40,34,8
+55,Manhattan Spiritual,Reg Owen & His Orchestra,69,55,2
+56,Sweet Little Rock And Roller,Chuck Berry,59,47,6
+57,There Goes My Heart,Joni James,36,19,14
+58,Mandolins In The Moonlight,Perry Como,62,47,8
+59,Nobody But You,Dee Clark,63,59,3
+60,I Want To Be Happy Cha Cha,Enoch Light & The Light Brigade,48,48,6
+61,Need Your Love,Bobby Freeman,54,54,4
+62,Jealous Heart,Tab Hunter,67,62,9
+63,The World Outside,The Four Aces,79,63,4
+64,A Part Of Me,Jimmy Clanton,39,38,7
+65,C'mon Everybody,Eddie Cochran,77,65,4
+66,¿Dònde Està Santa Claus? (Where Is Santa Claus?),Augie Rios,-1,66,1
+67,Mexican Hat Rock,The Applejacks,43,16,14
+68,Non Dimenticar (Don't Forget),Nat King Cole,49,45,10
+69,Rock-in Robin,Bobby Day,38,2,20
+70,I Want To Be Happy Cha Cha,The Tommy Dorsey Orchestra Starring Warren Covington,81,70,3
+71,The World Outside,Roger Williams,86,71,2
+72,Come Prima,Tony Dallara,80,72,2
+73,Ten Commandments Of Love,Harvey & The Moonglows,56,22,14
+74,The Day The Rains Came,Raymond Lefevre and His Orchestra,75,30,8
+75,I Cried A Tear,LaVern Baker,93,75,2
+76,Cinderella,The Four Preps,87,76,4
+77,Stagger Lee,Lloyd Price,94,77,2
+78,It's Just About Time,Johnny Cash And The Tennessee Two,-1,78,1
+79,Tunnel Of Love,Doris Day,53,43,8
+80,Try Me,James Brown And The Famous Flames,-1,80,1
+81,Goodbye Baby,Jack Scott,-1,81,1
+82,All Over Again,Johnny Cash,76,38,11
+83,Run Rudolph Run,Chuck Berry,-1,83,1
+84,Intermission Riff,Bernie Lowe Orchestra,66,61,4
+85,I Just Thought You'd Like To Know,Johnny Cash And The Tennessee Two,-1,85,1
+86,Tears On My Pillow,Little Anthony And The Imperials,74,4,19
+87,Love Makes The World Go 'round,Perry Como,51,33,10
+88,Diamond Ring,Jerry Wallace,90,88,2
+89,Joe Joe Gunne,Chuck Berry,-1,83,4
+90,Merry Christmas Baby,Chuck Berry,-1,90,1
+91,The Fool And The Angel,Bobby Helms,91,91,2
+92,Philadelphia U.S.A.,Art Lund,-1,92,1
+93,Little Red Riding Hood,Big Bopper,72,72,3
+94,"A House, A Car And A Wedding Ring",Dale Hawkins,89,88,5
+95,"Come On, Let's Go",Ritchie Valens,92,42,13
+96,Pretty Girls Everywhere,Eugene Church and The Fellows,-1,96,1
+97,Dreamy Eyes,Johnny Tillotson,-1,90,3
+98,Seven Minutes In Heaven,Poni-Tails,-1,98,2
+99,Fallin',Connie Francis,60,30,10
+100,Come Prima (Koma Preema),Polly Bergen,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Lady,Kenny Rogers,1,1,12
+2,More Than I Can Say,Leo Sayer,2,2,13
+3,(Just Like) Starting Over,John Lennon,4,3,8
+4,Love On The Rocks, Neil Diamond,6,4,8
+5,Master Blaster (Jammin'),Stevie Wonder,5,5,14
+6,Hungry Heart,Bruce Springsteen,7,6,7
+7,Another One Bites The Dust,Queen,3,1,19
+8,Guilty,Barbra Streisand & Barry Gibb,9,8,8
+9,Hit Me With Your Best Shot,Pat Benatar,10,9,12
+10,Every Woman In The World,Air Supply,11,10,9
+11,The Tide Is High,Blondie,20,11,6
+12,Tell It Like It Is,Heart,13,12,5
+13,Woman In Love,Barbra Streisand,8,1,16
+14,"De Do Do Do, De Da Da Da",The Police,16,14,9
+15,You've Lost That Lovin' Feeling,Daryl Hall John Oates,12,12,13
+16,Passion,Rod Stewart,24,16,5
+17,It's My Turn,Diana Ross,18,17,9
+18,Whip It,Devo,17,14,17
+19,Everybody's Got To Learn Sometime,The Korgis,19,19,11
+20,Celebration,Kool & The Gang,25,20,9
+21,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,21,21,15
+22,I Made It Through The Rain,Barry Manilow,29,22,5
+23,Sequel,Harry Chapin,23,23,8
+24,I Believe In You,Don Williams,26,24,13
+25,Suddenly,Olivia Newton-John & Cliff Richard,28,25,9
+26,I Love A Rainy Night,Eddie Rabbitt,32,26,7
+27,Hey Nineteen,Steely Dan,35,27,4
+28,One Step Closer,The Doobie Brothers,30,28,5
+29,Time Is Time,Andy Gibb,31,29,5
+30,I'm Coming Out,Diana Ross,14,5,16
+31,Never Be The Same,Christopher Cross,15,15,11
+32,This Time,John Cougar,27,27,13
+33,Together,Tierra,38,33,7
+34,Girls Can Get It,Dr. Hook,34,34,8
+35,Dreaming,Cliff Richard,33,10,15
+36,Deep Inside My Heart,Randy Meisner,22,22,10
+37,The Wanderer,Donna Summer,36,3,14
+38,Giving It Up For Your Love,Delbert McClinton,69,38,3
+39,9 To 5,Dolly Parton,45,39,4
+40,He's So Shy,The Pointer Sisters,37,3,22
+41,Never Knew Love Like This Before,Stephanie Mills,40,6,20
+42,The Horizontal Bop,Bob Seger,42,42,7
+43,Turn And Walk Away,The Babys,44,43,6
+44,The Winner Takes It All,ABBA,51,44,5
+45,Miss Sun,Boz Scaggs,64,45,4
+46,Killin' Time,Fred Knoblock & Susan Anton,57,46,5
+47,He Can't Love You,Michael Stanley Band,55,47,5
+48,You,"Earth, Wind & Fire",53,48,5
+49,Gotta Have More Love,Climax Blues Band,49,49,6
+50,Shine On,L.T.D.,54,50,6
+51,My Mother's Eyes,Bette Midler,58,51,5
+52,Need Your Loving Tonight,Queen,59,52,4
+53,Keep On Loving You,REO Speedwagon,67,53,4
+54,Cold Love,Donna Summer,61,54,4
+55,I Need Your Lovin',Teena Marie,63,55,5
+56,Teacher Teacher,Rockpile,56,56,5
+57,Smoky Mountain Rain,Ronnie Milsap,65,57,4
+58,Love T.K.O.,Teddy Pendergrass,66,58,4
+59,Same Old Lang Syne,Dan Fogelberg,75,59,2
+60,Heartbreak Hotel,The Jacksons,71,60,3
+61,Could I Be Dreaming,The Pointer Sisters,52,52,7
+62,Easy Love,Dionne Warwick,62,62,5
+63,Games People Play,The Alan Parsons Project,73,63,3
+64,Seven Bridges Road,Eagles,-1,64,1
+65,Turning Japanese,The Vapors,47,36,13
+66,Without Your Love,Roger Daltrey,39,20,15
+67,I Ain't Gonna Stand For It,Stevie Wonder,79,67,2
+68,Upside Down,Diana Ross,41,1,24
+69,Lovely One,The Jacksons,60,12,13
+70,Switchin' To Glide/This Beat Goes On,The Kings,43,43,18
+71,Fool That I Am,Rita Coolidge,81,71,2
+72,Breakfast In America,Supertramp,82,72,2
+73,Trickle Trickle,The Manhattan Transfer,74,73,4
+74,Fashion,David Bowie,77,74,3
+75,Set The Night On Fire,Oak,85,75,2
+76,Who's Making Love,Blues Brothers,-1,76,1
+77,I Can't Stop The Feelin',Pure Prairie League,78,77,3
+78,A Little In Love,Cliff Richard,88,78,2
+79,Let Me Be Your Angel,Stacy Lattisaw,46,21,20
+80,Ah! Leah!,Donnie Iris,90,80,2
+81,What Can You Get A Wookiee For Christmas (When He Already Owns A Comb?),The Star Wars Intergalactic Droid Choir & Chorale,91,81,2
+82,Back In Black,AC/DC,-1,82,1
+83,Stop This Game,Cheap Trick,48,48,7
+84,Help Me!,Marcy Levy & Robin Gibb,50,50,7
+85,On The Road Again,Willie Nelson,68,20,16
+86,One-Trick Pony,Paul Simon,70,40,9
+87,I'm Happy That Love Has Found You,Jimmy Hall,72,27,13
+88,Out Here On My Own,Irene Cara,76,19,19
+89,Full Of Fire,Shalamar,-1,89,1
+90,Skateaway,Dire Straits,-1,90,1
+91,Gypsy Spirit,Pendulum,95,91,4
+92,She's So Cold,The Rolling Stones,83,26,13
+93,Spend The Night In Love,The 4 Seasons,96,93,2
+94,You Shook Me All Night Long,AC/DC,80,35,16
+95,Morning Man,Rupert Holmes,84,68,7
+96,Remote Control,The Reddings,89,89,6
+97,Once A Night,Jackie English,-1,97,1
+98,Dreamer,Supertramp,86,15,14
+99,Real Love,The Doobie Brothers,87,5,16
+100,Jesse,Carly Simon,93,11,21

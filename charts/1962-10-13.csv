@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sherry,The 4 Seasons,1,1,8
+2,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",2,2,6
+3,Ramblin' Rose,Nat King Cole,3,2,11
+4,Let's Dance,Chris Montez,4,4,10
+5,I Remember You,Frank Ifield,8,5,6
+6,Green Onions,Booker T. & The MG's,5,3,10
+7,Do You Love Me,The Contours ,15,7,10
+8,Patches,Dickey Lee,6,6,8
+9,Alley Cat,Bent Fabric and His Piano,9,7,12
+10,If I Had A Hammer (The Hammer Song),"Peter, Paul & Mary",14,10,9
+11,He's A Rebel,The Crystals,23,11,6
+12,Venus In Blue Jeans,Jimmy Clanton,7,7,9
+13,Only Love Can Break A Heart,Gene Pitney,24,13,5
+14,Surfin' Safari,The Beach Boys,19,14,10
+15,You Beat Me To The Punch,Mary Wells,10,9,10
+16,Sheila,Tommy Roe,11,1,12
+17,Rain Rain Go Away,Bobby Vinton,12,12,8
+18,What Kind Of Love Is This,Joey Dee & the Starliters,20,18,8
+19,Lie To Me,Brook Benton,13,13,8
+20,Punish Her,Bobby Vee,21,20,7
+21,All Alone Am I,Brenda Lee,35,21,3
+22,It Might As Well Rain Until September,Carole King,22,22,8
+23,I Left My Heart In San Francisco,Tony Bennett,28,23,10
+24,Popeye (The Hitchhiker),Chubby Checker,25,24,5
+25,Hully Gully Baby,The Dovells,26,25,10
+26,Don't Go Near The Indians,Rex Allen,30,26,5
+27,You Belong To Me,The Duprees,17,7,11
+28,Torture,Kris Jensen,38,28,7
+29,Teen Age Idol,Rick Nelson,16,5,10
+30,What Kind Of Fool Am I,Sammy Davis Jr.,40,30,7
+31,Gina,Johnny Mathis,46,31,4
+32,Beechwood 4-5789,The Marvelettes,18,17,10
+33,Limbo Rock,Chubby Checker,47,33,6
+34,Little Black Book,Jimmy Dean,36,34,5
+35,King Of The Whole Wide World,Elvis Presley With The Jordanaires,37,35,4
+36,"Hide & Go Seek, Part I",Bunker Hill,44,36,8
+37,Close To Cathy,Mike Clifford,56,37,5
+38,Stop The Music,The Shirelles,39,38,6
+39,Warmed Over Kisses (Left Over Love),Brian Hyland,49,39,4
+40,Come On Little Angel,The Belmonts,34,28,13
+41,Nothing Can Change This Love,Sam Cooke,67,41,3
+42,A Wonderful Dream,The Majors,29,22,10
+43,The Loco-Motion,Little Eva,27,1,16
+44,Next Door To An Angel,Neil Sedaka,77,44,2
+45,Rinky Dink,Baby Cortez,33,10,14
+46,The Things We Did Last Summer,Shelley Fabares,50,46,5
+47,Ten Lonely Guys,Pat Boone,68,47,4
+48,Baby Face,Bobby Darin,69,48,3
+49,You Can't Judge A Book By The Cover,Bo Diddley,55,48,9
+50,No One Will Ever Know,Jimmie Rodgers,64,50,7
+51,If A Man Answers,Bobby Darin,73,51,3
+52,James (Hold The Ladder Steady),Sue Thompson,71,52,3
+53,Workin' For The Man,Roy Orbison,63,53,4
+54,Stormy Monday Blues,Bobby Bland,60,54,6
+55,Save All Your Lovin' For Me,Brenda Lee,53,53,4
+56,Don't You Believe It,Andy Williams,78,56,5
+57,Sweet Sixteen Bars,Earl Grant,61,57,6
+58,If I Didn't Have A Dime (To Play The Jukebox),Gene Pitney,62,58,7
+59,A Taste Of Honey,Martin Denny and His Orchestra,54,50,14
+60,Love Me Tender,Richard Chamberlain,92,60,2
+61,Susie Darlin',Tommy Roe,81,61,2
+62,The Burning Of Atlanta,Claude King,84,62,2
+63,Twistin' With Linda,The Isley Brothers,72,63,4
+64,The Swiss Maid,Del Shannon,70,64,5
+65,I Keep Forgettin',Chuck Jackson,58,55,7
+66,I'm Going Back To School,Dee Clark,87,66,2
+67,What Time Is It?,The Jive Five With Eugene Pitts,75,67,5
+68,...And Then There Were Drums,Sandy Nelson,65,65,4
+69,The Cha-Cha-Cha,Bobby Rydell,-1,69,1
+70,He Thinks I Still Care,Connie Francis,99,70,2
+71,Desafinado,Stan Getz/Charlie Byrd,86,71,3
+72,Pop Pop Pop - Pie,The Sherrys,90,72,2
+73,Second Fiddle Girl,Barbara Lynn,83,73,4
+74,Léah,Roy Orbison,95,74,2
+75,(Dance With The) Guitar Man,Duane Eddy and the Rebelettes,88,75,2
+76,409,The Beach Boys,-1,76,1
+77,I've Got A Woman (Part I),Jimmy McGriff,-1,77,1
+78,Next Door To The Blues,Etta James,-1,78,1
+79,You Can Run (But You Can't Hide),Jerry Butler,-1,79,1
+80,I'll Bring It Home To You,Carla Thomas,-1,80,1
+81,Did You Ever See A Dream Walking,Fats Domino,97,81,2
+82,Forever And A Day,Jackie Wilson,91,82,4
+83,"Lovers By Night, Strangers By Day",The Fleetwoods,-1,83,1
+84,I'm Here To Get My Baby Out Of Jail,The Everly Brothers,-1,84,1
+85,Mama Sang A Song,Stan Kenton,-1,85,1
+86,I Left My Heart In The Balcony,Linda Scott,96,86,4
+87,Mr. Lonely,Buddy Greco,93,87,4
+88,I Was Such A Fool (To Fall In Love With You),Connie Francis,94,88,2
+89,I've Been Everywhere,Hank Snow,-1,88,2
+90,You Can't Lie To A Liar,Ketty Lester,-1,90,1
+91,Don't Hang Up,The Orlons,-1,91,1
+92,I'll Remember Carol,Tommy Boyce,-1,92,1
+93,Happy Weekend,"Dave ""Baby"" Cortez",-1,93,1
+94,Fools Rush In,Etta James,-1,94,1
+95,Further More,Ray Stevens,-1,95,1
+96,When The Boys Get Together,Joanie Sommers,100,96,2
+97,Hail To The Conquering Hero,James Darren,-1,97,1
+98,Heartaches,Patsy Cline,-1,98,1
+99,Hully Gully Guitar,Jerry Reed And The Hully Girlies,-1,99,1
+100,I'm Gonna Change Everything,Jim Reeves,-1,100,1

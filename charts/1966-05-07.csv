@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Monday, Monday",The Mamas & The Papas,3,1,5
+2,Good Lovin',The Young Rascals,1,1,9
+3,Sloop John B,The Beach Boys,4,3,6
+4,(You're My) Soul And Inspiration,The Righteous Brothers,2,1,10
+5,Kicks,Paul Revere & The Raiders Featuring Mark Lindsay,6,5,8
+6,Secret Agent Man,Johnny Rivers,5,3,8
+7,Rainy Day Women #12 & 35,Bob Dylan,14,7,4
+8,Bang Bang (My Baby Shot Me Down),Cher,8,2,9
+9,Leaning On The Lamp Post,Herman's Hermits,10,9,5
+10,Gloria,Shadows Of Knight,11,10,8
+11,Time Won't Let Me,The Outsiders,7,5,12
+12,Try Too Hard,The Dave Clark Five,17,12,6
+13,Message To Michael,Dionne Warwick,18,13,6
+14,Shapes Of Things,The Yardbirds,15,14,8
+15,"How Does That Grab You, Darlin'?",Nancy Sinatra,21,15,3
+16,When A Man Loves A Woman,Percy Sledge,29,16,5
+17,Eight Miles High,The Byrds,22,17,5
+18,A Groovy Kind Of Love,The Mindbenders,23,18,4
+19,Daydream,The Lovin' Spoonful,9,2,11
+20,I'm So Lonesome I Could Cry,B.J. Thomas And The Triumphs,12,8,12
+21,Rhapsody In The Rain,Lou Christie,16,16,7
+22,Together Again,Ray Charles,19,19,7
+23,A Sign Of The Times,Petula Clark,13,11,7
+24,The Sun Ain't Gonna Shine (Anymore),The Walker Bros.,39,24,4
+25,Nothing's Too Good For My Baby,Stevie Wonder,42,25,4
+26,Love Is Like An Itching In My Heart,The Supremes,62,26,2
+27,Let's Start All Over Again,Ronnie Dove,41,27,4
+28,Frankie And Johnny,Elvis Presley,25,25,8
+29,Love's Made A Fool Of You,Bobby Fuller Four,54,29,4
+30,This Old Heart Of Mine (Is Weak For You), The Isley Brothers,30,12,12
+31,It's A Man's Man's Man's World,James Brown And The Famous Flames,70,31,2
+32,The Phoenix Love Theme (Senza Fine),The Brass Ring featuring Phil Bodner,33,32,9
+33,I'll Take Good Care Of You,Garnet Mimms,46,33,7
+34,I Hear Trumpets Blow,The Tokens,34,30,8
+35,What Now My Love,Herb Alpert & The Tijuana Brass,35,24,8
+36,"Caroline, No",Brian Wilson,32,32,7
+37,The Ballad Of Irving,Frank Gallop,58,37,4
+38,Somewhere,Len Barry,38,26,8
+39,I Can't Grow Peaches On A Cherry Tree,Just Us,47,39,9
+40,"I'm Comin' Home, Cindy",Trini Lopez,50,40,5
+41,"The ""A"" Team",SSgt Barry Sadler,51,41,3
+42,I Can't Let Go,The Hollies,52,42,8
+43,Love Me With All Of Your Heart,The Bachelors,53,43,4
+44,History Repeats Itself,Buddy Starcher,48,44,5
+45,She Blew A Good Thing,The Poets,55,45,8
+46,Tippy Toeing,The Harden Trio,44,44,9
+47,Band Of Gold,Mel Carter,61,47,5
+48,Come On Let's Go,The McCoys,64,48,3
+49,Backstage,Gene Pitney,71,49,3
+50,Till The End Of The Day,The Kinks,57,50,7
+51,Got My Mojo Working (Part I),Jimmy Smith,56,51,6
+52,Twinkle Toes,Roy Orbison,74,52,2
+53,Dum-De-Da,Bobby Vinton,73,53,2
+54,You're The One,The Marvelettes,65,54,3
+55,Distant Drums,Jim Reeves,66,55,5
+56,Cool Jerk,The Capitols,86,56,2
+57,Evol-Not Love,The Five Americans,77,57,4
+58,Hold On! I'm A Comin',Sam & Dave,87,58,3
+59,The Cruel War,"Peter, Paul & Mary",69,59,3
+60,(I'm A) Road Runner,Jr. Walker & The All Stars,72,60,5
+61,The More I See You,Chris Montez,76,61,4
+62,I Am A Rock,Simon & Garfunkel,-1,62,1
+63,You've Got My Mind Messed Up,James Carr,75,63,5
+64,Remember The Rain,Bob Lind,68,64,3
+65,Did You Ever Have To Make Up Your Mind?,The Lovin' Spoonful,-1,65,1
+66,Please Don't Stop Loving Me,Elvis Presley,45,45,8
+67,He Cried,The Shangri-Las,67,67,5
+68,I Love You 1000 Times,The Platters,83,68,2
+69,Dirty Water,The Standells,95,69,3
+70,Barefootin',Robert Parker,85,70,3
+71,A Lover's Concerto,Sarah Vaughan,63,63,6
+72,Darling Baby,The Elgins,84,72,7
+73,Mame,Bobby Darin,79,73,2
+74,Elvira,Dallas Frazier,81,74,2
+75,Gloria,Them,88,75,4
+76,Double Shot (Of My Baby's Love),Swingin' Medallions,92,76,3
+77,I Love You Drops,Vic Dana,-1,77,1
+78,Let Me Be Good To You,Carla Thomas,96,78,2
+79,The Teaser,Bob Kuban And The In-Men,82,79,2
+80,There's No Living Without Your Loving,Peter And Gordon,-1,80,1
+81,Wang Dang Doodle,Ko Ko Taylor,93,81,3
+82,Love Takes A Long Time Growing,Deon Jackson,90,82,2
+83,Come Running Back,Dean Martin,-1,83,1
+84,Real Humdinger,J.J. Barnes,80,80,5
+85,Downtown,Mrs. Miller,98,85,2
+86,Sweet Talkin' Guy,The Chiffons,-1,86,1
+87,Peter Rabbit,Dee Jay And The Runaways,-1,87,1
+88,Please Don't Sell My Daddy No More Wine,The Greenwoods,91,88,2
+89,Oh How Happy,Shades Of Blue,-1,89,1
+90,Strangers In The Night,Frank Sinatra,-1,90,1
+91,Truly Julie's Blues (I'll Be There),Bob Lind,-1,91,1
+92,Bad Eye,Willie Mitchell,-1,92,1
+93,Still,The Sunrays,-1,93,1
+94,Pin The Tail On The Donkey,Paul Peek,94,91,4
+95,The Big Hurt,Del Shannon,-1,95,1
+96,A Lover's Concerto,Mrs. Miller,-1,96,1
+97,My Little Red Book,Love,99,97,2
+98,I'll Love You Forever,The Holidays,-1,98,1
+99,Mine Exclusively,The Olympics,100,99,2
+100,Headline News,Edwin Starr,-1,100,1

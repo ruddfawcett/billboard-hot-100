@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Wedding Bell Blues,The 5th Dimension,2,1,7
+2,Suspicious Minds,Elvis Presley,1,1,9
+3,Come Together/Something,The Beatles,10,3,4
+4,I Can't Get Next To You,The Temptations,4,1,13
+5,Baby It's You,Smith,5,5,10
+6,"Sugar, Sugar",The Archies,3,1,16
+7,Hot Fun In The Summertime,Sly & The Family Stone,6,2,14
+8,And When I Die,"Blood, Sweat & Tears",17,8,4
+9,Something,The Beatles,11,9,4
+10,Smile A Little Smile For Me,The Flying Machine,12,10,6
+11,Is That All There Is,Peggy Lee,13,11,7
+12,Tracy,The Cuff Links,9,9,9
+13,Little Woman,Bobby Sherman ,7,3,12
+14,Jean,Oliver,8,2,13
+15,Going In Circles,The Friends Of Distinction,16,15,13
+16,You've Lost That Lovin' Feeling,Dionne Warwick,18,16,8
+17,"Baby, I'm For Real",The Originals,22,17,7
+18,Take A Letter Maria,R.B. Greaves,21,18,4
+19,Ball Of Fire,Tommy James And The Shondells,26,19,6
+20,Backfield In Motion,Mel And Tim,42,20,4
+21,Let A Man Come In And Do The Popcorn (Part One),James Brown,30,21,5
+22,Na Na Hey Hey Kiss Him Goodbye,Steam,45,22,4
+23,Eli's Coming,Three Dog Night,50,23,3
+24,I'm Gonna Make You Mine,Lou Christie,15,10,12
+25,Cherry Hill Park,Billy Joe Royal,38,25,6
+26,Try A Little Kindness,Glen Campbell,33,26,5
+27,That's The Way Love Is,Marvin Gaye,14,7,12
+28,Suite: Judy Blue Eyes,"Crosby, Stills & Nash",34,28,6
+29,"Yester-Me, Yester-You, Yesterday",Stevie Wonder,32,29,4
+30,Reuben James,Kenny Rogers & The First Edition,35,30,7
+31,Walk On By,Isaac Hayes,31,30,11
+32,I'll Never Fall In Love Again,Tom Jones,19,6,23
+33,Fortunate Son,Creedence Clearwater Revival,58,33,2
+34,Jealous Kind Of Fella,Garland Green,20,20,9
+35,Jesus Is A Soul Man,Lawrence Reynolds,28,28,8
+36,So Good Together,Andy Kim,41,36,7
+37,Undun,The Guess Who,51,37,4
+38,Down On The Corner/Fortunate Son,Creedence Clearwater Revival,60,38,3
+39,Leaving On A Jet Plane,"Peter, Paul & Mary",57,39,3
+40,Echo Park,Keith Barbour,40,40,7
+41,"Mind, Body and Soul",The Flaming Ember,52,41,7
+42,Sugar On Sunday,The Clique,24,22,11
+43,Make Your Own Kind Of Music,Mama Cass Elliot,56,43,4
+44,Holly Holy,Neil Diamond,71,44,2
+45,Let A Woman Be A Woman - Let A Man Be A Man,Dyke And The Blazers,36,36,8
+46,Doin' Our Thing,Clarence Carter,48,46,7
+47,Don't It Make You Want To Go Home,Joe South and The Believers,47,41,12
+48,Time Machine,Grand Funk Railroad,49,48,7
+49,These Eyes,Jr. Walker & The All Stars,68,49,3
+50,Someday We'll Be Together,Diana Ross & The Supremes,-1,50,1
+51,Something In The Air,Thunderclap Newman,37,37,10
+52,The Sweeter He Is - Part I,The Soul Children,53,52,5
+53,Any Way That You Want Me,Evie Sands,54,53,13
+54,"We Love You, Call Collect",Art Linkletter,93,54,2
+55,Roosevelt And Ira Lee (Night of the Mossacin),Tony Joe White,64,55,3
+56,Friendship Train,Gladys Knight And The Pips,66,56,3
+57,Heaven Knows,The Grass Roots,-1,57,1
+58,Up On Cripple Creek,The Band,74,58,2
+59,Kool And The Gang,Kool & The Gang,59,59,9
+60,Turn On A Dream,The Box Tops,61,60,4
+61,Groovy Grubworm,Harlow Wilcox and the Oakies,62,61,5
+62,You'll Never Walk Alone,The Brooklyn Bridge,55,51,6
+63,I'll Bet You,Funkadelic,63,63,6
+64,Shangri-La,The Lettermen,67,64,4
+65,I Guess The Lord Must Be In New York City,Nilsson,83,65,2
+66,I Can't Make It Alone,Lou Rawls,100,66,2
+67,Evil Woman Don't Play Your Games With Me,CROW,77,67,3
+68,The Colour Of My Love,Jefferson,70,68,8
+69,Delta Lady,Joe Cocker,73,69,6
+70,Love Will Find A Way,Jackie DeShannon,90,70,2
+71,On The Dock Of The Bay,The Dells,82,71,2
+72,I Still Believe In Tomorrow,John & Anne Ryder,72,72,3
+73,We'll Cry Together,Maxine Brown,76,73,7
+74,Silver Threads And Golden Needles,The Cowsills,75,74,5
+75,Say You Love Me,The Impressions,78,75,4
+76,Julia,Ramsey Lewis,80,76,7
+77,Proud Mary,"The Checkmates, Ltd. Featuring Sonny Charles",69,69,4
+78,Crumbs Off The Table,The Glass House,79,78,4
+79,Tonight I'll Be Staying Here With You,Bob Dylan,85,79,2
+80,Raindrops Keep Fallin' On My Head,B.J. Thomas,86,80,2
+81,Sunday Mornin' Comin' Down,Ray Stevens,81,81,3
+82,Ballad Of Easy Rider,The Byrds,92,82,2
+83,A Brand New Me,Dusty Springfield,-1,83,1
+84,She's Got Love,Thomas & Richard Frost,84,84,3
+85,Girls It Ain't Easy,The Honey Cone,-1,85,1
+86,Just A Little Love,B.B. King,-1,86,3
+87,Midnight Cowboy,Ferrante & Teicher,99,87,2
+88,We Must Be In Love,Five Stairsteps & Cubie,88,88,3
+89,One Woman,Johnny Rivers,95,89,3
+90,Okie From Muskogee,Merle Haggard And The Strangers,91,90,2
+91,Jingo,Santana,97,91,3
+92,You Got To Pay The Price,Gloria Taylor,-1,92,1
+93,The Ten Commandments Of Love,Little Anthony And The Imperials,-1,93,1
+94,Kozmic Blues,Janis Joplin,-1,94,1
+95,(I'm So) Afraid Of Losing You Again,Charley Pride,-1,95,1
+96,Eleanor Rigby,Aretha Franklin,-1,96,1
+97,That's How Heartaches Are Made,The Marvelettes,-1,97,1
+98,Why Is The Wine Sweeter (On The Other Side),Eddie Floyd,98,98,2
+99,Volunteers,Jefferson Airplane,-1,99,1
+100,See Ruby Fall,Johnny Cash,-1,100,1

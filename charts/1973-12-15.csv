@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Most Beautiful Girl,Charlie Rich,3,1,12
+2,Goodbye Yellow Brick Road,Elton John,2,2,8
+3,Top Of The World,Carpenters,1,1,11
+4,Just You 'n' Me,Chicago,4,4,12
+5,Time In A Bottle,Jim Croce,13,5,5
+6,Hello It's Me,Todd Rundgren,8,6,11
+7,Leave Me Alone (ruby Red Dress),Helen Reddy,10,7,7
+8,Photograph,Ringo Starr,5,1,11
+9,The Joker,The Steve Miller Band,15,9,9
+10,If You're Ready (Come Go With Me),The Staple Singers,12,10,8
+11,Space Race,Billy Preston,6,4,13
+12,The Whole Town's Laughing At Me,Teddy Pendergrass,7,7,12
+13,Keep On Truckin' (Part 1),Eddie Kendricks,9,1,17
+14,"Never, Never Gonna Give Ya Up",Barry White,16,14,8
+15,Midnight Train To Georgia,Gladys Knight And The Pips,11,1,16
+16,Show And Tell,Al Wilson,27,16,9
+17,Rockin' Roll Baby,The Stylistics,20,17,9
+18,My Music,Loggins & Messina,19,18,7
+19,Living For The City,Stevie Wonder,23,19,6
+20,MIND GAMES,John Lennon,24,20,6
+21,Come Get To This,Marvin Gaye,22,21,7
+22,Smokin' In The Boy's Room,Brownsville Station,33,22,8
+23,Heartbeat - It's A Lovebeat,The DeFranco Family featuring Tony DeFranco,14,3,15
+24,Helen Wheels,Paul McCartney And Wings,31,24,4
+25,I Got A Name,Jim Croce,21,10,11
+26,I've Got To Use My Imagination,Gladys Knight And The Pips,35,26,4
+27,Who's In The Strawberry Patch With Sally,Tony Orlando & Dawn,29,27,6
+28,D'yer Mak'er,Led Zeppelin,30,28,9
+29,Let Me Serenade You,Three Dog Night,17,17,8
+30,Paper Roses,Marie Osmond,18,5,14
+31,Let Me Be There,Olivia Newton-John,44,31,5
+32,Angie,The Rolling Stones,26,1,15
+33,Me And Baby Brother,War,38,33,6
+34,Cheaper To Keep Her,Johnnie Taylor,25,15,10
+35,Until You Come Back To Me (That's What I'm Gonna Do),Aretha Franklin,45,35,4
+36,You're A Special Part Of Me,Diana Ross & Marvin Gaye,28,12,11
+37,Corazón,Carole King,39,37,8
+38,Why Me,Kris Kristofferson,34,16,37
+39,When I Fall In Love/Are You Lonesome Tonight,Donny Osmond,55,39,4
+40,Some Guys Have All The Luck,The Persuaders,40,40,7
+41,Be,Neil Diamond,36,34,8
+42,I Can't Stand The Rain,Ann Peebles,48,42,16
+43,Knockin' On Heaven's Door,Bob Dylan,37,12,16
+44,All I Know,Garfunkel,32,9,14
+45,Painted Ladies,Ian Thomas,49,45,8
+46,Tell Her She's Lovely,El Chicano,56,46,5
+47,This Time I'm Gone For Good,"Bobby ""Blue"" Bland",57,47,5
+48,Nutbush City Limits,Ike & Tina Turner,41,22,15
+49,Sister Mary Elephant (Shudd-Up!),Cheech & Chong,65,49,4
+50,Love's Theme,Love Unlimited Orchestra,79,50,3
+51,Half-Breed,Cher ,42,1,20
+52,I Found Sunshine,The Chi-lites,53,52,5
+53,Pretty Lady,Lighthouse,59,53,7
+54,Walk Like A Man,Grand Funk,64,54,4
+55,The Way We Were,Barbra Streisand,73,55,4
+56,Spiders & Snakes,Jim Stafford,61,56,6
+57,Livin' For You,Al Green,85,57,2
+58,Fell For You,The Dramatics,47,45,8
+59,American Tune,Paul Simon,72,59,3
+60,Keep Your Head To The Sky,"Earth, Wind & Fire",60,60,5
+61,Smarty Pants,First Choice,68,61,5
+62,Ooh Baby,Gilbert O'Sullivan,43,25,10
+63,A Song I'd Like To Sing,Kris Kristofferson & Rita Coolidge,69,63,5
+64,Never Let You Go,Bloodstone,52,43,14
+65,Mammy Blue,Stories,50,50,8
+66,River,Joe Simon,70,66,5
+67,Dream On,Aerosmith,63,59,9
+68,The River Of Love,B.W. Stevenson,78,68,3
+69,If We Make It Through December,Merle Haggard,82,69,4
+70,I Wanna Know Your Name,The Intruders,74,70,8
+71,Rock On,David Essex,80,71,6
+72,Let Me Try Again (Laisse Moi Le Temps),Frank Sinatra,77,72,6
+73,Baby Come Close,Smokey Robinson,84,73,5
+74,My Old School,Steely Dan,71,63,7
+75,You're Sixteen,Ringo Starr,-1,75,1
+76,Blue Collar,Bachman-Turner Overdrive,81,76,3
+77,I Love,Tom T. Hall,97,77,2
+78,"Love, Reign O'er Me",The Who,91,78,3
+79,Ain't Got No Home,The Band,83,79,4
+80,Hangin' Around,Edgar Winter Group,-1,80,1
+81,Love Has No Pride,Linda Ronstadt ,92,81,3
+82,Come Live With Me,Ray Charles,89,82,5
+83,Will You Love Me Tomorrow?,Melanie,-1,83,1
+84,Showdown,Electric Light Orchestra,87,84,3
+85,Last Kiss,Wednesday,95,85,4
+86,Big Time Operator,Keith Hampshire,90,86,2
+87,Love Me For What I Am/there Ain't No Way,Lobo,86,86,2
+88,Jim Dandy,Black Oak Arkansas,-1,88,1
+89,Stoned To The Bone - Part 1,James Brown,93,89,3
+90,A Fool Such As I,Bob Dylan,-1,90,1
+91,Half A Million Miles From Home,Albert Hammond,96,91,3
+92,This Is Your Song,Don Goodwin,94,92,2
+93,I Like To Live The Love,B.B. King,99,93,2
+94,Love Song,Anne Murray,-1,94,1
+95,"It May Be Winter Outside, (But In My Heart It's Spring)",Love Unlimited,-1,95,1
+96,I'm A Rocker,Raspberries,98,96,2
+97,Jungle Boogie,Kool & The Gang,100,97,2
+98,Somewhere Between Love And Tomorrow,Roy Clark,-1,98,1
+99,Flashback,The 5th Dimension,-1,99,1
+100,Could You Ever Love Me Again,Gary & Dave,-1,100,1

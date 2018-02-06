@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",2,1,18
+2,You Make Me Feel Like Dancing,Leo Sayer,4,2,12
+3,Tonight's The Night (Gonna Be Alright),Rod Stewart,1,1,15
+4,I Wish,Stevie Wonder,7,4,6
+5,Car Wash,Rose Royce,9,5,12
+6,Sorry Seems To Be The Hardest Word,Elton John,6,6,9
+7,Dazz,Brick,8,7,12
+8,The Rubberband Man,The Spinners,3,2,18
+9,After The Lovin',Engelbert Humperdinck,10,9,12
+10,Stand Tall,Burton Cummings,11,10,14
+11,Hot Line,The Sylvers,12,11,14
+12,I Never Cry,Alice Cooper,13,12,22
+13,Livin' Thing,Electric Light Orchestra,15,13,12
+14,Love Me,Yvonne Elliman,14,14,15
+15,More Than A Feeling,Boston,5,5,17
+16,New Kid In Town,Eagles,20,16,4
+17,Somebody To Love,Queen,19,17,7
+18,Lost Without Your Love,Bread,22,18,7
+19,Enjoy Yourself,The Jacksons,21,19,9
+20,Walk This Way,Aerosmith,28,20,8
+21,Muskrat Love,Captain & Tennille,16,4,16
+22,Jeans On,David Dundas,24,22,14
+23,Shake Your Rump To The Funk,The Bar-Kays,25,23,13
+24,Saturday Nite,"Earth, Wind & Fire",26,24,8
+25,This Song,George Harrison,27,25,8
+26,I Like Dreamin',Kenny Nolan,30,26,10
+27,Torn Between Two Lovers,Mary Macgregor,29,27,8
+28,Blinded By The Light,Manfred Mann's Earth Band,32,28,8
+29,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",17,8,20
+30,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,33,30,10
+31,Love So Right,Bee Gees,31,3,17
+32,Weekend In New England,Barry Manilow,35,32,7
+33,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,37,33,7
+34,Nights Are Forever Without You,England Dan & John Ford Coley,18,10,14
+35,Fly Like An Eagle,Steve Miller,52,35,4
+36,Drivin' Wheel,Foghat,40,36,7
+37,Keep Me Cryin',Al Green,38,37,12
+38,Free Bird,Lynyrd Skynyrd,43,19,18
+39,"Do What You Want, Be What You Are",Daryl Hall John Oates,39,39,11
+40,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,51,40,5
+41,Hard Luck Woman,KISS,62,41,4
+42,What Can I Say,Boz Scaggs,42,42,8
+43,I Like To Do It,KC And The Sunshine Band,47,43,6
+44,Someone To Lay Down Beside Me,Linda Ronstadt,46,44,6
+45,It Keeps You Runnin',The Doobie Brothers ,49,45,9
+46,You Are The Woman,Firefall,23,9,21
+47,Living Next Door To Alice,Smokie,53,47,6
+48,Do It To My Mind,Johnny Bristol,50,48,7
+49,Night Moves,Bob Seger,59,49,5
+50,You've Got Me Runnin',Gene Cotton,60,50,6
+51,Mademoiselle,Styx,36,36,9
+52,"9,999,999 Tears",Dickey Lee,54,52,8
+53,Love Ballad,L.T.D.,34,20,15
+54,Yesterday's Hero,Bay City Rollers,56,54,5
+55,Save It For A Rainy Day,Stephen Bishop,67,55,5
+56,Dancing Queen,ABBA,66,56,5
+57,Beth/Detroit Rock City,KISS,41,7,19
+58,Flight '76,The Walter Murphy Band,44,44,9
+59,Moody Blue/she Thinks I Still Care,Elvis Presley,82,59,3
+60,Spring Affair/Winter Melody, Donna Summer,70,60,4
+61,Slow Dancing,Funky Kings,63,61,10
+62,Dreamboat Annie,Heart,72,62,4
+63,"Man Smart, Woman Smarter",Robert Palmer,65,63,6
+64,Year Of The Cat,Al Stewart,84,64,5
+65,Don't Leave Me This Way,Thelma Houston,75,65,4
+66,Happier,Paul Anka,76,66,4
+67,Open Sesame - Part 1,Kool & The Gang,77,67,10
+68,Don't Take Away The Music,Tavares,58,34,11
+69,"Baby, You Look Good To Me Tonight",John Denver,79,69,3
+70,Do You Feel Like We Do,Peter Frampton,69,10,17
+71,Go Your Own Way,Fleetwood Mac,-1,71,1
+72,Free,Deniece Williams,74,72,5
+73,Lucky Man,Starbuck,73,73,4
+74,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,48,1,22
+75,Baby Boy,Mary Kay Place As Loretta Haggers,61,60,11
+76,Carry On Wayward Son,Kansas,87,76,3
+77,When Love Is New,Arthur Prysock,88,77,3
+78,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,68,2,20
+79,In The Mood,Henhouse Five Plus Too,-1,79,1
+80,Ha Cha Cha (funktion),Brass Construction,90,80,3
+81,C.b. Savage,Rod Hart,89,81,3
+82,Caledonia,Robin Trower,83,82,6
+83,Be My Girl,The Dramatics,-1,83,1
+84,Hello Old Friend,Eric Clapton,45,24,13
+85,Fancy Dancer,Commodores,-1,85,1
+86,The Things We Do For Love,10cc,-1,86,1
+87,Hail! Hail! Rock And Roll!,Starland Vocal Band,-1,87,1
+88,Prisoner (Captured By Your Eyes),L.A. Jets,93,88,3
+89,White Bird,David Laflamme,91,89,5
+90,Say You'll Stay Until Tomorrow,Tom Jones,-1,90,1
+91,I Can't Ask For Anymore Than You,Cliff Richard,80,80,4
+92,Love Bug,Bumble Bee Unlimited,94,92,5
+93,Feelings,Walter Jackson,95,93,3
+94,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,97,94,3
+95,(She's Just A) Fallen Angel,Starz,98,95,3
+96,Hey Baby,J.J. Cale,96,96,3
+97,If Not You,Dr. Hook,55,55,7
+98,Fly By Night/In The Mood,Rush,-1,98,1
+99,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,-1,99,1
+100,The Best Disco In Town,The Ritchie Family,100,17,20

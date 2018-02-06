@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Game Of Love,Wayne Fontana & The Mindbenders,3,1,6
+2,Mrs. Brown You've Got A Lovely Daughter,Herman's Hermits,12,2,2
+3,I'm Telling You Now,Freddie And The Dreamers,1,1,7
+4,I Know A Place,Petula Clark,4,4,6
+5,Stop! In The Name Of Love,The Supremes,2,1,10
+6,Tired Of Waiting For You,The Kinks,7,6,7
+7,I'll Never Find Another You,The Seekers,14,7,5
+8,The Clapping Song (Clap Pat Clap Slap),Shirley Ellis,9,8,6
+9,Shotgun,Jr. Walker & The All Stars,5,4,11
+10,Silhouettes,Herman's Hermits,19,10,4
+11,Count Me In,Gary Lewis And The Playboys,29,11,4
+12,The Last Time,The Rolling Stones,16,12,5
+13,Go Now!,The Moody Blues,10,10,10
+14,Nowhere To Run,Martha & The Vandellas,8,8,9
+15,The Race Is On,Jack Jones,15,15,9
+16,Can't You Hear My Heartbeat,Herman's Hermits,6,2,13
+17,Cast Your Fate To The Wind,Sounds Orchestral,25,17,6
+18,I'll Be Doggone,Marvin Gaye,20,18,6
+19,One Kiss For Old Times' Sake,Ronnie Dove,27,19,7
+20,Just Once In My Life,The Righteous Brothers,31,20,3
+21,Bumble Bee,The Searchers,22,21,6
+22,It's Growing,The Temptations,37,22,4
+23,King Of The Road,Roger Miller,11,4,13
+24,Got To Get You Off My Mind,Solomon Burke,32,24,8
+25,When I'm Gone,Brenda Holloway,30,25,8
+26,The Birds And The Bees,Jewel Akens,13,3,14
+27,Red Roses For A Blue Lady,Vic Dana,18,10,12
+28,Baby The Rain Must Fall,Glenn Yarbrough,38,28,7
+29,Ooo Baby Baby,The Miracles,40,29,5
+30,Land Of 1000 Dances,Cannibal And The Headhunters,35,30,9
+31,Come And Stay With Me,Marianne Faithfull,26,26,9
+32,It's Gonna Be Alright,Gerry And The Pacemakers,43,32,3
+33,Red Roses For A Blue Lady,Wayne Newton,23,23,9
+34,Woman's Got Soul,The Impressions,46,34,4
+35,She's About A Mover,Sir Douglas Quintet,39,35,4
+36,"Peaches ""N"" Cream",The Ikettes,36,36,7
+37,We're Gonna Make It,Little Milton,52,37,5
+38,Eight Days A Week,The Beatles,17,1,10
+39,I Understand (Just How You Feel),Freddie And The Dreamers,41,39,7
+40,......And Roses And Roses,Andy Williams,50,40,4
+41,I Do Love You,Billy Stewart,60,41,5
+42,Girl Don't Come,Sandie Shaw,47,42,8
+43,10 Little Bottles,Johnny Bond,45,43,7
+44,Crazy Downtown,Allan Sherman,49,44,5
+45,Wooly Bully,Sam The Sham and the Pharaohs,61,45,4
+46,I Can't Stop Thinking Of You,Bobbi Martin,48,46,7
+47,Goldfinger,Shirley Bassey,24,8,13
+48,It's Not Unusual,Tom Jones,75,48,3
+49,It's Got The Whole World Shakin',Sam Cooke,59,49,3
+50,Iko Iko,The Dixie Cups,63,50,4
+51,Dream On Little Dreamer,Perry Como,71,51,3
+52,The Entertainer,Tony Clarke,69,52,5
+53,Somebody Else Is Taking My Place,Al Martino,53,53,5
+54,(The Bees Are For The Birds) The Birds Are For The Bees,The Newbeats,57,54,4
+55,Subterranean Homesick Blues,Bob Dylan,65,55,4
+56,"Truly, Truly, True",Brenda Lee,62,56,4
+57,Out In The Streets,The Shangri-Las,67,57,4
+58,She's Coming Home,The Zombies,68,58,3
+59,Ticket To Ride,The Beatles,-1,59,1
+60,Let's Do The Freddie,Chubby Checker,74,60,4
+61,Just A Little,The Beau Brummels,81,61,2
+62,The Barracuda,Alvin Cash & The Crawlers,64,62,5
+63,True Love Ways,Peter And Gordon,82,63,2
+64,A Woman Can Change A Man,Joe Tex,79,64,3
+65,"Help Me, Rhonda",The Beach Boys,80,65,2
+66,Goodbye My Lover Goodbye,The Searchers,70,66,4
+67,Reelin' And Rockin',The Dave Clark Five,83,67,2
+68,"Never, Never Leave Me",Mary Wells,54,54,6
+69,Toy Soldier,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",76,69,3
+70,Not Too Long Ago,The Uniques Featuring Joe Stampley,66,66,6
+71,All Of My Life,Lesley Gore,72,71,5
+72,Think Of The Good Times,Jay & The Americans,77,72,5
+73,Whipped Cream,Herb Alpert's Tijuana Brass,73,73,8
+74,What Do You Want With Me,Chad & Jeremy,89,74,3
+75,Apples And Bananas,Lawrence Welk And His Orchestra,86,75,3
+76,"(See You At The) ""Go-Go""",Dobie Gray,87,76,4
+77,You Can Have Him,Dionne Warwick,85,77,5
+78,Do The Freddie,Freddie And The Dreamers,-1,78,1
+79,Crying In The Chapel,Elvis Presley With The Jordanaires,-1,79,1
+80,Now That You've Gone,Connie Stevens,-1,80,1
+81,Nothing Can Stop Me,Gene Chandler,96,81,2
+82,I Gotta Woman (Part One),Ray Charles and his Orchestra,88,82,2
+83,I Need You,Chuck Jackson,-1,83,1
+84,Why Did I Choose You,Barbra Streisand,91,84,4
+85,Queen Of The House,Jody Miller,-1,85,1
+86,Al's Place,Al (He's the King) Hirt,90,86,2
+87,Super-cali-fragil-istic-expi-ali-docious,Julie Andrews-Dick Van Dyke,-1,87,1
+88,"Chim, Chim, Cheree",The New Christy Minstrels,-1,88,1
+89,Something You Got,Chuck Jackson & Maxine Brown,-1,89,1
+90,Chains Of Love,The Drifters,-1,90,1
+91,Hawaii Honeymoon,The Waikikis,92,91,4
+92,Come Back Baby,Roddie Joy,93,86,5
+93,Ain't No Telling,Bobby Bland,-1,93,1
+94,Mexican Pearls,Billy Vaughn And His Orchestra,94,94,2
+95,Dear Dad,Chuck Berry,95,95,4
+96,You Were Only Fooling (While I Was Falling In Love),Vic Damone,100,96,2
+97,Talk About Love,Adam Faith,98,97,2
+98,"Hush, Hush, Sweet Charlotte",Patti Page,-1,98,1
+99,Come On Over To My Place,The Drifters,-1,99,1
+100,The Mouse,Soupy Sales,-1,100,1

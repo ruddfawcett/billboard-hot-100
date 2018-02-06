@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Honestly Love You,Olivia Newton-John,2,1,8
+2,Nothing From Nothing,Billy Preston,3,2,13
+3,Then Came You,Dionne Warwicke & Spinners,4,3,11
+4,Beach Baby,First Class,5,4,12
+5,You Haven't Done Nothin,Stevie Wonder,6,5,10
+6,Clap For The Wolfman,The Guess Who,7,6,12
+7,Another Saturday Night,Cat Stevens,8,7,10
+8,Hang On In There Baby,Johnny Bristol,9,8,15
+9,Sweet Home Alabama,Lynyrd Skynyrd,10,9,11
+10,Earache My Eye,Cheech & Chong Featuring Alice Bowie,11,10,9
+11,Can't Get Enough,Bad Company,16,11,8
+12,Rock Me Gently,Andy Kim,1,1,16
+13,Never My Love,Blue Swede,17,13,7
+14,You Little Trustmaker,The Tymes,18,14,8
+15,Steppin' Out (Gonna Boogie Tonight),Tony Orlando & Dawn,19,15,7
+16,Stop And Smell The Roses,Mac Davis,20,16,7
+17,Skin Tight,Ohio Players,21,17,5
+18,The Bitch Is Back,Elton John,24,18,5
+19,Jazzman,Carole King,23,19,6
+20,Do It Baby,The Miracles,26,20,7
+21,Love Me For A Reason,The Osmonds,27,21,6
+22,"Can't Get Enough Of Your Love, Babe",Barry White,12,1,10
+23,I Shot The Sheriff,Eric Clapton,13,1,13
+24,I Love My Friend,Charlie Rich,25,24,10
+25,(You're) Having My Baby,Paul Anka with Odia Coates,14,1,14
+26,Tin Man,America,32,26,7
+27,Fallin' In Love,"The Souther, Hillman, Furay Band",33,27,7
+28,You Ain't Seen Nothing Yet/Free Wheelin',Bachman-Turner Overdrive,49,28,3
+29,Who Do You Think You Are,Bo Donaldson And The Heywoods,15,15,11
+30,Free Man In Paris,Joni Mitchell,22,22,11
+31,You And Me Against The World,Helen Reddy,30,9,17
+32,Life Is A Rock (But The Radio Rolled Me),Reunion,40,32,5
+33,Whatever Gets You Thru The Night,John Lennon With The Plastic Ono Nuclear Band,53,33,2
+34,Give It To The People,The Righteous Brothers,42,34,5
+35,Carefree Highway,Gordon Lightfoot,46,35,6
+36,Straight Shootin' Woman,Steppenwolf,45,36,5
+37,One Day At A Time,Marilyn Sellars,37,37,7
+38,Do It ('til You're Satisfied),B.T. Express,60,38,2
+39,Kings Of The Party,Brownsville Station,48,39,6
+40,Back Home Again,John Denver,50,40,3
+41,I'm Leaving It (All) Up To You,Donny & Marie Osmond,28,4,14
+42,It's Only Rock 'N Roll (But I Like It),The Rolling Stones,29,16,10
+43,Surfin' U.S.A.,The Beach Boys,36,3,25
+44,Papa Don't Take No Mess (Part I),James Brown,31,31,7
+45,Tell Me Something Good,Rufus Featuring Chaka Khan,34,3,17
+46,The Need To Be,Jim Weatherly,56,46,4
+47,Let's Put It All Together,The Stylistics,35,18,11
+48,Higher Plane,Kool & The Gang,58,48,5
+49,Devotion,"Earth, Wind & Fire",59,49,2
+50,Tell Her Love Has Felt The Need,Eddie Kendricks,55,50,9
+51,"Honey, Honey",ABBA,61,51,4
+52,Everlasting Love,Carl Carlton,63,52,3
+53,Blood Is Thicker Than Water,William DeVaughn,64,53,5
+54,Feel Like Makin' Love,Roberta Flack,38,1,16
+55,Second Avenue,Garfunkel,65,55,3
+56,I've Got The Music In Me,The Kiki Dee Band,66,56,4
+57,Overnight Sensation (Hit Record),Raspberries,67,57,4
+58,The Night Chicago Died,Paper Lace,41,1,17
+59,Longfellow Serenade,Neil Diamond,-1,59,1
+60,Wild Thing,Fancy,44,14,17
+61,Ain't Nothing Like The Real Thing,Aretha Franklin,47,47,6
+62,Love Don't Love Nobody - Pt. I,The Spinners,73,62,3
+63,Up For The Down Stroke,Parliament,68,63,6
+64,People Gotta Move,Gino Vannelli,74,64,3
+65,My Melody Of Love,Bobby Vinton,77,65,3
+66,So You Are A Star,The Hudson Brothers,76,66,3
+67,Live It Up Part 1,The Isley Brothers,52,52,11
+68,Honey Honey,Sweet Dreams,71,68,6
+69,Wildwood Weed,Jim Stafford,39,7,14
+70,You Can Have Her,Sam Neely,80,70,3
+71,My Country,Jud Strunk,81,71,2
+72,Second Avenue,Tim Moore,79,72,3
+73,She Called Me Baby,Charlie Rich,86,73,2
+74,Distant Lover,Marvin Gaye,85,74,2
+75,Don't Send Nobody Else,Ace Spectrum,83,75,2
+76,Virgin Man,Smokey Robinson,82,76,2
+77,Sha-La-La (Make Me Happy),Al Green,87,77,2
+78,Play Something Sweet (Brickyard Blues),Three Dog Night,89,78,2
+79,Boogie Bands And One Night Stands,Kathy Dalton,72,72,4
+80,I Can Help,Billy Swan,90,80,2
+81,La La Peace Song,O.C. Smith,91,81,2
+82,"Do It, Fluid",The Blackbyrds,69,69,5
+83,James Dean,Eagles,88,83,3
+84,When Will I See You Again,The Three Degrees,94,84,2
+85,I'm A Ramblin' Man,Waylon Jennings,75,75,5
+86,The Player - Part 1,First Choice,78,78,4
+87,After The Goldrush,Prelude,-1,87,1
+88,Cat's In The Cradle,Harry Chapin,-1,88,1
+89,She's Gone,Tavares,-1,89,1
+90,Travelin' Shoes,Elvin Bishop,-1,90,1
+91,Doraville,Atlanta Rhythm Section,-1,91,1
+92,Fairytale,The Pointer Sisters,-1,92,1
+93,Sugar Pie Guy Pt. 1,The Joneses,-1,93,1
+94,La La Peace Song,Al Wilson,-1,94,1
+95,Delta Dirt,Larry Gatlin,84,84,4
+96,Rub It In,"Billy ""Crash"" Craddock",43,16,15
+97,Sideshow,Blue Magic,51,8,21
+98,One Hell Of A Woman,Mac Davis,54,11,28
+99,It Could Have Been Me,Sami Jo,57,46,13
+100,I Saw A Man And He Danced With His Wife,Cher,62,42,9

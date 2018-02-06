@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,My Eyes Adored You,Frankie Valli,2,1,18
+2,Lady Marmalade,Labelle,3,2,12
+3,Lovin' You,Minnie Riperton,5,3,10
+4,Black Water,The Doobie Brothers,1,1,14
+5,Have You Never Been Mellow,Olivia Newton-John,4,1,9
+6,Express,B.T. Express,8,6,9
+7,You Are So Beautiful/It's A Sin When You Love Somebody,Joe Cocker,12,7,11
+8,Poetry Man,Phoebe Snow,11,8,12
+9,No No Song/snookeroo,Ringo Starr,14,9,7
+10,"Don't Call Us, We'll Call You",Sugarloaf/Jerry Corbetta,10,10,16
+11,Philadelphia Freedom,The Elton John Band,35,11,3
+12,Lady,Styx,6,6,15
+13,"Shame, Shame, Shame",Shirley And Company,15,13,11
+14,Sad Sweet Dreamer,Sweet Sensation,18,14,11
+15,I Am Love (Parts I & II),Jackson 5,19,15,10
+16,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,B.J. Thomas,22,16,8
+17,Once You Get Started,Rufus Featuring Chaka Khan,23,17,6
+18,Can't Get It Out Of My Head,Electric Light Orchestra,9,9,14
+19,Best Of My Love,Eagles,13,1,17
+20,Chevy Van,Sammy Johns,24,20,8
+21,Harry Truman,Chicago,27,21,5
+22,Emotion,Helen Reddy,25,22,7
+23,Emma,Hot Chocolate,29,23,7
+24,Supernatural Thing - Part I,Ben E. King,30,24,7
+25,Up In A Puff Of Smoke,Polly Brown,16,16,12
+26,Before The Next Teardrop Falls,Freddy Fender,32,26,8
+27,Lonely People,America,7,5,13
+28,Walking In Rhythm,The Blackbyrds,38,28,7
+29,The South's Gonna Do It,The Charlie Daniels Band,37,29,7
+30,Butter Boy,Fanny,36,30,8
+31,Shining Star,"Earth, Wind & Fire",41,31,6
+32,Satin Soul,Love Unlimited Orchestra,40,32,7
+33,What Am I Gonna Do With You,Barry White,50,33,3
+34,L-O-V-E (Love),Al Green,48,34,4
+35,Long Tall Glasses (I Can Dance),Leo Sayer,49,35,5
+36,The Bertha Butt Boogie-Part 1,The Jimmy Castor Bunch,44,36,5
+37,To The Door Of The Sun (Alle Porte Del Sole),Al Martino,17,17,14
+38,My Boy,Elvis Presley,20,20,9
+39,Jackie Blue,Ozark Mountain Daredevils,47,39,7
+40,Wolf Creek Pass,C.W. McCall,43,40,8
+41,Pick Up The Pieces,AWB,21,1,16
+42,It's A Miracle,Barry Manilow,53,42,4
+43,Roll On Down The Highway,Bachman-Turner Overdrive,26,14,10
+44,He Don't Love You (Like I Love You),Tony Orlando & Dawn,55,44,2
+45,Part Of The Plan,Dan Fogelberg,31,31,8
+46,I Wanna Learn A Love Song,Harry Chapin,56,46,6
+47,Tangled Up In Blue,Bob Dylan,57,47,3
+48,Dance The Kung Fu,Carl Douglas,52,48,6
+49,I'm A Woman,Maria Muldaur,28,12,13
+50,Killer Queen,Queen,60,50,7
+51,Movin' On,Bad Company,33,19,10
+52,Shoeshine Boy,Eddie Kendricks,64,52,6
+53,Love Finds It's Own Way,Gladys Knight And The Pips,58,53,5
+54,Fire,Ohio Players,39,1,15
+55,"Living A Little, Laughing A Little",The Spinners,66,55,3
+56,I Have A Dream,Donny Osmond,59,56,6
+57,Don't Let Go,Commander Cody,67,57,5
+58,We're Almost There,Michael Jackson,68,58,4
+59,Who's Sorry Now,Marie Osmond,69,59,3
+60,I Don't Like To Sleep Alone,Paul Anka with Odia Coates,71,60,2
+61,Hush/I'm Alive,Blue Swede,61,61,5
+62,Linda On My Mind,Conway Twitty,65,62,5
+63,Like A Sunday Morning,Lana Cantrell,63,63,5
+64,I'm Her Fool,Billy Swan,75,64,2
+65,Amie,Pure Prairie League,76,65,4
+66,How Long,Ace,77,66,3
+67,Stand By Me,John Lennon,78,67,2
+68,Nightingale, Carole King,46,9,12
+69,Leona,Wet Willie,70,69,4
+70,The Pill,Loretta Lynn,74,70,4
+71,Never Let Her Go,David Gates,34,29,10
+72,Young Americans,David Bowie,84,72,2
+73,Shaving Cream,Benny Bell,93,73,3
+74,Autobahn,Kraftwerk,87,74,2
+75,Beer Barrel Polka/Dick And Jane,Bobby Vinton,86,75,2
+76,Showdown,Odia Coates,83,76,4
+77,I Get Lifted,George McCrae,42,37,9
+78,You're No Good,Linda Ronstadt,45,1,16
+79,Angel (What In The World's Come Over Us),Atlanta Rhythm Section,82,79,5
+80,Bump Me Baby Part 1,Dooley Silverspoon,81,80,6
+81,Shakey Ground,The Temptations,-1,81,1
+82,Thank God I'm A Country Boy,John Denver,-1,82,1
+83,Swing Your Daddy,Jim Gilstrap,95,83,3
+84,Sun Goddess,"Ramsey Lewis And Earth, Wind & Fire",-1,84,1
+85,Runaway,Charlie Kulis,90,85,2
+86,"Reach Out, I'll Be There",Gloria Gaynor,-1,86,1
+87,Sneaky Snake,Tom T. Hall,98,87,2
+88,Bad Luck (Part 1),Harold Melvin And The Blue Notes,-1,88,1
+89,Cry To Me,Loleatta Holloway,99,89,2
+90,You're A Part Of Me,Susan Jacks,96,90,3
+91,Only One Woman,Nigel Olsson,91,91,4
+92,Toby/that's How Long,The Chi-lites,92,92,4
+93,Live Your Life Before You Die,The Pointer Sisters,89,89,3
+94,Everybody Wants To Find A Bluebird,Randy Edelman,94,94,3
+95,Love Corporation,The Hues Corporation,62,62,5
+96,"Good Times, Rock & Roll",Flash Cadillac And The Continental Kids,72,41,8
+97,"Black Superman - ""Muhammad Ali""",Johnny Wakelin & The Kinshasa Band,97,97,3
+98,It Do Feel Good,Donna Fargo,-1,98,1
+99,You And Your Baby Blues,Solomon Burke,-1,99,1
+100,Where Have They Gone,Jimmy Beaumont And The Skyliners,-1,100,1

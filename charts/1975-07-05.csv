@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Love Will Keep Us Together,Captain & Tennille,1,1,12
+2,The Hustle,Van McCoy And The Soul City Symphony,6,2,12
+3,Listen To What The Man Said,Wings,7,3,6
+4,Wildfire,Michael Murphey,3,3,15
+5,Love Won't Let Me Wait,Major Harris,5,5,15
+6,Magic,Pilot,9,6,14
+7,I'm Not Lisa,Jessi Colter,4,4,14
+8,When Will I Be Loved,Linda Ronstadt,2,2,13
+9,One Of These Nights,Eagles,16,9,6
+10,Please Mr. Please,Olivia Newton-John,15,10,5
+11,I'm Not In Love,10cc,17,11,8
+12,Swearin' To God,Frankie Valli,14,12,8
+13,Rockin' Chair,Gwen McCrae,27,13,8
+14,Only Women,Alice Cooper,12,12,14
+15,The Way We Were/try To Remember,Gladys Knight And The Pips,19,15,11
+16,Misty,Ray Stevens,20,16,11
+17,Midnight Blue,Melissa Manchester,21,17,9
+18,"Get Down, Get Down (Get On The Floor)",Joe Simon,8,8,14
+19,Dynomite-Part I,Tony Camillo's Bazuka,23,19,13
+20,Why Can't We Be Friends?,War,24,20,10
+21,Hey You, Bachman-Turner Overdrive,22,21,8
+22,Cut The Cake,AWB,10,10,13
+23,I'm On Fire,Dwight Twilley Band,29,23,11
+24,Rhinestone Cowboy,Glen Campbell,30,24,6
+25,Take Me In Your Arms (Rock Me),The Doobie Brothers,11,11,10
+26,The Rockford Files, Mike Post,32,26,8
+27,Jive Talkin',Bee Gees,33,27,6
+28,Sister Golden Hair,America,13,1,14
+29,I'll Play For You,Seals & Crofts,18,18,14
+30,Thank God I'm A Country Boy,John Denver,25,1,16
+31,Baby That's Backatcha,Smokey Robinson,26,26,11
+32,Slippery When Wet,Commodores,36,32,9
+33,Every Time You Touch Me (I Get High),Charlie Rich,39,33,6
+34,Philadelphia Freedom,The Elton John Band,28,1,18
+35,Bad Time,Grand Funk,31,4,14
+36,The Last Farewell,Roger Whittaker,35,19,14
+37,Bad Luck (Part 1),Harold Melvin And The Blue Notes,34,15,16
+38,Spirit Of The Boogie/Summer Madness,Kool & The Gang,38,38,14
+39,It's All Down To Goodnight Vienna/Oo-Wee,Ringo Starr,52,39,4
+40,Disco Queen,Hot Chocolate,46,40,6
+41,Saturday Night Special,Lynyrd Skynyrd,51,41,4
+42,Black Friday,Steely Dan,37,37,7
+43,Fight The Power Part 1,The Isley Brothers,55,43,3
+44,Make The World Go Away,Donny & Marie Osmond,54,44,5
+45,Old Days,Chicago,41,5,11
+46,I'll Do For You Anything You Want Me To,Barry White,40,40,7
+47,El Bimbo,Bimbo Jet,57,47,7
+48,Mornin' Beautiful,Tony Orlando & Dawn,72,48,3
+49,Just A Little Bit Of You,Michael Jackson,59,49,5
+50,Sweet Emotion,Aerosmith,61,50,4
+51,Someone Saved My Life Tonight,Elton John,-1,51,1
+52,I Don't Know Why,The Rolling Stones,62,52,4
+53,How Sweet It Is (To Be Loved By You),James Taylor,77,53,3
+54,Mister Magic,"Grover Washington, Jr.",58,54,10
+55,At Seventeen,Janis Ian,66,55,4
+56,Holdin' On To Yesterday,Ambrosia,68,56,4
+57,Wasted Days And Wasted Nights,Freddy Fender,69,57,3
+58,Take Me To The River,Syl Johnson,63,58,4
+59,Sexy,MFSB,71,59,3
+60,Burnin' Thing,Mac Davis,65,60,6
+61,Please Pardon Me (You Remind Me Of A Friend),Rufus Featuring Chaka Khan,48,48,6
+62,Could It Be Magic,Barry Manilow,81,62,2
+63,Wooden Heart,Bobby Vinton,73,63,3
+64,Rag Doll,Sammy Johns,64,64,6
+65,Send In The Clowns,Judy Collins,75,65,3
+66,Third Rate Romance,Amazing Rhythm Aces,78,66,3
+67,Got To Get You Into My Life,"Blood, Sweat & Tears",70,67,4
+68,T-R-O-U-B-L-E,Elvis Presley,44,35,9
+69,Fallin' In Love,"Hamilton, Joe Frank & Reynolds",79,69,3
+70,Ballroom Blitz,Sweet,80,70,4
+71,Another Night,The Hollies,82,71,2
+72,Feel Like Makin' Love,Bad Company,-1,72,1
+73,Sneakin' Up Behind You,The Brecker Brothers,83,73,5
+74,Free Man,South Shore Commission,84,74,2
+75,That's When The Music Takes Me,Neil Sedaka,85,75,2
+76,Rendezvous,The Hudson Brothers,86,76,3
+77,That's The Way Of The World,"Earth, Wind & Fire",-1,77,1
+78,Fame,David Bowie,90,78,2
+79,Bluebird,Helen Reddy,-1,79,1
+80,"Oh Me, Oh My (Dreams In My Arms)",Al Green,-1,80,1
+81,Feelings,Morris Albert,92,81,3
+82,Look At Me (I'm In Love),The Moments ,-1,82,1
+83,Sure Feels Good,Elvin Bishop,87,83,2
+84,Til The World Ends,Three Dog Night,-1,84,1
+85,Forever Came Today,Jackson 5,-1,85,1
+86,Hope That We Can Be Together Soon,Sharon Paige and Harold Melvin And The Blue Notes,-1,86,1
+87,Stars In My Eyes,Sugarloaf/Jerry Corbetta,89,87,5
+88,(Shu-Doo-Pa-Poo-Poop) Love Being Your Fool,Travis Wammack,99,88,3
+89,The Biggest Parakeets In Town,Jud Strunk,-1,89,1
+90,Keep Our Love Alive,Paul Davis,-1,90,1
+91,7-6-5-4-3-2-1 (Blow Your Whistle),Gary Toms Empire,91,91,3
+92,"Black Superman - ""Muhammad Ali""",Johnny Wakelin & The Kinshasa Band,95,53,15
+93,Dream Merchant,New Birth,-1,93,1
+94,Sooner Or Later,The Impressions,-1,94,1
+95,Our Last Song Together,Bo Donaldson And The Heywoods,-1,95,1
+96,What Time Of Day,Billy Thunderkloud & The Chieftones,100,96,2
+97,Funny How Love Can Be,First Class,-1,74,5
+98,Top Of The World (Make My Reservation),Canyon,-1,98,1
+99,Shoes,Reparata,-1,99,1
+100,Please Tell Him That I Said Hello,Debbie Campbell,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You're The One That I Want,John Travolta & Olivia Newton-John,2,1,11
+2,Shadow Dancing,Andy Gibb,3,2,9
+3,"Too Much, Too Little, Too Late",Johnny Mathis/Deniece Williams,1,1,11
+4,Feels So Good,Chuck Mangione,5,4,18
+5,Baker Street,Gerry Rafferty,14,5,8
+6,It's A Heartache,Bonnie Tyler,15,6,12
+7,On Broadway,George Benson,8,7,14
+8,Take A Chance On Me,ABBA,9,8,8
+9,With A Little Luck,Wings,4,1,12
+10,This Time I'm In It For Love,Player,10,10,14
+11,Baby Hold On,Eddie Money,12,11,16
+12,Love Is Like Oxygen,Sweet,13,12,17
+13,Dance With Me,Peter Brown With Betty Wright,16,13,15
+14,The Closer I Get To You,Roberta Flack With Donny Hathaway,6,2,17
+15,The Groove Line,Heatwave,26,15,6
+16,You Belong To Me,Carly Simon,18,16,9
+17,Two Out Of Three Ain't Bad,Meat Loaf,20,17,13
+18,Because The Night,Patti Smith Group,25,18,10
+19,Deacon Blues,Steely Dan,21,19,11
+20,Use Ta Be My Girl,The O'Jays,28,20,7
+21,Every Kinda People,Robert Palmer,23,21,12
+22,Still The Same,Bob Seger & The Silver Bullet Band,30,22,5
+23,Imaginary Lover,Atlanta Rhythm Section,7,7,15
+24,Disco Inferno,The Trammps,11,11,26
+25,Heartless,Heart,27,25,10
+26,Bluer Than Blue,Michael Johnson,29,26,8
+27,You're The Love,Seals & Crofts,31,27,9
+28,Even Now,Barry Manilow,43,28,6
+29,Last Dance,Donna Summer,38,29,5
+30,Oh What A Night For Dancing,Barry White ,34,30,7
+31,If I Can't Have You,Yvonne Elliman,19,1,20
+32,Night Fever,Bee Gees,24,1,19
+33,Cheeseburger In Paradise,Jimmy Buffett,35,33,8
+34,I Was Only Joking,Rod Stewart,36,34,7
+35,Follow You Follow Me,Genesis,37,35,8
+36,Almost Summer,Celebration featuring Mike Love,40,36,7
+37,Miss You,The Rolling Stones,53,37,3
+38,Stay,Rufus/Chaka Khan,39,38,10
+39,Wonderful Tonight,Eric Clapton,51,39,5
+40,I Can't Stand The Rain,Eruption,42,40,14
+41,Everybody Dance,Chic,44,41,8
+42,Warm Ride,Rare Earth,45,42,7
+43,Dance Across The Floor,"Jimmy ""Bo"" Horne",46,43,11
+44,Only The Good Die Young,Billy Joel,47,44,5
+45,Grease,Frankie Valli,54,45,3
+46,Thank God It's Friday,Love And Kisses,48,46,6
+47,Chattanooga Choo Choo,Tuxedo Junction,49,47,8
+48,Ca Plane Pour Moi,Plastic Bertrand,52,48,7
+49,You Got It,Diana Ross,50,49,6
+50,It's The Same Old Song,KC And The Sunshine Band,55,50,5
+51,Stone Blue,Foghat,61,51,4
+52,Darlin',Paul Davis Feat. Susan Collins,62,52,4
+53,Movin' Out (Anthony's Song),Billy Joel,17,17,13
+54,If Ever I See You Again,Roberta Flack,66,54,4
+55,I Want You To Be Mine,Kayak,57,55,5
+56,You Keep Me Dancing,Samantha Sang,56,56,6
+57,Weekend Lover,Odyssey,58,57,6
+58,Roll With The Changes,REO Speedwagon,59,58,5
+59,Runaway,Jefferson Starship,68,59,3
+60,FM (No Static At All),Steely Dan,67,60,2
+61,My Angel Baby,Toby Beau,69,61,2
+62,Love Will Find A Way,Pablo Cruise,70,62,2
+63,Take Me Back To Chicago,Chicago,63,63,4
+64,Can We Still Be Friends,Todd Rundgren,73,64,3
+65,"Hot Love, Cold World",Bob Welch,75,65,2
+66,Magnet And Steel,Walter Egan,76,66,3
+67,King Tut,Steve Martin And The Toot Uncommons,77,67,3
+68,Copacabana (at The Copa),Barry Manilow,-1,68,1
+69,Will You Still Love Me Tomorrow,Dave Mason,72,69,2
+70,Over The Rainbow,Gary Tanner,80,70,3
+71,Life's Been Good,Joe Walsh,-1,71,1
+72,That Once In A Lifetime,Demis Roussos,83,72,2
+73,Stay/The Load-Out,Jackson Browne,-1,73,1
+74,I Don't Wanna Go,Joey Travolta,84,74,2
+75,So Hard Livin' Without You,Airwaves,85,75,2
+76,Rivers Of Babylon,Boney M,87,76,2
+77,He's So Fine,Jane Olivor,79,77,4
+78,You Can't Dance,England Dan & John Ford Coley,89,78,2
+79,"God Knows/Baby, I'm Yours",Debby Boone,82,79,3
+80,Prove It All Night,Bruce Springsteen,-1,80,1
+81,Trans-europe Express,Kraftwerk,-1,81,1
+82,This Night Won't Last Forever,Bill LaBounty,86,82,3
+83,I'm Not Gonna Let It Bother Me Tonight,Atlanta Rhythm Section,-1,83,1
+84,Portrait (He Knew),Kansas,-1,84,1
+85,Love Or Something Like It,Kenny Rogers,90,85,2
+86,Georgia On My Mind,Willie Nelson,88,86,3
+87,Count On Me,Jefferson Starship,22,8,14
+88,Hot Child In The City,Nick Gilder,-1,88,1
+89,Under The Boardwalk,Billy Joe Royal,92,89,2
+90,Stuff Like That,Quincy Jones,-1,90,1
+91,Midnight Light,LeBlanc & Carr,95,91,2
+92,Daylight And Darkness,Smokey Robinson,-1,92,1
+93,Tumbling Dice,Linda Ronstadt,32,32,8
+94,Can't Smile Without You,Barry Manilow,33,3,19
+95,Werewolves Of London,Warren Zevon,41,21,12
+96,Dust In The Wind,Kansas,60,6,20
+97,Lay Down Sally,Eric Clapton,65,3,23
+98,Stayin' Alive,Bee Gees,71,1,27
+99,It's Late,Queen,74,74,5
+100,Fantasy,"Earth, Wind & Fire",81,32,15

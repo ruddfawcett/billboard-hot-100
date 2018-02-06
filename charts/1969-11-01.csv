@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Suspicious Minds,Elvis Presley,5,1,8
+2,Wedding Bell Blues,The 5th Dimension,7,2,6
+3,"Sugar, Sugar",The Archies,3,1,15
+4,I Can't Get Next To You,The Temptations,1,1,12
+5,Baby It's You,Smith,8,5,9
+6,Hot Fun In The Summertime,Sly & The Family Stone,2,2,13
+7,Little Woman,Bobby Sherman,6,3,11
+8,Jean,Oliver,4,2,12
+9,Tracy,The Cuff Links,9,9,8
+10,Come Together/Something,The Beatles,13,10,3
+11,Something,The Beatles,11,11,3
+12,Smile A Little Smile For Me,The Flying Machine,16,12,5
+13,Is That All There Is,Peggy Lee,14,13,6
+14,That's The Way Love Is,Marvin Gaye,12,7,11
+15,I'm Gonna Make You Mine,Lou Christie,10,10,11
+16,Going In Circles,The Friends Of Distinction,25,16,12
+17,And When I Die,"Blood, Sweat & Tears",29,17,3
+18,You've Lost That Lovin' Feeling,Dionne Warwick,20,18,7
+19,I'll Never Fall In Love Again,Tom Jones,19,6,22
+20,Jealous Kind Of Fella,Garland Green,21,20,8
+21,Take A Letter Maria,R.B. Greaves,37,21,3
+22,"Baby, I'm For Real",The Originals,26,22,6
+23,Easy To Be Hard,Three Dog Night,18,4,13
+24,Sugar On Sunday,The Clique,22,22,10
+25,Everybody's Talkin',Nilsson,15,6,12
+26,Ball Of Fire,Tommy James And The Shondells,33,26,5
+27,This Girl Is A Woman Now,Gary Puckett And The Union Gap,17,9,11
+28,Jesus Is A Soul Man,Lawrence Reynolds,35,28,7
+29,"You, I",The Rugbys,24,24,11
+30,Let A Man Come In And Do The Popcorn (Part One),James Brown,58,30,4
+31,Walk On By,Isaac Hayes,30,30,10
+32,"Yester-Me, Yester-You, Yesterday",Stevie Wonder,59,32,3
+33,Try A Little Kindness,Glen Campbell,44,33,4
+34,Suite: Judy Blue Eyes,"Crosby, Stills & Nash",34,34,5
+35,Reuben James,Kenny Rogers & The First Edition,36,35,6
+36,Let A Woman Be A Woman - Let A Man Be A Man,Dyke And The Blazers,48,36,7
+37,Something In The Air,Thunderclap Newman,38,37,9
+38,Cherry Hill Park,Billy Joe Royal,49,38,5
+39,What's The Use Of Breaking Up,Jerry Butler,39,20,10
+40,Echo Park,Keith Barbour,42,40,6
+41,So Good Together,Andy Kim,41,41,6
+42,Backfield In Motion,Mel And Tim,43,42,3
+43,When I Die,Motherlode,32,18,13
+44,Make Believe,Wind,28,28,9
+45,Na Na Hey Hey Kiss Him Goodbye,Steam,52,45,3
+46,In A Moment,The Intrigues,40,31,14
+47,Don't It Make You Want To Go Home,Joe South and The Believers,45,41,11
+48,Doin' Our Thing,Clarence Carter,53,48,6
+49,Time Machine,Grand Funk Railroad,50,49,6
+50,Eli's Coming,Three Dog Night,61,50,2
+51,Undun,The Guess Who,60,51,3
+52,"Mind, Body and Soul",The Flaming Ember,57,52,6
+53,The Sweeter He Is - Part I,The Soul Children,56,53,4
+54,Any Way That You Want Me,Evie Sands,54,54,12
+55,You'll Never Walk Alone,The Brooklyn Bridge,51,51,5
+56,Make Your Own Kind Of Music,Mama Cass Elliot,68,56,3
+57,Leaving On A Jet Plane,"Peter, Paul & Mary",76,57,2
+58,Fortunate Son,Creedence Clearwater Revival,-1,58,1
+59,Kool And The Gang,Kool & The Gang,65,59,8
+60,Down On The Corner/Fortunate Son,Creedence Clearwater Revival,87,60,2
+61,Turn On A Dream,The Box Tops,63,61,3
+62,Groovy Grubworm,Harlow Wilcox and the Oakies,71,62,4
+63,I'll Bet You,Funkadelic,74,63,5
+64,Roosevelt And Ira Lee (Night of the Mossacin),Tony Joe White,85,64,2
+65,"Since I Met You, Baby",Sonny James,67,65,7
+66,Friendship Train,Gladys Knight And The Pips,93,66,2
+67,Shangri-La,The Lettermen,82,67,3
+68,These Eyes,Jr. Walker & The All Stars,91,68,2
+69,Proud Mary,"The Checkmates, Ltd. Featuring Sonny Charles",78,69,3
+70,The Colour Of My Love,Jefferson,77,70,7
+71,Holly Holy,Neil Diamond,-1,71,1
+72,I Still Believe In Tomorrow,John & Anne Ryder,86,72,2
+73,Delta Lady,Joe Cocker,73,73,5
+74,Up On Cripple Creek,The Band,-1,74,1
+75,Silver Threads And Golden Needles,The Cowsills,75,75,4
+76,We'll Cry Together,Maxine Brown,84,76,6
+77,Evil Woman Don't Play Your Games With Me,CROW,88,77,2
+78,Say You Love Me,The Impressions,95,78,3
+79,Crumbs Off The Table,The Glass House,96,79,3
+80,Julia,Ramsey Lewis,80,80,6
+81,Sunday Mornin' Comin' Down,Ray Stevens,94,81,2
+82,On The Dock Of The Bay,The Dells,-1,82,1
+83,I Guess The Lord Must Be In New York City,Nilsson,-1,83,1
+84,She's Got Love,Thomas & Richard Frost,92,84,2
+85,Tonight I'll Be Staying Here With You,Bob Dylan,-1,85,1
+86,Raindrops Keep Fallin' On My Head,B.J. Thomas,-1,86,1
+87,It's Hard To Get Along,Joe Simon,90,87,3
+88,We Must Be In Love,Five Stairsteps & Cubie,-1,88,2
+89,Wonderful,Blackwell,89,89,2
+90,Love Will Find A Way,Jackie DeShannon,-1,90,1
+91,Okie From Muskogee,Merle Haggard And The Strangers,-1,91,1
+92,Ballad Of Easy Rider,The Byrds,-1,92,1
+93,"We Love You, Call Collect",Art Linkletter,-1,93,1
+94,Cupid,Johnny Nash,-1,94,1
+95,One Woman,Johnny Rivers,98,95,2
+96,She Belongs To Me,Rick Nelson,99,96,4
+97,Jingo,Santana,97,97,2
+98,Why Is The Wine Sweeter (On The Other Side),Eddie Floyd,-1,98,1
+99,Midnight Cowboy,Ferrante & Teicher,-1,99,1
+100,I Can't Make It Alone,Lou Rawls,-1,100,1

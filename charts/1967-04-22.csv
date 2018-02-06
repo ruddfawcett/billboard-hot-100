@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Somethin' Stupid,Nancy Sinatra & Frank Sinatra,1,1,6
+2,Happy Together,The Turtles,2,1,11
+3,"A Little Bit Me, A Little Bit You",The Monkees,5,3,5
+4,I Think We're Alone Now,Tommy James And The Shondells,7,4,11
+5,Western Union,The Five Americans,6,5,8
+6,This Is My Song,Petula Clark,3,3,8
+7,Sweet Soul Music,Arthur Conley,11,7,7
+8,Bernadette,Four Tops,4,4,7
+9,I Never Loved A Man (The Way I Love You),Aretha Franklin,9,9,8
+10,Jimmy Mack,Martha & The Vandellas,10,10,9
+11,The Happening,The Supremes,19,11,3
+12,Dedicated To The One I Love,The Mamas & The Papas ,8,2,9
+13,I'm A Man,The Spencer Davis Group,22,13,5
+14,With This Ring,The Platters,18,14,9
+15,Love Eyes,Nancy Sinatra,29,15,5
+16,At The Zoo,Simon & Garfunkel,17,16,6
+17,Don't You Care,The Buckinghams,23,17,7
+18,You Got What It Takes,The Dave Clark Five,38,18,4
+19,"For What It's Worth (Stop, Hey What's That Sound)",The Buffalo Springfield,15,7,13
+20,Dry Your Eyes,Brenda & The Tabulations,20,20,9
+21,Penny Lane,The Beatles,12,1,9
+22,There's A Kind Of Hush,Herman's Hermits,13,4,11
+23,The 59th Street Bridge Song (Feelin' Groovy),Harpers Bizarre,14,13,10
+24,On A Carousel,The Hollies,36,24,6
+25,Beggin',"The 4 Seasons Featuring the ""Sound of Frankie Valli""",16,16,8
+26,Close Your Eyes,Peaches & Herb,33,26,5
+27,Detroit City,Tom Jones,28,27,7
+28,Strawberry Fields Forever,The Beatles,21,8,9
+29,Gonna Give Her All The Love I've Got,Jimmy Ruffin,30,29,6
+30,Friday On My Mind,The Easybeats,46,30,6
+31,Sunday For Tea,Peter And Gordon,34,31,5
+32,I Found A Love - Part 1,Wilson Pickett,43,32,4
+33,California Nights,Lesley Gore,27,16,12
+34,Get Me To The World On Time,The Electric Prunes ,45,34,4
+35,Music To Watch Girls By,Andy Williams,47,35,5
+36,The Love I Saw In You Was Just A Mirage,Smokey Robinson & The Miracles,25,20,10
+37,Show Me,Joe Tex,35,35,8
+38,When I Was Young,Eric Burdon & The Animals,61,38,3
+39,I've Been Lonely Too Long,The Young Rascals,24,16,13
+40,I'll Try Anything,Dusty Springfield,50,40,6
+41,Walkin' In The Sunshine,Roger Miller,51,41,5
+42,My Back Pages,The Byrds,52,42,4
+43,"Girl, You'll Be A Woman Soon",Neil Diamond,53,43,3
+44,What A Woman In Love Won't Do,Sandy Posey,31,31,7
+45,No Milk Today,Herman's Hermits,42,35,10
+46,I Got Rhythm,The Happenings,59,46,3
+47,Yellow Balloon,The Yellow Balloon,57,47,4
+48,The Girl I Knew Somewhere,The Monkees,39,39,5
+49,Tell Me To My Face,Keith,37,37,6
+50,Casino Royale,Herb Alpert & The Tijuana Brass,65,50,3
+51,Summer Wine,Nancy Sinatra with Lee Hazlewood,49,49,8
+52,Dead End Street Monologue/Dead End Street,Lou Rawls,55,52,5
+53,Here Comes My Baby,The Tremeloes,72,53,3
+54,Release Me (And Let Me Love Again),Engelbert Humperdinck,71,54,3
+55,Hip Hug-Her,Booker T. & The MG's,63,55,5
+56,"Can't Get Enough Of You, Baby",? (Question Mark) & The Mysterians,60,56,5
+57,Buy For Me The Rain,The Nitty Gritty Dirt Band,67,57,3
+58,Somebody To Love,Jefferson Airplane,68,58,4
+59,Making Memories,Frankie Laine,75,59,3
+60,Pipe Dream,Blues Magoos,64,60,6
+61,Danny Boy,Ray Price,62,61,5
+62,"Oh That's Good, No That's Bad",Sam The Sham and the Pharaohs,54,54,6
+63,The Lady Came From Baltimore,Bobby Darin ,78,63,3
+64,Nothing Takes The Place Of You,Toussaint McCall,74,64,5
+65,Shake A Tail Feather,James & Bobby Purify,82,65,2
+66,Girl Don't Care,Gene Chandler,66,66,9
+67,Out Of Left Field,Percy Sledge,73,67,3
+68,Precious Memories,The Romeos,76,68,4
+69,Sunshine Girl,The Parade,84,69,2
+70,Cry To Me,Freddie Scott,70,70,5
+71,Portrait Of My Love,The Tokens,86,71,2
+72,Girl I Need You,The Artistics,69,69,6
+73,Why? (Am I Treated So Bad),Cannonball Adderley,79,73,3
+74,The Whole World Is A Stage,The Fantastic Four,77,74,5
+75,My Girl Josephine,Jerry Jaye,87,75,2
+76,Melancholy Music Man,The Righteous Brothers,-1,76,1
+77,Alfie,Dionne Warwick,88,77,3
+78,I Love You More Than Words Can Say,Otis Redding,80,78,3
+79,Groovin',The Young Rascals,-1,79,1
+80,Do The Thing,Lou Courtney,83,80,3
+81,Little Games,The Yardbirds,-1,81,1
+82,I'll Make Him Love Me,Barbara Lewis,-1,82,1
+83,Happy Jack,The Who,99,83,2
+84,It's So Hard Being A Loser,The Contours,85,84,2
+85,Just Look What You've Done,Brenda Holloway,-1,85,1
+86,When You're Young And In Love,The Marvelettes,-1,86,1
+87,Ain't Gonna Rest (Till I Get You),The Five Stairsteps,89,87,2
+88,You're All I Need,Bobby Bland,-1,88,1
+89,Speak Her Name,Walter Jackson,90,89,2
+90,My Babe,Ronnie Dove,-1,90,1
+91,Funky Broadway Part I,Dyke And The Blazers,91,91,2
+92,Sam's Place,Buck Owens and The Buckaroos,97,92,2
+93,One Hurt Deserves Another,The Raelets/Ray Charles Orchestra,93,93,2
+94,The Oogum Boogum Song,Brenton Wood,98,94,2
+95,Everybody Loves A Winner,William Bell,95,95,2
+96,I'm Indestructible,Jack Jones,100,96,2
+97,Blue's Theme,Davie Allan And The Arrows,-1,97,1
+98,I Could Be So Good To You,Don And The Goodtimes,-1,98,1
+99,"Tears, Tears, Tears",Ben E. King,-1,99,1
+100,Hey Love,Stevie Wonder,-1,100,1

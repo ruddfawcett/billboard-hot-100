@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Go Away Little Girl,Donny Osmond,1,1,7
+2,Spanish Harlem,Aretha Franklin,2,2,8
+3,Ain't No Sunshine,Bill Withers,4,3,10
+4,Maggie May/Reason To Believe,Rod Stewart,10,4,10
+5,Uncle Albert/Admiral Halsey,Paul & Linda McCartney,5,1,6
+6,Smiling Faces Sometimes,The Undisputed Truth,3,3,13
+7,I Just Want To Celebrate,Rare Earth,7,7,10
+8,The Night They Drove Old Dixie Down,Joan Baez,12,8,6
+9,How Can You Mend A Broken Heart,Bee Gees,6,1,13
+10,Whatcha See Is Whatcha Get,The Dramatics,11,10,12
+11,Stick-Up,The Honey Cone,14,11,7
+12,Superstar/Bless The Beasts And Children,Carpenters,17,12,3
+13,"Take Me Home, Country Roads",John Denver,8,2,22
+14,I Woke Up In Love This Morning,The Partridge Family Starring Shirley Jones Featuring David Cassidy,18,14,6
+15,Won't Get Fooled Again,The Who,16,15,10
+16,Do You Know What I Mean,Lee Michaels,20,16,8
+17,Liar,Three Dog Night,13,7,11
+18,Signs,Five Man Electrical Band,9,3,17
+19,Tired Of Being Alone,Al Green,24,19,9
+20,If You Really Love Me,Stevie Wonder,28,20,6
+21,Sweet City Woman,Stampeders,35,21,6
+22,Chirpy Chirpy Cheep Cheep,Mac And Katie Kissoon,27,22,9
+23,Bangla-Desh/Deep Blue,George Harrison,23,23,6
+24,The Story In Your Eyes,The Moody Blues,26,24,7
+25,So Far Away/Smackwater Jack,Carole King,32,25,4
+26,Beginnings/Colour My World,Chicago,19,7,13
+27,Make It Funky (Part 1),James Brown,30,27,4
+28,Riders On The Storm,The Doors,25,14,12
+29,Rain Dance,The Guess Who,33,29,6
+30,Saturday Morning Confusion,Bobby Russell,31,30,11
+31,"Mercy, Mercy Me (The Ecology)",Marvin Gaye,15,4,12
+32,If Not For You,Olivia Newton-John,29,25,17
+33,Wedding Song (There Is Love),Paul Stookey,34,33,8
+34,The Breakdown (Part I),Rufus Thomas,43,34,6
+35,Thin Line Between Love & Hate,The Persuaders,57,35,4
+36,The Love We Had (Stays On My Mind),The Dells,47,36,6
+37,I Ain't Got Time Anymore,The Glass Bottle,41,37,10
+38,Surrender,Diana Ross,40,38,6
+39,I've Found Someone Of My Own,The Free Movement,44,39,16
+40,Yo-Yo,The Osmonds,85,40,2
+41,All Day Music,War,42,41,7
+42,Trapped By A Thing Called Love,Denise LaSalle,59,42,5
+43,Marianne,Stephen Stills,46,43,5
+44,Go Down Gamblin',"Blood, Sweat & Tears",36,32,8
+45,Stagger Lee,Tommy Roe,52,45,5
+46,Where Evil Grows,The Poppy Family,48,46,8
+47,"Stop, Look, Listen (To Your Heart)",The Stylistics,49,39,13
+48,Loving Her Was Easier (Than Anything I'll Ever Do Again),Kris Kristofferson,58,48,5
+49,Easy Loving,Freddie Hart,51,49,5
+50,"Another Time, Another Place",Engelbert Humperdinck,55,50,5
+51,Crazy Love,Helen Reddy,53,51,7
+52,K-Jee,The Nite-Liters,39,39,11
+53,"Take Me Girl, I'm Ready",Jr. Walker & The All Stars,50,50,7
+54,I Likes To Do It,The People's Choice,38,38,9
+55,"Call My Name, I'll Be There",Wilson Pickett,56,55,4
+56,Maggie,Redbone,45,45,16
+57,Annabella,"Hamilton, Joe Frank & Reynolds",60,57,4
+58,Ko-Ko Joe,Jerry Reed,62,58,3
+59,Is That The Way,Tin Tin,63,59,4
+60,A Natural Man,Lou Rawls,68,60,4
+61,Gimme Shelter,Grand Funk Railroad,61,61,4
+62,MacArthur Park (Part II),Four Tops,78,62,2
+63,How Can I Unlove You,Lynn Anderson,65,63,5
+64,Them Changes,Buddy Miles & The Freedom Express,64,64,15
+65,Hijackin' Love,Johnnie Taylor (The Soul Philosopher),66,65,4
+66,One Fine Morning,Lighthouse,75,66,2
+67,Think His Name,Johnny Rivers,71,67,4
+68,Waiting At The Bus Stop,Bobby Sherman,54,54,5
+69,Women's Love Rights,Laura Lee,89,69,3
+70,Birds Of A Feather,The Raiders,81,70,2
+71,Roll On,The New Colony Six,73,71,5
+72,California Kid And Reemo,Lobo,72,72,3
+73,Talk It Over In The Morning,Anne Murray,76,73,2
+74,Don't Try To Lay No Boogie-Woogie On The King Of Rock And Roll,John Baldry,74,74,5
+75,All My Trials,Ray Stevens,77,75,4
+76,Ghetto Woman,B.B. King,79,76,2
+77,I'd Rather Be Sorry,Ray Price,70,70,6
+78,Get It While You Can,Janis Joplin,80,78,2
+79,The Year That Clayton Delaney Died,Tom T. Hall,88,79,5
+80,Feel So Bad,Ray Charles,86,80,4
+81,Charity Ball,Fanny,-1,81,1
+82,Military Madness,Graham Nash,82,82,3
+83,He'd Rather Have The Rain,Heaven Bound with Tony Scotti,84,83,3
+84,Pin The Tail On The Donkey,The Newcomers,87,84,2
+85,Some Of Shelly's Blues,Nitty Gritty Dirt Band,90,85,2
+86,I Know I'm In Love,Chee-Chee & Peppy,91,49,10
+87,"One Tin Soldier, The Legend of Billy Jack",Coven,-1,87,1
+88,"Gypsys, Tramps & Thieves",Cher,-1,88,1
+89,Never My Love,The 5th Dimension,-1,89,1
+90,It's A Cryin' Shame,Gayle McCormick,-1,90,1
+91,You've Got To Crawl (Before You Walk),The 8th Day,-1,91,1
+92,Solo,Billie Sans,98,92,2
+93,That's The Way A Woman Is,Messengers,93,93,2
+94,Can You Get To That,Funkadelic,96,94,2
+95,Handbags And Gladrags,Chase,95,95,2
+96,A Part Of You,Brenda & The Tabulations,97,96,4
+97,It's For You,Springwell,-1,97,1
+98,Summer Side Of Life,Gordon Lightfoot,99,98,2
+99,Black Seeds Keep On Growing,The Main Ingredient,100,99,2
+100,I Like What You Give,Nolan,-1,100,1

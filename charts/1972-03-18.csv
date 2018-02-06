@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Heart Of Gold,Neil Young,2,1,7
+2,A Horse With No Name,America,7,2,5
+3,The Lion Sleeps Tonight,Robert John,3,3,12
+4,Without You,Nilsson,1,1,14
+5,Everything I Own,Bread,5,5,8
+6,Mother And Child Reunion,Paul Simon,12,6,7
+7,Precious And Few,Climax,6,3,12
+8,The Way Of Love,Cher,9,8,8
+9,Puppy Love,Donny Osmond,11,9,4
+10,Down By The Lazy River,The Osmonds,4,4,9
+11,Jungle Fever,The Chakachas,15,11,10
+12,Hurting Each Other,Carpenters,8,2,10
+13,Bang A Gong (Get It On),T. Rex,10,10,12
+14,I Gotcha,Joe Tex,18,14,9
+15,Joy,Apollo featuring Tom Parker,14,6,12
+16,Sweet Seasons,Carole King,13,9,8
+17,In The Rain,The Dramatics,27,17,4
+18,Rock And Roll Lullaby,B.J. Thomas,21,18,6
+19,Don't Say You Don't Remember,Beverly Bremers,17,15,14
+20,American Pie (Parts I & II),Don McLean,19,1,17
+21,Ain't Understanding Mellow,Jerry Butler & Brenda Lee Eager,24,21,15
+22,Let's Stay Together,Al Green,20,1,16
+23,A Cowboys Work Is Never Done,Sonny & Cher,33,23,4
+24,Floy Joy,The Supremes,16,16,11
+25,Runnin' Away,Sly & The Family Stone,25,25,7
+26,We've Got To Get It On Again,Addrisi Brothers,28,26,9
+27,Talking Loud And Saying Nothing - Part I,James Brown,30,27,6
+28,Roundabout,Yes,32,28,6
+29,Crazy Mama,J.J. Cale,38,29,8
+30,"Betcha By Golly, Wow","The Stylistics Featuring Russell Thompkins,Jr.",34,30,4
+31,Ring The Living Bell,Melanie,31,31,8
+32,My World,Bee Gees,23,16,8
+33,Rockin' Robin,Michael Jackson,68,33,2
+34,Softly Whispering I Love You,The English Congregation,29,29,9
+35,Glory Bound,The Grass Roots,43,35,6
+36,Taurus,Dennis Coffey & The Detroit Guitar Band,39,36,5
+37,No One To Depend On,Santana,37,37,6
+38,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Donnie Elbert,22,22,8
+39,Every Day Of My Life,Bobby Vinton,45,39,8
+40,Take A Look Around,The Temptations,50,40,3
+41,Could It Be Forever,David Cassidy,41,41,5
+42,The First Time Ever I Saw Your Face,Roberta Flack,55,42,3
+43,Do Your Thing,Isaac Hayes,49,43,4
+44,"You Want It, You Got It",Detroit Emeralds,36,36,11
+45,The Day I Found Myself,The Honey Cone,47,45,5
+46,Handbags And Gladrags,Rod Stewart,42,42,6
+47,Now Run And Tell That,Denise LaSalle,48,47,7
+48,King Heroin,James Brown,51,48,3
+49,Until It's Time For You To Go,Elvis Presley,40,40,8
+50,Slippin' Into Darkness,War,54,50,9
+51,"Love Me, Love Me Love",Frank Mills,46,46,8
+52,Iron Man,Black Sabbath,52,52,8
+53,Tiny Dancer,Elton John,66,53,3
+54,The Nickel Song,Melanie,35,35,9
+55,Chantilly Lace,Jerry Lee Lewis,67,55,3
+56,Suavecito,Malo,69,56,3
+57,Diamonds Are Forever,Shirley Bassey,57,57,8
+58,Day Dreaming,Aretha Franklin,-1,58,1
+59,Afro-Strut,The Nite-Liters,60,59,4
+60,Son Of My Father,Giorgio,62,60,3
+61,Goin' Down (On The Road To L.A.),Terry Black & Laurel Ward,61,61,6
+62,Footstompin' Music,Grand Funk Railroad,44,29,11
+63,Give Ireland Back To The Irish,Wings,78,63,2
+64,(Oh Lord Won't You Buy Me A) Mercedes Benz,Goose Creek Symphony,65,64,8
+65,Cheer,Potliquor,70,65,7
+66,Heartbroken Bopper,The Guess Who,73,66,3
+67,Do What You Set Out To Do,Bobby Bland,64,64,4
+68,Waking Up Alone,Paul Williams,71,68,5
+69,That's What Love Will Make You Do,Little Milton,59,59,6
+70,Brian's Song,Michel Legrand,58,56,8
+71,Louisianna,Mike Kennedy,76,71,3
+72,Money Runner,Quincy Jones,77,72,2
+73,What It Is,The Undisputed Truth,74,73,4
+74,Mr. Penguin-Pt. I,Lunar Funk,63,63,7
+75,Living Without You,Manfred Mann's Earth Band,79,75,4
+76,Be My Lover,Alice Cooper,81,76,2
+77,Rock And Roll,Led Zeppelin,-1,77,1
+78,"Vincent (Starry, Starry Night)/Castles In The Air",Don McLean,-1,78,1
+79,Since I Fell For You,Laura Lee,80,79,3
+80,Doctor My Eyes,Jackson Browne,-1,80,1
+81,Everyday,John Denver,82,81,2
+82,Nice To Be With You,Gallery,83,82,4
+83,Up In Heah,Ike & Tina Turner,84,83,4
+84,Your Precious Love,Linda Jones,85,84,4
+85,Rock Me On The Water,Linda Ronstadt,87,85,3
+86,If We Only Have Love,Dionne Warwicke,90,86,2
+87,Jump Into The Fire,Nilsson,-1,87,1
+88,Taxi,Harry Chapin,100,88,2
+89,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",97,89,2
+90,Run Run Run,Jo Jo Gunne,-1,90,1
+91,Son Of My Father,Chicory,92,91,2
+92,Josie,Kris Kristofferson,99,92,2
+93,Sweet Sixteen,B.B. King,95,93,3
+94,Hearsay,The Soul Children,-1,94,1
+95,You Are The One,Sugar Bears,98,95,2
+96,"Willpower Weak, Temptation Strong",Bullet,96,96,2
+97,To Get To You,Jerry Wallace,-1,97,1
+98,Thank God For You Baby,Pacific Gas And Electric,-1,98,1
+99,Rockin' With The King,Canned Heat,-1,99,1
+100,Nutrocker,"Emerson, Lake & Palmer",-1,100,1

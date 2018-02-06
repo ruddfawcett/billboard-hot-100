@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Kiss On My List,Daryl Hall John Oates,4,1,12
+2,Rapture,Blondie,1,1,11
+3,The Best Of Times,Styx,3,3,12
+4,Woman,John Lennon,2,2,13
+5,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",7,5,9
+6,Morning Train (Nine To Five),Sheena Easton,11,6,9
+7,Crying,Don McLean,5,5,12
+8,While You See A Chance,Steve Winwood,9,8,10
+9,Keep On Loving You,REO Speedwagon,8,1,20
+10,Don't Stand So Close To Me,The Police,12,10,10
+11,I Can't Stand It,Eric Clapton And His Band,13,11,7
+12,Angel Of The Morning,Juice Newton,15,12,8
+13,Hello Again,Neil Diamond,6,6,11
+14,Being With You,Smokey Robinson,20,14,9
+15,Her Town Too,James Taylor & J.D. Souther,18,15,5
+16,9 To 5,Dolly Parton,16,1,20
+17,Somebody's Knockin',Terri Gibbs,19,17,13
+18,What Kind Of Fool,Barbra Streisand & Barry Gibb,10,10,11
+19,Don't Stop The Music,Yarbrough & Peoples,21,19,10
+20,The Winner Takes It All,ABBA,14,8,21
+21,Living Inside Myself,Gino Vannelli,32,21,4
+22,Just Between You And Me,April Wine,25,22,10
+23,Ain't Even Done With The Night,John Cougar,26,23,11
+24,Take It On The Run,REO Speedwagon,27,24,4
+25,Time Out Of Mind,Steely Dan,28,25,5
+26,Too Much Time On My Hands,Styx,29,26,4
+27,Sweetheart,Franke & The Knockouts,31,27,6
+28,You Better You Bet,The Who,35,28,4
+29,It's A Love Thing,The Whispers,33,29,9
+30,Celebration,Kool & The Gang,17,1,25
+31,How 'bout Us,Champaign,36,31,9
+32,I Love You,Climax Blues Band,38,32,8
+33,Bette Davis Eyes,Kim Carnes,57,33,3
+34,Sukiyaki,A Taste Of Honey,43,34,6
+35,I Missed Again,Phil Collins,47,35,4
+36,Turn Me Loose,Loverboy,37,36,11
+37,The Party's Over (Hopelessly In Love),Journey,39,37,7
+38,Watching The Wheels,John Lennon,52,38,3
+39,Mister Sandman,Emmylou Harris,42,39,7
+40,Me (Without You),Andy Gibb,41,40,5
+41,Wasn't That A Party,The Rovers,44,41,8
+42,Hold On Loosely,38 Special,45,42,7
+43,Love You Like I Never Loved Before,John O'Banion,53,43,3
+44,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,48,44,6
+45,Lonely Together,Barry Manilow,51,45,5
+46,I Love A Rainy Night,Eddie Rabbitt,23,1,23
+47,Precious To Me,Phil Seymour,22,22,12
+48,A Little In Love,Cliff Richard,24,17,18
+49,Treat Me Right,Pat Benatar,30,18,13
+50,Hearts On Fire,Randy Meisner,34,19,12
+51,Who Do You Think You're Foolin',Donna Summer,40,40,8
+52,Games People Play,The Alan Parsons Project,49,16,19
+53,What Are We Doin' In Love,Dottie West with Kenny Rogers,67,53,3
+54,Say You'll Be Mine,Christopher Cross,64,54,3
+55,Limelight,Rush,55,55,5
+56,Games,Phoebe Snow,46,46,8
+57,Running Scared,The Fools,50,50,6
+58,I Loved 'em Every One,T.G. Sheppard,59,58,5
+59,Lovers After All,Melissa Manchester & Peabo Bryson,54,54,7
+60,Fade Away,Bruce Springsteen,56,20,10
+61,Jessie's Girl,Rick Springfield,72,61,3
+62,Memories,Tierra,62,62,5
+63,Blessed Are The Believers,Anne Murray,73,63,3
+64,Walking On Thin Ice,Yoko Ono,58,58,6
+65,Right Away,Hawks,63,63,5
+66,Find Your Way Back,Jefferson Starship,81,66,2
+67,Guitar Man,Elvis Presley,65,28,18
+68,Lover,Michael Stanley Band,76,68,3
+69,Somebody Send My Baby Home,Lenny LeBlanc,77,69,3
+70,Shotgun Rider,Delbert McClinton,80,70,3
+71,Since I Don't Have You,Don McLean,-1,71,1
+72,But You Know I Love You,Dolly Parton,82,72,2
+73,I Ain't Gonna Stand For It,Stevie Wonder,60,11,18
+74,I Don't Need You,Rupert Holmes,84,74,2
+75,I Have The Skill,Sherbs,61,61,6
+76,Medley,Stars On 45,-1,76,1
+77,96 Tears,Garland Jeffreys,66,66,5
+78,Super Trouper,ABBA,88,78,2
+79,Somebody Special,Rod Stewart,71,71,4
+80,Playing With Lightning,Shot In The Dark,90,80,2
+81,Ai No Corrida (I-No-Ko-ree-da),Quincy Jones,-1,81,1
+82,The Tide Is High,Blondie,75,1,22
+83,That Didn't Hurt Too Bad,Dr. Hook,-1,83,1
+84,Burn Rubber (Why You Wanna Hurt Me),The Gap Band,85,84,7
+85,One More Chance, Diana Ross,-1,85,1
+86,Lately,Stevie Wonder,-1,86,1
+87,Winning,Santana,-1,87,1
+88,Don't Know Much,Bill Medley,89,88,3
+89,Seduced,Leon Redbone,-1,89,1
+90,All American Girls,Sister Sledge,79,79,4
+91,Smoky Mountain Rain,Ronnie Milsap,78,24,20
+92,Hold On,Badfinger,70,56,7
+93,Heaven In Your Arms,Dan Hartman,-1,93,1
+94,Giving It Up For Your Love,Delbert McClinton,68,8,19
+95,It's My Job,Jimmy Buffett,69,57,8
+96,Bon Bon Vie (Gimme The Good Life),T.S. Monk,74,63,8
+97,Unchained Melody,Heart,83,83,3
+98,Ah! Leah!,Donnie Iris,93,29,18
+99,Same Old Lang Syne,Dan Fogelberg,86,9,18
+100,Living In A Fantasy,Leo Sayer,87,23,12

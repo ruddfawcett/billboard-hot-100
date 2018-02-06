@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Monday, Monday",The Mamas & The Papas,1,1,6
+2,Good Lovin',The Young Rascals,2,1,10
+3,Rainy Day Women #12 & 35,Bob Dylan,7,3,5
+4,Kicks,Paul Revere & The Raiders Featuring Mark Lindsay,5,4,9
+5,Sloop John B,The Beach Boys,3,3,7
+6,(You're My) Soul And Inspiration,The Righteous Brothers,4,1,11
+7,"How Does That Grab You, Darlin'?",Nancy Sinatra,15,7,4
+8,Message To Michael,Dionne Warwick,13,8,7
+9,When A Man Loves A Woman,Percy Sledge,16,9,6
+10,Gloria,Shadows Of Knight,10,10,9
+11,Shapes Of Things,The Yardbirds,14,11,9
+12,Leaning On The Lamp Post,Herman's Hermits,9,9,6
+13,A Groovy Kind Of Love,The Mindbenders,18,13,5
+14,Secret Agent Man,Johnny Rivers,6,3,9
+15,Love Is Like An Itching In My Heart,The Supremes,26,15,3
+16,Eight Miles High,The Byrds,17,16,6
+17,Time Won't Let Me,The Outsiders,11,5,13
+18,The Sun Ain't Gonna Shine (Anymore),The Walker Bros.,24,18,5
+19,Bang Bang (My Baby Shot Me Down),Cher,8,2,10
+20,Nothing's Too Good For My Baby,Stevie Wonder,25,20,5
+21,Try Too Hard,The Dave Clark Five,12,12,7
+22,Let's Start All Over Again,Ronnie Dove,27,22,5
+23,It's A Man's Man's Man's World,James Brown And The Famous Flames,31,23,3
+24,I Am A Rock,Simon & Garfunkel,62,24,2
+25,Did You Ever Have To Make Up Your Mind?,The Lovin' Spoonful,65,25,2
+26,Love's Made A Fool Of You,Bobby Fuller Four,29,26,5
+27,Rhapsody In The Rain,Lou Christie,21,16,8
+28,I'm So Lonesome I Could Cry,B.J. Thomas And The Triumphs,20,8,13
+29,Daydream,The Lovin' Spoonful,19,2,12
+30,Together Again,Ray Charles,22,19,8
+31,Come On Let's Go,The McCoys,48,31,4
+32,Backstage,Gene Pitney,49,32,4
+33,I'll Take Good Care Of You,Garnet Mimms,33,33,8
+34,I Can't Grow Peaches On A Cherry Tree,Just Us,39,34,10
+35,"The ""A"" Team",SSgt Barry Sadler,41,35,4
+36,A Sign Of The Times,Petula Clark,23,11,8
+37,The Ballad Of Irving,Frank Gallop,37,37,5
+38,Love Me With All Of Your Heart,The Bachelors,43,38,5
+39,History Repeats Itself,Buddy Starcher,44,39,6
+40,"I'm Comin' Home, Cindy",Trini Lopez,40,40,6
+41,Band Of Gold,Mel Carter,47,41,6
+42,Twinkle Toes,Roy Orbison,52,42,3
+43,(I'm A) Road Runner,Jr. Walker & The All Stars,60,43,6
+44,I Can't Let Go,The Hollies,42,42,9
+45,Distant Drums,Jim Reeves,55,45,6
+46,She Blew A Good Thing,The Poets,45,45,9
+47,Dum-De-Da,Bobby Vinton,53,47,3
+48,"Paint It, Black",The Rolling Stones,-1,48,1
+49,Green Grass,Gary Lewis And The Playboys,-1,49,1
+50,You're The One,The Marvelettes,54,50,4
+51,Cool Jerk,The Capitols,56,51,3
+52,Barefootin',Robert Parker,70,52,4
+53,The More I See You,Chris Montez,61,53,5
+54,The Cruel War,"Peter, Paul & Mary",59,54,4
+55,Hold On! I'm A Comin',Sam & Dave,58,55,4
+56,Tippy Toeing,The Harden Trio,46,44,10
+57,Evol-Not Love,The Five Americans,57,57,5
+58,Got My Mojo Working (Part I),Jimmy Smith,51,51,7
+59,Till The End Of The Day,The Kinks,50,50,8
+60,I Love You 1000 Times,The Platters,68,60,3
+61,Sweet Talkin' Guy,The Chiffons,86,61,2
+62,Come Running Back,Dean Martin,83,62,2
+63,Dirty Water,The Standells,69,63,4
+64,Remember The Rain,Bob Lind,64,64,4
+65,He Cried,The Shangri-Las,67,65,6
+66,Double Shot (Of My Baby's Love),Swingin' Medallions,76,66,4
+67,I Love You Drops,Vic Dana,77,67,2
+68,Mame,Bobby Darin,73,68,3
+69,You've Got My Mind Messed Up,James Carr,63,63,6
+70,The Teaser,Bob Kuban And The In-Men,79,70,3
+71,Strangers In The Night,Frank Sinatra,90,71,2
+72,Elvira,Dallas Frazier,74,72,3
+73,Please Don't Sell My Daddy No More Wine,The Greenwoods,88,73,3
+74,Oh How Happy,Shades Of Blue,89,74,2
+75,Gloria,Them,75,75,5
+76,Darling Baby,The Elgins,72,72,8
+77,There's No Living Without Your Loving,Peter And Gordon,80,77,2
+78,Let Me Be Good To You,Carla Thomas,78,78,3
+79,Love Takes A Long Time Growing,Deon Jackson,82,79,3
+80,Wang Dang Doodle,Ko Ko Taylor,81,80,4
+81,Peter Rabbit,Dee Jay And The Runaways,87,81,2
+82,The Last Word In Lonesome Is Me,Eddy Arnold,-1,82,1
+83,Downtown,Mrs. Miller,85,83,3
+84,I Know You Better Than That,Bobby Goldsboro,-1,84,1
+85,Truly Julie's Blues (I'll Be There),Bob Lind,91,85,2
+86,Better Use Your Head,Little Anthony And The Imperials,-1,86,1
+87,Girl In Love,The Outsiders,-1,87,1
+88,Mama,B.J. Thomas,-1,88,1
+89,It's Over,Jimmie Rodgers,-1,89,1
+90,S.Y.S.L.J.F.M. (The Letter Song),Joe Tex,-1,90,1
+91,My Little Red Book,Love,97,91,3
+92,Pin The Tail On The Donkey,Paul Peek,94,91,5
+93,Still,The Sunrays,93,93,2
+94,The Big Hurt,Del Shannon,95,94,2
+95,A Lover's Concerto,Mrs. Miller,96,95,2
+96,Headline News,Edwin Starr,100,96,2
+97,I'll Love You Forever,The Holidays,98,97,2
+98,Marble Breaks And Iron Bends,Drafi,-1,98,1
+99,Louie Louie,The Kingsmen,-1,2,17
+100,Everyday I Have To Cry,The Gentrys,-1,100,1

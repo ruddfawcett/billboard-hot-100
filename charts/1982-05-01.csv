@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Love Rock 'N Roll,Joan Jett & the Blackhearts,1,1,13
+2,Chariots Of Fire - Titles,Vangelis,3,2,21
+3,Ebony And Ivory,Paul McCartney And Stevie Wonder,6,3,4
+4,Freeze-frame,The J. Geils Band,4,4,11
+5,Don't Talk To Strangers,Rick Springfield,5,5,9
+6,We Got The Beat,Go-Go's,2,2,14
+7,Do You Believe In Love,Huey Lewis & The News,7,7,13
+8,867-5309/jenny,Tommy Tutone,10,8,15
+9,'65 Love Affair,Paul Davis,9,9,10
+10,I've Never Been To Me,Charlene,20,10,12
+11,Did It In A Minute,Daryl Hall John Oates,14,11,7
+12,Key Largo,Bertie Higgins,8,8,25
+13,Get Down On It,Kool & The Gang,15,13,10
+14,The Beatles' Movie Medley,The Beatles,17,14,6
+15,The Other Woman,Ray Parker Jr.,22,15,7
+16,Always On My Mind,Willie Nelson,21,16,9
+17,Goin' Down,Greg Guidry,19,17,12
+18,Edge Of Seventeen (Just Like The White Winged Dove),Stevie Nicks,11,11,11
+19,(oh) Pretty Woman,Van Halen,12,12,13
+20,Heat Of The Moment,Asia,55,20,3
+21,Don't You Want Me,The Human League,27,21,9
+22,Hang Fire,The Rolling Stones,24,22,7
+23,Empty Garden (Hey Hey Johnny),Elton John,28,23,7
+24,Make A Move On Me,Olivia Newton-John,13,5,12
+25,Baby Makes Her Blue Jeans Talk,Dr. Hook,25,25,10
+26,Run For The Roses,Dan Fogelberg,38,26,5
+27,Theme From Magnum P.i.,Mike Post,29,27,13
+28,Man On Your Mind,Little River Band ,42,28,5
+29,Stars on 45 III,Stars On,32,29,6
+30,Still In Saigon,The Charlie Daniels Band,33,30,6
+31,Genius Of Love,Tom Tom Club,31,31,15
+32,Making Love,Roberta Flack,36,32,9
+33,Let's Hang On,Barry Manilow,37,33,7
+34,Fantasy,Aldo Nova,49,34,6
+35,Pac-Man Fever,Buckner & Garcia,35,9,17
+36,If I Had My Wish Tonight,David Lasley,40,36,8
+37,It's Gonna Take A Miracle,Deniece Williams,43,37,5
+38,Shanghai Breezes,John Denver,39,38,9
+39,My Girl,Donnie Iris,47,39,6
+40,Wake Up Little Susie,Simon & Garfunkel,46,40,5
+41,I'll Try Something New,A Taste Of Honey,41,41,8
+42,Without You (Not Another Lonely Night),Franke & The Knockouts,53,42,5
+43,Since You're Gone,The Cars,44,43,6
+44,Man On The Corner,Genesis,45,44,7
+45,Circles,Atlantic Starr,50,45,6
+46,When He Shines,Sheena Easton,52,46,5
+47,I'm In Love Again,Pia Zadora,51,47,6
+48,Tainted Love,Soft Cell,48,48,16
+49,Work That Body,Diana Ross,56,49,4
+50,One To One,Carole King,54,50,6
+51,When It's Over,Loverboy,58,51,4
+52,Secret Journey,The Police,64,52,4
+53,Baby Step Back,Gordon Lightfoot,57,53,5
+54,If It Ain't One Thing...It's Another,"Richard ""Dimples"" Fields",60,54,5
+55,Just To Satisfy You,Waylon & Willie,61,55,5
+56,I Don't Know Where To Start,Eddie Rabbitt,68,56,4
+57,The Gigolo,O'Bryan,62,57,6
+58,I'll Drink To You,Duke Jupiter,59,58,6
+59,Rosanna,Toto,72,59,3
+60,A Night To Remember,Shalamar,65,60,4
+61,Finally,T.G. Sheppard,67,61,5
+62,Find Another Fool,Quarterflash,16,16,12
+63,Crimson And Clover,Joan Jett & the Blackhearts,-1,63,1
+64,Friends In Love,Dionne Warwick & Johnny Mathis,76,64,3
+65,Let It Whip,Dazz Band,88,65,2
+66,Hurts So Good,John Cougar,82,66,2
+67,Old Fashioned Love,Smokey Robinson,80,67,3
+68,Cat People (Putting Out Fire),David Bowie,74,68,3
+69,Turn On Your Radar,Prism,79,69,3
+70,Teach Me Tonight,Al Jarreau,70,70,5
+71,Murphy's Law,Cheri,73,71,4
+72,How Long,Rod Stewart,84,72,2
+73,Stone Cold, Rainbow,85,73,2
+74,"Baby, Come To Me",Patti Austin With James Ingram,81,74,2
+75,Beechwood 4-5789,Carpenters,83,75,2
+76,If I Could Get You (into my Life),Gene Cotton,78,76,8
+77,Right The First Time,Gamma,77,77,5
+78,Body Language,Queen,-1,78,1
+79,Personally,Karla Bonoff,-1,79,1
+80,Only The Lonely,The Motels,90,80,2
+81,Any Day Now,Ronnie Milsap,-1,81,1
+82,Caught Up In You,38 Special,-1,82,1
+83,Fool For Your Love,Jimmy Hall,-1,83,1
+84,The Visitors,ABBA,91,84,3
+85,Nobody Said It Was Easy (Lookin' For The Lights),Le Roux,18,18,12
+86,Just Another Day In Paradise,Bertie Higgins,-1,86,1
+87,Put Away Your Love,Alessi,-1,87,1
+88,Open Arms,Journey,23,2,16
+89,Sing A Simple Song,West Street Mob,92,89,3
+90,Forget Me Nots,Patrice Rushen,-1,90,1
+91,That Girl,Stevie Wonder,26,4,16
+92,Mama Used To Say,Junior,30,30,12
+93,My Guy,Sister Sledge,93,23,14
+94,One Hundred Ways,Quincy Jones Featuring James Ingram,34,14,20
+95,Should I Do It,The Pointer Sisters,63,13,15
+96,You Got The Power,War,66,66,5
+97,All Night With Me,Laura Branigan,69,69,7
+98,Make Up Your Mind,Aurra,71,71,7
+99,Juke Box Hero,Foreigner,75,26,12
+100,Take Off,Bob & Doug McKenzie,89,16,14

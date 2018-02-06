@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Brand New Key,Melanie,2,1,9
+2,Family Affair,Sly & The Family Stone,1,1,8
+3,American Pie (Parts I & II),Don McLean,9,3,5
+4,An Old Fashioned Love Song,Three Dog Night,4,4,7
+5,Got To Be There,Michael Jackson,5,4,9
+6,Have You Seen Her,The Chi-lites,3,3,10
+7,All I Ever Need Is You,Sonny & Cher,8,7,11
+8,Scorpio,Dennis Coffey & The Detroit Guitar Band,11,8,9
+9,Cherish,David Cassidy,10,9,8
+10,Hey Girl/I Knew You When,Donny Osmond,12,10,5
+11,Baby I'm - A Want You,Bread,7,3,10
+12,Respect Yourself,The Staple Singers,13,12,11
+13,Sunshine,Jonathan Edwards,20,13,7
+14,You Are Everything,The Stylistics,15,14,8
+15,Where Did Our Love Go,Donnie Elbert,16,15,11
+16,Theme From Shaft,Isaac Hayes,6,1,11
+17,I'd Like To Teach The World To Sing (In Perfect Harmony),The New Seekers,28,17,4
+18,Superstar (Remember How You Got Where You Are),The Temptations,18,18,8
+19,"Gypsys, Tramps & Thieves", Cher,17,1,15
+20,Let's Stay Together,Al Green,30,20,4
+21,I'd Like To Teach The World To Sing (In Perfect Harmony),The Hillside Singers,26,21,5
+22,One Monkey Don't Stop No Show Part I,The Honey Cone,24,22,6
+23,Clean Up Woman,Betty Wright,29,23,5
+24,(I Know) I'm Losing You,Rod Stewart With Faces,25,24,6
+25,Stones/Crunchy Granola Suite,Neil Diamond,14,14,7
+26,Day After Day,Badfinger,39,26,4
+27,Rock Steady,Aretha Franklin,19,9,9
+28,Drowning In The Sea Of Love,Joe Simon,32,28,5
+29,"Theme From ""Summer Of '42""",Peter Nero,21,21,11
+30,An American Trilogy,Mickey Newbury,31,30,8
+31,Sugar Daddy,Jackson 5,45,31,3
+32,Hey Big Brother,Rare Earth,38,32,5
+33,Hallelujah,Sweathog,33,33,7
+34,Behind Blue Eyes,The Who,34,34,8
+35,Desiderata,Les Crane,22,8,12
+36,A Natural Man,Lou Rawls,27,17,18
+37,Kiss An Angel Good Mornin',Charley Pride,40,37,6
+38,George Jackson,Bob Dylan,46,38,4
+39,Can I Get A Witness,Lee Michaels,42,39,6
+40,"White Lies, Blue Eyes",Bullet,44,40,8
+41,Nothing To Hide,Tommy James,43,41,5
+42,I'm A Greedy Man - Part I,James Brown,35,35,7
+43,Anticipation,Carly Simon,51,43,3
+44,It's One Of Those Nights (Yes Love),The Partridge Family Starring Shirley Jones Featuring David Cassidy,57,44,2
+45,Once You Understand,Think,67,45,4
+46,Me And Bobby McGee,Jerry Lee Lewis,56,46,5
+47,Friends With You,John Denver,47,47,8
+48,Make Me The Woman That You Go Home To,Gladys Knight And The Pips,83,48,2
+49,Let It Be,Joan Baez,49,49,7
+50,Your Move (I've Seen All Good People),Yes,48,40,14
+51,The Witch Queen Of New Orleans,Redbone,54,51,6
+52,Satisfaction,Smokey Robinson & The Miracles,52,52,6
+53,Sour Suite,The Guess Who,55,53,5
+54,My Boy,Richard Harris,59,54,6
+55,Ain't Nobody Home,B.B. King,58,55,7
+56,Looking For A Love,The J. Geils Band,60,56,4
+57,Levon,Elton John,80,57,2
+58,Those Were The Days,Carroll O'Connor And Jean Stapleton (As The Bunkers),64,58,3
+59,Carolyn,Merle Haggard And The Strangers,62,59,4
+60,That's The Way I Feel About Cha,Bobby Womack & Peace ,71,60,3
+61,Pretty As You Feel,Jefferson Airplane,63,61,6
+62,Devil You,Stampeders,68,62,4
+63,Turn Your Radio On,Ray Stevens,65,63,6
+64,Truckin',Grateful Dead,70,64,5
+65,Everybody Knows About My Good Thing Pt. 1,Little Johnny Taylor,73,65,3
+66,Daisy Mae,"Hamilton, Joe Frank & Reynolds",81,66,4
+67,Black Dog,Led Zeppelin,-1,67,1
+68,No Sad Song,Helen Reddy,75,68,4
+69,Take It Slow (Out In The Country),Lighthouse,72,69,3
+70,Get Down,Curtis Mayfield,69,69,7
+71,Tightrope Ride,The Doors,76,71,5
+72,After All This Time,Merry Clayton,82,72,3
+73,Lay Lady Lay,The Isley Brothers,77,73,4
+74,Superstar/Bless The Beasts And Children,Carpenters,74,2,17
+75,Way Back Home,Jr. Walker & The All Stars,79,75,3
+76,Without You,Nilsson,99,76,2
+77,Don't Say You Don't Remember,Beverly Bremers,98,77,2
+78,Love Potion Number Nine,The Coasters,85,78,3
+79,Fire And Water,Wilson Pickett,-1,79,1
+80,The Harder I Try (The Bluer I Get),Free Movement,89,80,3
+81,Never Been To Spain,Three Dog Night,-1,81,1
+82,Show Me How,The Emotions,93,82,5
+83,So Many People,Chase,88,83,2
+84,No Good To Cry,The Poppy Family,90,84,3
+85,You Make Your Own Heaven And Hell Right Here On Earth,The Undisputed Truth,87,85,2
+86,Get Up And Get Down,The Dramatics,86,86,3
+87,What Am I Living For,Ray Charles,-1,87,1
+88,Under My Wheels,Alice Cooper,-1,88,1
+89,Keep On Keeping On,N.F. Porter,94,89,2
+90,Five Hundred Miles,Heaven Bound with Tony Scotti,92,90,3
+91,She's All I Got,Johnny Paycheck,91,91,2
+92,Son Of Shaft,The Bar-Kays,-1,92,1
+93,Ain't Understanding Mellow,Jerry Butler & Brenda Lee Eager,95,93,3
+94,Long Time To Be Alone,The New Colony Six,97,94,3
+95,Open The Door (Song For Judith),Judy Collins,96,95,2
+96,Love Gonna Pack Up (And Walk Out),The Persuaders,-1,96,1
+97,Do The Funky Penguin Part I,Rufus Thomas,-1,97,1
+98,Keep Playin' That Rock 'N' Roll,Edgar Winter's White Trash,100,98,2
+99,Pain (Part I),Ohio Players,-1,99,1
+100,"Medley From ""Superstar"" (A Rock Opera)",The Assembled Multitude,-1,95,2

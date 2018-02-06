@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Windy,The Association,1,1,9
+2,Can't Take My Eyes Off You,Frankie Valli,3,2,10
+3,Light My Fire,The Doors,8,3,8
+4,San Francisco (Be Sure To Wear Flowers In Your Hair),Scott McKenzie,4,4,9
+5,Little Bit O' Soul,The Music Explosion,2,2,11
+6,I Was Made To Love Her,Stevie Wonder,11,6,7
+7,Up -- Up And Away,The 5th Dimension,7,7,8
+8,A Whiter Shade Of Pale,Procol Harum,10,8,5
+9,C'mon Marianne,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",9,9,7
+10,Come On Down To My Boat,Every Mothers' Son,6,6,12
+11,"Mercy, Mercy, Mercy",The Buckinghams,17,11,6
+12,White Rabbit,Jefferson Airplane,12,12,5
+13,Don't Sleep In The Subway,Petula Clark,5,5,8
+14,Society's Child (Baby I've Been Thinking),Janis Ian,14,14,9
+15,Here We Go Again,Ray Charles,15,15,10
+16,Jackson,Nancy Sinatra & Lee Hazlewood,21,16,5
+17,I Take It Back,Sandy Posey,20,17,7
+18,Don't Go Out Into The Rain (You're Going To Melt),Herman's Hermits,23,18,5
+19,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,19,19,11
+20,Soul Finger,Bar-Kays,22,20,10
+21,Make Me Yours,Bettye Swann,26,21,10
+22,For Your Love,Peaches & Herb,27,22,5
+23,Carrie-Anne,The Hollies,28,23,6
+24,Step Out Of Your Mind,The American Breed,24,24,8
+25,More Love,Smokey Robinson & The Miracles,25,25,6
+26,Silence Is Golden,The Tremeloes,32,26,6
+27,There Goes My Everything,Engelbert Humperdinck,30,27,5
+28,Let's Live For Today,The Grass Roots,16,8,11
+29,The Tracks Of My Tears,Johnny Rivers,13,10,8
+30,I Like The Way,Tommy James And The Shondells,35,30,4
+31,A Girl Like You,The Young Rascals,61,31,2
+32,In The Chapel In The Moonlight,Dean Martin,42,32,3
+33,My Mammy,The Happenings,52,33,2
+34,The Happening,Herb Alpert & The Tijuana Brass,53,34,3
+35,Hypnotized,Linda Jones,45,35,5
+36,You Were On My Mind,Crispian St. Peters,57,36,4
+37,Let The Good Times Roll & Feel So Good,Bunny Sigler,47,37,5
+38,Alfie,Dionne Warwick,18,15,16
+39,Your Unchanging Love,Marvin Gaye,49,39,4
+40,Love Me Tender,Percy Sledge,41,40,6
+41,Joy,Mitch Ryder,58,41,4
+42,To Love Somebody,Bee Gees,79,42,2
+43,Ding Dong! The Witch Is Dead,The Fifth Estate,29,11,10
+44,She'd Rather Be With Me,The Turtles,33,3,11
+45,Show Business,Lou Rawls,48,45,4
+46,Airplane Song (My Airplane),The Royal Guardsmen,46,46,6
+47,Somebody Help Me,The Spencer Davis Group,54,47,6
+48,You Wanted Someone To Play With (I Wanted Someone To Love),Frankie Laine,51,48,6
+49,Take Me (Just As I Am),Solomon Burke,50,49,4
+50,You Only Live Twice,Nancy Sinatra,55,50,5
+51,Pleasant Valley Sunday,The Monkees,-1,51,1
+52,Pictures Of Lily,The Who,65,52,4
+53,The River Is Wide,The Forum,64,53,3
+54,(I Wanna) Testify,The Parliaments,60,54,4
+55,For Your Precious Love,"Oscar Toney, Jr.",34,23,9
+56,Soothe Me,Sam & Dave,56,56,6
+57,Out & About,Tommy Boyce & Bobby Hart,81,57,2
+58,Don't Let The Rain Fall Down On Me,The Critters,72,58,3
+59,Don't Blame The Children,Sammy Davis Jr.,37,37,9
+60,"Shake, Rattle & Roll",Arthur Conley,31,31,7
+61,Lonely Drifter,Pieces Of Eight,62,61,5
+62,Thank The Lord For The Night Time,Neil Diamond,86,62,2
+63,Bluebird,The Buffalo Springfield,78,63,2
+64,I Take What I Want,James & Bobby Purify,87,64,2
+65,Baby I Love You,Aretha Franklin,-1,65,1
+66,Washed Ashore (On A Lonely Island In The Sea),The Platters,82,66,4
+67,You Keep Me Hangin' On,The Vanilla Fudge,70,67,3
+68,Gentle On My Mind,Glen Campbell,85,68,3
+69,Everybody Needs Love,Gladys Knight And The Pips,84,69,3
+70,My World Fell Down,Sagittarius,71,70,5
+71,All You Need Is Love,The Beatles,-1,71,1
+72,Baby Please Come Back Home,J.J. Barnes,69,61,10
+73,It's A Happening World,The Tokens,-1,73,1
+74,Groovy Summertime,The Love Generation,75,74,5
+75,Cold Sweat - Part 1,James Brown And The Famous Flames,92,75,2
+76,Give Me Time,Dusty Springfield,76,76,4
+77,I'll Do It For You,Toussaint McCall,77,77,4
+78,Words,The Monkees,-1,78,1
+79,Blue's Theme,Davie Allan And The Arrows,90,79,7
+80,Mr. Pleasant,The Kinks,80,80,4
+81,I'll Turn To Stone,Four Tops,83,81,2
+82,A Thousand Shadows,The Seeds,100,82,2
+83,Black Sheep,Sam The Sham and the Pharaohs,68,68,6
+84,Shoot Your Shot,Jr. Walker & The All Stars,-1,84,1
+85,The Sweetest Thing This Side Of Heaven,Chris Bartley,-1,85,1
+86,Summer And Sandy,Lesley Gore,66,65,7
+87,I Can't Go On Livin' Baby Without You,Nino Tempo & April Stevens,-1,87,1
+88,Omaha,Moby Grape,88,88,3
+89,Funky Broadway Part I,Dyke And The Blazers,89,81,9
+90,Happy,The Sunshine Company,97,90,2
+91,My Elusive Dreams,David Houston & Tammy Wynette,94,91,3
+92,Happy,The Blades Of Grass,96,92,2
+93,Don't You Miss Me A Little Bit Baby,Jimmy Ruffin,-1,93,1
+94,Come Back When You Grow Up,Bobby Vee And The Strangers,-1,94,1
+95,Let It Be Me,The Sweet Inspirations,-1,95,1
+96,"Apples, Peaches, Pumpkin Pie",Jay And The Techniques,98,96,2
+97,Brown Eyed Girl,Van Morrison,99,97,2
+98,The Look Of Love,Dusty Springfield,-1,98,1
+99,Slippin' & Slidin',Willie Mitchell,-1,99,1
+100,I'll Never Find Another You,Sonny James,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You Are The Sunshine Of My Life,Stevie Wonder,2,1,10
+2,Tie A Yellow Ribbon Round The Ole Oak Tree,Dawn Featuring Tony Orlando,1,1,14
+3,Little Willy,The Sweet,3,3,18
+4,Frankenstein,Edgar Winter Group,7,4,11
+5,Daniel,Elton John,9,5,7
+6,My Love,Paul McCartney And Wings,13,6,6
+7,Drift Away,Dobie Gray,5,5,13
+8,Stuck In The Middle With You,Stealers Wheel,6,6,12
+9,Pillow Talk,Sylvia (r&b),14,9,9
+10,Wildflower,Skylark,12,10,14
+11,Reeling In The Years,Steely Dan,11,11,11
+12,The Night The Lights Went Out In Georgia,Vicki Lawrence,8,1,15
+13,Hocus Pocus,Focus,17,13,12
+14,Daisy A Day,Jud Strunk,15,14,14
+15,The Cisco Kid,War,4,2,12
+16,Funky Worm,Ohio Players,19,16,13
+17,Out Of The Question,Gilbert O'Sullivan,18,17,12
+18,The Right Thing To Do,Carly Simon,21,18,8
+19,Thinking Of You,Loggins & Messina,22,19,8
+20,I'm Gonna Love You Just A Little More Baby,Barry White,24,20,6
+21,The Twelfth Of Never,Donny Osmond,10,8,12
+22,Playground In My Mind,Clint Holmes,27,22,9
+23,Steamroller Blues/Fool,Elvis Presley,26,23,6
+24,Sing,Carpenters,16,3,13
+25,Right Place Wrong Time,Dr. John,34,25,6
+26,Leaving Me,The Independents,30,26,7
+27,I'm Doin' Fine Now,New York City,28,27,12
+28,"It Sure Took A Long, Long Time",Lobo,29,28,7
+29,No More Mr. Nice Guy,Alice Cooper,39,29,6
+30,Will It Go Round In Circles,Billy Preston,41,30,8
+31,Armed And Extremely Dangerous,First Choice,32,31,11
+32,Walk On The Wild Side,Lou Reed,20,16,14
+33,Super Fly Meets Shaft,John & Ernest,35,33,6
+34,Teddy Bear Song,Barbara Fairchild,37,34,13
+35,One Of A Kind (Love Affair),The Spinners,50,35,4
+36,I Can Understand It,The New Birth,36,36,9
+37,And I Love You So,Perry Como,46,37,6
+38,Hearts Of Stone,The Blue Ridge Rangers,42,38,8
+39,Let's Pretend,Raspberries,40,39,9
+40,Masterpiece,The Temptations,25,7,13
+41,Drinking Wine Spo-dee O'dee,Jerry Lee Lewis,44,41,7
+42,Give It To Me,The J. Geils Band,52,42,8
+43,Long Train Runnin',The Doobie Brothers,54,43,5
+44,Close Your Eyes,Edward Bear,48,44,6
+45,I Knew Jesus (Before He Was A Star),Glen Campbell,47,45,10
+46,Back When My Hair Was Short,Gunhill Road,51,46,8
+47,"Bad, Bad Leroy Brown",Jim Croce,55,47,5
+48,Peaceful,Helen Reddy,23,12,16
+49,You Can't Always Get What You Want,The Rolling Stones,57,49,4
+50,"Daddy Could Swear, I Declare",Gladys Knight And The Pips,59,50,4
+51,"""Cherry Cherry"" from Hot August Night",Neil Diamond,31,31,10
+52,Natural High,Bloodstone,62,52,5
+53,Blue Suede Shoes,Johnny Rivers,38,38,10
+54,Fencewalk,Mandrill,64,54,6
+55,With A Child's Heart,Michael Jackson,71,55,3
+56,"Pinball Wizard/See Me, Feel Me",The New Seekers,45,29,13
+57,Behind Closed Doors,Charlie Rich,70,57,4
+58,Hallelujah Day,Jackson 5,53,28,10
+59,Give Me Love - (Give Me Peace On Earth),George Harrison,-1,59,1
+60,Give Your Baby A Standing Ovation,The Dells,66,60,5
+61,Isn't It About Time,Stephen Stills-Manassas,68,61,4
+62,I' Been Watchin' You,The South Side Movement,67,62,6
+63,Boogie Woogie Bugle Boy,Bette Midler,85,63,2
+64,Only In Your Heart,America,65,64,4
+65,Why Me,Kris Kristofferson,69,65,7
+66,Without You In My Life,Tyrone Davis,72,66,5
+67,The Free Electric Band,Albert Hammond,75,67,4
+68,I Like You,Donovan,77,68,4
+69,Hey You! Get Off My Mountain,The Dramatics,80,69,3
+70,First Cut Is The Deepest,Keith Hampshire,74,70,5
+71,Shambala,Three Dog Night,-1,71,1
+72,It's Hard To Stop (Doing Something When It's Good To You),Betty Wright,76,72,5
+73,Diamond Girl,Seals & Crofts,81,73,2
+74,Roll Over Beethoven,Electric Light Orchestra,78,74,4
+75,Music Everywhere,Tufano & Giammarese,83,75,4
+76,So Very Hard To Go,Tower Of Power,82,76,3
+77,You'll Never Get To Heaven (If You Break My Heart),The Stylistics,-1,77,1
+78,I'm A Stranger Here,Five Man Electrical Band,79,78,5
+79,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",89,79,6
+80,Avenging Annie,Andy Pratt,86,80,4
+81,Swamp Witch,Jim Stafford,88,81,2
+82,Kodachrome,Paul Simon,-1,82,1
+83,Cosmic Sea,The Mystic Moods,84,83,5
+84,Money,Pink Floyd,-1,84,1
+85,What A Shame,Foghat,87,85,4
+86,Satin Sheets,Jeanne Pruett,95,86,2
+87,Shambala,B.W. Stevenson,96,87,2
+88,California Saga (On My Way To Sunny Californ-i-a),The Beach Boys,91,88,2
+89,Your Side Of The Bed,Mac Davis,90,89,3
+90,Time To Get Down,The O'Jays,-1,90,1
+91,Letter To Lucille,Tom Jones,93,91,2
+92,A Little Bit Like Magic,King Harvest,94,92,3
+93,Together We Can Make Such Sweet Music,The Spinners,97,93,2
+94,Think,James Brown,-1,94,1
+95,Outlaw Man,David Blue,99,95,2
+96,Don't Let It Get You Down,The Crusaders,100,96,2
+97,Brother's Gonna Work It Out,Willie Hutch,-1,97,1
+98,Working Class Hero,Tommy Roe,98,98,3
+99,Dueling Tubas,Martin Mull and Orchestra,92,92,3
+100,A Passion Play (Edit #8),Jethro Tull,-1,100,1

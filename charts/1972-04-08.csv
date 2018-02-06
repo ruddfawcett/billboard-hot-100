@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,A Horse With No Name,America,1,1,8
+2,Heart Of Gold,Neil Young,2,1,10
+3,The First Time Ever I Saw Your Face,Roberta Flack,10,3,6
+4,I Gotcha,Joe Tex,6,4,12
+5,Rockin' Robin,Michael Jackson,9,5,5
+6,Puppy Love,Donny Osmond,3,3,7
+7,Mother And Child Reunion,Paul Simon,4,4,10
+8,Jungle Fever,The Chakachas,8,8,13
+9,In The Rain,The Dramatics,11,9,7
+10,The Lion Sleeps Tonight,Robert John,5,3,15
+11,"Betcha By Golly, Wow","The Stylistics Featuring Russell Thompkins,Jr.",14,11,7
+12,Day Dreaming,Aretha Franklin,19,12,4
+13,A Cowboys Work Is Never Done,Sonny & Cher,16,13,7
+14,Roundabout,Yes,17,14,9
+15,Rock And Roll Lullaby,B.J. Thomas,15,15,9
+16,The Way Of Love,Cher,13,7,11
+17,Without You,Nilsson,7,1,17
+18,Everything I Own,Bread,12,5,11
+19,Taurus,Dennis Coffey & The Detroit Guitar Band,26,19,8
+20,Down By The Lazy River,The Osmonds,18,4,12
+21,Give Ireland Back To The Irish,Wings,22,21,5
+22,Crazy Mama,J.J. Cale,25,22,11
+23,The Day I Found Myself,The Honey Cone,24,23,8
+24,Doctor My Eyes,Jackson Browne,41,24,4
+25,"Vincent (Starry, Starry Night)/Castles In The Air",Don McLean,35,25,4
+26,Baby Blue,Badfinger,42,26,3
+27,The Family Of Man,Three Dog Night,36,27,3
+28,Every Day Of My Life,Bobby Vinton,29,28,11
+29,Suavecito,Malo,32,29,6
+30,Do Your Thing,Isaac Hayes,31,30,7
+31,Precious And Few,Climax,20,3,15
+32,Jump Into The Fire,Nilsson,51,32,4
+33,Look What You Done For Me,Al Green,44,33,2
+34,Bang A Gong (Get It On),T. Rex,21,10,15
+35,Slippin' Into Darkness,War,39,35,12
+36,We've Got To Get It On Again,Addrisi Brothers,27,25,12
+37,Ain't Understanding Mellow,Jerry Butler & Brenda Lee Eager,23,21,18
+38,Help Me Make It Through The Night,Gladys Knight And The Pips,59,38,3
+39,Take A Look Around,The Temptations,30,30,6
+40,King Heroin,James Brown,40,40,6
+41,Tiny Dancer,Elton John,43,41,6
+42,Back Off Boogaloo,Ringo Starr,88,42,2
+43,Could It Be Forever,David Cassidy,37,37,8
+44,Glory Bound,The Grass Roots,34,34,9
+45,Chantilly Lace,Jerry Lee Lewis,47,45,6
+46,Son Of My Father,Giorgio,50,46,6
+47,Heartbroken Bopper,The Guess Who,48,47,6
+48,Run Run Run,Jo Jo Gunne,61,48,4
+49,Afro-Strut,The Nite-Liters,49,49,7
+50,Runnin' Away,Sly & The Family Stone,28,23,10
+51,Rock And Roll,Led Zeppelin,53,51,4
+52,Taxi,Harry Chapin,55,52,5
+53,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",57,53,5
+54,No One To Depend On,Santana,38,36,9
+55,Hot Rod Lincoln,Commander Cody & His Lost Planet Airmen,65,55,3
+56,Now Run And Tell That,Denise LaSalle,46,46,10
+57,Money Runner,Quincy Jones,60,57,5
+58,Let's Stay Together,Isaac Hayes,67,58,2
+59,Be My Lover,Alice Cooper,62,59,5
+60,Waking Up Alone,Paul Williams,63,60,8
+61,Morning Has Broken,Cat Stevens,78,61,2
+62,Louisianna,Mike Kennedy,64,62,6
+63,I'll Take You There,The Staple Singers,-1,63,1
+64,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,77,64,2
+65,Pool Of Bad Luck,Joe Simon,72,65,3
+66,Cheer,Potliquor,66,65,10
+67,Lay-Away,The Isley Brothers,75,67,2
+68,Nice To Be With You,Gallery,73,68,7
+69,Living Without You,Manfred Mann's Earth Band,70,69,7
+70,Josie,Kris Kristofferson,71,70,5
+71,Nutrocker,"Emerson, Lake & Palmer",84,71,4
+72,Mister Can't You See,Buffy Sainte-Marie,89,72,2
+73,Am I Losing You,The Partridge Family Starring Shirley Jones Featuring David Cassidy,90,73,2
+74,Your Precious Love,Linda Jones,74,74,7
+75,You Could Have Been A Lady,April Wine,80,75,3
+76,I Had It All The Time,Tyrone Davis,81,76,3
+77,Legend In Your Own Time,Carly Simon ,82,77,3
+78,Hearsay,The Soul Children,79,78,4
+79,Cotton Jenny,Anne Murray,83,79,2
+80,Oh Girl,The Chi-lites,-1,80,1
+81,Walk In The Night,Jr. Walker & The All Stars,86,81,2
+82,Ask Me What You Want,Millie Jackson,85,82,3
+83,What'd I Say,Rare Earth,-1,83,1
+84,I Saw The Light,Todd Rundgren,-1,84,1
+85,Jambalaya (On The Bayou),Nitty Gritty Dirt Band,87,85,2
+86,To Get To You,Jerry Wallace,92,86,4
+87,Jubilation,Paul Anka,94,87,3
+88,Everything Good Is Bad,100 Proof Aged in Soul,96,88,2
+89,"Love Theme From ""The Godfather"" (Speak Softly Love)",Andy Williams,-1,89,1
+90,Me And Julio Down By The Schoolyard,Paul Simon,-1,90,1
+91,Rockin' With The King,Canned Heat,91,91,4
+92,All His Children,Charley Pride with Henry Mancini,95,92,2
+93,You Are The One,Sugar Bears,93,93,5
+94,Eve,Jim Capaldi,-1,94,1
+95,Walkin' In The Rain With The One I Love,Love Unlimited,97,95,2
+96,You Were Made For Me,Luther Ingram,-1,96,1
+97,Sylvia's Mother,Dr. Hook And The Medicine Show,100,97,2
+98,Simple Song Of Freedom,Buckwheat,98,98,2
+99,School Teacher,Kenny Rogers & The First Edition,99,99,2
+100,Don't Ever Take Away My Freedom,Peter Yarrow,-1,100,1

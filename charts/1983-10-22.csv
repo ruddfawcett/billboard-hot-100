@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Total Eclipse Of The Heart,Bonnie Tyler,1,1,15
+2,Making Love Out Of Nothing At All,Air Supply,2,2,13
+3,Islands In The Stream,Kenny Rogers Duet With Dolly Parton,5,3,9
+4,True,Spandau Ballet,4,4,12
+5,All Night Long (All Night),Lionel Richie,7,5,6
+6,One Thing Leads To Another,The Fixx,6,6,9
+7,King Of Pain,The Police,3,3,9
+8,Delirious,Prince,13,8,8
+9,Burning Down The House,Talking Heads,12,9,13
+10,Telefone (long Distance Love Affair),Sheena Easton,11,10,10
+11,The Safety Dance,Men Without Hats,8,3,18
+12,Suddenly Last Summer,The Motels,17,12,8
+13,Tell Her About It,Billy Joel,9,1,13
+14,(she's) Sexy + 17,Stray Cats,10,5,12
+15,Uptown Girl,Billy Joel,24,15,5
+16,If Anyone Falls,Stevie Nicks,18,16,7
+17,"Tonight, I Celebrate My Love",Peabo Bryson/Roberta Flack,19,17,16
+18,Modern Love,David Bowie,22,18,6
+19,Say Say Say,Paul McCartney And Michael Jackson,26,19,2
+20,Big Log,Robert Plant,20,20,12
+21,Cum On Feel The Noize,Quiet Riot,31,21,6
+22,"Promises, Promises",Naked Eyes,15,11,15
+23,Heart And Soul,Huey Lewis & The News,30,23,7
+24,Far From Over,Frank Stallone,14,10,13
+25,This Time,Bryan Adams,25,25,8
+26,Love Is A Battlefield,Pat Benatar,35,26,5
+27,How Am I Supposed To Live Without You,Laura Branigan,16,12,17
+28,Dr. Heckyll & Mr. Jive,Men At Work,29,28,6
+29,Love Is A Stranger,Eurythmics,32,29,6
+30,Sitting At The Wheel,The Moody Blues,27,27,8
+31,Foolin',Def Leppard,36,31,8
+32,P.Y.T. (Pretty Young Thing),Michael Jackson,55,32,3
+33,Can't Shake Loose,Agnetha Faltskog,37,33,9
+34,Crumblin' Down,John Cougar Mellencamp,42,34,2
+35,Puttin' On The Ritz,Taco,21,4,18
+36,Everyday I Write The Book,Elvis Costello And The Attractions,38,36,10
+37,Everyday People,Joan Jett & the Blackhearts,40,37,7
+38,Send Her My Love,Journey,46,38,5
+39,Tender Is The Night,Jackson Browne,49,39,5
+40,Miracles,Stacy Lattisaw,41,40,11
+41,Queen Of The Broken Hearts,Loverboy,44,41,6
+42,Automatic Man,Michael Sembello,45,42,5
+43,It Must Be Love,Madness,33,33,10
+44,Spice Of Life,The Manhattan Transfer,47,44,7
+45,How Many Times Can We Say Goodbye,Dionne Warwick & Luther Vandross,59,45,3
+46,My Town,Michael Stanley Band,52,46,4
+47,Mirror Man,The Human League,56,47,4
+48,Old Time Rock & Roll,Bob Seger & The Silver Bullet Band,50,28,17
+49,Just Got Lucky,Joboxers,51,49,7
+50,The Smile Has Left Your Eyes,Asia,65,50,2
+51,Break My Stride,Matthew Wilder,57,51,6
+52,Major Tom (Coming Home),Peter Schilling,58,52,5
+53,What Am I Gonna Do (I'm So In Love With You), Rod Stewart,39,35,9
+54,Church Of The Poison Mind,Culture Club,-1,54,1
+55,Every Breath You Take,The Police,34,1,21
+56,Why Me?,Irene Cara,-1,56,1
+57,Ain't Nobody,Chaka Khan,66,57,4
+58,Take Another Picture,Quarterflash,60,58,4
+59,Souls,Rick Springfield,70,59,2
+60,Invisible Hands,Kim Carnes,78,60,2
+61,Only You,Commodores,63,61,6
+62,Stop Doggin' Me Around,Klique,67,62,3
+63,Maniac,Michael Sembello,23,1,21
+64,Don't Cry,Asia,28,10,13
+65,Dead Giveaway,Shalamar,53,22,18
+66,Sweet Dreams (Are Made Of This),Eurythmics,48,1,24
+67,I Need You,The Pointer Sisters,79,67,3
+68,Don't Try To Stop It,Roman Holliday,75,68,4
+69,Don't Girls Get Lonely,Glenn Shorrock,69,69,5
+70,Time Will Reveal,Debarge,80,70,2
+71,Wherever I Lay My Hat (That's My Home),Paul Young,77,71,4
+72,Just Be Good To Me,The S.O.S. Band,64,55,9
+73,In A Big Country,Big Country,-1,73,1
+74,On The Dark Side,John Cafferty & The Beaver Brown Band,87,74,3
+75,Mama,Genesis,84,75,4
+76,Baby I Lied,Deborah Allen,81,76,2
+77,Talking In Your Sleep,The Romantics,86,77,3
+78,Stay With Me Tonight,Jeffrey Osborne,89,78,2
+79,A Little Good News,Anne Murray,74,74,6
+80,The Way He Makes Me Feel,Barbra Streisand,-1,80,1
+81,Never Say Die (Give A Little Bit More),Cliff Richard,92,81,3
+82,Should I Love You,Cee Farrow,83,82,5
+83,Rockit,Herbie Hancock,71,71,7
+84,Guns For Hire,AC/DC,85,84,4
+85,When The Lights Go Out,Naked Eyes,-1,85,1
+86,The Monkey Time,The Tubes,68,68,4
+87,Human Nature,Michael Jackson,61,7,14
+88,Is This The End,New Edition,90,88,2
+89,I Am Love,Jennifer Holliday,-1,89,1
+90,Favorite Waste Of Time,Bette Midler,-1,90,1
+91,"Lady, Lady, Lady","Joe ""Bean"" Esposito",-1,91,1
+92,Unconditional Love,Donna Summer,43,43,8
+93,I Just Can't Walk Away,Four Tops,-1,93,1
+94,Don't Forget To Dance,The Kinks,62,29,10
+95,Caught In The Game,Survivor,-1,95,1
+96,Kiss The Bride,Elton John,54,25,12
+97,Tell Her No,Juice Newton,82,27,11
+98,I Think You'll Remember Tonight,Axe,-1,98,1
+99,How Can I Refuse,Heart,96,44,11
+100,Trouble In Paradise,Jarreau,99,63,7

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,(Just Like) Starting Over,John Lennon,3,1,9
+2,More Than I Can Say,Leo Sayer,2,2,14
+3,Love On The Rocks,Neil Diamond,4,3,9
+4,Lady,Kenny Rogers,1,1,13
+5,Hungry Heart,Bruce Springsteen,6,5,8
+6,Every Woman In The World,Air Supply,10,6,10
+7,Guilty,Barbra Streisand & Barry Gibb,8,7,9
+8,The Tide Is High,Blondie,11,8,7
+9,Hit Me With Your Best Shot,Pat Benatar,9,9,13
+10,Tell It Like It Is,Heart,12,10,6
+11,Passion,Rod Stewart,16,11,6
+12,"De Do Do Do, De Da Da Da",The Police,14,12,10
+13,Master Blaster (Jammin'),Stevie Wonder,5,5,15
+14,Another One Bites The Dust,Queen,7,1,20
+15,It's My Turn,Diana Ross,17,15,10
+16,I Made It Through The Rain,Barry Manilow,22,16,6
+17,Celebration,Kool & The Gang,20,17,10
+18,Everybody's Got To Learn Sometime,The Korgis,19,18,12
+19,I Love A Rainy Night,Eddie Rabbitt,26,19,8
+20,Hey Nineteen,Steely Dan,27,20,5
+21,Time Is Time,Andy Gibb,29,21,6
+22,Woman In Love,Barbra Streisand,13,1,17
+23,Suddenly,Olivia Newton-John & Cliff Richard,25,23,10
+24,I Believe In You,Don Williams,24,24,14
+25,You've Lost That Lovin' Feeling,Daryl Hall John Oates,15,12,14
+26,One Step Closer,The Doobie Brothers,28,26,6
+27,Whip It,Devo,18,14,18
+28,Giving It Up For Your Love,Delbert McClinton,38,28,4
+29,Together,Tierra,33,29,8
+30,Miss Sun,Boz Scaggs,45,30,5
+31,Never Be The Same,Christopher Cross,31,15,12
+32,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,21,21,16
+33,9 To 5,Dolly Parton,39,33,5
+34,I'm Coming Out,Diana Ross,30,5,17
+35,Girls Can Get It,Dr. Hook,34,34,9
+36,The Winner Takes It All,ABBA,44,36,6
+37,Same Old Lang Syne,Dan Fogelberg,59,37,3
+38,Sequel,Harry Chapin,23,23,9
+39,Keep On Loving You,REO Speedwagon,53,39,5
+40,Killin' Time,Fred Knoblock & Susan Anton,46,40,6
+41,Cold Love,Donna Summer,54,41,5
+42,Turn And Walk Away,The Babys,43,42,7
+43,He Can't Love You,Michael Stanley Band,47,43,6
+44,Need Your Loving Tonight,Queen,52,44,5
+45,My Mother's Eyes,Bette Midler,51,45,6
+46,Shine On,L.T.D.,50,46,7
+47,Gotta Have More Love,Climax Blues Band,49,47,7
+48,You,"Earth, Wind & Fire",48,48,6
+49,I Need Your Lovin',Teena Marie,55,49,6
+50,Smoky Mountain Rain,Ronnie Milsap,57,50,5
+51,Heartbreak Hotel,The Jacksons,60,51,4
+52,Love T.K.O.,Teddy Pendergrass,58,52,5
+53,Teacher Teacher,Rockpile,56,53,6
+54,Games People Play,The Alan Parsons Project,63,54,4
+55,Seven Bridges Road,Eagles,64,55,2
+56,I Ain't Gonna Stand For It,Stevie Wonder,67,56,3
+57,This Time,John Cougar,32,27,14
+58,Dreaming,Cliff Richard,35,10,16
+59,Deep Inside My Heart,Randy Meisner,36,22,11
+60,The Wanderer,Donna Summer,37,3,15
+61,Fool That I Am,Rita Coolidge,71,61,3
+62,Breakfast In America,Supertramp,72,62,3
+63,He's So Shy,The Pointer Sisters,40,3,23
+64,Who's Making Love,Blues Brothers,76,64,2
+65,A Little In Love,Cliff Richard,78,65,3
+66,Never Knew Love Like This Before,Stephanie Mills,41,6,21
+67,The Horizontal Bop,Bob Seger,42,42,8
+68,Could I Be Dreaming,The Pointer Sisters,61,52,8
+69,What Can You Get A Wookiee For Christmas (When He Already Owns A Comb?),The Star Wars Intergalactic Droid Choir & Chorale,81,69,3
+70,Ah! Leah!,Donnie Iris,80,70,3
+71,Back In Black,AC/DC,82,71,2
+72,Fashion,David Bowie,74,72,4
+73,Set The Night On Fire,Oak,75,73,3
+74,Easy Love,Dionne Warwick,62,62,6
+75,Turning Japanese,The Vapors,65,36,14
+76,Without Your Love,Roger Daltrey,66,20,16
+77,Upside Down,Diana Ross,68,1,25
+78,Lovely One,The Jacksons,69,12,14
+79,Full Of Fire,Shalamar,89,79,2
+80,Skateaway,Dire Straits,90,80,2
+81,United Together,Aretha Franklin,-1,81,1
+82,Merry Christmas In The NFL,"Willis ""The Guard"" & Vigorish",-1,82,1
+83,(Ghost) Riders In The Sky,Outlaws,-1,83,1
+84,Switchin' To Glide/This Beat Goes On,The Kings,70,43,19
+85,Let Me Be Your Angel,Stacy Lattisaw,79,21,21
+86,Stop This Game,Cheap Trick,83,48,8
+87,On The Road Again,Willie Nelson,85,20,17
+88,Don't Want No-Body,J.D. Drews,-1,88,1
+89,Gypsy Spirit,Pendulum,91,89,5
+90,Got To Rock On,Kansas,-1,90,1
+91,Spend The Night In Love,The 4 Seasons,93,91,3
+92,Trickle Trickle,The Manhattan Transfer,73,73,5
+93,One-Trick Pony,Paul Simon,86,40,10
+94,Remote Control,The Reddings,96,89,7
+95,I Can't Stop The Feelin',Pure Prairie League,77,77,4
+96,Once A Night,Jackie English,97,96,2
+97,Help Me!,Marcy Levy & Robin Gibb,84,50,8
+98,I'm Happy That Love Has Found You,Jimmy Hall,87,27,14
+99,Out Here On My Own,Irene Cara,88,19,20
+100,Jesse,Carly Simon,100,11,22

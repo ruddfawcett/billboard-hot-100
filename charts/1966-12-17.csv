@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Winchester Cathedral,The New Vaudeville Band,3,1,8
+2,Mellow Yellow,Donovan,2,2,6
+3,Good Vibrations,The Beach Boys,1,1,9
+4,Devil With A Blue Dress On & Good Golly Miss Molly,Mitch Ryder And The Detroit Wheels,4,4,11
+5,You Keep Me Hangin' On,The Supremes,5,1,8
+6,That's Life,Frank Sinatra,10,6,5
+7,Born Free,Roger Williams,8,7,17
+8,I'm A Believer,The Monkees,44,8,2
+9,Sugar Town,Nancy Sinatra,16,9,5
+10,A Place In The Sun,Stevie Wonder,14,10,6
+11,Whispers (Gettin' Louder),Jackie Wilson,11,11,9
+12,(I Know) I'm Losing You,The Temptations,19,12,5
+13,Lady Godiva,Peter And Gordon,6,6,11
+14,I'm Ready For Love,Martha & The Vandellas,9,9,8
+15,A Hazy Shade Of Winter,Simon & Garfunkel,13,13,7
+16,I Got The Feelin' (Oh No No),Neil Diamond,17,16,6
+17,(Come 'round Here) I'm The One You Need,The Miracles,18,17,7
+18,Stop Stop Stop,The Hollies,7,7,8
+19,Mame,Herb Alpert & The Tijuana Brass,24,19,5
+20,It Tears Me Up,Percy Sledge,21,20,9
+21,I'm Your Puppet,James & Bobby Purify,12,6,13
+22,Poor Side Of Town,Johnny Rivers,15,1,14
+23,Single Girl,Sandy Posey,31,23,5
+24,Talk Talk,The Music Machine ,37,24,6
+25,Tell It Like It Is,Aaron Neville,51,25,3
+26,Cry,Ronnie Dove,35,26,4
+27,I Need Somebody,? (Question Mark) & The Mysterians,33,27,5
+28,Knock On Wood,Eddie Floyd,28,28,15
+29,Mustang Sally,Wilson Pickett,34,29,4
+30,Snoopy Vs. The Red Baron,The Royal Guardsmen,-1,30,1
+31,It's Only Love,Tommy James And The Shondells,32,31,7
+32,Coming Home Soldier,Bobby Vinton,42,32,5
+33,Coming On Strong,Brenda Lee,20,11,12
+34,But It's Alright,J.J. Jackson,22,22,12
+35,Good Thing, Paul Revere & The Raiders Featuring Mark Lindsay,66,35,3
+36,Words Of Love,The Mamas & The Papas,46,36,3
+37,Help Me Girl,The Outsiders,38,37,8
+38,Holy Cow,Lee Dorsey,23,23,9
+39,Pandora's Golden Heebie Jeebies,The Association,43,39,4
+40,The Wheel Of Hurt,Margaret Whiting,26,26,11
+41,East West,Herman's Hermits,60,41,3
+42,"Run, Run, Look And See",Brian Hyland,25,25,9
+43,Last Train To Clarksville,The Monkees,27,1,15
+44,Rain On The Roof,The Lovin' Spoonful,30,10,10
+45,Games That Lovers Play,Eddie Fisher,45,45,8
+46,I've Passed This Way Before,Jimmy Ruffin,58,46,3
+47,Happenings Ten Years Time Ago,The Yardbirds,57,47,4
+48,I Fooled You This Time,Gene Chandler,50,48,4
+49,Help Me Girl,Eric Burdon & The Animals,59,49,4
+50,Time After Time,Chris Montez,36,36,8
+51,I (Who Have Nothing),Terry Knight and The Pack,56,51,6
+52,Money (That's What I Want) (Part 1),Jr. Walker & The All Stars,53,52,5
+53,The Eggplant That Ate Chicago,Dr. West's Medicine Show and Junk Band,63,53,4
+54,(When She Needs Good Lovin') She Comes To Me,The Chicago Loop,39,37,7
+55,There's Got To Be A Word!,The Innocence,69,55,3
+56,Try A Little Tenderness,Otis Redding,70,56,3
+57,Ghost Riders In The Sky,Baja Marimba Band,74,57,4
+58,Tell It To The Rain,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",92,58,2
+59,Georgy Girl,The Seekers,79,59,3
+60,A Symphony For Susan,The Arbors,55,51,10
+61,Please Don't Ever Leave Me,The Cyrkle,61,61,3
+62,Standing In The Shadows Of Love,Four Tops,-1,62,1
+63,Blue Autumn,Bobby Goldsboro,80,63,2
+64,Bad Misunderstanding,The Critters,77,64,3
+65,A Day In The Life Of A Fool,Jack Jones,62,62,8
+66,Goodnight My Love,The Happenings,81,66,2
+67,Please Say You're Fooling,Ray Charles and his Orchestra,64,64,6
+68,You Can Bring Me All Your Heartaches,Lou Rawls,73,68,4
+69,The Proud One,Frankie Valli,68,68,6
+70,We Got A Thing That's In The Groove,The Capitols,67,65,6
+71,Baby What I Mean,The Drifters,83,71,3
+72,I Don't Need No Doctor,Ray Charles and his Orchestra,76,72,4
+73,98.6,Keith,90,73,2
+74,(We Ain't Got) Nothin' Yet,Blues Magoos,89,74,2
+75,The Girl That Stood Beside Me,Bobby Darin,84,75,2
+76,Alvin's Boo-Ga-Loo,Alvin Cash & The Registers,78,76,4
+77,(I'm Not Your) Steppin' Stone,The Monkees,-1,77,1
+78,There's Something On Your Mind,Baby Ray,86,78,3
+79,Communication Breakdown,Roy Orbison,82,79,2
+80,Don't Answer The Door - Part 1,B.B. King,72,72,9
+81,I Had Too Much To Dream (Last Night),The Electric Prunes,98,81,2
+82,You Got Me Hummin',Sam & Dave,95,82,3
+83,Papa Was Too,Joe Tex,-1,83,1
+84,Karate,The Emperor's,93,84,3
+85,I Wanna Meet You,The Cryan' Shames,85,85,4
+86,Nashville Cats,The Lovin' Spoonful,-1,86,1
+87,Where Will The Words Come From,Gary Lewis And The Playboys,-1,87,1
+88,I'm Gonna Miss You,The Artistics,-1,88,1
+89,If You Go Away,Damita Jo,99,89,2
+90,(He's) Raining In My Sunshine,Jay & The Americans,91,90,4
+91,Wack Wack,The Young Holt Trio,-1,91,1
+92,Questions And Answers,The In Crowd,96,92,2
+93,(Open Up The Door) Let The Good Times In,Dean Martin,-1,93,1
+94,Dancing In The Street,The Mamas & The Papas,-1,94,1
+95,Grizzly Bear,The Youngbloods,-1,95,1
+96,Going Nowhere,Los Bravos,-1,96,1
+97,Peak Of Love,Bobby McClure,100,97,2
+98,Look What You've Done,Pozo Seco Singers,-1,98,1
+99,Stand By Me,Spyder Turner,-1,99,1
+100,Try My Love Again,Bobby Moore's Rhythm Aces featuring Chico,-1,100,1

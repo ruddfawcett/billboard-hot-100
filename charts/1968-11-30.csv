@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Love Child,Diana Ross & The Supremes,2,1,7
+2,Hey Jude,The Beatles,1,1,12
+3,Magic Carpet Ride,Steppenwolf,4,3,9
+4,Those Were The Days,Mary Hopkin,3,2,10
+5,"Abraham, Martin And John",Dion,5,5,6
+6,Who's Making Love,Johnnie Taylor,8,6,6
+7,For Once In My Life,Stevie Wonder,14,7,5
+8,Wichita Lineman,Glen Campbell,10,8,5
+9,Hold Me Tight,Johnny Nash,7,5,12
+10,White Room,Cream,6,6,9
+11,Stormy,Classics IV Featuring Dennis Yost,11,11,6
+12,I Love How You Love Me,Bobby Vinton ,17,12,5
+13,Both Sides Now,Judy Collins,19,13,4
+14,Elenore,The Turtles,12,6,11
+15,Chewy Chewy,Ohio Express,16,15,7
+16,I Heard It Through The Grapevine,Marvin Gaye,34,16,2
+17,Little Green Apples,O.C. Smith,9,2,16
+18,Midnight Confessions,The Grass Roots,15,5,14
+19,Little Arrows,Leapy Lee,22,19,8
+20,"Promises, Promises",Dionne Warwick,21,20,5
+21,Bring It On Home To Me,Eddie Floyd,27,21,7
+22,See Saw,Aretha Franklin,35,22,2
+23,Cycles,Frank Sinatra,23,23,8
+24,Bang-Shang-A-Lang,The Archies,24,24,10
+25,Hi-Heel Sneakers,Jose Feliciano,25,25,7
+26,Cloud Nine,The Temptations,39,26,3
+27,Over You,Gary Puckett And The Union Gap,13,7,11
+28,Quick Joey Small (Run Joey Run),Kasenetz-Katz Singing Orchestral Circus,28,28,9
+29,Always Together,The Dells,18,18,8
+30,"Shame, Shame",Magic Lanterns,46,30,6
+31,Les Bicyclettes De Belsize,Engelbert Humperdinck,32,31,7
+32,Fire,The Crazy World Of Arthur Brown,20,2,13
+33,Sweet Blindness,The 5th Dimension,26,13,10
+34,Cinnamon,Derek,37,34,6
+35,Battle Hymn Of The Republic,Andy Williams with the St. Charles Borromeo Choir,48,35,7
+36,The Straight Life,Bobby Goldsboro,41,36,6
+37,Pickin' Wild Mountain Berries,Peggy Scott & Jo Jo Benson,42,37,7
+38,Do Something To Me,Tommy James And The Shondells,38,38,8
+39,Too Weak To Fight,Clarence Carter,47,39,4
+40,1432 Franklin Pike Circle Hero,Bobby Russell,36,36,6
+41,Scarborough Fair,Sergio Mendes & Brasil '66,50,41,3
+42,Till,The Vogues,53,42,2
+43,Not Enough Indians,Dean Martin ,52,43,5
+44,Kentucky Woman,Deep Purple,44,44,4
+45,Goody Goody Gumdrops,1910 Fruitgum Co.,45,45,6
+46,Shake,Shadows Of Knight,58,46,6
+47,Put Your Head On My Shoulder,The Lettermen,56,47,3
+48,Peace Brother Peace,Bill Medley,51,48,6
+49,Goodbye My Love,James Brown,55,49,4
+50,The Star-Spangled Banner,Jose Feliciano,54,50,5
+51,Hang 'Em High,Booker T. & The MG's,66,51,4
+52,Fire,Five By Five,60,52,5
+53,I Can't Turn You Loose,The Chambers Brothers,61,53,2
+54,People,The Tymes,62,54,3
+55,Slow Drag,The Intruders,72,55,4
+56,Ballad Of Two Brothers,Autry Inman,92,56,3
+57,Papa's Got A Brand New Bag,Otis Redding,-1,57,1
+58,Hooked On A Feeling,B.J. Thomas,69,58,3
+59,From The Teacher To The Preacher,Gene Chandler & Barbara Acklin,59,57,7
+60,Talking About My Baby,Gloria Walker,65,60,5
+61,Lo Mucho Que Te Quiero (The More I Love You),Rene & Rene,100,61,2
+62,Son-Of-A Preacher Man,Dusty Springfield,-1,62,1
+63,Right Relations,Johnny Rivers,63,63,2
+64,The Yard Went On Forever,Richard Harris,64,64,5
+65,Soulful Strut,Young-Holt Unlimited,-1,65,1
+66,I Walk Alone,Marty Robbins,70,66,6
+67,California Earthquake,Mama Cass,67,67,5
+68,Sunday Sun,Neil Diamond,68,68,5
+69,Rockin' In The Same Old Boat,Bobby Bland,77,69,3
+70,Crown Of Creation,Jefferson Airplane,71,70,5
+71,Stand By Your Man,Tammy Wynette,73,71,4
+72,I Put A Spell On You,Creedence Clearwater Revival,96,72,4
+73,Crosstown Traffic,The Jimi Hendrix Experience,-1,73,1
+74,Mornin' Glory,Bobbie Gentry & Glen Campbell,74,74,6
+75,A Man And A Half,Wilson Pickett,76,75,3
+76,American Boys,Petula Clark,79,76,2
+77,My Song,Aretha Franklin,-1,77,1
+78,Don't Cry My Love,The Impressions,99,78,2
+79,Let's Make A Promise,Peaches & Herb,75,75,4
+80,With A Little Help From My Friends,Joe Cocker,85,80,3
+81,Love Machine,The O'Kaysions,81,81,2
+82,Chitty Chitty Bang Bang,Paul Mauriat,82,82,2
+83,The Ol' Race Track,The Mills Brothers,83,83,2
+84,Coo Coo,Big Brother And The Holding Company,84,84,2
+85,Sweet Darlin',Martha Reeves & The Vandellas,80,80,5
+86,"Come On, React!",The Fireballs,86,86,5
+87,Just Ain't No Love,Barbara Acklin,89,87,3
+88,Do You Wanna Dance,The Mamas & The Papas,88,88,2
+89,Keep On Dancing,Alvin Cash,90,89,2
+90,Baby Let's Wait,The Royal Guardsmen,91,90,3
+91,Good Time Girl,Nancy Sinatra,-1,91,1
+92,Don't Make The Good Girls Go Bad,Della Humphrey,-1,92,1
+93,Everyday People,Sly & The Family Stone,-1,93,1
+94,I've Got Love For My Baby,Young Hearts,95,94,3
+95,Living In The U.s.a.,The Steve Miller Band,94,94,2
+96,Born To Be With You,Sonny James,97,96,2
+97,White Houses, Eric Burdon & The Animals,98,97,2
+98,This Is My Country,The Impressions,-1,98,1
+99,Bella Linda,The Grass Roots,-1,99,1
+100,If I Can Dream,Elvis Presley,-1,100,1

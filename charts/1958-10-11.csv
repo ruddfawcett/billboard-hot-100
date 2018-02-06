@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,It's All In The Game,Tommy Edwards,1,1,9
+2,Rock-in Robin,Bobby Day,3,2,11
+3,Bird Dog,The Everly Brothers,2,2,11
+4,Tears On My Pillow,Little Anthony And The Imperials,6,4,10
+5,Susie Darlin',Robin Luke,7,5,10
+6,Nel Blu Dipinto Di Blu (Volaré),Domenico Modugno,4,1,11
+7,The End,Earl Grant,13,7,5
+8,Little Star,The Elegants,5,1,11
+9,Tea For Two Cha Cha,The Tommy Dorsey Orchestra,8,8,7
+10,Near You,Roger Williams,10,10,9
+11,Chantilly Lace,Big Bopper,15,11,11
+12,Summertime Blues,Eddie Cochran,9,8,11
+13,Topsy II,Cozy Cole,22,13,8
+14,Just A Dream,Jimmy Clanton And His Rockets,12,4,11
+15,You Cheated,The Shields,16,15,8
+16,It's Only Make Believe,Conway Twitty,20,16,5
+17,Tom Dooley,The Kingston Trio,37,17,3
+18,How The Time Flies,Jerry Wallace,11,11,9
+19,Devoted To You,The Everly Brothers,21,10,10
+20,Firefly,Tony Bennett,23,20,6
+21,Born Too Late,Poni-Tails,14,7,11
+22,"Promise Me, Love",Andy Williams,17,17,7
+23,For My Good Fortune,Pat Boone,54,23,4
+24,No One Knows,Dion & The Belmonts,27,24,8
+25,The Day The Rains Came,Jane Morgan,48,25,4
+26,Are You Really Mine,Jimmie Rodgers,30,10,11
+27,Mexican Hat Rock,The Applejacks,40,27,5
+28,Treasure Of Your Love,Eileen Rodgers,26,26,8
+29,Pussy Cat,The Ames Brothers,34,29,3
+30,Patricia,Perez Prado And His Orchestra,18,2,11
+31,My True Love,Jack Scott,24,3,11
+32,La-Do-Dada,Dale Hawkins,44,32,7
+33,Win Your Love For Me,Sam Cooke,41,33,11
+34,Carol,Chuck Berry,19,18,8
+35,Down The Aisle Of Love,The Quin-Tones,31,20,9
+36,Itchy Twitchy Feeling,Bobby Hendricks,25,25,11
+37,Somebody Touched Me,Buddy Knox with the Rhythm Orchids,29,22,11
+38,This Little Girl's Gone Rockin',Ruth Brown,50,38,4
+39,The Secret,Gordon MacRae,39,39,5
+40,"To Know Him, Is To Love Him",The Teddy Bears,56,40,4
+41,Ten Commandments Of Love,Harvey & The Moonglows,68,41,5
+42,Western Movies,The Olympics,32,8,11
+43,Stupid Cupid,Connie Francis,28,17,11
+44,"Gee, But It's Lonely",Pat Boone,35,35,4
+45,"Summertime, Summertime",The Jamies,36,26,9
+46,Call Me,Johnny Mathis,60,46,3
+47,The Hula Hoop Song,Georgia Gibbs,73,47,2
+48,Fibbin',Patti Page,46,46,4
+49,Put A Ring On My Finger,Les Paul And Mary Ford,52,32,9
+50,Baby Face,Little Richard,55,50,5
+51,I Wish,The Platters,42,42,5
+52,With Your Love,Jack Scott,74,52,3
+53,No One But You (In My Heart),The Ames Brothers,65,53,3
+54,The Green Mosquito,The Tune Rockers,61,44,8
+55,Topsy I,Cozy Cole,78,55,5
+56,Fever,Peggy Lee,38,8,11
+57,Everybody Loves A Lover,Doris Day,45,14,11
+58,"Nine More Miles (The ""Faster-Faster"" Song)",Georgie Young,63,58,4
+59,When I Grow Too Old To Dream,Ed Townsend,59,59,3
+60,You Cheated,The Slades,76,42,9
+61,There Goes My Heart,Joni James,51,51,5
+62,Forget Me Not,Kalin Twins,75,62,3
+63,Leave Me Alone (Let Me Cry),Dicky Doo And The Don'ts,86,63,3
+64,Ramrod,Duane Eddy His Twangy Guitar And The Rebels,49,28,8
+65,She Was Only Seventeen (He Was One Year More),Marty Robbins,58,27,11
+66,Volare (Nel Blu Dipinto Di Blu),Dean Martin,43,15,11
+67,Look Who's Blue,Don Gibson,62,62,3
+68,Real Wild Child,Ivan,89,68,4
+69,Give Myself A Party,Don Gibson,71,69,3
+70,I Got A Feeling,Ricky Nelson,-1,70,1
+71,Poor Little Fool,Ricky Nelson,47,1,11
+72,Lazy Summer Night,The Four Preps,33,21,9
+73,Hoopa Hoola,Betty Johnson ,69,69,2
+74,The Hula Hoop Song,Teresa Brewer,99,74,2
+75,The Ways Of A Woman In Love,Johnny Cash And The Tennessee Two,70,24,8
+76,Need You,Donnie Owens,92,76,2
+77,The Ballad Of Thunder Road,Robert Mitchum,79,77,5
+78,Queen Of The Hop,Bobby Darin,95,78,2
+79,Hideaway,The Four Esquires,57,54,4
+80,"Come On, Let's Go",Ritchie Valens,84,76,4
+81,Just Young,Paul Anka,98,81,2
+82,What Little Girl,Frankie Avalon,-1,82,1
+83,The Blob,The Five Blobs,97,83,2
+84,Blue Ribbon Baby,Tommy Sands And The Raiders,85,50,7
+85,Guaglione,Perez Prado And His Orchestra,-1,85,1
+86,Fallin',Connie Francis,-1,86,1
+87,Love Makes The World Go 'round,Perry Como,-1,87,1
+88,All Over Again,Johnny Cash,88,88,2
+89,Go Chase A Moonbeam,Jerry Vale,-1,89,1
+90,Dance Everyone Dance,Betty Madigan,94,34,9
+91,Over And Over,Bobby Day,91,41,11
+92,Just Young,Andy Rose,100,92,2
+93,Break-Up,Jerry Lee Lewis And His Pumping Piano,80,52,5
+94,Bluebell,Mitch Miller and his Orchestra and Chorus,-1,94,1
+95,Ginger Bread,Frankie Avalon,66,9,11
+96,Geraldine,Jack Scott,-1,96,1
+97,Non Dimenticar (Don't Forget),Nat King Cole,-1,97,1
+98,La Paloma,Billy Vaughn And His Orchestra,53,26,10
+99,Well I'm Your Man,Johnny Tillotson,87,87,2
+100,I'll Wait For You,Frankie Avalon,-1,100,1

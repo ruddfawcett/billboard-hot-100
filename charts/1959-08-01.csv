@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Lonely Boy,Paul Anka,1,1,10
+2,A Big Hunk O' Love,Elvis Presley With The Jordanaires,5,2,5
+3,My Heart Is An Open Book,"Carl Dobkins, Jr.",6,3,16
+4,The Battle Of New Orleans,Johnny Horton,2,1,15
+5,Tiger,Fabian,3,3,8
+6,There Goes My Baby,The Drifters,7,6,10
+7,Waterloo,Stonewall Jackson,4,4,11
+8,Lavender-Blue,Sammy Turner,12,8,7
+9,Sweeter Than You,Ricky Nelson,15,9,5
+10,Forty Miles Of Bad Road,Duane Eddy And The Rebels,9,9,8
+11,Lipstick On Your Collar,Connie Francis,8,5,12
+12,Just A Little Too Much,Ricky Nelson,11,11,6
+13,What A Diff'rence A Day Makes,Dinah Washington,14,13,11
+14,My Wish Came True,Elvis Presley With The Jordanaires,22,14,4
+15,What'd I Say (Part I & II),Ray Charles and his Orchestra,26,15,5
+16,Ragtime Cowboy Joe,David Seville And The Chipmunks,18,16,5
+17,I Only Have Eyes For You,The Flamingos,13,11,10
+18,Here Comes Summer,Jerry Keller,28,18,6
+19,Personality,Lloyd Price and His Orchestra ,10,2,15
+20,I'll Be Satisfied,Jackie Wilson,25,20,7
+21,Sea Of Love,Phil Phillips With The Twilights,35,21,5
+22,It Was I,Skip And Flip,33,22,7
+23,Bobby Sox To Stockings,Frankie Avalon,16,8,11
+24,A Boy Without A Girl,Frankie Avalon,17,10,11
+25,What Is Love?,The Playmates,31,25,5
+26,Small World,Johnny Mathis,30,26,8
+27,Frankie,Connie Francis,24,9,12
+28,Thank You Pretty Baby,Brook Benton,47,28,4
+29,You're So Fine,The Falcons,21,17,16
+30,M.T.A.,The Kingston Trio,19,15,8
+31,Robbin' The Cradle,Tony Bellus,34,31,15
+32,The Three Bells,The Browns,63,32,2
+33,Till There Was You,Anita Bryant,36,33,6
+34,"Ciao, Ciao Bambina",Jacky Noguez And His Musette Orchestra,32,32,7
+35,Twixt Twelve And Twenty,Pat Boone,20,17,8
+36,Hushabye,The Mystics,23,20,11
+37,The Way I Walk,Jack Scott,45,37,6
+38,Since You've Been Gone,Clyde McPhatter,42,38,8
+39,Makin' Love,Floyd Robinson,66,39,3
+40,This I Swear,The Skyliners,41,26,10
+41,Tallahassee Lassie,Freddy Cannon,27,6,13
+42,See You In September,The Tempos,57,42,6
+43,Ten Thousand Drums,Carl Smith,49,43,5
+44,The Wonder Of You,Ray Peterson,38,25,12
+45,Remember When,The Platters,44,41,7
+46,Dream Lover,Bobby Darin,29,2,16
+47,Mona Lisa,Carl Mann,39,39,10
+48,Only Sixteen,Sam Cooke,40,28,9
+49,Kissin' Time,Bobby Rydell,59,49,6
+50,Bongo Rock,Preston Epps,37,14,12
+51,The Quiet Three,Duane Eddy His Twangy Guitar And The Rebels,46,46,6
+52,I'm Gonna Be A Wheel Some Day,Fats Domino,67,52,2
+53,Just Keep It Up,Dee Clark,43,18,14
+54,Broken-Hearted Melody,Sarah Vaughan,70,54,3
+55,To A Soldier Boy,The Tassels,60,55,4
+56,There Is Something On Your Mind,Big Jay McNeely And Band,52,44,11
+57,Lonely Guitar,Annette,50,50,5
+58,High Hopes,"Frank Sinatra ""and a bunch of kids""",48,48,8
+59,On An Evening In Roma,Dean Martin,74,59,4
+60,Cry,The Knightsbridge Strings,76,60,3
+61,Like Young,Andre Previn With David Rose,54,46,8
+62,Back In The U.S.A.,Chuck Berry,53,37,7
+63,I Still Get Jealous,Joni James,65,63,4
+64,Beach Time,Roger Smith,75,64,6
+65,Baby Talk,Jan & Dean,-1,65,1
+66,Red River Rock,Johnny And The Hurricanes,-1,66,1
+67,Tennessee Stud,Eddy Arnold,73,67,4
+68,With Open Arms,Jane Morgan,97,68,2
+69,Katy Too,Johnny Cash And The Tennessee Two,81,69,4
+70,Leave My Kitten Alone,Little Willie John,-1,70,1
+71,Mona Lisa,Conway Twitty,79,71,3
+72,So High So Low,LaVern Baker,96,72,2
+73,Caribbean,Mitchell Torok,-1,73,1
+74,Tall Cool One,The Wailers,58,36,12
+75,Angel Face,Jimmy Darren,-1,75,1
+76,My Own True Love,Jimmy Clanton,-1,76,1
+77,Sleep Walk,Santo & Johnny,95,77,2
+78,Bei Mir Bist Du Schön,Louis Prima And Keely Smith,78,69,5
+79,Along Came Jones,The Coasters,51,9,12
+80,A Girl Like You,Gary Stites,86,80,3
+81,Danny Boy,Sil Austin,69,59,10
+82,I'm Coming Home,Marv Johnson,85,82,4
+83,Dedicated To The One I Love,The Shirelles,87,83,4
+84,I Know,Perry Como,56,47,9
+85,Half-Breed,Marvin Rainwater,98,85,2
+86,Linda Lu,Ray Sharpe,90,86,3
+87,Sweet Someone,Eddie and Betty,89,87,4
+88,"Bells, Bells, Bells (The Bell Song)",Billy & Lillie,91,88,4
+89,Time Marches On,Roy Hamilton,-1,89,1
+90,Crackin Up,Bo Diddley,62,62,5
+91,"I Loves You, Porgy",Nina Simone,-1,91,1
+92,Soldier's Joy,Hawkshaw Hawkins,-1,92,1
+93,You Don't Know Girls,Kathy Linden,99,93,2
+94,Midnight Flyer,Nat King Cole,-1,94,1
+95,I Got Stripes,Johnny Cash,-1,95,1
+96,Miami,Eugene Church,-1,96,1
+97,Sugaree,Rusty York,77,77,3
+98,Who Shot Sam,George Jones,100,98,2
+99,Gee,George Hamilton IV,-1,99,1
+100,Alimony,Frankie Ford,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,It's Still Rock And Roll To Me,Billy Joel,2,1,9
+2,Coming Up (Live At Glasgow),Paul McCartney And Wings,1,1,13
+3,Little Jeannie,Elton John,4,3,12
+4,Cupid/I've Loved You For A Long Time,The Spinners,5,4,10
+5,Shining Star,The Manhattans,11,5,13
+6,Steal Away,Robbie Dupree,6,6,15
+7,Magic,Olivia Newton-John,8,7,9
+8,The Rose,Bette Midler,3,3,18
+9,Let's Get Serious,Jermaine Jackson,9,9,17
+10,Let Me Love You Tonight,Pure Prairie League,10,10,11
+11,Take Your Time (Do It Right) Part 1,The S.O.S. Band,19,11,8
+12,Tired Of Toein' The Line,Rocky Burnette,13,12,11
+13,One Fine Day,Carole King,14,13,10
+14,In America,The Charlie Daniels Band,15,14,8
+15,More Love,Kim Carnes,17,15,8
+16,I'm Alive,Electric Light Orchestra,16,16,9
+17,Emotional Rescue,The Rolling Stones,22,17,3
+18,Love The World Away,Kenny Rogers,21,18,5
+19,Gimme Some Lovin',Blues Brothers,20,19,8
+20,Funkytown,"Lipps, Inc.",7,1,17
+21,All Night Long,Joe Walsh,23,21,10
+22,Empire Strikes Back (Medley),Meco,25,22,6
+23,Sailing,Christopher Cross,26,23,6
+24,Misunderstanding,Genesis,27,24,9
+25,Let My Love Open The Door,Pete Townshend,31,25,6
+26,Stand By Me,Mickey Gilley,28,26,10
+27,Against The Wind,Bob Seger,12,5,12
+28,Take A Little Rhythm,Ali Thomson,35,28,6
+29,Old-Fashion Love,Commodores,37,29,5
+30,Into The Night,Benny Mardones,36,30,6
+31,JoJo,Boz Scaggs,39,31,6
+32,Walks Like A Lady,Journey,34,32,9
+33,Make A Little Magic,The Dirt Band,40,33,5
+34,Biggest Part Of Me,Ambrosia,18,3,16
+35,She's Out Of My Life,Michael Jackson,24,10,14
+36,King Of The Hill,Rick Pinette & Oak,38,36,11
+37,Cars,Gary Numan,29,9,23
+38,I Can't Let Go,Linda Ronstadt,42,38,4
+39,All Out Of Love,Air Supply,43,39,6
+40,A Lover's Holiday,Change,41,40,10
+41,Tulsa Time/Cocaine,Eric Clapton And His Band,46,41,5
+42,Fame,Irene Cara,50,42,6
+43,Why Not Me,Fred Knoblock,58,43,4
+44,Play The Game,Queen,51,44,4
+45,Drivin' My Life Away,Eddie Rabbitt,55,45,5
+46,It's For You,Player,47,46,7
+47,Landlord,Gladys Knight And The Pips,49,47,6
+48,Boulevard,Jackson Browne,53,48,3
+49,Should've Never Let You Go,Neil Sedaka & Dara Sedaka ,30,19,17
+50,Shandi,KISS,56,50,5
+51,Beyond,Herb Alpert,59,51,4
+52,One More Time For Love,Billy Preston & Syreeta,57,52,6
+53,Let's Go 'round Again,Average White Band,54,53,5
+54,Call Me,Blondie,33,1,23
+55,Someone That I Used To Love,Natalie Cole,62,55,5
+56,Give Me The Night,George Benson,70,56,3
+57,Don't Fall In Love With A Dreamer,Kenny Rogers with Kim Carnes,32,4,17
+58,One In A Million You,Larry Graham,66,58,4
+59,Lookin' For Love,Johnny Lee,67,59,2
+60,On The Rebound,Russ Ballard,60,60,6
+61,Love That Got Away,Firefall,71,61,4
+62,That Lovin' You Feelin' Again,Roy Orbison & Emmylou Harris,69,62,4
+63,Everything Works If You Let It,Cheap Trick,44,44,9
+64,You're The Only Woman (You & I),Ambrosia,76,64,2
+65,Years From Now,Dr. Hook,74,65,3
+66,Dancin' In The Streets,Teri DeSario With K.C.,73,66,4
+67,Who Shot J.R.?,Gary Burbank With Band McNally,68,67,4
+68,Alabama Getaway,Grateful Dead,72,68,5
+69,Free Me,Roger Daltrey,78,69,3
+70,If I Were You,Toby Beau,80,70,3
+71,Upside Down,Diana Ross,82,71,2
+72,"Honey, Honey",David Hudson,79,72,4
+73,Save Me,Dave Mason,75,73,2
+74,Hot Rod Hearts,Robbie Dupree,-1,74,1
+75,It Hurts Too Much,Eric Carmen,77,75,2
+76,You're Supposed To Keep Your Love For Me,Jermaine Jackson,86,76,2
+77,I'm Alright,Kenny Loggins,88,77,2
+78,Just Can't Wait,The J. Geils Band,83,78,2
+79,I Get Off On It,Tony Joe White,81,79,4
+80,Half Moon Silver,Hotel,90,80,2
+81,Cry Just A Little,Paul Davis,-1,81,1
+82,My Mistake,The Kingbees,84,82,4
+83,The Blue Side, Crystal Gayle,85,81,7
+84,How Does It Feel To Be Back,Daryl Hall John Oates,-1,84,1
+85,Hey There Lonely Girl,Robert John,-1,85,1
+86,Under The Gun,Poco,-1,86,1
+87,When Things Go Wrong,Robin Lane & The Chartbusters,87,87,2
+88,The Royal Mile (Sweet Darlin'),Gerry Rafferty,-1,88,1
+89,Cheap Sunglasses,ZZ Top,89,89,2
+90,You And Me,Rockie Robbins,-1,90,1
+91,All Night Thing,The Invisible Man's Band,45,45,10
+92,Ashes By Now,Rodney Crowell,48,37,11
+93,Sweet Sensation,Stephanie Mills,52,52,6
+94,"Theme From New York, New York",Frank Sinatra,61,32,12
+95,Stomp!,The Brothers Johnson,63,7,19
+96,Where Did We Go Wrong,Frankie Valli & Chris Forde,-1,96,1
+97,Two Places At The Same Time,Ray Parker Jr. & Raydio,64,30,14
+98,Stop Your Sobbing,Pretenders,65,65,5
+99,I'm Happy Just To Dance With You,Anne Murray,91,64,6
+100,Somethin' 'Bout You Baby I Like,Glen Campbell & Rita Coolidge,94,42,10

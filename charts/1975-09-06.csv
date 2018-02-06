@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Rhinestone Cowboy,Glen Campbell,3,1,15
+2,Fallin' In Love,"Hamilton, Joe Frank & Reynolds",2,1,12
+3,Get Down Tonight,KC And The Sunshine Band,1,1,9
+4,At Seventeen,Janis Ian,7,4,13
+5,How Sweet It Is (To Be Loved By You),James Taylor,5,5,12
+6,Jive Talkin',Bee Gees,6,1,15
+7,Fame,David Bowie,11,7,11
+8,Fight The Power Part 1,The Isley Brothers,10,8,12
+9,Could It Be Magic,Barry Manilow,12,9,11
+10,One Of These Nights,Eagles,4,1,15
+11,Wasted Days And Wasted Nights,Freddy Fender,13,11,12
+12,Feel Like Makin' Love,Bad Company,14,12,10
+13,That's The Way Of The World,"Earth, Wind & Fire",15,13,10
+14,Ballroom Blitz, Sweet,16,14,13
+15,I'm Sorry,John Denver,20,15,4
+16,Third Rate Romance,Amazing Rhythm Aces,18,16,12
+17,Holdin' On To Yesterday,Ambrosia,17,17,13
+18,Someone Saved My Life Tonight,Elton John,8,4,10
+19,Run Joey Run,David Geddes,23,19,6
+20,Tush,ZZ Top,21,20,8
+21,Solitaire,Carpenters,26,21,6
+22,"Black Superman - ""Muhammad Ali""",Johnny Wakelin & The Kinshasa Band,24,22,24
+23,(I Believe) There's Nothing Stronger Than Our Love,Paul Anka/Odia Coates,25,23,7
+24,Daisy Jane,America,27,24,8
+25,Dance With Me,Orleans,28,25,8
+26,Feelings,Morris Albert,29,26,12
+27,The Proud One,The Osmonds,30,27,7
+28,Ain't No Way To Treat A Lady,Helen Reddy,34,28,5
+29,How Long (Betcha' Got A Chick On The Side),The Pointer Sisters,32,29,8
+30,Why Can't We Be Friends?,War,9,6,19
+31,It Only Takes A Minute,Tavares,35,31,7
+32,Love Will Keep Us Together,Captain & Tennille,19,1,21
+33,Rocky,Austin Roberts,38,33,8
+34,They Just Can't Stop It the (Games People Play),The Spinners,39,34,5
+35,Gone At Last,Paul Simon/Phoebe Snow,42,35,4
+36,Help Me Rhonda,Johnny Rivers,22,22,9
+37,Please Mr. Please,Olivia Newton-John,31,3,14
+38,Brazil,The Ritchie Family,45,38,6
+39,Two Fine People,Cat Stevens,33,33,8
+40,Give It What You Got/Peace Pipe,B.T. Express,50,40,5
+41,Lady Blue,Leon Russell,52,41,6
+42,Glasshouse,The Temptations,37,37,9
+43,Do It Any Way You Wanna,Peoples Choice,53,43,3
+44,"Main Title (Theme From ""Jaws"")","John Williams/""Jaws"" Soundtrack",65,44,5
+45,Carolina In The Pines, Michael Murphey,55,45,4
+46,Your Love,Graham Central Station,56,46,5
+47,I Believe I'm Gonna Love You,Frank Sinatra,49,47,6
+48,Keep Your Eye On The Sparrow,Merry Clayton,48,48,7
+49,Mr. Jaws,Dickie Goodman,-1,49,1
+50,Miracles,Jefferson Starship,61,50,3
+51,I'm Not In Love,10cc,43,2,17
+52,7-6-5-4-3-2-1 (Blow Your Whistle),Gary Toms Empire,59,52,12
+53,What A Diff'rence A Day Makes,Esther Phillips,63,53,4
+54,Por Amor Viviremos,Captain & Tennille,64,54,4
+55,I Only Have Eyes For You,Art Garfunkel,66,55,3
+56,I Love Makin' Love To You,Evie Sands,62,56,6
+57,Sweet Maxine,The Doobie Brothers,40,40,6
+58,I Got Stoned And I Missed It,Jim Stafford,68,58,4
+59,Dream Merchant,New Birth,36,36,10
+60,You're All I Need To Get By,Tony Orlando & Dawn,70,60,2
+61,If I Ever Lose This Heaven,AWB,71,61,3
+62,Katmandu,Bob Seger,73,62,5
+63,Rendezvous,The Hudson Brothers,46,26,12
+64,To Each His Own,"Faith, Hope And Charity",75,64,4
+65,Hope That We Can Be Together Soon,Sharon Paige and Harold Melvin And The Blue Notes,54,42,10
+66,Who Loves You,The 4 Seasons,78,66,3
+67,Department Of Youth,Alice Cooper,67,67,4
+68,Only You Can,Fox,79,68,3
+69,If I Could Only Win Your Love,Emmylou Harris,80,69,2
+70,Money,Gladys Knight And The Pips,81,70,2
+71,Rockin' All Over The World,John Fogerty,-1,71,1
+72,This Will Be,Natalie Cole,83,72,2
+73,Love Is A Rose,Linda Ronstadt,-1,73,1
+74,Alvin Stone (The Birth & Death Of A Gangster),Fantastic Four,74,74,7
+75,Dreaming A Dream,Crown Heights Affair,77,75,4
+76,Blue Eyes Crying In The Rain,Willie Nelson,86,76,2
+77,Sky High,Jigsaw,88,77,2
+78,Mamacita,The Grass Roots,82,78,6
+79,There Goes Another Love Song,The Outlaws,-1,79,1
+80,Jam Band,Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III,90,80,2
+81,Out Of Time,The Rolling Stones,85,81,3
+82,Brand New Love Affair (Part I & II),Chicago,-1,82,1
+83,I Get High On You,Sly Stone,-1,83,1
+84,I Like It Like That,Loggins & Messina,84,84,2
+85,You Ain't Never Been Loved (Like I'm Gonna Love You),Jessi Colter,-1,85,1
+86,The Agony And The Ecstasy,Smokey Robinson,-1,86,1
+87,Hollywood Hot,The Eleventh Hour,98,87,2
+88,Shotgun Shuffle,The Sunshine Band,-1,88,1
+89,(All I Have To Do Is) Dream,The Nitty Gritty Dirt Band,89,89,2
+90,I Want'a Do Something Freaky To You,Leon Haywood,-1,90,1
+91,Eighteen With A Bullet,Pete Wingfield,96,91,3
+92,Music In My Bones,Joe Simon,95,92,3
+93,You Are A Song,Batdorf & Rodney,87,87,5
+94,When You're Young And In Love,The Choice Four,100,94,2
+95,The Millionaire,Dr. Hook,97,95,3
+96,Like They Say In L.A.,East L.A. Car Pool,72,72,6
+97,When You're Young And In Love,Ralph Carter,-1,97,1
+98,Don't It Make You Wanna Dance?,Rusty Wier,-1,98,1
+99,S.O.S.,ABBA ,-1,84,3
+100,Party Music,Pat Lundi,-1,100,1

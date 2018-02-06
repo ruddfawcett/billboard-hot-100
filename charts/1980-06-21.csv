@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Funkytown,"Lipps, Inc.",1,1,13
+2,Coming Up (Live At Glasgow),Paul McCartney And Wings,2,2,9
+3,Biggest Part Of Me,Ambrosia,3,3,12
+4,The Rose,Bette Midler,4,4,14
+5,Against The Wind,Bob Seger,5,5,8
+6,It's Still Rock And Roll To Me,Billy Joel,7,6,5
+7,Little Jeannie,Elton John,8,7,8
+8,Steal Away,Robbie Dupree,10,8,11
+9,Cars,Gary Numan,9,9,19
+10,She's Out Of My Life,Michael Jackson,11,10,10
+11,Cupid/I've Loved You For A Long Time,The Spinners,13,11,6
+12,Call Me,Blondie,6,1,19
+13,Let's Get Serious,Jermaine Jackson,14,13,13
+14,Don't Fall In Love With A Dreamer,Kenny Rogers with Kim Carnes,12,4,13
+15,Let Me Love You Tonight,Pure Prairie League,18,15,7
+16,Shining Star,The Manhattans,22,16,9
+17,Brass In Pocket (I'm Special),Pretenders,16,14,19
+18,Stomp!,The Brothers Johnson,17,7,15
+19,Hurt So Bad,Linda Ronstadt,15,8,11
+20,Tired Of Toein' The Line,Rocky Burnette,26,20,7
+21,Should've Never Let You Go,Neil Sedaka & Dara Sedaka,23,21,13
+22,One Fine Day,Carole King,29,22,6
+23,Sexy Eyes,Dr. Hook,19,5,19
+24,Magic,Olivia Newton-John,36,24,5
+25,Wondering Where The Lions Are,Bruce Cockburn,21,21,14
+26,Lost In Love,Air Supply,20,3,20
+27,We Live For Love,Pat Benatar ,27,27,12
+28,I'm Alive,Electric Light Orchestra,40,28,5
+29,More Love,Kim Carnes,37,29,4
+30,Twilight Zone/Twilight Tone,The Manhattan Transfer,30,30,10
+31,Two Places At The Same Time,Ray Parker Jr. & Raydio,34,31,10
+32,"Theme From New York, New York",Frank Sinatra,32,32,8
+33,Answering Machine,Rupert Holmes,35,33,8
+34,All Night Long,Joe Walsh,38,34,6
+35,Gimme Some Lovin',Blues Brothers,47,35,4
+36,Ride Like The Wind,Christopher Cross,24,2,19
+37,We Were Meant To Be Lovers,Photoglo,31,31,13
+38,Angel Say No,Tommy Tutone,41,38,5
+39,Misunderstanding,Genesis,49,39,5
+40,Atomic,Blondie,44,40,6
+41,Clones (We're All),Alice Cooper,45,41,6
+42,Stand By Me,Mickey Gilley,46,42,6
+43,Ashes By Now,Rodney Crowell,48,43,7
+44,Love The World Away,Kenny Rogers,-1,44,1
+45,In America,The Charlie Daniels Band,58,45,4
+46,Somethin' 'Bout You Baby I Like,Glen Campbell & Rita Coolidge,51,46,6
+47,A Lover's Holiday,Change,52,47,6
+48,Walks Like A Lady,Journey,54,48,5
+49,King Of The Hill,Rick Pinette & Oak,55,49,7
+50,Is This Love,Pat Travers Band,50,50,6
+51,New Romance (It's A Mystery),Spider,39,39,10
+52,Everything Works If You Let It,Cheap Trick,59,52,5
+53,All Night Thing,The Invisible Man's Band,53,53,6
+54,Lady,The Whispers,28,28,10
+55,Take Your Time (Do It Right) Part 1,The S.O.S. Band,65,55,4
+56,Back Together Again,Roberta Flack With Donny Hathaway,56,56,6
+57,And The Cradle Will Rock...,Van Halen,57,57,5
+58,Empire Strikes Back (Medley),Meco,68,58,2
+59,Let My Love Open The Door,Pete Townshend,69,59,2
+60,Breakdown Dead Ahead,Boz Scaggs,25,15,13
+61,All Out Of Love,Air Supply,71,61,2
+62,It's For You,Player,72,62,3
+63,JoJo,Boz Scaggs,74,63,2
+64,Another Brick In The Wall (Part II),Pink Floyd,33,1,23
+65,Sailing,Christopher Cross,77,65,2
+66,Power,The Temptations,43,43,7
+67,Take You Tonight,Ozark Mountain Daredevils,67,67,5
+68,Into The Night,Benny Mardones,78,68,2
+69,Coming Down From Love,Bobby Caldwell,42,42,10
+70,Sweet Sensation,Stephanie Mills,83,70,2
+71,Make A Little Magic,The Dirt Band,-1,71,1
+72,Love Stinks,The J. Geils Band,66,38,11
+73,Shotgun Rider,Joe Sun,73,73,4
+74,Tulsa Time/Cocaine,Eric Clapton And His Band,-1,74,1
+75,I'm Happy Just To Dance With You,Anne Murray,85,75,2
+76,Let's Go 'round Again,Average White Band,-1,76,1
+77,Landlord,Gladys Knight And The Pips,87,77,2
+78,Fame,Irene Cara,88,78,2
+79,Time For Me To Fly,REO Speedwagon,79,56,11
+80,On The Rebound,Russ Ballard,89,80,2
+81,One More Time For Love,Billy Preston & Syreeta,90,81,2
+82,Take A Little Rhythm,Ali Thomson,92,82,2
+83,Stop Your Sobbing,Pretenders,-1,83,1
+84,The Very Last Time,Utopia,76,76,3
+85,The Blue Side,Crystal Gayle,81,81,3
+86,Alabama Getaway,Grateful Dead,-1,86,1
+87,Someone That I Used To Love,Natalie Cole,-1,87,1
+88,Shandi,KISS,-1,88,1
+89,Old-Fashion Love,Commodores,-1,89,1
+90,Drivin' My Life Away,Eddie Rabbitt,-1,90,1
+91,Only The Lonely (Have A Reason To Be Sad),La Flavour,93,91,2
+92,Sisters Of The Moon,Fleetwood Mac,86,86,3
+93,I Can't Help It,Andy Gibb & Olivia Newton-John,60,12,13
+94,Train In Vain (Stand By Me),The Clash,61,23,14
+95,Gee Whiz,Bernadette Peters,62,31,13
+96,With You I'm Born Again,Billy Preston & Syreeta,64,4,29
+97,I Don't Want To Walk Without You,Barry Manilow,63,36,11
+98,You May Be Right,Billy Joel,75,7,15
+99,Dancing With The Mountains,John Denver,-1,99,1
+100,The Seduction (Love Theme),James Last Band,80,28,13

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Lean On Me,Bill Withers,1,1,13
+2,Too Late To Turn Back Now,Cornelius Brothers & Sister Rose,4,2,8
+3,Outa-Space,Billy Preston,2,2,13
+4,Song Sung Blue,Neil Diamond,3,1,11
+5,Brandy (You're A Fine Girl),Looking Glass,12,5,5
+6,Rocket Man,Elton John,7,6,11
+7,Daddy Don't You Walk So Fast,Wayne Newton,8,7,13
+8,Alone Again (Naturally),Gilbert O'Sullivan,20,8,5
+9,(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,10,9,7
+10,Where Is The Love,Roberta Flack & Donny Hathaway,19,10,6
+11,How Do You Do?,Mouth & MacNeal,13,11,12
+12,School's Out,Alice Cooper,16,12,7
+13,Too Young,Donny Osmond,14,13,6
+14,Take It Easy,Eagles,17,14,7
+15,Layla,Derek & The Dominos,15,15,20
+16,I Wanna Be Where You Are,Michael Jackson,18,16,8
+17,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",5,1,19
+18,Troglodyte (Cave Man),The Jimmy Castor Bunch,6,6,10
+19,Conquistador,Procol Harum,22,19,8
+20,I Need You,America,9,9,9
+21,Nice To Be With You,Gallery,11,4,21
+22,Long Cool Woman (In A Black Dress),The Hollies,33,22,4
+23,Day By Day,Godspell,28,23,9
+24,Hold Her Tight,The Osmonds,39,24,3
+25,The Happiest Girl In The Whole U.S.A.,Donna Fargo,35,25,8
+26,All The Kings Horses,Aretha Franklin,26,26,7
+27,People Make The World Go Round,The Stylistics,31,27,7
+28,Coconut,Nilsson,34,28,6
+29,Mary Had A Little Lamb/Little Woman Love,Wings,38,29,5
+30,I'm Still In Love With You,Al Green,57,30,2
+31,I've Been Lonely For So Long,Frederick Knight,27,27,13
+32,Sealed With A Kiss,Bobby Vinton,36,32,6
+33,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,23,8,16
+34,Hold Your Head Up,Argent ,40,34,5
+35,Superwoman (Where Were You When I Needed You),Stevie Wonder,37,35,9
+36,Oh Girl,The Chi-lites,24,1,15
+37,Gone,Joey Heatherton,46,37,8
+38,I'll Take You There,The Staple Singers,25,1,15
+39,Motorcycle Mama,Sailcat,47,39,6
+40,Amazing Grace,The Pipes And Drums And The Military Band Of The Royal Scots Dragoon Guards,21,11,9
+41,You Don't Mess Around With Jim,Jim Croce,50,41,3
+42,After Midnight,J.J. Cale,42,42,9
+43,We're Free,Beverly Bremers,43,43,12
+44,The Runway,The Grass Roots,45,44,5
+45,Brown Eyed Girl,El Chicano,48,45,5
+46,We're On Our Way,Chris Hodge,44,44,7
+47,Baby Let Me Take You (In My Arms),Detroit Emeralds,49,47,8
+48,Honky Tonk - Part 1,The James Brown Soul Train,51,48,4
+49,Sweet Inspiration/Where You Lead,Barbra Streisand,56,49,4
+50,I'm Coming Home,Stories,55,50,5
+51,How Can I Be Sure,David Cassidy,32,25,9
+52,Small Beginnings,Flash,64,52,4
+53,Life And Breath,Climax featuring Sonny Geraci,52,52,11
+54,We've Come Too Far To End It Now,Smokey Robinson & The Miracles,59,54,4
+55,Breaking Up Is Hard To Do,The Partridge Family Starring Shirley Jones Featuring David Cassidy,82,55,3
+56,In A Broken Dream,Python Lee Jackson,60,56,8
+57,In The Ghetto,Candi Staton,61,57,4
+58,Beautiful Sunday,Daniel Boone,67,58,7
+59,Funk Factory,Wilson Pickett,58,58,8
+60,Beautiful,Gordon Lightfoot,62,60,8
+61,Baby Don't Get Hooked On Me,Mac Davis,73,61,3
+62,Pop That Thang,The Isley Brothers,76,62,3
+63,Victim Of A Foolish Heart,Bettye Swann,63,63,8
+64,War Song,Neil Young & Graham Nash,72,64,3
+65,Men Of Learning,Vigrass & Osborne,66,65,5
+66,Duncan,Paul Simon,74,66,2
+67,I Miss You (Part I),Harold Melvin And The Blue Notes,71,67,3
+68,Goodbye To Love,Carpenters,-1,68,1
+69,Happy,The Rolling Stones,-1,69,1
+70,When You Say Love,Sonny & Cher,99,70,2
+71,Power Of Love,Joe Simon,94,71,2
+72,A Simple Man,Lobo,90,72,2
+73,Rip Off,Laura Lee,75,73,6
+74,Popcorn,Hot Butter,89,74,2
+75,Go All The Way,Raspberries,84,75,3
+76,"Look What They've Done To My Song, Ma",Ray Charles,79,76,2
+77,Eddie's Love,Eddie Kendricks,77,77,6
+78,Bed And Board,Barbara Mason,70,70,6
+79,Francene,ZZ Top,69,69,9
+80,Vanilla Ólay,Jackie DeShannon,80,80,7
+81,You're Still A Young Man,Tower Of Power,-1,81,1
+82,Starting All Over Again,Mel And Tim,83,82,2
+83,Lookin' Through The Windows,Jackson 5,-1,83,1
+84,My Guy,Petula Clark,85,84,6
+85,Butterfly,Danyel Gerard,78,78,6
+86,If I Were A Carpenter,Bob Seger,87,86,3
+87,Delta Dawn, Tanya Tucker,88,87,3
+88,The Coldest Days Of My Life (Part 1),The Chi-lites,-1,88,1
+89,Alabama Wild Man,Jerry Reed,-1,89,1
+90,Zing Went The Strings Of My Heart,The Trammps,92,90,2
+91,Put It Where You Want It,The Crusaders,-1,91,1
+92,Mother Nature,The Temptations,93,92,3
+93,Rock And Roll Crazies,Stephen Stills-Manassas,-1,93,1
+94,Everybody Plays The Fool,The Main Ingredient,-1,94,1
+95,Starman,David Bowie,96,95,3
+96,That's The Way God Planned It,Billy Preston,98,62,8
+97,Circles,The New Seekers,-1,97,1
+98,That's What Friends Are For,B.J. Thomas,-1,98,1
+99,Country Woman,The Magic Lantern,100,99,2
+100,Down On Me,Janis Joplin,-1,100,1

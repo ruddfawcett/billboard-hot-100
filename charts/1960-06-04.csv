@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Cathy's Clown,The Everly Brothers,1,1,8
+2,Stuck On You,Elvis Presley With The Jordanaires,2,1,10
+3,Good Timin',Jimmy Jones,3,3,8
+4,He'll Have To Stay,Jeanne Black,4,4,6
+5,Burning Bridges,Jack Scott,9,5,8
+6,Paper Roses,Anita Bryant,7,6,9
+7,Night,Jackie Wilson,6,4,12
+8,Everybody's Somebody's Fool,Connie Francis,20,8,5
+9,Love You So,Ron Holden with The Thunderbirds,14,9,10
+10,Greenfields,The Brothers Four,5,2,16
+11,Sixteen Reasons,Connie Stevens,8,3,19
+12,Cradle Of Love,Johnny Preston,10,7,11
+13,Swingin' School,Bobby Rydell,15,13,5
+14,Young Emotions,Ricky Nelson,12,12,7
+15,Let The Little Girl Dance,Billy Bland,13,7,17
+16,Cherry Pie,Skip And Flip,11,11,10
+17,Happy-Go-Lucky-Me,Paul Evans,27,17,6
+18,Ding-A-Ling,Bobby Rydell,18,18,5
+19,Wonderful World,Sam Cooke,21,19,5
+20,Stairway To Heaven,Neil Sedaka,17,9,11
+21,Doggin' Around,Jackie Wilson,25,15,10
+22,Jealous Of You (Tango Della Gelosia),Connie Francis,43,22,3
+23,Because They're Young,Duane Eddy And The Rebels,42,23,3
+24,Mountain Of Love,Harold Dorman,22,21,15
+25,Fame And Fortune,Elvis Presley With The Jordanaires,23,17,9
+26,The Old Lamplighter,The Browns Featuring Jim Edward Brown,19,5,13
+27,A Rockin' Good Way (To Mess Around And Fall In Love),Dinah Washington & Brook Benton,49,27,3
+28,Sink The Bismark,Johnny Horton,16,3,14
+29,Jump Over,Freddy Cannon,32,29,5
+30,Dutchman's Gold,Walter Brennan With Billy Vaughn and his Orchestra,31,30,7
+31,Mack The Knife,Ella Fitzgerald,36,31,6
+32,Another Sleepless Night,Jimmy Clanton,38,32,7
+33,Think,James Brown And The Famous Flames,35,33,6
+34,"Oh, Little One",Jack Scott,37,34,6
+35,Lonely Weekends,Charlie Rich,26,22,13
+36,Nobody Loves Me Like You,The Flamingos,30,30,8
+37,My Home Town,Paul Anka,57,37,3
+38,I'm Sorry,Brenda Lee,76,38,2
+39,All I Could Do Was Cry,Etta James,48,39,6
+40,I Really Don't Want To Know,Tommy Edwards,64,40,3
+41,Mr. Lucky,Henry Mancini,39,21,10
+42,"Please Help Me, I'm Falling",Hank Locklin,53,42,3
+43,Won't You Come Home Bill Bailey,Bobby Darin,52,43,3
+44,The Way Of A Clown,Teddy Randazzo,47,44,8
+45,Theme For Young Lovers,Percy Faith And His Orchestra,65,45,5
+46,Barbara,The Temptations,46,29,8
+47,When You Wish Upon A Star,Dion & The Belmonts,50,30,7
+48,Ooh Poo Pah Doo - Part II,Jessie Hill,34,28,11
+49,Step By Step,The Crests,41,14,15
+50,"Theme From ""The Unforgiven"" (The Need For Love)",Don Costa And His Orchestra And Chorus,77,50,6
+51,White Silver Sands,Bill Black's Combo,24,9,14
+52,The Madison,Al Brown's Tunetoppers Featuring Cookie Brown,28,23,10
+53,National City,"Joiner, Arkansas Junior High School Band",66,53,4
+54,Spring Rain,Pat Boone,86,54,2
+55,Alley-Oop,Hollywood Argyles,85,55,2
+56,Walking The Floor Over You,Pat Boone,59,56,3
+57,Mule Skinner Blues,The Fendermen,72,57,3
+58,The Madison Time - Part I,Ray Bryant Combo,33,30,9
+59,Ebb Tide,The Platters Featuring Tony Williams,56,56,4
+60,The Ties That Bind,Brook Benton,60,37,9
+61,Got A Girl,The Four Preps,29,24,8
+62,Something Happened,Paul Anka,98,62,2
+63,A Cottage For Sale,Little Willie John,69,63,5
+64,Finger Poppin' Time,Hank Ballard And The Midnighters,67,64,4
+65,Just A Closer Walk With Thee,Jimmie Rodgers,58,44,9
+66,Right By My Side,Ricky Nelson,73,59,5
+67,Pennies From Heaven,The Skyliners,80,67,5
+68,Pink Chiffon,Mitchell Torok,70,68,5
+69,For Love,Lloyd Price and His Orchestra,61,43,6
+70,Tell Me That You Love Me,Fats Domino,51,51,7
+71,Runaround,The Fleetwoods,83,71,3
+72,Exclusively Yours,"Carl Dobkins, Jr.",75,72,4
+73,No If's - No And's,Lloyd Price and His Orchestra,40,40,7
+74,Always It's You,The Everly Brothers,71,56,4
+75,Alley-Oop,Dante and the Evergreens,94,75,2
+76,Down Yonder,Johnny And The Hurricanes,81,76,2
+77,What Am I Living For,Conway Twitty,44,26,11
+78,That's All You Gotta Do,Brenda Lee,-1,78,1
+79,Heartbreak (It's Hurtin' Me),Little Willie John,90,79,2
+80,Lonely Winds,The Drifters,89,80,3
+81,Hot Rod Lincoln,Charlie Ryan and the Timberline Riders,78,78,5
+82,When Will I Be Loved,The Everly Brothers,96,82,2
+83,Clap Your Hands,The Beau-Marks,87,83,4
+84,Shadows Of Love,LaVern Baker,88,84,3
+85,"River, Stay 'Way From My Door",Frank Sinatra,82,82,2
+86,La Montana (If She Should Come To You),Frank DeVol And His Rainbow Strings,92,86,4
+87,I'll Be Seeing You,The Five Satins,79,79,5
+88,Only The Lonely (Know How I Feel),Roy Orbison,-1,88,1
+89,Hey Little One,Dorsey Burnette,-1,89,1
+90,Train Of Love,Annette With The Afterbeats,-1,90,1
+91,Ain't Gonna Be That Way,Marv Johnson,99,91,2
+92,Alley-Oop,The Dyna-Sores,-1,92,1
+93,Heartbreak (It's Hurtin' Me),Jon Thomas and Orchestra,-1,93,1
+94,Comin' Down With Love,Mel Gadson,95,94,2
+95,Image Of A Girl,Safaris with The Phantom's Band,-1,95,1
+96,Banjo Boy,Jan And Kjeld,-1,96,1
+97,Biology,Danny Valentino,-1,97,1
+98,La Montana (If She Should Come To You),Roger Williams,-1,98,1
+99,The Yen Yet Song,Gary Cane And His Friends,-1,99,1
+100,One Of Us (Will Weep Tonight), Patti Page,-1,100,1

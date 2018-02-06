@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Mrs. Robinson,Simon & Garfunkel,1,1,8
+2,This Guy's In Love With You,Herb Alpert,3,2,5
+3,Mony Mony,Tommy James And The Shondells,5,3,11
+4,Yummy Yummy Yummy,Ohio Express,6,4,7
+5,MacArthur Park,Richard Harris,7,5,6
+6,Tighten Up,Archie Bell & The Drells,2,1,12
+7,Think,Aretha Franklin,9,7,5
+8,A Beautiful Morning,The Rascals,8,3,10
+9,"The Good, The Bad And The Ugly","Hugo Montenegro, His Orchestra And Chorus",4,2,18
+10,The Look Of Love,Sergio Mendes & Brasil '66,13,10,6
+11,Ain't Nothing Like The Real Thing,Marvin Gaye & Tammi Terrell,11,8,10
+12,Honey,Bobby Goldsboro,10,1,13
+13,I Could Never Love Another (After Loving You),The Temptations,19,13,7
+14,Angel Of The Morning,Merrilee Rush & The Turnabouts,14,14,7
+15,The Horse,Cliff Nobles & Co. ,34,15,4
+16,Delilah,Tom Jones,15,15,14
+17,Licking Stick - Licking Stick (Part 1),James Brown And The Famous Flames,25,17,4
+18,I Love You,People,22,18,11
+19,Here Comes The Judge,Shorty Long,50,19,3
+20,If I Were A Carpenter,Four Tops,20,20,8
+21,Do You Know The Way To San José,Dionne Warwick,21,10,10
+22,Reach Out Of The Darkness,Friend And Lover,23,22,5
+23,Master Jack,Four Jacks And A Jill,18,18,12
+24,Like To Get To Know You,Spanky And Our Gang,17,17,9
+25,(You Keep Me) Hangin' On, Joe Simon,37,25,10
+26,A Man Without Love (Quando M'innamoro),Engelbert Humperdinck,27,26,6
+27,How'd We Ever Get This Way,Andy Kim,29,27,7
+28,Shoo-Be-Doo-Be-Doo-Da-Day,Stevie Wonder,16,9,11
+29,Cowboys To Girls,The Intruders,12,6,13
+30,Tip-Toe Thru' The Tulips With Me,Tiny Tim,33,30,5
+31,She's Lookin' Good,Wilson Pickett,30,15,10
+32,I Will Always Think About You,The New Colony Six,26,22,12
+33,Soul Serenade,Willie Mitchell,32,23,15
+34,Choo Choo Train,The Box Tops,39,34,3
+35,Never Give You Up,Jerry Butler,38,35,7
+36,Does Your Mama Know About Me,Bobby Taylor & The Vancouvers,40,29,9
+37,Take Time To Know Her, Percy Sledge,24,11,14
+38,Jumpin' Jack Flash,The Rolling Stones,62,38,2
+39,She's A Heartbreaker,Gene Pitney,43,39,6
+40,"Face It Girl, It's Over",Nancy Wilson,77,40,6
+41,Time For Livin',The Association,41,41,5
+42,I'm Sorry,The Delfonics,42,42,8
+43,The Happy Song (Dum-Dum),Otis Redding,28,25,8
+44,I Wanna Live,Glen Campbell,44,36,11
+45,Lady Willpower,Gary Puckett And The Union Gap,64,45,2
+46,United,Peaches & Herb,48,46,5
+47,Yester Love,Smokey Robinson & The Miracles,47,47,3
+48,You Don't Know What You Mean To Me,Sam & Dave,55,48,4
+49,If You Don't Want My Love,Robert John,49,49,10
+50,It Should Have Been Me,Gladys Knight And The Pips,66,50,2
+51,Indian Lake,The Cowsills,52,51,3
+52,Grazing In The Grass,Hugh Masekela,83,52,2
+53,Stoned Soul Picnic,The 5th Dimension,53,53,3
+54,Sky Pilot (Part One),Eric Burdon & The Animals,54,54,3
+55,Folsom Prison Blues,Johnny Cash,75,55,4
+56,Some Things You Never Get Used To,Diana Ross & The Supremes,63,56,2
+57,Bring A Little Lovin',Los Bravos,57,57,4
+58,Pictures Of Matchstick Men,The Status Quo,73,58,5
+59,I'll Never Do You Wrong,Joe Tex,59,59,5
+60,Lover's Holiday,Peggy Scott & Jo Jo Benson,87,60,2
+61,D. W. Washburn,The Monkees,-1,61,1
+62,Here Come The Judge,The Magistrates,65,62,3
+63,My Girl/Hey Girl,Bobby Vee,35,35,9
+64,America Is My Home - Pt. 1,James Brown And The Famous Flames,69,64,4
+65,Jelly Jungle (Of Orange Marmalade),Lemon Pipers,51,51,5
+66,Unwind,Ray Stevens,56,52,9
+67,Brooklyn Roads,Neil Diamond,58,58,6
+68,I Wish I Knew (How It Would Feel To Be Free),Solomon Burke,68,68,7
+69,I Got You Babe,Etta James,71,69,5
+70,The Doctor,Mary Wells,70,70,5
+71,Eleanor Rigby,Ray Charles,86,71,2
+72,Here I Am Baby,The Marvelettes,85,72,2
+73,My Shy Violet,The Mills Brothers,76,73,5
+74,It's Over,Eddy Arnold,80,74,5
+75,Mountain Of Love,Ronnie Dove,81,75,2
+76,Back In Love Again,The Buckinghams,78,76,2
+77,Love In Every Room,Paul Mauriat And His Orchestra,60,60,6
+78,Safe In My Garden,The Mamas & The Papas,79,78,2
+79,Apologize,Ed Ames,82,79,6
+80,Sleepy Joe,Herman's Hermits,61,61,6
+81,You Send Me,Aretha Franklin,-1,81,1
+82,Here Comes The Judge,Pigmeat Markham,-1,82,1
+83,Let Me Be Lonely,Dionne Warwick,93,83,2
+84,It's Nice To Be With You,The Monkees,-1,84,1
+85,Sweet Memories,Andy Williams,96,85,2
+86,Hold On,Radiants,92,86,4
+87,Understanding,Ray Charles,-1,87,1
+88,Funky Fever,Clarence Carter,88,88,3
+89,Ain't Nothin' But A House Party,The Show Stoppers,89,89,3
+90,Can't You See Me Cry,The New Colony Six,-1,90,1
+91,San Francisco Girls (Return of the Native),Fever Tree,91,91,3
+92,Baby You Come Rollin' Across My Mind,The Peppermint Trolley Company,95,92,2
+93,Here Come Da Judge,The Buena Vistas,94,93,3
+94,Let Yourself Go,Elvis Presley With The Jordanaires,-1,94,1
+95,"Turn Around, Look At Me",The Vogues,-1,95,1
+96,Don't Sign The Paper Baby (I Want You Back),Jimmy Delphs,98,96,4
+97,Listen Here,Eddie Harris,-1,97,1
+98,Forget Me Not,Martha Reeves & The Vandellas,-1,98,1
+99,Valley Of The Dolls,King Curtis & The Kingpins,-1,99,1
+100,Congratulations,Cliff Richard,100,100,2

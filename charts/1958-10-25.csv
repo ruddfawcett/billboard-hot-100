@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,It's All In The Game,Tommy Edwards,1,1,11
+2,It's Only Make Believe,Conway Twitty,5,2,7
+3,Tom Dooley,The Kingston Trio,8,3,5
+4,Topsy II,Cozy Cole,3,3,10
+5,Rock-in Robin,Bobby Day,2,2,13
+6,Tears On My Pillow,Little Anthony And The Imperials,7,4,12
+7,Bird Dog,The Everly Brothers,4,2,13
+8,Tea For Two Cha Cha,The Tommy Dorsey Orchestra,9,8,9
+9,Susie Darlin',Robin Luke,6,5,12
+10,Chantilly Lace,Big Bopper,10,10,13
+11,The End,Earl Grant,11,7,7
+12,Forget Me Not,Kalin Twins,35,12,5
+13,Little Star,The Elegants,13,1,13
+14,Nel Blu Dipinto Di Blu (Volaré),Domenico Modugno,12,1,13
+15,"To Know Him, Is To Love Him",The Teddy Bears,16,15,6
+16,Near You,Roger Williams,14,10,11
+17,You Cheated,The Shields,15,15,10
+18,Lonesome Town,Ricky Nelson,86,18,2
+19,Pussy Cat,The Ames Brothers,22,19,5
+20,Summertime Blues,Eddie Cochran,23,8,13
+21,Mexican Hat Rock,The Applejacks,17,17,7
+22,Ten Commandments Of Love,Harvey & The Moonglows,36,22,7
+23,I Got A Feeling,Ricky Nelson,21,21,3
+24,This Little Girl's Gone Rockin',Ruth Brown,57,24,6
+25,How The Time Flies,Jerry Wallace,24,11,11
+26,The Day The Rains Came,Jane Morgan,27,25,6
+27,Topsy I,Cozy Cole,46,27,7
+28,For My Good Fortune,Pat Boone,26,23,6
+29,Just A Dream,Jimmy Clanton And His Rockets,19,4,13
+30,Firefly,Tony Bennett,29,20,8
+31,Queen Of The Hop,Bobby Darin,44,31,4
+32,The Secret,Gordon MacRae,18,18,7
+33,Call Me,Johnny Mathis,28,28,5
+34,With Your Love,Jack Scott,34,34,5
+35,No One Knows,Dion & The Belmonts,30,24,10
+36,There Goes My Heart,Joni James,33,33,7
+37,"Promise Me, Love",Andy Williams,20,17,9
+38,A Lover's Question,Clyde McPhatter,72,38,3
+39,La-Do-Dada,Dale Hawkins,40,32,9
+40,Win Your Love For Me,Sam Cooke,50,33,13
+41,Baby Face,Little Richard,43,41,7
+42,Devoted To You,The Everly Brothers,25,10,12
+43,Need You,Donnie Owens,47,43,4
+44,Leave Me Alone (Let Me Cry),Dicky Doo And The Don'ts,48,44,5
+45,All Over Again,Johnny Cash,64,45,4
+46,Give Myself A Party, Don Gibson,70,46,5
+47,Hideaway,The Four Esquires,53,47,6
+48,Fibbin',Patti Page,39,39,6
+49,The Blob,The Five Blobs,65,49,4
+50,Poor Boy,The Royaltones,51,50,2
+51,Itchy Twitchy Feeling,Bobby Hendricks,61,25,13
+52,The Hula Hoop Song,Georgia Gibbs,32,32,4
+53,Treasure Of Your Love,Eileen Rodgers,37,26,10
+54,Born Too Late,Poni-Tails,42,7,13
+55,The Hula Hoop Song,Teresa Brewer,38,38,4
+56,"Come On, Let's Go",Ritchie Valens,99,56,6
+57,Non Dimenticar (Don't Forget),Nat King Cole,59,57,3
+58,Carol,Chuck Berry,54,18,10
+59,"Gee, But It's Lonely",Pat Boone,31,31,6
+60,Love Makes The World Go 'round,Perry Como,66,60,3
+61,Please Love Me Forever,Tommy Edwards,74,61,2
+62,My True Love,Jack Scott,63,3,13
+63,Guaglione,Perez Prado And His Orchestra,69,63,3
+64,Down The Aisle Of Love,The Quin-Tones,41,20,11
+65,"Nine More Miles (The ""Faster-Faster"" Song)",Georgie Young,58,58,6
+66,Look Who's Blue,Don Gibson,68,62,5
+67,The Day The Rains Came,Raymond Lefevre and His Orchestra,-1,67,1
+68,A Letter To An Angel,Jimmy Clanton,76,68,2
+69,I'll Wait For You,Frankie Avalon,-1,69,2
+70,Fallin',Connie Francis,77,70,3
+71,No One But You (In My Heart),The Ames Brothers,45,45,5
+72,I'll Remember Tonight,Pat Boone,-1,72,1
+73,Patricia,Perez Prado And His Orchestra,78,2,13
+74,The Ballad Of Thunder Road,Robert Mitchum,62,62,7
+75,She Was Only Seventeen (He Was One Year More),Marty Robbins,67,27,13
+76,Somebody Touched Me,Buddy Knox with the Rhythm Orchids,55,22,13
+77,The Ways Of A Woman In Love,Johnny Cash And The Tennessee Two,75,24,10
+78,Hoopa Hoola,Betty Johnson,56,56,4
+79,Are You Really Mine,Jimmie Rodgers,60,10,13
+80,I Wish,The Platters,52,42,7
+81,Just Young,Andy Rose,71,71,4
+82,Walking Along,The Diamonds,-1,82,1
+83,What Do I Care,Johnny Cash ,90,83,2
+84,When I Grow Too Old To Dream,Ed Townsend,87,59,5
+85,Go Chase A Moonbeam,Jerry Vale,94,85,3
+86,Cimarron (Roll On),Billy Vaughn And His Orchestra,96,86,2
+87,Blue Ribbon Baby,Tommy Sands And The Raiders,85,50,9
+88,Love Is All We Need,Tommy Edwards,-1,88,1
+89,Mr. Success,Frank Sinatra,-1,89,1
+90,Jealous Heart,Tab Hunter,98,90,2
+91,Stupid Cupid,Connie Francis,49,17,13
+92,You Cheated,The Slades,91,42,11
+93,Volare (Nel Blu Dipinto Di Blu),Dean Martin,92,15,13
+94,Mandolins In The Moonlight,Perry Como,-1,94,1
+95,Someday (You'll Want Me To Want You),Jodie Sands,-1,95,1
+96,Big Daddy,Jill Corey,-1,96,2
+97,Tunnel Of Love,Doris Day,-1,97,1
+98,Just Young,Paul Anka,80,80,4
+99,"Summertime, Summertime",The Jamies,81,26,11
+100,The Green Mosquito,The Tune Rockers,97,44,10

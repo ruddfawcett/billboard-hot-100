@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,TSOP (The Sound Of Philadelphia),MFSB Featuring The Three Degrees,3,1,8
+2,Bennie And The Jets,Elton John,1,1,10
+3,Hooked On A Feeling,Blue Swede,2,1,10
+4,Best Thing That Ever Happened To Me,Gladys Knight And The Pips,7,4,10
+5,Come And Get Your Love,Redbone,5,5,15
+6,Oh My My,Ringo Starr,9,6,7
+7,Sunshine On My Shoulders,John Denver,6,1,13
+8,The Loco-Motion,Grand Funk,17,8,7
+9,The Lord's Prayer,Sister Janet Mead,4,4,9
+10,I'll Have To Say I Love You In A Song,Jim Croce,13,10,8
+11,Lookin' For A Love,Bobby Womack,12,11,12
+12,A Very Special Love Song,Charlie Rich,11,11,9
+13,Dancing Machine,Jackson 5,19,13,6
+14,Seasons In The Sun,Terry Jacks,8,1,15
+15,Just Don't Want To Be Lonely,The Main Ingredient,16,15,12
+16,Tubular Bells,Mike Oldfield,20,16,9
+17,Keep On Singing,Helen Reddy,21,17,7
+18,Mockingbird,Carly Simon & James Taylor,10,5,12
+19,The Show Must Go On,Three Dog Night,29,19,6
+20,(i've Been) Searchin' So Long,Chicago,31,20,6
+21,Tell Me A Lie,Sami Jo,22,21,11
+22,My Mistake (Was To Love You),Diana Ross & Marvin Gaye,24,22,9
+23,"Touch A Hand, Make A Friend",The Staple Singers,23,23,9
+24,Let It Ride,Bachman-Turner Overdrive,26,24,9
+25,Piano Man,Billy Joel,27,25,9
+26,Dark Lady,Cher,15,1,14
+27,Jet,Paul McCartney And Wings,14,7,11
+28,Midnight At The Oasis,Maria Muldaur,35,28,9
+29,You Make Me Feel Brand New,The Stylistics,36,29,5
+30,Eres Tu (Touch The Wind),Mocedades,18,9,15
+31,The Entertainer,"Marvin Hamlisch/""The Sting""",44,31,5
+32,I'm A Train,Albert Hammond,40,32,8
+33,Help Me,Joni Mitchell,41,33,6
+34,The Payback - Part I,James Brown,39,34,5
+35,Outside Woman,Bloodstone,37,35,9
+36,Jungle Boogie,Kool & The Gang,25,4,20
+37,Oh Very Young,Cat Stevens,45,37,6
+38,Thanks For Saving My Life,Billy Paul,42,38,13
+39,Star Baby,The Guess Who,43,39,10
+40,Boogie Down,Eddie Kendricks,28,2,16
+41,Mighty Love - Pt. 1,The Spinners,32,20,13
+42,Rock On,David Essex,30,5,24
+43,There Won't Be Anymore,Charlie Rich,33,18,13
+44,Don't You Worry 'Bout A Thing,Stevie Wonder,58,44,3
+45,Mighty Mighty,"Earth, Wind & Fire",50,45,7
+46,Heavenly,The Temptations,49,46,6
+47,The Way We Were,Barbra Streisand,38,1,22
+48,Let's Get Married,Al Green,61,48,4
+49,Love's Theme,Love Unlimited Orchestra,46,1,21
+50,I Won't Last A Day Without You,Carpenters,70,50,2
+51,Trying To Hold On To My Woman,Lamont Dozier,34,15,18
+52,Dance With The Devil,Cozy Powell,60,52,6
+53,Once You Understand,Think,57,53,7
+54,The Streak,Ray Stevens,84,54,2
+55,"Rock And Roll, Hoochie Koo",Rick Derringer,48,23,14
+56,I'm In Love,Aretha Franklin,68,56,3
+57,Touch And Go,Al Wilson,59,57,7
+58,Keep It In The Family,Leon Haywood,64,58,5
+59,Rock Around The Clock,Bill Haley And His Comets,72,59,6
+60,Summer Breeze (Part 1),The Isley Brothers,69,60,5
+61,I've Got A Thing About You Baby/Take Good Care Of Her,Elvis Presley,53,39,11
+62,Happiness Is Me And You,Gilbert O'Sullivan,62,62,5
+63,All In Love Is Fair,Barbra Streisand,67,63,4
+64,Standing At The End Of The Line,Lobo,74,64,2
+65,I Am What I Am,Lois Fletcher,71,65,4
+66,For The Love Of Money,The O'Jays,90,66,2
+67,Would You Lay With Me (in A Field Of Stone),Tanya Tucker,51,46,10
+68,Band On The Run,Paul McCartney And Wings,-1,68,1
+69,Chameleon,Herbie Hancock,75,69,5
+70,One Hell Of A Woman,Mac Davis,80,70,4
+71,Werewolf,Five Man Electrical Band,77,71,4
+72,Daybreak,Nilsson,82,72,2
+73,Sundown,Gordon Lightfoot,83,73,2
+74,My Girl Bill,Jim Stafford,-1,74,1
+75,A Dream Goes On Forever,Todd Rundgren,78,75,3
+76,Power Of Love,Martha Reeves,79,76,4
+77,If You Love Me (let Me Know),Olivia Newton-John,87,77,2
+78,Unborn Child,Seals & Crofts,66,66,8
+79,Put A Little Love Away,The Emotions,73,73,5
+80,Under The Influence Of Love,Love Unlimited,85,80,4
+81,It Only Hurts When I Try To Smile,Dawn Featuring Tony Orlando,88,81,4
+82,Pepper Box,The Peppers,76,76,7
+83,You Won't See Me,Anne Murray,-1,83,1
+84,La Grange,ZZ Top,92,84,4
+85,Satisfaction Guaranteed (Or Take Your Love Back),Harold Melvin And The Blue Notes,93,85,3
+86,Silver Threads And Golden Needles,Linda Ronstadt,95,86,3
+87,Hollywood Swinging,Kool & The Gang,-1,87,1
+88,"If It Feels Good, Do It",Ian Lloyd & Stories,89,88,4
+89,No Charge,Melba Montgomery,96,89,2
+90,"Billy, Don't Be A Hero",Bo Donaldson And The Heywoods,-1,90,1
+91,Loving You,Johnny Nash,91,91,2
+92,The Same Love That Made Me Laugh,Bill Withers,97,92,2
+93,Who Is He And What Is He To You,Creative Source,94,93,3
+94,"Bad, Bad Leroy Brown",Frank Sinatra,98,94,3
+95,"Another Park, Another Sunday",The Doobie Brothers,-1,95,1
+96,If I Were A Carpenter...,Leon Russell,-1,96,1
+97,Loving Arms,Kris Kristofferson & Rita Coolidge,86,86,5
+98,The Air That I Breathe,The Hollies,-1,98,1
+99,If You Wanna Get To Heaven,Ozark Mountain Daredevils,-1,99,1
+100,Beyond The Blue Horizon,Lou Christie,81,80,10

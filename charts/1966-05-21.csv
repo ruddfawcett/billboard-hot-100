@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Monday, Monday",The Mamas & The Papas,1,1,7
+2,Rainy Day Women #12 & 35,Bob Dylan,3,2,6
+3,Good Lovin',The Young Rascals,2,1,11
+4,When A Man Loves A Woman,Percy Sledge,9,4,7
+5,A Groovy Kind Of Love,The Mindbenders,13,5,6
+6,Kicks,Paul Revere & The Raiders Featuring Mark Lindsay,4,4,10
+7,"How Does That Grab You, Darlin'?",Nancy Sinatra,7,7,5
+8,Message To Michael,Dionne Warwick,8,8,8
+9,Sloop John B,The Beach Boys,5,3,8
+10,Love Is Like An Itching In My Heart,The Supremes,15,10,4
+11,(You're My) Soul And Inspiration,The Righteous Brothers,6,1,12
+12,Gloria,Shadows Of Knight,10,10,10
+13,The Sun Ain't Gonna Shine (Anymore),The Walker Bros.,18,13,6
+14,Eight Miles High,The Byrds,16,14,7
+15,Leaning On The Lamp Post,Herman's Hermits,12,9,7
+16,Did You Ever Have To Make Up Your Mind?,The Lovin' Spoonful,25,16,3
+17,I Am A Rock,Simon & Garfunkel,24,17,3
+18,It's A Man's Man's Man's World,James Brown And The Famous Flames,23,18,4
+19,"Paint It, Black",The Rolling Stones,48,19,2
+20,Let's Start All Over Again,Ronnie Dove,22,20,6
+21,Shapes Of Things,The Yardbirds,11,11,10
+22,Nothing's Too Good For My Baby,Stevie Wonder,20,20,6
+23,Time Won't Let Me,The Outsiders,17,5,14
+24,Secret Agent Man,Johnny Rivers,14,3,10
+25,Green Grass,Gary Lewis And The Playboys,49,25,2
+26,Come On Let's Go,The McCoys,31,26,5
+27,Backstage,Gene Pitney,32,27,5
+28,"The ""A"" Team",SSgt Barry Sadler,35,28,5
+29,Love's Made A Fool Of You,Bobby Fuller Four,26,26,6
+30,I'll Take Good Care Of You,Garnet Mimms,33,30,9
+31,Bang Bang (My Baby Shot Me Down),Cher,19,2,11
+32,Try Too Hard,The Dave Clark Five,21,12,8
+33,Cool Jerk,The Capitols,51,33,4
+34,Barefootin',Robert Parker,52,34,5
+35,Band Of Gold,Mel Carter,41,35,7
+36,The Ballad Of Irving,Frank Gallop,37,36,6
+37,(I'm A) Road Runner,Jr. Walker & The All Stars,43,37,7
+38,Love Me With All Of Your Heart,The Bachelors,38,38,6
+39,"I'm Comin' Home, Cindy",Trini Lopez,40,39,7
+40,Twinkle Toes,Roy Orbison,42,40,4
+41,Dum-De-Da,Bobby Vinton,47,41,4
+42,I Can't Grow Peaches On A Cherry Tree,Just Us,34,34,11
+43,The More I See You,Chris Montez,53,43,6
+44,History Repeats Itself,Buddy Starcher,39,39,7
+45,Hold On! I'm A Comin',Sam & Dave,55,45,5
+46,She Blew A Good Thing,The Poets,46,45,10
+47,Sweet Talkin' Guy,The Chiffons,61,47,3
+48,You're The One,The Marvelettes,50,48,5
+49,Distant Drums,Jim Reeves,45,45,7
+50,I Can't Let Go,The Hollies,44,42,10
+51,Double Shot (Of My Baby's Love),Swingin' Medallions,66,51,5
+52,The Cruel War,"Peter, Paul & Mary",54,52,5
+53,Evol-Not Love,The Five Americans,57,53,6
+54,Strangers In The Night,Frank Sinatra,71,54,3
+55,Oh How Happy,Shades Of Blue,74,55,3
+56,Come Running Back,Dean Martin,62,56,3
+57,I Love You Drops,Vic Dana,67,57,3
+58,I Love You 1000 Times,The Platters,60,58,4
+59,Mama,B.J. Thomas,88,59,2
+60,The Last Word In Lonesome Is Me,Eddy Arnold,82,60,2
+61,Mame,Bobby Darin,68,61,4
+62,Dirty Water,The Standells,63,62,5
+63,Opus 17 (Don't You Worry 'Bout Me),"The 4 Seasons Featuring the ""Sound of Frankie Valli""",-1,63,1
+64,Please Don't Sell My Daddy No More Wine,The Greenwoods,73,64,4
+65,There's No Living Without Your Loving,Peter And Gordon,77,65,3
+66,Girl In Love,The Outsiders,87,66,2
+67,Remember The Rain,Bob Lind,64,64,5
+68,Wang Dang Doodle,Ko Ko Taylor,80,68,5
+69,I Know You Better Than That,Bobby Goldsboro,84,69,2
+70,Let Me Be Good To You,Carla Thomas,78,70,4
+71,Better Use Your Head,Little Anthony And The Imperials,86,71,2
+72,Peter Rabbit,Dee Jay And The Runaways,81,72,3
+73,It's Over,Jimmie Rodgers,89,73,2
+74,Elvira,Dallas Frazier,72,72,4
+75,S.Y.S.L.J.F.M. (The Letter Song),Joe Tex,90,75,2
+76,You Don't Have To Say You Love Me,Dusty Springfield,-1,76,1
+77,Love Takes A Long Time Growing,Deon Jackson,79,77,4
+78,Gloria,Them,75,75,6
+79,Don't Bring Me Down,The Animals,-1,79,1
+80,Dedicated Follower Of Fashion,The Kinks,-1,80,1
+81,Truly Julie's Blues (I'll Be There),Bob Lind,85,81,3
+82,Downtown,Mrs. Miller,83,82,4
+83,My Little Red Book,Love,91,83,4
+84,Hey Joe,The Leaves,-1,84,1
+85,Mame,Louis Armstrong,-1,85,1
+86,Cloudy Summer Afternoon (Raindrops),Barry McGuire,-1,86,1
+87,Solitary Man,Neil Diamond,-1,87,1
+88,Marble Breaks And Iron Bends,Drafi,98,88,2
+89,Headline News,Edwin Starr,96,89,3
+90,Red Rubber Ball,The Cyrkle,-1,90,1
+91,Heart's Desire,Billy Joe Royal,-1,91,1
+92,I'll Love You Forever,The Holidays,97,92,3
+93,So Much Love,Steve Alaimo,-1,93,1
+94,You Waited Too Long,The Five Stairsteps,-1,94,1
+95,Everyday I Have To Cry,The Gentrys,100,95,2
+96,So Much Love,Ben E. King,-1,96,1
+97,Louie Louie,The Kingsmen,99,2,18
+98,"Sam, You Made The Pants Too Long",Barbra Streisand,-1,98,1
+99,Take This Heart Of Mine,Marvin Gaye,-1,99,1
+100,Good Time Charlie,Bobby Bland,-1,100,1

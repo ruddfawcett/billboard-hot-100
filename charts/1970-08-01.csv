@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,(They Long To Be) Close To You,Carpenters,1,1,7
+2,Make It With You,Bread,5,2,8
+3,Mama Told Me (Not To Come),Three Dog Night,2,1,11
+4,Band Of Gold,Freda Payne,3,3,15
+5,"Signed, Sealed, Delivered I'm Yours",Stevie Wonder,9,5,6
+6,The Love You Save/I Found That Girl,Jackson 5,4,1,10
+7,Spill The Wine,Eric Burdon And War,14,7,11
+8,Ball Of Confusion (That's What The World Is Today),The Temptations,6,3,11
+9,"Tighter, Tighter",Alive & Kicking,11,9,9
+10,O-o-h Child/Dear Prudence,The 5 Stairsteps,8,8,12
+11,Ride Captain Ride,Blues Image,7,4,13
+12,War,Edwin Starr,25,12,4
+13,Hitchin' A Ride,Vanity Fare,12,5,20
+14,Are You Ready?,Pacific Gas And Electric,15,14,10
+15,Lay Down (Candles In The Rain),Melanie with The Edwin Hawkins Singers,10,6,15
+16,Teach Your Children,"Crosby, Stills, Nash & Young",16,16,9
+17,Ohio,"Crosby, Stills, Nash & Young",18,17,6
+18,I Just Can't Help Believing,B.J. Thomas,20,18,7
+19,Lay A Little Lovin' On Me,Robin McNamara,24,19,10
+20,A Song Of Joy (Himno A La Alegria),Miguel Rios,19,14,8
+21,(If You Let Me Make Love To You Then) Why Can't I Touch You?,Ronnie Dyson,26,21,7
+22,In The Summertime,Mungo Jerry,32,22,4
+23,Gimme Dat Ding,The Pipkins,13,9,11
+24,The Wonder Of You/Mama Liked The Roses,Elvis Presley,17,9,12
+25,Silver Bird,Mark Lindsay,28,25,8
+26,Westbound #9,The Flaming Ember,30,26,11
+27,Tell It All Brother,Kenny Rogers & The First Edition,39,27,5
+28,Overture From Tommy (A Rock Opera),The Assembled Multitude,41,28,6
+29,Patches,Clarence Carter,60,29,3
+30,Get Up (I Feel Like Being Like A) Sex Machine (Part 1),James Brown,57,30,3
+31,Mississippi Queen,Mountain,29,21,16
+32,Love Land,Charles Wright And The Watts 103rd Street Rhythm Band,31,16,17
+33,Summertime Blues,The Who,47,33,4
+34,"The Sly, Slick, And The Wicked",The Lost Generation,44,34,9
+35,Maybe,The Three Degrees,38,35,9
+36,Mississippi,John Phillips,35,32,12
+37,Everybody's Got The Right To Love,The Supremes,43,37,3
+38,25 Or 6 To 4,Chicago,50,38,2
+39,Do You See My Love (For You Growing),Jr. Walker & The All Stars,56,39,4
+40,Check Out Your Mind,The Impressions,34,28,12
+41,Save The Country,The 5th Dimension,27,27,8
+42,Big Yellow Taxi,The Neighborhood,51,42,6
+43,My Marie,Engelbert Humperdinck,46,43,6
+44,Go Back, Crabby Appleton,36,36,13
+45,Paper Mache,Dionne Warwick,49,45,4
+46,Steal Away,Johnnie Taylor,37,37,9
+47,I Want To Take You Higher,Ike & Tina Turner & The Ikettes,52,47,11
+48,(How Bout A Little Hand For) The Boys In The Band,The Boys In The Band,48,48,9
+49,Hand Me Down World,The Guess Who,69,49,3
+50,Pearl,Tommy Roe,53,50,7
+51,"America, Communicate With Me",Ray Stevens,71,51,2
+52,When We Get Married,The Intruders,45,45,7
+53,I'll Be Right Here,Tyrone Davis,54,53,6
+54,Everything A Man Could Ever Need,Glen Campbell,61,54,5
+55,Cinnamon Girl,Neil Young & Crazy Horse,55,55,7
+56,Cottage Cheese,CROW,59,56,12
+57,Sunshine,The Archies,62,57,5
+58,Trying To Make A Fool Of Me,The Delfonics,40,40,9
+59,Wigwam,Bob Dylan,74,59,2
+60,Solitary Man,Neil Diamond,64,55,14
+61,(I Know) I'm Losing You,Rare Earth,-1,61,1
+62,Groovy Situation,Gene Chandler,65,62,4
+63,Stealing In The Name Of The Lord,Paul Kelly,63,63,5
+64,You've Been My Inspiration,The Main Ingredient,67,64,6
+65,Hello Darlin',Conway Twitty,72,65,5
+66,Glory Glory,The Rascals,77,66,2
+67,Sing A Song For Freedom,Frijid Pink,90,67,2
+68,That Same Old Feeling,Pickettywitch,68,67,12
+69,Snowbird, Anne Murray,80,69,3
+70,Song From M*A*S*H,Al DeLory,70,70,8
+71,"Julie, Do Ya Love Me",Bobby Sherman,-1,71,1
+72,Hi-De-Ho,"Blood, Sweat & Tears",-1,72,1
+73,Superman,The Ides Of March,73,64,5
+74,Long Lonely Nights,The Dells,75,74,3
+75,"Girls Will Be Girls, Boys Will Be Boys",The Isley Brothers,76,75,2
+76,It's A Shame,The Spinners,99,76,2
+77,"Que Sera, Sera (Whatever Will Be, Will Be)",Mary Hopkin,86,77,4
+78,Humphrey The Camel,Jack Blanchard & Misty Morgan,85,78,6
+79,Hummingbird,B.B. King,88,79,2
+80,Down By The River,Buddy Miles,83,80,3
+81,Apartment 21,Bobbie Gentry,81,81,4
+82,Drop By My Place,Little Carl Carlton,82,82,4
+83,Black Fox,Freddy Robinson,84,83,2
+84,Let The Music Take Your Mind,Kool & The Gang,78,78,5
+85,I've Lost You/The Next Step Is Love,Elvis Presley,-1,85,1
+86,Something,Booker T. & The MG's,87,86,2
+87,Yellow River,Christie,96,87,3
+88,Candida,Dawn,97,88,2
+89,Morning Much Better,Ten Wheel Drive With Genya Ravan,98,89,2
+90,It's Your Life,Andy Kim,92,90,2
+91,Big Yellow Taxi,Joni Mitchell,100,91,2
+92,Mill Valley,Miss Abrams And The Strawberry Point School Third Grade Class,-1,92,1
+93,No Arms Can Ever Hold You,Bobby Vinton,94,93,4
+94,Black Hands White Cotton,The Caboose,-1,94,1
+95,Only You Know And I Know,Dave Mason,-1,95,1
+96,Everything's Tuesday,Chairman Of The Board,-1,96,1
+97,Yours Love,Joe Simon,-1,97,1
+98,Ball And Chain,Tommy James,-1,98,1
+99,A Song That Never Comes,Mama Cass Elliot,-1,99,1
+100,Bring It On Home,Lou Rawls,-1,100,1

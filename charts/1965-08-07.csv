@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"I'm Henry VIII, I Am",Herman's Hermits,2,1,6
+2,(I Can't Get No) Satisfaction,The Rolling Stones,1,1,9
+3,What's New Pussycat?,Tom Jones,3,3,8
+4,Save Your Heart For Me,Gary Lewis And The Playboys,8,4,6
+5,I Got You Babe,Sonny & Cher,22,5,5
+6,"Yes, I'm Ready",Barbara Mason,5,5,13
+7,I Like It Like That,The Dave Clark Five,9,7,8
+8,"Cara, Mia",Jay & The Americans,4,4,10
+9,I Can't Help Myself (Sugar Pie Honey Bunch),Four Tops,6,1,13
+10,Don't Just Stand There,Patty Duke,14,10,7
+11,What The World Needs Now Is Love,Jackie DeShannon,7,7,12
+12,I Want Candy,The Strangeloves,12,12,7
+13,"Sunshine, Lollipops And Rainbows",Lesley Gore,16,13,8
+14,Down In The Boondocks,Billy Joe Royal,27,14,6
+15,Unchained Melody,The Righteous Brothers,38,15,4
+16,"Theme From ""A Summer Place""",The Lettermen,19,16,7
+17,It's The Same Old Song,Four Tops,54,17,2
+18,"Baby, I'm Yours",Barbara Lewis,23,18,8
+19,Take Me Back,Little Anthony And The Imperials,26,19,7
+20,"Hold Me, Thrill Me, Kiss Me",Mel Carter,25,20,7
+21,Seventh Son,Johnny Rivers,10,7,10
+22,I'm A Fool,"Dino, Desi & Billy",28,22,7
+23,All I Really Want To Do,Cher,42,23,6
+24,To Know You Is To Love You,Peter And Gordon,29,24,5
+25,Too Many Rivers,Brenda Lee,13,13,11
+26,You'd Better Come Home,Petula Clark,31,26,5
+27,Pretty Little Baby,Marvin Gaye,30,27,5
+28,California Girls,The Beach Boys,52,28,3
+29,Ride Your Pony,Lee Dorsey,32,29,6
+30,Papa's Got A Brand New Bag (Part I),James Brown And The Famous Flames,44,30,4
+31,Marie,The Bachelors,15,15,9
+32,Sitting In The Park,Billy Stewart,24,24,8
+33,You Were On My Mind,We Five,57,33,3
+34,You Turn Me On (Turn On Song),Ian Whitcomb And Bluesville,17,8,12
+35,(Such An) Easy Question,Elvis Presley With The Jordanaires,11,11,8
+36,One Dyin' And A Buryin',Roger Miller,41,36,5
+37,The Tracks Of My Tears,The Miracles,51,37,4
+38,Mr. Tambourine Man,The Byrds,18,1,13
+39,Since I Lost My Baby,The Temptations,53,39,3
+40,(Say) You're My Girl,Roy Orbison,43,40,5
+41,Help!,The Beatles,-1,41,1
+42,A Little Bit Of Heaven,Ronnie Dove,20,16,10
+43,All I Really Want To Do,The Byrds,45,43,6
+44,Like A Rolling Stone,Bob Dylan,76,44,3
+45,I'll Always Love You,The Spinners,50,45,4
+46,Laurie (Strange Things Happen),Dickey Lee,21,14,13
+47,Nothing But Heartaches,The Supremes,88,47,2
+48,New Orleans,Eddie Hodges,58,48,6
+49,Nobody Knows What's Goin' On (In My Mind But Me),The Chiffons,49,49,8
+50,Trains And Boats And Planes,Billy J. Kramer With The Dakotas,47,47,7
+51,Looking Through The Eyes Of Love,Gene Pitney,67,51,3
+52,In The Midnight Hour,Wilson Pickett,62,52,5
+53,Hung On You,The Righteous Brothers,65,53,4
+54,Seein' The Right Love Go Wrong,Jack Jones,46,46,9
+55,It's Gonna Be Fine,Glenn Yarbrough,68,55,4
+56,One Step At A Time,Maxine Brown,63,56,6
+57,Ju Ju Hand,Sam The Sham and the Pharaohs ,80,57,2
+58,Shake And Fingerpop,Jr. Walker & The All Stars,81,58,2
+59,You Tell Me Why,The Beau Brummels,70,59,3
+60,I Can't Work No Longer,Billy Butler & The Chanters,61,60,6
+61,"Theme From ""Harlow"" (Lonely Girl)",Bobby Vinton,64,61,5
+62,It's Gonna Take A Miracle,The Royalettes,69,62,4
+63,No Pity (In The Naked City),Jackie Wilson,66,63,6
+64,Sugar Dumpling,Sam Cooke,77,64,3
+65,Candy,The Astors,73,65,5
+66,"It's Too Late, Baby Too Late",Arthur Prysock,75,66,4
+67,Here I Am,Dionne Warwick,71,67,6
+68,I Don't Wanna Lose You Baby,Chad & Jeremy,-1,68,1
+69,Heart Full Of Soul,The Yardbirds,86,69,2
+70,Moon Over Naples,Bert Kaempfert And His Orchestra,84,70,5
+71,A Little You,Freddie And The Dreamers,90,71,2
+72,You're My Baby (And Don't You Forget It),The Vacels,82,72,3
+73,Tickle Me,Elvis Presley With The Jordanaires,83,73,5
+74,Boot-Leg,Booker T. & The MG's,74,58,10
+75,The Loser,The Skyliners,85,75,4
+76,It Ain't Me Babe,The Turtles,-1,76,1
+77,"The ""In"" Crowd",Ramsey Lewis Trio,100,77,2
+78,Forget Domani,Frank Sinatra,78,78,7
+79,Houston,Dean Martin,-1,79,1
+80,If I Didn't Love You,Chuck Jackson,-1,80,1
+81,He's Got No Love,The Searchers,95,81,2
+82,Forget Domani,Connie Francis,79,79,7
+83,Canadian Sunset,Sounds Orchestral,92,83,2
+84,I'm A Fool To Care,Ray Charles,94,84,4
+85,Agent Double-O-Soul,Edwin Starr,-1,85,1
+86,My Man,Barbra Streisand,87,79,6
+87,You Better Go,Derek Martin,98,87,2
+88,It's A Man Down There,G.L. Crockett,-1,88,1
+89,Fly Me To The Moon (In Other Words),Tony Bennett,89,89,3
+90,"Sad, Sad Girl",Barbara Mason,-1,90,1
+91,You're Gonna Make Me Cry,O.V. Wright,-1,91,1
+92,"Oowee, Oowee",Perry Como,96,92,2
+93,Only Those In Love,Baby Washington,97,93,3
+94,Moonlight And Roses (Bring Mem'ries Of You),Vic Dana,-1,94,1
+95,After Loving You,Della Reese,99,95,2
+96,We're Doing Fine,Dee Dee Warwick,-1,96,1
+97,Annie Fanny,The Kingsmen,-1,97,1
+98,I've Cried My Last Tear,The O'Jays,-1,98,1
+99,Where Were You When I Needed You,Jerry Vale,-1,99,1
+100,Summer Wind,Wayne Newton,-1,100,1

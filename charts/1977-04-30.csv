@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Southern Nights,Glen Campbell,2,1,12
+2,Hotel California,Eagles,3,2,10
+3,Don't Leave Me This Way,Thelma Houston,1,1,20
+4,When I Need You,Leo Sayer,9,4,10
+5,I've Got Love On My Mind,Natalie Cole,6,5,14
+6,Don't Give Up On Us,David Soul,4,1,14
+7,So In To You,Atlanta Rhythm Section,8,7,14
+8,Right Time Of The Night,Jennifer Warnes,10,8,14
+9,Sir Duke,Stevie Wonder,19,9,5
+10,Tryin' To Love Two,William Bell,11,10,11
+11,I Wanna Get Next To You,Rose Royce,13,11,10
+12,Couldn't Get It Right,Climax Blues Band,14,12,11
+13,Lido Shuffle,Boz Scaggs,15,13,8
+14,Can't Stop Dancin',Captain & Tennille,16,14,7
+15,I'm Your Boogie Man,KC And The Sunshine Band,17,15,10
+16,Your Love,"Marilyn McCoo & Billy Davis, Jr.",20,16,7
+17,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,7,1,21
+18,Rich Girl,Daryl Hall John Oates,12,1,15
+19,The Things We Do For Love,10cc,5,5,17
+20,Calling Dr. Love,KISS,23,20,7
+21,Lucille,Kenny Rogers,28,21,6
+22,Lonely Boy,Andrew Gold,30,22,7
+23,Angel In Your Arms,Hot,25,23,11
+24,Hello Stranger,Yvonne Elliman,33,24,7
+25,Feels Like The First Time,Foreigner,29,25,6
+26,Dancin' Man,Q,31,26,8
+27,Dancing Queen,ABBA,18,1,21
+28,Ain't Gonna Bump No More (with No Big Fat Woman),Joe Tex,40,28,5
+29,Got To Give It Up (Pt. I),Marvin Gaye,36,29,3
+30,Heard It In A Love Song,The Marshall Tucker Band,34,30,8
+31,Sometimes,Facts Of Life,32,31,9
+32,Whodunit,Tavares,37,32,6
+33,Uptown Festival (Part 1),Shalamar,35,33,8
+34,Carry On Wayward Son,Kansas,21,11,19
+35,Cherry Baby,Starz,41,35,7
+36,Dreams,Fleetwood Mac,56,36,3
+37,Old Fashioned Boy (You're The One),Stallion,39,37,8
+38,Cinderella,Firefall,44,38,6
+39,My Sweet Lady,John Denver,45,39,8
+40,Maybe I'm Amazed,Wings,24,10,12
+41,Margaritaville,Jimmy Buffett,49,41,5
+42,Show You The Way To Go,The Jacksons,52,42,4
+43,Dancin',Crown Heights Affair,53,43,11
+44,Love's Grown Deep,Kenny Nolan,55,44,5
+45,(Theme from) Charlie's Angels,Henry Mancini And His Orchestra,51,45,7
+46,I Like Dreamin',Kenny Nolan,38,3,26
+47,I Think We're Alone Now,The Rubinoos,50,47,9
+48,Slow Dancin' Don't Turn Me On,Addrisi Brothers,59,48,4
+49,You Are On My Mind,Chicago,62,49,4
+50,Back In The Saddle,Aerosmith,60,50,4
+51,Slowdown,John Miles,61,51,6
+52,Sleepwalker,The Kinks,54,52,5
+53,I Wanna Do It To You,Jerry Butler,64,53,8
+54,Undercover Angel,Alan O'Day,67,54,5
+55,You Take My Heart Away,James Darren,57,55,7
+56,The First Cut Is The Deepest,Rod Stewart,22,21,12
+57,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,26,24,17
+58,Gonna Fly Now,Bill Conti,84,58,2
+59,Ariel,Dean Friedman,72,59,3
+60,High School Dance,The Sylvers,73,60,2
+61,The Whistler,Jethro Tull,63,61,4
+62,Sub-rosa Subway/calling Occupants,Klaatu,65,62,5
+63,Everybody Be Dancin',Starbuck,74,63,3
+64,On The Border,Al Stewart,75,64,2
+65,"N.y., You Got Me Dancing",Andrea True Connection,27,27,11
+66,Hold Back The Night,Graham Parker And The Rumour,69,66,4
+67,This Girl (Has Turned Into A Woman),Mary Macgregor,78,67,2
+68,Mainstreet,Bob Seger,79,68,2
+69,Hooked On You,Bread,71,69,3
+70,"Gonna Fly Now (Theme From ""Rocky"")",Maynard Ferguson,80,70,2
+71,Jet Airliner,The Steve Miller Band,-1,71,1
+72,Sound And Vision,David Bowie,76,72,4
+73,Do You Wanna Make Love,Peter Mccann,85,73,2
+74,Brooklyn,Cody Jameson,77,74,4
+75,This Is The Way That I Feel,Marie Osmond,86,75,2
+76,Fly At Night,Chilliwack,-1,76,1
+77,Spirit In The Night,Manfred Mann's Earth Band,-1,77,4
+78,I Just Want To Be Your Everything,Andy Gibb,88,78,2
+79,That Magic Touch,Angel,83,79,2
+80,You And Me,Alice Cooper,-1,80,1
+81,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,47,30,12
+82,You're Throwing A Good Love Away,The Spinners,43,43,7
+83,You're My World,Helen Reddy,-1,83,1
+84,It Feels So Good To Be Loved So Bad,The Manhattans,87,84,6
+85,Do What You Wanna Do,T-Connection,96,52,8
+86,Whatcha Gonna Do?,Pablo Cruise,89,86,3
+87,Sad Girl,Carl Graves,90,87,3
+88,You're Movin' Out Today,Bette Midler,92,88,4
+89,My Best Friend's Wife,Paul Anka,-1,89,1
+90,Solsbury Hill,Peter Gabriel,-1,90,1
+91,Arrested For Driving While Blind,ZZ Top,91,91,6
+92,Disco Inferno,The Trammps,70,53,9
+93,Night Moves,Bob Seger,81,4,21
+94,I Gotta Keep Dancin',Carrie,-1,94,1
+95,Down To The Station,B.W. Stevenson,82,82,3
+96,I Caught Your Act,The Hues Corporation,-1,96,1
+97,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,42,42,11
+98,"Theme From ""Rocky"" (Gonna Fly Now)",Current,-1,98,1
+99,Fly Like An Eagle,Steve Miller,48,2,20
+100,Spring Rain,Silvetti,46,39,15

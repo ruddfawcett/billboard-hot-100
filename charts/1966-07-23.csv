@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hanky Panky,Tommy James And The Shondells,1,1,8
+2,Wild Thing,The Troggs,2,2,5
+3,Lil' Red Riding Hood,Sam The Sham and the Pharaohs,9,3,7
+4,The Pied Piper,Crispian St. Peters,12,4,7
+5,You Don't Have To Say You Love Me,Dusty Springfield,4,4,10
+6,Paperback Writer,The Beatles,5,1,7
+7,Hungry,Paul Revere & The Raiders Featuring Mark Lindsay,10,7,6
+8,Red Rubber Ball,The Cyrkle,3,2,10
+9,I Saw Her Again,The Mamas & The Papas,14,9,4
+10,Sweet Pea,Tommy Roe,15,10,7
+11,Along Comes Mary,The Association,7,7,8
+12,Strangers In The Night,Frank Sinatra,6,1,12
+13,Little Girl,Syndicate Of Sound,8,8,8
+14,"Somewhere, My Love",Ray Conniff And The Singers,21,14,6
+15,Ain't Too Proud To Beg,The Temptations,13,13,9
+16,Dirty Water,The Standells,11,11,14
+17,Mothers Little Helper,The Rolling Stones,38,17,3
+18,The Work Song,Herb Alpert & The Tijuana Brass,25,18,4
+19,Love Letters,Elvis Presley,26,19,4
+20,You Better Run,The Young Rascals,20,20,6
+21,Summer In The City,The Lovin' Spoonful,53,21,2
+22,(I Washed My Hands In) Muddy Water,Johnny Rivers,19,19,7
+23,Over Under Sideways Down,The Yardbirds,39,23,5
+24,I Want You,Bob Dylan,34,24,4
+25,Sunny,Bobby Hebb,50,25,5
+26,Sweet Dreams,Tommy McLain,48,26,5
+27,Happy Summer Days,Ronnie Dove,30,27,6
+28,Popsicle,Jan & Dean,24,21,8
+29,Where Were You When I Needed You,The Grass Roots,32,29,6
+30,Trains And Boats And Planes,Dionne Warwick,35,30,4
+31,Please Tell Me Why,The Dave Clark Five,28,28,7
+32,This Door Swings Both Ways,Herman's Hermits,56,32,3
+33,Don't Bring Me Down,The Animals,18,12,10
+34,Rain,The Beatles,23,23,7
+35,The Impossible Dream (The Quest),Jack Jones,40,35,8
+36,Cool Jerk,The Capitols,16,7,13
+37,Billy And Sue,B.J. Thomas And The Triumphs,43,37,6
+38,Pretty Flamingo,Manfred Mann,45,38,4
+39,"Paint It, Black",The Rolling Stones,17,1,11
+40,You Can't Roller Skate In A Buffalo Herd,Roger Miller,47,40,5
+41,See You In September,The Happenings,67,41,3
+42,You Wouldn't Listen,The Ides Of March,52,42,5
+43,The Land Of Milk And Honey,The Vogues,29,29,8
+44,Let's Go Get Stoned,Ray Charles,31,31,9
+45,Oh How Happy,Shades Of Blue,22,12,12
+46,I Couldn't Live Without Your Love,Petula Clark,73,46,2
+47,Whole Lot Of Shakin' In My Heart (Since I Met You),The Miracles,49,47,6
+48,Friday's Child,Nancy Sinatra,55,48,3
+49,Barefootin',Robert Parker,36,7,14
+50,"They're Coming To Take Me Away, Ha-Haaa!",Napoleon XIV,-1,50,1
+51,He,The Righteous Brothers,27,18,8
+52,Searching For My Love,Bobby Moore & The Rhythm Aces,58,52,5
+53,Younger Girl,The Critters,42,42,9
+54,5 D (Fifth Dimension),The Byrds,74,54,2
+55,Distant Shores,Chad & Jeremy,78,55,3
+56,Can I Trust You?,The Bachelors,66,56,4
+57,I'm A Nut,Leroy Pullins,64,57,5
+58,Not Responsible,Tom Jones,65,58,6
+59,"Past, Present And Future",The Shangri-Las,63,59,5
+60,Solitary Man,Neil Diamond,57,55,10
+61,Tar And Cement,Verdelle Smith,68,61,3
+62,The Joker Went Wild,Brian Hyland,72,62,2
+63,I Love Onions,Susan Christie,69,63,7
+64,Misty,"""Groove"" Holmes",82,64,5
+65,"Lara's Theme from ""Dr. Zhivago""",Roger Williams,76,65,5
+66,Teenager's Prayer,Joe Simon,70,66,6
+67,Younger Girl,The Hondells,59,52,9
+68,Blowin In The Wind,Stevie Wonder,-1,68,1
+69,Look At Me Girl,Bobby Vee And The Strangers,81,69,3
+70,Lonely Soldier,Mike Williams,85,70,3
+71,I Love You 1000 Times,The Platters,71,31,13
+72,I Only Have Eyes For You,The Lettermen,79,72,6
+73,I Guess I'll Always Love You,The Isley Brothers,88,73,2
+74,Almost Persuaded,David Houston ,89,74,2
+75,You You You,Mel Carter,90,75,2
+76,Hey You! Little Boo-Ga-Loo,Chubby Checker,77,76,4
+77,Ain't Gonna Cry No More,Brenda Lee,80,77,4
+78,Warm And Tender Love,Percy Sledge,-1,78,1
+79,The Tip Of My Fingers,Eddy Arnold,-1,79,1
+80,Make Me Belong To You,Barbara Lewis,-1,80,1
+81,Painter,Lou Christie,83,81,5
+82,Summertime,Billy Stewart,97,82,2
+83,Lady Jane,The Rolling Stones,-1,83,1
+84,Stop! - Get A Ticket,Clefs Of Lavender Hill,84,80,5
+85,Uptight (Everything's Alright),Nancy Wilson,91,85,2
+86,La Bamba - Part I,Trini Lopez,86,86,5
+87,Hot Shot,The Buena Vistas,93,87,4
+88,I Believe I'm Gonna Make It,Joe Tex,-1,88,1
+89,Wade In The Water,Ramsey Lewis,99,89,3
+90,Working In The Coal Mine,Lee Dorsey,-1,90,1
+91,Freddie Feelgood (And His Funky Little Five Piece Band),Ray Stevens,92,91,2
+92,Sugar And Spice,The Cryan' Shames,-1,92,1
+93,Born A Woman,Sandy Posey,-1,93,1
+94,Drive My Car,Bob Kuban And The In-Men,95,94,2
+95,Georgia Rose,Tony Bennett,-1,95,1
+96,(We'll Be) United,The Intruders,98,96,2
+97,Tell Her,Dean Parrish,100,97,2
+98,Bus Stop,The Hollies,-1,98,1
+99,Open The Door To Your Heart,Darrell Banks,-1,99,1
+100,A Million And One,Dean Martin,-1,100,1

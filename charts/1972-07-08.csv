@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Lean On Me,Bill Withers,4,1,12
+2,Outa-Space,Billy Preston,3,2,12
+3,Song Sung Blue,Neil Diamond,1,1,10
+4,Too Late To Turn Back Now,Cornelius Brothers & Sister Rose,5,4,7
+5,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",2,1,18
+6,Troglodyte (Cave Man),The Jimmy Castor Bunch,6,6,9
+7,Rocket Man,Elton John,8,7,10
+8,Daddy Don't You Walk So Fast,Wayne Newton,10,8,12
+9,I Need You,America ,9,9,8
+10,(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,14,10,6
+11,Nice To Be With You,Gallery,7,4,20
+12,Brandy (You're A Fine Girl),Looking Glass,27,12,4
+13,How Do You Do?,Mouth & MacNeal,19,13,11
+14,Too Young,Donny Osmond,18,14,5
+15,Layla,Derek & The Dominos,16,15,19
+16,School's Out,Alice Cooper,23,16,6
+17,Take It Easy,Eagles,20,17,6
+18,I Wanna Be Where You Are,Michael Jackson,21,18,7
+19,Where Is The Love,Roberta Flack & Donny Hathaway,26,19,5
+20,Alone Again (Naturally),Gilbert O'Sullivan,34,20,4
+21,Amazing Grace,The Pipes And Drums And The Military Band Of The Royal Scots Dragoon Guards,11,11,8
+22,Conquistador,Procol Harum,30,22,7
+23,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,13,8,15
+24,Oh Girl,The Chi-lites,15,1,14
+25,I'll Take You There,The Staple Singers,12,1,14
+26,All The Kings Horses,Aretha Franklin,29,26,6
+27,I've Been Lonely For So Long,Frederick Knight,28,27,12
+28,Day By Day,Godspell,32,28,8
+29,Sylvia's Mother,Dr. Hook And The Medicine Show,17,5,15
+30,Living In A House Divided,Cher,22,22,8
+31,People Make The World Go Round,The Stylistics,39,31,6
+32,How Can I Be Sure,David Cassidy,25,25,8
+33,Long Cool Woman (In A Black Dress),The Hollies,50,33,3
+34,Coconut,Nilsson,44,34,5
+35,The Happiest Girl In The Whole U.S.A.,Donna Fargo,46,35,7
+36,Sealed With A Kiss,Bobby Vinton,49,36,5
+37,Superwoman (Where Were You When I Needed You),Stevie Wonder,38,37,8
+38,Mary Had A Little Lamb/Little Woman Love,Wings,43,38,4
+39,Hold Her Tight,The Osmonds,76,39,2
+40,Hold Your Head Up,Argent,56,40,4
+41,You Said A Bad Word,Joe Tex,42,41,8
+42,After Midnight,J.J. Cale,45,42,8
+43,We're Free,Beverly Bremers,48,43,11
+44,We're On Our Way,Chris Hodge,47,44,6
+45,The Runway,The Grass Roots,53,45,4
+46,Gone,Joey Heatherton,51,46,7
+47,Motorcycle Mama,Sailcat,67,47,5
+48,Brown Eyed Girl,El Chicano,61,48,4
+49,Baby Let Me Take You (In My Arms),Detroit Emeralds,57,49,7
+50,You Don't Mess Around With Jim,Jim Croce,60,50,2
+51,Honky Tonk - Part 1,The James Brown Soul Train,58,51,3
+52,Life And Breath,Climax featuring Sonny Geraci,55,52,10
+53,I Saw The Light,Todd Rundgren,37,16,14
+54,Powder Blue Mercedes Queen,The Raiders,54,54,8
+55,I'm Coming Home,Stories,62,55,4
+56,Sweet Inspiration/Where You Lead,Barbra Streisand,75,56,3
+57,I'm Still In Love With You,Al Green,-1,57,1
+58,Funk Factory,Wilson Pickett,59,58,7
+59,We've Come Too Far To End It Now,Smokey Robinson & The Miracles,71,59,3
+60,In A Broken Dream,Python Lee Jackson,66,60,7
+61,In The Ghetto,Candi Staton,73,61,3
+62,Beautiful,Gordon Lightfoot,68,62,7
+63,Victim Of A Foolish Heart,Bettye Swann,69,63,7
+64,Small Beginnings,Flash,79,64,3
+65,It Doesn't Matter,Stephen Stills,64,61,7
+66,Men Of Learning,Vigrass & Osborne,72,66,4
+67,Beautiful Sunday,Daniel Boone,83,67,6
+68,Papa Was A Rollin' Stone,The Undisputed Truth,63,63,5
+69,Francene,ZZ Top ,70,69,8
+70,Bed And Board,Barbara Mason,74,70,5
+71,I Miss You (Part I),Harold Melvin And The Blue Notes,80,71,2
+72,War Song,Neil Young & Graham Nash,81,72,2
+73,Baby Don't Get Hooked On Me,Mac Davis,77,73,2
+74,Duncan,Paul Simon,-1,74,1
+75,Rip Off,Laura Lee,78,75,5
+76,Pop That Thang,The Isley Brothers,87,76,2
+77,Eddie's Love,Eddie Kendricks,84,77,5
+78,Butterfly,Danyel Gerard,82,78,5
+79,"Look What They've Done To My Song, Ma",Ray Charles,-1,79,1
+80,Vanilla Ólay,Jackie DeShannon,85,80,6
+81,I Don't Need No Doctor,New Riders Of The Purple Sage,86,81,5
+82,Breaking Up Is Hard To Do,The Partridge Family Starring Shirley Jones Featuring David Cassidy,95,82,2
+83,Starting All Over Again,Mel And Tim,-1,83,1
+84,Go All The Way,Raspberries,88,84,2
+85,My Guy,Petula Clark,89,85,5
+86,Tell Me This Is A Dream,The Delfonics,91,86,3
+87,If I Were A Carpenter,Bob Seger,94,87,2
+88,Delta Dawn,Tanya Tucker,92,88,2
+89,Popcorn,Hot Butter,-1,89,1
+90,A Simple Man,Lobo,-1,90,1
+91,Cat's Eye In The Window,Tommy James,90,90,4
+92,Zing Went The Strings Of My Heart,The Trammps,-1,92,1
+93,Mother Nature,The Temptations,93,93,2
+94,Power Of Love,Joe Simon,-1,94,1
+95,Vaya Con Dios,Dawn Featuring Tony Orlando,96,95,3
+96,Starman,David Bowie,100,96,2
+97,I Am Woman,Helen Reddy,98,97,3
+98,That's The Way God Planned It,Billy Preston,-1,62,7
+99,When You Say Love,Sonny & Cher,-1,99,1
+100,Country Woman,The Magic Lantern,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,(Just Like) Starting Over,John Lennon,1,1,12
+2,Love On The Rocks,Neil Diamond,2,2,12
+3,Guilty,Barbra Streisand & Barry Gibb,3,3,12
+4,The Tide Is High,Blondie,4,4,10
+5,Hungry Heart,Bruce Springsteen,5,5,11
+6,Every Woman In The World,Air Supply,6,6,13
+7,Passion,Rod Stewart,7,7,9
+8,Tell It Like It Is,Heart,8,8,9
+9,Lady,Kenny Rogers,9,1,16
+10,"De Do Do Do, De Da Da Da",The Police,11,10,13
+11,It's My Turn,Diana Ross,13,11,13
+12,I Love A Rainy Night,Eddie Rabbitt,15,12,11
+13,I Made It Through The Rain,Barry Manilow,14,13,9
+14,Celebration,Kool & The Gang,16,14,13
+15,Hey Nineteen,Steely Dan,17,15,8
+16,Hit Me With Your Best Shot,Pat Benatar,12,9,16
+17,More Than I Can Say,Leo Sayer,10,2,17
+18,Time Is Time,Andy Gibb,19,18,9
+19,Giving It Up For Your Love,Delbert McClinton,22,19,7
+20,Suddenly,Olivia Newton-John & Cliff Richard,21,20,13
+21,Miss Sun,Boz Scaggs,25,21,8
+22,9 To 5,Dolly Parton,26,22,8
+23,Together,Tierra,27,23,11
+24,One Step Closer,The Doobie Brothers,24,24,9
+25,The Winner Takes It All,ABBA,30,25,9
+26,Same Old Lang Syne,Dan Fogelberg,31,26,6
+27,Master Blaster (Jammin'),Stevie Wonder,18,5,18
+28,Keep On Loving You,REO Speedwagon,34,28,8
+29,Seven Bridges Road,Eagles,35,29,5
+30,Another One Bites The Dust,Queen,20,1,23
+31,Woman In Love,Barbra Streisand,28,1,20
+32,I Ain't Gonna Stand For It,Stevie Wonder,49,32,6
+33,Cold Love,Donna Summer,37,33,8
+34,Killin' Time,Fred Knoblock & Susan Anton,38,34,9
+35,Heartbreak Hotel,The Jacksons,40,35,7
+36,Woman,John Lennon,-1,36,1
+37,He Can't Love You,Michael Stanley Band,39,37,9
+38,Everybody's Got To Learn Sometime,The Korgis,23,18,15
+39,My Mother's Eyes,Bette Midler,41,39,9
+40,I Need Your Lovin',Teena Marie,43,40,9
+41,Shine On,L.T.D.,45,41,10
+42,Smoky Mountain Rain,Ronnie Milsap,46,42,8
+43,A Little In Love,Cliff Richard,53,43,6
+44,Games People Play,The Alan Parsons Project,48,44,7
+45,Love T.K.O.,Teddy Pendergrass,47,45,8
+46,Who's Making Love,Blues Brothers,52,46,5
+47,You've Lost That Lovin' Feeling,Daryl Hall John Oates,29,12,17
+48,Whip It,Devo,33,14,21
+49,I Believe In You,Don Williams,32,24,17
+50,Never Be The Same,Christopher Cross,36,15,15
+51,Fool That I Am,Rita Coolidge,58,51,6
+52,Ah! Leah!,Donnie Iris,61,52,6
+53,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,42,21,19
+54,Back In Black,AC/DC,63,54,5
+55,Need Your Loving Tonight,Queen,44,44,8
+56,I'm Coming Out,Diana Ross,50,5,20
+57,Girls Can Get It,Dr. Hook,54,34,12
+58,Teacher Teacher,Rockpile,51,51,9
+59,You,"Earth, Wind & Fire",57,48,9
+60,United Together,Aretha Franklin,67,60,4
+61,Full Of Fire,Shalamar,68,61,5
+62,Skateaway,Dire Straits,72,62,5
+63,Sequel,Harry Chapin,55,23,12
+64,(Ghost) Riders In The Sky,Outlaws,73,64,4
+65,Turn And Walk Away,The Babys,56,42,10
+66,The Wanderer,Donna Summer,60,3,18
+67,Gotta Have More Love,Climax Blues Band,59,47,10
+68,Treat Me Right,Pat Benatar,-1,68,1
+69,Breakfast In America,Supertramp,62,62,6
+70,Dreaming,Cliff Richard,65,10,19
+71,Deep Inside My Heart,Randy Meisner,66,22,14
+72,This Time,John Cougar,64,27,17
+73,Fashion,David Bowie,70,70,7
+74,He's So Shy,The Pointer Sisters,74,3,26
+75,Set The Night On Fire,Oak,71,71,6
+76,Got To Rock On,Kansas,80,76,4
+77,Fly Away,Peter Allen,88,77,2
+78,Never Knew Love Like This Before,Stephanie Mills,76,6,24
+79,Flash's Theme Aka Flash,Queen,-1,79,1
+80,Don't Want No-Body,J.D. Drews,84,80,4
+81,Turning Japanese,The Vapors,75,36,17
+82,The Horizontal Bop,Bob Seger,77,42,11
+83,Toccata,Sky (Arista),86,83,2
+84,Easy Love,Dionne Warwick,79,62,9
+85,Lovely One,The Jacksons,78,12,17
+86,Upside Down,Diana Ross ,85,1,28
+87,Switchin' To Glide/This Beat Goes On,The Kings,87,43,22
+88,Could I Be Dreaming,The Pointer Sisters,81,52,11
+89,Stop This Game,Cheap Trick,90,48,11
+90,Watching You,Slave,-1,90,1
+91,What Can You Get A Wookiee For Christmas (When He Already Owns A Comb?),The Star Wars Intergalactic Droid Choir & Chorale,69,69,6
+92,Remote Control,The Reddings,93,89,10
+93,Without Your Love,Roger Daltrey,83,20,19
+94,Somebody's Knockin',Terri Gibbs,-1,94,1
+95,Let Me Be Your Angel,Stacy Lattisaw,92,21,24
+96,On The Road Again,Willie Nelson,96,20,20
+97,Long Time Lovin' You,McGuffey Lane,-1,97,1
+98,Trickle Trickle,The Manhattan Transfer,97,73,8
+99,I'm Happy That Love Has Found You,Jimmy Hall,99,27,17
+100,Out Here On My Own,Irene Cara,100,19,23

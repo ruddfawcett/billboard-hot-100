@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,(Sittin' On) The Dock Of The Bay,Otis Redding,1,1,10
+2,Love Is Blue (L'amour Est Bleu),Paul Mauriat And His Orchestra,2,1,13
+3,Valleri,The Monkees,7,3,4
+4,Simon Says,1910 Fruitgum Co.,4,4,10
+5,(Sweet Sweet Baby) Since You've Been Gone,Aretha Franklin,8,5,5
+6,La - La - Means I Love You,The Delfonics,6,6,9
+7,Young Girl,The Union Gap Featuring Gary Puckett,12,7,5
+8,The Ballad Of Bonnie And Clyde,Georgie Fame,10,8,7
+9,Lady Madonna,The Beatles,23,9,2
+10,(Theme From) Valley Of The Dolls,Dionne Warwick,3,2,11
+11,Mighty Quinn (Quinn The Eskimo),Manfred Mann,11,11,5
+12,Just Dropped In (To See What Condition My Condition Was In),The First Edition,5,5,8
+13,Scarborough Fair (/Canticle),Simon & Garfunkel,13,13,5
+14,Dance To The Music,Sly & The Family Stone,14,14,8
+15,Cry Like A Baby,The Box Tops,17,15,5
+16,Kiss Me Goodbye,Petula Clark,16,16,7
+17,I Thank You,Sam & Dave,9,9,10
+18,If You Can Want,Smokey Robinson & The Miracles,25,18,6
+19,I Got The Feelin',James Brown And The Famous Flames,33,19,3
+20,The End Of Our Road,Gladys Knight And The Pips,15,15,8
+21,Playboy,Gene And Debbe,21,21,7
+22,I Wish It Would Rain,The Temptations,20,4,12
+23,Honey,Bobby Goldsboro,64,23,2
+24,Will You Love Me Tomorrow,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",24,24,6
+25,Cab Driver,The Mills Brothers,29,25,10
+26,Everything That Touches You,The Association,18,10,9
+27,Sweet Inspiration,The Sweet Inspirations,55,27,5
+28,Love Is All Around,The Troggs,34,28,6
+29,Bottle Of Wine,The Fireballs,28,9,14
+30,Jennifer Juniper,Donovan,42,30,4
+31,Spooky,Classics IV,27,3,15
+32,I'm Gonna Make You Love Me,Madeline Bell,26,26,8
+33,Too Much Talk,Paul Revere & The Raiders Featuring Mark Lindsay,19,19,8
+34,Tapioca Tundra,The Monkees,49,34,4
+35,Words,Bee Gees,22,15,11
+36,There Is,The Dells,32,20,11
+37,A Question Of Temperature,The Balloon Farm,37,37,6
+38,Summertime Blues,Blue Cheer,38,38,5
+39,Green Light,The American Breed,39,39,6
+40,Little Green Apples,Roger Miller,40,40,5
+41,Soul Serenade,Willie Mitchell,50,41,4
+42,Cowboys To Girls,The Intruders,87,42,2
+43,Ame Caline (Soul Coaxing),Raymond Lefevre and His Orchestra,43,43,6
+44,Forever Came Today,Diana Ross & The Supremes,53,44,3
+45,The Son Of Hickory Holler's Tramp,O.C. Smith,51,45,6
+46,Carpet Man,The 5th Dimension,35,29,9
+47,"The Good, The Bad And The Ugly","Hugo Montenegro, His Orchestra And Chorus",52,47,7
+48,Take Time To Know Her,Percy Sledge,66,48,3
+49,The Unicorn,The Irish Rovers,77,49,2
+50,Mission-Impossible,Lalo Schifrin ,48,41,13
+51,Rice Is Nice,The Lemon Pipers,61,51,4
+52,Security,Etta James,56,52,5
+53,Funky Street,Arthur Conley,63,53,3
+54,For Your Precious Love,Jackie Wilson & Count Basie,54,49,7
+55,In The Midnight Hour,The Mirettes,45,45,7
+56,Suddenly You Love Me,The Tremeloes,44,44,7
+57,Sound Asleep,The Turtles,58,57,5
+58,You've Got To Be Loved,The Montanas,59,58,5
+59,Hey Hey Bunny,John Fred And The Playboys,57,57,6
+60,Sunshine Of Your Love,Cream,60,36,12
+61,L. David Sloane,Michele Lee,69,61,5
+62,Back On My Feet Again,The Foundations,62,62,4
+63,U.S. Male,Elvis Presley With The Jordanaires,75,63,2
+64,That's A Lie,Ray Charles,65,64,6
+65,Sit With The Guru,Strawberry Alarm Clock,72,65,3
+66,In Need Of A Friend,The Cowsills,76,66,3
+67,Delilah,Tom Jones,74,67,3
+68,If This World Were Mine,Marvin Gaye & Tammi Terrell,70,68,5
+69,The Impossible Dream,The Hesitations,73,69,3
+70,Jennifer Eccles,The Hollies,71,70,3
+71,Love Is Blue (L'Amour Est Bleu),Claudine Longet,82,71,6
+72,"Me, The Peaceful Heart",Lulu,91,72,2
+73,Stay Away,Elvis Presley With The Jordanaires,81,73,3
+74,Foggy Mountain Breakdown,Flatt & Scruggs,80,74,5
+75,You've Still Got A Place In My Heart,Dean Martin,90,75,2
+76,Come To Me Softly,Jimmy James & The Vagabonds,84,76,2
+77,Tin Soldier,Small Faces,78,77,3
+78,I'll Say Forever My Love,Jimmy Ruffin,79,78,4
+79,The Unknown Soldier,The Doors,-1,79,1
+80,Call Me Lightning,The Who,-1,80,1
+81,Tighten Up,Archie Bell & The Drells,-1,81,1
+82,Up From The Skies,The Jimi Hendrix Experience,94,82,3
+83,Turn On Your Love Light,The Human Beinz,83,83,4
+84,Take Good Care Of My Baby,Bobby Vinton,-1,84,1
+85,(Sittin' On) The Dock Of The Bay,King Curtis & The Kingpins,85,85,4
+86,At The Top Of The Stairs,The Formations,89,86,3
+87,Gentle On My Mind,Patti Page,93,87,8
+88,Dr. Jon (The Medicine Man),Jon & Robin And The In Crowd,95,88,3
+89,Sherry Don't Go,The Lettermen,98,89,2
+90,Cinderella Rockefella,Esther & Abi Ofarim,-1,90,1
+91,Show Time,Detroit Emeralds,-1,91,1
+92,Your Heart Is Free Just Like The Wind,Vikki Carr,-1,92,1
+93,Up To My Neck In High Muddy Water,Linda Ronstadt & The Stone Poneys,-1,93,1
+94,Master Jack,Four Jacks And A Jill,-1,94,1
+95,I Will Always Think About You,The New Colony Six,-1,95,1
+96,The Inner Light,The Beatles,-1,96,1
+97,100 Years,Nancy Sinatra,97,97,2
+98,Another Place Another Time,Jerry Lee Lewis,-1,98,1
+99,In Some Time,Ronnie Dove,99,99,3
+100,She'll Be There,Vikki Carr,100,100,2

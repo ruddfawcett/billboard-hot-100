@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Tossin' And Turnin',Bobby Lewis,1,1,18
+2,Wooden Heart,Joe Dowell,5,2,9
+3,Michael,The Highwaymen,6,3,7
+4,Last Night,Mar-Keys,3,3,8
+5,"I Like It Like That, Part 1",Chris Kenner,2,2,13
+6,You Don't Know What You've Got (Until You Lose It),Ral Donner,11,6,7
+7,Pretty Little Angel Eyes,Curtis Lee,7,7,8
+8,Dum Dum,Brenda Lee,4,4,10
+9,Let's Twist Again,Chubby Checker,8,8,10
+10,School Is Out,Gary U.S. Bonds,10,10,5
+11,Don't Bet Money Honey,Linda Scott,16,11,8
+12,Hurt,Timi Yuro,15,12,5
+13,Together,Connie Francis,9,6,9
+14,As If I Didn't Know,Adam Wade,21,14,5
+15,Let The Four Winds Blow,Fats Domino,17,15,5
+16,I Fall To Pieces,Patsy Cline,24,16,14
+17,I'm Gonna Knock On Your Door,Eddie Hodges,22,17,10
+18,I'll Be There,Damita Jo,12,12,8
+19,Never On Sunday,The Chordettes,13,13,10
+20,Hats Off To Larry,Del Shannon,14,5,12
+21,My True Story,The Jive Five With Joe Rene And Orchestra,32,21,8
+22,One Summer Night,The Diamonds,25,22,8
+23,My Kind Of Girl,Matt Monro,18,18,13
+24,I Dreamed Of A Hill-Billy Heaven,Tex Ritter,33,24,8
+25,I'm A Telling You,Jerry Butler,26,25,5
+26,Does Your Chewing Gum Lose It's Flavor (On The Bedpost Over Night),Lonnie Donegan And His Skiffle Group,40,26,3
+27,Quarter To Three,U.S. Bonds,19,1,14
+28,The Boll Weevil Song,Brook Benton,20,2,15
+29,Right Or Wrong,Wanda Jackson,38,29,9
+30,Quite A Party,The Fireballs,27,27,9
+31,Take Good Care Of My Baby,Bobby Vee,41,31,3
+32,Princess,Frank Gari,36,32,8
+33,"Who Put The Bomp (In The Bomp, Bomp, Bomp)",Barry Mann,44,33,3
+34,I'll Never Smile Again,The Platters,49,34,4
+35,I Don't Want To Take A Chance,Mary Wells,42,35,6
+36,Sea Of Heartbreak,Don Gibson,39,33,10
+37,I Just Don't Understand,Ann-Margret,43,37,5
+38,Runaround,The Regents,28,28,7
+39,Cupid,Sam Cooke,23,17,12
+40,Amor,Ben E. King,48,40,4
+41,A Thing Of The Past,The Shirelles,46,41,7
+42,The Mountain's High,Dick and DeeDee,68,42,4
+43,Nag,The Halos,54,43,6
+44,Without You,Johnny Tillotson,61,44,3
+45,"Don't Cry, Baby",Etta James,52,45,3
+46,When We Get Married,The Dreamlovers,76,46,4
+47,"Starlight, Starbright",Linda Scott,53,47,4
+48,A Little Bit Of Soap,The Jarmels,67,48,3
+49,Crying,Roy Orbison,71,49,2
+50,Please Stay,The Drifters,30,14,12
+51,San Antonio Rose,Floyd Cramer,29,8,12
+52,A Tear,Gene McDaniels,31,31,8
+53,Transistor Sister,Freddy Cannon,62,53,4
+54,Hully Gully Again,Little Caesar and The Romans,79,54,3
+55,Let Me Belong To You,Brian Hyland,65,55,3
+56,It's Gonna Work Out Fine,Ike & Tina Turner,64,56,4
+57,Lover's Island,The Blue Jays,73,57,2
+58,Water Boy,Don Shirley Trio,66,58,6
+59,Mexico,Bob Moore and His Orch.,91,59,2
+59,Missing You,Ray Peterson,63,59,4
+60,Candy Man,Roy Orbison,69,60,3
+61,Little Sister,Elvis Presley,-1,61,1
+62,I Never Knew,Clyde McPhatter,56,56,5
+63,The Charleston,Ernie Fields,47,47,10
+64,Tears On My Pillow,The McGuire Sisters,59,59,5
+65,Time Was,The Flamingos,45,45,8
+66,Teardrops In My Heart,Joe Barry,77,66,4
+67,Now And Forever,Bert Kaempfert And His Orchestra,81,67,4
+68,San-Ho-Zay,Freddy King,84,68,3
+70,Lonely Street,Clarence Henry,72,70,3
+71,Magic Moon (Clair De Lune),The Rays,88,71,2
+72,Back Beat No. 1,The Rondels,83,72,2
+73,Bless You,Tony Orlando,87,73,2
+74,Nothing But Good,Hank Ballard And The Midnighters,-1,74,1
+75,Frankie And Johnny,Brook Benton,-1,75,1
+76,Big Cold Wind,Pat Boone,-1,76,1
+77,What A Sweet Thing That Was,The Shirelles,70,54,6
+78,More Money For You And Me,The Four Preps,98,78,2
+79,Don't Cry No More,Bobby Bland,80,79,3
+80,Summer Souvenirs,"Karl Hammel, Jr.",85,80,4
+81,Roll Over Beethoven,The Velaires,92,81,2
+82,Every Breath I Take,Gene Pitney,90,82,3
+83,"Music, Music, Music",The Sensations Featuring Yvonne,95,83,2
+84,"Well-A, Well-A",Shirley & Lee,93,84,3
+85,Peanuts,Rick And The Keens,60,60,8
+86,Pitter-Patter,The Four Sportsmen,100,86,2
+87,Mr. Happiness,Johnny Maestro with The Coeds,57,57,5
+88,Baby You're So Fine,Mickey & Sylvia,-1,88,1
+89,Starlight,The Preludes Five,96,89,2
+90,Jeremiah Peabody's Poly Unsaturated Quick Dissolving Fast Acting Pleasant T,Ray Stevens,-1,90,1
+91,Years From Now,Jackie Wilson,-1,91,1
+92,Black Land Farmer,Wink Martindale,-1,92,1
+93,My Heart's On Fire,Billy Bland,97,93,3
+94,"Baby, You're Right",James Brown And The Famous Flames,-1,94,1
+95,I Wake Up Crying,Chuck Jackson,-1,95,1
+96,Girls Girls Girls (Part II),The Coasters,99,96,2
+97,Keep On Dancing,Hank Ballard And The Midnighters,-1,97,1
+98,Don't Forget I Love You,The Butanes,-1,98,2
+99,Wizard Of Love,The Ly - Dells,-1,99,1
+100,Donald Where's Your Troosers?,Andy Stewart,-1,100,1

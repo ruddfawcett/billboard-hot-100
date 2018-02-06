@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Tonight's The Night (Gonna Be Alright),Rod Stewart,1,1,11
+2,The Rubberband Man,The Spinners,2,2,14
+3,Love So Right,Bee Gees,3,3,13
+4,Muskrat Love,Captain & Tennille,4,4,12
+5,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",6,5,14
+6,You Make Me Feel Like Dancing,Leo Sayer,12,6,8
+7,More Than A Feeling,Boston,8,7,13
+8,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",9,8,16
+9,You Are The Woman,Firefall,10,9,17
+10,Nights Are Forever Without You,England Dan & John Ford Coley,11,10,10
+11,Sorry Seems To Be The Hardest Word,Elton John,15,11,5
+12,Beth/Detroit Rock City,KISS,7,7,15
+13,After The Lovin',Engelbert Humperdinck,20,13,8
+14,I Never Cry,Alice Cooper,16,14,18
+15,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,5,2,16
+16,Stand Tall,Burton Cummings,18,16,10
+17,Love Me,Yvonne Elliman,19,17,11
+18,Dazz,Brick,24,18,8
+19,Hot Line,The Sylvers,22,19,10
+20,Love Ballad,L.T.D.,21,20,11
+21,Livin' Thing,Electric Light Orchestra,26,21,8
+22,Car Wash,Rose Royce,42,22,8
+23,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,13,1,18
+24,Hello Old Friend,Eric Clapton,27,24,9
+25,Just To Be Close To You,Commodores,14,7,13
+26,Somebody To Love,Queen,35,26,3
+27,The Best Disco In Town,The Ritchie Family,17,17,16
+28,It's A Long Way There,Little River Band,28,28,13
+29,I Wish,Stevie Wonder,40,29,2
+30,Lost Without Your Love,Bread,37,30,3
+31,Jeans On,David Dundas,34,31,10
+32,Shake Your Rump To The Funk,The Bar-Kays,36,32,9
+33,Do You Feel Like We Do,Peter Frampton,25,10,13
+34,Saturday Nite,"Earth, Wind & Fire",43,34,4
+35,Enjoy Yourself,The Jacksons,44,35,5
+36,Don't Take Away The Music,Tavares,41,36,7
+37,If You Leave Me Now,Chicago,29,1,18
+38,This Song,George Harrison,53,38,4
+39,I Like Dreamin',Kenny Nolan,45,39,6
+40,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,50,40,6
+41,Mademoiselle,Styx,49,41,5
+42,Fernando,ABBA,30,13,15
+43,"Do What You Want, Be What You Are",Daryl Hall John Oates,46,43,7
+44,Keep Me Cryin',Al Green,54,44,8
+45,Walk This Way,Aerosmith,55,45,4
+46,I Kinda Miss You,The Manhattans,48,46,7
+47,Down To Love Town,The Originals,47,47,8
+48,Flight '76,The Walter Murphy Band,52,48,5
+49,"Ob-la-di, Ob-la-da",The Beatles,59,49,4
+50,What Can I Say,Boz Scaggs,60,50,4
+51,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,61,51,3
+52,Torn Between Two Lovers,Mary Macgregor,66,52,4
+53,It Keeps You Runnin',The Doobie Brothers,57,53,5
+54,Drivin' Wheel,Foghat,65,54,3
+55,Let's Be Young Tonight,Jermaine Jackson,56,55,13
+56,Do It To My Mind,Johnny Bristol,67,56,3
+57,Every Face Tells A Story,Olivia Newton-John,58,56,6
+58,Weekend In New England,Barry Manilow,68,58,3
+59,Blinded By The Light,Manfred Mann's Earth Band,72,59,4
+60,"Baby, I'll Give It To You",Seals & Crofts,63,60,4
+61,Lets Get It Together,El Coco,64,61,8
+62,Baby Boy,Mary Kay Place As Loretta Haggers,62,62,7
+63,Magic Man,Heart,32,9,22
+64,If Not You,Dr. Hook,74,64,3
+65,I Only Want To Be With You,Bay City Rollers,33,12,15
+66,Someone To Lay Down Beside Me,Linda Ronstadt,78,66,2
+67,Heart On My Sleeve,Gallagher And Lyle,69,67,8
+68,Free Bird,Lynyrd Skynyrd,83,19,14
+69,Sixteen Reasons,Laverne & Shirley,80,69,3
+70,St. Charles,Jefferson Starship,81,70,2
+71,I Like To Do It,KC And The Sunshine Band,82,71,2
+72,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,-1,72,1
+73,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",77,73,7
+74,Living Next Door To Alice,Smokie,84,74,2
+75,"9,999,999 Tears",Dickey Lee,85,75,4
+76,Rock'n Me,Steve Miller,23,1,18
+77,Yesterday's Hero,Bay City Rollers,-1,77,1
+78,Slow Dancing,Funky Kings,88,78,6
+79,"Man Smart, Woman Smarter",Robert Palmer,89,79,2
+80,You've Got Me Runnin',Gene Cotton,90,80,2
+81,(Don't Fear) The Reaper,Blue Oyster Cult,31,12,20
+82,Open Sesame - Part 1,Kool & The Gang,87,82,6
+83,Nice 'N' Naasty,The Salsoul Orchestra,73,30,13
+84,Sherry,The Keane Brothers,86,84,5
+85,Night Moves,Bob Seger,-1,85,1
+86,Dancing Queen,ABBA,-1,86,1
+87,Save It For A Rainy Day,Stephen Bishop,-1,87,1
+88,Free,Deniece Williams,-1,88,1
+89,You're My Driving Wheel,The Supremes,93,89,2
+90,Heart On My Sleeve,Bryan Ferry,-1,90,1
+91,Makes You Blind,The Glitter Band,92,91,6
+92,Laid Back Love,Major Harris,94,92,3
+93,You Are My Starship,Norman Connors,39,27,16
+94,Caledonia,Robin Trower,98,94,2
+95,I Don't Wanna Lose Your Love,The Emotions,51,51,6
+96,White Bird,David Laflamme,-1,96,1
+97,Silver Heels,Blaze,-1,97,1
+98,Year Of The Cat,Al Stewart,-1,98,1
+99,All Roads (Lead Back To You),Donny Most,100,99,2
+100,Love Bug,Bumble Bee Unlimited,-1,100,1

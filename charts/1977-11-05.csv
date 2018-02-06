@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You Light Up My Life,Debby Boone,1,1,10
+2,Nobody Does It Better,Carly Simon,2,2,16
+3,Boogie Nights,Heatwave,4,3,16
+4,That's Rock 'N' Roll,Shaun Cassidy,3,3,16
+5,Brick House,Commodores,6,5,11
+6,It's Ecstasy When You Lay Down Next To Me,Barry White,8,6,12
+7,I Feel Love,Donna Summer,7,7,14
+8,Don't It Make My Brown Eyes Blue,Crystal Gayle,10,8,13
+9,"Baby, What A Big Surprise",Chicago,11,9,7
+10,Heaven On The 7th Floor,Paul Nicholas,12,10,12
+11,How Deep Is Your Love,Bee Gees,15,11,7
+12,Star Wars Theme/Cantina Band,Meco,9,1,14
+13,We're All Alone,Rita Coolidge,17,13,8
+14,Just Remember I Love You,Firefall,16,14,13
+15,Keep It Comin' Love,KC And The Sunshine Band,5,2,15
+16,Blue Bayou,Linda Ronstadt,21,16,9
+17,Cold As Ice,Foreigner,14,6,16
+18,Help Is On Its Way,Little River Band,22,18,14
+19,Do Ya Wanna Get Funky With Me,Peter Brown,23,19,8
+20,The King Is Gone,Ronnie McDowell,13,13,9
+21,Dusic,Brick,25,21,10
+22,We Just Disagree,Dave Mason,26,22,10
+23,She Did It, Eric Carmen,24,23,11
+24,"Signed, Sealed, Delivered (I'm Yours)",Peter Frampton,18,18,11
+25,Send In The Clowns,Judy Collins,30,25,18
+26,Isn't It Time,The Babys,32,26,5
+27,Swayin' To The Music (slow Dancin'),Johnny Rivers,19,10,20
+28,Daybreak,Barry Manilow,31,28,6
+29,It's So Easy,Linda Ronstadt,34,29,5
+30,You Make Loving Fun,Fleetwood Mac,40,30,4
+31,Surfin' USA,Leif Garrett,20,20,11
+32,Come Sail Away,Styx,35,32,7
+33,My Fair Share,Seals & Crofts,36,33,10
+34,I Go Crazy,Paul Davis,37,34,11
+35,Slip Slidin' Away,Paul Simon,45,35,4
+36,Your Smiling Face,James Taylor,48,36,6
+37,"Changes In Latitudes, Changes In Attitudes",Jimmy Buffett,38,37,8
+38,Thunder In My Heart,Leo Sayer,42,38,5
+39,Gone Too Far,England Dan & John Ford Coley,47,39,6
+40,Calling Occupants Of Interplanetary Craft,Carpenters,46,40,5
+41,Doctor Love,First Choice,41,41,8
+42,(Every Time I Turn Around) Back In Love Again,LTD,52,42,4
+43,On And On,Stephen Bishop,28,11,26
+44,Swingtown,The Steve Miller Band,54,44,4
+45,Fair Game,"Crosby, Stills & Nash",49,45,6
+46,She's Not There,Santana,56,46,5
+47,Baby Come Back,Player,50,47,6
+48,I Just Want To Be Your Everything,Andy Gibb,27,1,29
+49,Here You Come Again,Dolly Parton,59,49,4
+50,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,58,50,8
+51,It Was Almost Like A Song,Ronnie Milsap,29,16,21
+52,Sentimental Lady,Bob Welch,64,52,4
+53,Goin' Places,The Jacksons,57,53,5
+54,I Just Want To Make Love To You,Foghat,33,33,16
+55,Do Your Dance - Part 1,Rose Royce,39,39,8
+56,The Way I Feel Tonight,Bay City Rollers,67,56,4
+57,Draw The Line,Aerosmith,68,57,3
+58,A Place In The Sun,Pablo Cruise,43,42,8
+59,The Happy Girls, Helen Reddy,60,59,5
+60,Hard Times,Boz Scaggs,62,60,4
+61,Way Down,Elvis Presley,44,18,20
+62,We Will Rock You/We Are The Champions,Queen,75,62,3
+63,Telephone Line,Electric Light Orchestra,63,7,22
+64,Best Of My Love, The Emotions,51,1,22
+65,I Wouldn't Want To Be Like You,Alan Parsons,53,36,12
+66,I Believe You,Dorothy Moore,55,27,14
+67,From Graceland To The Promised Land,Merle Haggard,78,67,3
+68,Devil's Gun,C.J. & Company,71,36,25
+69,You're In My Heart (The Final Acclaim),Rod Stewart,80,69,2
+70,Love Gun,KISS,61,61,7
+71,"Money, Money, Money",ABBA,82,71,3
+72,Stone Cold Sober,Crawler,74,72,4
+73,Echoes Of Love,The Doobie Brothers,76,73,5
+74,Don't Ask My Neighbors,The Emotions,86,74,2
+75,Why Do Lovers (Break Each Other's Heart?),Daryl Hall John Oates,83,75,3
+76,Georgia Rhythm,Atlanta Rhythm Section,79,76,4
+77,Serpentine Fire,"Earth, Wind & Fire",87,77,2
+78,Falling,LeBlanc & Carr,81,78,4
+79,Silver Lady,David Soul,77,52,9
+80,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,90,80,2
+81,As,Stevie Wonder,-1,81,1
+82,Gettin' Ready For Love,Diana Ross,-1,82,1
+83,Time Bomb,Lake,84,83,3
+84,You're Moving Out Today,Carole Bayer Sager ,85,84,4
+85,I Honestly Love You,Olivia Newton-John,-1,1,16
+86,Spaceship Superstar,Prism,88,86,3
+87,Heaven's Just A Sin Away,The Kendalls,-1,87,1
+88,Shake It Well,The Dramatics,92,88,3
+89,(Love Is) Thicker Than Water,Andy Gibb,-1,89,1
+90,Breakdown,Tom Petty And The Heartbreakers,-1,90,1
+91,Don't Let Me Be Misunderstood,Santa Esmeralda Starring Leroy Gomez,-1,91,1
+92,It Ain't Love,Tom Powers,94,92,5
+93,Ten To Eight,David Castle,100,68,7
+94,Don't Let The Flame Burn Out,Jackie DeShannon,91,91,2
+95,Don't Stop,Fleetwood Mac,65,3,18
+96,Strawberry Letter 23,The Brothers Johnson,66,5,19
+97,We Never Danced To A Love Song,The Manhattans,93,93,2
+98,Jungle Love,The Steve Miller Band,72,23,14
+99,(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,99,2,27
+100,"Started Out Dancing, Ended Up Making Love",Alan O'Day,98,73,6

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Physical,Olivia Newton-John,1,1,9
+2,Waiting For A Girl Like You,Foreigner,3,2,8
+3,Private Eyes,Daryl Hall John Oates,2,1,14
+4,Every Little Thing She Does Is Magic,The Police,8,4,10
+5,Here I Am (Just When I Thought I Was Over You),Air Supply,5,5,10
+6,Oh No,Commodores,11,6,10
+7,Start Me Up,The Rolling Stones,4,2,15
+8,Tryin' To Live My Life Without You,Bob Seger,6,5,12
+9,Arthur's Theme (Best That You Can Do),Christopher Cross,9,1,16
+10,Why Do Fools Fall In Love,Diana Ross,12,10,7
+11,Let's Groove,"Earth, Wind & Fire",18,11,9
+12,Young Turks,Rod Stewart,15,12,7
+13,The Night Owls,Little River Band,7,6,15
+14,The Theme From Hill Street Blues,Mike Post featuring Larry Carlton,10,10,15
+15,The Old Songs,Barry Manilow,16,15,8
+16,Trouble,Lindsey Buckingham,19,16,6
+17,Harden My Heart,Quarterflash,22,17,7
+18,Leather And Lace,Stevie Nicks With Don Henley,21,18,6
+19,Yesterday's Songs,Neil Diamond,23,19,4
+20,Don't Stop Believin',Journey,24,20,5
+21,I've Done Everything For You,Rick Springfield,13,8,15
+22,I Can't Go For That (No Can Do),Daryl Hall John Oates,32,22,3
+23,Our Lips Are Sealed,Go-Go's,26,23,14
+24,Take My Heart (You Can Have It If You Want It),Kool & The Gang,27,24,7
+25,The Sweetest Thing (I've Ever Known),Juice Newton,29,25,7
+26,"My Girl (Gone, Gone, Gone)",Chilliwack,28,26,10
+27,Turn Your Love Around,George Benson,39,27,6
+28,Heart Like A Wheel,The Steve Miller Band,31,28,5
+29,No Reply At All,Genesis,30,29,10
+30,Comin' In And Out Of Your Life,Barbra Streisand,45,30,3
+31,Steal The Night,Stevie Woods,34,31,12
+32,Hooked On Classics,Royal Philharmonic Orchestra,42,32,5
+33,Never Too Much,Luther Vandross,35,33,8
+34,Cool Night,Paul Davis,49,34,4
+35,Centerfold,The J. Geils Band,41,35,4
+36,Poor Man's Son,Survivor,40,36,7
+37,"I Want You, I Need You",Chris Christian,37,37,9
+38,Twilight,Electric Light Orchestra,43,38,6
+39,When She Was My Girl,Four Tops,14,11,16
+40,I Wouldn't Have Missed It For The World,Ronnie Milsap,44,40,6
+41,Just Once,Quincy Jones Featuring James Ingram,17,17,16
+42,We're In This Love Together,Al Jarreau,20,15,18
+43,Wrack My Brain,Ringo Starr,53,43,4
+44,Someone Could Lose A Heart Tonight,Eddie Rabbitt,59,44,3
+45,Sausalito Summernight,Diesel,25,25,12
+46,Under Pressure,Queen & David Bowie,54,46,4
+47,For Your Eyes Only,Sheena Easton,33,4,19
+48,Hard To Say,Dan Fogelberg,36,7,14
+49,Castles In The Air,Don McLean,58,49,5
+50,Endless Love,Diana Ross & Lionel Richie,38,1,21
+51,Living Eyes,Bee Gees,63,51,4
+52,More Than Just The Two Of Us,Sneaker,60,52,5
+53,Say Goodbye To Hollywood,Billy Joel,46,17,12
+54,Step By Step,Eddie Rabbitt,47,5,19
+55,Super Freak (Part I),Rick James,48,16,17
+56,"She's A Bad Mama Jama (She's Built, She's Stacked)",Carl Carlton,50,22,15
+57,Atlanta Lady (Something About Your Love),Marty Balin,51,27,11
+58,Shake It Up,The Cars,76,58,2
+59,Stop Draggin' My Heart Around,Stevie Nicks With Tom Petty And The Heartbreakers,52,3,19
+60,I'm Just Too Shy,Jermaine Jackson,64,60,5
+61,Working For The Weekend,Loverboy,69,61,3
+62,Promises In The Dark,Pat Benatar,55,38,9
+63,Share Your Love With Me,Kenny Rogers,56,14,13
+64,She's Got A Way,Billy Joel,79,64,2
+65,Talking Out Of Turn,The Moody Blues,68,65,4
+66,The Cowboy And The Lady,John Denver,66,66,5
+67,Magic Power,Triumph,57,51,9
+68,Who's Crying Now,Journey,61,4,20
+69,Bet Your Heart On Me,Johnny Lee,62,54,8
+70,Controversy,Prince,70,70,6
+71,Love In The First Degree,Alabama,81,71,3
+72,Key Largo,Bertie Higgins,82,72,3
+73,Let Me Love You Once,Greg Lake,83,73,2
+74,When She Dances,Joey Scarbury,65,49,8
+75,If I Were You,Lulu,85,75,2
+76,Blaze Of Glory,Kenny Rogers,86,76,2
+77,Come Go With Me,The Beach Boys,89,77,2
+78,You Could Have Been With Me,Sheena Easton,-1,78,1
+79,I Heard It Through The Grapevine (Part 1),Roger,84,79,4
+80,Falling In Love,Balance,90,80,2
+81,Leader Of The Band,Dan Fogelberg,-1,81,1
+82,My Kinda Lover,Billy Squier,-1,82,1
+83,Sweet Merilee,Donnie Iris,80,80,5
+84,Alien,Atlanta Rhythm Section,71,29,14
+85,Wkrp In Cincinnati,Steve Carlisle,87,85,2
+86,Walking Into Sunshine,Central Line,88,86,3
+87,Urgent,Foreigner,72,4,22
+88,Hold On Tight,Electric Light Orchestra,73,10,19
+89,Mistaken Identity,Kim Carnes,74,60,6
+90,Anyone Can See,Irene Cara,-1,90,1
+91,Snap Shot,Slave,91,91,6
+92,"Pay The Devil (Ooo, Baby, Ooo)",The Knack,67,67,5
+93,In The Dark,Billy Squier,75,35,12
+94,I'm Your Superman,All Sports Band,-1,94,1
+95,I Surrender,Arlan Day,77,71,7
+96,La La Means I Love You,Tierra,78,72,6
+97,I Could Never Miss You (More Than I Do),Lulu,92,18,18
+98,Better Things,The Kinks,-1,98,1
+99,Queen Of Hearts,Juice Newton,93,2,27
+100,The Voice,The Moody Blues,94,15,17

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Eve Of Destruction,Barry McGuire,2,1,6
+2,Hang On Sloopy,The McCoys,7,2,7
+3,You Were On My Mind,We Five,4,3,10
+4,Catch Us If You Can,The Dave Clark Five,5,4,6
+5,Help!,The Beatles,1,1,8
+6,"The ""In"" Crowd",Ramsey Lewis Trio,6,6,9
+7,Like A Rolling Stone,Bob Dylan,3,2,10
+8,It Ain't Me Babe,The Turtles,8,8,8
+9,Heart Full Of Soul,The Yardbirds,10,9,9
+10,Laugh At Me,Sonny,14,10,6
+11,You've Got Your Troubles,The Fortunes,16,11,6
+12,Treat Her Right,Roy Head And The Traits,26,12,4
+13,We Gotta Get Out Of This Place,The Animals,18,13,7
+14,Baby Don't Go,Sonny & Cher,22,14,6
+15,Unchained Melody,The Righteous Brothers,11,4,11
+16,I Got You Babe,Sonny & Cher,9,1,12
+17,Do You Believe In Magic,The Lovin' Spoonful,28,17,6
+18,Action,Freddy Cannon,13,13,7
+19,California Girls,The Beach Boys,15,3,10
+20,Some Enchanted Evening,Jay & The Americans,43,20,4
+21,I'm Yours,Elvis Presley,32,21,5
+22,Agent Double-O-Soul,Edwin Starr,24,22,8
+23,"Hold Me, Thrill Me, Kiss Me",Mel Carter,17,8,14
+24,Summer Nights,Marianne Faithfull,27,24,7
+25,I'll Make All Your Dreams Come True,Ronnie Dove,33,25,5
+26,"Liar, Liar",The Castaways,31,26,7
+27,"Sad, Sad Girl",Barbara Mason,29,27,8
+28,Papa's Got A Brand New Bag (Part I),James Brown And The Famous Flames,12,8,11
+29,With These Hands,Tom Jones,37,29,5
+30,Ride Away,Roy Orbison,35,30,6
+31,The Tracks Of My Tears,The Miracles,20,16,11
+32,Just You,Sonny & Cher,42,32,5
+33,Mohair Sam,Charlie Rich,45,33,5
+34,Keep On Dancing,The Gentrys,59,34,3
+35,Houston,Dean Martin ,21,21,8
+36,I'm A Happy Man,The Jive Five,38,36,7
+37,Home Of The Brave,Jody Miller,48,37,5
+38,It's The Same Old Song,Four Tops,19,5,9
+39,Nothing But Heartaches,The Supremes,23,11,9
+40,Just A Little Bit Better,Herman's Hermits,64,40,2
+41,Who'll Be The Next In Line,The Kinks,34,34,7
+42,Heartaches By The Number,Johnny Tillotson,52,42,5
+43,Since I Lost My Baby,The Temptations,25,17,10
+44,Kansas City Star,Roger Miller,56,44,3
+45,Yesterday,The Beatles,-1,45,1
+46,It's Gonna Take A Miracle,The Royalettes,41,41,11
+47,Ain't It True,Andy Williams,58,47,4
+48,In The Midnight Hour,Wilson Pickett,39,21,12
+49,Down In The Boondocks,Billy Joe Royal,30,9,13
+50,You've Been In Love Too Long,Martha & The Vandellas,36,36,7
+51,Moonlight And Roses (Bring Mem'ries Of You),Vic Dana,53,51,8
+52,3rd Man Theme,Herb Alpert & The Tijuana Brass,69,52,3
+53,The Dawn Of Correction,The Spokesmen,72,53,2
+54,"My Town, My Guy And Me", Lesley Gore,68,54,3
+55,(My Girl) Sloopy,Little Caesar And The Consuls,50,50,7
+56,I Want To (Do Everything For You),Joe Tex,67,56,5
+57,First I Look At The Purse,The Contours,57,57,7
+58,Annie Fanny,The Kingsmen,47,47,8
+59,N-E-R-V-O-U-S!,Ian Whitcomb,60,59,4
+60,Make Me Your Baby,Barbara Lewis,88,60,3
+61,Danger Heartbreak Dead Ahead,The Marvelettes,62,61,7
+62,There But For Fortune,Joan Baez,71,62,3
+63,High Heel Sneakers,Stevie Wonder,63,63,5
+64,I Need You,The Impressions,65,64,7
+65,Two Different Worlds,Lenny Welch,66,65,6
+66,A Lover's Concerto,The Toys,93,66,3
+67,Hungry For Love,San Remo Golden Strings,82,67,3
+68,Respect,Otis Redding,70,68,4
+69,Cara-Lin, The Strangeloves,84,69,2
+70,I Live For The Sun,The Sunrays,77,70,4
+71,What Color (Is A Man),Bobby Vinton,87,71,2
+72,You're The One,The Vogues,90,72,2
+73,Not The Lovin' Kind,"Dino, Desi & Billy",89,73,2
+74,The Girl From Peyton Place,Dickey Lee,78,74,4
+75,These Hands (Small But Mighty),Bobby Bland,76,75,5
+76,I Knew You When,Billy Joe Royal,92,76,2
+77,Home Of The Brave,Bonnie & The Treasures,79,77,5
+78,Steppin' Out,Paul Revere & The Raiders,83,78,2
+79,Everyone's Gone To The Moon,Jonathan King,-1,79,1
+80,Roundabout,Connie Francis,80,80,3
+81,The World Through A Tear,Neil Sedaka,85,81,5
+82,Little Miss Sad,The Five Emprees,91,82,3
+83,Are You A Boy Or Are You A Girl, The Barbarians,-1,83,1
+84,Universal Soldier,Donovan,-1,84,1
+85,Everybody Loves A Clown,Gary Lewis And The Playboys,-1,85,1
+86,Colours,Donovan,61,61,7
+87,Act Naturally,The Beatles,-1,87,1
+88,Funny Little Butterflies,Patty Duke,-1,88,1
+89,Taste Of Honey,Herb Alpert & The Tijuana Brass,-1,89,1
+90,The Universal Soldier,Glen Campbell,-1,90,1
+91,Tossing & Turning,The Ivy League,97,91,2
+92,If You've Got A Heart,Bobby Goldsboro,-1,92,1
+93,1-2-3,Len Barry,-1,93,1
+94,The Sins Of A Family,P.F. Sloan,-1,94,1
+95,The Way Of Love,Kathy Kirby,99,95,2
+96,For Your Love,Sam & Bill,98,96,2
+97,How Nice It Is,Billy Stewart,100,97,2
+98,Road Runner,The Gants,-1,98,1
+99,You Can't Take It Away,Fred Hughes,-1,99,1
+100,Let's Move & Groove (Together),Johnny Nash,-1,100,1

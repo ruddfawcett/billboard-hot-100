@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Peppermint Twist - Part I,Joey Dee & the Starliters,1,1,12
+2,Duke Of Earl,Gene Chandler,7,2,5
+3,The Twist,Chubby Checker,3,1,31
+4,Can't Help Falling In Love,Elvis Presley With The Jordanaires,2,2,10
+5,I Know (You Don't Love Me No More),Barbara George,5,3,13
+6,Norman,Sue Thompson,4,4,10
+7,The Wanderer,Dion,6,6,10
+8,Break It To Me Gently,Brenda Lee,9,8,5
+9,A Little Bitty Tear,Burl Ives,12,9,8
+10,Dear Lady Twist,Gary U.S. Bonds,11,10,9
+11,Baby It's You,The Shirelles,8,8,8
+12,The Lion Sleeps Tonight,The Tokens,10,1,13
+13,Cotton Fields,The Highwaymen,18,13,11
+14,Crying In The Rain,The Everly Brothers,20,14,5
+15,Irresistible You,Bobby Darin,17,15,9
+16,When I Fall In Love,The Lettermen,14,7,12
+17,Town Without Pity,Gene Pitney,13,13,15
+18,Run To Him,Bobby Vee,15,2,13
+19,Letter Full Of Tears,Gladys Knight And The Pips,25,19,9
+20,She's Everything (I Wanted You To Be),Ral Donner,28,20,7
+21,Hey! Baby,Bruce Channel,52,21,3
+22,Shadrack,Brook Benton,22,22,5
+23,Walk On By,Leroy Van Dyke,16,5,15
+24,Chip Chip,Gene McDaniels,46,24,4
+25,Smoky Places,"The Corsairs Featuring Jay ""Bird"" Uzzell",33,25,7
+26,Tuff,Ace Cannon,37,26,7
+27,If You Gotta Make A Fool Of Somebody,James Ray,24,22,12
+28,I'm Blue (The Gong-Gong Song),The Ikettes,34,28,5
+29,Twist-Her,Bill Black's Combo,26,26,8
+30,Moon River,Henry Mancini And His Orchestra,29,11,18
+31,Do-Re-Mi,Lee Dorsey,27,27,8
+32,Multiplication,Bobby Darin,35,32,8
+33,Let There Be Drums,Sandy Nelson,23,7,15
+34,The Cajun Queen,Jimmy Dean,41,34,3
+35,Let Me In,The Sensations,43,35,6
+36,Unchain My Heart,Ray Charles and his Orchestra,21,9,11
+37,The Greatest Hurt,Jackie Wilson,40,37,5
+38,"Happy Birthday, Sweet Sixteen",Neil Sedaka,19,6,13
+39,Funny How Time Slips Away,Jimmy Elledge,36,22,13
+40,To A Sleeping Beauty,Jimmy Dean,47,40,4
+41,Surfer's Stomp,The Marketts,48,41,5
+42,My Boomerang Won't Come Back,Charlie Drake,58,42,5
+43,Dear Ivan,Jimmy Dean,31,24,6
+44,What's So Good About Good-by,The Miracles,62,44,5
+45,Percolator (Twist),Billy Joe & The Checkmates,53,45,5
+46,Go On Home,Patti Page,42,42,7
+47,Midnight In Moscow,Kenny Ball and his Jazzmen,79,47,2
+48,Chattanooga Choo Choo,Floyd Cramer,56,48,4
+49,Twistin' The Night Away,Sam Cooke,70,49,2
+50,Her Royal Majesty,James Darren,66,50,2
+51,I'll See You In My Dreams,Pat Boone,59,51,3
+52,Goodbye Cruel World,James Darren,45,3,17
+53,Pocketful Of Miracles,Frank Sinatra,39,34,8
+54,Afrikaan Beat,Bert Kaempfert And His Orchestra,61,54,4
+55,Turn On Your Love Light,Bobby Bland,32,28,10
+56,Twistin' Postman,The Marvelettes,73,56,3
+57,Happy Jose (Ching-Ching),Jack Ross,60,57,5
+58,Poor Fool,Ike & Tina Turner,44,38,11
+59,Lost Someone,James Brown And The Famous Flames,63,59,8
+60,She's Got You,Patsy Cline,71,60,3
+61,When The Boy In Your Arms (Is The Boy In Your Heart),Connie Francis,30,10,12
+62,Small Sad Sam,Phil McLean,38,21,10
+63,Cry To Me,Solomon Burke,78,63,3
+64,Where Have All The Flowers Gone,The Kingston Trio,72,64,4
+65,Flying Circle,Frank Slay And His Orchestra,57,45,9
+66,Don't Break The Heart That Loves You,Connie Francis,-1,66,1
+67,Please Mr. Postman,The Marvelettes,50,1,23
+68,He Knows I Love Him Too Much,The Paris Sisters,84,68,3
+69,I Could Have Loved You So Well,Ray Peterson,64,57,8
+70,My Melancholy Baby,The Marcels,91,70,2
+71,Dreamy Eyes,Johnny Tillotson,68,35,19
+72,What's Your Name,Don & Juan,-1,72,1
+73,Nite Owl,Dukays,88,73,4
+74,(Do The New) Continental,The Dovells,93,74,3
+75,That's My Pa,Sheb Wooley,80,75,6
+76,Ecstasy,Ben E. King,95,76,2
+77,Drums Are My Beat,Sandy Nelson,-1,77,1
+78,Oliver Twist,Rod McKuen,85,78,3
+79,The Majestic,Dion,-1,36,7
+80,B'wa Nina (Pretty Girl),The Tokens,-1,80,1
+81,Jamie,Eddie Holland,94,81,4
+82,Lizzie Borden,The Chad Mitchell Trio,76,76,3
+83,What's The Reason,Bobby Edwards,74,71,5
+84,Let Me Call You Sweetheart,Timi Yuro,96,84,2
+85,Blue Water Line,The Brothers Four,89,85,4
+86,Tears And Laughter,Dinah Washington,-1,86,1
+87,A Little Too Much,Clarence Henry,81,77,5
+88,Bandit Of My Dreams,Eddie Hodges,82,82,3
+89,Midnight,Johnny Gibson,90,89,2
+90,Let's Go,Floyd Cramer,98,90,2
+91,Do You Know How To Twist,Hank Ballard,-1,91,1
+92,Bermuda,Linda Scott,-1,92,1
+93,"Aw Shucks, Hush Your Mouth",Jimmy Reed,-1,93,2
+94,Rough Lover,Aretha Franklin,-1,94,1
+95,"Shimmy, Shimmy Walk, Part 1",The Megatons,-1,93,2
+96,Yessiree,Linda Scott,-1,96,1
+97,"I Surrender, Dear",Aretha Franklin,97,97,2
+98,Pictures In The Fire,Pat Boone,-1,98,1
+99,Sugar Babe,Buster Brown,100,99,2
+100,Strange,Patsy Cline,-1,100,1

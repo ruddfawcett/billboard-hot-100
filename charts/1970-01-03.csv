@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Raindrops Keep Fallin' On My Head,B.J. Thomas,3,1,10
+2,Leaving On A Jet Plane,"Peter, Paul & Mary",2,1,11
+3,Someday We'll Be Together,Diana Ross & The Supremes,1,1,9
+4,Down On The Corner/Fortunate Son,Creedence Clearwater Revival,4,3,11
+5,Na Na Hey Hey Kiss Him Goodbye,Steam,5,1,12
+6,Whole Lotta Love,Led Zeppelin,9,6,7
+7,I Want You Back,Jackson 5,8,7,8
+8,Venus,The Shocking Blue,19,8,4
+9,Holly Holy,Neil Diamond,6,6,10
+10,La La La (If I Had You),Bobby Sherman,14,10,7
+11,Midnight Cowboy,Ferrante & Teicher,11,11,10
+12,Come Together/Something,The Beatles,7,1,12
+13,Jam Up Jelly Tight,Tommy Roe,20,13,8
+14,Eli's Coming,Three Dog Night,12,10,11
+15,Don't Cry Daddy/Rubberneckin',Elvis Presley,23,15,6
+16,Take A Letter Maria,R.B. Greaves,10,2,12
+17,Jingle Jangle,The Archies,22,17,6
+18,Early In The Morning,Vanity Fare,30,18,7
+19,Backfield In Motion,Mel And Tim,18,10,12
+20,And When I Die,"Blood, Sweat & Tears",15,2,12
+21,These Eyes,Jr. Walker & The All Stars,16,16,11
+22,Evil Woman Don't Play Your Games With Me,CROW,28,22,11
+23,"Yester-Me, Yester-You, Yesterday",Stevie Wonder,13,7,12
+24,Friendship Train,Gladys Knight And The Pips,17,17,11
+25,Up On Cripple Creek,The Band,26,25,10
+26,Smile A Little Smile For Me,The Flying Machine,24,5,14
+27,A Brand New Me,Dusty Springfield,27,24,9
+28,She,Tommy James And The Shondells,34,28,4
+29,Without Love (There Is Nothing),Tom Jones,50,29,2
+30,"Baby, I'm For Real",The Originals,25,14,15
+31,Ain't It Funky Now (Part 1),James Brown,36,31,7
+32,Wedding Bell Blues,The 5th Dimension,29,1,15
+33,Cold Turkey,Plastic Ono Band,33,33,8
+34,Cherry Hill Park,Billy Joe Royal,21,15,14
+35,Winter World Of Love,Engelbert Humperdinck,41,35,5
+36,Heaven Knows,The Grass Roots,31,24,9
+37,"Wonderful World, Beautiful People",Jimmy Cliff,39,37,5
+38,She Belongs To Me,Rick Nelson,56,38,12
+39,Point It Out,Smokey Robinson & The Miracles,40,39,4
+40,I'll Never Fall In Love Again,Dionne Warwick,51,40,2
+41,Okie From Muskogee,Merle Haggard And The Strangers,42,41,10
+42,Cupid,Johnny Nash,43,42,9
+43,Arizona,Mark Lindsay,47,43,5
+44,Fancy,Bobbie Gentry,53,44,7
+45,Walkin' In The Rain,Jay & The Americans,54,45,7
+46,She Came In Through The Bathroom Window,Joe Cocker,58,46,5
+47,Don't Let Love Hang You Up,Jerry Butler,44,44,8
+48,Don't Let Him Take Your Love From Me,Four Tops,45,45,5
+49,Sunday Mornin',Oliver,35,35,7
+50,Let's Work Together (Part 1),Wilbert Harrison,55,50,5
+51,Baby Take Me In Your Arms,Jefferson,64,51,3
+52,What You Gave Me,Marvin Gaye & Tammi Terrell,49,49,6
+53,No Time,The Guess Who,70,53,3
+54,Walk A Mile In My Shoes,Joe South and The Believers,-1,54,1
+55,When Julie Comes Around,The Cuff Links,63,55,4
+56,Let A Man Come In And Do The Popcorn (Part Two),James Brown,66,56,3
+57,Hey There Lonely Girl,Eddie Holman,73,57,2
+58,Tonight I'll Say A Prayer,Eydie Gorme,72,58,6
+59,Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star,Sly & The Family Stone,-1,59,1
+60,I'll Hold Out My Hand,The Clique,57,45,7
+61,One Tin Soldier,The Original Caste,62,61,8
+62,I'm So Glad I Fell For You, David Ruffin,67,62,3
+63,Kozmic Blues,Janis Joplin,48,41,9
+64,Monster,Steppenwolf,71,64,2
+65,You Got To Pay The Price,Gloria Taylor,59,49,9
+66,Traces/Memories Medley,The Lettermen,75,66,2
+67,Love Bones,Johnnie Taylor,77,67,3
+68,She Lets Her Hair Down (Early In The Morning),The Tokens,68,68,4
+69,Turn! Turn! Turn!/To Everything There Is A Season,Judy Collins,69,69,6
+70,Can't Take My Eyes Off You,Nancy Wilson,52,52,7
+71,Midnight,Dennis Yost And The Classics IV,61,58,8
+72,Look-Ka Py Py,The Meters,80,72,5
+73,Are You Getting Any Sunshine?,Lou Christie,81,73,3
+74,I Love You,Otis Leavill,76,74,6
+75,Bold Soul Sister,Ike & Tina Turner,86,75,3
+76,Oh Me Oh My (I'm A Fool For You Baby),Lulu,88,76,2
+77,Blowing Away,The 5th Dimension,-1,77,1
+78,Volunteers,Jefferson Airplane,65,65,9
+79,Is It Because I'm Black,Syl Johnson,79,79,4
+80,Together,The Illusion,82,80,3
+81,Hold On,The Rascals,-1,81,1
+82,Six White Horses,Tommy Cash,83,82,4
+83,Come Saturday Morning,The Sandpipers,84,83,3
+84,"To Be Young, Gifted And Black",Nina Simone,85,84,4
+85,Groovin' (Out On Life),The Newbeats,87,85,3
+86,I'm Gonna Love You,The Intrigues,89,86,3
+87,Jennifer Tomkins,Street People,-1,87,1
+88,"He Ain't Heavy, He's My Brother",The Hollies,93,88,3
+89,Won't Find Better (Than Me),The New Hope,-1,89,1
+90,A World Without Music,Archie Bell & The Drells,92,90,2
+91,I Started Loving You Again,Al Martino,91,91,3
+92,The Thrill Is Gone,B.B. King,100,92,2
+93,She Lets Her Hair Down (Early In The Morning),Gene Pitney,-1,93,2
+94,"Theme Music For The Film ""2001"" A Space Odyssey from Also Sprach Zarathustr",Berlin Philharmonic,-1,94,1
+95,Theme From Electric Surfboard,Brother Jack McDuff,95,95,2
+96,Want You To Know,Rotary Connection,-1,96,1
+97,I'm Just A Prisoner (Of Your Good Lovin'),Candi Staton,-1,97,1
+98,The Gangs Back Again,Kool & The Gang,98,98,2
+99,Guess Who,Ruby Winters,99,99,2
+100,Moon Walk Part 1,Joe Simon,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You Light Up My Life,Debby Boone,1,1,9
+2,Nobody Does It Better,Carly Simon,2,2,15
+3,That's Rock 'N' Roll,Shaun Cassidy,3,3,15
+4,Boogie Nights,Heatwave,5,4,15
+5,Keep It Comin' Love,KC And The Sunshine Band,4,2,14
+6,Brick House,Commodores,7,6,10
+7,I Feel Love,Donna Summer,8,7,13
+8,It's Ecstasy When You Lay Down Next To Me,Barry White,11,8,11
+9,Star Wars Theme/Cantina Band,Meco,9,1,13
+10,Don't It Make My Brown Eyes Blue,Crystal Gayle,12,10,12
+11,"Baby, What A Big Surprise",Chicago,17,11,6
+12,Heaven On The 7th Floor,Paul Nicholas,14,12,11
+13,The King Is Gone,Ronnie McDowell,13,13,8
+14,Cold As Ice,Foreigner,6,6,15
+15,How Deep Is Your Love,Bee Gees,20,15,6
+16,Just Remember I Love You,Firefall,18,16,12
+17,We're All Alone,Rita Coolidge,26,17,7
+18,"Signed, Sealed, Delivered (I'm Yours)",Peter Frampton,19,18,10
+19,Swayin' To The Music (slow Dancin'),Johnny Rivers,10,10,19
+20,Surfin' USA,Leif Garrett,21,20,10
+21,Blue Bayou,Linda Ronstadt,32,21,8
+22,Help Is On Its Way,Little River Band,24,22,13
+23,Do Ya Wanna Get Funky With Me,Peter Brown,29,23,7
+24,She Did It,Eric Carmen,25,24,10
+25,Dusic,Brick,28,25,9
+26,We Just Disagree,Dave Mason,30,26,9
+27,I Just Want To Be Your Everything,Andy Gibb,15,1,28
+28,On And On,Stephen Bishop,22,11,25
+29,It Was Almost Like A Song,Ronnie Milsap,16,16,20
+30,Send In The Clowns,Judy Collins,36,30,17
+31,Daybreak,Barry Manilow,37,31,5
+32,Isn't It Time,The Babys,58,32,4
+33,I Just Want To Make Love To You,Foghat,33,33,15
+34,It's So Easy,Linda Ronstadt,49,34,4
+35,Come Sail Away,Styx,50,35,6
+36,My Fair Share,Seals & Crofts,39,36,9
+37,I Go Crazy,Paul Davis,41,37,10
+38,"Changes In Latitudes, Changes In Attitudes",Jimmy Buffett,38,38,7
+39,Do Your Dance - Part 1,Rose Royce,40,39,7
+40,You Make Loving Fun,Fleetwood Mac,60,40,3
+41,Doctor Love,First Choice,43,41,7
+42,Thunder In My Heart,Leo Sayer,46,42,4
+43,A Place In The Sun,Pablo Cruise,42,42,7
+44,Way Down,Elvis Presley,45,18,19
+45,Slip Slidin' Away,Paul Simon,63,45,3
+46,Calling Occupants Of Interplanetary Craft,Carpenters,47,46,4
+47,Gone Too Far,England Dan & John Ford Coley,51,47,5
+48,Your Smiling Face,James Taylor,52,48,5
+49,Fair Game,"Crosby, Stills & Nash",54,49,5
+50,Baby Come Back,Player,55,50,5
+51,Best Of My Love,The Emotions,23,1,21
+52,(Every Time I Turn Around) Back In Love Again,LTD,64,52,3
+53,I Wouldn't Want To Be Like You,Alan Parsons,53,36,11
+54,Swingtown,The Steve Miller Band,65,54,3
+55,I Believe You,Dorothy Moore,27,27,13
+56,She's Not There,Santana,66,56,4
+57,Goin' Places,The Jacksons,67,57,4
+58,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,69,58,7
+59,Here You Come Again,Dolly Parton,71,59,3
+60,The Happy Girls,Helen Reddy,70,60,4
+61,Love Gun,KISS,61,61,6
+62,Hard Times,Boz Scaggs,74,62,3
+63,Telephone Line,Electric Light Orchestra,31,7,21
+64,Sentimental Lady,Bob Welch,75,64,3
+65,Don't Stop,Fleetwood Mac,34,3,17
+66,Strawberry Letter 23,The Brothers Johnson,35,5,18
+67,The Way I Feel Tonight,Bay City Rollers,78,67,3
+68,Draw The Line,Aerosmith,79,68,2
+69,Another Star,Stevie Wonder,59,32,10
+70,The Greatest Love Of All,George Benson,44,24,14
+71,Devil's Gun,C.J. & Company,48,36,24
+72,Jungle Love,The Steve Miller Band,56,23,13
+73,Star Wars (Main Title),London Symphony Orchestra,57,10,17
+74,Stone Cold Sober,Crawler,82,74,3
+75,We Will Rock You/We Are The Champions,Queen,87,75,2
+76,Echoes Of Love,The Doobie Brothers,80,76,4
+77,Silver Lady,David Soul,77,52,8
+78,From Graceland To The Promised Land,Merle Haggard,90,78,2
+79,Georgia Rhythm,Atlanta Rhythm Section,81,79,3
+80,You're In My Heart (The Final Acclaim),Rod Stewart,-1,80,1
+81,Falling,LeBlanc & Carr,83,81,3
+82,"Money, Money, Money",ABBA,84,82,2
+83,Why Do Lovers (Break Each Other's Heart?),Daryl Hall John Oates,85,83,2
+84,Time Bomb,Lake,86,84,2
+85,You're Moving Out Today,Carole Bayer Sager,91,85,3
+86,Don't Ask My Neighbors,The Emotions,-1,86,1
+87,Serpentine Fire,"Earth, Wind & Fire",-1,87,1
+88,Spaceship Superstar,Prism,93,88,2
+89,Heaven On Earth (So Fine),The Spinners,89,89,4
+90,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,-1,90,1
+91,Don't Let The Flame Burn Out,Jackie DeShannon,-1,91,1
+92,Shake It Well,The Dramatics,96,92,2
+93,We Never Danced To A Love Song,The Manhattans,-1,93,1
+94,It Ain't Love,Tom Powers,94,94,4
+95,Easy,Commodores,95,4,22
+96,Handy Man,James Taylor,76,4,20
+97,My Eyes Get Blurry,Kenny Nolan,97,97,3
+98,"Started Out Dancing, Ended Up Making Love",Alan O'Day,73,73,5
+99,(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,99,2,26
+100,Ten To Eight,David Castle,68,68,6

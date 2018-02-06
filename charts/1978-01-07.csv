@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,How Deep Is Your Love,Bee Gees,1,1,16
+2,Baby Come Back,Player,6,2,15
+3,Blue Bayou,Linda Ronstadt,3,3,18
+4,(Every Time I Turn Around) Back In Love Again,LTD,4,4,13
+5,Here You Come Again,Dolly Parton,8,5,13
+6,You Light Up My Life,Debby Boone,2,1,19
+7,Slip Slidin' Away,Paul Simon,10,7,13
+8,Sentimental Lady,Bob Welch,9,8,13
+9,You're In My Heart (The Final Acclaim),Rod Stewart,11,9,11
+10,Hey Deanie,Shaun Cassidy,15,10,9
+11,Come Sail Away,Styx,14,11,16
+12,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,12,12,17
+13,We Will Rock You/We Are The Champions,Queen,18,13,12
+14,Runaround Sue,Leif Garrett,19,14,9
+15,It's So Easy,Linda Ronstadt,5,5,14
+16,Don't It Make My Brown Eyes Blue,Crystal Gayle,7,2,22
+17,Short People,Randy Newman,20,17,9
+18,Just The Way You Are,Billy Joel,28,18,9
+19,Serpentine Fire,"Earth, Wind & Fire",24,19,11
+20,Turn To Stone,Electric Light Orchestra,27,20,8
+21,I Go Crazy,Paul Davis,23,21,20
+22,My Way,Elvis Presley,22,22,9
+23,(Love Is) Thicker Than Water,Andy Gibb,32,23,10
+24,The Way I Feel Tonight,Bay City Rollers,26,24,13
+25,Sometimes When We Touch,Dan Hill,40,25,7
+26,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,30,26,11
+27,Gettin' Ready For Love,Diana Ross,29,27,10
+28,Stayin' Alive,Bee Gees,39,28,5
+29,Desiree,Neil Diamond,35,29,6
+30,Point Of Know Return,Kansas,34,30,9
+31,Don't Let Me Be Misunderstood,Santa Esmeralda Starring Leroy Gomez,33,31,10
+32,Isn't It Time,The Babys,13,13,14
+33,Native New Yorker,Odyssey,36,33,9
+34,Girls' School,Wings,37,34,8
+35,We're All Alone,Rita Coolidge,16,7,17
+36,Swingtown,The Steve Miller Band,17,17,13
+37,Emotion,Samantha Sang,41,37,8
+38,What's Your Name,Lynyrd Skynyrd,52,38,6
+39,(You're My) Soul And Inspiration,Donny & Marie Osmond,43,39,8
+40,Peg,Steely Dan,44,40,8
+41,Bloat On Featuring the Bloaters,Cheech & Chong,42,41,9
+42,As,Stevie Wonder,49,39,10
+43,Tried To Love,Peter Frampton,47,43,5
+44,If You're Not Back In Love By Monday,Millie Jackson,48,44,8
+45,Lovely Day,Bill Withers,46,45,5
+46,How Can I Leave You Again,John Denver,53,46,7
+47,"Long, Long Way From Home",Foreigner,59,47,5
+48,Wrap Your Arms Around Me,KC And The Sunshine Band,50,48,6
+49,Too Hot Ta Trot,Commodores,56,49,4
+50,Ffun,ConFunkShun,75,50,4
+51,You Make Loving Fun,Fleetwood Mac,21,9,13
+52,The Next Hundred Years,Al Martino,64,52,5
+53,Street Corner Serenade,Wet Willie,55,53,6
+54,"Baby, What A Big Surprise",Chicago,25,4,16
+55,Easy To Love,Leo Sayer,66,55,5
+56,Heaven On The 7th Floor,Paul Nicholas,31,6,21
+57,Breakdown,Tom Petty And The Heartbreakers,68,57,10
+58,Your Smiling Face,James Taylor ,38,20,15
+59,Boogie Nights,Heatwave,45,2,25
+60,Falling,LeBlanc & Carr,71,60,13
+61,Theme From Close Encounters,Meco,-1,61,1
+62,Sweet Music Man,Kenny Rogers,73,62,4
+63,I Love You,Donna Summer,77,63,4
+64,Happy Anniversary,Little River Band,84,64,4
+65,You Make Me Crazy,Sammy Hagar,67,65,5
+66,Thunder Island,Jay Ferguson,78,66,4
+67,The Name Of The Game,ABBA,82,67,3
+68,Mind Bender,Stillwater,79,68,6
+69,God Only Knows,Marilyn Scott,74,69,5
+70,Rockaway Beach,Ramones,70,70,6
+71,"Theme From ""Close Encounters Of The Third Kind""",John Williams,81,71,3
+72,Any Way You Want Me,The Sylvers,72,72,7
+73,"Curious Mind (Um, Um, Um, Um, Um, Um)",Johnny Rivers,85,73,3
+74,Was Dog A Doughnut,Cat Stevens,76,74,8
+75,Lay Down Sally,Eric Clapton,-1,75,1
+76,Don't Ask My Neighbors,The Emotions,51,44,11
+77,It's Ecstasy When You Lay Down Next To Me,Barry White,57,4,21
+78,Always And Forever,Heatwave,-1,78,1
+79,Galaxy,War,-1,79,1
+80,Ooh Boy,Rose Royce,86,80,7
+81,"If It Don't Fit, Don't Force It",Kellee Patterson,83,81,4
+82,Crazy On You,Heart,-1,35,14
+83,Cocomotion,El Coco,91,83,7
+84,Le Spank,Le Pamplemousse,89,84,7
+85,What A Difference You've Made In My Life,Ronnie Milsap,87,85,3
+86,Goodbye Girl,David Gates,88,86,4
+87,Reach For It,George Duke,-1,87,1
+88,Boats Against The Current,Eric Carmen,90,88,3
+89,The Loneliest Man On The Moon,David Castle,-1,89,1
+90,Take Me To The Kaptin,Prism,-1,90,1
+91,Until Now,Bobby Arvon,92,91,6
+92,Don't Let It Show,The Alan Parsons Project,93,92,4
+93,She's Not There,Santana ,54,27,14
+94,Come Go With Me,Pockets,-1,94,1
+95,Calling Occupants Of Interplanetary Craft,Carpenters,58,32,14
+96,We Just Disagree,Dave Mason,61,12,19
+97,Send In The Clowns,Judy Collins,63,19,27
+98,Belle,Al Green,-1,98,1
+99,Nobody Does It Better,Carly Simon,62,2,25
+100,I Feel Love,Donna Summer,65,6,23

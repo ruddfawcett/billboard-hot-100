@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I'll Take You There,The Staple Singers,2,1,9
+2,Oh Girl,The Chi-lites,1,1,9
+3,The First Time Ever I Saw Your Face,Roberta Flack,3,1,14
+4,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",5,4,13
+5,Sylvia's Mother,Dr. Hook And The Medicine Show,9,5,10
+6,Morning Has Broken,Cat Stevens,6,6,10
+7,Tumbling Dice,The Rolling Stones,7,7,6
+8,Nice To Be With You,Gallery,11,8,15
+9,Hot Rod Lincoln,Commander Cody & His Lost Planet Airmen,10,9,11
+10,Look What You Done For Me,Al Green,4,4,10
+11,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,12,11,10
+12,Song Sung Blue,Neil Diamond,18,12,5
+13,Little Bitty Pretty One,Jackson 5,13,13,7
+14,Walkin' In The Rain With The One I Love,Love Unlimited,20,14,10
+15,It's Going To Take Some Time,Carpenters,17,15,6
+16,Diary,Bread,19,16,7
+17,Outa-Space,Billy Preston,28,17,7
+18,I Saw The Light,Todd Rundgren,21,18,9
+19,Troglodyte (Cave Man),The Jimmy Castor Bunch,29,19,4
+20,I Gotcha,Joe Tex,8,2,20
+21,"Betcha By Golly, Wow","The Stylistics Featuring Russell Thompkins,Jr.",14,3,15
+22,Me And Julio Down By The Schoolyard,Paul Simon,22,22,9
+23,Amazing Grace,The Pipes And Drums And The Military Band Of The Royal Scots Dragoon Guards,31,23,3
+24,Taxi,Harry Chapin,25,24,13
+25,Slippin' Into Darkness,War,16,16,20
+26,Lean On Me,Bill Withers,36,26,7
+27,I Need You,America,38,27,3
+28,Someday Never Comes,Creedence Clearwater Revival,34,28,5
+29,Ask Me What You Want,Millie Jackson,30,29,11
+30,Isn't Life Strange,The Moody Blues,32,30,7
+31,Old Man,Neil Young,33,31,6
+32,Rocket Man,Elton John,40,32,5
+33,I've Been Lonely For So Long,Frederick Knight,39,33,7
+34,"Love Theme From ""The Godfather"" (Speak Softly Love)",Andy Williams,35,34,9
+35,Day Dreaming,Aretha Franklin,15,5,12
+36,Doctor My Eyes,Jackson Browne,24,8,12
+37,Living In A House Divided,Cher,54,37,3
+38,"Vincent (Starry, Starry Night)/Castles In The Air",Don McLean,27,12,12
+39,Long Haired Lover From Liverpool,Little Jimmy Osmond with The Mike Curb Congregation,41,39,7
+40,Automatically Sunshine,The Supremes,43,40,5
+41,Immigration Man,Graham Nash & David Crosby,46,41,5
+42,Daddy Don't You Walk So Fast,Wayne Newton,49,42,7
+43,How Can I Be Sure,David Cassidy,50,43,3
+44,There It Is (Part 1),James Brown,44,44,5
+45,Everything Good Is Bad,100 Proof Aged in Soul,45,45,10
+46,Walk In The Night,Jr. Walker & The All Stars,47,46,10
+47,Back Off Boogaloo,Ringo Starr,23,9,10
+48,Rockin' Robin,Michael Jackson,26,2,13
+49,I Wanna Be Where You Are,Michael Jackson,59,49,2
+50,You're The Man (Part 1),Marvin Gaye,53,50,3
+51,You Could Have Been A Lady,April Wine,37,32,11
+52,Smilin',Sly & The Family Stone,42,42,7
+53,Too Late To Turn Back Now,Cornelius Brothers & Sister Rose,73,53,2
+54,Day By Day,Godspell,72,54,3
+55,How Do You Do?,Mouth & MacNeal,58,55,6
+56,Layla,Derek & The Dominos,62,51,14
+57,Hot 'N' Nasty,Humble Pie,60,57,5
+58,You Said A Bad Word,Joe Tex,63,58,3
+59,Superwoman (Where Were You When I Needed You),Stevie Wonder,64,59,3
+60,Woman's Gotta Have It,(The Preacher) Bobby Womack,61,60,5
+61,Woman Is The Nigger Of The World,John Lennon/Plastic Ono Band With Elephant's Memory,65,61,3
+62,I'm Movin' On,John Kay,52,52,7
+63,Conquistador,Procol Harum,84,63,2
+64,(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,-1,64,1
+65,We're Free,Beverly Bremers,68,65,6
+66,"Love Theme From ""The Godfather""",Carlo Savina,67,66,7
+67,It Doesn't Matter,Stephen Stills,76,67,2
+68,Life And Breath,Climax featuring Sonny Geraci,70,68,5
+69,Powder Blue Mercedes Queen,The Raiders,71,69,3
+70,An American Trilogy,Elvis Presley,66,66,5
+71,To Get To You,Jerry Wallace,48,48,12
+72,After Midnight,J.J. Cale,83,72,3
+73,"Guns, Guns, Guns",The Guess Who,79,73,3
+74,People Make The World Go Round,The Stylistics,-1,74,1
+75,All The Kings Horses,Aretha Franklin,-1,75,1
+76,You Are The One,Sugar Bears,55,51,13
+77,Kate,Johnny Cash And The Tennessee Three,78,77,4
+78,The Happiest Girl In The Whole U.S.A.,Donna Fargo,82,78,2
+79,Take It Easy,Eagles,-1,79,1
+80,The Young New Mexican Puppeteer,Tom Jones,80,80,6
+81,Victim Of A Foolish Heart,Bettye Swann,91,81,2
+82,Beautiful,Gordon Lightfoot,96,82,2
+83,Francene,ZZ Top,88,83,3
+84,"Just As Long As You Need Me, Part I",Independents,85,84,4
+85,Giving Up,Donny Hathaway,87,85,4
+86,Ain't That Loving You (For More Reasons Than One),Isaac Hayes & David Porter,86,86,4
+87,I Only Have Eyes For You,Jerry Butler,89,87,3
+88,School's Out,Alice Cooper,-1,88,1
+89,Funk Factory,Wilson Pickett,93,89,2
+90,We're On Our Way,Chris Hodge,-1,90,1
+91,Baby Let Me Take You (In My Arms),Detroit Emeralds,92,91,2
+92,I Got Some Help I Don't Need,B.B. King,95,92,5
+93,In A Broken Dream,Python Lee Jackson,94,93,2
+94,Gone,Joey Heatherton,97,94,2
+95,Pass The Peas,The JB's,99,95,2
+96,Bring It Home (And Give It To Me),Hot Sauce,98,96,3
+97,"Getting It On/Ride, Sally, Ride",Dennis Coffey & The Detroit Guitar Band,-1,97,1
+98,I Thank You,Donny Hathaway And June Conquest,100,98,2
+99,Vanilla Ólay,Jackie DeShannon,-1,99,1
+100,Beautiful Sunday,Daniel Boone,-1,100,1

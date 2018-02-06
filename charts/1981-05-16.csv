@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Bette Davis Eyes,Kim Carnes,5,1,8
+2,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",2,2,14
+3,Being With You,Smokey Robinson,3,3,14
+4,Angel Of The Morning,Juice Newton,4,4,13
+5,Morning Train (Nine To Five),Sheena Easton,1,1,14
+6,Take It On The Run,REO Speedwagon,7,6,9
+7,Living Inside Myself,Gino Vannelli,8,7,9
+8,Sukiyaki,A Taste Of Honey,9,8,11
+9,Kiss On My List,Daryl Hall John Oates,6,1,17
+10,Too Much Time On My Hands,Styx,12,10,9
+11,Watching The Wheels,John Lennon,13,11,8
+12,I Can't Stand It,Eric Clapton And His Band,10,10,12
+13,Sweetheart,Franke & The Knockouts,16,13,11
+14,Medley,Stars On 45,21,14,6
+15,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,20,15,11
+16,How 'bout Us,Champaign,19,16,14
+17,Ain't Even Done With The Night,John Cougar,17,17,16
+18,You Better You Bet,The Who,18,18,9
+19,I Love You,Climax Blues Band,22,19,13
+20,America,Neil Diamond,27,20,4
+21,I Missed Again,Phil Collins,23,21,9
+22,Say You'll Be Mine,Christopher Cross,24,22,8
+23,What Are We Doin' In Love,Dottie West with Kenny Rogers,25,23,8
+24,Love You Like I Never Loved Before,John O'Banion,26,24,8
+25,This Little Girl,Gary U.S. Bonds,31,25,4
+26,Since I Don't Have You, Don McLean,30,26,6
+27,Hold On Loosely,38 Special,28,27,12
+28,Somebody's Knockin',Terri Gibbs,29,13,18
+29,Her Town Too,James Taylor & J.D. Souther,11,11,10
+30,Find Your Way Back,Jefferson Starship,32,30,7
+31,Rapture,Blondie,14,1,16
+32,Ai No Corrida (I-No-Ko-ree-da),Quincy Jones,39,32,6
+33,Jessie's Girl,Rick Springfield,38,33,8
+34,Blessed Are The Believers,Anne Murray,36,34,8
+35,While You See A Chance,Steve Winwood,15,7,15
+36,Don't Stand So Close To Me,The Police,33,10,15
+37,I Loved 'em Every One,T.G. Sheppard,41,37,10
+38,You Make My Dreams,Daryl Hall John Oates,67,38,3
+39,The Waiting,Tom Petty And The Heartbreakers,48,39,3
+40,Winning,Santana,45,40,6
+41,But You Know I Love You,Dolly Parton,43,41,7
+42,Keep On Loving You,REO Speedwagon,35,1,25
+43,Just So Lonely,Get Wet,57,43,4
+44,Still Right Here In My Heart,Pure Prairie League,55,44,5
+45,Fool In Love With You,Jim Photoglo,54,45,5
+46,Super Trouper,ABBA,46,46,7
+47,Time,The Alan Parsons Project,56,47,5
+48,Is It You,Lee Ritenour,65,48,4
+49,I've Been Waiting For You All Of My Life,Paul Anka,59,49,5
+50,Give A Little Bit More,Cliff Richard,60,50,4
+51,Woman,John Lennon,34,2,18
+52,I Can Take Care Of Myself,Billy & The Beaters,62,52,4
+53,Say What,Jesse Winchester,66,53,4
+54,Wasn't That A Party,The Rovers,37,37,13
+55,One Day In Your Life,Michael Jackson,58,55,5
+56,Seven Year Ache,Rosanne Cash,68,56,4
+57,Nobody Wins,Elton John,71,57,2
+58,Hurry Up And Wait,The Isley Brothers,63,58,5
+59,The One That You Love,Air Supply,-1,59,1
+60,You Like Me Don't You,Jermaine Jackson,70,60,5
+61,The Best Of Times,Styx,42,3,17
+62,Crying,Don McLean,44,5,17
+63,Just Between You And Me,April Wine,47,21,15
+64,Lately,Stevie Wonder,64,64,6
+65,Make That Move,Shalamar,69,65,4
+66,Sweet Baby,Stanley Clarke/George Duke,73,66,3
+67,Modern Girl,Sheena Easton,81,67,2
+68,Time Out Of Mind,Steely Dan,40,22,10
+69,Don't Stop The Music,Yarbrough & Peoples,50,19,15
+70,"Mercy, Mercy, Mercy",Phoebe Snow,80,70,3
+71,Arc Of A Diver,Steve Winwood,82,71,2
+72,It's A Love Thing,The Whispers,49,28,14
+73,"Theme From ""Greatest American Hero"" (Believe It or Not)",Joey Scarbury,85,73,2
+74,Turn Me Loose,Loverboy,51,35,16
+75,Mister Sandman,Emmylou Harris,52,37,12
+76,You're So Easy To Love,Tommy James,86,76,2
+77,Can You Feel It,The Jacksons,79,77,3
+78,Elvira,The Oak Ridge Boys,-1,78,1
+79,Almost Saturday Night,Dave Edmunds,87,79,2
+80,Lovin' The Night Away,The Dillman Band,88,80,2
+81,Shaddap You Face,Joe Dolce,89,81,3
+82,Next Time You'll Know,Sister Sledge,90,82,2
+83,Stronger Than Before,Carole Bayer Sager,-1,83,1
+84,The Stroke,Billy Squier,-1,84,1
+85,The Party's Over (Hopelessly In Love),Journey,53,34,12
+86,Double Dutch Bus,Frankie Smith,-1,86,1
+87,What Cha' Gonna Do For Me,Chaka Khan,-1,87,1
+88,Two Hearts,Stephanie Mills Featuring Teddy Pendergrass,-1,88,1
+89,Jones Vs. Jones,Kool & The Gang,-1,89,1
+90,Rain In May,Max Werner,-1,90,1
+91,9 To 5,Dolly Parton,61,1,25
+92,Celebration,Kool & The Gang,72,1,30
+93,What Kind Of Fool,Barbra Streisand & Barry Gibb,74,10,16
+94,Hello Again,Neil Diamond,76,6,16
+95,I Love A Rainy Night,Eddie Rabbitt,75,1,28
+96,Treat Me Right,Pat Benatar,84,18,18
+97,Lonely Together,Barry Manilow,83,45,10
+98,I Don't Need You,Rupert Holmes,77,56,7
+99,The Winner Takes It All,ABBA,92,8,26
+100,Seduced,Leon Redbone,91,72,6

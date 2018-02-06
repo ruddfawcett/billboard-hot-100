@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Got You Babe,Sonny & Cher,1,1,7
+2,Save Your Heart For Me,Gary Lewis And The Playboys,3,2,8
+3,Help!,The Beatles,14,3,3
+4,California Girls,The Beach Boys,9,4,5
+5,Unchained Melody,The Righteous Brothers,6,5,6
+6,(I Can't Get No) Satisfaction,The Rolling Stones,2,1,11
+7,It's The Same Old Song,Four Tops,7,7,4
+8,Don't Just Stand There,Patty Duke,8,8,9
+9,"I'm Henry VIII, I Am",Herman's Hermits,4,1,8
+10,Down In The Boondocks,Billy Joe Royal,10,10,8
+11,"Baby, I'm Yours",Barbara Lewis,12,11,10
+12,What's New Pussycat?,Tom Jones,5,3,10
+13,"Hold Me, Thrill Me, Kiss Me", Mel Carter,15,13,9
+14,Papa's Got A Brand New Bag (Part I),James Brown And The Famous Flames,20,14,6
+15,All I Really Want To Do,Cher,18,15,8
+16,Like A Rolling Stone,Bob Dylan,26,16,5
+17,You Were On My Mind,We Five,22,17,5
+18,Nothing But Heartaches,The Supremes,27,18,4
+19,Take Me Back,Little Anthony And The Imperials,16,16,9
+20,I'm A Fool,"Dino, Desi & Billy",17,17,9
+21,I Want Candy,The Strangeloves,11,11,9
+22,You'd Better Come Home,Petula Clark,23,22,7
+23,The Tracks Of My Tears,The Miracles,30,23,6
+24,Since I Lost My Baby,The Temptations,29,24,5
+25,I Like It Like That,The Dave Clark Five,13,7,10
+26,"Cara, Mia",Jay & The Americans,19,4,12
+27,In The Midnight Hour,Wilson Pickett,37,27,7
+28,"Sunshine, Lollipops And Rainbows",Lesley Gore,21,13,10
+29,Ju Ju Hand,Sam The Sham and the Pharaohs ,47,29,4
+30,Heart Full Of Soul,The Yardbirds,49,30,4
+31,Looking Through The Eyes Of Love,Gene Pitney,41,31,5
+32,It Ain't Me Babe,The Turtles,53,32,3
+33,Pretty Little Baby,Marvin Gaye,25,25,7
+34,"The ""In"" Crowd",Ramsey Lewis Trio,57,34,4
+35,I'll Always Love You,The Spinners,38,35,6
+36,To Know You Is To Love You,Peter And Gordon,24,24,7
+37,Shake And Fingerpop,Jr. Walker & The All Stars,48,37,4
+38,Houston,Dean Martin,58,38,3
+39,Ride Your Pony,Lee Dorsey,28,28,8
+40,All I Really Want To Do,The Byrds,42,40,8
+41,You Tell Me Why,The Beau Brummels,46,41,5
+42,One Dyin' And A Buryin',Roger Miller,34,34,7
+43,"Theme From ""A Summer Place""",The Lettermen,32,16,9
+44,New Orleans,Eddie Hodges,44,44,8
+45,Sugar Dumpling,Sam Cooke,51,45,5
+46,I Don't Wanna Lose You Baby,Chad & Jeremy,56,46,3
+47,Hung On You,The Righteous Brothers,50,47,6
+48,Too Many Rivers,Brenda Lee,36,13,13
+49,It's Gonna Take A Miracle,The Royalettes,52,49,6
+50,A Little You,Freddie And The Dreamers,60,50,4
+51,Agent Double-O-Soul,Edwin Starr,63,51,3
+52,Action,Freddy Cannon,71,52,2
+53,Who'll Be The Next In Line,The Kinks,73,53,2
+54,(Say) You're My Girl,Roy Orbison,39,39,7
+55,"Sad, Sad Girl",Barbara Mason,68,55,3
+56,"It's Too Late, Baby Too Late",Arthur Prysock,62,56,6
+57,You've Been In Love Too Long,Martha & The Vandellas,75,57,2
+58,Eve Of Destruction,Barry McGuire,-1,58,1
+59,Summer Nights,Marianne Faithfull,74,59,2
+60,If I Didn't Love You,Chuck Jackson,69,60,3
+61,Moon Over Naples,Bert Kaempfert And His Orchestra,64,61,7
+62,Catch Us If You Can,The Dave Clark Five,-1,62,1
+63,You're My Baby (And Don't You Forget It),The Vacels,65,63,5
+64,Candy,The Astors,67,64,7
+65,Here I Am,Dionne Warwick,66,65,8
+66,I'm A Happy Man,The Jive Five,90,66,2
+67,Hang On Sloopy,The McCoys,99,67,2
+68,We Gotta Get Out Of This Place,The Animals,80,68,2
+69,I'll Take You Where The Music's Playing,The Drifters,87,69,2
+70,Baby Don't Go,Sonny & Cher,-1,70,1
+71,(My Girl) Sloopy,Little Caesar And The Consuls,86,71,2
+72,Moonlight And Roses (Bring Mem'ries Of You),Vic Dana,82,72,3
+73,Annie Fanny,The Kingsmen,77,73,3
+74,No Pity (In The Naked City),Jackie Wilson,59,59,8
+75,First I Look At The Purse,The Contours,81,75,2
+76,It's Gonna Be Fine,Glenn Yarbrough,54,54,6
+77,One Step At A Time,Maxine Brown,55,55,8
+78,It's A Man Down There,G.L. Crockett,78,78,3
+79,Danger Heartbreak Dead Ahead,The Marvelettes,92,79,2
+80,Summer Wind,Wayne Newton,85,80,3
+81,You Better Go,Derek Martin,83,81,4
+82,Tickle Me,Elvis Presley With The Jordanaires,70,70,7
+83,Laugh At Me,Sonny ,-1,83,1
+84,Colours,Donovan,95,84,2
+85,Is It Really Over?,Jim Reeves,88,85,2
+86,Give All Your Love To Me,Gerry And The Pacemakers,98,86,2
+87,Two Different Worlds,Lenny Welch,-1,87,1
+88,"Oowee, Oowee",Perry Como,89,88,4
+89,Only Those In Love,Baby Washington,93,89,5
+90,I Need You,The Impressions,97,90,2
+91,"Liar, Liar",The Castaways,96,91,2
+92,Canadian Sunset,Sounds Orchestral,76,76,4
+93,What Are We Going To Do?,David Jones,100,93,2
+94,If You Wait For Love,Bobby Goldsboro,-1,94,1
+95,You've Got Your Troubles,The Fortunes,-1,95,1
+96,Do You Believe In Magic,The Lovin' Spoonful,-1,96,1
+97,Good Times,Gene Chandler,-1,97,1
+98,Ride Away,Roy Orbison,-1,98,1
+99,Can't Let You Out Of My Sight,Chuck Jackson & Maxine Brown,-1,99,1
+100,Someone Is Watching,Solomon Burke,-1,100,1

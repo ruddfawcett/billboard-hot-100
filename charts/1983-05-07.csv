@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Beat It,Michael Jackson,1,1,11
+2,Jeopardy,Greg Kihn Band,3,2,15
+3,Let's Dance,David Bowie,6,3,7
+4,Come On Eileen,Dexy's Midnight Runners,2,1,16
+5,Der Kommissar,After The Fire,5,5,13
+6,Overkill,Men At Work,9,6,5
+7,She Blinded Me With Science,Thomas Dolby,8,7,12
+8,Mr. Roboto,Styx,4,3,13
+9,Little Red Corvette,Prince,10,9,11
+10,I Won't Hold You Back,Toto,11,10,9
+11,Solitaire,Laura Branigan,14,11,8
+12,Even Now,Bob Seger & The Silver Bullet Band,13,12,9
+13,Flashdance...What A Feeling,Irene Cara,23,13,6
+14,Billie Jean,Michael Jackson,7,1,16
+15,Photograph,Def Leppard,19,15,9
+16,Rio,Duran Duran,17,16,6
+17,My Love,Lionel Richie,22,17,5
+18,Straight From The Heart,Bryan Adams,21,18,9
+19,Time (Clock Of The Heart),Culture Club,30,19,4
+20,Affair Of The Heart,Rick Springfield,29,20,4
+21,Separate Ways (Worlds Apart),Journey,12,8,14
+22,Mornin',Jarreau,28,22,8
+23,Faithfully,Journey,31,23,4
+24,Welcome To Heartlight,Kenny Loggins,24,24,9
+25,It Might Be You,Stephen Bishop,27,25,15
+26,Some Kind Of Friend,Barry Manilow,26,26,11
+27,Don't Let It End,Styx,35,27,2
+28,Always Something There To Remind Me,Naked Eyes,33,28,9
+29,Stranger In My House,Ronnie Milsap,34,29,7
+30,So Wrong,Patrick Simmons,32,30,8
+31,One On One,Daryl Hall John Oates,15,7,15
+32,Family Man,Daryl Hall John Oates,43,32,2
+33,Hungry Like The Wolf,Duran Duran,16,3,20
+34,Do You Really Want To Hurt Me,Culture Club,18,2,23
+35,I Couldn't Say No,Robert Ellis Orral With Carlene Carter,42,35,7
+36,We've Got Tonight,Kenny Rogers And Sheena Easton,25,6,15
+37,She's A Beauty,The Tubes,49,37,5
+38,You Are,Lionel Richie,20,4,17
+39,Whirly Girl,Oxo,36,28,12
+40,Gimme All Your Lovin,ZZ Top,45,40,6
+41,I Know There's Something Going On,Frida,38,13,27
+42,Try Again,Champaign,48,42,6
+43,Twilight Zone,Golden Earring,39,10,24
+44,I Like It,Debarge,40,31,14
+45,Back On The Chain Gang,Pretenders,37,5,22
+46,The One Thing,INXS,53,46,7
+47,Minimum Love,Mac McAnally,41,41,10
+48,Never Gonna Let You Go,Sergio Mendes,60,48,4
+49,Swingin',John Anderson,47,43,10
+50,Too Shy,Kajagoogoo,70,50,3
+51,Looking For A Stranger,Pat Benatar,59,51,3
+52,Fool Moon Fire,Walter Egan,55,52,5
+53,Smiling Islands,Robbie Patton,56,53,9
+54,Sing Me Away,Night Ranger,57,54,5
+55,Never Give Up,Sammy Hagar,46,46,7
+56,I'm Still Standing,Elton John,-1,56,1
+57,New Year's Day,U2,62,57,6
+58,You Can't Run From Love,Eddie Rabbitt,63,58,3
+59,No Time For Talk,Christopher Cross,-1,59,1
+60,Electric Avenue,Eddy Grant,72,60,4
+61,All This Love,Debarge,73,61,3
+62,Love's Got A Line On You,Scandal Featuring Patty Smyth,64,62,6
+63,Cool Places, Sparks & Jane Wiedlin,67,63,4
+64,Wind Him Up,Saga,65,64,6
+65,Easy For You To Say,Linda Ronstadt,68,65,3
+66,I Eat Cannibals,Total Coelo,66,66,4
+67,All My Life,Kenny Rogers,76,67,2
+68,Why Me?,Planet P,69,68,4
+69,Don't Pay The Ferryman,Chris de Burgh,78,69,2
+70,That's Love,Jim Capaldi,77,70,2
+71,Front Page Story,Neil Diamond,74,71,3
+72,Love On Your Side,Thompson Twins,85,72,2
+73,I've Got A Rock N' Roll Heart,Eric Clapton,44,18,15
+74,We Two,Little River Band,-1,74,1
+75,Take The Short Way Home,Dionne Warwick,54,41,11
+76,Our House,Madness,-1,76,1
+77,Do You Wanna Hold Me?,Bow Wow Wow,79,77,3
+78,Bang The Drum All Day,Todd Rundgren,-1,78,1
+79,The Devil Made Me Do It,Golden Earring,81,79,3
+80,Reap The Wild Wind,Ultravox,71,71,5
+81,Sign Of The Times,The Belle Stars,-1,81,1
+82,Mexican Radio,Wall Of Voodoo,58,58,8
+83,Ricky,"""Weird Al"" Yankovic",90,83,2
+84,Tonight,The Whispers,87,84,2
+85,"Where Everybody Knows Your Name (The Theme From ""Cheers"")", Gary Portnoy,89,85,2
+86,Make Love Stay,Dan Fogelberg,61,29,14
+87,The Walls Came Down,The Call,-1,87,1
+88,Candy Girl,New Edition,-1,88,1
+89,The Closer You Get,Alabama,-1,89,1
+90,Come Dancing,The Kinks,-1,90,1
+91,Shame On The Moon,Bob Seger & The Silver Bullet Band,51,2,21
+92,Change Of Heart,Tom Petty And The Heartbreakers,50,21,11
+93,I Melt With You,Modern English,95,78,6
+94,Love My Way,Psychedelic Furs,52,44,10
+95,Poison Arrow,ABC,75,25,15
+96,All Right,Christopher Cross,80,12,16
+97,I Won't Be Home Tonight,Tony Carey,86,79,7
+98,Lies,Thompson Twins,82,30,16
+99,Fall In Love With Me,"Earth, Wind & Fire",84,17,16
+100,Little Too Late,Pat Benatar,83,20,14

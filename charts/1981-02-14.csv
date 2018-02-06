@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Celebration,Kool & The Gang,1,1,17
+2,9 To 5,Dolly Parton,4,2,12
+3,I Love A Rainy Night,Eddie Rabbitt,3,3,15
+4,The Tide Is High,Blondie,2,1,14
+5,Passion,Rod Stewart,5,5,13
+6,Woman,John Lennon,8,6,5
+7,(Just Like) Starting Over,John Lennon,6,1,16
+8,Keep On Loving You,REO Speedwagon,13,8,12
+9,Giving It Up For Your Love,Delbert McClinton,10,9,11
+10,Hey Nineteen,Steely Dan,11,10,12
+11,Same Old Lang Syne,Dan Fogelberg,12,11,10
+12,The Best Of Times,Styx,17,12,4
+13,Every Woman In The World,Air Supply,7,5,17
+14,Miss Sun,Boz Scaggs,14,14,12
+15,The Winner Takes It All,ABBA,16,15,13
+16,I Ain't Gonna Stand For It,Stevie Wonder,18,16,10
+17,Crying,Don McLean,20,17,4
+18,It's My Turn,Diana Ross,9,9,17
+19,Together,Tierra,19,19,15
+20,Hello Again,Neil Diamond,25,20,3
+21,Seven Bridges Road,Eagles,21,21,9
+22,Heartbreak Hotel,The Jacksons,23,22,11
+23,A Little In Love,Cliff Richard,24,23,10
+24,Treat Me Right,Pat Benatar,30,24,5
+25,Smoky Mountain Rain,Ronnie Milsap,27,25,12
+26,Games People Play,The Alan Parsons Project,29,26,11
+27,Love On The Rocks,Neil Diamond,15,2,16
+28,Guilty,Barbra Streisand & Barry Gibb,22,3,16
+29,I Made It Through The Rain,Barry Manilow,26,10,13
+30,Hearts On Fire,Randy Meisner,37,30,4
+31,Time Is Time,Andy Gibb,31,15,13
+32,Rapture,Blondie,42,32,3
+33,Kiss On My List,Daryl Hall John Oates,43,33,4
+34,Killin' Time,Fred Knoblock & Susan Anton,28,28,13
+35,Ah! Leah!,Donnie Iris,38,35,10
+36,What Kind Of Fool,Barbra Streisand & Barry Gibb,52,36,3
+37,"De Do Do Do, De Da Da Da",The Police,34,10,17
+38,Living In A Fantasy,Leo Sayer,58,38,4
+39,Back In Black,AC/DC,40,39,9
+40,(Ghost) Riders In The Sky,Outlaws,44,40,8
+41,Hungry Heart,Bruce Springsteen,32,5,15
+42,Flash's Theme Aka Flash,Queen,46,42,5
+43,Hit Me With Your Best Shot,Pat Benatar,41,9,20
+44,Tell It Like It Is,Heart,35,8,13
+45,Too Tight,ConFunkShun,50,45,4
+46,Precious To Me,Phil Seymour,57,46,4
+47,Lady,Kenny Rogers,36,1,20
+48,Guitar Man,Elvis Presley,54,43,10
+49,Fade Away,Bruce Springsteen,65,49,2
+50,Staying With It,Firefall,60,50,4
+51,He Can't Love You,Michael Stanley Band,33,33,13
+52,Who's Making Love,Blues Brothers,39,39,9
+53,Somebody's Knockin',Terri Gibbs,63,53,5
+54,Shine On,L.T.D.,45,40,14
+55,Fly Away,Peter Allen,56,55,6
+56,Suddenly,Olivia Newton-John & Cliff Richard,47,20,17
+57,Don't Stand So Close To Me,The Police,78,57,2
+58,Fool That I Am,Rita Coolidge,53,46,10
+59,Lipstick,Suzi Quatro,69,59,4
+60,Full Of Fire,Shalamar,55,55,9
+61,Ain't Even Done With The Night,John Cougar,71,61,3
+62,More Than I Can Say,Leo Sayer,49,2,21
+63,While You See A Chance,Steve Winwood,80,63,2
+64,Love T.K.O.,Teddy Pendergrass,59,44,12
+65,I Don't Want To Know Your Name,Glen Campbell,66,65,4
+66,Dreamer,The Association,73,66,3
+67,Fantastic Voyage,Lakeside,74,67,3
+68,Turn Me Loose,Loverboy,77,68,3
+69,I Need Your Lovin',Teena Marie,48,37,13
+70,Another One Bites The Dust,Queen,67,1,27
+71,Master Blaster (Jammin'),Stevie Wonder,61,5,22
+72,Fireflies,Fleetwood Mac,82,72,2
+73,Just Between You And Me,April Wine,85,73,2
+74,Morning Train (Nine To Five),Sheena Easton,-1,74,1
+75,Don't Stop The Music,Yarbrough & Peoples,86,75,2
+76,Cold Love,Donna Summer,51,33,12
+77,And Love Goes On,"Earth, Wind & Fire",87,77,2
+78,Watching You,Slave,79,78,5
+79,Cafe Amore,Spyro Gyra,89,79,2
+80,One Step Closer, The Doobie Brothers,62,24,13
+81,Don't You Know What Love Is,Touch,90,81,3
+82,Keep This Train A-Rollin',The Doobie Brothers,-1,82,1
+83,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",-1,83,1
+84,How 'bout Us,Champaign,-1,84,1
+85,Yesterday Once More/Nothing Remains The Same,The Spinners,-1,85,1
+86,Skateaway,Dire Straits,70,58,9
+87,It's A Love Thing,The Whispers,-1,87,1
+88,Long Time Lovin' You,McGuffey Lane,88,88,5
+89,Being With You,Smokey Robinson,-1,89,1
+90,Proud,The Joe Chemay Band,-1,90,1
+91,My Mother's Eyes,Bette Midler,64,39,13
+92,United Together,Aretha Franklin,68,56,8
+93,Woman In Love,Barbra Streisand,72,1,24
+94,Whip It,Devo,84,14,25
+95,"Wynken, Blynken And Nod",The Doobie Brothers,76,76,4
+96,8th Wonder,Sugarhill Gang,98,96,2
+97,Seasons,Charles Fox,75,75,4
+98,Everybody's Got To Learn Sometime,The Korgis,81,18,19
+99,Never Be The Same,Christopher Cross,92,15,19
+100,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,93,21,23

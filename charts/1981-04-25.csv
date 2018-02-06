@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Kiss On My List,Daryl Hall John Oates,1,1,14
+2,Morning Train (Nine To Five),Sheena Easton,3,2,11
+3,Being With You,Smokey Robinson,8,3,11
+4,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",4,4,11
+5,Angel Of The Morning,Juice Newton,6,5,10
+6,Rapture,Blondie,2,1,13
+7,While You See A Chance,Steve Winwood ,7,7,12
+8,Woman,John Lennon,5,2,15
+9,The Best Of Times,Styx,9,3,14
+10,Don't Stand So Close To Me,The Police,10,10,12
+11,I Can't Stand It,Eric Clapton And His Band,11,11,9
+12,Her Town Too,James Taylor & J.D. Souther ,13,12,7
+13,Somebody's Knockin',Terri Gibbs,16,13,15
+14,Keep On Loving You,REO Speedwagon,12,1,22
+15,Crying,Don McLean,14,5,14
+16,Living Inside Myself,Gino Vannelli,18,16,6
+17,Take It On The Run,REO Speedwagon,20,17,6
+18,Bette Davis Eyes,Kim Carnes,27,18,5
+19,Too Much Time On My Hands,Styx,24,19,6
+20,Ain't Even Done With The Night,John Cougar,21,20,13
+21,Just Between You And Me,April Wine,22,21,12
+22,Time Out Of Mind,Steely Dan,23,22,7
+23,Sweetheart,Franke & The Knockouts,25,23,8
+24,You Better You Bet,The Who,26,24,6
+25,Watching The Wheels,John Lennon,33,25,5
+26,How 'bout Us,Champaign,29,26,11
+27,I Love You,Climax Blues Band,30,27,10
+28,It's A Love Thing,The Whispers,28,28,11
+29,I Missed Again,Phil Collins,31,29,6
+30,Sukiyaki,A Taste Of Honey,32,30,8
+31,Don't Stop The Music,Yarbrough & Peoples,19,19,12
+32,Love You Like I Never Loved Before,John O'Banion,40,32,5
+33,Hold On Loosely,38 Special,37,33,9
+34,The Party's Over (Hopelessly In Love),Journey,35,34,9
+35,Turn Me Loose,Loverboy,36,35,13
+36,What Are We Doin' In Love,Dottie West with Kenny Rogers,42,36,5
+37,Mister Sandman,Emmylou Harris,38,37,9
+38,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,41,38,8
+39,Wasn't That A Party,The Rovers,39,39,10
+40,Say You'll Be Mine,Christopher Cross,46,40,5
+41,9 To 5,Dolly Parton,17,1,22
+42,Find Your Way Back,Jefferson Starship,51,42,4
+43,Hello Again,Neil Diamond,15,6,13
+44,Blessed Are The Believers,Anne Murray,52,44,5
+45,What Kind Of Fool,Barbra Streisand & Barry Gibb,34,10,13
+46,Celebration,Kool & The Gang,44,1,27
+47,Jessie's Girl,Rick Springfield,53,47,5
+48,Medley,Stars On 45,61,48,3
+49,Since I Don't Have You, Don McLean,60,49,3
+50,I Loved 'em Every One,T.G. Sheppard,54,50,7
+51,Lonely Together,Barry Manilow,45,45,7
+52,The Winner Takes It All,ABBA,43,8,23
+53,I Love A Rainy Night,Eddie Rabbitt,47,1,25
+54,But You Know I Love You,Dolly Parton,62,54,4
+55,Treat Me Right,Pat Benatar,50,18,15
+56,Me (Without You),Andy Gibb,48,40,7
+57,Somebody Send My Baby Home,Lenny LeBlanc,63,57,5
+58,I Don't Need You,Rupert Holmes,66,58,4
+59,Super Trouper,ABBA,69,59,4
+60,Precious To Me,Phil Seymour,55,22,14
+61,Ai No Corrida (I-No-Ko-ree-da),Quincy Jones,71,61,3
+62,A Little In Love,Cliff Richard,49,17,20
+63,Hearts On Fire, Randy Meisner,57,19,14
+64,Games People Play,The Alan Parsons Project,56,16,21
+65,Winning,Santana,75,65,3
+66,Lately,Stevie Wonder,76,66,3
+67,This Little Girl,Gary U.S. Bonds,-1,67,1
+68,Limelight,Rush,58,55,7
+69,That Didn't Hurt Too Bad,Dr. Hook,73,69,3
+70,One Day In Your Life,Michael Jackson,81,70,2
+71,Playing With Lightning,Shot In The Dark,72,71,4
+72,Seduced,Leon Redbone,79,72,3
+73,Time,The Alan Parsons Project,82,73,2
+74,Fool In Love With You,Jim Photoglo,83,74,2
+75,Hurry Up And Wait,The Isley Brothers,85,75,2
+76,America,Neil Diamond,-1,76,1
+77,Still Right Here In My Heart,Pure Prairie League,87,77,2
+78,I've Been Waiting For You All Of My Life,Paul Anka,88,78,2
+79,One More Chance,Diana Ross,84,79,3
+80,Just So Lonely,Get Wet,-1,80,1
+81,Give A Little Bit More,Cliff Richard,-1,81,1
+82,Who Do You Think You're Foolin',Donna Summer,59,40,10
+83,Walking On Thin Ice,Yoko Ono,77,58,8
+84,I Can Take Care Of Myself,Billy & The Beaters,-1,84,1
+85,Memories,Tierra,67,62,7
+86,Heaven In Your Arms,Dan Hartman,91,86,3
+87,Say What,Jesse Winchester,-1,87,1
+88,Make That Move,Shalamar,-1,88,1
+89,Seven Year Ache, Rosanne Cash,-1,89,1
+90,Is It You,Lee Ritenour,-1,90,1
+91,You Like Me Don't You,Jermaine Jackson,93,91,2
+92,Shotgun Rider,Delbert McClinton,70,70,5
+93,Lover,Michael Stanley Band,68,68,5
+94,Lovers After All,Melissa Manchester & Peabo Bryson,74,54,9
+95,Right Away,Hawks,78,63,7
+96,The Tide Is High,Blondie,96,1,24
+97,Fade Away,Bruce Springsteen,64,20,12
+98,Games,Phoebe Snow,65,46,10
+99,Guitar Man,Elvis Presley,80,28,20
+100,96 Tears,Garland Jeffreys,86,66,7

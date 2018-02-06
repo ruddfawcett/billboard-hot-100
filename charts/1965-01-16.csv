@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Come See About Me,The Supremes,2,1,10
+2,I Feel Fine,The Beatles,1,1,7
+3,Love Potion Number Nine,The Searchers,4,3,8
+4,Downtown,Petula Clark,5,4,5
+5,You've Lost That Lovin' Feelin',The Righteous Brothers,9,5,6
+6,Mr. Lonely,Bobby Vinton,3,1,12
+7,The Jerk, The Larks,8,7,10
+8,Goin' Out Of My Head,Little Anthony And The Imperials,6,6,11
+9,How Sweet It Is To Be Loved By You,Marvin Gaye,15,9,9
+10,Keep Searchin' (We'll Follow The Sun),Del Shannon,13,10,9
+11,Amen,The Impressions,7,7,9
+12,She's A Woman,The Beatles,11,4,7
+13,Thou Shalt Not Steal,Dick and DeeDee,21,13,9
+14,Sha La La,Manfred Mann,12,12,10
+15,Hold What You've Got,Joe Tex,28,15,5
+16,The Wedding,Julie Rogers,10,10,9
+17,Willow Weep For Me,Chad & Jeremy,17,17,10
+18,Any Way You Want It,The Dave Clark Five,14,14,10
+19,Don't Forget I Still Love You,Bobbi Martin,24,19,8
+20,The Name Game,Shirley Ellis,38,20,6
+21,Leader Of The Laundromat,The Detergents,19,19,7
+22,"My Love, Forgive Me (Amore, Scusami)", Robert Goulet,18,16,13
+23,She's Not There,The Zombies,16,2,14
+24,As Tears Go By,Marianne Faithfull,22,22,8
+25,Too Many Fish In The Sea,The Marvelettes,26,25,11
+26,I'll Be There,Gerry And The Pacemakers,29,26,6
+27,Dear Heart,Andy Williams,25,25,8
+28,Walk Away,Matt Monro,23,23,8
+29,All Day And All Of The Night,The Kinks,44,29,4
+30,Give Him A Great Big Kiss,The Shangri-Las,42,30,4
+31,You're Nobody Till Somebody Loves You,Dean Martin,36,31,6
+32,Dear Heart,Jack Jones,30,30,8
+33,Hawaii Tattoo,The Waikikis,35,33,7
+34,Let's Lock The Door (And Throw Away The Key),Jay & The Americans,50,34,4
+35,Do-Wacka-Do,Roger Miller,31,31,8
+36,Shake,Sam Cooke,73,36,2
+37,Wild One,Martha & The Vandellas,34,34,7
+38,One More Time,The Ray Charles Singers,32,32,10
+39,Oh No Not My Baby,Maxine Brown,37,24,13
+40,What Now,Gene Chandler,45,40,7
+41,"Dance, Dance, Dance",The Beach Boys,33,8,11
+42,Ringo,Lorne Greene,20,1,12
+43,Have You Looked Into Your Heart,Jerry Vale,55,43,5
+44,Promised Land,Chuck Berry,41,41,6
+45,Seven Letters,Ben E. King,52,45,5
+46,Makin' Whoopee,Ray Charles,58,46,6
+47,Look Of Love,Lesley Gore,57,47,4
+48,Use Your Head,Mary Wells,71,48,3
+49,Roses Are Red My Love,"The ""You Know Who"" Group!",47,43,8
+50,"The ""In"" Crowd",Dobie Gray,79,50,2
+51,I Can't Stop,The Honeycombs,51,51,5
+52,Somewhere In Your Heart,Frank Sinatra,54,52,5
+53,The 81,Candy & The Kisses,63,51,9
+54,Lovin' Place,Gale Garnett,56,54,7
+55,No Arms Can Ever Hold You,The Bachelors,65,55,4
+56,"Bucket ""T""",Ronny And The Daytonas,62,56,5
+57,Come On Do The Jerk,The Miracles,61,57,6
+58,Heart Of Stone,The Rolling Stones,77,58,2
+59,Can You Jerk Like Me,The Contours,70,59,5
+60,Little Bell,The Dixie Cups,68,60,5
+61,Paper Tiger,Sue Thompson,69,61,3
+62,I Go To Pieces,Peter And Gordon,85,62,2
+63,He's My Guy,Irma Thomas,66,63,5
+64,You'll Always Be The One I Love,Dean Martin,64,64,4
+65,This Diamond Ring,Gary Lewis And The Playboys,-1,65,1
+66,Tell Her No,The Zombies,81,66,2
+67,I'm Gonna Love You Too, The Hullaballoos,59,56,8
+68,"Laugh, Laugh",The Beau Brummels,83,68,3
+69,Boom Boom,The Animals,43,43,7
+70,"Lovely, Lovely (Loverly, Loverly)",Chubby Checker,78,70,3
+71,Do What You Do Do Well,Ned Miller,72,71,4
+72,Sometimes I Wonder,Major Lance,74,64,7
+73,Hey-Da-Da-Dow,The Dolphins,76,73,5
+74,The Jolly Green Giant,The Kingsmen,89,74,2
+75,Smile,Betty Everett & Jerry Butler,53,42,7
+76,My Girl, The Temptations,-1,76,1
+77,Twine Time,Alvin Cash & The Crawlers,96,77,3
+78,Blind Man,Bobby Bland,86,78,2
+79,Dear Heart,Henry Mancini And His Orchestra,80,77,6
+80,Voice Your Choice,The Radiants,93,80,4
+81,Cousin Of Mine,Sam Cooke,-1,31,9
+82,I Found A Love Oh What A Love,Jo Ann & Troy,67,67,6
+83,Thanks A Lot,Brenda Lee,-1,83,1
+84,Whenever A Teenager Cries,Reparata And The Delrons,97,84,2
+85,Ode To The Little Brown Shack Out Back,Billy Edd Wheeler,90,85,3
+86,Blind Man,Little Milton,88,86,3
+87,"Bye, Bye, Baby (Baby, Goodbye)","The 4 Seasons Featuring the ""Sound of Frankie Valli""",-1,87,1
+88,The Crusher,The Novas,92,88,2
+89,Hello Pretty Girl,Ronnie Dove,100,89,2
+90,The Boy From New York City,The Ad Libs,-1,90,1
+91,Are You Still My Baby,The Shirelles,91,91,4
+92,"No Faith, No Love",Mitty Collier,99,92,2
+93,Fancy Pants,Al (He's the King) Hirt,-1,93,1
+94,The Crying Game,Brenda Lee,94,94,2
+95,It's Better To Have It,Barbara Lynn,95,95,2
+96,"Finders Keepers, Losers Weepers",Nella Dodds,98,96,2
+97,It's Alright,Adam Faith With The Roulettes,-1,97,1
+98,I Want You To Be My Boy,The Exciters,-1,98,1
+99,I Wanna Be (Your Everything),The Manhattans,-1,99,1
+100,My Heart Would Know,Al Martino,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You Light Up My Life,Debby Boone,1,1,15
+2,Don't It Make My Brown Eyes Blue,Crystal Gayle,2,2,18
+3,How Deep Is Your Love,Bee Gees,3,3,12
+4,Blue Bayou,Linda Ronstadt,5,4,14
+5,It's So Easy,Linda Ronstadt,9,5,10
+6,Heaven On The 7th Floor,Paul Nicholas,6,6,17
+7,We're All Alone,Rita Coolidge,7,7,13
+8,(Every Time I Turn Around) Back In Love Again,LTD,10,8,9
+9,"Baby, What A Big Surprise",Chicago,4,4,12
+10,You Make Loving Fun,Fleetwood Mac,11,10,9
+11,Baby Come Back,Player,13,11,11
+12,Here You Come Again,Dolly Parton,15,12,9
+13,Sentimental Lady,Bob Welch,16,13,9
+14,Boogie Nights,Heatwave,8,2,21
+15,Slip Slidin' Away,Paul Simon,17,15,9
+16,Isn't It Time,The Babys,18,16,10
+17,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,20,17,13
+18,Come Sail Away,Styx,21,18,12
+19,You're In My Heart (The Final Acclaim),Rod Stewart,30,19,7
+20,Swingtown,The Steve Miller Band,22,20,9
+21,Your Smiling Face,James Taylor,23,21,11
+22,Hey Deanie,Shaun Cassidy,32,22,5
+23,Gone Too Far,England Dan & John Ford Coley,24,23,11
+24,It's Ecstasy When You Lay Down Next To Me,Barry White,14,4,17
+25,I Go Crazy,Paul Davis,25,25,16
+26,We Will Rock You/We Are The Champions,Queen,31,26,8
+27,She's Not There,Santana,29,27,10
+28,Serpentine Fire,"Earth, Wind & Fire",35,28,7
+29,Runaround Sue,Leif Garrett,36,29,5
+30,My Way,Elvis Presley,38,30,5
+31,The Way I Feel Tonight,Bay City Rollers,33,31,9
+32,Just The Way You Are,Billy Joel,47,32,5
+33,We Just Disagree,Dave Mason,12,12,15
+34,Short People,Randy Newman,52,34,5
+35,Gettin' Ready For Love,Diana Ross,39,35,6
+36,Turn To Stone,Electric Light Orchestra,46,36,4
+37,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,41,37,7
+38,Don't Let Me Be Misunderstood,Santa Esmeralda Starring Leroy Gomez,50,38,6
+39,(Love Is) Thicker Than Water,Andy Gibb,43,39,6
+40,As,Stevie Wonder,40,40,6
+41,Point Of Know Return,Kansas,44,41,5
+42,Native New Yorker,Odyssey,49,42,5
+43,Calling Occupants Of Interplanetary Craft,Carpenters,54,32,10
+44,Don't Ask My Neighbors,The Emotions,45,44,7
+45,Bloat On Featuring the Bloaters,Cheech & Chong,55,45,5
+46,Girls' School,Wings,60,46,4
+47,Desiree,Neil Diamond,70,47,2
+48,Nobody Does It Better,Carly Simon,26,2,21
+49,Send In The Clowns,Judy Collins,19,19,23
+50,Emotion,Samantha Sang,64,50,4
+51,I Feel Love,Donna Summer,28,6,19
+52,Dusic,Brick,34,18,15
+53,Help Is On Its Way,Little River Band,27,14,19
+54,If You're Not Back In Love By Monday,Millie Jackson,65,54,4
+55,Just Remember I Love You,Firefall,37,11,18
+56,That's Rock 'N' Roll,Shaun Cassidy,51,3,21
+57,(You're My) Soul And Inspiration,Donny & Marie Osmond,68,57,4
+58,From Graceland To The Promised Land,Merle Haggard,58,58,8
+59,Draw The Line,Aerosmith,42,42,8
+60,Peg,Steely Dan,71,60,4
+61,Do Ya Wanna Get Funky With Me,Peter Brown,53,18,13
+62,Star Wars Theme/Cantina Band,Meco,57,1,19
+63,Sad Eyes,Brooklyn Dreams,67,63,5
+64,Sometimes When We Touch,Dan Hill,75,64,3
+65,Stayin' Alive,Bee Gees,-1,65,1
+66,I Honestly Love You,Olivia Newton-John,48,1,21
+67,Lovely Day,Bill Withers,-1,67,1
+68,Don't Let The Flame Burn Out,Jackie DeShannon,74,68,7
+69,Heaven's Just A Sin Away,The Kendalls,72,69,6
+70,Tried To Love,Peter Frampton,-1,70,1
+71,Wrap Your Arms Around Me,KC And The Sunshine Band,82,71,2
+72,Grandmother's Song,Steve Martin,85,72,2
+73,What's Your Name,Lynyrd Skynyrd,83,73,2
+74,Easy To Love,Leo Sayer,-1,74,1
+75,How Can I Leave You Again,John Denver,86,75,3
+76,Closer To The Heart,Rush,78,76,3
+77,Street Corner Serenade,Wet Willie,87,77,2
+78,Was Dog A Doughnut,Cat Stevens,84,78,4
+79,Kick It Out,Heart ,79,79,3
+80,Any Way You Want Me,The Sylvers,91,80,3
+81,"Long, Long Way From Home",Foreigner,-1,81,1
+82,Ooh Boy,Rose Royce,88,82,3
+83,Never My Love,Addrisi Brothers,-1,83,1
+84,You Make Me Crazy,Sammy Hagar,-1,84,1
+85,Rockaway Beach,Ramones,90,85,2
+86,The Next Hundred Years,Al Martino,-1,86,1
+87,More Than A Woman,Tavares,89,87,4
+88,Falling,LeBlanc & Carr,95,68,9
+89,Breakdown,Tom Petty And The Heartbreakers ,100,65,6
+90,God Only Knows,Marilyn Scott,-1,90,1
+91,Le Spank,Le Pamplemousse,92,91,3
+92,Moondance,Van Morrison,94,92,4
+93,Cocomotion,El Coco,93,93,3
+94,Brick House,Commodores,56,5,16
+95,My Fair Share,Seals & Crofts,59,28,15
+96,Until Now,Bobby Arvon,98,96,2
+97,Cold As Ice,Foreigner,61,6,21
+98,Keep It Comin' Love,KC And The Sunshine Band,62,2,20
+99,She Did It,Eric Carmen,63,23,16
+100,"Signed, Sealed, Delivered (I'm Yours)",Peter Frampton,66,18,16

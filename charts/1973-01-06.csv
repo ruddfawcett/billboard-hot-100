@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You're So Vain,Carly Simon,4,1,6
+2,Clair,Gilbert O'Sullivan,2,2,11
+3,Me And Mrs. Jones,Billy Paul,1,1,10
+4,Superstition,Stevie Wonder,16,4,8
+5,Funny Face,Donna Fargo,6,5,15
+6,It Never Rains In Southern California,Albert Hammond,5,5,12
+7,Rockin' Pneumonia - Boogie Woogie Flu,Johnny Rivers,8,7,14
+8,Your Mama Don't Dance,Kenny Loggins & Jim Messina,10,8,9
+9,Superfly,Curtis Mayfield,9,9,8
+10,You Ought To Be With Me,Al Green,3,3,12
+11,Keeper Of The Castle,Four Tops,11,11,9
+12,Living In The Past,Jethro Tull,13,12,10
+13,Crocodile Rock,Elton John,20,13,5
+14,I Am Woman,Helen Reddy,7,1,20
+15,Don't Let Me Be Lonely Tonight,James Taylor,21,15,6
+16,Something's Wrong With Me,Austin Roberts,12,12,13
+17,Walk On Water,Neil Diamond,17,17,9
+18,Sitting,Cat Stevens,18,18,8
+19,Why Can't We Live Together,Timmy Thomas,24,19,7
+20,Sweet Surrender,Bread,15,15,9
+21,Pieces Of April,Three Dog Night,23,21,8
+22,"Hi, Hi, Hi",Wings,27,22,4
+23,I Wanna Be With You,Raspberries,28,23,7
+24,Been To Canaan,Carole King,26,24,7
+25,"Oh, Babe, What Would You Say?",Hurricane Smith,30,25,6
+26,Trouble Man,Marvin Gaye,33,26,4
+27,Papa Was A Rollin' Stone,The Temptations,14,1,13
+28,Separate Ways,Elvis Presley,34,28,6
+29,Smoke Gets In Your Eyes,Blue Haze,31,29,9
+30,The World Is A Ghetto,War,35,30,8
+31,Do It Again,Steely Dan,37,31,8
+32,Love Jones,Brighter Side Of Darkness,46,32,5
+33,I Can See Clearly Now,Johnny Nash,22,1,18
+34,Dancing In The Moonlight,King Harvest,43,34,11
+35,Rocky Mountain High,John Denver,41,35,7
+36,If You Don't Know Me By Now,Harold Melvin And The Blue Notes,19,3,15
+37,Jambalaya (On The Bayou),The Blue Ridge Rangers,49,37,6
+38,"You Turn Me On, I'm A Radio",Joni Mitchell,40,38,9
+39,Corner Of The Sky,Jackson 5,25,18,11
+40,Reelin' & Rockin',Chuck Berry,55,40,6
+41,Daddy's Home,Jermaine Jackson,54,41,5
+42,Harry Hippie,Bobby Womack & Peace,45,42,5
+43,The Relay,The Who,47,43,5
+44,Summer Breeze,Seals & Crofts,29,6,18
+45,Long Dark Road,The Hollies,32,26,10
+46,I'll Be Your Shelter (In Time Of Storm),Luther Ingram,60,46,6
+47,No,Bulldog,44,44,13
+48,Let Us Love,Bill Withers,52,48,5
+49,Do You Want To Dance?,Bette Midler,72,49,3
+50,You're A Lady,Peter Skellern,53,50,7
+51,In Heaven There Is No Beer,Clean Living,51,49,10
+52,Dreidel,Don McLean,66,52,3
+53,I Can't Stand To See You Cry,Smokey Robinson & The Miracles,62,53,4
+54,Don't Expect Me To Be Your Friend,Lobo,81,54,2
+55,Ventura Highway,America,36,8,12
+56,Woman To Woman,Joe Cocker and The Chris Stainton Band,58,56,6
+57,Looking Through The Eyes Of Love,The Partridge Family Starring Shirley Jones Featuring David Cassidy,64,57,4
+58,I'm Stone In Love With You,The Stylistics,38,10,13
+59,You've Got To Take It (If You Want It),The Main Ingredient,67,59,3
+60,I'm Never Gonna Be Alone Anymore,Cornelius Brothers & Sister Rose,69,60,3
+61,Could It Be I'm Falling In Love,The Spinners,79,61,2
+62,Remember (Christmas),Nilsson,70,62,3
+63,Crazy Horses,The Osmonds,39,14,12
+64,Trouble In My Home/I Found My Dad,Joe Simon,50,50,6
+65,"The Cover Of ""Rolling Stone""",Dr. Hook And The Medicine Show,77,65,6
+66,What Am I Crying For?,Dennis Yost And The Classics IV,57,39,12
+67,Peaceful Easy Feeling,Eagles,73,67,2
+68,Anthem,Wayne Newton,75,68,3
+69,Everybody Loves A Love Song,Mac Davis,63,63,7
+70,You're A Lady,Dawn Featuring Tony Orlando,74,70,7
+71,We Need Order,The Chi-lites,61,61,6
+72,Daytime Night-Time,Keith Hampshire,76,72,3
+73,What My Baby Needs Now Is A Little More Lovin',James Brown-Lyn Collins,78,73,3
+74,Last Song,Edward Bear,80,74,4
+75,Lucky Man,"Emerson, Lake & Palmer",86,48,14
+76,"Living Together, Growing Together",The 5th Dimension,-1,76,1
+77,Songman,Cashman & West,82,77,2
+78,Mama Weer All Crazee Now,Slade,83,78,8
+79,Big City Miss Ruth Ann,Gallery,88,79,2
+80,Jesus Is Just Alright,The Doobie Brothers,90,80,4
+81,Silly Wasn't I,Valerie Simpson,84,81,5
+82,One Last Time,Glen Campbell,85,82,5
+83,Danny's Song,Anne Murray,-1,83,1
+84,You Can Do Magic,Limmie & Family Cookin',89,84,8
+85,"Oh No, Not My Baby",Merry Clayton,87,85,3
+86,I Never Said Goodbye,Engelbert Humperdinck,100,86,2
+87,I'm Sorry,Joey Heatherton,93,87,7
+88,Didn't We,Barbra Streisand,95,88,5
+89,Boogie Woogie Man,Paul Davis,94,89,3
+90,Fever/My Crew,Rita Coolidge,96,90,2
+91,Jesus Was A Capricorn,Kris Kristofferson,91,91,2
+92,Happy,Bobby Darin,-1,92,1
+93,Don't Leave Me Starvin' For Your Love (Part 1),Holland-Dozier,-1,93,1
+94,But I Do,Bobby Vinton,98,94,2
+95,Choo Choo Mama,Ten Years After,97,95,4
+96,The Red Back Spider,Brownsville Station,99,96,3
+97,She's Got To Be A Saint,Ray Price,-1,97,1
+98,Soul Song,Joe Stampley,-1,98,1
+99,On And Off (Part 1),Anacostia,-1,99,1
+100,Slow Motion (Part 1),Johnny Williams,-1,100,1

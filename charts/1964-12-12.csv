@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Mr. Lonely,Bobby Vinton,2,1,7
+2,She's Not There,The Zombies,4,2,9
+3,Ringo,Lorne Greene,1,1,7
+4,Come See About Me,The Supremes,8,4,5
+5,I Feel Fine,The Beatles,22,5,2
+6,Time Is On My Side,The Rolling Stones,6,6,9
+7,You Really Got Me,The Kinks,7,7,12
+8,Baby Love,The Supremes,5,1,11
+9,I'm Gonna Be Strong,Gene Pitney,10,9,8
+10,"Dance, Dance, Dance",The Beach Boys,13,10,6
+11,Leader Of The Pack,The Shangri-Las,3,1,10
+12,Mountain Of Love,Johnny Rivers,9,9,7
+13,I'm Into Something Good,Herman's Hermits,15,13,9
+14,Goin' Out Of My Head,Little Anthony And The Imperials,17,14,6
+15,Ask Me,Elvis Presley With The Jordanaires,12,12,10
+16,Everything's Alright,The Newbeats,18,16,8
+17,Sha La La,Manfred Mann,19,17,5
+18,Right Or Wrong,Ronnie Dove,14,14,8
+19,Saturday Night At The Movies,The Drifters,24,19,5
+20,Big Man In Town,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",20,20,6
+21,The Jerk,The Larks,21,21,5
+22,Come A Little Bit Closer,Jay & The Americans,11,3,14
+23,Walking In The Rain,The Ronettes,23,23,8
+24,Any Way You Want It, The Dave Clark Five,31,24,5
+25,Sidewalk Surfin',Jan & Dean,25,25,7
+26,The Wedding,Julie Rogers,37,26,4
+27,Oh No Not My Baby,Maxine Brown,33,27,8
+28,"My Love, Forgive Me (Amore, Scusami)",Robert Goulet,30,28,8
+29,She's A Woman,The Beatles,46,29,2
+30,Amen,The Impressions,43,30,4
+31,"Gone, Gone, Gone",The Everly Brothers,32,31,9
+32,Reach Out For Me,Dionne Warwick,26,20,8
+33,She Understands Me,Johnny Tillotson,36,33,7
+34,Too Many Fish In The Sea,The Marvelettes,38,34,6
+35,Last Kiss,J. Frank Wilson and The Cavaliers,16,2,15
+36,Willow Weep For Me,Chad & Jeremy,44,36,5
+37,Is It True,Brenda Lee,29,17,9
+38,Ain't That Loving You Baby,Elvis Presley,27,16,10
+39,Thou Shalt Not Steal,Dick and DeeDee,52,39,4
+40,How Sweet It Is To Be Loved By You,Marvin Gaye,49,40,4
+41,We Could,Al Martino,41,41,6
+42,As Tears Go By,Marianne Faithfull,50,42,3
+43,One More Time,The Ray Charles Singers,54,43,5
+44,Keep Searchin' (We'll Follow The Sun),Del Shannon,55,44,4
+45,Without The One You Love (Life's Not Worth While),Four Tops,51,45,3
+46,"Run, Run, Run",The Gestures,48,46,5
+47,Since I Don't Have You,Chuck Jackson,59,47,5
+48,Have I The Right?,The Honeycombs,28,5,13
+49,Love Potion Number Nine,The Searchers,61,49,3
+50,Dear Heart,Andy Williams,53,50,3
+51,Wild One,Martha & The Vandellas,63,51,2
+52,Ain't It The Truth,Mary Wells,45,45,7
+53,Dear Heart,Jack Jones,57,53,3
+54,Do-Wacka-Do,Roger Miller,71,54,3
+55,Walk Away,Matt Monro,62,55,3
+56,Roses Are Red My Love,"The ""You Know Who"" Group!",70,56,3
+57,The 81,Candy & The Kisses,69,57,4
+58,Leader Of The Laundromat,The Detergents,80,58,2
+59,What Now,Gene Chandler,78,59,2
+60,The Price,Solomon Burke,68,60,3
+61,"It Ain't Me, Babe",Johnny Cash,58,58,7
+62,Listen Lonely Girl,Johnny Mathis,65,62,8
+63,I'm Gonna Love You Too,The Hullaballoos,74,63,3
+64,Don't Forget I Still Love You,Bobbi Martin,76,64,3
+65,(There's) Always Something There To Remind Me,Sandie Shaw,73,65,3
+66,Opportunity,The Jewels,64,64,10
+67,Boom Boom,The Animals,89,67,2
+68,Four Strong Winds,Bobby Bare,66,60,7
+69,Hawaii Tattoo,The Waikikis,81,69,2
+70,You're Nobody Till Somebody Loves You,Dean Martin,-1,70,1
+71,If You Want This Love,Sonny Knight,72,71,9
+72,Getting Mighty Crowded,Betty Everett,83,72,3
+73,It's All Over,Walter Jackson,77,73,4
+74,Smile,Betty Everett & Jerry Butler,79,74,2
+75,Lovin' Place,Gale Garnett,90,75,2
+76,Sometimes I Wonder,Major Lance,88,76,2
+77,You've Lost That Lovin' Feelin',The Righteous Brothers,-1,77,1
+78,Do Anything You Wanna (Part I),Harold Betters,82,78,5
+79,Almost There,Andy Williams,67,67,5
+80,A Woman's Love,Carla Thomas,84,80,3
+81,I'll Be There,Gerry And The Pacemakers,-1,81,1
+82,I Don't Want To Walk Without You,Phyllis McGuire,100,82,2
+83,Scratchy,Travis Wammack,86,83,4
+84,I Found A Love Oh What A Love,Jo Ann & Troy,-1,84,1
+85,Makin' Whoopee,Ray Charles,-1,85,1
+86,Come On Do The Jerk,The Miracles,-1,86,1
+87,Party Girl,Tommy Roe,87,87,2
+88,A Happy Guy,Rick Nelson,91,88,3
+89,Promised Land,Chuck Berry,-1,89,1
+90,The Name Game,Shirley Ellis,-1,90,1
+91,Dear Heart,Henry Mancini And His Orchestra,-1,91,1
+92,You're The Only World I Know,Sonny James,94,92,3
+93,(There'll Come A Day When) Ev'ry Little Bit Hurts,Bobby Vee,-1,93,1
+94,Talk To Me Baby,Barry Mann,95,94,2
+95,Chained And Bound,Otis Redding,-1,70,7
+96,Endless Sleep,Hank Williams Jr.,96,96,2
+97,Fiddler On The Roof,The Village Stompers,98,97,2
+98,It'll Never Be Over For Me,Baby Washington,-1,98,2
+99,Unless You Care,Terry Black,-1,99,2
+100,My Buddy Seat,The Hondells,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Love's Theme,Love Unlimited Orchestra,3,1,11
+2,The Way We Were,Barbra Streisand,1,1,12
+3,You're Sixteen,Ringo Starr,2,1,9
+4,Americans,Byron MacGregor ,5,4,6
+5,Until You Come Back To Me (That's What I'm Gonna Do),Aretha Franklin,8,5,12
+6,Let Me Be There,Olivia Newton-John,7,6,13
+7,Spiders & Snakes,Jim Stafford,10,7,14
+8,Show And Tell,Al Wilson,4,1,17
+9,I've Got To Use My Imagination,Gladys Knight And The Pips,6,4,12
+10,Jungle Boogie,Kool & The Gang,14,10,10
+11,The Joker,The Steve Miller Band,9,1,17
+12,Smokin' In The Boy's Room,Brownsville Station,11,3,16
+13,Rock On,David Essex,17,13,14
+14,Boogie Down,Eddie Kendricks,19,14,6
+15,Put Your Hands Together,The O'Jays,18,15,8
+16,Living For The City,Stevie Wonder,13,8,14
+17,Doo Doo Doo Doo Doo (heartbreaker),The Rolling Stones,22,17,5
+18,Time In A Bottle,Jim Croce,12,1,13
+19,I Love,Tom T. Hall,23,19,10
+20,"Never, Never Gonna Give Ya Up",Barry White,15,7,16
+21,Last Time I Saw Him,Diana Ross,27,21,6
+22,Midnight Rider,Gregg Allman,25,22,8
+23,Love Song,Anne Murray,29,23,9
+24,The Americans (A Canadian's Opinion),Gordon Sinclair,26,24,5
+25,The Most Beautiful Girl,Charlie Rich,21,1,20
+26,Jim Dandy,Black Oak Arkansas,28,26,9
+27,Seasons In The Sun,Terry Jacks,49,27,5
+28,Me And Baby Brother,War,16,15,14
+29,Baby Come Close,Smokey Robinson,33,29,13
+30,"""Joy"" Pt. I",Isaac Hayes,30,30,8
+31,Dark Lady,Cher,40,31,4
+32,Sexy Mama,The Moments,36,32,5
+33,Livin' For You,Al Green,24,19,10
+34,Abra-Ca-Dabra,The De Franco Family,37,34,7
+35,Can This Be Real,Natural Four,43,35,6
+36,Leave Me Alone (ruby Red Dress),Helen Reddy,32,3,15
+37,Helen Wheels,Paul McCartney And Wings,20,10,12
+38,I Shall Sing,Garfunkel,45,38,7
+39,I Like To Live The Love,B.B. King,42,39,10
+40,Come And Get Your Love,Redbone,51,40,5
+41,Daddy What If,Bobby Bare,44,41,6
+42,Eres Tu (Touch The Wind),Mocedades,55,42,5
+43,Last Kiss,Wednesday,47,43,12
+44,Trying To Hold On To My Woman,Lamont Dozier,54,44,8
+45,My Sweet Lady,Cliff DeYoung,50,45,6
+46,Let Your Hair Down,The Temptations,31,27,8
+47,Goodbye Yellow Brick Road,Elton John,35,2,16
+48,Top Of The World,Carpenters,39,1,19
+49,Rockin' Roll Baby,The Stylistics,46,14,17
+50,You're So Unique,Billy Preston,56,50,6
+51,Sunshine On My Shoulders,John Denver,77,51,3
+52,When I Fall In Love/Are You Lonesome Tonight,Donny Osmond,34,14,12
+53,You Sure Love To Ball,Marvin Gaye,66,53,3
+54,There Won't Be Anymore,Charlie Rich,67,54,3
+55,Hello It's Me,Todd Rundgren,52,5,19
+56,In The Mood,Bette Midler,72,56,3
+57,Walk Like A Man,Grand Funk,38,19,12
+58,Teenage Lament '74,Alice Cooper,48,48,7
+59,Mighty Love - Pt. 1,The Spinners,69,59,3
+60,I Miss You,The Dells,62,60,4
+61,Sister Mary Elephant (Shudd-Up!),Cheech & Chong,41,24,12
+62,WOLD,Harry Chapin,74,62,6
+63,What It Comes Down To,The Isley Brothers,68,63,7
+64,Star,Stealers Wheel,70,64,6
+65,Showdown,Electric Light Orchestra,53,53,11
+66,Mockingbird,Carly Simon & James Taylor,80,66,2
+67,"Rock And Roll, Hoochie Koo",Rick Derringer,79,67,4
+68,If You're Ready (Come Go With Me),The Staple Singers,57,9,16
+69,Jet,Paul McCartney And Wings,-1,69,1
+70,Jessica,The Allman Brothers Band,75,70,4
+71,Life Is A Song Worth Singing,Johnny Mathis,73,71,7
+72,We're Getting Careless With Our Love,Johnnie Taylor,82,72,3
+73,This Time I'm Gone For Good,"Bobby ""Blue"" Bland",59,42,13
+74,Love Has No Pride,Linda Ronstadt,63,51,11
+75,Energy Crisis '74,Dickie Goodman,89,75,2
+76,Raised On Robbery,Joni Mitchell,65,65,8
+77,Wang Dang Doodle,The Pointer Sisters,61,61,8
+78,Jolene,Dolly Parton,85,78,3
+79,Stoned To The Bone - Part 1,James Brown,71,58,11
+80,Lookin' For A Love,Bobby Womack,86,80,2
+81,Thanks For Saving My Life,Billy Paul,87,81,3
+82,Let Me Get To Know You,Paul Anka,83,82,6
+83,I Just Can't Get You Out Of My Mind,Four Tops,91,83,3
+84,Houston (I'm Comin' To See You),Glen Campbell,-1,84,1
+85,Tell Me A Lie,Sami Jo,-1,85,1
+86,Get That Gasoline Blues,NRBQ,90,86,2
+87,I Wish It Was Me,Tyrone Davis,93,87,2
+88,Stop To Start,Blue Magic,92,88,2
+89,Just Don't Want To Be Lonely,The Main Ingredient,96,89,2
+90,I've Got A Thing About You Baby/Take Good Care Of Her,Elvis Presley,-1,90,1
+91,That's The Sound That Lonely Makes,Tavares,94,91,2
+92,The Real Me,The Who,97,92,2
+93,"Quick, Fast, In A Hurry",New York City,98,93,2
+94,Must Be Love,The James Gang,100,94,2
+95,Try (Try To Fall In Love),Cooker,99,95,2
+96,She's Gone,Daryl Hall John Oates,-1,96,1
+97,Flashback,The 5th Dimension,84,82,9
+98,Homely Girl,The Chi-lites,-1,98,1
+99,A Mother For My Children,The Whispers,-1,99,1
+100,The Americans (A Canadian's Opinion),Tex Ritter,-1,100,1

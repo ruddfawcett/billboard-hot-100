@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Can See Clearly Now,Johnny Nash,1,1,10
+2,Nights In White Satin,The Moody Blues,2,2,15
+3,I'd Love You To Want Me,Lobo,8,3,8
+4,"Freddie's Dead (Theme From ""Superfly"")",Curtis Mayfield,4,4,13
+5,I'll Be Around,The Spinners,7,5,9
+6,Garden Party,Rick Nelson And The Stone Canyon Band,6,6,16
+7,My Ding-A-Ling,Chuck Berry,3,1,15
+8,I Am Woman,Helen Reddy,12,8,12
+9,Convention '72,The Delegates,26,9,4
+10,Witchy Woman,Eagles,15,10,10
+11,Listen To The Music,The Doobie Brothers,11,11,11
+12,If I Could Reach You,The 5th Dimension,14,12,10
+13,Papa Was A Rollin' Stone,The Temptations,17,13,5
+14,Burning Love,Elvis Presley,5,2,13
+15,Good Time Charlie's Got The Blues,Danny O'Keefe,9,9,11
+16,Summer Breeze,Seals & Crofts,21,16,10
+17,Ben,Michael Jackson,10,1,15
+18,Thunder And Lightning,Chi Coltrane,18,18,11
+19,Starting All Over Again,Mel And Tim,19,19,19
+20,If You Don't Know Me By Now,Harold Melvin And The Blue Notes,27,20,7
+21,You Ought To Be With Me,Al Green,31,21,4
+22,I Believe In Music,Gallery,22,22,14
+23,Spaceman,Nilsson,24,23,9
+24,Ventura Highway,America,37,24,4
+25,I'm Stone In Love With You,The Stylistics,41,25,5
+26,Elected,Alice Cooper,28,26,6
+27,It Never Rains In Southern California,Albert Hammond,39,27,4
+28,American City Suite,Cashman & West,30,28,8
+29,Loving You Just Crossed My Mind,Sam Neely,29,29,11
+30,Operator (That's Not the Way it Feels),Jim Croce,35,30,5
+31,Funny Face,Donna Fargo,45,31,7
+32,Crazy Horses,The Osmonds,50,32,4
+33,Something's Wrong With Me,Austin Roberts,46,33,5
+34,Don't Do It,The Band,34,34,9
+35,Rock 'N Roll Soul,Grand Funk Railroad,36,35,8
+36,Clair,Gilbert O'Sullivan,53,36,3
+37,All The Young Dudes,Mott The Hoople,40,37,8
+38,Rockin' Pneumonia - Boogie Woogie Flu,Johnny Rivers,44,38,6
+39,Why/Lonely Boy,Donny Osmond,25,13,12
+40,Use Me,Bill Withers,13,2,12
+41,Everybody Plays The Fool,The Main Ingredient,16,3,18
+42,Corner Of The Sky,Jackson 5,57,42,3
+43,The City Of New Orleans,Arlo Guthrie,23,18,16
+44,Dialogue (Part I & II),Chicago,51,44,3
+45,Tight Rope, Leon Russell,20,11,12
+46,That's How Love Goes,Jermaine Jackson,47,46,9
+47,Don't Ever Be Lonely (A Poor Little Fool Like Me),Cornelius Brothers & Sister Rose,33,23,11
+48,Me And Mrs. Jones,Billy Paul,74,48,2
+49,Sunny Days,Lighthouse,55,49,6
+50,Can't You Hear The Song?,Wayne Newton,48,48,8
+51,Let It Rain,Eric Clapton,54,51,8
+52,Poor Boy,Casey Kelly,52,52,8
+53,Woman Don't Go Astray,King Floyd,56,53,9
+54,Baby Sitter,Betty Wright,58,54,5
+55,Sweet Surrender,Bread,-1,55,1
+56,Theme From The Men,Isaac Hayes,60,56,4
+57,Man Sized Job,Denise LaSalle,61,57,6
+58,Why Can't We Be Lovers,Holland-Dozier,62,58,7
+59,So Long Dixie,"Blood, Sweat & Tears",59,59,7
+60,I Love You More Than You'll Ever Know,Donny Hathaway,64,60,4
+61,Work To Do,The Isley Brothers,70,61,3
+62,Living In The Past,Jethro Tull,76,62,2
+63,No,Bulldog,73,63,5
+64,I Didn't Know I Loved You (Till I Saw You Rock And Roll),Gary Glitter,71,64,2
+65,If You Can Beat Me Rockin' (You Can Have My Chair),Laura Lee,66,65,7
+66,If You Let Me,Eddie Kendricks,67,66,6
+67,What Am I Crying For?,Dennis Yost And The Classics IV,72,67,4
+68,We Can Make It Together,Steve & Eydie Featuring The Osmonds,68,68,9
+69,Wedding Song (There Is Love),Petula Clark,75,69,6
+70,Lies,J.J. Cale,79,70,2
+71,Keeper Of The Castle,Four Tops,-1,71,1
+72,In Heaven There Is No Beer,Clean Living,77,72,2
+73,Long Dark Road,The Hollies,89,73,2
+74,Special Someone,The Heywoods,83,74,3
+75,Down To The Nightclub,Tower Of Power,78,75,4
+76,One Night Affair,Jerry Butler,84,76,2
+77,Dancing In The Moonlight,King Harvest,81,77,3
+78,Sunday Morning Sunshine,Harry Chapin,80,78,4
+79,I Found My Dad,Joe Simon,82,79,2
+80,Guilty,Al Green,69,69,7
+81,992 Arguments,The O'Jays,-1,81,1
+82,I'll Make You Music,Beverly Bremers,63,63,9
+83,And You And I (Part II),Yes,-1,83,1
+84,Good Time Sally,Rare Earth ,85,84,2
+85,Walk On Water,Neil Diamond,-1,85,1
+86,Together Alone,Melanie,86,86,4
+87,I Guess I'll Miss The Man,The Supremes,88,87,4
+88,"Lovin' You, Lovin' Me",Candi Staton,90,88,2
+89,Your Mama Don't Dance,Kenny Loggins & Jim Messina,-1,89,1
+90,Annabelle,Daniel Boone,-1,90,1
+91,Misty Blue,Joe Simon,92,91,4
+92,The People Tree,"Sammy Davis, Jr. with The Mike Curb Congregation",95,92,4
+93,I Got A Thing About You Baby,Billy Lee Riley,93,93,2
+94,Roberta,Bones,94,94,2
+95,Celebration,Tommy James,100,95,2
+96,Do Ya,The Move,97,96,3
+97,Suite: Man And Woman,Tony Cole,99,97,3
+98,Smoke Gets In Your Eyes,Blue Haze,-1,98,1
+99,"You Turn Me On, I'm A Radio",Joni Mitchell,-1,99,1
+100,Mama Told Me Not To Come,Wilson Pickett,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Feel Fine,The Beatles,1,1,6
+2,Come See About Me,The Supremes,2,1,9
+3,Mr. Lonely,Bobby Vinton,3,1,11
+4,Love Potion Number Nine,The Searchers,5,4,7
+5,Downtown,Petula Clark,12,5,4
+6,Goin' Out Of My Head,Little Anthony And The Imperials,6,6,10
+7,Amen,The Impressions,8,7,8
+8,The Jerk,The Larks,9,8,9
+9,You've Lost That Lovin' Feelin',The Righteous Brothers,14,9,5
+10,The Wedding,Julie Rogers,10,10,8
+11,She's A Woman,The Beatles,4,4,6
+12,Sha La La,Manfred Mann,13,12,9
+13,Keep Searchin' (We'll Follow The Sun),Del Shannon,15,13,8
+14,Any Way You Want It,The Dave Clark Five,17,14,9
+15,How Sweet It Is To Be Loved By You,Marvin Gaye,19,15,8
+16,She's Not There,The Zombies,7,2,13
+17,Willow Weep For Me,Chad & Jeremy,18,17,9
+18,"My Love, Forgive Me (Amore, Scusami)",Robert Goulet,16,16,12
+19,Leader Of The Laundromat,The Detergents,23,19,6
+20,Ringo,Lorne Greene,11,1,11
+21,Thou Shalt Not Steal,Dick and DeeDee,25,21,8
+22,As Tears Go By,Marianne Faithfull,26,22,7
+23,Walk Away,Matt Monro,37,23,7
+24,Don't Forget I Still Love You,Bobbi Martin,31,24,7
+25,Dear Heart,Andy Williams,27,25,7
+26,Too Many Fish In The Sea,The Marvelettes,28,26,10
+27,I'm Into Something Good,Herman's Hermits,21,13,13
+28,Hold What You've Got,Joe Tex,40,28,4
+29,I'll Be There,Gerry And The Pacemakers,41,29,5
+30,Dear Heart,Jack Jones,33,30,7
+31,Do-Wacka-Do,Roger Miller,39,31,7
+32,One More Time,The Ray Charles Singers,34,32,9
+33,"Dance, Dance, Dance",The Beach Boys,22,8,10
+34,Wild One,Martha & The Vandellas,38,34,6
+35,Hawaii Tattoo,The Waikikis,49,35,6
+36,You're Nobody Till Somebody Loves You,Dean Martin,47,36,5
+37,Oh No Not My Baby,Maxine Brown,24,24,12
+38,The Name Game,Shirley Ellis,50,38,5
+39,Saturday Night At The Movies,The Drifters,30,18,9
+40,Mountain Of Love,Johnny Rivers,29,9,11
+41,Promised Land,Chuck Berry,45,41,5
+42,Give Him A Great Big Kiss,The Shangri-Las,57,42,3
+43,Boom Boom,The Animals,48,43,6
+44,All Day And All Of The Night,The Kinks,54,44,3
+45,What Now,Gene Chandler,46,45,6
+46,She Understands Me,Johnny Tillotson,35,31,11
+47,Roses Are Red My Love,"The ""You Know Who"" Group!",43,43,7
+48,I'm Gonna Be Strong,Gene Pitney,32,9,12
+49,Time Is On My Side,The Rolling Stones,20,6,13
+50,Let's Lock The Door (And Throw Away The Key),Jay & The Americans,62,50,3
+51,I Can't Stop,The Honeycombs,61,51,4
+52,Seven Letters,Ben E. King,55,52,4
+53,Smile,Betty Everett & Jerry Butler,42,42,6
+54,Somewhere In Your Heart,Frank Sinatra,68,54,4
+55,Have You Looked Into Your Heart,Jerry Vale,66,55,4
+56,Lovin' Place, Gale Garnett,59,56,6
+57,Look Of Love,Lesley Gore,71,57,3
+58,Makin' Whoopee,Ray Charles,58,58,5
+59,I'm Gonna Love You Too,The Hullaballoos,56,56,7
+60,(There's) Always Something There To Remind Me,Sandie Shaw,52,52,7
+61,Come On Do The Jerk,The Miracles,63,61,5
+62,"Bucket ""T""",Ronny And The Daytonas,75,62,4
+63,The 81,Candy & The Kisses,51,51,8
+64,You'll Always Be The One I Love,Dean Martin,72,64,3
+65,No Arms Can Ever Hold You,The Bachelors,80,65,3
+66,He's My Guy,Irma Thomas,69,66,4
+67,I Found A Love Oh What A Love,Jo Ann & Troy,70,67,5
+68,Little Bell,The Dixie Cups,73,68,4
+69,Paper Tiger,Sue Thompson,78,69,2
+70,Can You Jerk Like Me,The Contours,74,70,4
+71,Use Your Head,Mary Wells,90,71,2
+72,Do What You Do Do Well,Ned Miller,83,72,3
+73,Shake,Sam Cooke,-1,73,1
+74,Sometimes I Wonder,Major Lance,64,64,6
+75,Do It Right,Brook Benton,67,67,4
+76,Hey-Da-Da-Dow,The Dolphins,84,76,4
+77,Heart Of Stone,The Rolling Stones,-1,77,1
+78,"Lovely, Lovely (Loverly, Loverly)",Chubby Checker,82,78,2
+79,"The ""In"" Crowd",Dobie Gray,-1,79,1
+80,Dear Heart,Henry Mancini And His Orchestra,77,77,5
+81,Tell Her No,The Zombies,-1,81,1
+82,Danny Boy,Patti LaBelle And The Blue Belles,76,76,4
+83,"Laugh, Laugh",The Beau Brummels,96,83,2
+84,(There'll Come A Day When) Ev'ry Little Bit Hurts,Bobby Vee,86,84,5
+85,I Go To Pieces,Peter And Gordon,-1,85,1
+86,Blind Man,Bobby Bland,-1,86,1
+87,"The Sidewinder, Part 1",Lee Morgan,81,81,4
+88,Blind Man,Little Milton,88,88,2
+89,The Jolly Green Giant,The Kingsmen,-1,89,1
+90,Ode To The Little Brown Shack Out Back,Billy Edd Wheeler,98,90,2
+91,Are You Still My Baby,The Shirelles,93,91,3
+92,The Crusher,The Novas,-1,92,1
+93,Voice Your Choice,The Radiants,94,93,3
+94,The Crying Game,Brenda Lee,-1,94,1
+95,It's Better To Have It,Barbara Lynn,-1,95,1
+96,Twine Time,Alvin Cash & The Crawlers,100,96,2
+97,Whenever A Teenager Cries,Reparata And The Delrons,-1,97,1
+98,"Finders Keepers, Losers Weepers",Nella Dodds,-1,98,1
+99,"No Faith, No Love",Mitty Collier,-1,99,1
+100,Hello Pretty Girl,Ronnie Dove,-1,100,1

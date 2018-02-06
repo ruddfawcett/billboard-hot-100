@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Rock Your Baby,George McCrae,1,1,8
+2,ANNIE's SONG,John Denver,2,2,8
+3,Rock And Roll Heaven,The Righteous Brothers,10,3,9
+4,Don't Let The Sun Go Down On Me,Elton John,6,4,5
+5,On And On,Gladys Knight And The Pips,5,5,9
+6,Rock The Boat,The Hues Corporation,3,1,9
+7,Rikki Don't Lose That Number,Steely Dan,13,7,11
+8,You Won't See Me,Anne Murray,8,8,14
+9,The Air That I Breathe,The Hollies,9,9,14
+10,If You Love Me (let Me Know),Olivia Newton-John,12,5,15
+11,Sideshow,Blue Magic,14,11,10
+12,Sundown,Gordon Lightfoot,4,1,15
+13,"Billy, Don't Be A Hero",Bo Donaldson And The Heywoods,7,1,14
+14,One Hell Of A Woman,Mac Davis,11,11,17
+15,Radar Love,Golden Earring,16,15,11
+16,Feel Like Makin' Love,Roberta Flack,22,16,5
+17,Finally Got Myself Together (I'm A Changed Man),The Impressions,21,17,12
+18,Waterloo,ABBA,18,18,8
+19,Please Come To Boston,Dave Loggins,23,19,8
+20,Takin' Care Of Business,Bachman-Turner Overdrive,24,20,10
+21,If You Talk In Your Sleep,Elvis Presley,25,21,7
+22,Machine Gun,Commodores,26,22,6
+23,Call On Me,Chicago,27,23,5
+24,This Heart,Gene Redding,28,24,12
+25,Tell Me Something Good,Rufus Featuring Chaka Khan,39,25,6
+26,Band On The Run,Paul McCartney And Wings,15,1,14
+27,Be Thankful For What You Got,William DeVaughn,20,4,12
+28,Keep On Smilin',Wet Willie,35,28,9
+29,Fish Ain't Bitin',Lamont Dozier,34,29,6
+30,Come Monday,Jimmy Buffett,30,30,10
+31,Sure As I'm Sittin' Here,Three Dog Night,38,31,4
+32,The Night Chicago Died,Paper Lace,40,32,6
+33,Ballero,War,36,33,7
+34,Shinin' On,Grand Funk,63,34,2
+35,Wildwood Weed,Jim Stafford,62,35,3
+36,Rock Me Gently,Andy Kim,42,36,5
+37,You And Me Against The World,Helen Reddy,43,37,6
+38,Hollywood Swinging,Kool & The Gang,17,6,14
+39,Hang On In There Baby,Johnny Bristol,52,39,4
+40,Workin' At The Car Wash Blues,Jim Croce,32,32,7
+41,The Streak,Ray Stevens,29,1,15
+42,(You're) Having My Baby,Paul Anka with Odia Coates,58,42,3
+43,My Thang,James Brown,51,43,5
+44,Wild Thing,Fancy,55,44,6
+45,Kung Fu,Curtis Mayfield,69,45,5
+46,Midnight At The Oasis,Maria Muldaur,31,6,22
+47,Dancing Machine,Jackson 5,33,2,19
+48,Put Out The Light,Joe Cocker,53,48,5
+49,Rub It In,"Billy ""Crash"" Craddock",64,49,4
+50,I'm Leaving It (All) Up To You,Donny & Marie Osmond,65,50,3
+51,I'm Coming Home,The Spinners,37,18,10
+52,You Make Me Feel Brand New,The Stylistics,19,2,18
+53,Haven't Got Time For The Pain,Carly Simon,44,14,11
+54,Jive Turkey (Part 1),Ohio Players,47,47,6
+55,Room Full Of Roses,Mickey Gilley,50,50,7
+56,Save The Last Dance For Me,The DeFranco Family featuring Tony DeFranco,49,18,12
+57,Already Gone,Eagles,48,32,12
+58,Train Of Thought,Cher,41,27,9
+59,If You Wanna Get To Heaven,Ozark Mountain Daredevils,45,25,14
+60,Nothing From Nothing,Billy Preston,70,60,2
+61,La Grange,ZZ Top,54,41,17
+62,I Shot The Sheriff,Eric Clapton,76,62,2
+63,There Will Never Be Any Peace (Until God Is Seated At The Conference Table),The Chi-lites,66,63,6
+64,My Girl Bill,Jim Stafford,57,12,14
+65,Happiness Is Just Around The Bend,The Main Ingredient,71,65,4
+66,For The Love Of Money,The O'Jays,46,9,15
+67,It's Better To Have (and Don't Need),Don Covay,72,67,2
+68,The Loco-Motion,Grand Funk,60,1,20
+69,Old Home Filler-up An' Keep On-a-truckin' Cafe,C.W. McCall,75,69,4
+70,"You're Welcome, Stop On By",Bobby Womack,96,70,3
+71,Clap For The Wolfman,The Guess Who,-1,71,1
+72,River's Risin',Edgar Winter,-1,72,1
+73,Dance Master Pt. 1,Willie Henderson,88,73,3
+74,Beach Baby,First Class ,-1,74,1
+75,Between Her Goodbye And My Hello,Gladys Knight And The Pips,86,75,4
+76,Don't Knock My Love,Diana Ross & Marvin Gaye,90,76,2
+77,Time For Livin',Sly & The Family Stone,87,77,3
+78,Kalimba Story,"Earth, Wind & Fire",82,78,2
+79,Rings,Lobo,-1,79,1
+80,Secretary,Betty Wright,84,80,2
+81,Sugar Baby Love,The Rubettes,-1,81,1
+82,Don't Change Horses (In The Middle Of A Stream),Tower Of Power,-1,82,1
+83,How Do You Feel The Morning After,Millie Jackson,77,77,7
+84,Help Me,Joni Mitchell,67,7,19
+85,The Show Must Go On,Three Dog Night,73,4,19
+86,Rings,Reuben Howell,-1,86,1
+87,I've Been Born Again,Johnnie Taylor,78,78,4
+88,You've Got My Soul On Fire,The Temptations,74,74,5
+89,Rebel Rebel,David Bowie,68,64,8
+90,I've Had It,Fanny,95,79,7
+91,Walk On,Neil Young,91,91,2
+92,Air Disaster,Albert Hammond,81,81,4
+93,Tell Me That I'm Wrong,"Blood, Sweat & Tears",83,83,4
+94,You Can't Be A Beacon (if Your Light Don't Shine),Donna Fargo,79,79,4
+95,Worse Comes To Worst,Billy Joel,80,80,4
+96,Love Is The Message,MFSB Featuring The Three Degrees,85,85,3
+97,Good Things Don't Last Forever,"Ecstasy, Passion & Pain",93,93,3
+98,American Girls,Rick Springfield,98,98,2
+99,It Could Have Been Me,Sami Jo,99,99,2
+100,Ma! (He's Making Eyes At Me),Lena Zavaroni,100,100,2

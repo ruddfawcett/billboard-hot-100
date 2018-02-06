@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Jessie's Girl,Rick Springfield,3,1,19
+2,The One That You Love,Air Supply,1,1,12
+3,"Theme From ""Greatest American Hero"" (Believe It or Not)",Joey Scarbury,4,3,13
+4,I Don't Need You,Kenny Rogers,6,4,8
+5,Elvira,The Oak Ridge Boys,5,5,12
+6,Slow Hand,The Pointer Sisters,7,6,10
+7,Bette Davis Eyes,Kim Carnes,2,1,19
+8,Boy From New York City,The Manhattan Transfer,9,8,11
+9,Hearts,Marty Balin,10,9,11
+10,Queen Of Hearts,Juice Newton,14,10,10
+11,You Make My Dreams,Daryl Hall John Oates,8,5,14
+12,Gemini Dream,The Moody Blues,13,12,9
+13,(There's) No Gettin' Over Me,Ronnie Milsap,16,13,6
+14,Endless Love,Diana Ross & Lionel Richie,24,14,4
+15,Time,The Alan Parsons Project,17,15,16
+16,Touch Me When We're Dancing,Carpenters,19,16,7
+17,Lady (You Bring Me Up),Commodores,25,17,7
+18,The Stroke,Billy Squier,20,18,12
+19,Sweet Baby,Stanley Clarke/George Duke,21,19,14
+20,It's Now Or Never,John Schneider,23,20,10
+21,All Those Years Ago,George Harrison ,11,2,11
+22,Urgent,Foreigner,27,22,5
+23,In The Air Tonight,Phil Collins,28,23,10
+24,Don't Let Him Go,REO Speedwagon,26,24,8
+25,Medley,Stars On 45,12,1,17
+26,Modern Girl,Sheena Easton,18,18,13
+27,The Breakup Song (They Don't Write 'Em),Greg Kihn Band,29,27,11
+28,Cool Love,Pablo Cruise,34,28,5
+29,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,15,4,22
+30,Who's Crying Now,Journey,56,30,3
+31,Fire And Ice,Pat Benatar ,44,31,3
+32,Double Dutch Bus,Frankie Smith,33,32,12
+33,Rock And Roll Dreams Come Through,Jim Steinman,37,33,10
+34,Don't Give It Up,Robbie Patton,45,34,4
+35,Feels So Right,Alabama,39,35,9
+36,Love On A Two Way Street,Stacy Lattisaw,42,36,7
+37,Don't Want To Wait Anymore,The Tubes,41,37,7
+38,Stop Draggin' My Heart Around,Stevie Nicks With Tom Petty And The Heartbreakers,57,38,2
+39,Really Wanna Know You,Gary Wright,49,39,5
+40,You're My Girl,Franke & The Knockouts,50,40,5
+41,Everlasting Love,Rex Smith/Rachel Sweet,47,41,6
+42,Seven Year Ache,Rosanne Cash,22,22,15
+43,This Little Girl,Gary U.S. Bonds,30,11,15
+44,Tom Sawyer,Rush,46,44,9
+45,Nightwalker,Gino Vannelli,51,45,5
+46,Hold On Tight,Electric Light Orchestra,67,46,2
+47,Fly Away,Blackfoot,52,47,7
+48,Nicole,Point Blank,54,48,6
+49,That Old Song,Ray Parker Jr. & Raydio,61,49,4
+50,Step By Step, Eddie Rabbitt,65,50,2
+51,America,Neil Diamond,32,8,15
+52,Stranger,Jefferson Starship,58,52,4
+53,Breaking Away,Balance,63,53,4
+54,Nothing Ever Goes As Planned,Styx,62,54,4
+55,I Love You,Climax Blues Band,35,12,24
+56,Sukiyaki,A Taste Of Honey,36,3,22
+57,Stronger Than Before,Carole Bayer Sager,38,30,12
+58,Give It To Me Baby,Rick James,40,40,10
+59,A Life Of Illusion,Joe Walsh,43,34,11
+60,Winning,Santana,31,17,17
+61,Is It You,Lee Ritenour,48,15,15
+62,The Beach Boys Medley,The Beach Boys,76,62,2
+63,Fantasy Girl,38 Special,53,52,9
+64,Suzi,Randy VanWarmer,55,55,7
+65,What Are We Doin' In Love,Dottie West with Kenny Rogers,59,14,19
+66,You Don't Know Me,Mickey Gilley,74,66,4
+67,Jolé Blon,Gary U.S. Bonds,77,67,3
+68,Medley II,Stars On 45,72,68,3
+69,You Could Take My Heart Away,Silver Condor,78,69,2
+70,Pay You Back With Interest,Gary O',80,70,3
+71,I Could Never Miss You (More Than I Do),Lulu,-1,71,1
+72,Square Biz,Teena Marie,82,72,2
+73,For Your Eyes Only,Sheena Easton,83,73,2
+74,General Hospi-tale,The Afternoon Delights,84,74,2
+75,Heavy Metal (Takin' A Ride),Don Felder,85,75,2
+76,Secrets,Mac Davis,79,76,4
+77,You're Mine Tonight,Pure Prairie League,86,77,2
+78,Some Days Are Diamonds (Some Days Are Stone),John Denver,87,67,8
+79,I'm In Love,Evelyn King,88,79,2
+80,Chloe,Elton John,89,80,2
+81,Summer '81 medley,The Cantina Band (featuring Lou Christie),90,81,2
+82,A Woman In Love (It's Not Me),Tom Petty And The Heartbreakers,-1,82,1
+83,Tempted,Squeeze,-1,83,1
+84,Two Hearts,Stephanie Mills Featuring Teddy Pendergrass,60,40,12
+85,The Sensitive Kind,Santana,-1,85,1
+86,We Can Get Together,Icehouse,-1,86,1
+87,Fool In Love With You,Jim Photoglo,66,25,16
+88,We're In This Love Together,Al Jarreau,-1,88,1
+89,Being With You,Smokey Robinson,64,2,25
+90,Living Inside Myself,Gino Vannelli,69,6,20
+91,Nobody Wins,Elton John,70,21,13
+92,Take It On The Run,REO Speedwagon,73,5,20
+93,The Real Thing,The Brothers Johnson,93,67,6
+94,It Didn't Take Long,Spider,68,43,10
+95,The Kid Is Hot Tonite,Loverboy,75,55,7
+96,Love Light,Yutaka,81,81,3
+97,Shaddap You Face,Joe Dolce,91,53,14
+98,Under The Covers,Janis Ian,71,71,4
+99,On And On And On,ABBA,94,90,6
+100,You Are Forever,Smokey Robinson,92,59,7

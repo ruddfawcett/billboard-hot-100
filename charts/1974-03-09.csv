@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Seasons In The Sun,Terry Jacks,1,1,9
+2,Boogie Down,Eddie Kendricks,4,2,10
+3,The Way We Were,Barbra Streisand,2,1,16
+4,Jungle Boogie,Kool & The Gang,5,4,14
+5,Rock On,David Essex,6,5,18
+6,Dark Lady,Cher,9,6,8
+7,Spiders & Snakes,Jim Stafford,3,3,18
+8,Mockingbird,Carly Simon & James Taylor,13,8,6
+9,Until You Come Back To Me (That's What I'm Gonna Do),Aretha Franklin,7,3,16
+10,Sunshine On My Shoulders,John Denver,17,10,7
+11,Love's Theme,Love Unlimited Orchestra,8,1,15
+12,Love Song,Anne Murray,14,12,13
+13,Eres Tu (Touch The Wind),Mocedades,18,13,9
+14,Jet,Paul McCartney And Wings,20,14,5
+15,Put Your Hands Together,The O'Jays,10,10,12
+16,I Love,Tom T. Hall,12,12,14
+17,Come And Get Your Love,Redbone,24,17,9
+18,Sexy Mama,The Moments,19,18,9
+19,Trying To Hold On To My Woman,Lamont Dozier ,23,19,12
+20,You're Sixteen,Ringo Starr,11,1,13
+21,Hooked On A Feeling,Blue Swede,38,21,4
+22,My Sweet Lady,Cliff DeYoung,22,22,10
+23,Bennie And The Jets,Elton John,32,23,4
+24,Mighty Love - Pt. 1,The Spinners,30,24,7
+25,Let Me Be There,Olivia Newton-John,15,6,17
+26,There Won't Be Anymore,Charlie Rich,28,26,7
+27,Last Time I Saw Him,Diana Ross,16,14,10
+28,I Like To Live The Love,B.B. King,29,28,14
+29,"Rock And Roll, Hoochie Koo",Rick Derringer,36,29,8
+30,Americans,Byron MacGregor,21,4,10
+31,The Lord's Prayer,Sister Janet Mead,50,31,3
+32,Best Thing That Ever Happened To Me,Gladys Knight And The Pips,44,32,4
+33,Star,Stealers Wheel,41,33,10
+34,Doo Doo Doo Doo Doo (heartbreaker),The Rolling Stones,25,15,9
+35,Energy Crisis '74,Dickie Goodman,33,33,6
+36,A Very Special Love Song,Charlie Rich,51,36,3
+37,Lookin' For A Love,Bobby Womack,46,37,6
+38,Last Kiss,Wednesday,34,34,16
+39,Show And Tell,Al Wilson,26,1,21
+40,Midnight Rider,Gregg Allman,27,19,12
+41,I've Got To Use My Imagination,Gladys Knight And The Pips,37,4,16
+42,TSOP (The Sound Of Philadelphia),MFSB Featuring The Three Degrees,65,42,2
+43,We're Getting Careless With Our Love,Johnnie Taylor,49,43,7
+44,WOLD,Harry Chapin,48,44,10
+45,I've Got A Thing About You Baby/Take Good Care Of Her,Elvis Presley,47,45,5
+46,I'll Be The Other Woman,The Soul Children,56,46,4
+47,Just Don't Want To Be Lonely,The Main Ingredient,57,47,6
+48,Jim Dandy,Black Oak Arkansas,39,25,13
+49,Abra-Ca-Dabra,The De Franco Family,45,32,11
+50,Can This Be Real,Natural Four,35,31,10
+51,Thanks For Saving My Life,Billy Paul,52,51,7
+52,On A Night Like This,Bob Dylan,63,52,3
+53,"Touch A Hand, Make A Friend",The Staple Singers,69,53,3
+54,Life Is A Song Worth Singing,Johnny Mathis,59,54,11
+55,Let It Ride,Bachman-Turner Overdrive,67,55,3
+56,Tell Me A Lie,Sami Jo,66,56,5
+57,In The Mood,Bette Midler,54,51,7
+58,I'll Have To Say I Love You In A Song,Jim Croce,73,58,2
+59,Homely Girl,The Chi-lites,58,58,5
+60,Jolene,Dolly Parton,60,60,7
+61,I Wish It Was Me,Tyrone Davis,62,61,6
+62,I Just Can't Get You Out Of My Mind,Four Tops,64,62,7
+63,"Honey Please, Can't Ya See",Barry White,77,63,3
+64,What It Comes Down To, The Isley Brothers,55,55,11
+65,Oh My My,Ringo Starr,-1,65,1
+66,It's Been A Long Time,The New Birth,74,66,4
+67,My Mistake (Was To Love You),Diana Ross & Marvin Gaye,78,67,3
+68,Houston (I'm Comin' To See You),Glen Campbell,68,68,5
+69,She's Gone,Daryl Hall John Oates,72,69,5
+70,That's The Sound That Lonely Makes,Tavares,71,70,6
+71,Piano Man,Billy Joel,84,71,3
+72,Would You Lay With Me (in A Field Of Stone),Tanya Tucker,76,72,4
+73,Must Be Love,The James Gang,79,73,6
+74,Tubular Bells,Mike Oldfield,87,74,3
+75,Outside Woman,Bloodstone,85,75,3
+76,Your Cash Ain't Nothin' But Trash,The Steve Miller Band,83,76,2
+77,Virginia (Touch Me Like You Do),Bill Amesbury,81,77,4
+78,Star Baby,The Guess Who,82,78,4
+79,"Quick, Fast, In A Hurry",New York City,80,79,6
+80,Beyond The Blue Horizon,Lou Christie,88,80,4
+81,Watching The River Run,Loggins & Messina,86,81,2
+82,The Loco-Motion,Grand Funk,-1,82,1
+83,Midnight At The Oasis,Maria Muldaur,90,83,3
+84,I'm A Train,Albert Hammond ,94,84,2
+85,Unborn Child,Seals & Crofts,89,85,2
+86,Keep On Singing,Helen Reddy,-1,86,1
+87,Stop To Start,Blue Magic,75,74,6
+88,There's Got To Be Rain In Your Life (To Appreciate The Sunshine),Dorothy Norwood,92,88,3
+89,She,Southcote,-1,89,1
+90,Touch And Go,Al Wilson,-1,90,1
+91,The Crude Oil Blues,Jerry Reed,93,91,4
+92,Goin' Down Slow,"Bobby ""Blue"" Bland",95,92,2
+93,Get That Gasoline Blues,NRBQ,70,70,6
+94,Best Thing That Ever Happened To Me,The Persuaders,99,94,2
+95,Mighty Mighty,"Earth, Wind & Fire",-1,95,1
+96,Pepper Box,The Peppers,-1,96,1
+97,Newsy Neighbors,First Choice,97,97,2
+98,Mr. Natural,Bee Gees,-1,98,1
+99,Music Eyes,Heartsfield,100,99,2
+100,Once You Understand,Think,-1,100,1

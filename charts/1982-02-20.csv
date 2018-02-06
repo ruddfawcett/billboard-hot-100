@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Centerfold,The J. Geils Band,1,1,16
+2,I Can't Go For That (No Can Do),Daryl Hall John Oates,2,1,15
+3,Harden My Heart,Quarterflash,3,3,19
+4,Open Arms,Journey,4,4,6
+5,Shake It Up,The Cars,6,5,14
+6,That Girl,Stevie Wonder,22,6,6
+7,The Sweetest Thing (I've Ever Known),Juice Newton,7,7,19
+8,Sweet Dreams,Air Supply,10,8,11
+9,Physical,Olivia Newton-John,8,1,21
+10,Leader Of The Band,Dan Fogelberg,12,10,13
+11,Turn Your Love Around,George Benson,5,5,18
+12,Take It Easy On Me,Little River Band,14,12,12
+13,Waiting On A Friend,The Rolling Stones,13,13,12
+14,"Mirror, Mirror",Diana Ross,19,14,7
+15,You Could Have Been With Me,Sheena Easton,17,15,13
+16,Through The Years,Kenny Rogers,18,16,9
+17,Love In The First Degree,Alabama,21,17,15
+18,I Love Rock 'N Roll,Joan Jett & the Blackhearts,39,18,3
+19,Spirits In The Material World,The Police,25,19,6
+20,Love Is Alright Tonite,Rick Springfield,20,20,12
+21,Somewhere Down The Road,Barry Manilow,23,21,10
+22,Pac-Man Fever,Buckner & Garcia,24,22,7
+23,Key Largo,Bertie Higgins,26,23,15
+24,We Got The Beat,Go-Go's,31,24,4
+25,Bobbie Sue,The Oak Ridge Boys,36,25,6
+26,Abacab,Genesis,28,26,9
+27,Tonight I'm Yours (Don't Hurt Me),Rod Stewart,34,27,5
+28,All Our Tomorrows,Eddie Schwartz,30,28,11
+29,Working For The Weekend,Loverboy,29,29,15
+30,Daddy's Home,Cliff Richard,32,30,6
+31,Should I Do It,The Pointer Sisters,37,31,5
+32,When All Is Said And Done,ABBA,35,32,7
+33,Call Me,Skyy,42,33,6
+34,Chariots Of Fire - Titles,Vangelis,44,34,11
+35,One Hundred Ways,Quincy Jones Featuring James Ingram,40,35,10
+36,Waiting For A Girl Like You,Foreigner,9,2,20
+37,Love Is Like A Rock,Donnie Iris,38,37,10
+38,Do You Believe In Love,Huey Lewis & The News,49,38,3
+39,Cool Night,Paul Davis,11,11,16
+40,Take Off,Bob & Doug McKenzie,54,40,4
+41,I Believe,Chilliwack,48,41,6
+42,Crazy (Keep On Falling),The John Hall Band,43,42,9
+43,Let The Feeling Flow,Peabo Bryson,47,43,7
+44,Let's Get It Up,AC/DC,46,44,6
+45,"You're My Latest, My Greatest Inspiration",Teddy Pendergrass,45,45,7
+46,Tell Me Tomorrow - Part I,Smokey Robinson,50,46,6
+47,My Guy,Sister Sledge,61,47,4
+48,If Looks Could Kill,Player,53,48,5
+49,Make A Move On Me,Olivia Newton-John,69,49,2
+50,On The Way To The Sky,Neil Diamond,70,50,2
+51,Wanna Be With You,"Earth, Wind & Fire",51,51,5
+52,867-5309/jenny,Tommy Tutone,58,52,5
+53,Don't Let Him Know,Prism,62,53,4
+54,Just Can't Win 'em All,Stevie Woods,60,54,5
+55,Circle Of Love,The Steve Miller Band,55,55,5
+56,Genius Of Love,Tom Tom Club,57,56,5
+57,I'll Fall In Love Again,Sammy Hagar,63,57,4
+58,Anyone Can See,Irene Cara,64,58,12
+59,Theme From Magnum P.i.,Mike Post,66,59,3
+60,Another Sleepless Night,Anne Murray,68,60,4
+61,Juke Box Hero,Foreigner,73,61,2
+62,(oh) Pretty Woman,Van Halen,74,62,3
+63,Voice On The Radio,Conductor,65,63,4
+64,Tainted Love,Soft Cell,67,64,6
+65,Here To Love You,The Doobie Brothers,71,65,3
+66,Why You Wanna Try Me,Commodores,72,66,3
+67,Freeze-frame,The J. Geils Band,-1,67,1
+68,Leather And Lace,Stevie Nicks With Don Henley,16,6,18
+69,Pop Goes The Movies Part I,Meco,77,69,2
+70,Only One You,T.G. Sheppard,76,70,4
+71,Natural Love,Petula Clark,80,71,3
+72,Nobody Said It Was Easy (Lookin' For The Lights),Le Roux,85,72,2
+73,Edge Of Seventeen (Just Like The White Winged Dove),Stevie Nicks,-1,73,1
+74,Hooked On Classics,Royal Philharmonic Orchestra,15,10,17
+75,Let's Groove,"Earth, Wind & Fire",27,3,21
+76,Sea Of Love,Del Shannon,33,33,11
+77,Find Another Fool,Quarterflash,87,77,2
+78,Opposites Do Attract,All Sports Band,78,78,3
+79,You Can,Madleen Kane,79,79,3
+80,Apache,Sugarhill Gang,88,80,2
+81,Our Lips Are Sealed,Go-Go's,81,20,26
+82,Mama Used To Say,Junior,86,82,2
+83,Goin' Down,Greg Guidry,90,83,2
+84,Never Give Up On A Good Thing,George Benson,-1,84,1
+85,Shine On,George Duke,-1,85,1
+86,Memory,Barbra Streisand,-1,86,1
+87,Comin' In And Out Of Your Life,Barbra Streisand,41,11,15
+88,Trouble,Lindsey Buckingham,52,9,18
+89,Steppin' Out,Kool & The Gang,89,89,2
+90,Summer Nights,Survivor,-1,90,1
+91,Cool (Part 1),The Time,91,91,4
+92,Be Mine (Tonight),"Grover Washington, Jr.",93,92,3
+93,Running,Chubby Checker,-1,93,1
+94,Come Go With Me,The Beach Boys,56,18,14
+95,Perhaps Love,Placido Domingo & John Denver,59,59,6
+96,Why Do Fools Fall In Love,Diana Ross,75,7,19
+97,Start It All Over,McGuffey Lane,98,97,3
+98,Someone Could Lose A Heart Tonight,Eddie Rabbitt,82,15,15
+99,Young Turks,Rod Stewart,83,5,19
+100,She's Got A Way,Billy Joel,84,23,14

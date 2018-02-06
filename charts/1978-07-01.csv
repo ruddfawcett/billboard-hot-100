@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Shadow Dancing,Andy Gibb,1,1,12
+2,Baker Street,Gerry Rafferty,2,2,11
+3,It's A Heartache,Bonnie Tyler,3,3,15
+4,Take A Chance On Me,ABBA,5,4,11
+5,Use Ta Be My Girl,The O'Jays,7,5,10
+6,You Belong To Me,Carly Simon,6,6,12
+7,Still The Same,Bob Seger & The Silver Bullet Band,9,7,8
+8,Love Is Like Oxygen,Sweet,8,8,20
+9,Dance With Me,Peter Brown With Betty Wright,10,9,18
+10,The Groove Line,Heatwave,11,10,9
+11,You're The One That I Want,John Travolta & Olivia Newton-John,4,1,14
+12,Two Out Of Three Ain't Bad,Meat Loaf,12,12,16
+13,Because The Night,Patti Smith Group,13,13,13
+14,Miss You,The Rolling Stones,25,14,6
+15,Bluer Than Blue,Michael Johnson,17,15,11
+16,Every Kinda People,Robert Palmer,16,16,15
+17,Last Dance,Donna Summer,20,17,8
+18,You're The Love,Seals & Crofts,18,18,12
+19,Even Now,Barry Manilow,19,19,9
+20,"Too Much, Too Little, Too Late",Johnny Mathis/Deniece Williams,14,1,14
+21,Wonderful Tonight,Eric Clapton,27,21,8
+22,I Was Only Joking,Rod Stewart,22,22,10
+23,Follow You Follow Me,Genesis,23,23,11
+24,I Can't Stand The Rain,Eruption,29,24,17
+25,Only The Good Die Young,Billy Joel,30,25,8
+26,Grease, Frankie Valli,31,26,6
+27,Feels So Good,Chuck Mangione,15,4,21
+28,Runaway,Jefferson Starship,35,28,6
+29,Thank God It's Friday,Love And Kisses,34,29,9
+30,Love Will Find A Way,Pablo Cruise,44,30,5
+31,Life's Been Good,Joe Walsh,50,31,4
+32,Chattanooga Choo Choo,Tuxedo Junction,41,32,11
+33,If Ever I See You Again,Roberta Flack,40,33,7
+34,FM (No Static At All),Steely Dan,42,34,5
+35,It's The Same Old Song,KC And The Sunshine Band,36,35,8
+36,Stone Blue,Foghat,37,36,7
+37,My Angel Baby,Toby Beau,43,37,5
+38,"Hot Love, Cold World",Bob Welch,45,38,5
+39,Magnet And Steel,Walter Egan,46,39,6
+40,Songbird,Barbra Streisand,51,40,3
+41,King Tut,Steve Martin And The Toot Uncommons,47,41,6
+42,Copacabana (at The Copa),Barry Manilow,48,42,4
+43,I'm Not Gonna Let It Bother Me Tonight,Atlanta Rhythm Section,49,43,4
+44,Can We Still Be Friends,Todd Rundgren,52,44,6
+45,Stay/The Load-Out,Jackson Browne,53,45,4
+46,I Don't Wanna Go,Joey Travolta,54,46,5
+47,Will You Still Love Me Tomorrow,Dave Mason,55,47,5
+48,Rivers Of Babylon,Boney M,56,48,5
+49,Three Times A Lady,Commodores,63,49,3
+50,You Can't Dance,England Dan & John Ford Coley,58,50,5
+51,Prove It All Night,Bruce Springsteen,60,51,4
+52,Hot Blooded,Foreigner,-1,52,1
+53,That Once In A Lifetime,Demis Roussos,57,53,5
+54,Dance Across The Floor,"Jimmy ""Bo"" Horne",38,38,14
+55,Love Or Something Like It,Kenny Rogers,65,55,5
+56,With A Little Luck,Wings,26,1,15
+57,Almost Summer,Celebration featuring Mike Love,28,28,10
+58,On Broadway,George Benson,21,7,17
+59,Deacon Blues,Steely Dan,32,19,14
+60,Stuff Like That,Quincy Jones,70,60,4
+61,I've Had Enough, Wings,71,61,3
+62,Heartless,Heart,33,24,13
+63,You're A Part Of Me,Gene Cotton With Kim Carnes,73,63,3
+64,Portrait (He Knew),Kansas,64,64,4
+65,I Need To Know,Tom Petty And The Heartbreakers,75,65,3
+66,Shame,"Evelyn ""Champagne"" King",77,66,3
+67,This Night Won't Last Forever,Bill LaBounty,69,67,6
+68,Hot Child In The City,Nick Gilder,68,68,4
+69,Mr. Blue Sky,Electric Light Orchestra,79,69,2
+70,Just What I Needed,The Cars,80,70,3
+71,Oh What A Night For Dancing,Barry White,24,24,10
+72,Boogie Oogie Oogie,A Taste Of Honey,82,72,2
+73,Two Tickets To Paradise,Eddie Money,83,73,2
+74,"God Knows/Baby, I'm Yours",Debby Boone,74,74,6
+75,Never Let Her Slip Away,Andrew Gold,76,75,3
+76,Macho Man,Village People,86,76,2
+77,Warm Ride,Rare Earth,39,39,10
+78,Dream Lover,The Marshall Tucker Band,88,78,2
+79,You Don't Love Me Anymore,Eddie Rabbitt,89,79,2
+80,Trans-europe Express,Kraftwerk,67,67,4
+81,New Orleans Ladies,Louisiana's Le Roux,91,81,2
+82,Daylight And Darkness,Smokey Robinson,85,82,4
+83,You,Rita Coolidge,-1,83,1
+84,On The Wrong Track,Kevin Lamb,87,84,2
+85,Anytime,Journey,-1,85,1
+86,You And I,Rick James,-1,86,1
+87,Roll With The Changes,REO Speedwagon,81,58,8
+88,Only One Love In My Life,Ronnie Milsap,-1,88,1
+89,Runaway Love,Linda Clifford,-1,89,1
+90,Shaker Song,Spyro Gyra,90,90,3
+91,Ain't Nothing Gonna Keep Me From You,Teri DeSario,-1,91,1
+92,Ca Plane Pour Moi,Plastic Bertrand,61,47,10
+93,So Hard Livin' Without You,Airwaves,62,62,5
+94,Cheeseburger In Paradise,Jimmy Buffett,59,32,11
+95,Baby Hold On,Eddie Money,66,11,19
+96,He's So Fine,Jane Olivor,78,77,7
+97,Georgia On My Mind,Willie Nelson,84,84,6
+98,The Closer I Get To You,Roberta Flack With Donny Hathaway,72,2,20
+99,Disco Inferno,The Trammps,92,11,29
+100,This Time I'm In It For Love,Player,93,10,17

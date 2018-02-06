@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sherry,The 4 Seasons,11,1,4
+2,Sheila,Tommy Roe,1,1,8
+3,Ramblin' Rose,Nat King Cole,4,3,7
+4,The Loco-Motion,Little Eva,3,1,12
+5,Green Onions,Booker T. & The MG's,22,5,6
+6,She's Not You, Elvis Presley With The Jordanaires,5,5,7
+7,Teen Age Idol,Rick Nelson,9,7,6
+8,You Don't Know Me,Ray Charles,2,2,8
+9,Patches,Dickey Lee,20,9,4
+10,Rinky Dink,Baby Cortez,12,10,10
+11,Breaking Up Is Hard To Do,Neil Sedaka,6,1,12
+12,You Beat Me To The Punch,Mary Wells,28,12,6
+13,You Belong To Me,The Duprees,18,13,7
+14,Party Lights,Claudine Clark,7,5,12
+15,Let's Dance,Chris Montez ,32,15,6
+16,Devil Woman,Marty Robbins,16,16,8
+17,Send Me The Pillow You Dream On,Johnny Tillotson,21,17,6
+18,Alley Cat,Bent Fabric and His Piano,19,18,8
+19,Venus In Blue Jeans,Jimmy Clanton,26,19,5
+20,Beechwood 4-5789,The Marvelettes,31,20,6
+21,Point Of No Return,Gene McDaniels,23,21,7
+22,Silver Threads And Golden Needles,The Springfields,24,22,7
+23,Shame On Me,Bobby Bare,25,23,9
+24,Things,Bobby Darin,8,3,11
+25,A Wonderful Dream,The Majors,35,25,6
+26,A Swingin' Safari,Billy Vaughn And His Orchestra,13,13,9
+27,Lie To Me,Brook Benton,41,27,4
+28,Come On Little Angel,The Belmonts,33,28,9
+29,Your Nose Is Gonna Grow,Johnny Crawford,15,14,6
+30,Surfin' Safari,The Beach Boys,46,30,6
+31,What's A Matter Baby (Is It Hurting You),Timi Yuro,14,12,10
+32,Hully Gully Baby,The Dovells,48,32,6
+33,Rain Rain Go Away,Bobby Vinton,50,33,4
+34,Stop The Wedding,Etta James,37,34,8
+35,If I Had A Hammer (The Hammer Song),"Peter, Paul & Mary",36,35,5
+36,What Kind Of Love Is This,Joey Dee & the Starliters,47,36,4
+37,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",72,37,2
+38,Vacation,Connie Francis,10,9,8
+39,I'm The Girl From Wolverton Mountain,Jo Ann Campbell,40,39,5
+40,Punish Her,Bobby Vee,59,40,3
+41,It Might As Well Rain Until September,Carole King,52,41,4
+42,Do You Love Me,The Contours,55,42,6
+43,Mr. Songwriter,Connie Stevens,45,43,7
+44,Roses Are Red (My Love),Bobby Vinton,17,1,15
+45,Little Diane,Dion,34,8,11
+46,I Love You The Way You Are,Bobby Vinton,51,46,6
+47,Twist And Shout,The Isley Brothers,39,17,16
+48,Baby Elephant Walk,Lawrence Welk And His Orchestra,49,48,15
+49,The Boys' Night Out,Patti Page,54,49,7
+50,Till Death Do Us Part,Bob Braun,27,26,9
+51,Papa-Oom-Mow-Mow,The Rivingtons,53,51,5
+52,Make It Easy On Yourself,Jerry Butler,29,20,11
+53,I Remember You,Frank Ifield,76,53,2
+54,I Left My Heart In San Francisco,Tony Bennett,62,54,6
+55,Every Night (Without You),Paul Anka,63,55,4
+56,Lollipops And Roses,Paul Petersen,67,56,4
+57,You Can't Judge A Book By The Cover,Bo Diddley,60,57,5
+58,Bring It On Home To Me,Sam Cooke,42,13,11
+59,Yield Not To Temptation,Bobby Bland,70,59,6
+60,Call Me Mr. In-Between,Burl Ives,44,19,9
+61,Lolita Ya-Ya,The Ventures,69,61,7
+62,Long As The Rose Is Red,Florraine Darlin,73,62,4
+63,Torture,Kris Jensen,83,63,3
+64,"Hide & Go Seek, Part I",Bunker Hill,81,64,4
+65,I Keep Forgettin',Chuck Jackson,71,65,3
+66,What's Gonna Happen When Summer's Done,Freddy Cannon,79,66,2
+67,(Theme from) A Summer Place,Dick Roman,64,64,7
+68,Only Love Can Break A Heart,Gene Pitney,-1,68,1
+69,Stop The Music,The Shirelles,78,69,2
+70,Popeye (The Hitchhiker),Chubby Checker,-1,70,1
+71,If I Didn't Have A Dime (To Play The Jukebox),Gene Pitney,75,71,3
+72,A Taste Of Honey,Martin Denny and His Orchestra,56,50,10
+73,Don't You Worry,Don Gardner And Dee Dee Ford,77,73,4
+74,Don't Go Near The Indians,Rex Allen,-1,74,1
+75,Beach Party,King Curtis And The Noble Knights,86,60,9
+76,Glory Of Love,Don Gardner And Dee Dee Ford,-1,76,4
+77,Little Black Book,Jimmy Dean,-1,77,1
+78,So What,Bill Black's Combo,82,78,6
+79,Limbo Rock,Chubby Checker,85,79,2
+80,No One Will Ever Know,Jimmie Rodgers,88,80,3
+81,Lookin' For A Love,The Valentinos,87,81,5
+82,The Things We Did Last Summer,Shelley Fabares,-1,82,1
+83,Stormy Monday Blues,Bobby Bland,93,83,2
+84,Big Love,Joe Henderson,100,84,2
+85,Sweet Sixteen Bars,Earl Grant,90,85,2
+86,Broken Heart,The Fiestas,89,86,4
+87,What Kind Of Fool Am I,Sammy Davis Jr.,97,87,3
+88,There Is No Greater Love,The Wanderers,92,88,4
+89,The Swiss Maid,Del Shannon,-1,89,1
+90,What Time Is It?,The Jive Five With Eugene Pitts,-1,90,1
+91,He's A Rebel,The Crystals,98,91,2
+92,Copy Cat,Gary U.S. Bonds,94,92,3
+93,I Really Don't Want To Know,Solomon Burke,95,93,2
+94,Bonanza!,Johnny Cash,-1,94,1
+95,Way Over There,The Miracles,-1,95,1
+96,Don't You Believe It,Andy Williams,-1,96,1
+97,Sweet Little Sixteen,Jerry Lee Lewis,-1,97,1
+98,Close To Cathy,Mike Clifford,-1,98,1
+99,Ol' Man River,Jimmy Smith,-1,99,2
+100,Your Heart Belongs To Me,The Supremes,-1,95,3

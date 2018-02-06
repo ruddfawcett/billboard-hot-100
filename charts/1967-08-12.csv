@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Light My Fire,The Doors,1,1,11
+2,All You Need Is Love,The Beatles,3,2,4
+3,I Was Made To Love Her,Stevie Wonder,2,2,10
+4,Pleasant Valley Sunday,The Monkees,9,4,4
+5,"Mercy, Mercy, Mercy",The Buckinghams,7,5,9
+6,Can't Take My Eyes Off You,Frankie Valli,6,2,13
+7,A Whiter Shade Of Pale,Procol Harum,5,5,8
+8,Windy,The Association,4,1,12
+9,Carrie-Anne,The Hollies,16,9,9
+10,A Girl Like You,The Young Rascals,11,10,5
+11,Baby I Love You,Aretha Franklin,22,11,4
+12,Silence Is Golden,The Tremeloes ,13,12,9
+13,My Mammy,The Happenings,15,13,5
+14,Jackson,Nancy Sinatra & Lee Hazlewood,14,14,8
+15,White Rabbit,Jefferson Airplane,8,8,8
+16,Little Bit O' Soul,The Music Explosion,10,2,14
+17,Soul Finger,Bar-Kays,18,17,13
+18,I Take It Back,Sandy Posey,12,12,10
+19,Thank The Lord For The Night Time,Neil Diamond,24,19,5
+20,Cold Sweat - Part 1,James Brown And The Famous Flames,47,20,5
+21,Ode To Billie Joe,Bobbie Gentry,71,21,2
+22,To Love Somebody,Bee Gees,27,22,5
+23,Hypnotized,Linda Jones,28,23,8
+24,Words,The Monkees,34,24,4
+25,In The Chapel In The Moonlight,Dean Martin,26,25,6
+26,Up -- Up And Away,The 5th Dimension,19,7,11
+27,Let The Good Times Roll & Feel So Good,Bunny Sigler,30,27,8
+28,San Francisco (Be Sure To Wear Flowers In Your Hair),Scott McKenzie,17,4,12
+29,More Love,Smokey Robinson & The Miracles,23,23,9
+30,Make Me Yours,Bettye Swann,21,21,13
+31,Come On Down To My Boat,Every Mothers' Son,29,6,15
+32,I Like The Way,Tommy James And The Shondells,25,25,7
+33,Heroes And Villains,The Beach Boys,61,33,2
+34,Baby You're A Rich Man,The Beatles,41,34,3
+35,You're My Everything,The Temptations,52,35,3
+36,Come Back When You Grow Up,Bobby Vee And The Strangers,55,36,4
+37,(I Wanna) Testify,The Parliaments,37,37,7
+38,Fakin' It,Simon & Garfunkel,53,38,3
+39,Out & About,Tommy Boyce & Bobby Hart,39,39,5
+40,Don't Let The Rain Fall Down On Me,The Critters,40,40,6
+41,Society's Child (Baby I've Been Thinking),Janis Ian,36,14,12
+42,The Sweetest Thing This Side Of Heaven,Chris Bartley,50,42,4
+43,I Take What I Want,James & Bobby Purify,43,43,5
+44,Shoot Your Shot,Jr. Walker & The All Stars,54,44,4
+45,C'mon Marianne,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",35,9,10
+46,The River Is Wide,The Forum,46,46,6
+47,"Apples, Peaches, Pumpkin Pie",Jay And The Techniques,68,47,5
+48,San Franciscan Nights,Eric Burdon & The Animals,73,48,2
+49,For Your Love,Peaches & Herb,20,20,8
+50,Everybody Needs Love,Gladys Knight And The Pips,56,50,6
+51,Your Unchanging Love,Marvin Gaye,33,33,7
+52,Cry Softly Lonely One,Roy Orbison,65,52,3
+53,You Only Live Twice,Nancy Sinatra,44,44,8
+54,The Windows Of The World,Dionne Warwick,64,54,3
+55,Brown Eyed Girl,Van Morrison,66,55,5
+56,Washed Ashore (On A Lonely Island In The Sea),The Platters,57,56,7
+57,Blue's Theme,Davie Allan And The Arrows,67,57,10
+58,The World We Knew (Over And Over),Frank Sinatra,78,58,2
+59,You Know What I Mean,The Turtles,75,59,2
+60,Glory Of Love,Otis Redding,60,60,3
+61,Reflections,Diana Ross & The Supremes,-1,61,1
+62,Gentle On My Mind,Glen Campbell,62,62,6
+63,Bluebird,The Buffalo Springfield,58,58,5
+64,Happy,The Sunshine Company,79,64,5
+65,Show Business,Lou Rawls,45,45,7
+66,Lonely Drifter,Pieces Of Eight,59,59,8
+67,I Want To Love You For What You Are,Ronnie Dove,82,67,2
+68,Don't You Miss Me A Little Bit Baby,Jimmy Ruffin,70,68,4
+69,It's A Happening World,The Tokens,69,69,4
+70,It's The Little Things,Sonny & Cher,-1,70,1
+71,(Your Love Keeps Lifting Me) Higher And Higher,Jackie Wilson,-1,71,1
+72,Funky Broadway Part I,Dyke And The Blazers,81,72,12
+73,Groovin',Booker T. & The MG's,86,73,2
+74,Slim Jenkin's Place,Booker T. & The MG's,76,74,3
+75,Ha Ha Said The Clown,The Yardbirds,80,75,2
+76,I'll Turn To Stone,Four Tops,77,76,5
+77,Funky Broadway,Wilson Pickett,92,77,2
+78,A Woman's Hands,Joe Tex,83,78,2
+79,"Run, Run, Run",The Third Rail,98,79,2
+80,Things I Should Have Said,The Grass Roots,-1,80,1
+81,The Letter,The Box Tops,-1,81,1
+82,Jill,Gary Lewis And The Playboys,-1,82,1
+83,Gimme Little Sign,Brenton Wood,-1,83,1
+84,There Is A Mountain,Donovan,-1,84,1
+85,Zip Code,The Five Americans,-1,85,1
+86,Turn On Your Love Light,"Oscar Toney, Jr.",-1,86,1
+87,Sixteen Tons, Tom Jones,-1,87,1
+88,"Laura, What's He Got That I Ain't Got",Frankie Laine,-1,88,1
+89,Lonesome Road,The Wonder Who?,91,89,3
+90,A Little Bit Now,The Dave Clark Five,-1,90,1
+91,Get The Message,Brian Hyland,-1,91,1
+92,Knock On Wood,Otis & Carla,-1,92,1
+93,There Must Be A Way,Jimmy Roselli,-1,93,1
+94,It's Got To Be Mellow,Leon Haywood,-1,94,1
+95,Not So Sweet Martha Lorraine,Country Joe & The Fish,95,95,2
+96,Along Comes Mary,Baja Marimba Band,96,96,2
+97,It Could Be We're In Love,The Cryan' Shames,99,97,2
+98,Little Old Wine Drinker Me,Robert Mitchum,-1,98,1
+99,Just Once In A Lifetime,Brenda & The Tabulations,-1,99,1
+100,Good Day Sunshine,Claudine Longet,100,100,2

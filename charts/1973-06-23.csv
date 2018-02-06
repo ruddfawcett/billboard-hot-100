@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,My Love,Paul McCartney And Wings,1,1,11
+2,Playground In My Mind,Clint Holmes,2,2,14
+3,I'm Gonna Love You Just A Little More Baby,Barry White,4,3,11
+4,Will It Go Round In Circles,Billy Preston,7,4,13
+5,Give Me Love - (Give Me Peace On Earth),George Harrison,8,5,6
+6,Pillow Talk,Sylvia (r&b),3,3,14
+7,Kodachrome,Paul Simon,9,7,6
+8,Daniel,Elton John,5,2,12
+9,Long Train Runnin',The Doobie Brothers,12,9,10
+10,Right Place Wrong Time,Dr. John,11,10,11
+11,Shambala,Three Dog Night,14,11,6
+12,One Of A Kind (Love Affair),The Spinners,13,12,9
+13,Frankenstein,Edgar Winter Group,6,1,16
+14,"Bad, Bad Leroy Brown",Jim Croce,20,14,10
+15,Natural High,Bloodstone,24,15,10
+16,Yesterday Once More,Carpenters,38,16,4
+17,I'm Doin' Fine Now,New York City,18,17,17
+18,Tie A Yellow Ribbon Round The Ole Oak Tree,Dawn Featuring Tony Orlando,10,1,19
+19,Hocus Pocus,Focus,16,9,17
+20,Smoke On The Water,Deep Purple,35,20,5
+21,Boogie Woogie Bugle Boy,Bette Midler,30,21,7
+22,Drift Away,Dobie Gray,15,5,18
+23,You'll Never Get To Heaven (If You Break My Heart),The Stylistics,29,23,6
+24,"Daddy Could Swear, I Declare",Gladys Knight And The Pips,32,24,9
+25,Wildflower,Skylark,19,9,19
+26,Leaving Me,The Independents,22,21,12
+27,So Very Hard To Go,Tower Of Power,39,27,8
+28,Behind Closed Doors,Charlie Rich,31,28,9
+29,Diamond Girl,Seals & Crofts,40,29,7
+30,Give It To Me,The J. Geils Band,34,30,13
+31,And I Love You So,Perry Como,36,29,11
+32,You Are The Sunshine Of My Life,Stevie Wonder,17,1,15
+33,Money,Pink Floyd,44,33,6
+34,No More Mr. Nice Guy,Alice Cooper,27,25,11
+35,Stuck In The Middle With You,Stealers Wheel,21,6,17
+36,Let's Pretend,Raspberries,41,35,14
+37,Little Willy,The Sweet,23,3,23
+38,Give Your Baby A Standing Ovation,The Dells,42,38,10
+39,Satin Sheets,Jeanne Pruett,54,39,7
+40,Doing It To Death,Fred Wesley & The J.B.'s,45,40,4
+41,The Night The Lights Went Out In Georgia,Vicki Lawrence,26,1,20
+42,Close Your Eyes,Edward Bear,43,37,11
+43,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",51,43,11
+44,Back When My Hair Was Short,Gunhill Road,46,40,13
+45,Time To Get Down,The O'Jays,50,45,6
+46,Reeling In The Years,Steely Dan,25,11,16
+47,Swamp Witch,Jim Stafford,55,47,7
+48,The Free Electric Band,Albert Hammond,49,48,9
+49,Misdemeanor,Foster Sylvers,57,49,4
+50,Steamroller Blues/Fool,Elvis Presley,28,17,11
+51,The Plastic Man,The Temptations,77,51,3
+52,Thinking Of You,Loggins & Messina,33,18,13
+53,Hey You! Get Off My Mountain,The Dramatics,59,53,8
+54,Why Me,Kris Kristofferson,53,53,12
+55,Goin' Home, The Osmonds,71,55,2
+56,The Right Thing To Do,Carly Simon,37,17,13
+57,I'll Always Love My Mama (Part I),The Intruders,64,57,4
+58,Touch Me In The Morning,Diana Ross,62,58,4
+59,Roll Over Beethoven,Electric Light Orchestra,79,59,9
+60,Funky Worm,Ohio Players,47,15,18
+61,"Never, Never, Never (Grande, Grande, Grande)",Shirley Bassey,69,61,4
+62,There's No Me Without You,The Manhattans,63,62,3
+63,Letter To Lucille,Tom Jones,66,63,7
+64,Where Peaceful Waters Flow,Gladys Knight And The Pips,75,64,2
+65,Love And Happiness,Earnest Jackson,65,65,4
+66,What About Me,Anne Murray,68,66,5
+67,Finder's Keepers,Chairman Of The Board,67,67,3
+68,Teddy Bear Song,Barbara Fairchild,48,32,18
+69,Brother's Gonna Work It Out,Willie Hutch,70,69,6
+70,Super Fly Meets Shaft,John & Ernest ,52,31,11
+71,Soul Makossa,Afrique,84,71,3
+72,Be What You Are,The Staple Singers,86,72,2
+73,I'd Rather Be A Cowboy,John Denver,88,73,5
+74,First Cut Is The Deepest,Keith Hampshire,76,70,10
+75,Feelin' Stronger Every Day,Chicago,-1,75,1
+76,Get Down,Gilbert O'Sullivan,-1,76,1
+77,Nobody Wants You When You're Down And Out,Bobby Womack,89,77,2
+78,How Can I Tell Her,Lobo,-1,78,1
+79,Shambala,B.W. Stevenson,78,66,7
+80,I Believe In You (You Believe In Me),Johnnie Taylor,-1,80,1
+81,Are You Man Enough,Four Tops,-1,81,1
+82,Mother-in-law,Clarence Carter,93,82,3
+83,Brother Louie,Stories,-1,83,1
+84,Giving It All Away,Roger Daltrey,90,84,3
+85,Avenging Annie,Andy Pratt,85,78,9
+86,Delta Dawn,Helen Reddy,-1,86,1
+87,Over The Hills And Far Away,Led Zeppelin,-1,87,1
+88,Soul Makossa,Manu Dibango,-1,88,1
+89,Kids Say The Darndest Things,Tammy Wynette,100,89,2
+90,Watergrate,Dickie Goodman,99,90,2
+91,I Don't Want To Make You Wait,The Delfonics,91,91,3
+92,Tequila Sunrise,Eagles,-1,92,1
+93,My Heart Just Keeps On Breakin',The Chi-lites,94,93,3
+94,You Were Always There,Donna Fargo,95,94,2
+95,Blockbuster,The Sweet,97,95,2
+96,I Can Make It Thru The Days (But Oh Those Lonely Nights),Ray Charles,81,81,3
+97,He Did With Me,Vicki Lawrence,-1,97,1
+98,Music Everywhere,Tufano & Giammarese,98,68,8
+99,The Morning After,Maureen McGovern,-1,99,1
+100,You Always Come Back (To Hurting Me),Johnny Rodriguez,-1,100,1

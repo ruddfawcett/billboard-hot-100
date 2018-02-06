@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Want To Hold Your Hand,The Beatles,1,1,6
+2,She Loves You,The Beatles,3,2,5
+3,Dawn (Go Away),The 4 Seasons,11,3,4
+4,You Don't Own Me,Lesley Gore,2,2,9
+5,Java,Al (He's the King) Hirt,9,5,8
+6,"Um, Um, Um, Um, Um, Um",Major Lance,5,5,8
+7,Hey Little Cobra,The Rip Chords,4,4,11
+8,California Sun,The Rivieras,14,8,5
+9,What Kind Of Fool (Do You Think I Am),The Tams,10,9,11
+10,Navy Blue,Diane Renay,21,10,5
+11,For You,Rick Nelson,6,6,9
+12,Stop And Think It Over,Dale & Grace,16,12,5
+13,Out Of Limits,The Marketts,7,3,12
+14,Talking About My Baby,The Impressions,12,12,6
+15,"Southtown, U.S.A.",The Dixiebelles,20,15,6
+16,Anyone Who Had A Heart,Dionne Warwick,8,8,12
+17,See The Funny Little Clown,Bobby Goldsboro,22,17,7
+18,A Fool Never Learns,Andy Williams,13,13,7
+19,Hooka Tooka,Chubby Checker,17,17,12
+20,I Only Want To Be With You,Dusty Springfield,27,20,5
+21,Good News,Sam Cooke,29,21,5
+22,Surfin' Bird,The Trashmen,15,4,12
+23,Abigail Beecher,Freddy Cannon,36,23,4
+24,I Love You More And More Every Day,Al Martino,33,24,4
+25,Letter From Sherry,Dale Ward,26,25,9
+26,The Shelter Of Your Arms,Sammy Davis Jr.,30,26,12
+27,"Fun, Fun, Fun",The Beach Boys,69,27,2
+28,Louie Louie,The Kingsmen,23,2,16
+29,Please Please Me,The Beatles,45,29,4
+30,Penetration,The Pyramids,55,30,4
+31,What's Easy For Two Is So Hard For One,Mary Wells,31,31,14
+32,Oh Baby Don't You Weep (Part 1),James Brown And The Famous Flames,35,32,5
+33,It's All In The Game,Cliff Richard,25,25,12
+34,Forget Him,Bobby Rydell,24,4,16
+35,I Saw Her Standing There,The Beatles,54,35,3
+36,Going Going Gone,Brook Benton,39,36,5
+37,Who Do You Love,The Sapphires,46,37,7
+38,Come On,Tommy Roe,38,38,6
+39,Daisy Petal Pickin',Jimmy Gilmer And The Fireballs,19,15,11
+40,There! I've Said It Again,Bobby Vinton,18,1,13
+41,Wow Wow Wee (He's The Boy For Me),The Angels,41,41,6
+42,Hi-Heel Sneakers,Tommy Tucker,57,42,3
+43,Bird Dance Beat,The Trashmen,61,43,3
+44,I Wish You Love,Gloria Lynne,50,44,7
+45,Gonna Send You Back To Georgia (A City Slick),Timmy Shaw,47,45,5
+46,Vaya Con Dios,The Drifters,48,46,4
+47,Live Wire,Martha & The Vandellas,58,47,3
+48,As Usual,Brenda Lee,34,12,11
+49,That Girl Belongs To Yesterday,Gene Pitney,51,49,6
+50,Popsicles And Icicles,The Murmaids,28,3,14
+51,Miller's Cave,Bobby Bare,62,51,3
+52,He Says The Same Things To Me,Skeeter Davis,52,52,5
+53,"Hello, Dolly!",Louis Armstrong And The All Stars,76,53,2
+54,My Bonnie (My Bonnie Lies Over The Ocean),The Beatles With Tony Sheridan,67,54,2
+55,Puppy Love,Barbara Lewis,60,55,7
+56,442 Glenwood Avenue,The Pixies Three,65,56,6
+57,Can Your Monkey Do The Dog,Rufus Thomas,64,57,4
+58,I'll Remember (In The Still Of The Night),Santo & Johnny,59,58,6
+59,Blue Winter,Connie Francis,71,59,2
+60,Bye Bye Barbara,Johnny Mathis,70,60,4
+61,Harlem Shuffle,Bob And Earl,56,44,10
+62,You'll Never Walk Alone,Patti LaBelle And The Blue Belles,43,34,8
+63,Kissin' Cousins,Elvis Presley With The Jordanaires,-1,63,1
+64,He'll Have To Go,Solomon Burke,72,64,3
+65,Glad All Over,The Dave Clark Five,77,65,2
+66,Shimmy Shimmy,The Orlons,68,66,4
+67,Young And In Love,Chris Crosby,80,67,2
+68,Comin' On,Bill Black's Combo,75,68,4
+69,Worried Guy,Johnny Tillotson,-1,69,1
+70,Little Boxes,Pete Seeger,73,70,7
+71,Understand Your Man,Johnny Cash,86,71,2
+72,Stay,The 4 Seasons,81,72,2
+73,He Walks Like A Man,Jody Miller,85,73,3
+74,Love With The Proper Stranger,Jack Jones,87,74,2
+75,Long Gone Lonesome Blues,Hank Williams Jr.,83,75,4
+76,Leaving Here,Eddie Holland,79,76,3
+77,Rip Van Winkle,The Devotions,89,77,3
+78,Pink Dominos,The Crescents Featuring Chiyo,78,69,9
+79,Stardust,Nino Tempo & April Stevens,-1,79,1
+80,Tell Me Baby,Garnet Mimms,84,80,2
+81,Look Homeward Angel,The Monarchs,-1,81,1
+82,"My True Carrie, Love",Nat King Cole,-1,82,1
+83,"Baby, Don't You Cry (The New Swingova Rhythm)",Ray Charles and his Orchestra,-1,83,1
+84,(It's No) Sin,The Duprees featuring Joey Vann,88,74,5
+85,Where Did I Go Wrong,Dee Dee Sharp,82,82,4
+86,(That's) What The Nitty Gritty Is,Shirley Ellis,-1,86,1
+87,"Saginaw, Michigan",Lefty Frizzell,91,85,4
+88,"Hey Jean, Hey Dean",Dean And Jean,-1,88,1
+89,All My Trials,Dick and DeeDee,-1,89,1
+90,Out Of Sight - Out Of Mind,Sunny & The Sunliners,-1,90,1
+91,High On A Hill,Scott English,-1,91,1
+92,How Much Can A Lonely Heart Stand,Skeeter Davis,-1,92,1
+93,I'll Make You Mine,Bobby Vee With The Eligibles,-1,93,1
+94,Have You Ever Been Lonely (Have You Ever Been Blue),The Caravelles,95,94,3
+95,"Please, Please, Please",James Brown And The Famous Flames,97,95,2
+96,Custom Machine,Bruce & Terry,-1,96,1
+97,My Boyfriend Got A Beatle Haircut,Donna Lynn,-1,97,1
+98,He's A Good Guy (Yes He Is),The Marvelettes,-1,98,1
+99,Suspicion,Terry Stafford,-1,99,1
+100,Mo-Onions,Booker T. & The MG's,-1,100,1

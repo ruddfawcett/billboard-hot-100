@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Do Wah Diddy Diddy,Manfred Mann,1,1,8
+2,Dancing In The Street,Martha & The Vandellas,2,2,10
+3,Last Kiss,J. Frank Wilson and The Cavaliers,5,3,8
+4,We'll Sing In The Sunshine,Gale Garnett,4,4,12
+5,"Oh, Pretty Woman",Roy Orbison And The Candy Men,3,1,9
+6,Baby Love,The Supremes,12,6,4
+7,A Summer Song,Chad & Jeremy,7,7,11
+8,Let It Be Me,Betty Everett & Jerry Butler,10,8,8
+9,When I Grow Up (To Be A Man),The Beach Boys,9,9,8
+10,Have I The Right?,The Honeycombs,20,10,6
+11,Little Honda,The Hondells,13,11,7
+12,Chug-A-Lug,Roger Miller,14,12,8
+13,It Hurts To Be In Love,Gene Pitney,8,7,15
+14,The Door Is Still Open To My Heart,Dean Martin,24,14,5
+15,Tobacco Road,The Nashville Teens,25,15,7
+16,Come A Little Bit Closer,Jay & The Americans,22,16,7
+17,Ride The Wild Surf,Jan & Dean,23,17,6
+18,Remember (Walkin' in the Sand),The Shangri-Las,6,5,10
+19,You Must Believe Me,The Impressions,15,15,8
+20,Leader Of The Pack,The Shangri-Las,59,20,3
+21,Baby I Need Your Loving,Four Tops,16,11,11
+22,Funny (How Time Slips Away),Joe Hinton,18,13,11
+23,Bread And Butter,The Newbeats,11,2,11
+24,I'm Crying,The Animals,29,24,5
+25,Everybody Knows (I Still Love You),The Dave Clark Five,40,25,4
+26,I Like It,Gerry And The Pacemakers,31,26,5
+27,I Don't Want To See You Again,Peter And Gordon,48,27,4
+28,On The Street Where You Live,Andy Williams,28,28,7
+29,"Softly, As I Leave You",Frank Sinatra,30,29,8
+30,Baby Don't You Do It,Marvin Gaye,32,30,6
+31,20-75,Willie Mitchell,33,31,9
+32,Ain't That Loving You Baby,Elvis Presley,47,32,3
+33,I've Got Sand In My Shoes,The Drifters,37,33,5
+34,Girl (Why You Wanna Make Me Blue),The Temptations,26,26,7
+35,"Mercy, Mercy",Don Covay & The Goodtimers,36,35,8
+36,I'm On The Outside (Looking In),Little Anthony And The Imperials,21,15,10
+37,Cousin Of Mine,Sam Cooke,42,37,5
+38,G.T.O.,Ronny And The Daytonas,19,4,13
+39,I Don't Want To See Tomorrow,Nat King Cole,41,39,6
+40,You Really Got Me,The Kinks,56,40,5
+41,Who Can I Turn To (When Nobody Needs Me),Tony Bennett,49,41,4
+42,All Cried Out,Dusty Springfield,44,42,5
+43,That's What Love Is Made Of,The Miracles,46,35,6
+44,Funny Girl,Barbra Streisand,45,44,7
+45,Is It True,Brenda Lee,68,45,2
+46,Teen Beat '65,Sandy Nelson,52,46,6
+47,Death Of An Angel,The Kingsmen,53,47,7
+48,Rhythm,Major Lance,35,24,10
+49,Do You Want To Dance,Del Shannon,43,43,6
+50,From A Window,Billy J. Kramer With The Dakotas,27,23,10
+51,Baby Be Mine,The Jelly Beans,54,51,5
+52,Matchbox,The Beatles,17,17,8
+53,Ask Me,Elvis Presley With The Jordanaires,73,53,3
+54,Smack Dab In The Middle,Ray Charles and his Orchestra,60,54,5
+55,Good Night Baby,The Butterflys,51,51,7
+56,Bless Our Love,Gene Chandler,63,56,5
+57,Lumberjack,Brook Benton,64,57,4
+58,When You're Young And In Love,Ruby And The Romantics,66,58,4
+59,So Long Dearie,Louis Armstrong,61,59,4
+60,I Had A Talk With My Man,Mitty Collier,70,60,5
+61,She's Not There,The Zombies,87,61,2
+62,Wendy,The Beach Boys,71,62,2
+63,Jump Back,Rufus Thomas,74,63,3
+64,I'm Into Something Good,Herman's Hermits,79,64,2
+65,Time Is On My Side,The Rolling Stones,80,65,2
+66,The James Bond Theme,Billy Strange,58,58,10
+67,I Wanna Be With You,Nancy Wilson,57,57,4
+68,Runnin' Out Of Fools,Aretha Franklin,78,68,6
+69,La La La La La,The Blendells,62,62,7
+70,Needle In A Haystack,The Velvelettes,90,70,2
+71,When You Walk In The Room,The Searchers,97,71,2
+72,Beach Girl,Pat Boone,72,72,5
+73,Little Queenie,Bill Black's Combo,75,73,4
+74,I'm Gonna Be Strong,Gene Pitney,-1,74,1
+75,Something You Got,Ramsey Lewis Trio,76,75,3
+76,Look Away,Garnet Mimms,89,76,2
+77,Reach Out For Me,Dionne Warwick,-1,77,1
+78,Little Honda,The Beach Boys,85,78,2
+79,Ain't Doing Too Bad (Part 1),Bobby Bland,-1,79,1
+80,Slaughter On Tenth Avenue,The Ventures,-1,80,1
+81,Right Or Wrong,Ronnie Dove,-1,81,1
+82,Don't Ever Leave Me,Connie Francis,-1,82,1
+83,Opportunity,The Jewels,84,83,3
+84,What Good Am I Without You,Marvin Gaye & Kim Weston,-1,84,1
+85,"Gone, Gone, Gone",The Everly Brothers,98,85,2
+86,Baby Baby All The Time,The Superbs,83,83,4
+87,Up Above My Head (I Hear Music In The Air),Al (He's the King) Hirt,88,87,3
+88,Shaggy Dog,Mickey Lee Lane,94,88,3
+89,You Should Have Seen The Way He Looked At Me,The Dixie Cups,-1,89,1
+90,Everything's Alright,The Newbeats,-1,90,1
+91,If You Want This Love,Sonny Knight,91,91,3
+92,Yes I Do,Solomon Burke,96,92,3
+93,Little Marie,Chuck Berry,-1,93,1
+94,Hey Now,Lesley Gore,99,94,2
+95,Walking In The Rain,The Ronettes,-1,95,1
+96,Oh No Not My Baby,Maxine Brown,-1,96,1
+97,Chained And Bound,Otis Redding,-1,97,1
+98,Garden In The Rain,Vic Dana,100,98,2
+99,Listen Lonely Girl, Johnny Mathis,-1,99,1
+100,"My Love, Forgive Me (Amore, Scusami)",Robert Goulet,-1,100,1

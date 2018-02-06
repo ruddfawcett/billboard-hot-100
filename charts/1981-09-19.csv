@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Endless Love,Diana Ross & Lionel Richie,1,1,11
+2,Queen Of Hearts,Juice Newton,6,2,17
+3,Stop Draggin' My Heart Around,Stevie Nicks With Tom Petty And The Heartbreakers,3,3,9
+4,Urgent,Foreigner,4,4,12
+5,(There's) No Gettin' Over Me,Ronnie Milsap,5,5,13
+6,Who's Crying Now,Journey,7,6,10
+7,Arthur's Theme (Best That You Can Do),Christopher Cross,9,7,6
+8,Lady (You Bring Me Up),Commodores,8,8,14
+9,Step By Step,Eddie Rabbitt,10,9,9
+10,Slow Hand,The Pointer Sisters,2,2,17
+11,Start Me Up,The Rolling Stones,19,11,5
+12,Hold On Tight,Electric Light Orchestra,14,12,9
+13,Jessie's Girl,Rick Springfield,11,1,26
+14,The Beach Boys Medley,The Beach Boys,18,14,9
+15,"Theme From ""Greatest American Hero"" (Believe It or Not)",Joey Scarbury,12,2,20
+16,Cool Love,Pablo Cruise,13,13,12
+17,The Breakup Song (They Don't Write 'Em),Greg Kihn Band,15,15,18
+18,The Voice,The Moody Blues,22,18,7
+19,For Your Eyes Only,Sheena Easton,23,19,9
+20,The Night Owls,Little River Band,28,20,5
+21,In Your Letter,REO Speedwagon,25,21,7
+22,I Could Never Miss You (More Than I Do),Lulu,24,22,8
+23,Breaking Away,Balance,27,23,11
+24,Really Wanna Know You,Gary Wright,16,16,12
+25,Share Your Love With Me,Kenny Rogers,32,25,3
+26,Super Freak (Part I),Rick James,29,26,7
+27,Private Eyes,Daryl Hall John Oates,34,27,4
+28,Draw Of The Cards,Kim Carnes,30,28,7
+29,Hard To Say,Dan Fogelberg,45,29,4
+30,Fire And Ice,Pat Benatar,17,17,10
+31,I've Done Everything For You,Rick Springfield,36,31,5
+32,You Could Take My Heart Away,Silver Condor,33,32,9
+33,We're In This Love Together,Al Jarreau,39,33,8
+34,Chloe,Elton John,35,34,9
+35,General Hospi-tale,The Afternoon Delights,38,35,9
+36,Some Days Are Diamonds (Some Days Are Stone),John Denver,37,36,15
+37,When She Was My Girl,Four Tops,43,37,6
+38,Just Once,Quincy Jones Featuring James Ingram,41,38,6
+39,Straight From The Heart,The Allman Brothers Band,42,39,7
+40,I'm In Love,Evelyn King,40,40,9
+41,Feels So Right,Alabama,20,20,16
+42,"She's A Bad Mama Jama (She's Built, She's Stacked)",Carl Carlton,48,42,5
+43,Backfired,Debbie Harry,44,43,6
+44,That Old Song,Ray Parker Jr. & Raydio,21,21,11
+45,Tryin' To Live My Life Without You,Bob Seger,61,45,2
+46,Love On A Two Way Street,Stacy Lattisaw,26,26,14
+47,The Theme From Hill Street Blues,Mike Post featuring Larry Carlton,57,47,5
+48,Burnin' For You,Blue Oyster Cult,52,48,6
+49,Tempted,Squeeze,49,49,8
+50,Love All The Hurt Away,Aretha Franklin And George Benson,58,50,4
+51,All I Have To Do Is Dream,Andy Gibb & Victoria Principal,51,51,6
+52,Heavy Metal (Takin' A Ride),Don Felder,55,52,9
+53,Silly,Deniece Williams,54,53,6
+54,Square Biz,Teena Marie,50,50,9
+55,Alien,Atlanta Rhythm Section,63,55,4
+56,Say Goodbye To Hollywood,Billy Joel,70,56,2
+57,I Don't Need You,Kenny Rogers,31,3,15
+58,Our Lips Are Sealed,Go-Go's,66,58,4
+59,Boy From New York City,The Manhattan Transfer,46,7,18
+60,Hearts,Marty Balin,47,8,18
+61,Elvira,The Oak Ridge Boys,53,5,19
+62,The Sun Ain't Gonna Shine Anymore,Nielsen/Pearson,56,56,7
+63,It's Now Or Never,John Schneider,59,14,17
+64,Falling In Love Again,Michael Stanley Band,64,64,7
+65,Don't Give It Up,Robbie Patton,60,26,11
+66,A Heart In New York,Art Garfunkel,68,66,7
+67,Just Be My Lady,Larry Graham,69,67,3
+68,Working In The Coal Mine,Devo,77,68,3
+69,The Stroke,Billy Squier,62,17,19
+70,Dedicated To The One I Love,Bernadette Peters,65,65,7
+71,Nicole,Point Blank,67,39,13
+72,Steal The Night,Stevie Woods,82,72,2
+73,You Don't Know Me,Mickey Gilley,75,55,11
+74,You Saved My Soul,Burton Cummings,83,74,2
+75,In The Dark,Billy Squier,85,75,2
+76,You're My Girl,Franke & The Knockouts,71,27,12
+77,Atlanta Lady (Something About Your Love),Marty Balin,-1,77,1
+78,Sausalito Summernight,Diesel,86,78,2
+79,Magic Man,Herb Alpert,80,79,3
+80,(Want You) Back In My Life Again,Carpenters,88,80,2
+81,You've Got A Good Love Coming,Van Stephenson,89,81,2
+82,Stay Awake,Ronnie Laws,90,82,2
+83,Aiming At Your Heart,The Temptations,-1,83,1
+84,No Time To Lose,The Tarney/Spencer Band,-1,84,7
+85,I'm Gonna Love Her For Both Of Us,Meat Loaf,-1,85,1
+86,Everlasting Love,Rex Smith/Rachel Sweet,72,32,13
+87,The House Of The Rising Sun,Dolly Parton,-1,87,1
+88,Not Fade Away,Eric Hine,73,73,5
+89,Let's Dance (Make Your Body Move),West Street Mob,91,89,2
+90,At This Moment,Billy & The Beaters,-1,90,1
+91,In The Air Tonight,Phil Collins,74,19,17
+92,Touch Me When We're Dancing,Carpenters,76,16,14
+93,Shake It Up Tonight,Cheryl Lynn,78,70,7
+94,The One That You Love,Air Supply,79,1,19
+95,Double Dutch Bus,Frankie Smith,81,30,19
+96,Time,The Alan Parsons Project,84,15,23
+97,The Sensitive Kind,Santana,87,56,8
+98,Stranger,Jefferson Starship,92,48,11
+99,Bette Davis Eyes,Kim Carnes,93,1,26
+100,You Make My Dreams,Daryl Hall John Oates,94,5,21

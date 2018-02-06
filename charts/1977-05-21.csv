@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sir Duke,Stevie Wonder,2,1,8
+2,When I Need You,Leo Sayer,1,1,13
+3,Couldn't Get It Right,Climax Blues Band,5,3,14
+4,I'm Your Boogie Man,KC And The Sunshine Band ,8,4,13
+5,Got To Give It Up (Pt. I),Marvin Gaye,9,5,6
+6,Dreams,Fleetwood Mac,14,6,6
+7,Gonna Fly Now,Bill Conti,21,7,5
+8,Hotel California,Eagles,3,1,13
+9,Southern Nights,Glen Campbell,4,1,15
+10,Lucille,Kenny Rogers,12,10,9
+11,Lido Shuffle,Boz Scaggs,11,11,11
+12,Lonely Boy,Andrew Gold,15,12,10
+13,Right Time Of The Night,Jennifer Warnes,6,6,17
+14,Feels Like The First Time,Foreigner,19,14,9
+15,Hello Stranger,Yvonne Elliman,17,15,10
+16,Calling Dr. Love,KISS,16,16,10
+17,So In To You,Atlanta Rhythm Section,7,7,17
+18,Angel In Your Arms,Hot,20,18,14
+19,Undercover Angel,Alan O'Day,28,19,8
+20,Ain't Gonna Bump No More (with No Big Fat Woman),Joe Tex,22,20,8
+21,Heard It In A Love Song,The Marshall Tucker Band,25,21,11
+22,I Wanna Get Next To You,Rose Royce,10,10,13
+23,Dancin' Man,Q,23,23,11
+24,Whodunit,Tavares,26,24,9
+25,I've Got Love On My Mind,Natalie Cole,18,5,17
+26,Can't Stop Dancin',Captain & Tennille,13,13,10
+27,Uptown Festival (Part 1),Shalamar,30,27,11
+28,Show You The Way To Go,The Jacksons,29,28,7
+29,Margaritaville,Jimmy Buffett,33,29,8
+30,Jet Airliner,The Steve Miller Band,39,30,4
+31,Love's Grown Deep,Kenny Nolan,35,31,8
+32,Slow Dancin' Don't Turn Me On,Addrisi Brothers,36,32,7
+33,Mainstreet,Bob Seger,37,33,5
+34,Don't Leave Me This Way,Thelma Houston,24,1,23
+35,High School Dance,The Sylvers,41,35,5
+36,Slowdown,John Miles,40,36,9
+37,Ariel,Dean Friedman,42,37,6
+38,Do You Wanna Make Love,Peter Mccann,48,38,5
+39,Everybody Be Dancin',Starbuck,43,39,6
+40,Your Love,"Marilyn McCoo & Billy Davis, Jr.",27,15,10
+41,"Gonna Fly Now (Theme From ""Rocky"")",Maynard Ferguson,46,41,5
+42,On The Border,Al Stewart,47,42,5
+43,This Is The Way That I Feel,Marie Osmond,50,43,5
+44,I Just Want To Be Your Everything,Andy Gibb,49,44,5
+45,Spirit In The Night,Manfred Mann's Earth Band,55,45,7
+46,This Girl (Has Turned Into A Woman),Mary Macgregor,56,46,5
+47,Don't Give Up On Us,David Soul,31,1,17
+48,Back Together Again,Daryl Hall John Oates,59,48,3
+49,Looks Like We Made It,Barry Manilow,66,49,3
+50,Do What You Wanna Do,T-Connection,61,50,11
+51,I Wanna Do It To You,Jerry Butler,51,51,11
+52,My Heart Belongs To Me,Barbra Streisand,-1,52,1
+53,Life In The Fast Lane,Eagles,73,53,2
+54,Hollywood,Rufus Featuring Chaka Khan,67,54,3
+55,You're My World,Helen Reddy,65,55,4
+56,Whatcha Gonna Do?,Pablo Cruise,63,56,6
+57,My Sweet Lady,John Denver,32,32,11
+58,Cinderella,Firefall,34,34,9
+59,Back In The Saddle,Aerosmith,38,38,7
+60,Going In With My Eyes Open,David Soul,72,60,3
+61,Hooked On You,Bread,60,60,6
+62,"Luckenbach, Texas (Back To The Basics Of Love)",Waylon Jennings,75,62,3
+63,"Knowing Me, Knowing You",ABBA,80,63,2
+64,It's Sad To Belong,England Dan & John Ford Coley,74,64,3
+65,(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,77,65,3
+66,The Pride (Part I),The Isley Brothers,78,66,3
+67,You And Me,Alice Cooper,70,67,4
+68,Solsbury Hill,Peter Gabriel,69,68,4
+69,You're Movin' Out Today,Bette Midler,79,69,7
+70,I Gotta Keep Dancin',Carrie,71,70,4
+71,Rich Girl,Daryl Hall John Oates,44,1,18
+72,It Feels So Good To Be Loved So Bad,The Manhattans,76,72,9
+73,Peace Of Mind,Boston,86,73,2
+74,Da Doo Ron Ron,Shaun Cassidy,89,74,2
+75,I Think We're Alone Now,The Rubinoos,45,45,12
+76,Tryin' To Love Two,William Bell,54,10,14
+77,All You Get From Love Is A Love Song,Carpenters,-1,77,1
+78,You Are On My Mind,Chicago,52,49,7
+79,Fly At Night,Chilliwack,85,75,4
+80,Cherry Baby,Starz,53,33,10
+81,The Pretender,Jackson Browne,-1,81,1
+82,That Magic Touch,Angel,84,77,5
+83,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,57,1,24
+84,Runaway,Bonnie Raitt,-1,84,1
+85,I Need A Man,Grace Jones,87,85,3
+86,Burnin' Sky,Bad Company,-1,86,1
+87,Watch Closely Now,Kris Kristofferson,-1,87,1
+88,Capture Your Heart,Blue,88,88,3
+89,People In Love,10cc,-1,89,1
+90,I Don't Love You Anymore, Teddy Pendergrass,-1,90,1
+91,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,91,48,10
+92,On And On,Stephen Bishop,-1,92,2
+93,Feel The Need,Detroit Emeralds,97,93,2
+94,All The Kids On The Street,The Hollywood Stars,96,94,2
+95,Hot To Trot,Wild Cherry,95,95,2
+96,Freddie,Charlene,99,96,2
+97,Dance And Shake Your Tambourine,Universal Robot Band,98,97,2
+98,Devil's Gun,C.J. & Company,-1,98,1
+99,Hold Back The Night,Graham Parker And The Rumour,58,58,7
+100,Discomania,The Lovers,100,100,2

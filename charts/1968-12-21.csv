@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Heard It Through The Grapevine,Marvin Gaye,1,1,5
+2,Love Child,Diana Ross & The Supremes,2,1,10
+3,For Once In My Life,Stevie Wonder,3,3,8
+4,"Abraham, Martin And John",Dion,4,4,9
+5,Wichita Lineman,Glen Campbell,7,5,8
+6,Stormy,Classics IV Featuring Dennis Yost,8,6,9
+7,Who's Making Love,Johnnie Taylor,5,5,9
+8,Both Sides Now,Judy Collins,11,8,7
+9,I Love How You Love Me,Bobby Vinton,9,9,8
+10,Magic Carpet Ride,Steppenwolf,10,3,12
+11,Hey Jude,The Beatles,6,1,15
+12,Cloud Nine,The Temptations,13,12,6
+13,Cinnamon,Derek,17,13,9
+14,See Saw,Aretha Franklin,14,14,5
+15,Chewy Chewy,Ohio Express,15,15,10
+16,Scarborough Fair,Sergio Mendes & Brasil '66,16,16,6
+17,I'm Gonna Make You Love Me,Diana Ross And The Supremes & The Temptations,20,17,3
+18,Bring It On Home To Me,Eddie Floyd,18,18,10
+19,Those Were The Days,Mary Hopkin,12,2,13
+20,Soulful Strut,Young-Holt Unlimited,24,20,4
+21,Little Arrows,Leapy Lee,21,16,11
+22,Hooked On A Feeling,B.J. Thomas,23,22,6
+23,"Promises, Promises",Dionne Warwick,22,19,8
+24,Son-Of-A Preacher Man,Dusty Springfield,36,24,4
+25,Hold Me Tight,Johnny Nash,19,5,15
+26,Going Up The Country,Canned Heat,52,26,3
+27,Till,The Vogues,29,27,5
+28,Too Weak To Fight,Clarence Carter,28,28,7
+29,"Shame, Shame",Magic Lanterns,30,29,9
+30,Lo Mucho Que Te Quiero (The More I Love You),Rene & Rene,32,30,5
+31,Papa's Got A Brand New Bag,Otis Redding,33,31,4
+32,Bang-Shang-A-Lang,The Archies,25,22,13
+33,Pickin' Wild Mountain Berries,Peggy Scott & Jo Jo Benson,27,27,10
+34,Battle Hymn Of The Republic,Andy Williams with the St. Charles Borromeo Choir,45,33,10
+35,A Ray Of Hope,The Rascals,39,35,3
+36,If I Can Dream,Elvis Presley,40,36,4
+37,I Can't Turn You Loose,The Chambers Brothers,44,37,5
+38,Kentucky Woman,Deep Purple,38,38,7
+39,Crimson And Clover,Tommy James And The Shondells,85,39,2
+40,Goody Goody Gumdrops,1910 Fruitgum Co.,37,37,9
+41,Hang 'Em High,Booker T. & The MG's,41,41,7
+42,A Man And A Half,Wilson Pickett,42,42,6
+43,This Is My Country,The Impressions,50,43,4
+44,Not Enough Indians,Dean Martin,43,43,8
+45,Goodbye My Love,James Brown,31,31,7
+46,Put Your Head On My Shoulder,The Lettermen,46,46,6
+47,My Favorite Things,Herb Alpert & The Tijuana Brass,75,47,2
+48,Ballad Of Two Brothers,Autry Inman,48,48,6
+49,Bella Linda,The Grass Roots,58,49,4
+50,Baby Let's Wait,The Royal Guardsmen,69,50,6
+51,Stand By Your Man,Tammy Wynette,51,51,7
+52,Crosstown Traffic,The Jimi Hendrix Experience,61,52,4
+53,People,The Tymes,53,53,6
+54,My Song,Aretha Franklin,55,54,4
+55,Everyday People,Sly & The Family Stone,72,55,4
+56,The Girl Most Likely,Jeannie C. Riley,83,56,3
+57,Malinda,Bobby Taylor & The Vancouvers,67,57,3
+58,Slow Drag,The Intruders,54,54,7
+59,I Put A Spell On You,Creedence Clearwater Revival,59,59,7
+60,Ready Or Not Here I Come (Can't Hide From Love),The Delfonics,66,60,3
+61,I Started A Joke,Bee Gees,-1,61,1
+62,American Boys,Petula Clark,62,62,5
+63,"Come On, React!",The Fireballs,63,63,8
+64,Rockin' In The Same Old Boat,Bobby Bland,64,64,6
+65,Good Time Girl,Nancy Sinatra,84,65,4
+66,Keep On Dancing,Alvin Cash,73,66,5
+67,Bluebirds Over The Mountain,The Beach Boys,74,67,2
+68,White Houses,Eric Burdon & The Animals,88,68,5
+69,With A Little Help From My Friends,Joe Cocker,68,68,6
+70,Just Ain't No Love,Barbara Acklin ,70,70,6
+71,California Dreamin',Bobby Womack,92,71,3
+72,California Soul,The 5th Dimension,-1,72,1
+73,"Season Of The Witch, Pt. 1",Vanilla Fudge,-1,73,1
+74,Can I Change My Mind,Tyrone Davis,-1,74,1
+75,There's Gonna Be A Showdown,Archie Bell & The Drells,87,75,2
+76,Isn't It Lonely Together,O.C. Smith,80,76,2
+77,Love Machine,The O'Kaysions,77,77,5
+78,Are You Happy,Jerry Butler,78,78,3
+79,Don't Make The Good Girls Go Bad,Della Humphrey,79,79,4
+80,Do You Wanna Dance,The Mamas & The Papas,76,76,5
+81,"Soul Sister, Brown Sugar",Sam & Dave,-1,81,1
+82,Reach Out,Merrilee Rush,89,82,3
+83,Chitty Chitty Bang Bang,Paul Mauriat,82,82,5
+84,Ramblin' Gamblin' Man,Bob Seger System,-1,84,1
+85,The Beginning Of My End,The Unifics,86,85,2
+86,Release Me,Johnny Adams,96,86,2
+87,Rainbow Ride,Andy Kim,-1,87,1
+88,A Minute Of Your Time,Tom Jones,-1,88,1
+89,You Got Soul,Johnny Nash,90,89,2
+90,Hey Jude,Wilson Pickett,-1,90,1
+91,Don't Pat Me On The Back And Call Me Brother,John W. Anderson presents KaSandra,98,91,2
+92,Tit For Tat (Ain't No Taking Back),James Brown,-1,92,1
+93,I've Gotta Be Me,Sammy Davis Jr.,94,93,2
+94,Yesterday's Rain,Spanky And Our Gang,95,94,3
+95,Stay Close To Me,Five Stairsteps & Cubie,-1,95,1
+96,Shout! - Part 1,Chambers Brothers,-1,96,1
+97,Vance,Roger Miller,100,97,3
+98,Worst That Could Happen,Brooklyn Bridge,-1,98,1
+99,The Thought Of Loving You,The Crystal Mansion,-1,99,1
+100,Condition Red,The Goodees,-1,100,1

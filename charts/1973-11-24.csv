@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Photograph,Ringo Starr,4,1,8
+2,Keep On Truckin' (Part 1),Eddie Kendricks,1,1,14
+3,Top Of The World,Carpenters,7,3,8
+4,Space Race,Billy Preston,5,4,10
+5,Heartbeat - It's A Lovebeat,The DeFranco Family featuring Tony DeFranco,3,3,12
+6,Midnight Train To Georgia,Gladys Knight And The Pips,2,1,13
+7,Just You 'n' Me,Chicago,9,7,9
+8,Paper Roses,Marie Osmond,6,5,11
+9,Goodbye Yellow Brick Road,Elton John,15,9,5
+10,The Whole Town's Laughing At Me,Teddy Pendergrass,13,10,9
+11,Angie,The Rolling Stones,8,1,12
+12,The Most Beautiful Girl,Charlie Rich,20,12,9
+13,I Got A Name,Jim Croce,10,10,8
+14,You're A Special Part Of Me,Diana Ross & Marvin Gaye,12,12,8
+15,Cheaper To Keep Her,Johnnie Taylor,18,15,7
+16,Hello It's Me,Todd Rundgren,24,16,8
+17,All I Know,Garfunkel,11,9,11
+18,If You're Ready (Come Go With Me),The Staple Singers,25,18,5
+19,Half-Breed,Cher,14,1,17
+20,Leave Me Alone (ruby Red Dress),Helen Reddy,29,20,4
+21,Why Me,Kris Kristofferson,17,16,34
+22,Knockin' On Heaven's Door,Bob Dylan,19,12,13
+23,Nutbush City Limits,Ike & Tina Turner,22,22,12
+24,We May Never Pass This Way (Again),Seals & Crofts,21,21,10
+25,Ooh Baby,Gilbert O'Sullivan,27,25,7
+26,Let Me Serenade You,Three Dog Night,32,26,5
+27,Rockin' Roll Baby,The Stylistics,34,27,6
+28,Ramblin Man,The Allman Brothers Band,16,2,14
+29,The Joker,The Steve Miller Band,37,29,6
+30,"Never, Never Gonna Give Ya Up",Barry White,40,30,5
+31,Come Get To This,Marvin Gaye,39,31,4
+32,My Music,Loggins & Messina,57,32,4
+33,Sweet Understanding Love,Four Tops,38,33,7
+34,That Lady (Part 1),The Isley Brothers,23,6,20
+35,Be,Neil Diamond,41,35,5
+36,Summer (The First Time),Bobby Goldsboro,26,21,14
+37,Show And Tell,Al Wilson,54,37,6
+38,Living For The City,Stevie Wonder,58,38,3
+39,Yes We Can Can,The Pointer Sisters,31,11,15
+40,D'yer Mak'er,Led Zeppelin,48,40,6
+41,MIND GAMES,John Lennon,60,41,3
+42,Check It Out,Tavares,36,35,10
+43,Corazón,Carole King,53,43,5
+44,Who's In The Strawberry Patch With Sally,Tony Orlando & Dawn,71,44,3
+45,Never Let You Go,Bloodstone,43,43,11
+46,Fell For You,The Dramatics,52,46,5
+47,Friends/chapel Of Love, Bette Midler,42,40,9
+48,Time In A Bottle,Jim Croce,79,48,2
+49,Hurts So Good,Millie Jackson,28,24,12
+50,Sail Around The World,David Gates,50,50,6
+51,Smokin' In The Boy's Room,Brownsville Station,72,51,5
+52,Country Sunshine,Dottie West,49,49,9
+53,Mammy Blue,Stories,56,53,5
+54,Get It Together,Jackson 5,47,28,13
+55,Some Guys Have All The Luck,The Persuaders,67,55,4
+56,My Pretending Days Are Over,The Dells,51,51,8
+57,Me And Baby Brother,War,76,57,3
+58,Funky Stuff,Kool & The Gang,55,29,12
+59,I Can't Stand The Rain,Ann Peebles,65,44,13
+60,Little Girl Gone,Donna Fargo,61,57,8
+61,Painted Ladies,Ian Thomas,69,61,5
+62,Oh! No Not My Baby,Rod Stewart,59,59,7
+63,"""Having A Party"" Medley",The Ovations (Featuring Louis Williams),70,63,7
+64,Dream On,Aerosmith,63,63,6
+65,My Old School,Steely Dan,73,65,4
+66,Helen Wheels,Paul McCartney And Wings,-1,66,1
+67,Pretty Lady,Lighthouse,78,67,4
+68,"I Don't Know What It Is, But It Sure Is Funky",Ripple,75,68,4
+69,There Ain't No Way,Lobo,74,69,4
+70,This Time I'm Gone For Good,"Bobby ""Blue"" Bland",96,70,2
+71,It's All Over, The Independents,93,71,2
+72,Back For A Taste Of Your Love,Syl Johnson,80,72,5
+73,Tell Her She's Lovely,El Chicano,83,73,2
+74,I've Got To Use My Imagination,Gladys Knight And The Pips,-1,74,1
+75,Keep Your Head To The Sky," Earth, Wind & Fire",82,75,2
+76,Rock 'N Roll (I Gave You The Best Years of My Life),Kevin Johnson,85,76,3
+77,Let Me Be There,Olivia Newton-John,87,77,2
+78,Spiders & Snakes,Jim Stafford,88,78,3
+79,I Wanna Know Your Name,The Intruders,84,79,5
+80,Smarty Pants,First Choice,89,80,2
+81,Frisky,Sly & The Family Stone,-1,81,1
+82,I'm Coming Home,Johnny Mathis,77,75,10
+83,Let Me Try Again (Laisse Moi Le Temps),Frank Sinatra,86,83,3
+84,Sister Mary Elephant (Shudd-Up!),Cheech & Chong,-1,84,1
+85,Rock On,David Essex,91,85,3
+86,I Found Sunshine,The Chi-lites,94,86,2
+87,When I Fall In Love/Are You Lonesome Tonight,Donny Osmond,-1,87,1
+88,Vado Via,Drupi,92,88,4
+89,Redneck Friend,Jackson Browne,90,85,9
+90,Walk Like A Man,Grand Funk,-1,90,1
+91,River, Joe Simon,98,91,2
+92,The Way We Were,Barbra Streisand,-1,92,1
+93,A Song I'd Like To Sing,Kris Kristofferson & Rita Coolidge,99,93,2
+94,Come Live With Me,Ray Charles,100,94,2
+95,Baby Come Close,Smokey Robinson,97,95,2
+96,Ain't Got No Home,The Band,-1,96,1
+97,If We Make It Through December,Merle Haggard,-1,97,1
+98,Until You Come Back To Me (That's What I'm Gonna Do),Aretha Franklin,-1,98,1
+99,Last Kiss,Wednesday,-1,99,1
+100,Stealin',Uriah Heep,95,91,7

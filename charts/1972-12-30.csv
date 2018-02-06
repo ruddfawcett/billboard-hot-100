@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Me And Mrs. Jones,Billy Paul,1,1,9
+2,Clair,Gilbert O'Sullivan,4,2,10
+3,You Ought To Be With Me,Al Green,3,3,11
+4,You're So Vain,Carly Simon,9,4,5
+5,It Never Rains In Southern California,Albert Hammond,5,5,11
+6,Funny Face,Donna Fargo,7,6,14
+7,I Am Woman,Helen Reddy,2,1,19
+8,Rockin' Pneumonia - Boogie Woogie Flu,Johnny Rivers,10,8,13
+9,Superfly,Curtis Mayfield,12,9,7
+10,Your Mama Don't Dance,Kenny Loggins & Jim Messina,14,10,8
+11,Keeper Of The Castle,Four Tops,15,11,8
+12,Something's Wrong With Me,Austin Roberts,13,12,12
+13,Living In The Past,Jethro Tull,17,13,9
+14,Papa Was A Rollin' Stone,The Temptations,8,1,12
+15,Sweet Surrender,Bread,16,15,8
+16,Superstition,Stevie Wonder,22,16,7
+17,Walk On Water,Neil Diamond,19,17,8
+18,Sitting,Cat Stevens,21,18,7
+19,If You Don't Know Me By Now,Harold Melvin And The Blue Notes,6,3,14
+20,Crocodile Rock,Elton John,30,20,4
+21,Don't Let Me Be Lonely Tonight,James Taylor,27,21,5
+22,I Can See Clearly Now,Johnny Nash,11,1,17
+23,Pieces Of April,Three Dog Night,25,23,7
+24,Why Can't We Live Together,Timmy Thomas,32,24,6
+25,Corner Of The Sky,Jackson 5,18,18,10
+26,Been To Canaan,Carole King,29,26,6
+27,"Hi, Hi, Hi",Wings,42,27,3
+28,I Wanna Be With You,Raspberries,31,28,6
+29,Summer Breeze,Seals & Crofts,24,6,17
+30,"Oh, Babe, What Would You Say?",Hurricane Smith,37,30,5
+31,Smoke Gets In Your Eyes,Blue Haze,35,31,8
+32,Long Dark Road,The Hollies,28,26,9
+33,Trouble Man,Marvin Gaye,50,33,3
+34,Separate Ways,Elvis Presley,39,34,5
+35,The World Is A Ghetto,War,41,35,7
+36,Ventura Highway,America,20,8,11
+37,Do It Again,Steely Dan,44,37,7
+38,I'm Stone In Love With You,The Stylistics,26,10,12
+39,Crazy Horses,The Osmonds,23,14,11
+40,"You Turn Me On, I'm A Radio",Joni Mitchell,45,40,8
+41,Rocky Mountain High,John Denver,46,41,6
+42,Alive,Bee Gees,36,34,7
+43,Dancing In The Moonlight,King Harvest,47,43,10
+44,No,Bulldog,49,44,12
+45,Harry Hippie,Bobby Womack & Peace,57,45,4
+46,Love Jones,Brighter Side Of Darkness,52,46,4
+47,The Relay,The Who,58,47,4
+48,Dialogue (Part I & II),Chicago,33,24,10
+49,Jambalaya (On The Bayou),The Blue Ridge Rangers,59,49,5
+50,Trouble In My Home/I Found My Dad,Joe Simon,53,50,5
+51,In Heaven There Is No Beer,Clean Living,55,49,9
+52,Let Us Love,Bill Withers,56,52,4
+53,You're A Lady,Peter Skellern,61,53,6
+54,Daddy's Home,Jermaine Jackson,67,54,4
+55,Reelin' & Rockin',Chuck Berry,60,55,5
+56,Operator (That's Not the Way it Feels),Jim Croce,34,17,12
+57,What Am I Crying For?,Dennis Yost And The Classics IV,40,39,11
+58,Woman To Woman,Joe Cocker and The Chris Stainton Band,63,58,5
+59,I Got A Bag Of My Own,James Brown,51,44,7
+60,I'll Be Your Shelter (In Time Of Storm),Luther Ingram,69,60,5
+61,We Need Order,The Chi-lites,62,61,5
+62,I Can't Stand To See You Cry,Smokey Robinson & The Miracles,68,62,3
+63,Everybody Loves A Love Song,Mac Davis,65,63,6
+64,Looking Through The Eyes Of Love,The Partridge Family Starring Shirley Jones Featuring David Cassidy,73,64,3
+65,Angel,Rod Stewart,43,40,7
+66,Dreidel,Don McLean,75,66,2
+67,You've Got To Take It (If You Want It),The Main Ingredient,79,67,2
+68,992 Arguments,The O'Jays,66,57,8
+69,I'm Never Gonna Be Alone Anymore,Cornelius Brothers & Sister Rose,74,69,2
+70,Remember (Christmas),Nilsson,76,70,2
+71,I Didn't Know I Loved You (Till I Saw You Rock And Roll),Gary Glitter,48,35,9
+72,Do You Want To Dance?,Bette Midler,81,72,2
+73,Peaceful Easy Feeling,Eagles,-1,73,1
+74,You're A Lady,Dawn Featuring Tony Orlando,77,74,6
+75,Anthem,Wayne Newton,80,75,2
+76,Daytime Night-Time,Keith Hampshire,78,76,2
+77,"The Cover Of ""Rolling Stone""",Dr. Hook And The Medicine Show,84,77,5
+78,What My Baby Needs Now Is A Little More Lovin',James Brown-Lyn Collins,98,78,2
+79,Could It Be I'm Falling In Love,The Spinners,-1,79,1
+80,Last Song,Edward Bear,96,80,3
+81,Don't Expect Me To Be Your Friend,Lobo,-1,81,1
+82,Songman,Cashman & West,-1,82,1
+83,Mama Weer All Crazee Now,Slade,85,83,7
+84,Silly Wasn't I,Valerie Simpson,87,84,4
+85,One Last Time,Glen Campbell,91,85,4
+86,Lucky Man,"Emerson, Lake & Palmer",-1,48,13
+87,"Oh No, Not My Baby",Merry Clayton,88,87,2
+88,Big City Miss Ruth Ann,Gallery,-1,88,1
+89,You Can Do Magic,Limmie & Family Cookin',90,89,7
+90,Jesus Is Just Alright,The Doobie Brothers,93,90,3
+91,Jesus Was A Capricorn,Kris Kristofferson,-1,91,1
+92,Knock Knock Who's There,Mary Hopkin,92,92,4
+93,I'm Sorry,Joey Heatherton,94,93,6
+94,Boogie Woogie Man,Paul Davis,97,94,2
+95,Didn't We,Barbra Streisand,95,95,4
+96,Fever/My Crew,Rita Coolidge,-1,96,1
+97,Choo Choo Mama,Ten Years After,99,97,3
+98,But I Do,Bobby Vinton,-1,98,1
+99,The Red Back Spider,Brownsville Station,100,99,2
+100,I Never Said Goodbye,Engelbert Humperdinck,-1,100,1

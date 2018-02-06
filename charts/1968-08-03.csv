@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Hello, I Love You",The Doors,9,1,5
+2,Classical Gas,Mason Williams,8,2,7
+3,Stoned Soul Picnic,The 5th Dimension,3,3,10
+4,Grazing In The Grass,Hugh Masekela,1,1,9
+5,Hurdy Gurdy Man,Donovan,6,5,7
+6,Jumpin' Jack Flash,The Rolling Stones,4,3,9
+7,Lady Willpower,Gary Puckett And The Union Gap,2,2,9
+8,The Horse,Cliff Nobles & Co.,5,2,11
+9,"Turn Around, Look At Me",The Vogues,11,9,8
+10,Sunshine Of Your Love,Cream,18,10,19
+11,Born To Be Wild,Steppenwolf,31,11,4
+12,Pictures Of Matchstick Men,The Status Quo,15,12,12
+13,People Got To Be Free,The Rascals,32,13,3
+14,Sky Pilot (Part One),Eric Burdon & The Animals,14,14,10
+15,This Guy's In Love With You,Herb Alpert,7,1,12
+16,You Keep Me Hangin' On,The Vanilla Fudge,47,16,9
+17,Journey To The Center Of The Mind,The Amboy Dukes,38,17,6
+18,Stay In My Corner,The Dells,25,18,6
+19,Autumn Of My Life,Bobby Goldsboro,21,19,6
+20,Dream A Little Dream Of Me,Mama Cass With The Mamas & The Papas,30,20,5
+21,Indian Lake,The Cowsills,10,10,10
+22,Soul-Limbo,Booker T. & The MG's,42,22,4
+23,The Look Of Love,Sergio Mendes & Brasil '66,16,4,13
+24,Angel Of The Morning,Merrilee Rush & The Turnabouts,17,7,14
+25,Here Comes The Judge,Shorty Long,12,8,10
+26,Reach Out Of The Darkness,Friend And Lover,13,10,12
+27,Don't Take It So Hard,Paul Revere & The Raiders Featuring Mark Lindsay,27,27,7
+28,Halfway To Paradise,Bobby Vinton,53,28,3
+29,"Face It Girl, It's Over",Nancy Wilson,29,29,13
+30,Sealed With A Kiss,Gary Lewis And The Playboys,40,30,7
+31,Lover's Holiday,Peggy Scott & Jo Jo Benson,33,31,9
+32,Light My Fire,Jose Feliciano,62,32,2
+33,Dreams Of The Everyday Housewife,Glen Campbell,45,33,5
+34,Alice Long (You're Still My Favorite Girlfriend),Tommy Boyce & Bobby Hart,56,34,5
+35,Eleanor Rigby,Ray Charles,35,35,9
+36,Never Give You Up,Jerry Butler,26,20,14
+37,Folsom Prison Blues,Johnny Cash,37,32,11
+38,She's A Heartbreaker,Gene Pitney,20,16,13
+39,I Can't Stop Dancing,Archie Bell & The Drells,49,39,3
+40,The Eyes Of A New York Woman,B.J. Thomas,46,40,7
+41,Hitch It To The Horse,The Fantastic Johnny C,41,41,6
+42,I Love You,People,22,14,18
+43,I'm A Midnight Mover,Wilson Pickett,24,24,7
+44,You Met Your Match,Stevie Wonder,48,44,3
+45,Here Comes The Judge,Pigmeat Markham,19,19,8
+46,MacArthur Park,Richard Harris,23,2,13
+47,Yummy Yummy Yummy,Ohio Express,28,4,14
+48,Tuesday Afternoon (Forever Afternoon),The Moody Blues,71,48,3
+49,(Love Is Like A) Baseball Game,The Intruders,57,49,5
+50,Don't Give Up,Petula Clark,78,50,3
+51,Yesterday's Dreams,Four Tops,54,51,3
+52,Amen,Otis Redding,36,36,5
+53,"1, 2, 3, Red Light",1910 Fruitgum Co.,84,53,2
+54,You're All I Need To Get By,Marvin Gaye & Tammi Terrell,80,54,2
+55,With Pen In Hand,Billy Vera,43,43,6
+56,Love Makes A Woman,Barbara Acklin,58,56,4
+57,Prayer Meetin',Willie Mitchell,60,57,4
+58,The Impossible Dream,Roger Williams,64,58,4
+59,Baby You Come Rollin' Across My Mind,The Peppermint Trolley Company,59,59,9
+60,Here I Am Baby,The Marvelettes,44,44,9
+61,Do It Again,The Beach Boys,88,61,2
+62,Dreams Of The Everyday Housewife,Wayne Newton,68,62,6
+63,Hard To Handle,Otis Redding,63,63,4
+64,I Get The Sweetest Feeling,Jackie Wilson,66,64,3
+65,Understanding,Ray Charles,65,65,8
+66,Two-Bit Manchild,Neil Diamond,70,66,4
+67,Slip Away,Clarence Carter,67,67,4
+68,And Suddenly,The Cherry People,81,68,3
+69,Mrs. Bluebird,Eternity's Children,73,69,4
+70,Can't You See Me Cry,The New Colony Six,52,52,8
+71,I've Never Found A Girl (To Love Me Like You Do),Eddie Floyd,91,71,2
+72,"Your Time Hasn't Come Yet, Baby",Elvis Presley With The Jordanaires,72,72,7
+73,Never Going Back, The Lovin' Spoonful,98,73,2
+74,"I Guess I'll Have To Cry, Cry, Cry",James Brown And The Famous Flames,77,74,2
+75,Happy,Nancy Sinatra,79,75,2
+76,Competition Ain't Nothin',Little Carl Carlton,76,76,6
+77,I Loved And I Lost,The Impressions,95,77,3
+78,(The Puppet Song) Whiskey On A Sunday,The Irish Rovers,75,75,7
+79,Somebody Cares,Tommy James And The Shondells,90,79,2
+80,Brown Eyed Woman,Bill Medley,-1,80,1
+81,Breaking Up Is Hard To Do,The Happenings,86,81,2
+82,God Bless Our Love,The Ballads,85,82,3
+83,Please Return Your Love To Me,The Temptations,-1,83,1
+84,Give Me One More Chance,Wilmer And The Dukes,100,84,3
+85,I'm Gonna Do What They Do To Me,B.B. King,94,85,2
+86,Can't You Find Another Way (Of Doing It),Sam & Dave,-1,86,1
+87,Mr. Bojangles,Jerry Jeff Walker,96,87,2
+88,Mister Bo Jangles,Bobby Cole,-1,88,1
+89,Down At Lulu's,Ohio Express,-1,89,1
+90,Mr. Businessman,Ray Stevens,-1,90,1
+91,Girls Can't Do What The Guys Do,Betty Wright,-1,91,1
+92,Anyway That You Want Me,The American Breed,-1,92,1
+93,Life,Sly & The Family Stone,93,93,2
+94,Send My Baby Back,Freddie Hughes,97,94,5
+95,Give A Damn,Spanky And Our Gang,-1,95,1
+96,Workin' On A Groovy Thing,Patti Drew,-1,96,1
+97,Sudden Stop,Percy Sledge,-1,97,1
+98,Soul Meeting,The Soul Clan,99,98,2
+99,Montage From How Sweet It Is (I Know That You Know),The Love Generation,-1,99,1
+100,Sally Had A Party,Flavor,-1,100,1

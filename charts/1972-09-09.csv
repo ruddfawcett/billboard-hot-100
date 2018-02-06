@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Alone Again (Naturally),Gilbert O'Sullivan,1,1,13
+2,Long Cool Woman (In A Black Dress),The Hollies,2,2,12
+3,I'm Still In Love With You,Al Green,3,3,10
+4,Baby Don't Get Hooked On Me,Mac Davis ,6,4,11
+5,Brandy (You're A Fine Girl),Looking Glass,4,1,13
+6,Back Stabbers,The O'Jays,10,6,8
+7,Rock And Roll Part 2,Gary Glitter,9,7,8
+8,You Don't Mess Around With Jim,Jim Croce,8,8,11
+9,Black & White,Three Dog Night,14,9,5
+10,Saturday In The Park,Chicago,15,10,6
+11,The Guitar Man,Bread,11,11,7
+12,Hold Your Head Up,Argent,5,5,13
+13,Honky Cat,Elton John,23,13,5
+14,Goodbye To Love,Carpenters,7,7,9
+15,Go All The Way,Raspberries,20,15,11
+16,Beautiful Sunday,Daniel Boone,18,16,15
+17,Join Together,The Who,19,17,8
+18,Power Of Love,Joe Simon,22,18,10
+19,Motorcycle Mama,Sailcat,12,12,14
+20,Run To Me,Bee Gees,27,20,7
+21,Play Me,Neil Diamond,33,21,5
+22,Everybody Plays The Fool,The Main Ingredient,32,22,9
+23,Popcorn,Hot Butter,28,23,10
+24,(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,13,3,15
+25,Pop That Thang,The Isley Brothers,30,25,11
+26,Ben,Michael Jackson,43,26,6
+27,Lookin' Through The Windows,Jackson 5,16,16,9
+28,Nights In White Satin,The Moody Blues,39,28,6
+29,Speak To The Sky,Rick Springfield,35,29,6
+30,You're Still A Young Man,Tower Of Power,34,30,9
+31,My Ding-A-Ling,Chuck Berry,42,31,6
+32,Coconut,Nilsson,17,8,14
+33,Use Me,Bill Withers,53,33,3
+34,The Happiest Girl In The Whole U.S.A.,Donna Fargo,21,11,16
+35,Baby Let Me Take You (In My Arms),Detroit Emeralds,24,24,16
+36,The City Of New Orleans,Arlo Guthrie,41,36,7
+37,Get On The Good Foot-Part 1,James Brown,46,37,6
+38,This World,The Staple Singers,38,38,6
+39,Sealed With A Kiss,Bobby Vinton,26,19,14
+40,Burning Love,Elvis Presley,58,40,4
+41,Easy Livin,Uriah Heep ,45,41,7
+42,Garden Party,Rick Nelson And The Stone Canyon Band,54,42,7
+43,Why/Lonely Boy,Donny Osmond,62,43,3
+44,Starting All Over Again,Mel And Tim,49,44,10
+45,You Wear It Well,Rod Stewart,67,45,3
+46,America,Yes,48,46,5
+47,Sweet Inspiration/Where You Lead,Barbra Streisand,37,37,12
+48,Small Beginnings,Flash,29,29,12
+49,Tight Rope,Leon Russell,60,49,3
+50,The Coldest Days Of My Life (Part 1),The Chi-lites,47,47,9
+51,Rock Me On The Water,Jackson Browne,56,51,6
+52,"My Man, A Sweet Man",Millie Jackson,55,52,6
+53,"Freddie's Dead (Theme From ""Superfly"")",Curtis Mayfield,79,53,4
+54,I Believe In Music,Gallery,57,54,5
+55,Put It Where You Want It,The Crusaders,52,52,9
+56,If You Leave Me Tonight I'll Cry,Jerry Wallace,63,56,4
+57,Don't Ever Be Lonely (A Poor Little Fool Like Me),Cornelius Brothers & Sister Rose,80,57,2
+58,Geronimo's Cadillac,Michael Murphey,71,58,6
+59,"Your Wonderful, Sweet Sweet Love",The Supremes,66,59,6
+60,"For Emily, Whenever I May Find Her",Simon & Garfunkel,78,60,2
+61,Jackie Wilson Said (I'm In Heaven When You Smile),Van Morrison,68,61,4
+62,Listen To The Music,The Doobie Brothers,89,62,2
+63,Sweet Caroline (Good Times Never Seemed So Good),Bobby Womack & Peace,73,63,3
+64,Zing Went The Strings Of My Heart,The Trammps,64,64,10
+65,When You Say Love,Sonny & Cher,40,32,10
+66,From The Beginning,"Emerson, Lake & Palmer",77,66,3
+67,That's The Way God Planned It,Billy Preston,65,62,16
+68,Thunder And Lightning,Chi Coltrane,86,68,2
+69,In The Quiet Morning,Joan Baez,69,69,7
+70,Good Time Charlie's Got The Blues,Danny O'Keefe,87,70,2
+71,If I Could Reach You,The 5th Dimension,-1,71,1
+72,Love Song,Tommy James,76,72,4
+73,Rock Me Baby,David Cassidy,-1,73,1
+74,In Time,Engelbert Humperdinck,75,74,6
+75,Loving You Just Crossed My Mind,Sam Neely,88,75,2
+76,A Piece Of Paper,Gladstone,82,76,3
+77,How Could I Let You Get Away,The Spinners,84,77,4
+78,Witchy Woman,Eagles,-1,78,1
+79,I Will Never Pass This Way Again,Glen Campbell,85,79,3
+80,Slaughter,Billy Preston,-1,80,1
+81,Think (About It),Lyn Collins,90,81,2
+82,Wholy Holy,Aretha Franklin With James Cleveland & The Southern Californ,81,81,4
+83,(It's The Way) Nature Planned It,Four Tops,-1,83,1
+84,I Can See Clearly Now,Johnny Nash,-1,84,1
+85,Life And Breath,Climax featuring Sonny Geraci,92,52,14
+86,Toast To The Fool,The Dramatics,94,86,3
+87,I've Got To Have You,Sammi Smith,95,87,3
+88,Summer Breeze,Seals & Crofts,-1,88,1
+89,Money Back Guarantee,Five Man Electrical Band,-1,89,1
+90,Summer Sun,Jamestown Massacre,93,90,5
+91,Lady Eleanor,Lindisfarne,98,91,2
+92,"Carry Me, Carrie",Dr. Hook And The Medicine Show,-1,92,1
+93,Colorado,Danny Holien,-1,93,1
+94,Don't Hide Your Love,Cher,-1,94,1
+95,Guess Who/Them Changes,B.B. King,97,95,4
+96,Whatever Turns You On,Travis Wammack,100,96,2
+97,Fool's Paradise,The Sylvers,99,97,2
+98,A Sunday Kind Of Love,Lenny Welch,96,96,5
+99,(They Long To Be) Close To You,Jerry Butler & Brenda Lee Eager,-1,99,1
+100,Evil Ways,Carlos Santana & Buddy Miles,-1,100,1

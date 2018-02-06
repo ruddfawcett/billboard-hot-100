@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Tonight's The Night (Gonna Be Alright),Rod Stewart,1,1,9
+2,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,2,2,14
+3,Love So Right,Bee Gees,3,3,11
+4,Muskrat Love,Captain & Tennille,4,4,10
+5,The Rubberband Man,The Spinners,6,5,12
+6,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,5,1,16
+7,Just To Be Close To You,Commodores,8,7,11
+8,Beth/Detroit Rock City,KISS,9,8,13
+9,More Than A Feeling,Boston,12,9,11
+10,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",11,10,14
+11,Rock'n Me,Steve Miller,7,1,16
+12,You Are The Woman,Firefall,14,12,15
+13,Nights Are Forever Without You,England Dan & John Ford Coley,15,13,8
+14,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",18,14,12
+15,Do You Feel Like We Do,Peter Frampton,10,10,11
+16,You Make Me Feel Like Dancing,Leo Sayer,22,16,6
+17,The Best Disco In Town,The Ritchie Family,19,17,14
+18,I Never Cry,Alice Cooper,20,18,16
+19,Sorry Seems To Be The Hardest Word,Elton John,28,19,3
+20,Stand Tall,Burton Cummings,25,20,8
+21,Love Me,Yvonne Elliman,23,21,9
+22,After The Lovin',Engelbert Humperdinck,29,22,6
+23,Fernando,ABBA,13,13,13
+24,Love Ballad,L.T.D.,26,24,9
+25,If You Leave Me Now,Chicago,16,1,16
+26,(Don't Fear) The Reaper,Blue Oyster Cult,17,12,18
+27,Hot Line,The Sylvers,31,27,8
+28,Livin' Thing,Electric Light Orchestra,32,28,6
+29,Hello Old Friend,Eric Clapton,33,29,7
+30,Dazz,Brick,40,30,6
+31,Magic Man,Heart,21,9,20
+32,It's A Long Way There,Little River Band,36,32,11
+33,I Only Want To Be With You,Bay City Rollers,24,12,13
+34,Play That Funky Music,Wild Cherry,27,1,24
+35,Nice 'N' Naasty,The Salsoul Orchestra,30,30,11
+36,A Fifth Of Beethoven,Walter Murphy & The Big Apple Band,34,1,27
+37,You Are My Starship,Norman Connors,35,27,14
+38,Jeans On,David Dundas,42,38,8
+39,She's Gone,Daryl Hall John Oates,37,7,27
+40,Whenever I'm Away From You,John Travolta,48,40,5
+41,That'll Be The Day,Linda Ronstadt,43,11,15
+42,Shake Your Rump To The Funk,The Bar-Kays,52,42,7
+43,Give It Up (turn It Loose),Tyrone Davis,39,38,10
+44,Lowdown,Boz Scaggs,41,3,22
+45,Somebody To Love,Queen,-1,45,1
+46,Don't Take Away The Music,Tavares,57,46,5
+47,Lost Without Your Love,Bread,-1,47,1
+48,Saturday Nite,"Earth, Wind & Fire",78,48,2
+49,I Kinda Miss You,The Manhattans,54,49,5
+50,"Do What You Want, Be What You Are",Daryl Hall John Oates,53,50,5
+51,Did You Boogie (With Your Baby),Flash Cadillac And The Continental Kids,51,29,14
+52,Car Wash,Rose Royce,65,52,6
+53,I Don't Wanna Lose Your Love,The Emotions,60,53,4
+54,Enjoy Yourself,The Jacksons,66,54,3
+55,I Like Dreamin',Kenny Nolan,67,55,4
+56,Every Face Tells A Story,Olivia Newton-John,62,56,4
+57,Down To Love Town,The Originals,61,57,6
+58,Let's Be Young Tonight,Jermaine Jackson,58,58,11
+59,Mademoiselle,Styx,69,59,3
+60,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,76,60,4
+61,Keep Me Cryin',Al Green,71,61,6
+62,Flight '76,The Walter Murphy Band,73,62,3
+63,This Song,George Harrison,82,63,2
+64,Baby Boy,Mary Kay Place As Loretta Haggers,68,64,5
+65,Walk This Way,Aerosmith,90,65,2
+66,Lets Get It Together,El Coco,70,66,6
+67,It Keeps You Runnin',The Doobie Brothers,77,67,3
+68,You Ought To Be Havin' Fun,Tower Of Power,72,68,7
+69,"Ob-la-di, Ob-la-da",The Beatles,79,69,2
+70,Help Wanted,The Hudson Brothers,74,70,4
+71,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,-1,71,1
+72,What Can I Say,Boz Scaggs,85,72,2
+73,Catfish,Four Tops,75,73,5
+74,"Baby, I'll Give It To You",Seals & Crofts,84,74,2
+75,Drivin' Wheel,Foghat,-1,75,1
+76,Torn Between Two Lovers,Mary Macgregor,87,76,2
+77,Do It To My Mind,Johnny Bristol,-1,77,1
+78,Weekend In New England,Barry Manilow,-1,78,1
+79,Heart On My Sleeve,Gallagher And Lyle,-1,79,6
+80,Devil Woman,Cliff Richard,80,6,22
+81,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",83,81,5
+82,"Baby, Baby I Love You",Terry Cashman,-1,82,1
+83,Blinded By The Light,Manfred Mann's Earth Band,95,83,2
+84,Peter Gunn,Deodato,86,84,6
+85,If Not You,Dr. Hook,-1,85,1
+86,Sherry,The Keane Brothers,88,86,3
+87,"9,999,999 Tears",Dickey Lee,93,87,2
+88,Slow Dancing,Funky Kings,91,88,4
+89,Open Sesame - Part 1,Kool & The Gang,89,89,4
+90,Sixteen Reasons,Laverne & Shirley,-1,90,1
+91,Dog Eat Dog,Ted Nugent,-1,91,1
+92,Makes You Blind,The Glitter Band,92,92,4
+93,A Dose Of Rock 'N' Roll,Ringo Starr,38,26,9
+94,A Little Bit More,Dr. Hook,94,11,24
+95,"(Shake, Shake, Shake) Shake Your Booty",KC And The Sunshine Band,44,1,21
+96,So Sad The Song,Gladys Knight And The Pips,49,47,8
+97,Still The One,Orleans,64,5,18
+98,Mr. Melody,Natalie Cole,59,49,12
+99,Laid Back Love,Major Harris,-1,99,1
+100,I Can't Live A Dream,The Osmonds,47,46,9

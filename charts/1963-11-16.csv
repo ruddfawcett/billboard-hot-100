@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Deep Purple,Nino Tempo & April Stevens,2,1,10
+2,Sugar Shack,Jimmy Gilmer And The Fireballs,1,1,9
+3,Washington Square,The Village Stompers,3,3,9
+4,I'm Leaving It Up To You,Dale & Grace,6,4,7
+5,It's All Right,The Impressions,4,4,8
+6,Maria Elena,Los Indios Tabajaras,7,6,9
+7,She's A Fool,Lesley Gore,11,7,8
+8,Bossa Nova Baby,Elvis Presley With The Jordanaires,9,8,5
+9,Everybody,Tommy Roe,14,9,6
+10,500 Miles Away From Home,Bobby Bare,15,10,7
+11,Mean Woman Blues,Roy Orbison,5,5,11
+12,I Can't Stay Mad At You,Skeeter Davis,10,7,11
+13,Fools Rush In,Rick Nelson,12,12,10
+14,Busted,Ray Charles and his Orchestra,8,4,11
+15,Walking The Dog,Rufus Thomas,25,15,7
+16,(Down At) Papa Joe's,The Dixiebelles,19,16,8
+17,Donna The Prima Donna,Dion (Di Muci),13,6,10
+18,Hey Little Girl,Major Lance,29,18,5
+19,Dominique,The Singing Nun (Soeur Sourire),64,19,2
+20,Talk To Me,Sunny & The Sunglows,18,11,11
+21,Misty,Lloyd Price,23,21,7
+22,Be My Baby,The Ronettes,20,2,12
+23,Cry To Me,Betty Harris,24,23,9
+24,You Lost The Sweetest Boy,Mary Wells,22,22,8
+25,Little Red Rooster,Sam Cooke,31,25,4
+26,Twenty Four Hours From Tulsa,Gene Pitney,43,26,5
+27,"That Sunday, That Summer",Nat King Cole,16,12,12
+28,Walking Proud,Steve Lawrence,30,28,5
+29,Your Other Love,Connie Francis,32,29,5
+30,Cross Fire!,The Orlons,21,19,8
+31,Saturday Night,The New Christy Minstrels,41,31,4
+32,Witchcraft,Elvis Presley With The Jordanaires,36,32,5
+33,Wild!,Dee Dee Sharp,33,33,7
+34,Wonderful Summer,Robin Ward,53,34,3
+35,I Adore Him,The Angels,39,35,4
+36,Living A Lie,Al Martino,48,36,4
+37,"Don't Think Twice, It's All Right","Peter, Paul & Mary",27,9,10
+38,I Wonder What She's Doing Tonight,Barry & The Tamerlanes,44,38,5
+39,Cry Baby,Garnet Mimms & The Enchanters,28,4,14
+40,Down The Aisle (Wedding Song),Patti LaBelle And The Blue Belles,37,37,10
+41,You Don't Have To Be A Baby To Cry,The Caravelles,56,41,3
+42,The Grass Is Greener,Brenda Lee,17,17,8
+43,Since I Fell For You,Lenny Welch,66,43,4
+44,Be True To Your School,The Beach Boys,69,44,3
+45,Loddy Lo,Chubby Checker,63,45,3
+46,The Matador,Johnny Cash,47,46,4
+47,Can I Get A Witness,Marvin Gaye,58,47,5
+48,Blue Bayou,Roy Orbison,34,29,10
+49,Blue Velvet,Bobby Vinton,26,1,15
+50,Funny How Time Slips Away,Johnny Tillotson,51,50,5
+51,New Mexican Rose,The 4 Seasons,40,36,7
+52,Blue Guitar,Richard Chamberlain,42,42,8
+53,Point Panic,The Surfaris,49,49,8
+54,A Fine Fine Boy,Darlene Love,54,54,5
+55,Don't Wait Too Long,Tony Bennett,59,55,6
+56,Young Wings Can Fly (Higher Than You Know),Ruby And The Romantics,67,56,4
+57,In My Room,The Beach Boys,65,57,3
+58,Louie Louie,The Kingsmen,83,58,2
+59,Talk Back Trembling Lips,Johnny Tillotson,91,59,2
+60,Misery,The Dynamics,72,60,3
+61,Have You Heard,The Duprees featuring Joey Vann,76,61,2
+62,Wives And Lovers,Jack Jones,70,62,3
+63,Night Life,Rusty Draper,57,57,8
+64,Gotta Travel On,Timi Yuro,73,64,6
+65,Come Back,Johnny Mathis,61,61,6
+66,"Sally, Go 'round The Roses",The Jaynetts,52,2,12
+67,The Boy Next Door,The Secrets,82,67,2
+68,Your Teenage Dreams,Johnny Mathis,74,68,6
+69,Midnight Mary,Joey Powers,79,69,2
+70,Unchained Melody,Vito & The Salutations,71,70,4
+71,I Got A Woman,Freddie Scott,75,71,3
+72,You're Good For Me,Solomon Burke,78,72,3
+73,Drip Drop,Dion Di Muci,-1,73,1
+74,Yesterday And You (Armen's Theme),Bobby Vee,84,74,2
+75,What's Easy For Two Is So Hard For One,Mary Wells,68,68,5
+76,I Could Have Danced All Night,Ben E. King,81,76,3
+77,Shirl Girl,Wayne Newton And The Newton Brothers,92,77,4
+78,Forget Him,Bobby Rydell,94,78,2
+79,Tra La La La Suzy,Dean And Jean,80,79,3
+80,Bad Girl,Neil Sedaka,-1,80,1
+81,Any Other Way,Chuck Jackson,87,81,3
+82,Sue's Gotta Be Mine,Del Shannon,89,82,3
+83,"Two-Ten, Six-Eighteen (Doesn't Anybody Know My Name)",Jimmie Rodgers,85,83,6
+84,Dawn,The David Rockingham Trio,86,84,2
+85,As Long As I Know He's Mine,The Marvelettes,100,85,2
+86,Reach Out For Me,Lou Johnson,88,86,5
+87,She's Got Everything,The Essex Featuring Anita Humes,-1,87,1
+88,The Nitty Gritty,Shirley Ellis,-1,88,1
+89,Rags To Riches,Sunny & The Sunliners,-1,89,1
+90,Baby Don't You Weep,Garnet Mimms & The Enchanters,-1,90,1
+91,Kansas City,Trini Lopez,-1,91,1
+92,I Have A Boyfriend,The Chiffons,-1,92,1
+93,Long Tall Texan,Murry Kellum,99,93,2
+94,Stop Monkeyin' Aroun',The Dovells,96,94,2
+95,I'm Down To My Last Heartbreak,Wilson Pickett,98,95,2
+96,I Am A Witness,Tommy Hunt,97,96,2
+97,Gotta Lotta Love,Steve Alaimo,-1,97,1
+98,Dumb Head,Ginny Arnell,-1,98,1
+99,Baby's Gone,Gene Thomas,-1,99,1
+100,Hey Lover,Debbie Dovale,-1,100,1

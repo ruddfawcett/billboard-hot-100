@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Honey,Bobby Goldsboro,1,1,5
+2,Young Girl,The Union Gap Featuring Gary Puckett,2,2,8
+3,Cry Like A Baby,The Box Tops,4,3,8
+4,Lady Madonna,The Beatles,6,4,5
+5,(Sweet Sweet Baby) Since You've Been Gone,Aretha Franklin,5,5,8
+6,(Sittin' On) The Dock Of The Bay,Otis Redding,3,1,13
+7,The Ballad Of Bonnie And Clyde,Georgie Fame,7,7,10
+8,Dance To The Music,Sly & The Family Stone,14,8,11
+9,I Got The Feelin',James Brown And The Famous Flames,11,9,6
+10,Mighty Quinn (Quinn The Eskimo),Manfred Mann,10,10,8
+11,Scarborough Fair (/Canticle),Simon & Garfunkel,13,11,8
+12,La - La - Means I Love You,The Delfonics,8,4,12
+13,Valleri,The Monkees,9,3,7
+14,If You Can Want,Smokey Robinson & The Miracles,16,14,9
+15,Love Is Blue (L'amour Est Bleu),Paul Mauriat And His Orchestra,12,1,16
+16,Summertime Blues,Blue Cheer,19,16,8
+17,Playboy,Gene And Debbe,17,17,10
+18,Cowboys To Girls,The Intruders,18,18,5
+19,"The Good, The Bad And The Ugly","Hugo Montenegro, His Orchestra And Chorus",32,19,10
+20,The Unicorn,The Irish Rovers,26,20,5
+21,Ain't No Way,Aretha Franklin,21,21,3
+22,Love Is All Around,The Troggs,25,22,9
+23,Sweet Inspiration,The Sweet Inspirations,24,23,8
+24,Kiss Me Goodbye,Petula Clark,20,15,10
+25,Tighten Up,Archie Bell & The Drells,37,25,4
+26,Jennifer Juniper,Donovan,28,26,7
+27,Cab Driver,The Mills Brothers,23,23,13
+28,Take Time To Know Her,Percy Sledge,30,28,6
+29,Forever Came Today,Diana Ross & The Supremes,29,29,6
+30,Funky Street,Arthur Conley,31,30,6
+31,A Beautiful Morning,The Rascals,56,31,2
+32,U.S. Male,Elvis Presley With The Jordanaires,42,32,5
+33,Take Good Care Of My Baby,Bobby Vinton,36,33,4
+34,Delilah,Tom Jones,34,34,6
+35,Security,Etta James,35,35,8
+36,Simon Says,1910 Fruitgum Co.,15,4,13
+37,Ame Caline (Soul Coaxing),Raymond Lefevre and His Orchestra,40,37,9
+38,Soul Serenade,Willie Mitchell,38,38,7
+39,Little Green Apples,Roger Miller,39,39,8
+40,The Son Of Hickory Holler's Tramp,O.C. Smith,43,40,9
+41,I Thank You,Sam & Dave,27,9,13
+42,The Impossible Dream,The Hesitations,44,42,6
+43,Jennifer Eccles,The Hollies,47,43,6
+44,I Will Always Think About You,The New Colony Six,46,44,4
+45,She's Lookin' Good,Wilson Pickett,66,45,2
+46,Rice Is Nice,The Lemon Pipers,49,46,7
+47,Shoo-Be-Doo-Be-Doo-Da-Day,Stevie Wonder,57,47,3
+48,The Unknown Soldier,The Doors,58,48,4
+49,Call Me Lightning,The Who,53,49,4
+50,Mony Mony,Tommy James And The Shondells,72,50,3
+51,Look To Your Soul,Johnny Rivers,62,51,3
+52,L. David Sloane,Michele Lee,52,52,8
+53,"Me, The Peaceful Heart",Lulu,61,53,5
+54,In Need Of A Friend,The Cowsills,55,54,6
+55,Foggy Mountain Breakdown,Flatt & Scruggs,65,55,8
+56,Ain't Nothing Like The Real Thing,Marvin Gaye & Tammi Terrell,75,56,2
+57,Jumbo,Bee Gees,71,57,3
+58,Goodbye Baby (I Don't Want To See You Cry),Tommy Boyce & Bobby Hart,64,58,3
+59,Sherry Don't Go,The Lettermen,60,59,5
+60,You've Still Got A Place In My Heart,Dean Martin,63,60,5
+61,Do You Know The Way To San José,Dionne Warwick,84,61,2
+62,Red Red Wine,Neil Diamond,73,62,2
+63,I Wanna Live,Glen Campbell,80,63,3
+64,Suddenly You Love Me,The Tremeloes,54,44,10
+65,I Can't Believe I'm Losing You,Frank Sinatra,87,65,2
+66,Gentle On My Mind,Patti Page,69,66,11
+67,Loving You Has Made Me Bananas,Guy Marks,90,67,2
+68,Cinderella Rockefella,Esther & Abi Ofarim,86,68,4
+69,100 Years,Nancy Sinatra,76,69,5
+70,Wear It On Our Face,The Dells,82,70,2
+71,Like To Get To Know You,Spanky And Our Gang,-1,71,1
+72,Impossible Mission (Mission Impossible),Soul Survivors,-1,72,1
+73,Paying The Cost To Be The Boss,B.B. King,-1,73,1
+74,Funky Walk Part I (East),Dyke And The Blazers,89,74,2
+75,I Got A Sure Thing,Ollie & The Nightingales,81,75,3
+76,Master Jack,Four Jacks And A Jill,93,76,4
+77,If You Don't Want My Love,Robert John,94,77,2
+78,We're Rolling On (Part I),The Impressions,-1,78,1
+79,Love Is Blue (L'Amour Est Bleu),Claudine Longet,79,71,9
+80,Goin' Away,The Fireballs,98,80,2
+81,Anything,Eric Burdon & The Animals,96,81,2
+82,My Girl/Hey Girl,Bobby Vee,-1,82,1
+83,Cabaret,Herb Alpert & The Tijuana Brass,-1,83,1
+84,I Promise To Wait My Love,Martha Reeves & The Vandellas,-1,84,1
+85,(You Keep Me) Hangin' On,Joe Simon,88,85,2
+86,May I Take A Giant Step (Into Your Heart),1910 Fruitgum Co.,-1,86,1
+87,I Love You,People,95,87,3
+88,Up On The Roof,The Cryan' Shames,85,85,3
+89,Show Time,Detroit Emeralds,91,89,4
+90,You'll Never Walk Alone,Elvis Presley With The Jordanaires,-1,90,1
+91,Your Heart Is Free Just Like The Wind,Vikki Carr,92,91,4
+92,Baby Make Your Own Sweet Music,Jay And The Techniques,99,92,2
+93,Love In Them There Hills,The Vibrations,-1,93,1
+94,The Shadow Of Your Love,5 Stairsteps and Cubie,-1,94,1
+95,Never Get Enough Of Your Love,"Oscar Toney, Jr.",-1,95,1
+96,Friends,The Beach Boys,-1,96,1
+97,Does Your Mama Know About Me,Bobby Taylor & The Vancouvers,-1,97,1
+98,Greasy Heart,Jefferson Airplane,-1,98,1
+99,Unwind,Ray Stevens,-1,99,1
+100,Louisiana Man,Bobbie Gentry,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You Make Me Feel Like Dancing,Leo Sayer,2,1,13
+2,I Wish,Stevie Wonder,4,2,7
+3,Car Wash,Rose Royce,5,3,13
+4,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",1,1,19
+5,Dazz,Brick,7,5,13
+6,Tonight's The Night (Gonna Be Alright),Rod Stewart,3,1,16
+7,Sorry Seems To Be The Hardest Word,Elton John,6,6,10
+8,Hot Line,The Sylvers,11,8,15
+9,After The Lovin',Engelbert Humperdinck,9,9,13
+10,Stand Tall,Burton Cummings,10,10,15
+11,The Rubberband Man,The Spinners,8,2,19
+12,New Kid In Town,Eagles,16,12,5
+13,Livin' Thing,Electric Light Orchestra,13,13,13
+14,Walk This Way,Aerosmith,20,14,9
+15,Somebody To Love,Queen,17,15,8
+16,Lost Without Your Love,Bread,18,16,8
+17,Enjoy Yourself,The Jacksons,19,17,10
+18,Love Me,Yvonne Elliman,14,14,16
+19,Blinded By The Light,Manfred Mann's Earth Band,28,19,9
+20,Torn Between Two Lovers,Mary Macgregor,27,20,9
+21,I Like Dreamin',Kenny Nolan,26,21,11
+22,Jeans On,David Dundas,22,22,15
+23,Shake Your Rump To The Funk,The Bar-Kays,23,23,14
+24,Saturday Nite,"Earth, Wind & Fire",24,24,9
+25,This Song,George Harrison,25,25,9
+26,Weekend In New England,Barry Manilow,32,26,8
+27,I Never Cry,Alice Cooper,12,12,23
+28,Fly Like An Eagle,Steve Miller,35,28,5
+29,More Than A Feeling,Boston,15,5,18
+30,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,30,30,11
+31,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,33,31,8
+32,Muskrat Love,Captain & Tennille,21,4,17
+33,Hard Luck Woman,KISS,41,33,5
+34,Drivin' Wheel,Foghat,36,34,8
+35,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,40,35,6
+36,Night Moves,Bob Seger,49,36,6
+37,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",29,8,21
+38,Free Bird,Lynyrd Skynyrd,38,19,19
+39,Nights Are Forever Without You,England Dan & John Ford Coley,34,10,15
+40,Love So Right,Bee Gees,31,3,18
+41,Dancing Queen,ABBA,56,41,6
+42,I Like To Do It,KC And The Sunshine Band,43,42,7
+43,It Keeps You Runnin',The Doobie Brothers,45,43,10
+44,Someone To Lay Down Beside Me,Linda Ronstadt ,44,44,7
+45,Save It For A Rainy Day,Stephen Bishop,55,45,6
+46,Living Next Door To Alice,Smokie,47,46,7
+47,You've Got Me Runnin',Gene Cotton,50,47,7
+48,Do It To My Mind,Johnny Bristol,48,48,8
+49,What Can I Say,Boz Scaggs,42,42,9
+50,Year Of The Cat,Al Stewart,64,50,6
+51,Keep Me Cryin',Al Green,37,37,13
+52,"9,999,999 Tears",Dickey Lee,52,52,9
+53,"Do What You Want, Be What You Are",Daryl Hall John Oates,39,39,12
+54,Dreamboat Annie,Heart,62,54,5
+55,Don't Leave Me This Way,Thelma Houston,65,55,5
+56,Moody Blue/she Thinks I Still Care,Elvis Presley,59,56,4
+57,Go Your Own Way,Fleetwood Mac,71,57,2
+58,You Are The Woman,Firefall,46,9,22
+59,Mademoiselle,Styx,51,36,10
+60,Spring Affair/Winter Melody,Donna Summer,60,60,5
+61,Slow Dancing,Funky Kings,61,61,11
+62,In The Mood,Henhouse Five Plus Too,79,62,2
+63,The Things We Do For Love,10cc,86,63,2
+64,Happier,Paul Anka,66,64,5
+65,Open Sesame - Part 1,Kool & The Gang,67,65,11
+66,Carry On Wayward Son,Kansas,76,66,4
+67,Beth/Detroit Rock City,KISS,57,7,20
+68,Free,Deniece Williams,72,68,6
+69,"Baby, You Look Good To Me Tonight",John Denver,69,69,4
+70,Love Ballad,L.T.D.,53,20,16
+71,Yesterday's Hero,Bay City Rollers,54,54,6
+72,Baby Don't You Know,Wild Cherry,-1,72,1
+73,Flight '76,The Walter Murphy Band,58,44,10
+74,When Love Is New,Arthur Prysock,77,74,4
+75,"Man Smart, Woman Smarter",Robert Palmer,63,63,7
+76,C.b. Savage,Rod Hart,81,76,4
+77,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,-1,77,1
+78,Ha Cha Cha (funktion),Brass Construction,80,78,4
+79,Fancy Dancer,Commodores,85,79,2
+80,Say You'll Stay Until Tomorrow,Tom Jones,90,80,2
+81,Be My Girl,The Dramatics,83,81,2
+82,Caledonia,Robin Trower,82,82,7
+83,Hail! Hail! Rock And Roll!,Starland Vocal Band,87,83,2
+84,Boogie Child,Bee Gees,-1,84,1
+85,Lucky Man,Starbuck,73,73,5
+86,Do You Feel Like We Do,Peter Frampton,70,10,18
+87,Don't Take Away The Music,Tavares,68,34,12
+88,Prisoner (Captured By Your Eyes),L.A. Jets,88,88,4
+89,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,74,1,23
+90,Baby Boy,Mary Kay Place As Loretta Haggers,75,60,12
+91,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,78,2,21
+92,I Don't Wanna Lose Your Love/Flowers,The Emotions,-1,92,1
+93,Feelings,Walter Jackson,93,93,4
+94,Hello Old Friend,Eric Clapton,84,24,14
+95,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,99,95,2
+96,Pirate,Cher,-1,96,1
+97,If Not You,Dr. Hook,97,55,8
+98,Fly By Night/In The Mood,Rush,98,98,2
+99,White Bird,David Laflamme,89,89,6
+100,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,94,94,4

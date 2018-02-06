@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Ode To Billie Joe,Bobbie Gentry,7,1,4
+2,All You Need Is Love,The Beatles,1,1,6
+3,Pleasant Valley Sunday,The Monkees,3,3,6
+4,Light My Fire,The Doors,2,1,13
+5,Baby I Love You,Aretha Franklin,5,5,6
+6,I Was Made To Love Her,Stevie Wonder,4,2,12
+7,Cold Sweat - Part 1,James Brown And The Famous Flames,8,7,7
+8,Reflections,Diana Ross & The Supremes,20,8,3
+9,You're My Everything,The Temptations,21,9,5
+10,A Whiter Shade Of Pale,Procol Harum,9,5,10
+11,A Girl Like You, The Young Rascals,10,10,7
+12,Heroes And Villains,The Beach Boys,17,12,4
+13,Thank The Lord For The Night Time,Neil Diamond,19,13,7
+14,Come Back When You Grow Up,Bobby Vee And The Strangers,27,14,6
+15,Words,The Monkees,15,15,6
+16,Silence Is Golden,The Tremeloes,11,11,11
+17,To Love Somebody,Bee Gees,18,17,7
+18,Carrie-Anne,The Hollies,12,9,11
+19,"Apples, Peaches, Pumpkin Pie",Jay And The Techniques,24,19,7
+20,My Mammy,The Happenings,13,13,7
+21,Hypnotized,Linda Jones,23,21,10
+22,"Mercy, Mercy, Mercy",The Buckinghams,6,5,11
+23,Fakin' It,Simon & Garfunkel,28,23,5
+24,Can't Take My Eyes Off You,Frankie Valli,14,2,15
+25,The Letter,The Box Tops,58,25,3
+26,San Franciscan Nights,Eric Burdon & The Animals,31,26,4
+27,Brown Eyed Girl,Van Morrison ,34,27,7
+28,(I Wanna) Testify,The Parliaments,30,28,9
+29,Funky Broadway,Wilson Pickett,46,29,4
+30,Let The Good Times Roll & Feel So Good,Bunny Sigler,22,22,10
+31,The World We Knew (Over And Over),Frank Sinatra,42,31,4
+32,The Sweetest Thing This Side Of Heaven,Chris Bartley,32,32,6
+33,The Windows Of The World,Dionne Warwick,43,33,5
+34,Windy,The Association,16,1,14
+35,More Love,Smokey Robinson & The Miracles,29,23,11
+36,There Is A Mountain,Donovan,54,36,3
+37,You Know What I Mean,The Turtles,48,37,4
+38,Soul Finger,Bar-Kays,33,17,15
+39,Everybody Needs Love,Gladys Knight And The Pips,40,39,8
+40,White Rabbit,Jefferson Airplane,25,8,10
+41,Baby You're A Rich Man,The Beatles,38,34,5
+42,I Take It Back,Sandy Posey,37,12,12
+43,Groovin',Booker T. & The MG's,56,43,4
+44,Shoot Your Shot,Jr. Walker & The All Stars,44,44,6
+45,(Your Love Keeps Lifting Me) Higher And Higher,Jackie Wilson,55,45,3
+46,Little Bit O' Soul,The Music Explosion,26,2,16
+47,Things I Should Have Said,The Grass Roots,59,47,3
+48,I Dig Rock And Roll Music,"Peter, Paul & Mary",76,48,2
+49,Don't Let The Rain Fall Down On Me,The Critters,39,39,8
+50,Ha Ha Said The Clown,The Yardbirds,60,50,4
+51,Blue's Theme,Davie Allan And The Arrows,51,51,12
+52,Zip Code,The Five Americans,65,52,3
+53,Cry Softly Lonely One,Roy Orbison,52,52,5
+54,I Had A Dream,Paul Revere & The Raiders Featuring Mark Lindsay,80,54,2
+55,I Want To Love You For What You Are,Ronnie Dove,57,55,4
+56,Gimme Little Sign,Brenton Wood,66,56,3
+57,Jill,Gary Lewis And The Playboys,67,57,3
+58,Happy,The Sunshine Company,61,58,7
+59,"Little Ole Wine Drinker, Me",Dean Martin,78,59,2
+60,It's The Little Things,Sonny & Cher,64,60,3
+61,Bluebird,The Buffalo Springfield,62,58,7
+62,Out & About,Tommy Boyce & Bobby Hart,49,39,7
+63,A Woman's Hands,Joe Tex,63,63,4
+64,The River Is Wide,The Forum,45,45,8
+65,Funky Broadway Part I, Dyke And The Blazers,71,65,14
+66,"Run, Run, Run",The Third Rail,72,66,4
+67,A Little Bit Now,The Dave Clark Five,75,67,3
+68,Sixteen Tons,Tom Jones,77,68,3
+69,Making Every Minute Count,Spanky And Our Gang,84,69,2
+70,Slim Jenkin's Place,Booker T. & The MG's,73,70,5
+71,You've Got To Pay The Price,Al Kent,81,71,2
+72,Twelve Thirty (Young Girls Are Coming To The Canyon),The Mamas & The Papas,-1,72,1
+73,Knock On Wood,Otis & Carla,88,73,3
+74,"Laura, What's He Got That I Ain't Got",Frankie Laine,83,74,3
+75,Gettin' Together,Tommy James And The Shondells,-1,75,1
+76,Turn On Your Love Light,"Oscar Toney, Jr.",79,76,3
+77,Anything Goes,Harpers Bizarre,85,77,2
+78,Museum,Herman's Hermits,-1,78,1
+79,Love Bug Leave My Heart Alone,Martha & The Vandellas,94,79,2
+80,Get On Up, The Esquires,92,80,2
+81,I Feel Good (I Feel Bad),The Lewis & Clarke Expedition,-1,81,1
+82,Lady Friend,The Byrds,82,82,2
+83,Never My Love,The Association,-1,83,1
+84,Put Your Mind At Ease,Every Mothers' Son,-1,84,1
+85,Laura (Tell Me What He's Got That I Ain't Got),Brook Benton,90,85,2
+86,Turn The World Around,Eddy Arnold,95,86,2
+87,It Could Be We're In Love,The Cryan' Shames,87,87,4
+88,Memphis Soul Stew,King Curtis,-1,88,1
+89,In The Heat Of The Night,Ray Charles,-1,89,1
+90,There's Always Me,Elvis Presley With The Jordanaires,-1,90,1
+91,Tell Him,Patti Drew,-1,91,1
+92,Stout-Hearted Men,Barbra Streisand,-1,92,1
+93,I Make A Fool Of Myself,Frankie Valli,-1,93,1
+94,Purple Haze,The Jimi Hendrix Experience,-1,94,1
+95,Casonova (Your Playing Days Are Over),Ruby Andrews,-1,95,1
+96,How Can You Mistreat The One You Love,Jean & The Darlings,-1,96,1
+97,Love Is A Doggone Good Thing,Eddie Floyd,-1,97,1
+98,Come On Sock It To Me,Syl Johnson,98,98,2
+99,Last Minute Miracle,The Shirelles,99,99,2
+100,Drums,Jon & Robin,100,100,2

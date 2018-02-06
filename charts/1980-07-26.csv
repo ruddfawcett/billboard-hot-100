@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,It's Still Rock And Roll To Me,Billy Joel,1,1,10
+2,Magic,Olivia Newton-John,7,2,10
+3,Little Jeannie,Elton John,3,3,13
+4,Cupid/I've Loved You For A Long Time,The Spinners,4,4,11
+5,Shining Star,The Manhattans,5,5,14
+6,Coming Up (Live At Glasgow),Paul McCartney And Wings,2,1,14
+7,Steal Away,Robbie Dupree,6,6,16
+8,Tired Of Toein' The Line,Rocky Burnette,12,8,12
+9,Take Your Time (Do It Right) Part 1,The S.O.S. Band,11,9,9
+10,The Rose,Bette Midler,8,3,19
+11,Emotional Rescue,The Rolling Stones,17,11,4
+12,One Fine Day,Carole King,13,12,11
+13,In America,The Charlie Daniels Band,14,13,9
+14,More Love,Kim Carnes,15,14,9
+15,Let Me Love You Tonight,Pure Prairie League,10,10,12
+16,Love The World Away,Kenny Rogers,18,16,6
+17,Sailing,Christopher Cross,23,17,7
+18,Gimme Some Lovin',Blues Brothers,19,18,9
+19,All Night Long,Joe Walsh,21,19,11
+20,Empire Strikes Back (Medley),Meco,22,20,7
+21,Let's Get Serious,Jermaine Jackson,9,9,18
+22,Misunderstanding,Genesis,24,22,10
+23,Let My Love Open The Door,Pete Townshend,25,23,7
+24,Stand By Me,Mickey Gilley,26,24,11
+25,Take A Little Rhythm,Ali Thomson,28,25,7
+26,JoJo,Boz Scaggs,31,26,7
+27,Old-Fashion Love,Commodores,29,27,6
+28,Into The Night,Benny Mardones,30,28,7
+29,I'm Alive,Electric Light Orchestra,16,16,10
+30,Make A Little Magic,The Dirt Band,33,30,6
+31,Fame,Irene Cara,42,31,7
+32,Walks Like A Lady,Journey,32,32,10
+33,Boulevard,Jackson Browne,48,33,4
+34,I Can't Let Go,Linda Ronstadt,38,34,5
+35,Why Not Me,Fred Knoblock,43,35,5
+36,King Of The Hill,Rick Pinette & Oak,36,36,12
+37,All Out Of Love,Air Supply,39,37,7
+38,Tulsa Time/Cocaine,Eric Clapton And His Band,41,38,6
+39,Funkytown,"Lipps, Inc.",20,1,18
+40,Drivin' My Life Away,Eddie Rabbitt,45,40,6
+41,Against The Wind,Bob Seger,27,5,13
+42,Play The Game,Queen,44,42,5
+43,A Lover's Holiday,Change,40,40,11
+44,Give Me The Night,George Benson,56,44,4
+45,Biggest Part Of Me,Ambrosia,34,3,17
+46,Landlord,Gladys Knight And The Pips,47,46,7
+47,Shandi,KISS,50,47,6
+48,One In A Million You,Larry Graham,58,48,5
+49,Someone That I Used To Love,Natalie Cole,55,49,6
+50,Beyond,Herb Alpert,51,50,5
+51,Lookin' For Love,Johnny Lee,59,51,3
+52,One More Time For Love,Billy Preston & Syreeta,52,52,7
+53,You're The Only Woman (You & I),Ambrosia,64,53,3
+54,She's Out Of My Life,Michael Jackson,35,10,15
+55,That Lovin' You Feelin' Again,Roy Orbison & Emmylou Harris,62,55,5
+56,Love That Got Away,Firefall,61,56,5
+57,Years From Now,Dr. Hook,65,57,4
+58,On The Rebound,Russ Ballard,60,58,7
+59,Upside Down,Diana Ross,71,59,3
+60,Hot Rod Hearts,Robbie Dupree ,74,60,2
+61,Free Me,Roger Daltrey,69,61,4
+62,Cars,Gary Numan,37,9,24
+63,Should've Never Let You Go,Neil Sedaka & Dara Sedaka,49,19,18
+64,Call Me,Blondie,54,1,24
+65,You're Supposed To Keep Your Love For Me,Jermaine Jackson,76,65,3
+66,Dancin' In The Streets,Teri DeSario With K.C.,66,66,5
+67,I'm Alright,Kenny Loggins,77,67,3
+68,Don't Fall In Love With A Dreamer,Kenny Rogers with Kim Carnes,57,4,18
+69,"Honey, Honey",David Hudson,72,69,5
+70,If I Were You,Toby Beau,70,70,4
+71,Save Me,Dave Mason,73,71,3
+72,You Better Run,Pat Benatar,-1,72,1
+73,Hey There Lonely Girl,Robert John,85,73,2
+74,How Does It Feel To Be Back,Daryl Hall John Oates,84,74,2
+75,Let's Go 'round Again,Average White Band,53,53,6
+76,Under The Gun,Poco,86,76,2
+77,Half Moon Silver,Hotel,80,77,3
+78,The Royal Mile (Sweet Darlin'),Gerry Rafferty,88,78,2
+79,Cry Just A Little,Paul Davis,81,79,2
+80,You And Me,Rockie Robbins,90,80,2
+81,My Mistake,The Kingbees,82,81,5
+82,You'll Accomp'ny Me,Bob Seger,-1,82,1
+83,He's So Shy,The Pointer Sisters,-1,83,1
+84,First Time Love,Livingston Taylor,-1,84,1
+85,Don't Misunderstand Me,Rossington Collins Band,-1,85,1
+86,No Night So Long,Dionne Warwick,-1,86,1
+87,Wango Tango,Ted Nugent,-1,87,1
+88,Just Can't Wait,The J. Geils Band,78,78,3
+89,(Call Me) When The Spirit Moves You,Touch,-1,89,1
+90,First...Be A Woman,Lenore O'malley,-1,90,1
+91,It's For You,Player,46,46,8
+92,Mirage,Eric Troyer,-1,92,1
+93,Where Did We Go Wrong,Frankie Valli & Chris Forde,96,93,2
+94,Alabama Getaway,Grateful Dead,68,68,6
+95,Who Shot J.R.?,Gary Burbank With Band McNally,67,67,5
+96,Shiver And Shake,The Silencers,-1,96,1
+97,When Things Go Wrong,Robin Lane & The Chartbusters,87,87,3
+98,Everything Works If You Let It,Cheap Trick,63,44,10
+99,I Get Off On It,Tony Joe White,79,79,5
+100,The Blue Side,Crystal Gayle,83,81,8

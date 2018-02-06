@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Call Me,Blondie,1,1,14
+2,Ride Like The Wind,Christopher Cross,2,2,14
+3,Lost In Love,Air Supply,3,3,15
+4,Funkytown,"Lipps, Inc.",19,4,8
+5,With You I'm Born Again,Billy Preston & Syreeta,4,4,24
+6,Sexy Eyes,Dr. Hook,8,6,14
+7,You May Be Right,Billy Joel,7,7,10
+8,Don't Fall In Love With A Dreamer,Kenny Rogers with Kim Carnes,9,8,8
+9,Another Brick In The Wall (Part II),Pink Floyd,5,1,18
+10,Biggest Part Of Me,Ambrosia,11,10,7
+11,Hurt So Bad,Linda Ronstadt,12,11,6
+12,Cars,Gary Numan,15,12,14
+13,I Can't Help It,Andy Gibb & Olivia Newton-John,14,13,8
+14,Pilot Of The Airwaves,Charlie Dore,13,13,13
+15,Breakdown Dead Ahead,Boz Scaggs,17,15,8
+16,Stomp!,The Brothers Johnson,18,16,10
+17,Brass In Pocket (I'm Special),Pretenders,20,17,14
+18,Against The Wind,Bob Seger,26,18,3
+19,Coming Up (Live At Glasgow), Paul McCartney And Wings,27,19,4
+20,The Rose,Bette Midler,22,20,9
+21,Steal Away,Robbie Dupree,23,21,6
+22,Heart Hotels,Dan Fogelberg,25,22,9
+23,Do Right,Paul Davis,24,23,11
+24,Fire Lake,Bob Seger,6,6,13
+25,Train In Vain (Stand By Me),The Clash,28,25,9
+26,She's Out Of My Life,Michael Jackson,30,26,5
+27,Little Jeannie,Elton John,38,27,3
+28,I Can't Tell You Why,Eagles,16,8,13
+29,Let's Get Serious,Jermaine Jackson,32,29,8
+30,The Seduction (Love Theme),James Last Band,31,30,8
+31,Let Me Be The Clock,Smokey Robinson,33,31,10
+32,Wondering Where The Lions Are,Bruce Cockburn,34,32,9
+33,Should've Never Let You Go,Neil Sedaka & Dara Sedaka,40,33,8
+34,Gee Whiz,Bernadette Peters,35,34,8
+35,Headed For A Fall,Firefall,39,35,6
+36,Starting Over Again,Dolly Parton,36,36,8
+37,Hold On To My Love,Jimmy Ruffin,10,10,12
+38,Special Lady,"Ray, Goodman & Brown",21,5,17
+39,I Don't Want To Walk Without You,Barry Manilow,46,39,6
+40,We Live For Love,Pat Benatar,44,40,7
+41,We Were Meant To Be Lovers,Photoglo,43,41,8
+42,Lucky Me,Anne Murray,42,42,7
+43,Don't Say Goodnight (It's Time For Love) (Parts 1 & 2),The Isley Brothers,47,43,5
+44,Love Stinks,The J. Geils Band,49,44,6
+45,When The Feeling Comes Around,Jennifer Warnes,45,45,7
+46,Lady,The Whispers,50,46,5
+47,New Romance (It's A Mystery),Spider,51,47,5
+48,Twilight Zone/Twilight Tone,The Manhattan Transfer,54,48,5
+49,"Theme From New York, New York",Frank Sinatra,60,49,3
+50,Two Places At The Same Time,Ray Parker Jr. & Raydio,56,50,5
+51,"Working My Way Back To You/Forgive Me, Girl",The Spinners,29,2,23
+52,Shining Star,The Manhattans,66,52,4
+53,Don't Push It Don't Force It,Leon Haywood,53,53,7
+54,Think About Me,Fleetwood Mac,37,20,11
+55,Any Way You Want It,Journey,41,23,12
+56,Coming Down From Love,Bobby Caldwell,63,56,5
+57,Fool For A Pretty Face (Hurt By Love),Humble Pie,65,57,4
+58,Rock Lobster,The B-52s,58,58,5
+59,Answering Machine,Rupert Holmes,72,59,3
+60,Tired Of Toein' The Line,Rocky Burnette,71,60,2
+61,Here Comes My Girl,Tom Petty And The Heartbreakers,61,61,4
+62,Too Hot,Kool & The Gang,55,5,18
+63,Power,The Temptations,73,63,2
+64,It's Not A Wonder,Little River Band,74,64,3
+65,Run Like Hell,Pink Floyd,80,65,2
+66,I Pledge My Love,Peaches & Herb,57,19,18
+67,Cupid/I've Loved You For A Long Time,The Spinners,-1,67,1
+68,Let Me Love You Tonight,Pure Prairie League,81,68,2
+69,It's Hard To Be Humble,Mac Davis,69,43,9
+70,Off The Wall,Michael Jackson,59,10,14
+71,Atomic,Blondie,-1,71,1
+72,Midnight Rendezvous,The Babys,76,72,3
+73,One Fine Day,Carole King,-1,73,1
+74,All Night Long,Joe Walsh,-1,74,1
+75,Happy Together (A Fantasy),Captain & Tennille,85,75,2
+76,Back Together Again,Roberta Flack With Donny Hathaway,-1,76,1
+77,Clones (We're All),Alice Cooper,-1,77,1
+78,King Of The Hill,Rick Pinette & Oak,88,78,2
+79,All Night Thing,The Invisible Man's Band,-1,79,1
+80,Inside Of You,"Ray, Goodman & Brown",84,80,2
+81,Ashes By Now,Rodney Crowell,90,81,2
+82,Just For The Moment,Ray Kennedy,82,82,3
+83,Dancin' Like Lovers,Mary Macgregor,-1,83,1
+84,Is This Love,Pat Travers Band,-1,84,1
+85,Stand By Me,Mickey Gilley,-1,85,1
+86,Gone Too Far,Eddie Rabbitt,87,86,3
+87,I Only Want To Be With You,The Tourists,-1,87,1
+88,Somethin' 'Bout You Baby I Like,Glen Campbell & Rita Coolidge,-1,88,1
+89,Love And Loneliness,The Motors,-1,89,1
+90,A Lover's Holiday,Change,-1,90,1
+91,And The Beat Goes On,The Whispers,62,19,15
+92,What's Your Hurry Darlin',Ironhorse,93,92,4
+93,Crazy Little Thing Called Love,Queen,67,1,22
+94,Catching The Sun,Spyro Gyra,68,68,5
+95,Real Love,The Cretones,96,95,3
+96,White Hot,Red Rider,48,48,7
+97,Keep The Fire, Kenny Loggins,97,36,13
+98,Fire In The Morning,Melissa Manchester,64,32,13
+99,How Do I Make You,Linda Ronstadt,75,10,16
+100,Solitaire,Peter McIan,52,52,7

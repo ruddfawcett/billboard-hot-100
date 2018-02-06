@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Chipmunk Song,The Chipmunks With David Seville,1,1,5
+2,Smoke Gets In Your Eyes,The Platters,2,2,7
+3,"To Know Him, Is To Love Him",The Teddy Bears,3,1,15
+4,One Night,Elvis Presley,6,4,8
+5,Problems,The Everly Brothers,4,2,8
+6,Tom Dooley,The Kingston Trio,5,1,14
+7,Lonesome Town,Ricky Nelson,8,7,11
+8,Beep Beep,The Playmates,7,4,9
+9,A Lover's Question,Clyde McPhatter,10,9,12
+10,Whole Lotta Loving,Fats Domino,12,10,7
+11,Gotta Travel On,Billy Grammer,14,11,6
+12,It's Only Make Believe,Conway Twitty,9,1,16
+13,My Happiness,Connie Francis,17,13,4
+14,I Got Stung,Elvis Presley,11,8,9
+15,Bimbombey,Jimmie Rodgers,13,11,8
+16,Lonely Teardrops,Jackie Wilson,19,16,6
+17,Queen Of The Hop,Bobby Darin ,16,9,13
+18,Donna,Ritchie Valens,27,18,6
+19,Love Is All We Need,Tommy Edwards,15,15,10
+20,I Got A Feeling,Ricky Nelson,22,10,12
+21,Poor Boy,The Royaltones,23,17,11
+22,Manhattan Spiritual,Reg Owen & His Orchestra,31,22,4
+23,I'll Wait For You,Frankie Avalon,21,15,11
+24,That Old Black Magic,Louis Prima And Keely Smith,24,18,9
+25,16 Candles,The Crests,32,25,6
+26,Love You Most Of All,Sam Cooke,36,26,7
+27,Philadelphia U.S.A.,The Nu Tornados,26,26,7
+28,Topsy II,Cozy Cole,20,3,19
+29,The Little Drummer Boy,The Harry Simeone Chorale,88,29,2
+30,Goodbye Baby,Jack Scott,68,30,3
+31,Cannonball,Duane Eddy His Twangy Guitar And The Rebels,18,15,9
+32,The Diary,Neil Sedaka,41,32,4
+33,The Teen Commandments,Paul Anka-Geo. Hamilton IV-Johnny Nash,37,33,5
+34,I Cried A Tear,LaVern Baker,45,34,4
+35,Jingle Bell Rock,Bobby Helms,57,35,2
+36,Turvy II,Cozy Cole,44,36,5
+37,Chantilly Lace,Big Bopper,25,6,22
+38,It's All In The Game, Tommy Edwards,29,1,20
+39,The All American Boy,Bill Parsons,56,39,2
+40,The World Outside,The Four Coins,30,21,8
+41,The End,Earl Grant,34,7,16
+42,Big Bopper's Wedding,Big Bopper,38,38,4
+43,(All of a Sudden) My Heart Sings,Paul Anka,39,39,2
+44,Green Chri$tma$,Stan Freberg,-1,44,1
+45,Pledging My Love,Roy Hamilton,59,45,7
+46,Nobody But You,Dee Clark,52,46,5
+47,¿Dònde Està Santa Claus? (Where Is Santa Claus?),Augie Rios,53,47,3
+48,C'mon Everybody,Eddie Cochran,43,43,6
+49,Call Me,Johnny Mathis,48,21,14
+50,Peek-A-Boo,The Cadillacs,35,35,4
+51,The Wedding,June Valli,55,51,6
+52,Sweet Little Rock And Roller,Chuck Berry,54,47,8
+53,Stagger Lee,Lloyd Price,66,53,4
+54,It's Just About Time,Johnny Cash And The Tennessee Two,62,54,3
+55,Don't Pity Me,Dion & The Belmonts,63,55,2
+56,Lucky Ladybug,Billy & Lillie,77,56,2
+57,Sing Sing Sing,Bernie Lowe Orchestra,58,46,6
+58,Rocka-Conga,The Applejacks,64,58,2
+59,A Letter To An Angel,Jimmy Clanton,42,25,11
+60,Tea For Two Cha Cha,The Tommy Dorsey Orchestra,51,7,18
+61,Try Me,James Brown And The Famous Flames,67,61,3
+62,Need You,Donnie Owens,28,25,13
+63,Hideaway,The Four Esquires,61,21,15
+64,Mr. Success,Frank Sinatra,76,41,10
+65,I'll Remember Tonight,Pat Boone,40,34,10
+66,White Christmas,Bing Crosby,86,66,2
+67,Come Prima (Koma Preema),Polly Bergen,75,67,3
+68,Teasin',Quaker City Boys,81,68,2
+69,Run Rudolph Run,Chuck Berry,73,69,3
+70,The Mocking Bird,The Four Lads,46,32,9
+71,Merry Christmas Baby,Chuck Berry,79,71,3
+72,The Hawaiian Wedding Song (Ke Kali Nei Au),Andy Williams,-1,72,1
+73,Blue Hawaii,Billy Vaughn And His Orchestra,-1,73,1
+74,Cinderella,The Four Preps,69,69,6
+75,Walking Along,The Diamonds,33,29,10
+76,The Worryin' Kind,Tommy Sands And The Raiders,-1,76,1
+77,The Fool And The Angel,Bobby Helms,84,77,4
+78,Diamond Ring,Jerry Wallace,83,78,4
+79,Rockhouse (Part 2),Ray Charles and his Orchestra,95,79,2
+80,Love Of My Life,The Everly Brothers,78,40,6
+81,La Bamba,Ritchie Valens,-1,81,1
+82,Pussy Cat,The Ames Brothers,49,17,14
+83,Dreamy Eyes,Johnny Tillotson,92,83,5
+84,Little Red Riding Hood,Big Bopper,-1,72,4
+85,"Wiggle, Wiggle",The Accents,96,85,2
+86,Forget Me Not,Kalin Twins,50,12,14
+87,So Much,Little Anthony And The Imperials,97,87,2
+88,The Voice In My Heart,Eydie Gorme,-1,88,1
+89,Philadelphia U.S.A.,Art Lund,93,89,3
+90,The Day The Rains Came,Jane Morgan,47,21,15
+91,There Goes My Heart,Joni James,65,19,16
+92,"The Bluebird, The Buzzard & The Oriole",Bobby Day,-1,92,1
+93,Funny,Jesse Belvin,-1,93,1
+94,Come Prima,Tony Dallara,70,70,4
+95,Mandolins In The Moonlight,Perry Como,82,47,10
+96,The World Outside,Roger Williams,-1,71,3
+97,Ten Commandments Of Love,Harvey & The Moonglows,72,22,16
+98,Save My Soul,Jack Scott,-1,98,1
+99,Heartbeat,Buddy Holly,-1,99,1
+100,Red River Rose,The Ames Brothers,-1,100,1

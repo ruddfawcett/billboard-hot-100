@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,How Can You Mend A Broken Heart,Bee Gees,1,1,9
+2,Mr. Big Stuff,Jean Knight,2,2,13
+3,"Take Me Home, Country Roads",John Denver,3,3,18
+4,"Mercy, Mercy Me (The Ecology)",Marvin Gaye,9,4,8
+5,You've Got A Friend,James Taylor,5,1,12
+6,Sweet Hitch-Hiker,Creedence Clearwater Revival,15,6,6
+7,Beginnings/Colour My World,Chicago,7,7,9
+8,Signs,Five Man Electrical Band,10,8,13
+9,Draggin' The Line,Tommy James,4,4,11
+10,Liar,Three Dog Night,14,10,7
+11,Indian Reservation (The Lament Of The Cherokee Reservation Indian),The Raiders,6,1,20
+12,Smiling Faces Sometimes,The Undisputed Truth,21,12,9
+13,It's Too Late/I Feel The Earth Move,Carole King,11,1,16
+14,Spanish Harlem,Aretha Franklin,19,14,4
+15,Hot Pants (She Got To Use What She Got To Get What She Wants) (Pt. 1),James Brown,16,15,8
+16,Riders On The Storm,The Doors,20,16,8
+17,"What The World Needs Now Is Love/Abraham, Martin and John",Tom Clay,8,8,7
+18,Never Ending Song Of Love,Delaney & Bonnie & Friends,13,13,14
+19,Whatcha See Is Whatcha Get,The Dramatics,25,19,8
+20,Maybe Tomorrow,Jackson 5,22,20,7
+21,Uncle Albert/Admiral Halsey,Paul & Linda McCartney,65,21,2
+22,I Just Want To Celebrate,Rare Earth,26,22,6
+23,Ain't No Sunshine,Bill Withers,27,23,6
+24,Go Away Little Girl,Donny Osmond,44,24,3
+25,Bring The Boys Home,Freda Payne,12,12,12
+26,Rings,Cymarron,17,17,11
+27,If Not For You,Olivia Newton-John,31,27,13
+28,Love The One You're With,The Isley Brothers,18,18,10
+29,You've Got A Friend,Roberta Flack & Donny Hathaway,29,29,11
+30,Won't Get Fooled Again,The Who,34,30,6
+31,Don't Pull Your Love,"Hamilton, Joe Frank & Reynolds",23,4,14
+32,Moon Shadow,Cat Stevens,30,30,9
+33,Go Down Gamblin',"Blood, Sweat & Tears",37,33,4
+34,Mighty Clouds Of Joy,B.J. Thomas,36,34,8
+35,I Woke Up In Love This Morning,The Partridge Family Starring Shirley Jones Featuring David Cassidy,63,35,2
+36,I'm Leavin',Elvis Presley,38,36,7
+37,Mother Freedom,Bread,39,37,6
+38,Stick-Up,The Honey Cone,42,38,3
+39,Tired Of Being Alone,Al Green,41,39,5
+40,Double Barrel,Dave & Ansil Collins,28,22,11
+41,Where You Lead,Barbra Streisand,43,41,5
+42,I Likes To Do It,The People's Choice,47,42,5
+43,Bangla-Desh/Deep Blue,George Harrison,67,43,2
+44,Saturday Morning Confusion,Bobby Russell,52,44,7
+45,Chirpy Chirpy Cheep Cheep,Mac And Katie Kissoon,51,45,5
+46,Maggie May/Reason To Believe,Rod Stewart,62,46,6
+47,Wedding Song (There Is Love), Paul Stookey,61,47,4
+48,Do You Know What I Mean,Lee Michaels,60,48,4
+49,The Story In Your Eyes,The Moody Blues,64,49,3
+50,Maggie,Redbone,57,50,12
+51,It's Summer,The Temptations,54,51,5
+52,Ride With Me,Steppenwolf,55,52,6
+53,I Hear Those Church Bells Ringing,Dusk,59,53,11
+54,The Night They Drove Old Dixie Down,Joan Baez,72,54,2
+55,All Day Music,War,71,55,3
+56,He's So Fine, Jody Miller,56,53,9
+57,Rain Dance,The Guess Who,81,57,2
+58,If You Really Love Me,Stevie Wonder,86,58,2
+59,Where Evil Grows,The Poppy Family,68,59,4
+60,"Take Me Girl, I'm Ready",Jr. Walker & The All Stars,73,60,3
+61,K-Jee,The Nite-Liters,70,61,7
+62,The Breakdown (Part I),Rufus Thomas,88,62,2
+63,I Ain't Got Time Anymore,The Glass Bottle,75,63,6
+64,Marianne,Stephen Stills,-1,64,1
+65,Surrender,Diana Ross,87,65,2
+66,Crazy Love,Helen Reddy,91,66,3
+67,Waiting At The Bus Stop,Bobby Sherman,-1,67,1
+68,Sweet City Woman,Stampeders,83,68,2
+69,Come Back Home,Bobby Goldsboro,69,69,5
+70,We Are Neighbors,The Chi-lites,76,70,5
+71,You're The One For Me,Joe Simon,80,71,5
+72,I've Found Someone Of My Own,The Free Movement,82,72,12
+73,Resurrection Shuffle,"Ashton, Gardner & Dyke",45,40,10
+74,Stagger Lee,Tommy Roe,-1,74,1
+75,Them Changes,Buddy Miles & The Freedom Express,85,75,11
+76,Summer Sand,Dawn,40,33,10
+77,Loving Her Was Easier (Than Anything I'll Ever Do Again),Kris Kristofferson,-1,77,1
+78,She Didn't Do Magic/I'm The Only One,Lobo,49,46,9
+79,Easy Loving,Freddie Hart,-1,79,1
+80,How Can I Unlove You,Lynn Anderson,-1,80,1
+81,It's The Real Thing - Pt. I,The Electric Express,84,81,4
+82,The Love We Had (Stays On My Mind),The Dells,95,82,2
+83,Amanda,Dionne Warwicke,90,83,3
+84,Top Forty,Sha Na Na,89,84,3
+85,We Got A Dream,Ocean,92,85,3
+86,"Slipped, Tripped And Fell In Love",Clarence Carter,96,86,3
+87,Don't Try To Lay No Boogie-Woogie On The King Of Rock And Roll,John Baldry,-1,87,1
+88,"Another Time, Another Place",Engelbert Humperdinck,-1,88,1
+89,A Song For You,Andy Williams,-1,89,1
+90,I'd Rather Be Sorry,Ray Price,100,90,2
+91,Hymn 43, Jethro Tull,93,91,2
+92,The Year That Clayton Delaney Died,Tom T. Hall,-1,92,1
+93,He's Gonna Step On You Again,John Kongos,79,70,7
+94,I'm Just Me,Charley Pride,-1,94,1
+95,Wear This Ring (With Love),Detroit Emeralds,98,95,2
+96,California On My Mind,Morning Mist,97,96,3
+97,Good Enough To Be Your Wife,Jeannie C. Riley,99,97,4
+98,Roll On,The New Colony Six,-1,98,1
+99,Trapped By A Thing Called Love,Denise LaSalle,-1,99,1
+100,Lucky Me,The Moments,-1,100,1

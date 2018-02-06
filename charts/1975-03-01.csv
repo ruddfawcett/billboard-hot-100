@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Best Of My Love,Eagles,2,1,14
+2,Have You Never Been Mellow,Olivia Newton-John,5,2,6
+3,Black Water,The Doobie Brothers,4,3,11
+4,My Eyes Adored You,Frankie Valli,7,4,15
+5,Some Kind Of Wonderful,Grand Funk,3,3,12
+6,Lonely People,America,6,6,10
+7,Pick Up The Pieces,AWB,1,1,13
+8,Lady Marmalade,Labelle,17,8,9
+9,Nightingale,Carole King,10,9,9
+10,Lady,Styx,14,10,12
+11,Can't Get It Out Of My Head,Electric Light Orchestra,15,11,11
+12,I'm A Woman,Maria Muldaur,16,12,10
+13,#9 Dream,John Lennon,9,9,11
+14,Roll On Down The Highway,Bachman-Turner Overdrive,18,14,7
+15,"Don't Call Us, We'll Call You",Sugarloaf/Jerry Corbetta,19,15,13
+16,Express,B.T. Express,20,16,6
+17,Poetry Man,Phoebe Snow,23,17,9
+18,You're No Good,Linda Ronstadt,8,1,13
+19,Movin' On,Bad Company ,25,19,7
+20,Up In A Puff Of Smoke,Polly Brown,24,20,9
+21,To The Door Of The Sun (Alle Porte Del Sole),Al Martino,26,21,11
+22,Lovin' You,Minnie Riperton,30,22,7
+23,My Boy,Elvis Presley,27,23,6
+24,You Are So Beautiful/It's A Sin When You Love Somebody,Joe Cocker,28,24,8
+25,Sad Sweet Dreamer,Sweet Sensation,31,25,8
+26,I Am Love (Parts I & II),Jackson 5,34,26,7
+27,"Shame, Shame, Shame",Shirley And Company,35,27,8
+28,Fire,Ohio Players,12,1,12
+29,Sweet Surrender,John Denver,13,13,10
+30,Never Let Her Go,David Gates,32,30,7
+31,No No Song/snookeroo,Ringo Starr,40,31,4
+32,Look In My Eyes Pretty Woman,Tony Orlando & Dawn,11,11,11
+33,Doctor's Orders,Carol Douglas,21,11,14
+34,I've Been This Way Before,Neil Diamond,42,34,5
+35,Boogie On Reggae Woman,Stevie Wonder,22,3,16
+36,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,B.J. Thomas ,44,36,5
+37,I Get Lifted,George McCrae,45,37,6
+38,Chevy Van,Sammy Johns,46,38,5
+39,Emotion,Helen Reddy,49,39,4
+40,Part Of The Plan,Dan Fogelberg,48,40,5
+41,Harry Truman,Chicago,55,41,2
+42,If Loving You Is Wrong I Don't Want To Be Right,Millie Jackson,43,42,6
+43,Don't Take Your Love,The Manhattans,37,37,9
+44,Please Mr. Postman,Carpenters,38,1,15
+45,Once You Get Started,Rufus Featuring Chaka Khan,68,45,3
+46,Supernatural Thing - Part I,Ben E. King,57,46,4
+47,Emma,Hot Chocolate,64,47,4
+48,Before The Next Teardrop Falls,Freddy Fender,61,48,5
+49,Wolf Creek Pass,C.W. McCall,58,49,5
+50,"Good Times, Rock & Roll",Flash Cadillac And The Continental Kids,56,50,5
+51,My Elusive Dreams,Charlie Rich,51,51,5
+52,Butter Boy,Fanny,62,52,5
+53,The South's Gonna Do It,The Charlie Daniels Band,65,53,4
+54,I Fought The Law,Sam Neely,54,54,5
+55,It's All Right,Jim Capaldi,59,55,7
+56,Walking In Rhythm,The Blackbyrds,66,56,4
+57,Get Dancin',Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III,29,10,15
+58,Satin Soul,Love Unlimited Orchestra,69,58,4
+59,Devil In The Bottle,T.G. Sheppard,63,59,6
+60,I Belong To You,Love Unlimited,53,27,14
+61,Laughter In The Rain,Neil Sedaka,33,1,20
+62,Dance The Kung Fu,Carl Douglas,74,62,3
+63,Shining Star,"Earth, Wind & Fire",75,63,3
+64,Junior's Farm/Sally G,Paul McCartney And Wings,39,3,17
+65,The Bertha Butt Boogie-Part 1,The Jimmy Castor Bunch,92,65,2
+66,Mandy,Barry Manilow,36,1,16
+67,Jackie Blue,Ozark Mountain Daredevils,77,67,4
+68,Star On A TV Show,The Stylistics,47,47,7
+69,L-O-V-E (Love),Al Green,-1,69,1
+70,Long Tall Glasses (I Can Dance),Leo Sayer,82,70,2
+71,Lucy In The Sky With Diamonds,Elton John,52,1,14
+72,Big Yellow Taxi,Joni Mitchell,41,24,16
+73,Hush/I'm Alive,Blue Swede,83,73,2
+74,Love Corporation,The Hues Corporation,84,74,2
+75,I Have A Dream, Donny Osmond,79,75,3
+76,Shoeshine Boy,Eddie Kendricks,86,76,3
+77,I Wanna Learn A Love Song,Harry Chapin,80,77,3
+78,Love Finds It's Own Way,Gladys Knight And The Pips,88,78,2
+79,Killer Queen,Queen,89,79,4
+80,Future Shock,Hello People,78,71,7
+81,Morning Side Of The Mountain,Donny & Marie Osmond,67,8,16
+82,It's A Miracle,Barry Manilow,-1,82,1
+83,Linda On My Mind,Conway Twitty,96,83,2
+84,Like A Sunday Morning,Lana Cantrell,95,84,2
+85,Reality,James Brown,90,85,2
+86,Leona,Wet Willie,-1,86,1
+87,I'll Be Holding On,Al Downing,97,87,2
+88,Bump Me Baby Part 1,Dooley Silverspoon,98,88,3
+89,We're Almost There,Michael Jackson,-1,89,1
+90,Don't Let Go,Commander Cody,100,90,2
+91,Smokin' Room,Carl Carlton,93,91,3
+92,Angel (What In The World's Come Over Us),Atlanta Rhythm Section,99,92,2
+93,Hijack,Herbie Mann,94,93,4
+94,Showdown,Odia Coates,-1,94,1
+95,The Pill,Loretta Lynn,-1,95,1
+96,Amie,Pure Prairie League,-1,96,1
+97,Isn't It Lonely Together,Stark & McBrien,85,85,6
+98,Toby/that's How Long,The Chi-lites,-1,98,1
+99,Turn To Stone,Joe Walsh,-1,99,1
+100,Only One Woman,Nigel Olsson,-1,100,1

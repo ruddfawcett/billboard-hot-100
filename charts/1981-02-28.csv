@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Love A Rainy Night,Eddie Rabbitt,2,1,17
+2,9 To 5,Dolly Parton,1,1,14
+3,Woman,John Lennon,4,3,7
+4,Celebration,Kool & The Gang,3,1,19
+5,Keep On Loving You,REO Speedwagon,6,5,14
+6,The Best Of Times,Styx,7,6,6
+7,The Tide Is High,Blondie,5,1,16
+8,Giving It Up For Your Love,Delbert McClinton,8,8,13
+9,Same Old Lang Syne,Dan Fogelberg,9,9,12
+10,The Winner Takes It All,ABBA,12,10,15
+11,Crying,Don McLean,15,11,6
+12,I Ain't Gonna Stand For It,Stevie Wonder,14,12,12
+13,Passion,Rod Stewart,11,5,15
+14,Hello Again,Neil Diamond,17,14,5
+15,Rapture,Blondie,19,15,5
+16,(Just Like) Starting Over,John Lennon,13,1,18
+17,Hey Nineteen,Steely Dan,10,10,14
+18,Together,Tierra,18,18,17
+19,A Little In Love,Cliff Richard,21,19,12
+20,What Kind Of Fool,Barbra Streisand & Barry Gibb,26,20,5
+21,Treat Me Right,Pat Benatar,23,21,7
+22,Games People Play,The Alan Parsons Project,24,22,13
+23,Hearts On Fire,Randy Meisner,27,23,6
+24,Smoky Mountain Rain,Ronnie Milsap,25,24,14
+25,Kiss On My List,Daryl Hall John Oates,28,25,6
+26,Living In A Fantasy,Leo Sayer,30,26,6
+27,Fade Away,Bruce Springsteen,33,27,4
+28,Every Woman In The World,Air Supply,16,5,19
+29,Ah! Leah!,Donnie Iris,31,29,12
+30,While You See A Chance,Steve Winwood,48,30,4
+31,Don't Stand So Close To Me,The Police,39,31,4
+32,(Ghost) Riders In The Sky,Outlaws,36,32,10
+33,Precious To Me,Phil Seymour,38,33,6
+34,Morning Train (Nine To Five),Sheena Easton,53,34,3
+35,Heartbreak Hotel,The Jacksons,22,22,13
+36,Guitar Man,Elvis Presley,43,36,12
+37,Back In Black,AC/DC,37,37,11
+38,Somebody's Knockin',Terri Gibbs,45,38,7
+39,Staying With It,Firefall,44,39,6
+40,Too Tight,ConFunkShun,41,40,6
+41,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",65,41,3
+42,Miss Sun,Boz Scaggs,20,14,14
+43,Guilty,Barbra Streisand & Barry Gibb,35,3,18
+44,It's My Turn,Diana Ross,29,9,19
+45,Seven Bridges Road,Eagles ,32,21,11
+46,Love On The Rocks,Neil Diamond,34,2,18
+47,Killin' Time,Fred Knoblock & Susan Anton,40,28,15
+48,Ain't Even Done With The Night,John Cougar,54,48,5
+49,Just Between You And Me,April Wine,58,49,4
+50,Don't Stop The Music,Yarbrough & Peoples,63,50,4
+51,Lipstick,Suzi Quatro,52,51,6
+52,Turn Me Loose,Loverboy,57,52,5
+53,Flash's Theme Aka Flash,Queen,42,42,7
+54,Angel Of The Morning,Juice Newton,70,54,2
+55,Fantastic Voyage,Lakeside,56,55,5
+56,"De Do Do Do, De Da Da Da",The Police,47,10,19
+57,Hit Me With Your Best Shot,Pat Benatar,51,9,22
+58,I Made It Through The Rain,Barry Manilow,49,10,15
+59,And Love Goes On,"Earth, Wind & Fire",67,59,4
+60,Fireflies,Fleetwood Mac,61,60,4
+61,Hungry Heart,Bruce Springsteen,50,5,17
+62,Lady,Kenny Rogers,59,1,22
+63,I Can't Stand It,Eric Clapton And His Band,-1,63,1
+64,Keep This Train A-Rollin',The Doobie Brothers,72,64,3
+65,How 'bout Us,Champaign,74,65,3
+66,Yesterday Once More/Nothing Remains The Same,The Spinners,75,66,3
+67,It's A Love Thing,The Whispers,76,67,3
+68,Being With You,Smokey Robinson,78,68,3
+69,Don't You Know What Love Is,Touch,71,69,5
+70,Proud,The Joe Chemay Band,79,70,3
+71,I Love You,Climax Blues Band ,80,71,2
+72,Wasn't That A Party,The Rovers,81,72,2
+73,The Party's Over (Hopelessly In Love),Journey,-1,73,1
+74,Who Do You Think You're Foolin',Donna Summer,84,74,2
+75,Time Is Time,Andy Gibb,46,15,15
+76,Ch Ch Cherie,The Johnny Average Band Featuring Nikki Wills,86,76,2
+77,It's My Job,Jimmy Buffett,87,77,2
+78,Tell It Like It Is,Heart,55,8,15
+79,Games,Phoebe Snow,89,79,2
+80,Bon Bon Vie (Gimme The Good Life),T.S. Monk,90,80,2
+81,Full Of Fire,Shalamar,60,55,11
+82,Theme From Raging Bull (Cavalleria Rusticana),Joel Diamond,83,82,2
+83,Mister Sandman,Emmylou Harris,-1,83,1
+84,Cafe Amore,Spyro Gyra,77,77,4
+85,Hold On Loosely,38 Special,-1,85,1
+86,Hold On,Badfinger,-1,86,1
+87,Love On The Airwaves,Night,88,87,2
+88,Lovers After All,Melissa Manchester & Peabo Bryson,-1,88,1
+89,Fly Away,Peter Allen,69,55,8
+90,8th Wonder,Sugarhill Gang,93,90,4
+91,More Than I Can Say,Leo Sayer ,91,2,23
+92,He Can't Love You,Michael Stanley Band,62,33,15
+93,Shine On,L.T.D.,64,40,16
+94,Dreamer,The Association,66,66,5
+95,Burn Rubber (Why You Wanna Hurt Me),The Gap Band,-1,95,1
+96,Another One Bites The Dust,Queen,96,1,29
+97,Who's Making Love,Blues Brothers,68,39,11
+98,Suddenly,Olivia Newton-John & Cliff Richard,73,20,19
+99,Fool That I Am,Rita Coolidge,82,46,12
+100,Long Time Lovin' You,McGuffey Lane,85,85,7

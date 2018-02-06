@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,9 To 5,Dolly Parton,2,1,13
+2,I Love A Rainy Night,Eddie Rabbitt,3,2,16
+3,Celebration,Kool & The Gang,1,1,18
+4,Woman,John Lennon,6,4,6
+5,The Tide Is High,Blondie,4,1,15
+6,Keep On Loving You,REO Speedwagon,8,6,13
+7,The Best Of Times,Styx,12,7,5
+8,Giving It Up For Your Love,Delbert McClinton,9,8,12
+9,Same Old Lang Syne,Dan Fogelberg,11,9,11
+10,Hey Nineteen,Steely Dan,10,10,13
+11,Passion,Rod Stewart,5,5,14
+12,The Winner Takes It All,ABBA,15,12,14
+13,(Just Like) Starting Over,John Lennon,7,1,17
+14,I Ain't Gonna Stand For It,Stevie Wonder,16,14,11
+15,Crying,Don McLean,17,15,5
+16,Every Woman In The World,Air Supply,13,5,18
+17,Hello Again,Neil Diamond,20,17,4
+18,Together,Tierra,19,18,16
+19,Rapture,Blondie,32,19,4
+20,Miss Sun,Boz Scaggs,14,14,13
+21,A Little In Love,Cliff Richard,23,21,11
+22,Heartbreak Hotel,The Jacksons,22,22,12
+23,Treat Me Right,Pat Benatar,24,23,6
+24,Games People Play,The Alan Parsons Project,26,24,12
+25,Smoky Mountain Rain,Ronnie Milsap,25,25,13
+26,What Kind Of Fool,Barbra Streisand & Barry Gibb,36,26,4
+27,Hearts On Fire,Randy Meisner,30,27,5
+28,Kiss On My List,Daryl Hall John Oates,33,28,5
+29,It's My Turn,Diana Ross,18,9,18
+30,Living In A Fantasy,Leo Sayer,38,30,5
+31,Ah! Leah!,Donnie Iris,35,31,11
+32,Seven Bridges Road,Eagles,21,21,10
+33,Fade Away,Bruce Springsteen,49,33,3
+34,Love On The Rocks,Neil Diamond,27,2,17
+35,Guilty,Barbra Streisand & Barry Gibb,28,3,17
+36,(Ghost) Riders In The Sky,Outlaws,40,36,9
+37,Back In Black,AC/DC,39,37,10
+38,Precious To Me,Phil Seymour,46,38,5
+39,Don't Stand So Close To Me,The Police,57,39,3
+40,Killin' Time,Fred Knoblock & Susan Anton,34,28,14
+41,Too Tight,ConFunkShun,45,41,5
+42,Flash's Theme Aka Flash,Queen,42,42,6
+43,Guitar Man,Elvis Presley,48,43,11
+44,Staying With It,Firefall,50,44,5
+45,Somebody's Knockin',Terri Gibbs,53,45,6
+46,Time Is Time,Andy Gibb,31,15,14
+47,"De Do Do Do, De Da Da Da",The Police,37,10,18
+48,While You See A Chance,Steve Winwood,63,48,3
+49,I Made It Through The Rain,Barry Manilow,29,10,14
+50,Hungry Heart,Bruce Springsteen,41,5,16
+51,Hit Me With Your Best Shot,Pat Benatar,43,9,21
+52,Lipstick,Suzi Quatro,59,52,5
+53,Morning Train (Nine To Five),Sheena Easton,74,53,2
+54,Ain't Even Done With The Night,John Cougar,61,54,4
+55,Tell It Like It Is,Heart,44,8,14
+56,Fantastic Voyage,Lakeside,67,56,4
+57,Turn Me Loose,Loverboy,68,57,4
+58,Just Between You And Me,April Wine,73,58,3
+59,Lady,Kenny Rogers,47,1,21
+60,Full Of Fire,Shalamar,60,55,10
+61,Fireflies,Fleetwood Mac,72,61,3
+62,He Can't Love You,Michael Stanley Band,51,33,14
+63,Don't Stop The Music,Yarbrough & Peoples,75,63,3
+64,Shine On,L.T.D.,54,40,15
+65,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",83,65,2
+66,Dreamer,The Association,66,66,4
+67,And Love Goes On,"Earth, Wind & Fire",77,67,3
+68,Who's Making Love,Blues Brothers,52,39,10
+69,Fly Away,Peter Allen,55,55,7
+70,Angel Of The Morning,Juice Newton,-1,70,1
+71,Don't You Know What Love Is,Touch,81,71,4
+72,Keep This Train A-Rollin',The Doobie Brothers,82,72,2
+73,Suddenly,Olivia Newton-John & Cliff Richard,56,20,18
+74,How 'bout Us,Champaign,84,74,2
+75,Yesterday Once More/Nothing Remains The Same,The Spinners,85,75,2
+76,It's A Love Thing,The Whispers,87,76,2
+77,Cafe Amore,Spyro Gyra,79,77,3
+78,Being With You,Smokey Robinson,89,78,2
+79,Proud,The Joe Chemay Band,90,79,2
+80,I Love You,Climax Blues Band,-1,80,1
+81,Wasn't That A Party,The Rovers,-1,81,1
+82,Fool That I Am,Rita Coolidge,58,46,11
+83,Theme From Raging Bull (Cavalleria Rusticana),Joel Diamond,-1,83,1
+84,Who Do You Think You're Foolin',Donna Summer,-1,84,1
+85,Long Time Lovin' You,McGuffey Lane,88,85,6
+86,Ch Ch Cherie,The Johnny Average Band Featuring Nikki Wills,-1,86,1
+87,It's My Job,Jimmy Buffett,-1,87,1
+88,Love On The Airwaves,Night,-1,88,1
+89,Games,Phoebe Snow,-1,89,1
+90,Bon Bon Vie (Gimme The Good Life), T.S. Monk,-1,90,1
+91,More Than I Can Say,Leo Sayer,62,2,22
+92,Love T.K.O.,Teddy Pendergrass,64,44,13
+93,8th Wonder,Sugarhill Gang,96,93,3
+94,I Don't Want To Know Your Name,Glen Campbell,65,65,5
+95,I Need Your Lovin',Teena Marie,69,37,14
+96,Another One Bites The Dust,Queen,70,1,28
+97,Master Blaster (Jammin'),Stevie Wonder,71,5,23
+98,Watching You,Slave,78,78,6
+99,One Step Closer,The Doobie Brothers,80,24,14
+100,Skateaway,Dire Straits,86,58,10

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Knock Three Times,Dawn,2,1,10
+2,My Sweet Lord/Isn't It A Pity,George Harrison,1,1,9
+3,One Less Bell To Answer,The 5th Dimension,3,2,14
+4,Lonely Days,Bee Gees,6,4,8
+5,Black Magic Woman,Santana,4,4,11
+6,Stoney End,Barbra Streisand,9,6,13
+7,Groove Me,King Floyd,7,7,14
+8,Your Song,Elton John,11,8,9
+9,Rose Garden,Lynn Anderson,15,9,9
+10,It's Impossible,Perry Como,12,10,11
+11,I Think I Love You,The Partridge Family Starring Shirley Jones Featuring David Cassidy,5,1,16
+12,Stoned Love,The Supremes,8,7,12
+13,If I Were Your Woman,Gladys Knight And The Pips,19,13,9
+14,River Deep - Mountain High,The Supremes & Four Tops,14,14,9
+15,Love The One You're With,Stephen Stills,18,15,7
+16,I Hear You Knocking,Dave Edmunds,31,16,5
+17,The Tears Of A Clown,Smokey Robinson & The Miracles,10,1,15
+18,Immigrant Song,Led Zeppelin,20,18,10
+19,Does Anybody Really Know What Time It Is?,Chicago,17,7,12
+20,For The Good Times,Ray Price,16,11,22
+21,Remember Me,Diana Ross,26,21,5
+22,We Gotta Get You A Woman,Runt,22,22,11
+23,Born To Wander,Rare Earth,24,23,7
+24,I Really Don't Want To Know/There Goes My Everything,Elvis Presley,25,24,5
+25,Pay To The Piper,Chairman Of The Board,13,13,11
+26,Stop The War Now,Edwin Starr,27,26,6
+27,Games,Redeye,28,27,12
+28,One Man Band,Three Dog Night,23,19,10
+29,Domino,Van Morrison,21,9,11
+30,Amazing Grace,Judy Collins,34,30,7
+31,Mr. Bojangles,Nitty Gritty Dirt Band,33,31,10
+32,Watching Scotty Grow,Bobby Goldsboro,36,32,5
+33,Amos Moses,Jerry Reed,35,33,13
+34,One Bad Apple,The Osmonds,44,34,4
+35,"Get Up, Get Into It, Get Involved (Pt. 1)",James Brown,38,35,4
+36,If You Could Read My Mind,Gordon Lightfoot,42,36,5
+37,(Don't Worry) If There's A Hell Below We're All Going To Go,Curtis Mayfield,29,29,10
+38,Most Of All,B.J. Thomas,40,38,9
+39,"Precious, Precious",Jackie Moore,46,39,8
+40,(Do The) Push And Pull Part I,Rufus Thomas,41,40,6
+41,Somebody's Watching You,Little Sister,45,41,7
+42,Your Time To Cry,Joe Simon,48,42,6
+43,The Green Grass Starts To Grow,Dionne Warwick,43,43,8
+44,Let Your Love Go,Bread,49,44,4
+45,1900 Yesterday,Liz Damon's Orient Express,52,45,5
+46,Mother,John Lennon/Plastic Ono Band Yoko Ono/Plastic Ono Band,60,46,3
+47,Mean Mistreater,Grand Funk Railroad,47,47,7
+48,Temptation Eyes,The Grass Roots,56,48,5
+49,Burning Bridges,The Mike Curb Congregation,67,49,8
+50,They Can't Take Away Our Music,Eric Burdon And War,50,50,6
+51,Bridget The Midget (The Queen Of The Blues),Ray Stevens,54,51,6
+52,When I'm Dead And Gone,McGuinness Flint,77,52,3
+53,(Theme From) Love Story,Henry Mancini And His Orchestra,81,53,2
+54,If You Were Mine,Ray Charles,57,41,17
+55,Sweet Mary,Wadsworth Mansion,70,55,5
+56,D.O.A.,Bloodrock,66,56,4
+57,He Called Me Baby,Candi Staton,59,57,4
+58,Apeman,The Kinks,61,58,4
+59,Jody's Got Your Girl And Gone,Johnnie Taylor,83,59,2
+60,I'm So Proud,The Main Ingredient,65,60,7
+61,Fresh As A Daisy,Emitt Rhodes,69,61,3
+62,Church Street Soul Revival,Tommy James,63,62,6
+63,(I Can Feel Those Vibrations) This Love Is Real,Jackie Wilson,74,63,6
+64,Don't Let The Green Grass Fool You,Wilson Pickett,84,64,2
+65,Silver Moon,Michael Nesmith & The First National Band,51,42,9
+66,Morning,Jim Ed Brown,53,47,11
+67,Shoes,Brook Benton With The Dixie Flyers,68,67,5
+68,God Bless Whoever Sent You,The Originals,72,68,6
+69,Flesh And Blood,Johnny Cash,55,54,7
+70,Gypsy Queen - Part 1,Gypsy,62,62,8
+71,I Can't Get Next To You,Al Green,71,60,10
+72,Are You My Woman? (Tell Me So),The Chi-lites,73,72,6
+73,Help Me Make It Through The Night,Sammi Smith,98,73,2
+74,Beautiful People,The New Seekers featuring Eve Graham,82,74,3
+75,Holly Holy,Jr. Walker & The All Stars,75,75,5
+76,Cheryl Moana Marie,John Rowles,80,76,4
+77,Mixed Up Guy,Joey Scarbury,87,77,2
+78,Superstar,Murray Head With The Trinidad Singers,76,74,11
+79,Just Seven Numbers (Can Straighten Out My Life),Four Tops,-1,79,1
+80,Bed Of Rose's,The Statler Brothers,89,80,2
+81,One Night Stand,The Magic Lanterns,88,81,3
+82,Problem Child,Mark Lindsay,85,82,3
+83,I Dig Everything About You,The Mob,-1,83,1
+84,It's Up To You Petula,Edison Lighthouse,93,84,3
+85,Where Are We Going,Bobby Bloom,90,85,3
+86,You're A Big Girl Now,The Stylistics,95,86,3
+87,Whole Lotta Love,King Curtis & The Kingpins,-1,87,1
+88,I Love You For All Seasons,The Fuzz,-1,88,1
+89,Ride A White Swan,Tyrannosaurus Rex,-1,89,1
+90,(She's A) Very Lovely Woman/The Long Way Around,Linda Ronstadt,-1,90,1
+91,Make Me Happy,Bobby Bloom,100,91,2
+92,Way Back Home,The Jazz Crusaders,-1,90,3
+93,You're The One,The Three Degrees,-1,93,1
+94,Freedom,The Isley Brothers,-1,94,1
+95,Fly Little White Dove Fly,The Bells,99,95,3
+96,Solution For Pollution,Charles Wright And The Watts 103rd Street Rhythm Band,-1,96,1
+97,I Need You,The Friends Of Distinction,-1,97,1
+98,We'll Have It Made,The Spinners,-1,98,1
+99,I'll Be Home,Vikki Carr,-1,99,1
+100,Revival (Love Is Everywhere),The Allman Brothers Band,92,92,3

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The First Time Ever I Saw Your Face,Roberta Flack,1,1,8
+2,Rockin' Robin,Michael Jackson,4,2,7
+3,I Gotcha,Joe Tex,3,3,14
+4,A Horse With No Name,America,2,1,10
+5,In The Rain,The Dramatics,6,5,9
+6,"Betcha By Golly, Wow","The Stylistics Featuring Russell Thompkins,Jr.",8,6,9
+7,Day Dreaming,Aretha Franklin,9,7,6
+8,Heart Of Gold,Neil Young,5,1,12
+9,A Cowboys Work Is Never Done,Sonny & Cher,10,9,9
+10,Doctor My Eyes,Jackson Browne,16,10,6
+11,Puppy Love,Donny Osmond,7,3,9
+12,Look What You Done For Me,Al Green,17,12,4
+13,Roundabout,Yes,13,13,11
+14,The Family Of Man,Three Dog Night,15,14,5
+15,Baby Blue,Badfinger,19,15,5
+16,"Vincent (Starry, Starry Night)/Castles In The Air",Don McLean,20,16,6
+17,Mother And Child Reunion,Paul Simon,11,4,12
+18,Taurus,Dennis Coffey & The Detroit Guitar Band,18,18,10
+19,Back Off Boogaloo,Ringo Starr,31,19,4
+20,Oh Girl,The Chi-lites,35,20,3
+21,Suavecito,Malo,26,21,8
+22,Jungle Fever,The Chakachas,14,8,15
+23,I'll Take You There,The Staple Singers,37,23,3
+24,The Lion Sleeps Tonight,Robert John,12,3,17
+25,Every Day Of My Life,Bobby Vinton,25,25,13
+26,Slippin' Into Darkness,War,33,26,14
+27,Morning Has Broken,Cat Stevens,43,27,4
+28,Jump Into The Fire,Nilsson,30,28,6
+29,Crazy Mama,J.J. Cale,22,22,13
+30,Give Ireland Back To The Irish,Wings,21,21,7
+31,Hot Rod Lincoln,Commander Cody & His Lost Planet Airmen,39,31,5
+32,Rock And Roll Lullaby,B.J. Thomas,28,15,11
+33,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",38,33,7
+34,Help Me Make It Through The Night,Gladys Knight And The Pips,36,34,5
+35,The Day I Found Myself,The Honey Cone,23,23,10
+36,Me And Julio Down By The Schoolyard,Paul Simon,49,36,3
+37,Run Run Run,Jo Jo Gunne,40,37,6
+38,Taxi,Harry Chapin,50,38,7
+39,Do Your Thing,Isaac Hayes,34,30,9
+40,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,53,40,4
+41,Mister Can't You See,Buffy Sainte-Marie,64,41,4
+42,Nice To Be With You,Gallery,61,42,9
+43,Pool Of Bad Luck,Joe Simon,51,43,5
+44,Chantilly Lace,Jerry Lee Lewis,44,44,8
+45,You Could Have Been A Lady,April Wine,56,45,5
+46,The Way Of Love,Cher,24,7,13
+47,Rock And Roll,Led Zeppelin,47,47,6
+48,Take A Look Around,The Temptations,41,30,8
+49,Be My Lover,Alice Cooper,55,49,7
+50,Let's Stay Together,Isaac Hayes,57,50,4
+51,Without You,Nilsson,27,1,19
+52,Walkin' In The Rain With The One I Love,Love Unlimited,72,52,4
+53,Sylvia's Mother,Dr. Hook And The Medicine Show,78,53,4
+54,Everything I Own,Bread,29,5,13
+55,I Saw The Light,Todd Rundgren,80,55,3
+56,Ask Me What You Want,Millie Jackson,71,56,5
+57,Legend In Your Own Time,Carly Simon,60,57,5
+58,Down By The Lazy River,The Osmonds,32,4,14
+59,Lay-Away,The Isley Brothers,62,59,4
+60,Hearsay,The Soul Children,63,60,6
+61,Am I Losing You,The Partridge Family Starring Shirley Jones Featuring David Cassidy,65,61,4
+62,Little Bitty Pretty One,Jackson 5,-1,62,1
+63,Josie,Kris Kristofferson,66,63,7
+64,"Love Theme From ""The Godfather"" (Speak Softly Love)",Andy Williams,74,64,3
+65,I Had It All The Time,Tyrone Davis,73,65,5
+66,What'd I Say,Rare Earth,81,66,3
+67,You Are The One,Sugar Bears,75,67,7
+68,Son Of My Father,Giorgio,48,46,8
+69,Money Runner,Quincy Jones,69,57,7
+70,Walk In The Night,Jr. Walker & The All Stars,79,70,4
+71,Cotton Jenny,Anne Murray,77,71,4
+72,To Get To You,Jerry Wallace,83,72,6
+73,Everything Good Is Bad,100 Proof Aged in Soul,82,73,4
+74,Jubilation,Paul Anka,85,74,5
+75,Iko Iko,Dr. John,86,75,2
+76,Your Precious Love,Linda Jones,76,74,9
+77,Changes,David Bowie,96,77,2
+78,Telegram Sam,T. Rex,-1,78,1
+79,Smilin',Sly & The Family Stone,-1,79,1
+80,Nutrocker,"Emerson, Lake & Palmer",70,70,6
+81,Diary,Bread,-1,81,1
+82,I've Been Lonely For So Long,Frederick Knight,-1,82,1
+83,Lean On Me,Bill Withers,-1,83,1
+84,Simple Song Of Freedom,Buckwheat,91,84,4
+85,I'm Movin' On,John Kay,-1,85,1
+86,Taos New Mexico,R. Dean Taylor,89,86,2
+87,Vahevala,Kenny Loggins With Jim Messina,90,87,2
+88,"Beg, Steal Or Borrow",The New Seekers,-1,88,1
+89,Isn't Life Strange,The Moody Blues,-1,89,1
+90,Outa-Space,Billy Preston,-1,90,1
+91,School Teacher,Kenny Rogers & The First Edition,94,91,4
+92,Eve,Jim Capaldi,92,92,3
+93,You Were Made For Me,Luther Ingram,93,93,3
+94,Sugaree,Jerry Garcia,95,94,2
+95,"Love Theme From ""The Godfather""",Carlo Savina,-1,95,1
+96,Love's Street And Fool's Road,Solomon Burke,98,96,2
+97,Mendelssohn's 4th (Second Movement),Apollo 100,99,97,2
+98,Long Haired Lover From Liverpool,Little Jimmy Osmond with The Mike Curb Congregation,-1,98,1
+99,Questions,Bang,-1,99,1
+100,Daddy Don't You Walk So Fast,Wayne Newton,-1,100,1

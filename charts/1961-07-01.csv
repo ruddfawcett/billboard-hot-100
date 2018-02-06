@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Quarter To Three,U.S. Bonds,1,1,7
+2,Tossin' And Turnin',Bobby Lewis,4,2,11
+3,The Boll Weevil Song,Brook Benton,7,3,8
+4,Raindrops,Dee Clark,2,2,10
+5,The Writing On The Wall,Adam Wade,6,5,8
+6,Moody River,Pat Boone,3,1,10
+7,Travelin' Man,Ricky Nelson,5,1,11
+8,Every Beat Of My Heart,Pips,8,8,8
+9,Those Oldies But Goodies (Remind Me Of You),Little Caesar and The Romans,9,9,10
+10,Yellow Bird,Arthur Lyman Group,11,10,6
+11,Stand By Me,Ben E. King ,10,4,9
+12,Dance On Little Girl,Paul Anka,13,12,6
+13,Hats Off To Larry,Del Shannon,18,13,5
+14,Running Scared,Roy Orbison,14,1,13
+15,Hello Mary Lou,Ricky Nelson,16,9,10
+16,San Antonio Rose,Floyd Cramer,19,16,5
+17,You Always Hurt The One You Love,Clarence Henry,12,12,8
+18,Barbara-Ann,The Regents,17,13,8
+19,Tell Me Why,The Belmonts,20,19,7
+20,Dum Dum,Brenda Lee,31,20,3
+21,Please Stay,The Drifters,38,21,5
+22,Heart And Soul,The Cleftones,22,18,7
+23,I'm Comin' On On Back To You,Jackie Wilson,32,23,4
+24,It Keeps Rainin',Fats Domino,28,24,8
+25,"I Like It Like That, Part 1",Chris Kenner,41,25,6
+26,Ole Buttermilk Sky,Bill Black's Combo,34,26,5
+27,Hello Walls,Faron Young,21,12,13
+28,Tonight (Could Be The Night),The Velvets featuring Virgil Johnson,30,28,6
+29,You Can't Sit Down Part 2,Philip Upchurch Combo,39,29,3
+30,Rama Lama Ding Dong,The Edsels ,25,21,10
+31,Peanut Butter,The Marathons,23,20,11
+32,My Kind Of Girl,Matt Monro,33,32,6
+33,Together,Connie Francis,48,33,2
+34,Cupid,Sam Cooke,36,34,5
+35,I Feel So Bad,Elvis Presley,15,5,8
+36,Never On Sunday,The Chordettes,68,36,3
+37,Jura (I Swear I Love You),Les Paul And Mary Ford,43,37,9
+38,Sacred,The Castells,50,38,6
+39,Let's Twist Again,Chubby Checker,62,39,3
+40,Little Egypt (Ying-Yang),The Coasters,29,23,11
+41,Three Hearts In A Tangle,Roy Drusky,35,35,13
+42,I'm A Fool To Care,Joe Barry,24,24,11
+43,The Graduation Song... Pomp And Circumstance,Adrian Kimberly,63,43,2
+44,Temptation,The Everly Brothers,27,27,6
+45,Never On Sunday,Don Costa And His Orchestra And Chorus,59,19,24
+46,Better Tell Him No,The Starlets,44,38,11
+47,Nature Boy,Bobby Darin,51,47,4
+48,Heart And Soul,Jan & Dean,87,48,2
+49,I Fall To Pieces,Patsy Cline,54,49,7
+50,Fool That I Am,Etta James,61,50,4
+51,Should I,The String-A-Longs,52,51,4
+52,The Switch-A-Roo,Hank Ballard And The Midnighters,77,52,2
+53,You'll Answer To Me,Patti Page,67,53,2
+54,Wild In The Country,Elvis Presley With The Jordanaires,26,26,5
+55,Dream,Etta James,72,55,2
+56,Watch Your Step,Bobby Parker,65,56,4
+57,I Don't Mind,James Brown And The Famous Flames,47,47,8
+58,Sea Of Heartbreak,Don Gibson,73,58,3
+59,Rainin' In My Heart,Slim Harpo,99,59,5
+60,The Fish,Bobby Rydell,-1,60,1
+61,That's What Girls Are Made For,The Spinners,82,61,2
+62,Count Every Star,Donnie and The Dreamers,40,35,10
+63,Quite A Party,The Fireballs,83,63,2
+64,Tragedy,The Fleetwoods,37,10,12
+65,The Charleston,Ernie Fields,80,65,3
+66,Bobby,Neil Scott,74,66,4
+67,The Girl's A Devil,The Dukays,71,67,8
+68,Last Night,Mar-Keys,-1,68,1
+69,Wooden Heart,Joe Dowell,98,69,2
+70,"No, No, No",The Chanters,78,70,3
+71,I've Got News For You,Ray Charles,66,66,3
+72,Eventually,Brenda Lee,-1,72,1
+73,Mom And Dad's Waltz,Patti Page,75,73,4
+74,Pretty Little Angel Eyes,Curtis Lee,-1,74,1
+75,Yellow Bird,Lawrence Welk And His Orchestra,94,72,4
+76,A Scottish Soldier (Green Hills of Tyrol),Andy Stewart,69,69,6
+77,Te-Ta-Te-Ta-Ta,Ernie K-Doe,90,77,2
+78,Hold Back The Tears,The Delacardos,81,78,5
+79,I'm Gonna Knock On Your Door,Eddie Hodges,79,79,3
+80,Daydreams,Johnny Crawford,70,70,4
+81,I'll Be There,Damita Jo,-1,81,1
+82,Joanie,Frankie Calen,86,82,4
+83,Time Was,The Flamingos,-1,83,1
+84,A Tear,Gene McDaniels,-1,84,1
+85,Don't Bet Money Honey,Linda Scott,-1,85,1
+86,I Dreamed Of A Hill-Billy Heaven,Tex Ritter,-1,86,1
+87,Blue Tomorrow,Billy Vaughn And His Orchestra,89,87,4
+88,Take A Fool's Advice,Nat King Cole,100,88,2
+89,Point Of No Return,Adam Wade,91,89,3
+90,Tender Years,George Jones,-1,90,1
+91,Granada,Frank Sinatra,-1,91,1
+92,My True Story,The Jive Five With Joe Rene And Orchestra,-1,92,1
+93,"(Theme From) ""Goodbye Again""",Ferrante & Teicher,85,85,4
+94,I'll Never Be Free,Kay Starr,96,94,3
+95,Princess,Frank Gari,-1,95,1
+96,La Dolce Vita (The Sweet Life),Ray Ellis And His Orchestra,-1,96,1
+97,Broken Hearted,The Miracles,-1,97,1
+98,One Summer Night,The Diamonds,-1,98,1
+99,Peanuts,Rick And The Keens,-1,99,1
+100,The Guns Of Navarone,Joe Reisman Orch. & Chorus,-1,100,1

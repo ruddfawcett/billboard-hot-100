@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Lucy In The Sky With Diamonds,Elton John,1,1,7
+2,"You're The First, The Last, My Everything",Barry White,2,2,11
+3,Junior's Farm/Sally G,Paul McCartney And Wings,4,3,10
+4,Laughter In The Rain,Neil Sedaka,5,4,13
+5,Mandy,Barry Manilow,10,5,9
+6,Only You,Ringo Starr,7,6,9
+7,Boogie On Reggae Woman,Stevie Wonder,8,7,9
+8,Please Mr. Postman,Carpenters,9,8,8
+9,Kung Fu Fighting,Carl Douglas,3,1,14
+10,One Man Woman/One Woman Man,Paul Anka with Odia Coates,13,10,10
+11,Morning Side Of The Mountain,Donny & Marie Osmond,15,11,9
+12,Bungle In The Jungle,Jethro Tull,14,12,11
+13,Angie Baby,Helen Reddy,6,1,13
+14,Never Can Say Goodbye,Gloria Gaynor,18,14,11
+15,Dark Horse,George Harrison,16,15,8
+16,Fire,Ohio Players,20,16,5
+17,Doctor's Orders,Carol Douglas,21,17,7
+18,Pick Up The Pieces,AWB,22,18,6
+19,Some Kind Of Wonderful,Grand Funk,23,19,5
+20,Rock N' Roll (I Gave You The Best Years Of My Life),Mac Davis,25,20,6
+21,Get Dancin',Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III,27,21,8
+22,Cat's In The Cradle,Harry Chapin,11,1,15
+23,Sha-La-La (Make Me Happy),Al Green,19,7,16
+24,Ride 'em Cowboy,Paul Davis,26,24,14
+25,You Got The Love,Rufus Featuring Chaka Khan,24,11,14
+26,Best Of My Love,Eagles,32,26,7
+27,Free Bird,Lynyrd Skynyrd,35,27,8
+28,When Will I See You Again,The Three Degrees,17,2,16
+29,You're No Good,Linda Ronstadt,37,29,6
+30,From His Woman To You,Barbara Mason,30,30,7
+31,I Belong To You,Love Unlimited,34,31,7
+32,Struttin',Billy Preston,40,32,5
+33,Look In My Eyes Pretty Woman,Tony Orlando & Dawn,41,33,4
+34,The Entertainer,Billy Joel,39,34,7
+35,#9 Dream,John Lennon,47,35,4
+36,Ready,Cat Stevens,44,36,6
+37,Sweet Surrender,John Denver,64,37,3
+38,Black Water,The Doobie Brothers,46,38,4
+39,I Feel A Song (In My Heart)/Don't Burn Down The Bridge,Gladys Knight And The Pips,29,21,14
+40,I Can Help,Billy Swan,31,1,16
+41,"Ruby, Baby","Billy ""Crash"" Craddock",33,33,8
+42,Changes,David Bowie,48,42,13
+43,Dancin' Fool,The Guess Who,28,28,8
+44,Must Of Got Lost,The J. Geils Band,12,12,10
+45,Do It ('til You're Satisfied),B.T. Express,36,2,16
+46,Your Bulldog Drinks Champagne,Jim Stafford,58,46,4
+47,Sugar Pie Guy Pt. 1,The Joneses,50,47,15
+48,My Eyes Adored You,Frankie Valli,52,48,8
+49,Promised Land,Elvis Presley,38,14,12
+50,Lonely People,America,66,50,3
+51,Lady,Styx,62,51,5
+52,Can't Get It Out Of My Head,Electric Light Orchestra,65,52,4
+53,Happy People,The Temptations,63,53,4
+54,Sunshine Part II,The O'Jays,57,54,5
+55,Nightingale,Carole King,67,55,2
+56,"Baby, Hang Up The Phone",Carl Graves,60,56,6
+57,Ain't Too Proud To Beg,The Rolling Stones,42,17,10
+58,Woman To Woman,Shirley Brown,43,22,11
+59,Wishing You Were Here,Chicago,45,11,13
+60,Funky President (People It's Bad)/Coldblooded,James Brown,49,44,10
+61,I've Got The Music In Me,The Kiki Dee Band,55,12,18
+62,My Melody Of Love,Bobby Vinton,54,3,17
+63,Big Yellow Taxi,Joni Mitchell,74,63,9
+64,Philadelphia,B.B. King,68,64,7
+65,As Long As He Takes Care Of Home,Candi Staton,75,65,3
+66,I'm A Woman,Maria Muldaur,78,66,3
+67,You Ain't Seen Nothing Yet/Free Wheelin',Bachman-Turner Overdrive,51,1,17
+68,When A Child Is Born,Michael Holm,73,68,5
+69,Day Tripper,Anne Murray,77,69,4
+70,"Don't Call Us, We'll Call You",Sugarloaf/Jerry Corbetta,80,70,6
+71,Fairytale,The Pointer Sisters,56,13,15
+72,"Hoppy, Gene And Me",Roy Rogers,76,72,4
+73,She's Gone,Tavares ,59,50,15
+74,I Am I Am,Smokey Robinson,72,72,5
+75,To The Door Of The Sun (Alle Porte Del Sole),Al Martino,84,75,4
+76,Let's Straighten It Out,Latimore,70,31,12
+77,One Tear,Eddie Kendricks,71,71,6
+78,Don't Cha Love It,The Miracles ,82,78,4
+79,Longfellow Serenade,Neil Diamond,61,5,15
+80,Midnight Sky (Part 1),The Isley Brothers,83,80,2
+81,Ding Dong; Ding Dong,George Harrison,-1,81,1
+82,Gee Baby,Peter Shelley,87,82,4
+83,Costafine Town,Splinter,85,83,5
+84,Rhyme Tyme People,Kool & The Gang,88,84,2
+85,You Are So Beautiful/It's A Sin When You Love Somebody,Joe Cocker,-1,85,1
+86,Ain't That Peculiar,Diamond Reo,-1,86,1
+87,Poetry Man,Phoebe Snow,95,87,2
+88,Don't Take Your Love,The Manhattans,90,88,2
+89,Heartbreak Road,Bill Withers,89,89,3
+90,Sad Sweet Dreamer,Sweet Sensation,-1,90,1
+91,Let Me Start Tonite,Lamont Dozier,96,91,2
+92,Love Don't You Go Through No Changes On Me,Sister Sledge,92,92,2
+93,"What A Man, My Man Is",Lynn Anderson,94,93,2
+94,Ms. Grace, The Tymes,97,91,4
+95,Words (are Impossible),Margie Joseph,91,91,4
+96,Lady Marmalade,Labelle,98,96,2
+97,Up In A Puff Of Smoke,Polly Brown,99,97,2
+98,"Shame, Shame, Shame",Shirley And Company,-1,98,1
+99,I Won't Last A Day Without You/Let Me Be The One,Al Wilson,-1,99,1
+100,Crazy Talk,Chilliwack,100,100,3

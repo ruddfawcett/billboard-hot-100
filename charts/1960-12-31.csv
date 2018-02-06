@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Are You Lonesome To-night?,Elvis Presley With The Jordanaires,1,1,8
+2,Wonderland By Night,Bert Kaempfert And His Orchestra,2,2,8
+3,Last Date,Floyd Cramer,3,2,13
+4,Exodus,Ferrante & Teicher,5,4,8
+5,A Thousand Stars,Kathy Young With The Innocents,4,3,11
+6,North To Alaska,Johnny Horton,6,4,16
+7,Many Tears Ago,Connie Francis,7,7,9
+8,You're Sixteen, Johnny Burnette,8,8,10
+9,Angel Baby,Rosie And The Originals,13,9,4
+10,"Corinna, Corinna",Ray Peterson,10,10,7
+11,Rubber Ball,Bobby Vee,16,11,6
+12,Sailor (Your Home Is The Sea),Lolita,9,5,11
+13,He Will Break Your Heart,Jerry Butler,11,7,10
+14,Will You Love Me Tomorrow,The Shirelles,20,14,7
+15,Lonely Teenager,Dion,12,12,12
+16,Wonderland By Night,Louis Prima,17,16,8
+17,Perfidia,The Ventures,15,15,10
+18,Rockin' Around The Christmas Tree,Brenda Lee,14,14,4
+19,Wonderland By Night,Anita Bryant,27,19,5
+20,Sway,Bobby Rydell,23,14,9
+21,Poetry In Motion,Johnny Tillotson,18,2,13
+22,Calcutta,Lawrence Welk And His Orchestra,42,22,4
+23,Wings Of A Dove,Ferlin Husky,35,23,6
+24,New Orleans,U.S. Bonds,19,6,12
+25,My Girl Josephine,Fats Domino,22,14,11
+26,Blue Tango,Bill Black's Combo,25,16,6
+27,Baby Oh Baby,The Shells,62,27,3
+28,Ruby, Ray Charles,32,28,7
+29,The Little Drummer Boy,The Harry Simeone Chorale,24,13,20
+30,Fools Rush In (Where Angels Fear To Tread),Brook Benton,29,24,8
+31,Alone At Last,Jackie Wilson,28,8,13
+32,Shop Around,"The Miracles (featuring Bill ""Smokey"" Robinson)",53,32,4
+33,I Gotta Know,Elvis Presley With The Jordanaires,39,20,8
+34,Doll House,Donnie Brooks,31,31,6
+35,Stay,Maurice Williams & The Zodiacs,30,1,14
+36,Sad Mood,Sam Cooke,34,29,5
+37,I Count The Tears,The Drifters,55,37,3
+38,Calendar Girl,Neil Sedaka,57,38,3
+39,Ballad Of The Alamo,Marty Robbins,38,34,12
+40,I'm Hurtin',Roy Orbison,51,40,4
+41,I'll Save The Last Dance For You,Damita Jo,37,22,11
+42,You Are The Only One,Ricky Nelson,63,42,2
+43,Gonzo,James Booker,52,43,9
+44,Gee Whiz,The Innocents,48,44,7
+45,The Hucklebuck,Chubby Checker,40,14,13
+46,Bumble Bee,LaVern Baker,59,46,8
+47,Dance By The Light Of The Moon,The Olympics,56,47,5
+48,Am I Losing You,Jim Reeves,43,31,11
+49,Twistin' Bells,Santo & Johnny,61,49,3
+50,Once In Awhile,The Chimes,49,44,10
+51,Christmas Auld Lang Syne,Bobby Darin,58,51,3
+52,"Let's Go, Let's Go, Let's Go",Hank Ballard And The Midnighters,33,6,16
+53,Like Strangers,The Everly Brothers,47,22,10
+54,A Perfect Love,Frankie Avalon,50,50,4
+55,Last Date,Lawrence Welk And His Orchestra,41,21,8
+56,The Puppet Song,Frankie Avalon,69,56,4
+57,My Last Date (With You),Skeeter Davis,68,57,4
+58,The Magnificent Seven,Al Caiola And His Orchestra,67,58,5
+59,Main Theme from Exodus (Ari's Theme),Mantovani & His Orch.,70,45,7
+60,Lovey Dovey,Buddy Knox,89,60,3
+61,There She Goes,Jerry Wallace,98,61,2
+62,The Hoochi Coochi Coo,Hank Ballard And The Midnighters,72,43,5
+63,Your Other Love,The Flamingos,66,63,3
+64,How To Handle A Woman,Johnny Mathis,75,64,2
+65,Ol' Mac Donald,Frank Sinatra,46,25,9
+66,(Let's Do) The Hully Gully Twist,Bill Doggett,80,66,2
+67,Save The Last Dance For Me,The Drifters,44,1,18
+68,You Don't Want My Love,Andy Williams,79,68,4
+69,My Last Date (With You),Joni James,83,69,3
+70,Cherry Pink And Apple Blossom White,Jerry Murad's Harmonicats,82,70,2
+71,Happy Days,Marv Johnson,86,71,4
+72,C'est Si Bon (It's So Good),Conway Twitty,-1,72,1
+73,Walk Slow,Little Willie John,81,48,6
+74,Pepe,Duane Eddy His Twangy Guitar And The Rebels,88,74,3
+75,Mister Livingston,Larry Verne,77,75,3
+76,We Have Love,Dinah Washington,96,76,2
+77,Angel On My Shoulder,Shelby Flint,94,77,2
+78,Spoonful,Etta & Harvey,100,78,2
+79,Utopia,Frank Gari,87,79,3
+80,Make Someone Happy,Perry Como,97,80,2
+81,Milk Cow Blues,Ricky Nelson,-1,81,1
+82,I Idolize You,Ike & Tina Turner,90,82,4
+83,Emotions,Brenda Lee,-1,83,1
+84,What Would I Do,Mickey & Sylvia,-1,84,1
+85,"Yes, I'm Lonesome Tonight",Thelma Carpenter,-1,85,1
+86,Spanish Harlem,Ben E. King,-1,86,1
+87,"Oh, How I Miss You Tonight",Jeanne Black,99,87,2
+88,There's A Moon Out Tonight,The Capris,-1,88,1
+89,Wabash Blues,The Viscounts,91,89,5
+90,First Taste Of Love,Ben E. King,-1,90,1
+91,If I Knew,Nat King Cole,-1,91,1
+92,All In My Mind,Maxine Brown,-1,92,1
+93,Talk To Me Baby,Annette With The Afterbeats,92,92,2
+94,"Don't Believe Him, Donna",Lenny Miles,-1,94,1
+95,Don't Read The Letter,Patti Page,-1,95,1
+96,I Don't Want Nobody (To Have My Love But You),Ella Johnson with Buddy Johnson,-1,96,1
+97,Oh Lonesome Me,Johnny Cash With The Gene Lowery Singers,-1,97,1
+98,"Yes, I'm Lonesome Tonight",Dodie Stevens,-1,98,1
+99,Sugar Bee,Cleveland Crochet and Band,-1,99,1
+100,This Is My Story,Mickey & Sylvia,-1,100,1

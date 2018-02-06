@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Mack The Knife,Bobby Darin,1,1,10
+2,Mr. Blue,The Fleetwoods,3,2,8
+3,Put Your Head On My Shoulder,Paul Anka,2,2,9
+4,Teen Beat,Sandy Nelson,4,4,8
+5,Don't You Know,Della Reese,13,5,6
+6,Lonely Street,Andy Williams,7,6,8
+7,Just Ask Your Heart,Frankie Avalon,9,7,9
+8,Primrose Lane,Jerry Wallace With The Jewels,11,8,11
+9,Poison Ivy,The Coasters,8,7,10
+10,Deck Of Cards,Wink Martindale,15,10,7
+11,('til) I Kissed You,The Everly Brothers,5,4,11
+12,Sleep Walk,Santo & Johnny,6,1,14
+13,Battle Hymn Of The Republic,The Mormon Tabernacle Choir,16,13,8
+14,Red River Rock,Johnny And The Hurricanes,14,5,13
+15,In The Mood,Ernie Fields & Orch.,28,15,6
+16,The Three Bells,The Browns,10,1,14
+17,(Seven Little Girls) Sitting In The Back Seat,Paul Evans and the Curls,23,17,7
+18,Morgen,Ivo Robic and The Song-Masters,17,13,11
+19,I'm Gonna Get Married,Lloyd Price,12,3,12
+20,Say Man,Bo Diddley,24,20,6
+21,You Were Mine,Fireflies,31,21,8
+22,A Worried Man,The Kingston Trio,20,20,7
+23,Hey Little Girl,Dee Clark,25,20,10
+24,Heartaches By The Number,Guy Mitchell,29,24,4
+25,Oh! Carol,Neil Sedaka,41,25,3
+26,Danny Boy,Conway Twitty,26,26,5
+27,The Angels Listened In,The Crests,22,22,11
+28,So Many Ways,Brook Benton,60,28,2
+29,The Battle Of Kookamonga,Homer And Jethro,18,14,8
+30,Misty,Johnny Mathis,39,30,4
+31,"I Loves You, Porgy",Nina Simone,21,18,13
+32,Broken-Hearted Melody,Sarah Vaughan,19,7,15
+33,The Enchanted Sea,The Islanders,37,33,5
+34,Unforgettable,Dinah Washington,49,34,4
+35,Woo-Hoo,Rock-A-Teens,35,35,4
+36,Mary Lou,Ronnie Hawkins and The Hawks,34,26,11
+37,Some Kind-A Earthquake,Duane Eddy His Twangy Guitar And The Rebels,46,37,4
+38,We Got Love,Bobby Rydell,48,38,3
+39,Torquay,Fireballs,42,39,5
+40,Just As Much As Ever,Bob Beckham,32,32,11
+41,Makin' Love,Floyd Robinson,30,20,15
+42,Love Potion No. 9,The Clovers,43,42,7
+43,Living Doll,Cliff Richard and The Drifters,45,43,5
+44,If I Give My Heart To You,Kitty Kallen,47,44,4
+45,Tucumcari,Jimmie Rodgers,38,32,6
+46,Dance With Me,The Drifters,77,46,3
+47,Shout - Part 1,The Isley Brothers,50,47,6
+48,Fools Hall Of Fame,Pat Boone,36,29,7
+49,Every Little Thing I Do,Dion & The Belmonts,57,48,7
+50,Sea Of Love,Phil Phillips With The Twilights,27,2,17
+51,High School U.S.A.,Tommy Facenda,97,51,2
+52,Believe Me,Royal Teens,-1,52,1
+53,You Better Know It,Jackie Wilson,44,37,8
+54,Where,The Platters,61,44,8
+55,I Ain't Never,Webb Pierce,40,24,12
+56,Joey's Song,Bill Haley And His Comets,64,56,4
+57,I Want To Walk You Home,Fats Domino,33,8,12
+58,Boo Boo Stick Beat,Chet Atkins,53,49,5
+59,You're Gonna Miss Me,Connie Francis,54,34,9
+60,Talk To Me,Frank Sinatra,66,60,2
+61,I'll Be Seeing You,Tommy Sands,51,51,5
+62,It Happened Today,The Skyliners,91,62,5
+63,Ski King,E.C. Beatty,56,50,6
+64,Six Boys And Seven Girls,Anita Bryant,62,62,6
+65,Poco-Loco,Gene & Eunice,78,65,8
+66,"First Love, First Tears",Duane Eddy His Twangy Guitar And The Rebels,59,59,5
+67,If You Don't Want My Lovin',"Carl Dobkins, Jr.",72,67,3
+68,Tennessee Waltz,Bobby Comstock,-1,68,1
+69,Plenty Good Lovin',Connie Francis,74,69,6
+70,"Darling, I Love You",Al Martino,63,63,5
+71,There Comes A Time,Jack Scott,83,71,3
+72,Pretend,Carl Mann,-1,72,1
+73,I Don't Know,Ruth Brown,76,73,3
+74,The Clouds,The Spacemen,98,74,2
+75,Caribbean,Mitchell Torok,52,27,13
+76,Running Bear,Johnny Preston,86,76,3
+77,A Lover's Prayer,Dion & The Belmonts,73,73,2
+78,Somethin Else,Eddie Cochran,82,58,9
+79,Tennessee Waltz,Jerry Fuller,87,79,2
+80,Be My Guest,Fats Domino,-1,80,1
+81,The Enchanted Sea,The Exotic Sounds of Martin Denny,-1,81,1
+82,Breaking Up Is Hard To Do,Jivin' Gene And The Jokers,-1,82,3
+83,Come On And Get Me,Fabian,55,29,8
+84,You Mean Everything To Me,The Fleetwoods,-1,84,1
+85,I'm A Hog For You,The Coasters,69,38,8
+86,Wish It Were Me,The Platters,71,61,7
+87,The Hunch,Bobby Peterson Quintet,-1,87,1
+88,Come Into My Heart,Lloyd Price and His Orchestra,-1,88,1
+89,I'll Be Seeing You,Poni-Tails,-1,89,1
+90,Goodbye Charlie,Patti Page,90,90,3
+91,First Name Initial,Annette With The Afterbeats,-1,91,1
+92,Just To Be With You,The Passions,95,92,3
+93,Living Doll,David Hill,92,92,2
+94,I've Been Around,Fats Domino,-1,94,1
+95,Igmoo (The Pride Of South Central High),Stonewall Jackson,96,95,2
+96,Midnight Stroll,The Revels,99,96,2
+97,The Hunch,Paul Gayten,-1,97,1
+98,Don't Take The Stars,The Mystics,100,98,2
+99,My Heart Became Of Age,Annette With The Afterbeats,-1,99,1
+100,There's A Girl,Jan & Dean,-1,100,1

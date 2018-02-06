@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Island Girl,Elton John,1,1,5
+2,Lyin' Eyes,Eagles,4,2,9
+3,I'm Sorry,John Denver,2,1,13
+4,Who Loves You,The 4 Seasons,6,4,12
+5,Miracles,Jefferson Starship,3,3,12
+6,Heat Wave/love Is A Rose,Linda Ronstadt,9,6,8
+7,They Just Can't Stop It the (Games People Play),The Spinners,5,5,14
+8,This Will Be,Natalie Cole,10,8,11
+9,Feelings,Morris Albert,7,6,21
+10,The Way I Want To Touch You,Captain & Tennille,14,10,7
+11,Do It Any Way You Wanna,Peoples Choice,12,11,12
+12,Low Rider,War,16,12,8
+13,Something Better To Do,Olivia Newton-John,13,13,8
+14,Lady Blue,Leon Russell,15,14,15
+15,S.O.S.,ABBA,17,15,12
+16,Bad Blood,Neil Sedaka,8,1,9
+17,Sky High,Jigsaw,19,17,11
+18,Nights On Broadway,Bee Gees,22,18,6
+19,That's The Way (I Like It),KC And The Sunshine Band,28,19,3
+20,You,George Harrison,20,20,8
+21,What A Diff'rence A Day Makes,Esther Phillips,21,21,13
+22,"Fly, Robin, Fly",Silver Convention,25,22,5
+23,Born To Run,Bruce Springsteen,23,23,8
+24,My Little Town,Simon & Garfunkel,30,24,4
+25,I Only Have Eyes For You,Art Garfunkel,26,25,12
+26,Eighteen With A Bullet,Pete Wingfield,32,26,12
+27,Blue Eyes Crying In The Rain,Willie Nelson,29,27,11
+28,Let's Do It Again,The Staple Singers,37,28,3
+29,Operator,The Manhattan Transfer,35,29,8
+30,Brazil,The Ritchie Family,11,11,15
+31,Give It What You Got/Peace Pipe,B.T. Express,38,31,14
+32,Just Too Many People,Melissa Manchester,34,32,8
+33,I Want'a Do Something Freaky To You,Leon Haywood,40,33,10
+34,Rockin' All Over The World,John Fogerty,27,27,10
+35,Secret Love,Freddy Fender,43,35,4
+36,Saturday Night,Bay City Rollers,44,36,5
+37,Our Day Will Come,Frankie Valli,51,37,4
+38,It Only Takes A Minute,Tavares,18,10,16
+39,Dance With Me,Orleans,24,6,17
+40,Diamonds And Rust,Joan Baez,42,40,8
+41,Fame,David Bowie,31,1,20
+42,The Agony And The Ecstasy,Smokey Robinson,36,36,10
+43,Ballroom Blitz,Sweet,33,5,22
+44,Ain't No Way To Treat A Lady,Helen Reddy,41,8,14
+45,Since I Met You Baby,Freddy Fender,50,45,4
+46,Every Day I Have To Cry Some,Arthur Alexander,45,45,9
+47,Sweet Sticky Thing,Ohio Players,46,33,8
+48,Change With The Times,Van Mccoy,52,48,5
+49,Mexico,James Taylor,53,49,6
+50,I'm On Fire,5000 Volts,64,50,4
+51,There Goes Another Love Song,The Outlaws,48,34,10
+52,Keep On Tryin',Poco,57,52,8
+53,Dreaming A Dream,Crown Heights Affair,49,43,13
+54,(How I Spent My Summer Vacation) Or A Day At The Beach With Pedro & Man - P,Cheech & Chong,59,54,4
+55,Hollywood Hot,The Eleventh Hour,55,55,11
+56,Manhattan Spiritual,Mike Post,56,56,7
+57,Summer Of '42,Biddu Orchestra,60,57,6
+58,Sailing,Rod Stewart,63,58,4
+59,I Love Music (Part 1),The O'Jays,70,59,2
+60,Venus And Mars Rock Show,Wings,82,60,2
+61,To Each His Own,"Faith, Hope And Charity",58,50,13
+62,Carolina In The Pines,Michael Murphey,47,21,13
+63,Are You Sure Hank Done It This Way,Waylon Jennings,61,61,8
+64,Letting Go,Wings,39,39,6
+65,Welcome To My Nightmare,Alice Cooper,80,65,3
+66,Mr. Jaws,Dickie Goodman,54,4,10
+67,So In Love,Curtis Mayfield,69,67,7
+68,Indian Love Call,Ray Stevens,73,68,5
+69,Help Me Make It (To My Rockin' Chair),B.J. Thomas,65,65,8
+70,Bringing It Back,Elvis Presley,78,70,3
+71,King Kong - Pt. I,The Jimmy Castor Bunch,71,71,4
+72,Fire On The Mountain,The Marshall Tucker Band,74,72,4
+73,Come And Get Your Love,Roger Daltrey,76,73,6
+74,Part Time Love,Gladys Knight And The Pips,-1,74,1
+75,What's Happened To Blue Eyes/You Ain't Never Been Loved (Like I'm Gonna Lov,Jessi Colter,75,57,5
+76,You Sexy Thing,Hot Chocolate,86,76,2
+77,Is It Love That We're Missin',Quincy Jones (feat. The Brothers Johnson),77,77,5
+78,Love Machine (Part 1),The Miracles,85,78,3
+79,Theme From Mahogany (Do You Know Where You're Going To),Diana Ross,89,79,2
+80,Same Thing It Took,The Impressions,91,80,2
+81,Skybird,Tony Orlando & Dawn,84,81,2
+82,Love Power,Willie Hutch,92,82,2
+83,The Music Never Stopped,The Grateful Dead,83,83,3
+84,Volare,Al Martino,94,84,2
+85,Happy,Eddie Kendricks,87,85,5
+86,Country Boy (You Got Your Feet In L.A.),Glen Campbell,-1,86,1
+87,Winners And Losers,"Hamilton, Joe Frank & Reynolds",-1,87,1
+88,Machines,John Livigni,88,88,4
+89,Full Of Fire,Al Green,-1,89,1
+90,Walk Away From Love,David Ruffin,-1,90,1
+91,Over My Head,Fleetwood Mac,-1,91,1
+92,Caribbean Festival,Kool & The Gang,-1,92,1
+93,Everything's The Same (Ain't Nothing Changed),Billy Swan,97,93,2
+94,Just A Smile,Pilot,90,90,5
+95,Rocky,Austin Roberts,66,9,17
+96,I'm On Fire,Jim Gilstrap,93,93,3
+97,I'll Go To My Grave Loving You,The Statler Brothers,99,97,2
+98,"Nice, Nice, Very Nice",Ambrosia,-1,98,1
+99,It's Time For Love,The Chi-lites,-1,99,1
+100,Better By The Pound,Funkadelic,100,100,2

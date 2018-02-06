@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Stay,Maurice Williams & The Zodiacs,6,1,8
+2,Are You Lonesome To-night?,Elvis Presley With The Jordanaires,35,2,2
+3,Poetry In Motion,Johnny Tillotson,2,2,7
+4,Last Date,Floyd Cramer,8,4,7
+5,Georgia On My Mind,Ray Charles,1,1,9
+6,"Let's Go, Let's Go, Let's Go",Hank Ballard And The Midnighters,7,6,10
+7,A Thousand Stars,Kathy Young With The Innocents,9,7,5
+8,New Orleans,U.S. Bonds,11,8,6
+9,You Talk Too Much,Joe Jones,3,3,10
+10,Save The Last Dance For Me,The Drifters,5,1,12
+11,I Want To Be Wanted,Brenda Lee,4,1,11
+12,North To Alaska,Johnny Horton,12,12,10
+13,Alone At Last,Jackie Wilson,15,13,7
+14,The Hucklebuck,Chubby Checker,18,14,7
+15,He Will Break Your Heart,Jerry Butler,23,15,4
+16,Don't Be Cruel,Bill Black's Combo,14,11,11
+17,Blue Angel,Roy Orbison,10,9,10
+18,Sleep,Little Willie John,13,13,12
+19,Many Tears Ago,Connie Francis,49,19,3
+20,Sway,Bobby Rydell,40,20,3
+21,Perfidia,The Ventures,31,21,4
+22,To Each His Own,The Platters,22,21,7
+23,Devil Or Angel, Bobby Vee,17,6,17
+24,Sailor (Your Home Is The Sea),Lolita,34,24,5
+25,Chain Gang,Sam Cooke,20,2,15
+26,Wonderland By Night,Bert Kaempfert And His Orchestra,50,26,2
+27,My Girl Josephine,Fats Domino,37,27,5
+28,My Heart Has A Mind Of Its Own,Connie Francis,19,1,15
+29,Let's Think About Living,Bob Luman,16,7,12
+30,I'll Save The Last Dance For You,Damita Jo,28,28,5
+31,Artificial Flowers,Bobby Darin,21,20,9
+32,You're Sixteen,Johnny Burnette,41,32,4
+33,Ruby Duby Du,Tobin Mathews & Co.,38,33,4
+34,Lonely Teenager,Dion,36,34,6
+35,Peter Gunn,Duane Eddy His Twangy Guitar And The Rebels,27,27,7
+36,Togetherness,Frankie Avalon,33,26,10
+37,Wait For Me,The Playmates,44,37,5
+38,My Dearest Darling,Etta James,43,38,10
+39,Summer's Gone,Paul Anka,24,11,9
+40,Fools Rush In (Where Angels Fear To Tread),Brook Benton,54,40,2
+41,Am I Losing You,Jim Reeves,53,41,5
+42,So Sad (To Watch Good Love Go Bad),The Everly Brothers,32,7,12
+43,Ol' Mac Donald,Frank Sinatra,51,43,3
+44,Love Walked In,Dinah Washington,30,30,8
+45,Theme From The Apartment,Ferrante & Teicher,25,10,18
+46,Dear John,Pat Boone,52,46,5
+47,Kiddio,Brook Benton,26,7,16
+48,A Million To One,Jimmy Charles and The Revelletts,39,5,14
+49,Am I The Man,Jackie Wilson,42,42,5
+50,Like Strangers,The Everly Brothers,66,50,4
+51,Exodus,Ferrante & Teicher,71,51,2
+52,The Twist,Chubby Checker,29,1,17
+53,Ballad Of The Alamo,Marty Robbins,55,53,6
+54,Tonights The Night,The Shirelles,45,39,11
+55,Diamonds And Pearls,The Paradons,46,18,14
+56,I Gotta Know,Elvis Presley With The Jordanaires,65,56,2
+57,Mr. Custer,Larry Verne,48,1,13
+58,Natural Born Lover,Fats Domino,57,52,4
+59,Alabam,Pat Boone,75,59,5
+60,Gonzo,James Booker,77,60,3
+61,Whole Lot Of Shakin' Going On,Conway Twitty,69,61,4
+62,A Fool In Love,Ike & Tina Turner,56,27,13
+63,Somebody To Love,Bobby Darin,61,45,9
+64,Ruby,Ray Charles,-1,64,1
+65,Ruby Duby Du From Key Witness,Charles Wolcott,92,65,4
+66,Have Mercy Baby,The Bobbettes,72,66,7
+67,Gee Whiz,The Innocents,-1,67,1
+68,I Missed Me,Jim Reeves,89,68,2
+69,Whole Lotta Shakin' Goin' On,Chubby Checker,63,42,7
+70,It's Now Or Never,Elvis Presley With The Jordanaires,47,1,19
+71,Main Theme from Exodus (Ari's Theme),Mantovani & His Orch.,-1,71,1
+72,Once In Awhile,The Chimes,83,72,4
+73,Hardhearted Hannah,Ray Charles,-1,73,1
+74,Shimmy Like Kate,The Olympics,68,42,11
+75,Night Theme,The Mark II,78,75,6
+76,Don't Go To Strangers,Etta Jones,85,76,3
+77,Ballad Of The Alamo,Bud & Travis,64,64,6
+78,The Green Leaves Of Summer,The Brothers Four,82,78,4
+79,Cry Cry Cry,Bobby Bland,87,79,3
+80,"(Theme from) ""The Dark At The Top Of The Stairs""",Ernie Freeman,70,70,5
+81,The Sundowners,Billy Vaughn And His Orchestra,59,51,8
+82,Alabam,Cowboy Copas,76,63,9
+83,Send Me The Pillow You Dream On,The Browns Featuring Jim Edward Brown,99,83,2
+84,The Bells,James Brown,91,84,2
+85,Side Car Cycle,Charlie Ryan and the Timberline Riders,84,84,6
+86,The Big Time Spender (Parts I & II),Cornbread & Biscuits,94,86,2
+87,Will You Love Me Tomorrow, The Shirelles,-1,87,1
+88,Wonderland By Night,Louis Prima,88,88,2
+89,Anymore,Teresa Brewer,67,31,16
+90,Push Push,Austin Taylor,90,90,2
+91,Stranger From Durango,Richie Allen,-1,91,1
+92,Serenata,Sarah Vaughan,-1,82,4
+93,Gee,Jan & Dean,95,93,2
+94,Last Date,Lawrence Welk And His Orchestra,-1,81,2
+95,Bumble Bee,LaVern Baker,96,95,2
+96,"Corinna, Corinna",Ray Peterson,-1,96,1
+97,Sweet Dreams,Don Gibson,97,97,2
+98,One Of The Lucky Ones,Anita Bryant,62,62,7
+99,Fallen Angel,Webb Pierce,-1,99,1
+100,Gloria's Theme,Adam Wade,-1,100,1

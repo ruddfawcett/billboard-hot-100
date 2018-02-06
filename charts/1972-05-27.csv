@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Oh Girl,The Chi-lites,2,1,8
+2,I'll Take You There,The Staple Singers,3,2,8
+3,The First Time Ever I Saw Your Face,Roberta Flack,1,1,13
+4,Look What You Done For Me,Al Green,5,4,9
+5,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",13,5,12
+6,Morning Has Broken,Cat Stevens,10,6,9
+7,Tumbling Dice,The Rolling Stones,8,7,5
+8,I Gotcha,Joe Tex,4,2,19
+9,Sylvia's Mother,Dr. Hook And The Medicine Show,14,9,9
+10,Hot Rod Lincoln,Commander Cody & His Lost Planet Airmen,12,10,10
+11,Nice To Be With You,Gallery,21,11,14
+12,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,19,12,9
+13,Little Bitty Pretty One,Jackson 5,15,13,6
+14,"Betcha By Golly, Wow","The Stylistics Featuring Russell Thompkins,Jr.",7,3,14
+15,Day Dreaming,Aretha Franklin,11,5,11
+16,Slippin' Into Darkness,War,17,16,19
+17,It's Going To Take Some Time,Carpenters,29,17,5
+18,Song Sung Blue,Neil Diamond,27,18,4
+19,Diary,Bread,25,19,6
+20,Walkin' In The Rain With The One I Love,Love Unlimited,28,20,9
+21,I Saw The Light,Todd Rundgren,22,21,8
+22,Me And Julio Down By The Schoolyard,Paul Simon,24,22,8
+23,Back Off Boogaloo,Ringo Starr,9,9,9
+24,Doctor My Eyes, Jackson Browne,18,8,11
+25,Taxi,Harry Chapin,26,25,12
+26,Rockin' Robin,Michael Jackson,6,2,12
+27,"Vincent (Starry, Starry Night)/Castles In The Air",Don McLean,16,12,11
+28,Outa-Space,Billy Preston,34,28,6
+29,Troglodyte (Cave Man),The Jimmy Castor Bunch,46,29,3
+30,Ask Me What You Want,Millie Jackson,35,30,10
+31,Amazing Grace,The Pipes And Drums And The Military Band Of The Royal Scots Dragoon Guards,59,31,2
+32,Isn't Life Strange,The Moody Blues,36,32,6
+33,Old Man,Neil Young,39,33,5
+34,Someday Never Comes,Creedence Clearwater Revival,40,34,4
+35,"Love Theme From ""The Godfather"" (Speak Softly Love)",Andy Williams,38,35,8
+36,Lean On Me,Bill Withers,42,36,6
+37,You Could Have Been A Lady,April Wine,32,32,10
+38,I Need You,America,62,38,2
+39,I've Been Lonely For So Long,Frederick Knight,43,39,6
+40,Rocket Man,Elton John,50,40,4
+41,Long Haired Lover From Liverpool,Little Jimmy Osmond with The Mike Curb Congregation,56,41,6
+42,Smilin',Sly & The Family Stone,45,42,6
+43,Automatically Sunshine,The Supremes,53,43,4
+44,There It Is (Part 1),James Brown,47,44,4
+45,Everything Good Is Bad,100 Proof Aged in Soul,54,45,9
+46,Immigration Man,Graham Nash & David Crosby,58,46,4
+47,Walk In The Night,Jr. Walker & The All Stars,49,47,9
+48,To Get To You,Jerry Wallace,48,48,11
+49,Daddy Don't You Walk So Fast,Wayne Newton,55,49,6
+50,How Can I Be Sure,David Cassidy,63,50,2
+51,Run Run Run,Jo Jo Gunne,33,27,11
+52,I'm Movin' On,John Kay,52,52,6
+53,You're The Man (Part 1),Marvin Gaye,64,53,2
+54,Living In A House Divided,Cher,75,54,2
+55,You Are The One,Sugar Bears,51,51,12
+56,Hearsay,The Soul Children,44,44,11
+57,Lay-Away,The Isley Brothers,57,54,9
+58,How Do You Do?,Mouth & MacNeal,65,58,5
+59,I Wanna Be Where You Are,Michael Jackson,-1,59,1
+60,Hot 'N' Nasty,Humble Pie,67,60,4
+61,Woman's Gotta Have It,(The Preacher) Bobby Womack,66,61,4
+62,Layla,Derek & The Dominos,77,51,13
+63,You Said A Bad Word,Joe Tex,78,63,2
+64,Superwoman (Where Were You When I Needed You),Stevie Wonder,84,64,2
+65,Woman Is The Nigger Of The World,John Lennon/Plastic Ono Band With Elephant's Memory,76,65,2
+66,An American Trilogy,Elvis Presley,71,66,4
+67,"Love Theme From ""The Godfather""",Carlo Savina,69,67,6
+68,We're Free,Beverly Bremers,88,68,5
+69,Baby Blue,Badfinger,31,14,10
+70,Life And Breath,Climax featuring Sonny Geraci,74,70,4
+71,Powder Blue Mercedes Queen,The Raiders,81,71,2
+72,Day By Day,Godspell,90,72,2
+73,Too Late To Turn Back Now,Cornelius Brothers & Sister Rose,-1,73,1
+74,Changes,David Bowie,72,66,7
+75,Upsetter,Grand Funk Railroad,73,73,5
+76,It Doesn't Matter,Stephen Stills,-1,76,1
+77,Legend In Your Own Time,Carly Simon,61,50,10
+78,Kate,Johnny Cash And The Tennessee Three,95,78,3
+79,"Guns, Guns, Guns",The Guess Who,100,79,2
+80,The Young New Mexican Puppeteer,Tom Jones,83,80,5
+81,I Can't Turn You Loose,Edgar Winter's White Trash,82,81,4
+82,The Happiest Girl In The Whole U.S.A.,Donna Fargo,-1,82,1
+83,After Midnight,J.J. Cale,93,83,2
+84,Conquistador,Procol Harum,-1,84,1
+85,"Just As Long As You Need Me, Part I",Independents,94,85,3
+86,Ain't That Loving You (For More Reasons Than One),Isaac Hayes & David Porter,91,86,3
+87,Giving Up,Donny Hathaway,87,87,3
+88,Francene,ZZ Top,89,88,2
+89,I Only Have Eyes For You,Jerry Butler,97,89,2
+90,Questions,Bang,92,90,6
+91,Victim Of A Foolish Heart,Bettye Swann,-1,91,1
+92,Baby Let Me Take You (In My Arms),Detroit Emeralds,-1,92,1
+93,Funk Factory,Wilson Pickett,-1,93,1
+94,In A Broken Dream,Python Lee Jackson,-1,94,1
+95,I Got Some Help I Don't Need,B.B. King,96,95,4
+96,Beautiful,Gordon Lightfoot,-1,96,1
+97,Gone,Joey Heatherton,-1,97,1
+98,Bring It Home (And Give It To Me),Hot Sauce,99,98,2
+99,Pass The Peas,The JB's,-1,99,1
+100,I Thank You,Donny Hathaway And June Conquest,-1,100,1

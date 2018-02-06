@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Three Times A Lady,Commodores,1,1,10
+2,Grease,Frankie Valli,2,2,13
+3,Last Dance,Donna Summer,3,3,15
+4,Miss You,The Rolling Stones,4,1,13
+5,Hot Blooded,Foreigner,5,5,8
+6,Boogie Oogie Oogie,A Taste Of Honey,6,6,9
+7,Love Will Find A Way,Pablo Cruise,7,7,12
+8,Copacabana (at The Copa),Barry Manilow,8,8,11
+9,Magnet And Steel,Walter Egan,9,9,13
+10,An Everlasting Love,Andy Gibb,10,10,6
+11,Hopelessly Devoted To You,Olivia Newton-John,11,11,7
+12,Life's Been Good,Joe Walsh,12,12,11
+13,My Angel Baby,Toby Beau,13,13,12
+14,I'm Not Gonna Let It Bother Me Tonight,Atlanta Rhythm Section,14,14,11
+15,Shame,"Evelyn ""Champagne"" King",19,15,10
+16,Kiss You All Over,Exile,18,16,7
+17,King Tut,Steve Martin And The Toot Uncommons,17,17,13
+18,Fool If You Think It's Over,Chris Rea,21,18,7
+19,Got To Get You Into My Life,"Earth, Wind & Fire",29,19,5
+20,Stay/The Load-Out,Jackson Browne,20,20,11
+21,Hot Child In The City,Nick Gilder,24,21,11
+22,You And I,Rick James,28,22,8
+23,Stuff Like That,Quincy Jones,26,23,11
+24,Love Is In The Air,John Paul Young,32,24,6
+25,You,Rita Coolidge,27,25,8
+26,Two Tickets To Paradise,Eddie Money,30,26,9
+27,Macho Man,Village People,31,27,9
+28,Reminiscing,Little River Band,34,28,4
+29,Summer Nights,John Travolta & Olivia Newton-John & Cast,46,29,3
+30,Shadow Dancing,Andy Gibb,15,1,19
+31,Rivers Of Babylon,Boney M,33,31,12
+32,Close The Door,Teddy Pendergrass,40,32,7
+33,Baker Street,Gerry Rafferty,16,2,18
+34,Just What I Needed,The Cars,39,34,10
+35,You Needed Me,Anne Murray,43,35,6
+36,You're A Part Of Me,Gene Cotton With Kim Carnes,36,36,10
+37,A Rock 'N' Roll Fantasy,The Kinks,45,37,5
+38,Hollywood Nights,Bob Seger & The Silver Bullet Band,78,38,2
+39,"Whenever I Call You ""Friend""",Kenny Loggins,65,39,4
+40,Oh! Darling,Robin Gibb,68,40,2
+41,Think It Over,Cheryl Ladd,48,41,5
+42,Use Ta Be My Girl,The O'Jays,22,4,17
+43,Get Off,Foxy,49,43,5
+44,"Love Theme From ""Eyes Of Laura Mars"" (Prisoner)",Barbra Streisand,55,44,4
+45,Ain't Nothing Gonna Keep Me From You,Teri DeSario,50,45,8
+46,I Love The Nightlife (Disco 'round),Alicia Bridges,54,46,7
+47,Still The Same,Bob Seger & The Silver Bullet Band,23,4,15
+48,Talking In Your Sleep, Crystal Gayle,58,48,4
+49,Steppin' In A Slide Zone,The Moody Blues,60,49,4
+50,Come Together,Aerosmith,66,50,3
+51,If You Wanna Do A Dance,The Spinners,61,51,4
+52,Right Down The Line,Gerry Rafferty,79,52,2
+53,I've Had Enough,Wings,25,25,10
+54,You Never Done It Like That,Captain & Tennille,67,54,3
+55,The Groove Line,Heatwave,37,7,16
+56,You're All I Need To Get By,Johnny Mathis & Deniece Williams,59,56,4
+57,Runaway,Jefferson Starship,38,12,13
+58,Time For Me To Fly,REO Speedwagon,62,58,5
+59,Mr. Blue Sky,Electric Light Orchestra,35,35,9
+60,You're The One That I Want,John Travolta & Olivia Newton-John,42,1,21
+61,Flyin',Prism,72,61,5
+62,Don't Look Back,Boston,-1,62,1
+63,She's Always A Woman,Billy Joel,84,63,2
+64,I Will Still Love You,Stonebolt,75,64,3
+65,She Loves To Be In Love,Charlie,76,65,3
+66,Surrender,Cheap Trick,69,66,5
+67,On The Strip,Paul Nicholas,71,67,4
+68,Paradise By The Dashboard Light,Meat Loaf,82,68,2
+69,Arms Of Mary,Chilliwack,74,69,3
+70,Raise A Little Hell,Trooper,80,70,3
+71,5.7.0.5.,City Boy,81,71,2
+72,Back In The U.s.a.,Linda Ronstadt,-1,72,1
+73,All I See Is Your Face,Dan Hill,92,73,2
+74,Blame It On The Boogie,Mick Jackson,87,74,2
+75,He's So Fine,Kristy And Jimmy McNichol,70,70,5
+76,Almost Like Being In Love,Michael Johnson,86,76,2
+77,New Orleans Ladies,Louisiana's Le Roux,89,59,9
+78,California Nights,Sweet,83,78,2
+79,Livingston Saturday Night,Jimmy Buffett,90,79,2
+80,You,The McCrarys,-1,80,1
+81,Take A Chance On Me,ABBA,41,3,18
+82,Devoted To You,Carly Simon & James Taylor,-1,82,1
+83,Two Out Of Three Ain't Bad,Meat Loaf,44,11,23
+84,Badlands,Bruce Springsteen,-1,84,1
+85,Took The Last Train,David Gates,96,85,2
+86,It's Really You,The Tarney/Spencer Band,88,86,5
+87,Dance (Disco Heat),Sylvester,-1,87,1
+88,Holding On (When Love Is Gone),L.T.D.,-1,88,1
+89,Lights,Journey,-1,89,1
+90,Long Hot Summer Nights,Wendy Waldman,-1,90,1
+91,Dance With Me,Peter Brown With Betty Wright,51,8,25
+92,Will You Still Love Me Tomorrow,Dave Mason,53,39,12
+93,I Need To Know,Tom Petty And The Heartbreakers,52,41,10
+94,Back In My Arms Again,Genya Ravan,94,94,2
+95,Songbird,Barbra Streisand,56,25,10
+96,Thank God It's Friday,Love And Kisses,57,22,16
+97,Love Or Something Like It,Kenny Rogers,63,32,12
+98,Wonderful Tonight,Eric Clapton,64,16,15
+99,Can We Still Be Friends,Todd Rundgren,47,29,13
+100,Runaway Love,Linda Clifford,77,76,8

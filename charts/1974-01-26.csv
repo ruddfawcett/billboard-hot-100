@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You're Sixteen,Ringo Starr,5,1,7
+2,Show And Tell,Al Wilson,1,1,15
+3,The Way We Were,Barbra Streisand,7,3,10
+4,I've Got To Use My Imagination,Gladys Knight And The Pips,4,4,10
+5,The Joker,The Steve Miller Band,2,1,15
+6,Love's Theme,Love Unlimited Orchestra,10,6,9
+7,Smokin' In The Boy's Room,Brownsville Station,3,3,14
+8,Let Me Be There,Olivia Newton-John,9,8,11
+9,Time In A Bottle,Jim Croce,6,1,11
+10,Americans,Byron MacGregor,17,10,4
+11,Until You Come Back To Me (That's What I'm Gonna Do),Aretha Franklin,13,11,10
+12,Living For The City,Stevie Wonder,8,8,12
+13,"Never, Never Gonna Give Ya Up",Barry White,11,7,14
+14,Spiders & Snakes,Jim Stafford,18,14,12
+15,Me And Baby Brother,War,15,15,12
+16,When I Fall In Love/Are You Lonesome Tonight,Donny Osmond,14,14,10
+17,Helen Wheels,Paul McCartney And Wings,12,10,10
+18,Jungle Boogie,Kool & The Gang,22,18,8
+19,Walk Like A Man,Grand Funk,20,19,10
+20,The Most Beautiful Girl,Charlie Rich,16,1,18
+21,Livin' For You,Al Green,19,19,8
+22,Put Your Hands Together,The O'Jays,29,22,6
+23,Leave Me Alone (ruby Red Dress),Helen Reddy,21,3,13
+24,Rock On,David Essex,32,24,12
+25,Goodbye Yellow Brick Road,Elton John,23,2,14
+26,Sister Mary Elephant (Shudd-Up!),Cheech & Chong,24,24,10
+27,Let Your Hair Down,The Temptations,30,27,6
+28,The Americans (A Canadian's Opinion),Gordon Sinclair,62,28,3
+29,Top Of The World,Carpenters,25,1,17
+30,I Love,Tom T. Hall,38,30,8
+31,"""Joy"" Pt. I",Isaac Hayes,33,31,6
+32,Midnight Rider,Gregg Allman,36,32,6
+33,Last Time I Saw Him,Diana Ross,41,33,4
+34,Jim Dandy,Black Oak Arkansas,42,34,7
+35,Love Song,Anne Murray,40,35,7
+36,Boogie Down,Eddie Kendricks,46,36,4
+37,Baby Come Close,Smokey Robinson,39,37,11
+38,Hello It's Me,Todd Rundgren,26,5,17
+39,Rockin' Roll Baby,The Stylistics,31,14,15
+40,Abra-Ca-Dabra,The De Franco Family,49,40,5
+41,If We Make It Through December,Merle Haggard,28,28,10
+42,Doo Doo Doo Doo Doo (heartbreaker),The Rolling Stones,61,42,3
+43,If You're Ready (Come Go With Me),The Staple Singers,27,9,14
+44,MIND GAMES,John Lennon,34,18,12
+45,I Like To Live The Love,B.B. King,48,45,8
+46,Just You 'n' Me,Chicago,35,4,18
+47,Can This Be Real,Natural Four,52,47,4
+48,Teenage Lament '74,Alice Cooper,54,48,5
+49,D'yer Mak'er,Led Zeppelin,43,20,15
+50,I Shall Sing,Garfunkel,57,50,5
+51,Sexy Mama,The Moments,75,51,3
+52,This Time I'm Gone For Good,"Bobby ""Blue"" Bland",47,42,11
+53,American Tune,Paul Simon,37,35,9
+54,Daddy What If,Bobby Bare,69,54,4
+55,Showdown,Electric Light Orchestra,56,55,9
+56,Dark Lady,Cher,82,56,2
+57,You're So Unique,Billy Preston,68,57,4
+58,Last Kiss,Wednesday,60,58,10
+59,Love Has No Pride,Linda Ronstadt,59,51,9
+60,My Sweet Lady,Cliff DeYoung,70,60,4
+61,Come And Get Your Love,Redbone,73,61,3
+62,Stoned To The Bone - Part 1,James Brown,58,58,9
+63,Wang Dang Doodle,The Pointer Sisters,67,63,6
+64,Trying To Hold On To My Woman,Lamont Dozier,66,64,6
+65,My Music,Loggins & Messina,44,16,13
+66,Painted Ladies,Ian Thomas,45,34,14
+67,A Fool Such As I,Bob Dylan,55,55,7
+68,Keep Your Head To The Sky,"Earth, Wind & Fire",53,52,11
+69,Raised On Robbery,Joni Mitchell,71,69,6
+70,Eres Tu (Touch The Wind),Mocedades,84,70,3
+71,What It Comes Down To,The Isley Brothers,78,71,5
+72,Seasons In The Sun,Terry Jacks,86,72,3
+73,"One Tin Soldier, The Legend of Billy Jack",Coven,77,26,17
+74,Who's In The Strawberry Patch With Sally,Tony Orlando & Dawn,50,27,12
+75,The Whole Town's Laughing At Me,Teddy Pendergrass,51,7,18
+76,Star,Stealers Wheel,81,76,4
+77,I Miss You,The Dells,91,77,2
+78,Life Is A Song Worth Singing,Johnny Mathis,83,78,5
+79,It Doesn't Have To Be That Way,Jim Croce,64,64,5
+80,You Sure Love To Ball,Marvin Gaye,-1,80,1
+81,I Got A Name,Jim Croce,63,10,17
+82,Flashback,The 5th Dimension,85,82,7
+83,Mighty Love - Pt. 1,The Spinners,-1,83,1
+84,WOLD,Harry Chapin,87,84,4
+85,Jessica,The Allman Brothers Band,90,85,2
+86,Let Me Get To Know You,Paul Anka,89,86,4
+87,There Won't Be Anymore,Charlie Rich,-1,87,1
+88,In The Mood,Bette Midler,-1,88,1
+89,Meadows,Joe Walsh,96,89,3
+90,Sunshine On My Shoulders,John Denver,-1,90,1
+91,(I'd Know You) Anywhere,Ashford & Simpson,94,91,2
+92,Jolene,Dolly Parton,-1,92,1
+93,Come Get To This,Marvin Gaye,65,21,13
+94,"Rock And Roll, Hoochie Koo",Rick Derringer,100,94,2
+95,Thanks For Saving My Life,Billy Paul,-1,95,1
+96,Hangin' Around,Edgar Winter Group,76,65,7
+97,I Just Can't Get You Out Of My Mind,Four Tops,-1,97,1
+98,We're Getting Careless With Our Love,Johnnie Taylor,-1,98,1
+99,This Is Your Song,Don Goodwin,92,86,8
+100,Can't Say Nothin',Curtis Mayfield,88,88,5

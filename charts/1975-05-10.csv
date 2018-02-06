@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,He Don't Love You (Like I Love You),Tony Orlando & Dawn,1,1,9
+2,Before The Next Teardrop Falls,Freddy Fender,3,2,15
+3,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,B.J. Thomas,2,1,15
+4,Jackie Blue,Ozark Mountain Daredevils,6,4,14
+5,Shining Star,"Earth, Wind & Fire",7,5,13
+6,Walking In Rhythm,The Blackbyrds,8,6,14
+7,Philadelphia Freedom,The Elton John Band,4,1,10
+8,Only Yesterday,Carpenters,10,8,7
+9,Long Tall Glasses (I Can Dance),Leo Sayer,9,9,12
+10,I Don't Like To Sleep Alone,Paul Anka with Odia Coates,11,10,9
+11,How Long,Ace,12,11,10
+12,It's A Miracle,Barry Manilow,13,12,11
+13,Killer Queen,Queen,14,13,14
+14,Thank God I'm A Country Boy,John Denver,15,14,8
+15,Chevy Van,Sammy Johns ,5,5,15
+16,Sister Golden Hair,America,28,16,6
+17,Old Days,Chicago,43,17,3
+18,Bad Time,Grand Funk,24,18,6
+19,Shoeshine Boy,Eddie Kendricks,23,19,13
+20,When Will I Be Loved,Linda Ronstadt,33,20,5
+21,Hijack,Herbie Mann,26,21,11
+22,L-O-V-E (Love),Al Green,18,13,11
+23,Love Won't Let Me Wait,Major Harris,27,23,7
+24,Cut The Cake,AWB,32,24,5
+25,The Immigrant,Neil Sedaka,31,25,7
+26,I'm Not Lisa,Jessi Colter,34,26,6
+27,Don't Tell Me Goodnight,Lobo,35,27,7
+28,Young Americans,David Bowie,29,28,9
+29,Autobahn,Kraftwerk,25,25,9
+30,Only Women,Alice Cooper,36,30,6
+31,Rainy Day People,Gordon Lightfoot,37,31,7
+32,Wildfire,Michael Murphey,40,32,7
+33,Bad Luck (Part 1),Harold Melvin And The Blue Notes,38,33,8
+34,Shakey Ground,The Temptations,39,34,8
+35,Lovin' You,Minnie Riperton,17,1,17
+36,Magic,Pilot,46,36,6
+37,The Bertha Butt Boogie-Part 1, The Jimmy Castor Bunch,16,16,12
+38,Shaving Cream,Benny Bell,30,30,10
+39,"Get Down, Get Down (Get On The Floor)",Joe Simon,49,39,6
+40,The Last Farewell,Roger Whittaker,44,40,6
+41,I'll Play For You,Seals & Crofts,45,41,6
+42,What Am I Gonna Do With You,Barry White,22,8,10
+43,Bloody Well Right,Supertramp,53,43,5
+44,Trampled Under Foot,Led Zeppelin,54,44,4
+45,I Want To Be Free,Ohio Players,47,45,5
+46,Supernatural Thing - Part I,Ben E. King,21,5,14
+47,"I Wanna Dance Wit' Choo (Doo Dat Dance), Part I",Disco Tex & The Sex-O-Letters,58,47,4
+48,Remember What I Told You To Forget/My Ship,Tavares,59,48,5
+49,Stand By Me,John Lennon,20,20,9
+50,Emma,Hot Chocolate,19,8,14
+51,Amie,Pure Prairie League,42,27,11
+52,Ease On Down The Road,Consumer Rapport,63,52,4
+53,The Way We Were/try To Remember,Gladys Knight And The Pips,64,53,3
+54,Growin',Loggins & Messina,55,54,6
+55,Take Me In Your Arms (Rock Me),The Doobie Brothers,77,55,2
+56,Good Lovin' Gone Bad,Bad Company,67,56,4
+57,"Black Superman - ""Muhammad Ali""",Johnny Wakelin & The Kinshasa Band,60,57,10
+58,Love Will Keep Us Together,Captain & Tennille,72,58,4
+59,Misty,Ray Stevens,70,59,3
+60,Pinball,Brian Protheroe,65,60,7
+61,Spirit Of The Boogie/Summer Madness,Kool & The Gang,62,61,6
+62,My Little Lady,Bloodstone,57,57,7
+63,You Brought The Woman Out Of Me,Evie Sands,50,50,7
+64,Touch Me Baby (reaching Out For Your Love),Tamiko Jones,66,64,6
+65,The Hustle,Van McCoy And The Soul City Symphony,80,65,4
+66,Sail On Sailor,The Beach Boys,71,66,12
+67,No No Song/snookeroo,Ringo Starr,51,3,14
+68,Dynomite-Part I,Tony Camillo's Bazuka,78,68,5
+69,Baby That's Backatcha,Smokey Robinson,79,69,3
+70,Let There Be Music,Orleans,81,70,3
+71,Attitude Dancing,Carly Simon,-1,71,1
+72,Why Can't We Be Friends?,War,82,72,2
+73,What Can I Do For You?,Labelle,-1,73,1
+74,Sadie,The Spinners,88,74,2
+75,Thank You Baby,The Stylistics,85,75,4
+76,Me And Mrs. Jones,Ron Banks And The Dramatics,86,76,2
+77,(Just Like) Romeo And Juliet,Sha Na Na,87,77,4
+78,Give The People What They Want,The O'Jays,89,78,2
+79,I'm On Fire,Dwight Twilley Band,90,79,3
+80,Anytime (I'll Be There),Frank Sinatra,83,80,4
+81,Have You Never Been Mellow,Olivia Newton-John,68,1,16
+82,Judy Mae,Boomer Castleman,93,82,2
+83,Real Man,Todd Rundgren,84,83,3
+84,This Ol' Cowboy,The Marshall Tucker Band,94,84,3
+85,Lizzie And The Rainman,Tanya Tucker,96,85,2
+86,Once You Get Started,Rufus Featuring Chaka Khan,56,10,13
+87,T-R-O-U-B-L-E,Elvis Presley,-1,87,1
+88,Long Haired Country Boy,The Charlie Daniels Band,-1,88,1
+89,The Funky Gibbon,The Goodies,99,89,2
+90,Midnight Blue,Melissa Manchester,-1,90,1
+91,Shackin' Up,Barbara Mason,92,91,4
+92,Mister Magic,"Grover Washington, Jr.",97,92,2
+93,One More Tomorrow,Henry Gross,95,93,3
+94,99 Miles From L.a.,Albert Hammond,98,94,3
+95,Beer Barrel Polka/Dick And Jane,Bobby Vinton,52,33,9
+96,Slippery When Wet,Commodores,-1,96,1
+97,It Ain't No Fun,Shirley Brown,-1,97,1
+98,Minnesota,Northern Light,100,98,2
+99,Tryin' To Beat The Morning Home,T.G. Sheppard,-1,99,1
+100,Astral Man,Nektar,-1,100,1

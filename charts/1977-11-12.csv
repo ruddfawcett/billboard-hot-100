@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You Light Up My Life,Debby Boone,1,1,11
+2,Boogie Nights,Heatwave,3,2,17
+3,Nobody Does It Better,Carly Simon,2,2,17
+4,It's Ecstasy When You Lay Down Next To Me,Barry White,6,4,13
+5,Don't It Make My Brown Eyes Blue,Crystal Gayle,8,5,14
+6,I Feel Love,Donna Summer,7,6,15
+7,"Baby, What A Big Surprise",Chicago,9,7,8
+8,Heaven On The 7th Floor,Paul Nicholas,10,8,13
+9,How Deep Is Your Love,Bee Gees,11,9,8
+10,We're All Alone,Rita Coolidge,13,10,9
+11,Blue Bayou,Linda Ronstadt,16,11,10
+12,Just Remember I Love You,Firefall,14,12,14
+13,That's Rock 'N' Roll,Shaun Cassidy,4,3,17
+14,Brick House,Commodores,5,5,12
+15,Star Wars Theme/Cantina Band,Meco,12,1,15
+16,Help Is On Its Way,Little River Band,18,16,15
+17,You Make Loving Fun,Fleetwood Mac,30,17,5
+18,Do Ya Wanna Get Funky With Me,Peter Brown,19,18,9
+19,Dusic,Brick,21,19,11
+20,We Just Disagree,Dave Mason,22,20,11
+21,Cold As Ice,Foreigner,17,6,17
+22,It's So Easy, Linda Ronstadt,29,22,6
+23,Send In The Clowns,Judy Collins,25,23,19
+24,Daybreak,Barry Manilow,28,24,7
+25,Isn't It Time,The Babys,26,25,6
+26,Come Sail Away,Styx,32,26,8
+27,Keep It Comin' Love,KC And The Sunshine Band,15,2,16
+28,She Did It,Eric Carmen,23,23,12
+29,My Fair Share,Seals & Crofts,33,29,11
+30,Slip Slidin' Away,Paul Simon,35,30,5
+31,I Go Crazy,Paul Davis,34,31,12
+32,Your Smiling Face,James Taylor,36,32,7
+33,The King Is Gone,Ronnie McDowell,20,13,10
+34,Gone Too Far,England Dan & John Ford Coley,39,34,7
+35,(Every Time I Turn Around) Back In Love Again,LTD,42,35,5
+36,Calling Occupants Of Interplanetary Craft,Carpenters,40,36,6
+37,Here You Come Again,Dolly Parton,49,37,5
+38,Thunder In My Heart,Leo Sayer ,38,38,6
+39,"Signed, Sealed, Delivered (I'm Yours)",Peter Frampton,24,18,12
+40,Swingtown,The Steve Miller Band,44,40,5
+41,She's Not There,Santana,46,41,6
+42,Baby Come Back,Player,47,42,7
+43,Fair Game,"Crosby, Stills & Nash",45,43,7
+44,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,50,44,9
+45,Sentimental Lady,Bob Welch,52,45,5
+46,The Way I Feel Tonight,Bay City Rollers,56,46,5
+47,Draw The Line,Aerosmith,57,47,4
+48,Swayin' To The Music (slow Dancin'),Johnny Rivers,27,10,21
+49,Surfin' USA,Leif Garrett,31,20,12
+50,On And On,Stephen Bishop,43,11,27
+51,We Will Rock You/We Are The Champions,Queen,62,51,4
+52,Goin' Places,The Jacksons,53,52,6
+53,Gettin' Ready For Love,Diana Ross,82,53,2
+54,Don't Ask My Neighbors,The Emotions,74,54,3
+55,"Changes In Latitudes, Changes In Attitudes",Jimmy Buffett,37,37,9
+56,You're In My Heart (The Final Acclaim),Rod Stewart,69,56,3
+57,The Happy Girls,Helen Reddy,59,57,6
+58,Hard Times,Boz Scaggs,60,58,5
+59,Serpentine Fire,"Earth, Wind & Fire",77,59,3
+60,Doctor Love,First Choice,41,41,9
+61,Devil's Gun,C.J. & Company,68,36,26
+62,I Just Want To Be Your Everything,Andy Gibb,48,1,30
+63,From Graceland To The Promised Land,Merle Haggard,67,63,4
+64,"Money, Money, Money",ABBA,71,64,4
+65,Stone Cold Sober,Crawler,72,65,5
+66,Echoes Of Love,The Doobie Brothers,73,66,6
+67,As,Stevie Wonder,81,67,2
+68,Georgia Rhythm,Atlanta Rhythm Section,76,68,5
+69,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,80,69,3
+70,Falling,LeBlanc & Carr,78,70,5
+71,You're Moving Out Today,Carole Bayer Sager,84,71,5
+72,Silver Lady,David Soul,79,52,10
+73,Why Do Lovers (Break Each Other's Heart?),Daryl Hall John Oates,75,73,4
+74,I Honestly Love You,Olivia Newton-John,85,1,17
+75,My Way,Elvis Presley,-1,75,1
+76,Shake It Well,The Dramatics,88,76,4
+77,Hey Deanie,Shaun Cassidy,-1,77,1
+78,(Love Is) Thicker Than Water,Andy Gibb,89,78,2
+79,Runaround Sue,Leif Garrett,-1,79,1
+80,Breakdown,Tom Petty And The Heartbreakers,90,80,2
+81,Bloat On Featuring the Bloaters,Cheech & Chong,-1,81,1
+82,Spaceship Superstar,Prism,86,82,4
+83,Heaven's Just A Sin Away,The Kendalls,87,83,2
+84,Don't Let The Flame Burn Out,Jackie DeShannon,94,84,3
+85,Point Of Know Return,Kansas,-1,85,1
+86,You Light Up My Life,Kacey Cisyk/Original Cast,-1,86,1
+87,Short People,Randy Newman,-1,87,1
+88,Don't Let Me Be Misunderstood,Santa Esmeralda Starring Leroy Gomez,91,88,2
+89,Just The Way You Are,Billy Joel,-1,89,1
+90,Still The Lovin' Is Fun,B.J. Thomas,-1,90,1
+91,Native New Yorker,Odyssey,-1,91,1
+92,Sad Eyes,Brooklyn Dreams,-1,92,1
+93,It Was Almost Like A Song,Ronnie Milsap,51,16,22
+94,I Just Want To Make Love To You,Foghat,54,33,17
+95,A Place In The Sun,Pablo Cruise,58,42,9
+96,Way Down,Elvis Presley,61,18,21
+97,Telephone Line,Electric Light Orchestra,63,7,23
+98,Best Of My Love,The Emotions,64,1,23
+99,I Wouldn't Want To Be Like You,Alan Parsons,65,36,13
+100,I Believe You,Dorothy Moore,66,27,15

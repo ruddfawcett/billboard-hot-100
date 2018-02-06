@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Groovin',The Young Rascals,2,1,9
+2,Respect,Aretha Franklin,1,1,8
+3,She'd Rather Be With Me,The Turtles,7,3,6
+4,Release Me (And Let Me Love Again),Engelbert Humperdinck,4,4,11
+5,Somebody To Love,Jefferson Airplane,6,5,12
+6,Little Bit O' Soul,The Music Explosion,8,6,6
+7,Windy,The Association,12,7,4
+8,All I Need,The Temptations,9,8,8
+9,I Got Rhythm,The Happenings,3,3,11
+10,Mirage,Tommy James And The Shondells,11,10,8
+11,Can't Take My Eyes Off You,Frankie Valli,17,11,5
+12,Sunday Will Never Be The Same,Spanky And Our Gang,14,12,5
+13,Come On Down To My Boat,Every Mothers' Son,16,13,7
+14,7 Rooms Of Gloom,Four Tops,19,14,5
+15,Let's Live For Today,The Grass Roots,15,15,6
+16,Him Or Me - What's It Gonna Be?,Paul Revere & The Raiders,5,5,8
+17,Ding Dong! The Witch Is Dead,The Fifth Estate,33,17,5
+18,"New York Mining Disaster 1941 (Have You Seen My Wife, Mr. Jones)",Bee Gees,26,18,4
+19,Do It Again A Little Bit Slower,Jon & Robin And The In Crowd,21,19,7
+20,San Francisco (Be Sure To Wear Flowers In Your Hair),Scott McKenzie,32,20,4
+21,Creeque Alley,The Mamas & The Papas,10,5,8
+22,Alfie,Dionne Warwick,28,22,11
+23,Here Comes My Baby,The Tremeloes,13,13,11
+24,The Tracks Of My Tears,Johnny Rivers,45,24,3
+25,Six O'Clock,The Lovin' Spoonful,18,18,8
+26,Don't Sleep In The Subway,Petula Clark,49,26,3
+27,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,29,27,6
+28,Here We Go Again, Ray Charles,37,28,5
+29,Tramp,Otis & Carla,30,29,7
+30,Society's Child (Baby I've Been Thinking),Janis Ian,48,30,4
+31,Up -- Up And Away,The 5th Dimension,44,31,3
+32,When You're Young And In Love,The Marvelettes,23,23,9
+33,C'mon Marianne,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",66,33,2
+34,For Your Precious Love,"Oscar Toney, Jr.",53,34,4
+35,"Girl, You'll Be A Woman Soon",Neil Diamond,24,10,11
+36,Sound Of Love,The Five Americans,42,36,5
+37,Come To The Sunshine,Harpers Bizarre,47,37,5
+38,Mary In The Morning,Al Martino,52,38,4
+39,Girls In Love,Gary Lewis And The Playboys,40,39,6
+40,The Happening,The Supremes,25,1,11
+41,On A Carousel,The Hollies,20,11,14
+42,The Oogum Boogum Song,Brenton Wood,43,42,10
+43,I Was Made To Love Her,Stevie Wonder,68,43,2
+44,Sweet Soul Music,Arthur Conley,27,2,15
+45,Friday On My Mind,The Easybeats,22,16,14
+46,Pay You Back With Interest,The Hollies,56,46,3
+47,Shake,Otis Redding,54,47,5
+48,Don't Blame The Children,Sammy Davis Jr.,58,48,4
+49,Funny Familiar Forgotten Feelings,Tom Jones,55,49,5
+50,Light My Fire,The Doors,61,50,3
+51,Hip Hug-Her,Booker T. & The MG's,51,37,13
+52,Let Yourself Go,James Brown And The Famous Flames,46,46,7
+53,Make Me Yours,Bettye Swann,84,53,5
+54,Soul Finger,Bar-Kays,70,54,5
+55,You Must Have Been A Beautiful Baby,The Dave Clark Five,67,55,2
+56,Together,The Intruders,59,56,8
+57,Misty Blue,Eddy Arnold,57,57,7
+58,Why (Am I Treated So Bad), The Sweet Inspirations,72,58,3
+59,You Gave Me Something (And Everything's Alright),Fantastic Four,65,59,4
+60,Bowling Green,The Everly Brothers,60,60,4
+61,"Shake, Rattle & Roll",Arthur Conley,82,61,2
+62,I Take It Back,Sandy Posey,89,62,2
+63,Jump Back,King Curtis,64,63,6
+64,"Oooh, Baby Baby",The Five Stairsteps,73,64,4
+65,"Woman Like That, Yeah",Joe Tex,85,65,3
+66,Stay Together Young Lovers,Brenda & The Tabulations,69,66,5
+67,Long Legged Girl (With The Short Dress On),Elvis Presley With The Jordanaires,63,63,5
+68,"Time, Time",Ed Ames,62,61,7
+69,It's Cold Outside,The Choir,79,69,3
+70,You Can't Stand Alone,Wilson Pickett,74,70,4
+71,Step Out Of Your Mind,The American Breed,86,71,3
+72,Baby Please Come Back Home,J.J. Barnes,78,72,5
+73,Carrie-Anne,The Hollies,-1,73,1
+74,Plastic Man,Sonny & Cher,76,74,2
+75,Summer And Sandy,Lesley Gore,90,75,2
+76,More Love,Smokey Robinson & The Miracles,-1,76,1
+77,They're Here,Boots Walker,77,77,2
+78,Now I Know,Jack Jones,88,78,2
+79,Who's Lovin' You,Brenda & The Tabulations,95,79,2
+80,One By One,Blues Magoos,80,80,2
+81,"Mercy, Mercy, Mercy",The Buckinghams,-1,81,1
+82,Somebody Help Me,The Spencer Davis Group,-1,82,1
+83,You Wanted Someone To Play With (I Wanted Someone To Love),Frankie Laine,-1,83,1
+84,Love Me Tender,Percy Sledge,-1,84,1
+85,Graduation Day,The Arbors,-1,85,1
+86,Night And Day,Sergio Mendes & Brasil '66,87,86,3
+87,Airplane Song (My Airplane),The Royal Guardsmen,-1,87,1
+88,No Good To Cry,The Wildweeds,91,88,4
+89,Soothe Me,Sam & Dave,-1,89,1
+90,Daylight Savin' Time,Keith,-1,90,1
+91,Silence Is Golden,The Tremeloes,-1,91,1
+92,Soul Dance Number Three,Wilson Pickett,-1,92,1
+93,Why (Am I Treated So Bad),Bobby Powell,-1,93,1
+94,I'll Always Have Faith In You,Carla Thomas,-1,94,1
+95,To Be A Lover,Gene Chandler,96,95,2
+96,Have You Seen Her Face,The Byrds,97,96,2
+97,I Stand Accused (Of Loving You),The Glories,-1,97,1
+98,Girl (You Captivate Me),? (Question Mark) & The Mysterians,100,98,2
+99,Two In The Afternoon,"Dino, Desi & Billy",-1,99,1
+100,Black Sheep,Sam The Sham and the Pharaohs,-1,100,1

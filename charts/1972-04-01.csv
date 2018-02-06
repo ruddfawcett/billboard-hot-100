@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,A Horse With No Name,America,1,1,7
+2,Heart Of Gold,Neil Young,2,1,9
+3,Puppy Love,Donny Osmond,4,3,6
+4,Mother And Child Reunion,Paul Simon,5,4,9
+5,The Lion Sleeps Tonight,Robert John,3,3,14
+6,I Gotcha,Joe Tex,10,6,11
+7,Without You,Nilsson,6,1,16
+8,Jungle Fever,The Chakachas,8,8,12
+9,Rockin' Robin,Michael Jackson,14,9,4
+10,The First Time Ever I Saw Your Face,Roberta Flack,17,10,5
+11,In The Rain,The Dramatics,13,11,6
+12,Everything I Own,Bread,9,5,10
+13,The Way Of Love,Cher,7,7,10
+14,"Betcha By Golly, Wow","The Stylistics Featuring Russell Thompkins,Jr.",18,14,6
+15,Rock And Roll Lullaby,B.J. Thomas,16,15,8
+16,A Cowboys Work Is Never Done,Sonny & Cher,19,16,6
+17,Roundabout,Yes,20,17,8
+18,Down By The Lazy River,The Osmonds,11,4,11
+19,Day Dreaming,Aretha Franklin,32,19,3
+20,Precious And Few,Climax,12,3,14
+21,Bang A Gong (Get It On),T. Rex,15,10,14
+22,Give Ireland Back To The Irish,Wings,37,22,4
+23,Ain't Understanding Mellow,Jerry Butler & Brenda Lee Eager,21,21,17
+24,The Day I Found Myself,The Honey Cone,38,24,7
+25,Crazy Mama,J.J. Cale,26,25,10
+26,Taurus,Dennis Coffey & The Detroit Guitar Band,31,26,7
+27,We've Got To Get It On Again,Addrisi Brothers,25,25,11
+28,Runnin' Away,Sly & The Family Stone,23,23,9
+29,Every Day Of My Life,Bobby Vinton,35,29,10
+30,Take A Look Around,The Temptations,33,30,5
+31,Do Your Thing,Isaac Hayes,40,31,6
+32,Suavecito,Malo,49,32,5
+33,Hurting Each Other,Carpenters,24,2,12
+34,Glory Bound,The Grass Roots,34,34,8
+35,"Vincent (Starry, Starry Night)/Castles In The Air",Don McLean,53,35,3
+36,The Family Of Man,Three Dog Night,79,36,2
+37,Could It Be Forever,David Cassidy,39,37,7
+38,No One To Depend On,Santana,36,36,8
+39,Slippin' Into Darkness,War,41,39,11
+40,King Heroin,James Brown,44,40,5
+41,Doctor My Eyes,Jackson Browne,61,41,3
+42,Baby Blue,Badfinger,78,42,2
+43,Tiny Dancer,Elton John,47,43,5
+44,Look What You Done For Me,Al Green,-1,44,1
+45,Sweet Seasons,Carole King,29,9,10
+46,Now Run And Tell That,Denise LaSalle,46,46,9
+47,Chantilly Lace,Jerry Lee Lewis,50,47,5
+48,Heartbroken Bopper,The Guess Who,52,48,5
+49,Afro-Strut,The Nite-Liters,54,49,6
+50,Son Of My Father,Giorgio,55,50,5
+51,Jump Into The Fire,Nilsson,64,51,3
+52,Joy,Apollo featuring Tom Parker,27,6,14
+53,Rock And Roll,Led Zeppelin,63,53,3
+54,"You Want It, You Got It",Detroit Emeralds ,51,36,13
+55,Taxi,Harry Chapin,75,55,4
+56,American Pie (Parts I & II),Don McLean,22,1,19
+57,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",85,57,4
+58,Don't Say You Don't Remember,Beverly Bremers,30,15,16
+59,Help Me Make It Through The Night,Gladys Knight And The Pips,74,59,2
+60,Money Runner,Quincy Jones,62,60,4
+61,Run Run Run,Jo Jo Gunne,80,61,3
+62,Be My Lover,Alice Cooper,72,62,4
+63,Waking Up Alone,Paul Williams,66,63,7
+64,Louisianna,Mike Kennedy,67,64,5
+65,Hot Rod Lincoln,Commander Cody & His Lost Planet Airmen,98,65,2
+66,Cheer,Potliquor,65,65,9
+67,Let's Stay Together,Isaac Hayes,-1,67,1
+68,Goin' Down (On The Road To L.A.),Terry Black & Laurel Ward,57,57,8
+69,Iron Man,Black Sabbath,58,52,10
+70,Living Without You,Manfred Mann's Earth Band,70,70,6
+71,Josie,Kris Kristofferson,92,71,4
+72,Pool Of Bad Luck,Joe Simon,89,72,2
+73,Nice To Be With You,Gallery,82,73,6
+74,Your Precious Love,Linda Jones,83,74,6
+75,Lay-Away,The Isley Brothers,-1,75,1
+76,Since I Fell For You,Laura Lee,77,76,5
+77,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,-1,77,1
+78,Morning Has Broken,Cat Stevens,-1,78,1
+79,Hearsay,The Soul Children,87,79,3
+80,You Could Have Been A Lady,April Wine,94,80,2
+81,I Had It All The Time,Tyrone Davis,86,81,2
+82,Legend In Your Own Time,Carly Simon,90,82,2
+83,Cotton Jenny,Anne Murray,-1,83,1
+84,Nutrocker,"Emerson, Lake & Palmer",88,84,3
+85,Ask Me What You Want,Millie Jackson,99,85,2
+86,Walk In The Night,Jr. Walker & The All Stars,-1,86,1
+87,Jambalaya (On The Bayou),Nitty Gritty Dirt Band,-1,87,1
+88,Back Off Boogaloo,Ringo Starr,-1,88,1
+89,Mister Can't You See,Buffy Sainte-Marie,-1,89,1
+90,Am I Losing You,The Partridge Family Starring Shirley Jones Featuring David Cassidy,-1,90,1
+91,Rockin' With The King,Canned Heat,93,91,3
+92,To Get To You,Jerry Wallace,96,92,3
+93,You Are The One,Sugar Bears,95,93,4
+94,Jubilation,Paul Anka,100,94,2
+95,All His Children,Charley Pride with Henry Mancini,-1,95,1
+96,Everything Good Is Bad,100 Proof Aged in Soul,-1,96,1
+97,Walkin' In The Rain With The One I Love,Love Unlimited,-1,97,1
+98,Simple Song Of Freedom,Buckwheat,-1,98,1
+99,School Teacher,Kenny Rogers & The First Edition,-1,99,1
+100,Sylvia's Mother,Dr. Hook And The Medicine Show,-1,100,1

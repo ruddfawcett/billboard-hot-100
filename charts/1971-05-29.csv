@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Brown Sugar,The Rolling Stones,3,1,5
+2,Joy To The World,Three Dog Night,1,1,12
+3,Never Can Say Goodbye,Jackson 5,2,2,9
+4,Want Ads,The Honey Cone,6,4,8
+5,It Don't Come Easy,Ringo Starr,8,5,5
+6,Put Your Hand In The Hand,Ocean,4,2,12
+7,Bridge Over Troubled Water/Brand New Me,Aretha Franklin,7,7,7
+8,Sweet And Innocent,Donny Osmond of The Osmonds,13,8,10
+9,Me And You And A Dog Named Boo,Lobo,5,5,9
+10,Chick-A-Boom (Don't Ya Jes' Love It),Daddy Dewdrop,10,9,13
+11,Rainy Days And Mondays,Carpenters,20,11,3
+12,Love Her Madly,The Doors,11,11,8
+13,If,Bread,9,4,10
+14,Superstar,Murray Head With The Trinidad Singers,15,14,27
+15,I Don't Know How To Love Him,Helen Reddy,17,15,15
+16,Here Comes The Sun,Richie Havens,16,16,11
+17,Stay Awhile,The Bells,12,7,13
+18,I'll Meet You Halfway,The Partridge Family Starring Shirley Jones Featuring David Cassidy,27,18,4
+19,Treat Her Like A Lady,Cornelius Brothers & Sister Rose,24,19,8
+20,Toast And Marmalade For Tea,Tin Tin,25,20,9
+21,It's Too Late/I Feel The Earth Move,Carole King,38,21,4
+22,Don't Knock My Love - Pt. 1,Wilson Pickett,29,22,6
+23,Woodstock,Matthews' Southern Comfort,23,23,13
+24,Right On The Tip Of My Tongue,Brenda & The Tabulations,26,24,9
+25,I Don't Blame You At All,Smokey Robinson & The Miracles,22,18,11
+26,(For God's Sake) Give More Power To The People,The Chi-lites,28,26,8
+27,Nathan Jones,The Supremes,40,27,4
+28,I Love You For All Seasons,The Fuzz,21,21,19
+29,Reach Out I'll Be There,Diana Ross,30,29,5
+30,Timothy,The Buoys,19,17,16
+31,The Drum,Bobby Sherman,34,31,5
+32,"When You're Hot, You're Hot",Jerry Reed,42,32,4
+33,Cool Aid,Paul Humphrey & His Cool Aid Chemists,33,33,12
+34,Me And My Arrow,Nilsson,35,34,11
+35,I Don't Know How To Love Him,Yvonne Elliman,37,35,6
+36,What's Going On,Marvin Gaye,18,2,15
+37,Power To The People,John Lennon/Plastic Ono Band Yoko Ono/Plastic Ono Band,31,11,9
+38,Indian Reservation (The Lament Of The Cherokee Reservation Indian),The Raiders,43,38,8
+39,Double Lovin',The Osmonds,53,39,3
+40,Lowdown,Chicago,41,40,4
+41,I Am...I Said/Done Too Soon,Neil Diamond,14,4,10
+42,Albert Flasher/Broken,The Guess Who,46,42,7
+43,That's The Way I've Always Heard It Should Be,Carly Simon,44,43,7
+44,Funky Nassau-Part I,The Beginning Of The End,52,44,4
+45,She's Not Just Another Woman,The 8th Day,50,45,3
+46,Cry Baby,Janis Joplin,49,46,3
+47,Booty Butt,The Ray Charles Orchestra,36,36,11
+48,I Won't Mention It Again,Ray Price,54,42,11
+49,13 Questions,Seatrain,51,49,9
+50,I Cried,James Brown,59,50,4
+51,Never Can Say Goodbye,Isaac Hayes,65,51,3
+52,Melting Pot,Booker T. & The MG's,45,45,11
+53,Ajax Liquor Store,Hudson and Landry,63,53,6
+54,Feelin' Alright,Grand Funk Railroad,58,54,5
+55,L.A. International Airport,Susan Raye,57,55,7
+56,House At Pooh Corner,Nitty Gritty Dirt Band,61,56,6
+57,Puppet Man/Resurrection Shuffle,Tom Jones,88,57,2
+58,High Time We Went/Black-Eyed Blues,Joe Cocker,79,58,2
+59,Spinning Around (I Must Be Falling In Love),The Main Ingredient,74,59,4
+60,Life/Only Believe,Elvis Presley,69,60,3
+61,The Court Room,Clarence Carter,62,61,4
+62,Light Sings,The 5th Dimension,82,62,2
+63,Layla,Derek & The Dominos,56,51,10
+64,Tarkio Road,Brewer And Shipley,87,64,3
+65,Lucky Man,"Emerson, Lake & Palmer",60,48,12
+66,Brownsville,Joy Of Cooking,68,66,6
+67,Bad Water,The Raelettes,67,58,12
+68,Here Comes That Rainy Day Feeling Again,The Fortunes,70,68,3
+69,Help Me Make It Through The Night,Joe Simon,76,69,3
+70,"Take Me Home, Country Roads",John Denver,73,70,6
+71,I'll Erase Away Your Pain,Whatnauts,72,71,7
+72,Don't Pull Your Love,"Hamilton, Joe Frank & Reynolds",90,72,2
+73,Funky Music Sho Nuff Turns Me On,Edwin Starr,64,64,6
+74,Can't Find The Time,Rose Colored Glass,83,74,8
+75,You're My Man,Lynn Anderson,80,75,3
+76,Your Love (Means Everything to Me),Charles Wright And The Watts 103rd Street Rhythm Band,78,76,3
+77,"Try Some, Buy Some",Ronnie Spector,77,77,4
+78,Red Eye Blues,Red Eye,84,78,6
+79,What You See Is What You Get,Stoney & Meatloaf,98,79,2
+80,Wholesale Love,Buddy Miles,97,80,3
+81,Ooh Poo Pah Doo,Ike & Tina Turner,86,81,3
+82,Hot Love,T. Rex,85,82,4
+83,Get It On,Chase,96,83,2
+84,Sea Cruise,Johnny Rivers,91,84,4
+85,Flim Flam Man,Barbra Streisand,89,85,3
+86,And I Love You So,Bobby Goldsboro,93,86,4
+87,Never Ending Song Of Love,Delaney & Bonnie & Friends,94,87,2
+88,Follow Me,Mary Travers,95,88,2
+89,Walk Away,The James Gang,-1,89,1
+90,It's So Hard For Me To Say Good-Bye,Eddie Kendricks,-1,90,1
+91,I Don't Wanna Lose You,Johnnie Taylor,92,91,2
+92,Mr. Big Stuff,Jean Knight,-1,92,1
+93,I Know I'm In Love,Chee-Chee & Peppy,-1,93,1
+94,Your Love Is So Doggone Good,The Whispers,-1,94,1
+95,California Earthquake,Norman Greenbaum,99,95,3
+96,Signs,Five Man Electrical Band,-1,96,1
+97,I've Found Someone Of My Own,The Free Movement,100,97,2
+98,If Not For You,Olivia Newton-John,-1,98,1
+99,Love's Made A Fool Of You,Cochise,-1,99,1
+100,Love Means (You Never Have To Say You're Sorry),Sounds Of Sunshine,-1,100,1

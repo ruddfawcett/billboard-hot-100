@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Private Eyes,Daryl Hall John Oates,1,1,12
+2,Start Me Up,The Rolling Stones,2,2,13
+3,Physical,Olivia Newton-John,14,3,7
+4,Waiting For A Girl Like You,Foreigner,10,4,6
+5,Tryin' To Live My Life Without You,Bob Seger,5,5,10
+6,The Night Owls,Little River Band,6,6,13
+7,Here I Am (Just When I Thought I Was Over You),Air Supply,9,7,8
+8,I've Done Everything For You,Rick Springfield,8,8,13
+9,Arthur's Theme (Best That You Can Do),Christopher Cross,3,1,14
+10,The Theme From Hill Street Blues, Mike Post featuring Larry Carlton,12,10,13
+11,When She Was My Girl,Four Tops,11,11,14
+12,Every Little Thing She Does Is Magic,The Police,19,12,8
+13,Oh No,Commodores,16,13,8
+14,Why Do Fools Fall In Love,Diana Ross,21,14,5
+15,We're In This Love Together,Al Jarreau,15,15,16
+16,For Your Eyes Only,Sheena Easton,4,4,17
+17,Just Once,Quincy Jones Featuring James Ingram,18,17,14
+18,The Old Songs,Barry Manilow,20,18,6
+19,Young Turks,Rod Stewart,25,19,5
+20,Hard To Say,Dan Fogelberg,7,7,12
+21,Endless Love,Diana Ross & Lionel Richie,13,1,19
+22,Say Goodbye To Hollywood,Billy Joel,17,17,10
+23,Let's Groove,"Earth, Wind & Fire",29,23,7
+24,Trouble,Lindsey Buckingham,30,24,4
+25,Leather And Lace,Stevie Nicks With Don Henley,31,25,4
+26,Sausalito Summernight,Diesel,28,26,10
+27,Harden My Heart,Quarterflash,33,27,5
+28,Don't Stop Believin',Journey,40,28,3
+29,Take My Heart (You Can Have It If You Want It),Kool & The Gang,37,29,5
+30,Our Lips Are Sealed,Go-Go's,35,30,12
+31,"My Girl (Gone, Gone, Gone)",Chilliwack,34,31,8
+32,No Reply At All,Genesis,36,32,8
+33,The Sweetest Thing (I've Ever Known),Juice Newton,39,33,5
+34,Yesterday's Songs,Neil Diamond,51,34,2
+35,Step By Step,Eddie Rabbitt,22,5,17
+36,Heart Like A Wheel,The Steve Miller Band,50,36,3
+37,Never Too Much,Luther Vandross,41,37,6
+38,Share Your Love With Me,Kenny Rogers,23,14,11
+39,Steal The Night,Stevie Woods,43,39,10
+40,"I Want You, I Need You",Chris Christian,44,40,7
+41,Super Freak (Part I),Rick James,24,16,15
+42,"She's A Bad Mama Jama (She's Built, She's Stacked)",Carl Carlton,26,22,13
+43,Atlanta Lady (Something About Your Love),Marty Balin,27,27,9
+44,Poor Man's Son,Survivor,48,44,5
+45,Stop Draggin' My Heart Around,Stevie Nicks With Tom Petty And The Heartbreakers,32,3,17
+46,Promises In The Dark,Pat Benatar,38,38,7
+47,One More Night,Streek,47,47,6
+48,Twilight, Electric Light Orchestra,55,48,4
+49,Turn Your Love Around,George Benson,62,49,4
+50,Centerfold,The J. Geils Band,70,50,2
+51,Magic Power,Triumph,54,51,7
+52,I Wouldn't Have Missed It For The World,Ronnie Milsap,65,52,4
+53,Who's Crying Now,Journey,42,4,18
+54,Bet Your Heart On Me,Johnny Lee,57,54,6
+55,When She Dances,Joey Scarbury,49,49,6
+56,Alien,Atlanta Rhythm Section,45,29,12
+57,Urgent,Foreigner,46,4,20
+58,Hold On Tight,Electric Light Orchestra,52,10,17
+59,I Can't Go For That (No Can Do),Daryl Hall John Oates,-1,59,1
+60,Mistaken Identity,Kim Carnes,63,60,4
+61,In The Dark,Billy Squier,53,35,10
+62,Comin' In And Out Of Your Life,Barbra Streisand,-1,62,1
+63,Hooked On Classics,Royal Philharmonic Orchestra,74,63,3
+64,I'm Just Too Shy,Jermaine Jackson,72,64,3
+65,Wrack My Brain,Ringo Starr,79,65,2
+66,Under Pressure,Queen & David Bowie,80,66,2
+67,"Pay The Devil (Ooo, Baby, Ooo)",The Knack,69,67,3
+68,Castles In The Air,Don McLean,78,68,3
+69,Cool Night,Paul Davis,83,69,2
+70,More Than Just The Two Of Us,Sneaker,81,70,3
+71,I Surrender,Arlan Day,71,71,5
+72,La La Means I Love You,Tierra,76,72,4
+73,The Cowboy And The Lady,John Denver,73,73,3
+74,Controversy,Prince,77,74,4
+75,Living Eyes,Bee Gees,84,75,2
+76,Someone Could Lose A Heart Tonight,Eddie Rabbitt,-1,76,1
+77,Talking Out Of Turn,The Moody Blues,88,77,2
+78,I Could Never Miss You (More Than I Do),Lulu,56,18,16
+79,Working For The Weekend,Loverboy,-1,79,1
+80,Queen Of Hearts,Juice Newton,58,2,25
+81,The Voice,The Moody Blues,59,15,15
+82,You Saved My Soul,Burton Cummings,60,37,10
+83,Sweet Merilee,Donnie Iris,87,83,3
+84,The Beach Boys Medley,The Beach Boys,61,12,17
+85,Destroyer,The Kinks,90,85,3
+86,Key Largo,Bertie Higgins,-1,86,1
+87,Working In The Coal Mine,Devo,64,43,11
+88,It's All I Can Do,Anne Murray,66,53,8
+89,I Heard It Through The Grapevine (Part 1),Roger,91,89,2
+90,Love In The First Degree,Alabama,-1,90,1
+91,Walking Into Sunshine,Central Line,-1,91,1
+92,Snap Shot,Slave,94,92,4
+93,Snake Eyes,The Alan Parsons Project,67,67,5
+94,Slip Away,Pablo Cruise,75,75,5
+95,The Jam Was Moving,Debbie Harry,82,82,3
+96,Burnin' For You,Blue Oyster Cult,85,40,14
+97,He's A Liar,Bee Gees,86,30,8
+98,Lady (You Bring Me Up),Commodores,89,8,22
+99,A Lucky Guy,Rickie Lee Jones,92,64,7
+100,Heavy Metal (Takin' A Ride),Don Felder,93,43,17

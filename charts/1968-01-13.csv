@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hello Goodbye,The Beatles,1,1,7
+2,Judy In Disguise (With Glasses),John Fred And The Playboys,3,2,8
+3,Daydream Believer,The Monkees,2,1,9
+4,"Woman, Woman",The Union Gap Featuring Gary Puckett,5,4,9
+5,I Heard It Through The Grapevine,Gladys Knight And The Pips,4,2,13
+6,Chain Of Fools,Aretha Franklin,7,6,6
+7,"Bend Me, Shape Me",The American Breed,8,7,7
+8,I Second That Emotion,Smokey Robinson & The Miracles,6,4,11
+9,Green Tambourine,The Lemon Pipers,12,9,5
+10,Skinny Legs And All,Joe Tex,10,10,12
+11,Honey Chile,Martha Reeves & The Vandellas,11,11,9
+12,Boogaloo Down Broadway,The Fantastic Johnny C,9,7,15
+13,If I Could Build My Whole World Around You,Marvin Gaye & Tammi Terrell,13,13,7
+14,Different Drum,Stone Poneys Featuring Linda Ronstadt,18,14,10
+15,Monterey,Eric Burdon & The Animals,24,15,5
+16,Susan,The Buckinghams,21,16,6
+17,Summer Rain,Johnny Rivers,14,14,9
+18,Nobody But Me,The Human Beinz,35,18,6
+19,Who Will Answer?,Ed Ames,27,19,5
+20,It's Wonderful,The Young Rascals,25,20,6
+21,You Better Sit Down Kids,Cher,16,9,12
+22,Next Plane To London,The Rose Garden,17,17,13
+23,Spooky,Classics IV,47,23,4
+24,Come See About Me,Jr. Walker & The All Stars,29,24,8
+25,Love Me Two Times,The Doors,30,25,6
+26,My Baby Must Be A Magician,The Marvelettes,40,26,5
+27,Love Power,The Sandpebbles,32,27,8
+28,Tell Mama,Etta James,28,28,10
+29,Goin' Out Of My Head/Can't Take My Eyes Off You,The Lettermen,38,29,6
+30,Am I That Easy To Forget,Engelbert Humperdinck,39,30,5
+31,Two Little Kids,Peaches & Herb,41,31,5
+32,Itchycoo Park,Small Faces,43,32,10
+33,I Can't Stand Myself (When You Touch Me),James Brown And The Famous Flames,33,33,6
+34,Best Of Both Worlds,Lulu,37,34,5
+35,She's My Girl,The Turtles,26,14,10
+36,She's A Rainbow,The Rolling Stones,48,36,3
+37,Incense And Peppermints,Strawberry Alarm Clock,15,1,16
+38,"Baby, Now That I've Found You",The Foundations,52,38,4
+39,Darlin',The Beach Boys,53,39,4
+40,And Get Away,The Esquires,22,22,8
+41,"The Rain, The Park & Other Things",The Cowsills,19,2,16
+42,I Say A Little Prayer,Dionne Warwick,20,4,13
+43,Explosion (In Your Soul),Soul Survivors,54,43,4
+44,Everybody Knows,The Dave Clark Five,49,44,5
+45,The Other Man's Grass Is Always Greener,Petula Clark,31,31,7
+46,I Wonder What She's Doing Tonite,Tommy Boyce & Bobby Hart,60,46,4
+47,Skip A Rope,Henson Cargill,57,47,4
+48,The Lesson,Vikki Carr,59,48,4
+49,To Give (The Reason I Live),Frankie Valli,62,49,3
+50,Dear Eloise,The Hollies,50,50,7
+51,Tomorrow,Strawberry Alarm Clock,63,51,3
+52,Just As Much As Ever,Bobby Vinton,67,52,3
+53,I'm In Love,Wilson Pickett,45,45,7
+54,Storybook Children,Billy Vera & Judy Clay,56,54,7
+55,Windy,Wes Montgomery,44,44,8
+56,I Wish It Would Rain,The Temptations,-1,56,1
+57,Good Combination,Sonny & Cher,58,57,5
+58,I'm Coming Home,Tom Jones,64,58,3
+59,In The Misty Moonlight,Dean Martin,46,46,7
+60,Some Velvet Morning,Nancy Sinatra & Lee Hazlewood,72,60,2
+61,Bottle Of Wine,The Fireballs,79,61,3
+62,Dancing Bear,The Mamas & The Papas,51,51,6
+63,Lost,Jerry Butler,78,63,3
+64,No Sad Songs,Joe Simon,82,64,2
+65,Zabadak,"Dave Dee, Dozy, Beaky, Mick And Tich",83,65,2
+66,Sunday Mornin',Spanky And Our Gang,86,66,2
+67,Foxey Lady,Jimi Hendrix,75,67,4
+68,Pick Up The Pieces,Carla Thomas,76,68,3
+69,We're A Winner,The Impressions,84,69,3
+70,Money,The Lovin' Spoonful,85,70,2
+71,Up-Up And Away, Hugh Masekela,74,71,6
+72,"Oh, How It Hurts",Barbara Mason,94,72,4
+73,Back Up Train,Al Greene & The Soul Mate's,73,73,6
+74,Sunshine Of Your Love,Cream,-1,74,1
+75,I'll Be Sweeter Tomorrow (Than I Was Today),The O'Jays,66,66,8
+76,A Working Man's Prayer,Arthur Prysock,81,76,2
+77,I Was Made To Love Her,King Curtis & The Kingpins,77,77,3
+78,Cover Me,Percy Sledge,42,42,8
+79,New Orleans,Neil Diamond,98,79,2
+80,A Voice In The Choir,Al Martino,80,80,6
+81,We Can Fly,The Cowsills,-1,81,1
+82,I Can Take Or Leave Your Loving,Herman's Hermits,-1,82,1
+83,You,Marvin Gaye,-1,83,1
+84,Love Is Blue (L'amour Est Bleu),Paul Mauriat And His Orchestra,99,84,2
+85,Do Unto Me,James & Bobby Purify,-1,85,1
+86,Carmen,Herb Alpert & The Tijuana Brass,-1,86,1
+87,In Another Land,Bill Wyman,87,87,5
+88,Mission-Impossible,Lalo Schifrin,90,88,2
+89,Cross My Heart,Billy Stewart,89,89,7
+90,A Man Needs A Woman,James Carr,97,90,2
+91,United (Part 1),The Music Makers,91,91,3
+92,Mellow Moonlight,Leon Haywood,92,92,3
+93,A Little Rain Must Fall,The Epic Splendor,93,93,5
+94,Born Free,The Hesitations,100,94,2
+95,"Up Tight, Good Man",Laura Lee,95,95,4
+96,Without Love (There Is Nothing),"Oscar Toney, Jr.",-1,96,1
+97,(1-2-3-4-5-6-7) Count The Days,Inez & Charlie Foxx,-1,97,1
+98,Let The Heartaches Begin,Long John Baldry,-1,98,1
+99,Expecting To Fly,The Buffalo Springfield,-1,99,1
+100,Funky Way,Calvin Arnold,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Can Help,Billy Swan,6,1,9
+2,Do It ('til You're Satisfied),B.T. Express,2,2,9
+3,My Melody Of Love,Bobby Vinton,3,3,10
+4,Tin Man,America,4,4,14
+5,Longfellow Serenade,Neil Diamond,7,5,8
+6,Everlasting Love,Carl Carlton,9,6,10
+7,Kung Fu Fighting,Carl Douglas,27,7,7
+8,When Will I See You Again, The Three Degrees,16,8,9
+9,Back Home Again,John Denver,5,5,10
+10,Cat's In The Cradle,Harry Chapin,22,10,8
+11,The Need To Be,Jim Weatherly,13,11,11
+12,Whatever Gets You Thru The Night,John Lennon With The Plastic Ono Nuclear Band,1,1,9
+13,I've Got The Music In Me,The Kiki Dee Band,17,13,11
+14,Angie Baby,Helen Reddy,20,14,6
+15,Wishing You Were Here,Chicago,19,15,6
+16,Life Is A Rock (But The Radio Rolled Me),Reunion,8,8,12
+17,Sha-La-La (Make Me Happy),Al Green,21,17,9
+18,Rockin' Soul,The Hues Corporation ,18,18,7
+19,Jazzman,Carole King,11,2,13
+20,You Got The Love,Rufus Featuring Chaka Khan,26,20,7
+21,So You Are A Star,The Hudson Brothers,23,21,10
+22,People Gotta Move,Gino Vannelli,24,22,10
+23,Promised Land,Elvis Presley,29,23,5
+24,After The Goldrush,Prelude,25,24,8
+25,Touch Me,Fancy,31,25,7
+26,Fairytale,The Pointer Sisters,32,26,8
+27,"You're The First, The Last, My Everything",Barry White,36,27,4
+28,Junior's Farm/Sally G,Paul McCartney And Wings,43,28,3
+29,I Feel A Song (In My Heart)/Don't Burn Down The Bridge,Gladys Knight And The Pips,37,29,7
+30,La La Peace Song,Al Wilson,30,30,8
+31,Love Don't Love Nobody - Pt. I,The Spinners,15,15,10
+32,Laughter In The Rain,Neil Sedaka,39,32,6
+33,Ain't Too Proud To Beg,The Rolling Stones,40,33,3
+34,You Ain't Seen Nothing Yet/Free Wheelin',Bachman-Turner Overdrive,12,1,10
+35,"Fire, Baby I'm On Fire",Andy Kim,54,35,5
+36,Three Ring Circus,Blue Magic,44,36,6
+37,Woman To Woman,Shirley Brown,45,37,4
+38,Must Of Got Lost,The J. Geils Band,51,38,3
+39,Let's Straighten It Out,Latimore,47,39,5
+40,Willie And The Hand Jive,Eric Clapton,48,40,4
+41,Heavy Fallin' Out,The Stylistics,42,41,6
+42,Carefree Highway,Gordon Lightfoot,10,10,13
+43,Ride 'em Cowboy,Paul Davis,49,43,7
+44,The Bitch Is Back,Elton John,14,4,12
+45,You Haven't Done Nothin,Stevie Wonder,28,1,17
+46,Play Something Sweet (Brickyard Blues),Three Dog Night,33,33,9
+47,"Whatever You Got, I Want",Jackson 5,57,47,5
+48,You Can Have Her,Sam Neely,34,34,10
+49,One Man Woman/One Woman Man,Paul Anka with Odia Coates,61,49,3
+50,Bungle In The Jungle,Jethro Tull,60,50,4
+51,Boogie On Reggae Woman,Stevie Wonder,62,51,2
+52,Ask Me,"Ecstasy, Passion & Pain",52,52,6
+53,Only You,Ringo Starr,63,53,2
+54,Dream On,The Righteous Brothers,64,54,3
+55,The Heartbreak Kid,Bo Donaldson And The Heywoods,65,55,2
+56,Never Can Say Goodbye,Gloria Gaynor,69,56,4
+57,Mandy,Barry Manilow,67,57,2
+58,Nobody,The Doobie Brothers,58,58,4
+59,You And I,Johnny Bristol,68,59,2
+60,Someday,Dave Loggins ,71,60,2
+61,Sugar Pie Guy Pt. 1,The Joneses,50,50,8
+62,The Black-Eyed Boys,Paper Lace,41,41,7
+63,Morning Side Of The Mountain,Donny & Marie Osmond,74,63,2
+64,She's Gone,Tavares,72,64,8
+65,Without Love,Aretha Franklin,77,65,2
+66,Overnight Sensation (Hit Record),Raspberries,38,18,11
+67,Black Lassie (Featuring Johnny Stash),Cheech & Chong,78,67,3
+68,Early Morning Love,Sammy Johns,70,68,7
+69,Dark Horse,George Harrison,-1,69,1
+70,Mississippi Cotton Picking Delta Town,Charley Pride,75,70,2
+71,Give Me A Reason To Be Gone,Maureen McGovern,73,71,6
+72,Evil Boll-weevil,Grand Canyon,76,72,4
+73,Funky President (People It's Bad)/Coldblooded,James Brown,83,73,3
+74,Sexy Ida (Part 1),Ike & Tina Turner,80,74,4
+75,Shoe Shoe Shine,Dynamic Superiors,81,75,4
+76,California My Way,The Main Ingredient,82,76,2
+77,Please Mr. Postman,Carpenters,-1,77,1
+78,I Feel Sanctified,Commodores,84,78,2
+79,Do It Baby,The Miracles,53,13,14
+80,Where Are All My Friends,Harold Melvin And The Blue Notes,85,80,3
+81,Dancin' Fool,The Guess Who,-1,81,1
+82,Sunshine Roses,Gene Cotton,92,82,2
+83,Then Came You,Dionne Warwicke & Spinners,79,1,18
+84,Ride The Tiger,Jefferson Starship,91,84,2
+85,I'll Be Your Everything,Percy Sledge,96,85,2
+86,U.S. Of A,Donna Fargo,90,86,3
+87,Free Bird,Lynyrd Skynyrd,-1,87,1
+88,Let This Be A Lesson To You,The Independents,94,88,2
+89,Doraville,Atlanta Rhythm Section,35,35,8
+90,Get Dancin',Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III,-1,90,1
+91,Dreams Are Ten A Penny,The First Class,-1,91,1
+92,"Ruby, Baby","Billy ""Crash"" Craddock",-1,92,1
+93,Distant Lover,Marvin Gaye,55,28,9
+94,My Eyes Adored You,Frankie Valli,-1,94,1
+95,I Wouldn't Treat A Dog (The Way You Treated Me),Bobby Bland,-1,95,1
+96,Stop And Smell The Roses,Mac Davis,56,9,14
+97,In The Bottle,Brother To Brother,46,46,7
+98,Can't Get Enough,Bad Company,59,5,15
+99,Love Me For A Reason,The Osmonds,89,10,13
+100,I Honestly Love You,Olivia Newton-John,100,1,15

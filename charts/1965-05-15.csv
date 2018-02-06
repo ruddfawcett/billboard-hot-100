@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Mrs. Brown You've Got A Lovely Daughter,Herman's Hermits,1,1,5
+2,Count Me In,Gary Lewis And The Playboys,2,2,7
+3,Ticket To Ride,The Beatles,3,3,4
+4,I'll Never Find Another You,The Seekers,5,4,8
+5,Silhouettes,Herman's Hermits,7,5,7
+6,"Help Me, Rhonda",The Beach Boys,21,6,5
+7,I Know A Place,Petula Clark,6,3,9
+8,I'll Be Doggone,Marvin Gaye,11,8,9
+9,Just Once In My Life,The Righteous Brothers,12,9,6
+10,Wooly Bully,Sam The Sham and the Pharaohs,14,10,7
+11,Game Of Love,Wayne Fontana & The Mindbenders,4,1,9
+12,Cast Your Fate To The Wind,Sounds Orchestral,10,10,9
+13,Baby The Rain Must Fall,Glenn Yarbrough,18,13,10
+14,One Kiss For Old Times' Sake,Ronnie Dove,15,14,10
+15,Back In My Arms Again,The Supremes,38,15,3
+16,Ooo Baby Baby,The Miracles,16,16,8
+17,It's Not Unusual,Tom Jones,22,17,6
+18,It's Growing,The Temptations,20,18,7
+19,The Last Time,The Rolling Stones,9,9,8
+20,Crying In The Chapel,Elvis Presley With The Jordanaires,39,20,4
+21,She's About A Mover,Sir Douglas Quintet,27,21,7
+22,Iko Iko,The Dixie Cups,25,22,7
+23,It's Gonna Be Alright,Gerry And The Pacemakers,23,23,6
+24,Just A Little,The Beau Brummels,35,24,5
+25,We're Gonna Make It,Little Milton,28,25,8
+26,I Do Love You,Billy Stewart,26,26,8
+27,True Love Ways,Peter And Gordon,32,27,5
+28,Reelin' And Rockin',The Dave Clark Five,33,28,5
+29,Dream On Little Dreamer,Perry Como,34,29,6
+30,Queen Of The House,Jody Miller,46,30,4
+31,Tired Of Waiting For You,The Kinks,13,6,10
+32,You Were Made For Me,Freddie And The Dreamers,47,32,3
+33,Land Of 1000 Dances,Cannibal And The Headhunters,37,30,12
+34,Woman's Got Soul,The Impressions,29,29,7
+35,Do The Freddie,Freddie And The Dreamers,45,35,4
+36,The Entertainer,Tony Clarke,31,31,8
+37,Go Now!,The Moody Blues,19,10,13
+38,I'm Telling You Now,Freddie And The Dreamers,8,1,10
+39,Subterranean Homesick Blues,Bob Dylan,44,39,7
+40,The Clapping Song (Clap Pat Clap Slap),Shirley Ellis,17,8,9
+41,Shotgun,Jr. Walker & The All Stars,24,4,14
+42,Let's Do The Freddie, Chubby Checker,48,42,7
+43,......And Roses And Roses,Andy Williams,36,36,7
+44,It's Got The Whole World Shakin',Sam Cooke,41,41,6
+45,Nothing Can Stop Me,Gene Chandler,58,45,5
+46,Yes It Is,The Beatles,57,46,3
+47,Engine Engine #9,Roger Miller,78,47,2
+48,Crazy Downtown,Allan Sherman,40,40,8
+49,Last Chance To Turn Around,Gene Pitney,73,49,2
+50,L-O-N-E-L-Y,Bobby Vinton,76,50,2
+51,What Do You Want With Me,Chad & Jeremy,55,51,6
+52,You Were Only Fooling (While I Was Falling In Love),Vic Damone ,66,52,5
+53,"Hush, Hush, Sweet Charlotte",Patti Page,61,53,4
+54,Now That You've Gone,Connie Stevens,62,54,4
+55,Goodbye My Lover Goodbye,The Searchers,52,52,7
+56,Three O'Clock In The Morning,Bert Kaempfert And His Orchestra,71,56,3
+57,Think Of The Good Times,Jay & The Americans,60,57,8
+58,(The Bees Are For The Birds) The Birds Are For The Bees,The Newbeats,50,50,7
+59,A Woman Can Change A Man,Joe Tex,56,56,6
+60,She's Coming Home,The Zombies,63,58,6
+61,Concrete And Clay,Unit Four plus Two,80,61,3
+62,Al's Place,Al (He's the King) Hirt,67,62,5
+63,Concrete And Clay,Eddie Rambeau,83,63,3
+64,Something You Got,Chuck Jackson & Maxine Brown,72,64,4
+65,Before And After,Chad & Jeremy,-1,65,1
+66,Bring It On Home To Me,The Animals,-1,66,1
+67,I Can't Help Myself (Sugar Pie Honey Bunch),Four Tops ,-1,67,1
+68,Super-cali-fragil-istic-expi-ali-docious,Julie Andrews-Dick Van Dyke,74,68,4
+69,Come On Over To My Place,The Drifters,75,69,4
+70,A Walk In The Black Forest,Horst Jankowski,90,70,2
+71,Wishing It Was You,Connie Francis,79,71,3
+72,Voodoo Woman,Bobby Goldsboro,84,72,3
+73,Boo-Ga-Loo,Tom and Jerrio,82,73,3
+74,Shakin' All Over,The Guess Who,95,74,2
+75,I Need You,Chuck Jackson,77,75,4
+76,Peanuts (La Cacahuata),The Sunglows,100,76,2
+77,Lipstick Traces (On A Cigarette),The O'Jays,89,77,2
+78,The Mouse,Soupy Sales,85,78,4
+79,"(See You At The) ""Go-Go""",Dobie Gray,69,69,7
+80,The Climb,The Kingsmen,96,80,2
+81,You Can Have Her,The Righteous Brothers,87,81,2
+82,And I Love Him,Esther Phillips,88,82,2
+83,Georgie Porgie,Jewel Akens,86,83,3
+84,For Your Love,The Yardbirds,-1,84,1
+85,Catch The Wind,Donovan,-1,85,1
+86,Good Lovin',The Olympics,91,86,3
+87,Mr. Tambourine Man,The Byrds,-1,87,1
+88,"Chim, Chim, Cheree",The New Christy Minstrels,81,81,4
+89,Gotta Have Your Love,The Sapphires,93,89,3
+90,Laurie (Strange Things Happen),Dickey Lee,-1,90,1
+91,It Ain't No Big Thing,Radiants,92,91,2
+92,Tommy,Reparata And The Delrons,99,92,2
+93,Before You Go,Buck Owens,-1,93,1
+94,Love Is A 5-Letter Word,James Phelps,94,94,2
+95,Keep On Trying,Bobby Vee,98,95,2
+96,I've Been Loving You Too Long (To Stop Now),Otis Redding,-1,96,1
+97,"Yes, I'm Ready",Barbara Mason,-1,97,1
+98,When The Ship Comes In,"Peter, Paul & Mary",-1,98,1
+99,I Do,The Marvelows,-1,99,1
+100,What's He Doing In My World,Eddy Arnold,-1,100,1

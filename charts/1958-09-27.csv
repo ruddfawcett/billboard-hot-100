@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,It's All In The Game,Tommy Edwards,3,1,7
+2,Nel Blu Dipinto Di Blu (Volaré),Domenico Modugno,1,1,9
+3,Bird Dog,The Everly Brothers,2,2,9
+4,Rock-in Robin,Bobby Day,5,4,9
+5,Little Star,The Elegants,4,1,9
+6,Tears On My Pillow,Little Anthony And The Imperials,7,6,8
+7,Susie Darlin',Robin Luke,8,7,8
+8,Summertime Blues,Eddie Cochran,11,8,9
+9,Just A Dream,Jimmy Clanton And His Rockets,6,4,9
+10,Near You,Roger Williams,12,10,7
+11,Born Too Late,Poni-Tails,9,7,9
+12,Devoted To You,The Everly Brothers,10,10,8
+13,How The Time Flies,Jerry Wallace,14,13,7
+14,Tea For Two Cha Cha,The Tommy Dorsey Orchestra,20,14,5
+15,The End,Earl Grant,49,15,3
+16,Chantilly Lace,Big Bopper,34,16,9
+17,Stupid Cupid, Connie Francis,17,17,9
+18,Carol,Chuck Berry,23,18,6
+19,My True Love,Jack Scott,13,3,9
+20,Patricia,Perez Prado And His Orchestra,15,2,9
+21,You Cheated,The Shields,31,21,6
+22,Everybody Loves A Lover,Doris Day,18,14,9
+23,Firefly,Tony Bennett,30,23,4
+24,Lazy Summer Night,The Four Preps,21,21,7
+25,"Promise Me, Love",Andy Williams,35,25,5
+26,Western Movies,The Olympics,16,8,9
+27,Down The Aisle Of Love,The Quin-Tones,22,20,7
+28,"Summertime, Summertime",The Jamies,26,26,7
+29,Are You Really Mine,Jimmie Rodgers,24,10,9
+30,No One Knows,Dion & The Belmonts,28,28,6
+31,Volare (Nel Blu Dipinto Di Blu),Dean Martin,29,15,9
+32,Treasure Of Your Love,Eileen Rodgers,45,32,6
+33,It's Only Make Believe,Conway Twitty,41,33,3
+34,Put A Ring On My Finger,Les Paul And Mary Ford,32,32,7
+35,Somebody Touched Me,Buddy Knox with the Rhythm Orchids,36,22,9
+36,Poor Little Fool,Ricky Nelson,19,1,9
+37,Win Your Love For Me,Sam Cooke,39,35,9
+38,Ramrod,Duane Eddy His Twangy Guitar And The Rebels,37,28,6
+39,Topsy II,Cozy Cole,43,39,6
+40,Fever,Peggy Lee,33,8,9
+41,She Was Only Seventeen (He Was One Year More),Marty Robbins,38,27,9
+42,Itchy Twitchy Feeling,Bobby Hendricks,57,32,9
+43,The Secret,Gordon MacRae,47,43,3
+44,La Paloma,Billy Vaughn And His Orchestra,61,26,8
+45,La-Do-Dada,Dale Hawkins,62,45,5
+46,"Gee, But It's Lonely",Pat Boone,69,46,2
+47,Willie And The Hand Jive,The Johnny Otis Show,42,9,9
+48,Fibbin',Patti Page,56,48,2
+49,Ten Commandments Of Love,Harvey & The Moonglows,46,46,3
+50,The Green Mosquito,The Tune Rockers,44,44,6
+51,Mexican Hat Rock,The Applejacks,65,51,3
+52,Break-Up,Jerry Lee Lewis And His Pumping Piano,70,52,3
+53,The Day The Rains Came,Jane Morgan,60,53,2
+54,Hideaway,The Four Esquires,81,54,2
+55,For My Good Fortune,Pat Boone,54,54,2
+56,Baby Face,Little Richard,63,56,3
+57,This Little Girl's Gone Rockin',Ruth Brown,74,57,2
+58,Over And Over,Bobby Day,48,41,9
+59,No One But You (In My Heart),The Ames Brothers,-1,59,1
+60,Pussy Cat,The Ames Brothers,-1,60,1
+61,Dance Everyone Dance,Betty Madigan,40,34,7
+62,There Goes My Heart,Joni James,51,51,3
+63,I Wish,The Platters,91,63,3
+64,Ginger Bread,Frankie Avalon,27,9,9
+65,The Ways Of A Woman In Love,Johnny Cash And The Tennessee Two,25,24,6
+66,Look Who's Blue,Don Gibson,-1,66,1
+67,You Cheated,The Slades,86,42,7
+68,Blue Ribbon Baby,Tommy Sands And The Raiders,50,50,5
+69,"Nine More Miles (The ""Faster-Faster"" Song)",Georgie Young,76,69,2
+70,Cerveza,Boots Brown And His Blockbusters,79,62,8
+71,Come Closer To Me (Acercate Mas),Nat King Cole,53,41,9
+72,When I Grow Too Old To Dream,Ed Townsend,-1,72,1
+73,Nothin' Shakin',Eddie Fontaine,93,73,2
+74,Call Me,Johnny Mathis,-1,74,1
+75,"Wendy, Wendy",The Four Coins,84,75,2
+76,"Come On, Let's Go",Ritchie Valens,77,76,2
+77,Please Don't Do It,Dale Wright And The Wright Guys With the Dons,78,77,5
+78,Betty Lou Got A New Pair Of Shoes,Bobby Freeman,75,37,9
+79,Give Myself A Party,Don Gibson,-1,79,1
+80,"To Know Him, Is To Love Him",The Teddy Bears,88,80,2
+81,If Dreams Came True,Pat Boone,82,12,9
+82,A Certain Smile,Johnny Mathis,66,22,9
+83,Tom Dooley,The Kingston Trio,-1,83,1
+84,Over The Weekend,The Playboys ,67,62,5
+85,Real Wild Child,Ivan,85,85,2
+86,When,Kalin Twins,64,5,9
+87,The Day I Died,The Playmates,-1,87,1
+88,Topsy I,Cozy Cole,71,71,3
+89,With Your Love,Jack Scott,-1,89,1
+90,Moon Talk,Perry Como,68,29,9
+91,Bullwhip Rock,Cyclones,-1,91,1
+92,Tic Toc,Lee Allen And His Band,-1,92,1
+93,We Have Love,Jackie Wilson,96,93,2
+94,You Got That Touch,Sonny James,97,94,2
+95,Your Cheatin' Heart,George Hamilton IV,83,72,4
+96,Leave Me Alone (Let Me Cry),Dicky Doo And The Don'ts,-1,96,1
+97,Many A Time,Steve Lawrence,98,97,2
+98,Early In The Morning,The Rinky-Dinks,73,24,9
+99,The Ballad Of Thunder Road,Robert Mitchum,-1,88,3
+100,Forget Me Not,Kalin Twins,-1,100,1

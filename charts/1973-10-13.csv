@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Half-Breed, Cher,1,1,11
+2,Ramblin Man,The Allman Brothers Band,7,2,8
+3,Let's Get It On,Marvin Gaye,3,1,14
+4,Higher Ground,Stevie Wonder,5,4,9
+5,Angie,The Rolling Stones,8,5,6
+6,That Lady (Part 1),The Isley Brothers,6,6,14
+7,Loves Me Like A Rock,Paul Simon (with The Dixie Hummingbirds),2,2,11
+8,Midnight Train To Georgia,Gladys Knight And The Pips,11,8,7
+9,Keep On Truckin' (Part 1),Eddie Kendricks,10,9,8
+10,We're An American Band,Grand Funk,4,1,12
+11,Yes We Can Can,The Pointer Sisters,14,11,9
+12,Heartbeat - It's A Lovebeat,The DeFranco Family featuring Tony DeFranco,23,12,6
+13,Paper Roses,Marie Osmond,25,13,5
+14,Free Ride,Edgar Winter Group,17,14,10
+15,China Grove,The Doobie Brothers,15,15,9
+16,My Maria,B.W. Stevenson,12,9,12
+17,Basketball Jones Featuring Tyrone Shoelaces,Cheech & Chong,20,17,6
+18,Delta Dawn,Helen Reddy,9,1,17
+19,All I Know,Garfunkel,29,19,5
+20,Knockin' On Heaven's Door,Bob Dylan,26,20,7
+21,"Say, Has Anybody Seen My Sweet Gypsy Rose",Dawn Featuring Tony Orlando,13,3,14
+22,Brother Louie,Stories,16,1,17
+23,Why Me,Kris Kristofferson,21,21,28
+24,Rocky Mountain Way,Joe Walsh,30,24,10
+25,Touch Me In The Morning,Diana Ross,18,1,20
+26,Space Race,Billy Preston,42,26,4
+27,You've Never Been This Far Before,Conway Twitty,22,22,10
+28,Get It Together,Jackson 5,28,28,7
+29,Hurts So Good,Millie Jackson,34,29,6
+30,In The Midnight Hour,Cross Country,31,30,9
+31,We May Never Pass This Way (Again),Seals & Crofts,41,31,4
+32,Funky Stuff,Kool & The Gang,40,32,6
+33,Summer (The First Time),Bobby Goldsboro,39,33,8
+34,Ecstasy,Ohio Players,45,34,10
+35,You're A Special Part Of Me,Diana Ross & Marvin Gaye,66,35,2
+36,Let Me In,The Osmonds,38,36,6
+37,Theme From Cleopatra Jones,Joe Simon featuring The Mainstreeters,19,18,12
+38,Jesse,Roberta Flack,44,38,4
+39,Jimmy Loves Mary-Anne,Looking Glass,33,33,13
+40,I Got A Name,Jim Croce,76,40,2
+41,Gypsy Man,War,27,8,13
+42,Saturday Night's Alright For Fighting,Elton John,24,12,11
+43,Just You 'n' Me,Chicago,56,43,3
+44,Nutbush City Limits,Ike & Tina Turner,47,44,6
+45,Stoned Out Of My Mind,The Chi-lites,43,30,11
+46,Raised On Rock/For Ol' Times Sake,Elvis Presley,46,46,4
+47,If You Want Me To Stay,Sly & The Family Stone,32,12,16
+48,(I Don't Want To Love You But) You Got Me Anyway,Sutherland Brothers And Quiver,48,48,9
+49,Such A Night,Dr. John,53,49,5
+50,The Whole Town's Laughing At Me,Teddy Pendergrass,68,50,3
+51,Here I Am Come & Take Me,Al Green,35,10,15
+52,I've Got So Much To Give,Barry White,37,32,11
+53,The Most Beautiful Girl,Charlie Rich,69,53,3
+54,Never Let You Go,Bloodstone,58,54,5
+55,Friends/chapel Of Love,Bette Midler,62,55,3
+56,Top Of The World,Carpenters,80,56,2
+57,I Can't Stand The Rain,Ann Peebles,57,57,7
+58,Rhapsody In Blue,Deodato,50,41,8
+59,Check It Out,Tavares,67,59,4
+60,Photograph,Ringo Starr,74,60,2
+61,Sister James,Nino Tempo And 5th Ave. Sax,71,61,4
+62,Outlaw Man,Eagles,64,62,5
+63,To Know You Is To Love You,B.B. King,51,38,11
+64,Hey Girl (i Like Your Style),The Temptations,49,35,9
+65,Woman From Tokyo,Deep Purple,72,65,5
+66,Ashes To Ashes,The 5th Dimension,54,52,8
+67,Loving Arms,Dobie Gray,61,61,11
+68,This Time It's Real,Tower Of Power,70,68,5
+69,Everybody's Had The Blues,Merle Haggard And The Strangers,63,62,7
+70,Evil,"Earth, Wind & Fire",65,50,11
+71,Country Sunshine,Dottie West,83,71,3
+72,Let Me Be Your Lovemaker,Betty Wright,98,72,2
+73,Ridin' My Thumb To Mexico,Johnny Rodriguez,73,73,3
+74,Blood Red And Goin' Down,Tanya Tucker,79,74,8
+75,Gotta Find A Way,The Moments,78,75,4
+76,Rubber Bullets, 10cc,77,76,5
+77,Cheaper To Keep Her,Johnnie Taylor,-1,77,1
+78,Life Ain't Easy,Dr. Hook And The Medicine Show,84,78,3
+79,West Coast Woman,Painter,89,79,3
+80,My Pretending Days Are Over,The Dells,87,80,2
+81,Ooh Baby,Gilbert O'Sullivan,-1,81,1
+82,Sweet Understanding Love,Four Tops,-1,82,1
+83,Hello It's Me,Todd Rundgren,97,83,2
+84,You'd Better Believe It,The Manhattans,85,84,4
+85,Oh! No Not My Baby,Rod Stewart,-1,85,1
+86,Roll In My Sweet Baby's Arms/I'm So Lonesome I Could Cry,Hank Wilson,86,86,2
+87,I'm Coming Home,Johnny Mathis,88,87,4
+88,Little Girl Gone,Donna Fargo,93,88,2
+89,Redneck Friend,Jackson Browne,99,89,3
+90,You're The Best Thing That Ever Happened To Me,Ray Price,92,84,8
+91,Love Is All,Engelbert Humperdinck,96,91,3
+92,Slippin' Away,Jean Shepard,81,81,5
+93,Take A Closer Look At The Woman You're With,Wilson Pickett,91,91,3
+94,"Hey, Little Girl",Foster Sylvers,95,94,2
+95,I Won't Last A Day Without You,Maureen McGovern,-1,95,1
+96,Farewell Andromeda (Welcome To My Morning),John Denver,94,89,5
+97,Tonight,Raspberries,82,69,7
+98,Stealin',Uriah Heep,-1,98,1
+99,"""Having A Party"" Medley",The Ovations (Featuring Louis Williams),-1,99,1
+100,Kid Stuff,Barbara Fairchild,-1,95,4

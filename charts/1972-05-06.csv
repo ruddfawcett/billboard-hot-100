@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The First Time Ever I Saw Your Face,Roberta Flack,1,1,10
+2,I Gotcha,Joe Tex,3,2,16
+3,"Betcha By Golly, Wow","The Stylistics Featuring Russell Thompkins,Jr.",4,3,11
+4,Rockin' Robin,Michael Jackson,2,2,9
+5,Day Dreaming,Aretha Franklin,6,5,8
+6,A Horse With No Name,America,5,1,12
+7,I'll Take You There,The Staple Singers,18,7,5
+8,Doctor My Eyes,Jackson Browne,9,8,8
+9,Look What You Done For Me,Al Green,10,9,6
+10,Back Off Boogaloo,Ringo Starr,11,10,6
+11,Oh Girl,The Chi-lites,16,11,5
+12,The Family Of Man,Three Dog Night,12,12,7
+13,"Vincent (Starry, Starry Night)/Castles In The Air",Don McLean,13,13,8
+14,Baby Blue,Badfinger,14,14,7
+15,In The Rain,The Dramatics,7,5,11
+16,A Cowboys Work Is Never Done,Sonny & Cher,8,8,11
+17,Hot Rod Lincoln,Commander Cody & His Lost Planet Airmen,20,17,7
+18,Suavecito,Malo,19,18,10
+19,Morning Has Broken,Cat Stevens,21,19,6
+20,Slippin' Into Darkness,War,22,20,16
+21,Puppy Love,Donny Osmond,15,3,11
+22,Heart Of Gold,Neil Young,17,1,14
+23,Tumbling Dice,The Rolling Stones,50,23,2
+24,The Candy Man,"Sammy Davis, Jr. with The Mike Curb Congregation",28,24,9
+25,Me And Julio Down By The Schoolyard,Paul Simon,30,25,5
+26,Little Bitty Pretty One,Jackson 5,32,26,3
+27,Run Run Run,Jo Jo Gunne,29,27,8
+28,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,34,28,6
+29,Taxi,Harry Chapin,31,29,9
+30,Jump Into The Fire,Nilsson,27,27,8
+31,I Saw The Light,Todd Rundgren,46,31,5
+32,Roundabout,Yes,25,13,13
+33,Help Me Make It Through The Night,Gladys Knight And The Pips,33,33,7
+34,Nice To Be With You,Gallery,37,34,11
+35,You Could Have Been A Lady,April Wine,36,35,7
+36,Walkin' In The Rain With The One I Love,Love Unlimited,41,36,6
+37,Sylvia's Mother,Dr. Hook And The Medicine Show,44,37,6
+38,Mister Can't You See,Buffy Sainte-Marie,40,38,6
+39,Every Day Of My Life,Bobby Vinton,24,24,15
+40,Diary,Bread,51,40,3
+41,Taurus,Dennis Coffey & The Detroit Guitar Band,23,18,12
+42,Pool Of Bad Luck,Joe Simon,42,42,7
+43,It's Going To Take Some Time,Carpenters,79,43,2
+44,Ask Me What You Want,Millie Jackson,47,44,7
+45,"Love Theme From ""The Godfather"" (Speak Softly Love)",Andy Williams,56,45,5
+46,Hearsay,The Soul Children,58,46,8
+47,Isn't Life Strange,The Moody Blues,60,47,3
+48,Let's Stay Together,Isaac Hayes,48,48,6
+49,Do Your Thing,Isaac Hayes,45,30,11
+50,Legend In Your Own Time,Carly Simon,52,50,7
+51,Be My Lover,Alice Cooper,49,49,9
+52,You Are The One,Sugar Bears,54,52,9
+53,Walk In The Night,Jr. Walker & The All Stars,57,53,6
+54,Lay-Away,The Isley Brothers,55,54,6
+55,Chantilly Lace,Jerry Lee Lewis,43,43,10
+56,Smilin',Sly & The Family Stone,64,56,3
+57,Outa-Space,Billy Preston,65,57,3
+58,I've Been Lonely For So Long,Frederick Knight,69,58,3
+59,Old Man,Neil Young,77,59,2
+60,Everything Good Is Bad,100 Proof Aged in Soul ,63,60,6
+61,I Had It All The Time,Tyrone Davis,62,61,7
+62,To Get To You,Jerry Wallace,66,62,8
+63,What'd I Say,Rare Earth,61,61,5
+64,I'm Movin' On,John Kay,70,64,3
+65,Jubilation,Paul Anka,68,65,7
+66,Am I Losing You,The Partridge Family Starring Shirley Jones Featuring David Cassidy,59,59,6
+67,Song Sung Blue,Neil Diamond,-1,67,1
+68,Telegram Sam,T. Rex,74,68,3
+69,Long Haired Lover From Liverpool,Little Jimmy Osmond with The Mike Curb Congregation,96,69,3
+70,Changes,David Bowie,72,70,4
+71,Lean On Me,Bill Withers,75,71,3
+72,Someday Never Comes,Creedence Clearwater Revival,-1,72,1
+73,Daddy Don't You Walk So Fast,Wayne Newton,88,73,3
+74,"Love Theme From ""The Godfather""",Carlo Savina,78,74,3
+75,Iko Iko,Dr. John,71,71,4
+76,Upsetter,Grand Funk Railroad,82,76,2
+77,Automatically Sunshine,The Supremes,-1,77,1
+78,Ain't Wastin' Time No More,The Allman Brothers Band,80,78,2
+79,Amerikan Music,Steve Alaimo,81,79,2
+80,Rocket Man,Elton John,-1,80,1
+81,"Beg, Steal Or Borrow",The New Seekers,86,81,3
+82,Hot 'N' Nasty,Humble Pie,-1,82,1
+83,Life And Breath,Climax featuring Sonny Geraci,-1,83,1
+84,Vahevala,Kenny Loggins With Jim Messina,85,84,4
+85,Ain't That Peculiar,Fanny,87,85,2
+86,Speak Softly Love,Al Martino,92,86,2
+87,I Can't Turn You Loose,Edgar Winter's White Trash,-1,87,1
+88,Too Beautiful To Last,Engelbert Humperdinck,90,88,2
+89,Love's Street And Fool's Road,Solomon Burke,89,89,4
+90,Immigration Man,Graham Nash & David Crosby,-1,90,1
+91,The Young New Mexican Puppeteer,Tom Jones,99,91,2
+92,How Do You Do?,Mouth & MacNeal,97,92,2
+93,I Just Wanna Be Your Friend,Lighthouse,93,93,2
+94,Woman's Gotta Have It,(The Preacher) Bobby Womack,-1,94,1
+95,Questions,Bang,95,95,3
+96,We're Free,Beverly Bremers,98,96,2
+97,An American Trilogy,Elvis Presley,-1,97,1
+98,I Got Some Help I Don't Need,B.B. King,-1,98,1
+99,Where There's A Will There's A Way,Delaney & Bonnie,100,99,2
+100,There It Is (Part 1),James Brown,-1,100,1

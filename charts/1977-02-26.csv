@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,New Kid In Town,Eagles,2,1,11
+2,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,4,2,12
+3,Blinded By The Light,Manfred Mann's Earth Band,1,1,15
+4,Fly Like An Eagle,Steve Miller,8,4,11
+5,I Like Dreamin',Kenny Nolan,5,5,17
+6,Enjoy Yourself,The Jacksons,6,6,16
+7,Torn Between Two Lovers,Mary Macgregor,3,1,15
+8,Night Moves,Bob Seger,10,8,12
+9,Dancing Queen,ABBA,14,9,12
+10,Weekend In New England,Barry Manilow,11,10,14
+11,Year Of The Cat,Al Stewart,13,11,12
+12,Car Wash,Rose Royce,7,1,19
+13,I Wish,Stevie Wonder,12,1,13
+14,Go Your Own Way,Fleetwood Mac,17,14,8
+15,Hard Luck Woman,KISS,16,15,11
+16,Boogie Child,Bee Gees,18,16,7
+17,Don't Leave Me This Way,Thelma Houston,19,17,11
+18,Rich Girl, Daryl Hall John Oates,21,18,6
+19,The Things We Do For Love,10cc,23,19,8
+20,Lost Without Your Love,Bread,9,9,14
+21,Carry On Wayward Son,Kansas,25,21,10
+22,Save It For A Rainy Day,Stephen Bishop,22,22,12
+23,You Make Me Feel Like Dancing,Leo Sayer,20,1,19
+24,Long Time,Boston,28,24,5
+25,Living Next Door To Alice,Smokie,27,25,13
+26,Maybe I'm Amazed,Wings,37,26,3
+27,Don't Give Up On Us,David Soul,31,27,5
+28,Say You'll Stay Until Tomorrow,Tom Jones,36,28,8
+29,Dazz,Brick ,15,3,19
+30,Crackerbox Palace,George Harrison,34,30,5
+31,Hot Line,The Sylvers,24,5,21
+32,Bite Your Lip (Get up and dance!),Elton John,41,32,3
+33,Moody Blue/she Thinks I Still Care,Elvis Presley,35,33,10
+34,Here Come Those Tears Again,Jackson Browne,38,34,4
+35,Walk This Way,Aerosmith,26,10,15
+36,Sam,Olivia Newton-John,40,36,5
+37,So In To You,Atlanta Rhythm Section,47,37,5
+38,The First Cut Is The Deepest,Rod Stewart,46,38,3
+39,Right Time Of The Night,Jennifer Warnes,54,39,5
+40,I've Got Love On My Mind,Natalie Cole,50,40,5
+41,Free,Deniece Williams,49,41,12
+42,I Just Can't Say No To You,Parker McGee,42,42,6
+43,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,43,27,17
+44,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,55,44,8
+45,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",29,1,25
+46,Do Ya,Electric Light Orchestra,57,46,4
+47,After The Lovin',Engelbert Humperdinck,33,8,19
+48,Jeans On,David Dundas,30,17,21
+49,Somebody To Love,Queen,32,13,14
+50,Gloria,Enchantment ,60,50,5
+51,Ha Cha Cha (funktion),Brass Construction,51,51,10
+52,Kong,Dickie Goodman,62,52,4
+53,Reach,Orleans,56,53,5
+54,Spring Rain,Silvetti,64,54,6
+55,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,66,55,3
+56,Fancy Dancer,Commodores,39,39,8
+57,Somethin' 'bout 'cha,Latimore,68,57,4
+58,Saturday Nite,"Earth, Wind & Fire",44,21,15
+59,Be My Girl,The Dramatics,59,59,8
+60,Tonight's The Night (Gonna Be Alright),Rod Stewart,45,1,22
+61,Stand Tall,Burton Cummings,48,10,21
+62,All Strung Out On You,John Travolta,72,62,2
+63,Baby Don't You Know,Wild Cherry,58,43,7
+64,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,75,64,2
+65,Southern Nights,Glen Campbell,86,65,3
+66,Spring Affair/Winter Melody,Donna Summer,77,47,11
+67,I'll Always Call Your Name,Little River Band,70,67,4
+68,Theme From King Kong (Pt. I),Love Unlimited Orchestra,76,68,6
+69,Dedication,Bay City Rollers,73,69,3
+70,Race Among The Ruins,Gordon Lightfoot,83,70,2
+71,Sorry/That's The Trouble,Grace Jones,78,71,6
+72,Hotel California,Eagles,-1,72,1
+73,I'm Scared,Burton Cummings,84,73,2
+74,Reaching For The World,Harold Melvin And The Blue Notes,80,74,3
+75,Tryin' To Love Two,William Bell,85,75,2
+76,Too Hot To Stop (Pt. 1),The Bar-Kays,79,76,3
+77,Welcome To Our World (Of Merry Music),Mass Production,87,77,2
+78,"N.y., You Got Me Dancing",Andrea True Connection,88,78,2
+79,Love In 'C' Minor,The Heart And Soul Orchestra,-1,79,1
+80,Here Is Where Your Love Belongs,The Sons Of Champlin,81,80,4
+81,When I Need You,Leo Sayer,-1,81,1
+82,Look Into Your Heart,Aretha Franklin,82,82,4
+83,Couldn't Get It Right,Climax Blues Band,94,83,2
+84,I'm Your Boogie Man,KC And The Sunshine Band,-1,84,1
+85,Love In 'C' Minor - Pt. I,Cerrone,-1,85,1
+86,Dancin',Crown Heights Affair,91,86,2
+87,Angel In Your Arms,Hot,90,87,2
+88,Dreamin,Loleatta Holloway,93,88,4
+89,I Wanna Get Next To You, Rose Royce,-1,89,1
+90,Magical Mystery Tour,Ambrosia,-1,90,1
+91,You Know Like I Know,Ozark Mountain Daredevils,92,79,6
+92,Bodyheat (Part 1),James Brown,-1,92,1
+93,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,95,93,2
+94,Love Is Better In The A.M. (Part 1),Johnnie Taylor,-1,94,1
+95,Sailing Ships,Mesa,-1,95,1
+96,Ashes And Sand,Johnny Rivers,96,96,4
+97,Feel The Beat (Everybody Disco),Ohio Players,61,61,5
+98,Theme From Rocky (gonna Fly Now),Rhythm Heritage,-1,98,1
+99,Ritzy Mambo,The Salsoul Orchestra,-1,99,1
+100,Dance Little Lady Dance,Danny White,-1,100,1

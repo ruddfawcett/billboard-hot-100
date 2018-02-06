@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Night Fever,Bee Gees,1,1,12
+2,If I Can't Have You,Yvonne Elliman,5,2,13
+3,Can't Smile Without You,Barry Manilow,4,3,12
+4,Lay Down Sally,Eric Clapton,3,3,16
+5,The Closer I Get To You,Roberta Flack With Donny Hathaway,7,5,10
+6,Dust In The Wind,Kansas,6,6,13
+7,With A Little Luck,Wings,12,7,5
+8,Jack And Jill,Raydio,8,8,15
+9,We'll Never Have To Say Goodbye Again,England Dan & John Ford Coley,9,9,9
+10,Our Love,Natalie Cole,10,10,15
+11,You're The One That I Want,John Travolta & Olivia Newton-John,19,11,4
+12,Running On Empty,Jackson Browne,13,12,11
+13,Stayin' Alive,Bee Gees,2,1,20
+14,Count On Me,Jefferson Starship,16,14,7
+15,Goodbye Girl,David Gates,15,15,19
+16,Flash Light,Parliament,18,16,11
+17,Feels So Good,Chuck Mangione,21,17,11
+18,Imaginary Lover,Atlanta Rhythm Section,22,18,8
+19,Sweet Talkin' Woman,Electric Light Orchestra,20,19,10
+20,"Too Much, Too Little, Too Late",Johnny Mathis/Deniece Williams,41,20,4
+21,Emotion,Samantha Sang,11,3,23
+22,Disco Inferno,The Trammps,26,22,19
+23,Ebony Eyes,Bob Welch,14,14,13
+24,This Time I'm In It For Love,Player,32,24,7
+25,Thank You For Being A Friend,Andrew Gold,25,25,11
+26,Two Doors Down,Dolly Parton,31,26,6
+27,(Love Is) Thicker Than Water,Andy Gibb,17,1,25
+28,I'm Gonna Take Care Of Everything,Rubicon,29,28,9
+29,Fooling Yourself (The Angry Young Man),Styx,30,29,10
+30,Shadow Dancing,Andy Gibb,69,30,2
+31,Movin' Out (Anthony's Song),Billy Joel,37,31,6
+32,Fantasy,"Earth, Wind & Fire",34,32,8
+33,Baby Hold On,Eddie Money,36,33,9
+34,More Than A Woman,Tavares,39,34,17
+35,Love Is Like Oxygen,Sweet,38,35,10
+36,Werewolves Of London,Warren Zevon,47,36,5
+37,On Broadway,George Benson,43,37,7
+38,It's A Heartache,Bonnie Tyler,48,38,5
+39,Rocket Ride,KISS,40,39,9
+40,Do You Believe In Magic,Shaun Cassidy,42,40,5
+41,Ego,Elton John,65,41,2
+42,Let's All Chant,The Michael Zager Band,46,42,8
+43,"Let Me Party With You (Part 1) (Party, Party, Party)",Bunny Sigler,45,43,9
+44,Before My Heart Finds Out,Gene Cotton,23,23,12
+45,Lady Love,Lou Rawls,24,24,14
+46,Two Out Of Three Ain't Bad,Meat Loaf,52,46,6
+47,Every Kinda People,Robert Palmer,57,47,5
+48,(I Will Be Your) Shadow In The Street,Allan Clarke,58,48,5
+49,Thunder Island,Jay Ferguson,27,9,19
+50,That's Your Secret,Sea Level,54,50,9
+51,Dance With Me,Peter Brown With Betty Wright,62,51,8
+52,Ready For The Times To Get Better,Crystal Gayle,55,52,9
+53,Deacon Blues,Steely Dan,63,53,4
+54,Ain't Gonna Eat Out My Heart Anymore,Angel,66,54,4
+55,How Deep Is Your Love,Bee Gees,49,1,31
+56,Make You Feel Love Again,Wet Willie,67,56,3
+57,"Music, Harmony And Rhythm",Brooklyn Dreams,59,57,5
+58,"Yank Me, Crank Me",Ted Nugent,61,58,4
+59,Heartless,Heart,68,59,3
+60,Because The Night,Patti Smith Group,71,60,3
+61,Always And Forever,Heatwave,28,18,16
+62,"Theme Song From ""Which Way Is Up""",Stargard,33,21,13
+63,I Go Crazy,Paul Davis,35,7,35
+64,"Sweet, Sweet Smile",Carpenters,44,44,12
+65,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,60,6,26
+66,Wheel In The Sky,Journey,77,66,3
+67,The Circle Is Small (I Can See It In Your Eyes),Gordon Lightfoot,51,33,11
+68,Rumour Has It,Donna Summer,53,53,8
+69,Take A Chance On Me,ABBA,-1,69,1
+70,Tumbling Dice,Linda Ronstadt,-1,70,1
+71,Stay,Rufus/Chaka Khan,82,71,3
+72,You Got That Right,Lynyrd Skynyrd,85,72,2
+73,You're The Love,Seals & Crofts,87,73,2
+74,I Can't Stand The Rain,Eruption,80,74,7
+75,Just The Way You Are,Billy Joel,75,3,24
+76,Since You Been Gone,Head East,86,76,2
+77,Mama Let Him Play,Doucette,83,77,3
+78,Hot Legs,Rod Stewart,76,28,11
+79,You Belong To Me,Carly Simon,89,79,2
+80,Dance Across The Floor,"Jimmy ""Bo"" Horne",84,80,4
+81,Don't Cost You Nothing,Ashford & Simpson,81,81,7
+82,Baker Street,Gerry Rafferty,-1,82,1
+83,Follow You Follow Me,Genesis,-1,83,1
+84,The Wanderer,Leif Garrett,-1,84,1
+85,Cheeseburger In Paradise,Jimmy Buffett,-1,85,1
+86,It's A Heartache,Juice Newton,88,86,3
+87,Where Have You Been All My Life,Fotomaker,-1,87,1
+88,I'm On My Way,Captain & Tennille,-1,88,1
+89,Do You Wanna Dance,Ramones,96,89,2
+90,Everybody Dance,Chic,-1,90,1
+91,We Will Rock You/We Are The Champions,Queen,91,4,27
+92,Africanism/Gimme Some Lovin',Kongas,95,92,3
+93,Chattanooga Choo Choo,Tuxedo Junction,-1,93,1
+94,Bluer Than Blue,Michael Johnson,-1,94,1
+95,Never Get Enough Of Your Love,L.T.D.,56,56,7
+96,Baby Come Back,Player,92,1,30
+97,Falling,LeBlanc & Carr,50,13,28
+98,Sometimes When We Touch,Dan Hill,64,3,22
+99,(What A) Wonderful World,Art Garfunkel With James Taylor & Paul Simon,99,17,14
+100,Dancin' Fever,Claudja Barry,72,72,9

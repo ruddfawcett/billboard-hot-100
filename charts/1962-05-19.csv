@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Soldier Boy,The Shirelles,1,1,9
+2,Stranger On The Shore,Mr. Acker Bilk,3,2,10
+3,Mashed Potato Time,Dee Dee Sharp,2,2,12
+4,Johnny Angel,Shelley Fabares,4,1,12
+5,She Cried,Jay & The Americans,6,5,10
+6,Shout! Shout! (Knock Yourself Out),Ernie Maresca,8,6,8
+7,Old Rivers,Walter Brennan,7,7,7
+8,Everybody Loves Me But You,Brenda Lee,12,8,6
+9,P.T. 109,Jimmy Dean,11,9,8
+10,Funny Way Of Laughin',Burl Ives,14,10,7
+11,Good Luck Charm,Elvis Presley With The Jordanaires,5,1,10
+12,Shout - Part I,Joey Dee & the Starliters,10,6,9
+13,Lovers Who Wander,Dion,19,13,5
+14,The One Who Really Loves You,Mary Wells,17,14,9
+15,Conscience,James Darren,16,15,6
+16,"Twist, Twist Senora",Gary U.S. Bonds,9,9,8
+17,I Wish That We Were Married,Ronnie and The Hi-Lites,18,17,8
+18,Uptown,The Crystals,20,18,8
+19,Slow Twistin',Chubby Checker (with Dee Dee Sharp),13,3,12
+20,Lover Please,Clyde McPhatter,15,7,12
+21,I Can't Stop Loving You,Ray Charles,53,21,3
+22,Tell Me,Dick and DeeDee,29,22,10
+23,Caterina,Perry Como,25,23,8
+24,I Sold My Heart To The Junkman,The Blue-Belles,30,24,5
+25,Twistin' Matilda (and the channel),Jimmy Soul,28,25,8
+26,You Are Mine,Frankie Avalon,27,26,9
+27,Most People Get Married,Patti Page,35,27,5
+28,Soul Twist,King Curtis And The Noble Knights,23,17,11
+29,Johnny Jingo,Hayley Mills,26,21,10
+30,Dear One,Larry Finnegan,21,11,13
+31,Young World,Rick Nelson,22,5,12
+32,(The Man Who Shot) Liberty Valance,Gene Pitney,55,32,4
+33,Don't Play That Song (You Lied),Ben E. King,43,33,5
+34,It Keeps Right On A-Hurtin',Johnny Tillotson,64,34,2
+35,Love Letters,Ketty Lester,24,5,13
+36,Blues (Stay Away From Me),Ace Cannon,42,36,6
+37,Moon River,Henry Mancini And His Orchestra,50,11,23
+38,Follow That Dream,Elvis Presley,58,38,2
+39,Night Train,James Brown And The Famous Flames,46,39,6
+40,Second Hand Love,Connie Francis,75,40,2
+41,Count Every Star,Linda Scott,49,41,7
+42,Palisades Park,Freddy Cannon,69,42,2
+43,Village Of Love,Nathaniel Mayer And The Fabulous Twilights,63,43,4
+44,So This Is Love,The Castells,54,44,6
+45,King Of Clowns,Neil Sedaka,47,45,8
+46,Playboy,The Marvelettes,56,46,3
+47,Teach Me Tonight,George Maharis,61,47,5
+48,Hide 'Nor Hair,Ray Charles and his Orchestra,32,20,7
+49,(I was) Born To Cry,Dion,52,49,5
+50,I Will,Vic Dana,59,47,8
+51,Itty Bitty Pieces,James Ray,41,41,7
+52,Ginny Come Lately,Brian Hyland,31,21,11
+53,What'd I Say (Part 1),Bobby Darin,40,24,8
+54,She Can't Find Her Keys,Paul Petersen,33,19,12
+55,The Jam - Part 1,Bobby Gregg and His Friends,37,29,10
+56,That's Old Fashioned (That's The Way Love Should Be),The Everly Brothers,71,56,2
+57,Number One Man,Bruce Channel,62,57,4
+58,Hearts,Jackie Wilson,60,58,4
+59,If I Cried Every Time You Hurt Me,Wanda Jackson,67,59,5
+60,Hit Record,Brook Benton,76,60,3
+61,Any Day Now (My Wild Beautiful Bird),Chuck Jackson,72,61,4
+62,I Love You,The Volume's,70,62,4
+63,Lemon Tree,"Peter, Paul & Mary",68,63,3
+64,Meet Me At The Twistin' Place,Johnnie Morisette,66,64,6
+65,Cindy's Birthday,Johnny Crawford,89,65,2
+66,Balboa Blue,The Marketts,79,66,4
+67,Drummin' Up A Storm,Sandy Nelson,78,67,4
+68,I'll Take You Home,"The Corsairs Featuring Jay ""Bird"" Uzzell",80,68,6
+69,Walk On The Wild Side (Part 1),Jimmy Smith And The Big Band,84,69,2
+70,Born To Lose,Ray Charles,88,70,2
+71,Love Can't Wait,Marty Robbins,74,71,4
+72,Where Are You,Dinah Washington,-1,72,1
+73,How Is Julie?,The Lettermen,86,73,2
+74,Sharing You,Bobby Vee,-1,74,1
+75,That's My Desire,Yvonne Baker and the Sensations,83,75,3
+76,Snap Your Fingers,Joe Henderson,-1,76,1
+77,Fortuneteller,Bobby Curtola,93,77,3
+78,Deep In The Heart Of Texas,Duane Eddy,81,78,5
+79,My Real Name,Fats Domino,94,79,2
+80,I Found A Love,The Falcons & Band (Ohio Untouchables),82,80,7
+81,Oh My Angel,Bertha Tillman,91,81,3
+82,Doctor Feel-Good,Dr. Feelgood And The Interns,-1,82,4
+83,Why'd You Wanna Make Me Cry,Connie Stevens,85,83,3
+84,Theme From Ben Casey,Valjean on Piano,-1,84,1
+85,When I Get Thru With You (You'll Love Me Too),Patsy Cline,-1,85,1
+86,Woman Is A Man's Best Friend,Teddy & The Twilights,-1,86,1
+87,The Stripper,David Rose and His Orchestra,90,87,2
+88,Scotch And Soda,The Kingston Trio,-1,88,3
+89,Here Comes That Feelin',Brenda Lee,-1,89,3
+90,Imagine That,Patsy Cline,92,90,2
+91,Let Me Be The One,The Paris Sisters,97,91,2
+92,Dream,Dinah Washington,100,92,2
+93,"Jane, Jane, Jane",The Kingston Trio,-1,93,1
+94,I'll Try Something New,The Miracles,99,94,2
+95,"Quando, Quando, Quando (Tell Me When)",Pat Boone,-1,95,1
+96,-twistin'-White Silver Sands,Bill Black's Combo,-1,92,2
+97,Bristol Twistin' Annie,The Dovells,-1,97,1
+98,That Happy Feeling,Bert Kaempfert And His Orchestra,-1,98,1
+99,The John Birch Society,The Chad Mitchell Trio,-1,99,1
+100,Al Di La',Emilio Pericoli,-1,100,1

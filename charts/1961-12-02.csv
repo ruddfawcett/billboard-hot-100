@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Big Bad John,Jimmy Dean,1,1,10
+2,Please Mr. Postman,The Marvelettes,3,2,14
+3,Goodbye Cruel World,James Darren,4,3,8
+4,Runaround Sue,Dion,2,1,11
+5,Fool #1,Brenda Lee,5,3,10
+6,The Twist,Chubby Checker,16,1,22
+7,Walk On By,Leroy Van Dyke,12,7,6
+8,Tower Of Strength,Gene McDaniels,8,5,10
+9,I Understand (Just How You Feel),The G-Clefs,14,9,12
+10,Crazy,Patsy Cline,9,9,7
+11,Run To Him,Bobby Vee,17,11,4
+12,Tonight,Ferrante & Teicher,13,12,8
+13,Heartaches,The Marcels,7,7,9
+14,Moon River,Jerry Butler,20,14,9
+15,The Fly,Chubby Checker,11,7,11
+16,Let There Be Drums,Sandy Nelson,27,16,6
+17,The Lion Sleeps Tonight,The Tokens,36,17,4
+18,Bristol Stomp,The Dovells,6,2,13
+19,This Time,Troy Shondell,10,6,12
+20,Gypsy Woman,The Impressions,32,20,8
+21,"Happy Birthday, Sweet Sixteen",Neil Sedaka,28,21,4
+22,I Love How You Love Me,The Paris Sisters,19,5,14
+23,September In The Rain,Dinah Washington,23,23,8
+24,Moon River,Henry Mancini And His Orchestra,26,24,9
+25,A Wonder Like You,Rick Nelson,18,11,10
+26,I Don't Know Why,Linda Scott,38,26,6
+27,In The Middle Of A Heartache,Wanda Jackson,29,27,8
+28,You're The Reason,Bobby Edwards,15,11,15
+29,Peppermint Twist - Part I,Joey Dee & the Starliters,43,29,3
+30,Just Out Of Reach (Of My Two Open Arms),Solomon Burke,24,24,12
+31,I Wanna Thank You,Bobby Rydell,21,21,8
+32,Let's Twist Again,Chubby Checker,40,8,15
+33,'Til,The Angels,47,33,7
+34,Foot Stomping - Part 1,The Flares,35,25,14
+35,When I Fall In Love,The Lettermen,55,35,3
+36,Language Of Love,John D. Loudermilk,41,36,5
+37,When The Boy In Your Arms (Is The Boy In Your Heart),Connie Francis,54,37,3
+38,Unchain My Heart,Ray Charles and his Orchestra,62,38,2
+39,Your Ma Said You Cried In Your Sleep Last Night,Kenny Dino,50,39,5
+40,Sad Movies (Make Me Cry),Sue Thompson,31,5,14
+41,"Well, I Told You",The Chantels,60,41,4
+42,"God, Country And My Baby",Johnny Burnette,25,18,8
+43,There's No Other (Like My Baby),The Crystals,68,43,3
+44,Town Without Pity,Gene Pitney,44,44,6
+45,Smile,Timi Yuro,42,42,5
+46,Tonight,Eddie Fisher,57,46,5
+47,Hit The Road Jack,Ray Charles and his Orchestra,22,1,13
+48,Everlovin',Rick Nelson,30,16,10
+49,Rock-A-Bye Your Baby With A Dixie Melody,Aretha Franklin,37,37,9
+50,Up A Lazy River,Si Zentner And His Orchestra,45,45,4
+51,Let's Get Together,Hayley Mills and Hayley Mills,33,8,14
+52,Ya Ya,Lee Dorsey,34,7,13
+53,The Gypsy Rover,The Highwaymen,63,53,5
+54,It's Too Soon To Know,Etta James,56,54,5
+55,Johnny Will,Pat Boone,66,55,4
+56,Revenge,Brook Benton,71,56,3
+57,Can't Help Falling In Love,Elvis Presley With The Jordanaires,-1,57,1
+58,Three Steps From The Altar,Shep And The Limelites,59,58,8
+59,The Peppermint Twist,Danny Peppermint and the Jumping Jacks,-1,59,1
+60,Soothe Me,Sims Twins,88,60,4
+61,It's All Because,Linda Scott,74,61,4
+62,Rock-A-Hula Baby,Elvis Presley With The Jordanaires,-1,62,1
+63,Funny How Time Slips Away,Jimmy Elledge,76,63,4
+64,The Majestic,Dion,-1,64,1
+65,I Know (You Don't Love Me No More),Barbara George,80,65,4
+66,Lonesome Number One,Don Gibson,-1,66,1
+67,I Hear You Knocking,Fats Domino,-1,67,1
+68,Hey! Little Girl,Del Shannon,78,68,2
+69,I Cried My Last Tear,Ernie K-Doe,72,69,5
+70,Everybody's Gotta Pay Some Dues,The Miracles,52,52,7
+71,A Certain Girl,Ernie K-Doe,75,71,4
+72,Danny Boy,Andy Williams,67,64,6
+73,Poor Fool,Ike & Tina Turner,95,73,2
+74,If You Gotta Make A Fool Of Somebody,James Ray,87,74,3
+75,The Comancheros,Claude King,85,75,4
+76,It Will Stand,The Showmen,82,76,4
+77,What A Walk,Bobby Lewis,81,77,3
+78,Little Altar Boy,Vic Dana,99,78,2
+79,The Wanderer,Dion,-1,79,1
+80,"Never, Never",The Jive Five With Joe Rene And Orchestra,77,77,4
+81,Turn On Your Love Light,Bobby Bland,-1,81,1
+82,Happy Times (Are Here To Stay),Tony Orlando,93,82,2
+83,Searching,Jack Eubanks,91,83,2
+84,Cotton Fields,The Highwaymen,100,84,2
+85,Walkin' With My Angel,Bobby Vee,96,85,2
+86,Small Sad Sam,Phil McLean,-1,86,1
+87,Unsquare Dance,The Dave Brubeck Quartet,-1,87,1
+88,Tennessee Flat-Top Box,Johnny Cash,90,88,4
+89,Sometime,Gene Thomas ,53,53,6
+90,Losing Your Love,Jim Reeves,-1,90,2
+91,Let's Go Trippin',Dick Dale and The Del-Tones,94,91,2
+92,You're Following Me,Perry Como,92,92,3
+93,"Turn Around, Look At Me",Glen Campbell,-1,93,4
+94,Norman,Sue Thompson,-1,94,1
+95,(How Can I Write On Paper) What I Feel In My Heart,Jim Reeves,-1,95,1
+96,Pop Goes The Weasel,Anthony Newley,-1,96,1
+97,It Do Me So Good,Ann-Margret,98,97,3
+98,She Really Loves You,Timi Yuro,-1,98,1
+99,Dreamy Eyes,Johnny Tillotson,-1,63,10
+100,Walkin' Back To Happiness,Helen Shapiro,-1,100,1

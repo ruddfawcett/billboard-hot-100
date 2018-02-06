@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Alone Again (Naturally),Gilbert O'Sullivan,1,1,10
+2,Brandy (You're A Fine Girl),Looking Glass,2,2,10
+3,Long Cool Woman (In A Black Dress),The Hollies,6,3,9
+4,(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,3,3,12
+5,I'm Still In Love With You,Al Green,7,5,7
+6,Where Is The Love,Roberta Flack & Donny Hathaway,5,5,11
+7,Daddy Don't You Walk So Fast,Wayne Newton,4,4,18
+8,Hold Your Head Up,Argent,18,8,10
+9,Coconut,Nilsson,11,9,11
+10,Goodbye To Love,Carpenters,12,10,6
+11,The Happiest Girl In The Whole U.S.A.,Donna Fargo,13,11,13
+12,You Don't Mess Around With Jim,Jim Croce,17,12,8
+13,Too Late To Turn Back Now,Cornelius Brothers & Sister Rose,8,2,13
+14,School's Out,Alice Cooper,10,7,12
+15,How Do You Do?,Mouth & MacNeal,9,8,17
+16,Motorcycle Mama,Sailcat,20,16,11
+17,The Guitar Man,Bread,26,17,4
+18,Baby Don't Get Hooked On Me,Mac Davis,27,18,8
+19,Sealed With A Kiss,Bobby Vinton,21,19,11
+20,Lookin' Through The Windows,Jackson 5,22,20,6
+21,Rock And Roll Part 2,Gary Glitter,25,21,5
+22,Happy,The Rolling Stones,23,22,6
+23,Join Together,The Who,28,23,5
+24,Gone,Joey Heatherton,24,24,13
+25,Lean On Me,Bill Withers,15,1,18
+26,Back Stabbers,The O'Jays,37,26,5
+27,Baby Let Me Take You (In My Arms),Detroit Emeralds,30,27,13
+28,Breaking Up Is Hard To Do,The Partridge Family Starring Shirley Jones Featuring David Cassidy,29,28,8
+29,Beautiful Sunday,Daniel Boone,31,29,12
+30,Hold Her Tight,The Osmonds,14,14,8
+31,Small Beginnings,Flash,32,31,9
+32,When You Say Love,Sonny & Cher,33,32,7
+33,Saturday In The Park,Chicago,40,33,3
+34,Layla,Derek & The Dominos,16,10,25
+35,Day By Day,Godspell,19,13,14
+36,Pop That Thang,The Isley Brothers,41,36,8
+37,Power Of Love,Joe Simon,42,37,7
+38,Sweet Inspiration/Where You Lead,Barbra Streisand,39,38,9
+39,Popcorn,Hot Butter,44,39,7
+40,Go All The Way,Raspberries,45,40,8
+41,You're Still A Young Man,Tower Of Power,47,41,6
+42,I'm Coming Home,Stories,43,42,10
+43,Run To Me,Bee Gees,49,43,4
+44,Honky Cat,Elton John,63,44,2
+45,This World,The Staple Singers,51,45,3
+46,Conquistador,Procol Harum,34,16,13
+47,Black & White,Three Dog Night,61,47,2
+48,In The Ghetto,Candi Staton,48,48,9
+49,The City Of New Orleans,Arlo Guthrie,59,49,4
+50,The Coldest Days Of My Life (Part 1),The Chi-lites,53,50,6
+51,Everybody Plays The Fool,The Main Ingredient,56,51,6
+52,Starting All Over Again,Mel And Tim,55,52,7
+53,Put It Where You Want It,The Crusaders,54,53,6
+54,We've Come Too Far To End It Now,Smokey Robinson & The Miracles,46,46,9
+55,Play Me,Neil Diamond,87,55,2
+56,A Simple Man,Lobo,57,56,7
+57,Speak To The Sky,Rick Springfield,62,57,3
+58,Easy Livin,Uriah Heep,65,58,4
+59,I Miss You (Part I),Harold Melvin And The Blue Notes,58,58,8
+60,Duncan,Paul Simon,52,52,7
+61,Ben,Michael Jackson,75,61,3
+62,Alabama Wild Man,Jerry Reed,66,62,6
+63,Rock Me On The Water,Jackson Browne,70,63,3
+64,"My Man, A Sweet Man",Millie Jackson,76,64,3
+65,Starman,David Bowie,68,65,8
+66,Zing Went The Strings Of My Heart,The Trammps,67,66,7
+67,Get On The Good Foot-Part 1,James Brown,72,67,3
+68,That's The Way God Planned It,Billy Preston,69,62,13
+69,Nights In White Satin,The Moody Blues,89,69,3
+70,America,Yes,86,70,2
+71,My Ding-A-Ling,Chuck Berry,82,71,3
+72,Garden Party,Rick Nelson And The Stone Canyon Band,88,72,4
+73,My Guy,Petula Clark,73,73,11
+74,In The Quiet Morning,Joan Baez,79,74,4
+75,"Your Wonderful, Sweet Sweet Love",The Supremes,78,75,3
+76,If I Were A Carpenter,Bob Seger,77,76,8
+77,In Time,Engelbert Humperdinck,80,77,3
+78,I Believe In Music,Gallery,97,78,2
+79,What A Wonderful Thing We Have,The Fabulous Rhinestones,83,79,3
+80,Rip Off,Laura Lee,71,68,11
+81,Beat Me Daddy Eight To The Bar,Commander Cody,81,81,5
+82,Geronimo's Cadillac,Michael Murphey,85,82,3
+83,If You Leave Me Tonight I'll Cry,Jerry Wallace,-1,83,1
+84,Wholy Holy,Aretha Franklin With James Cleveland & The Southern Californ,-1,84,1
+85,That's What Friends Are For,B.J. Thomas,74,74,6
+86,Melissa,The Allman Brothers Band,90,86,2
+87,Jackie Wilson Said (I'm In Heaven When You Smile),Van Morrison,-1,87,1
+88,Goodbye Again,John Denver,91,88,5
+89,Love Song,Tommy James,-1,89,1
+90,Burning Love,Elvis Presley,-1,90,1
+91,How Could I Let You Get Away,The Spinners,-1,91,1
+92,Down By The River,Albert Hammond,93,92,5
+93,I Could Never Be Happy,The Emotions,94,93,5
+94,Summer Sun,Jamestown Massacre,96,94,2
+95,"Freddie's Dead (Theme From ""Superfly"")",Curtis Mayfield,-1,95,1
+96,Sittin' On A Time Bomb (Waitin' For The Hurt To Come),The Honey Cone,98,96,4
+97,A Sunday Kind Of Love,Lenny Welch,100,97,2
+98,He's An Indian Cowboy In The Rodeo,Buffy Sainte-Marie,-1,98,1
+99,Southbound Train,Graham Nash & David Crosby,99,99,2
+100,Guess Who/Them Changes,B.B. King,-1,100,1

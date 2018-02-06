@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Fallin' In Love,"Hamilton, Joe Frank & Reynolds",5,1,10
+2,One Of These Nights,Eagles,2,1,13
+3,Get Down Tonight,KC And The Sunshine Band,12,3,7
+4,Jive Talkin',Bee Gees,1,1,13
+5,Rhinestone Cowboy,Glen Campbell,6,5,13
+6,Why Can't We Be Friends?,War,7,6,17
+7,How Sweet It Is (To Be Loved By You),James Taylor,8,7,10
+8,Someone Saved My Life Tonight,Elton John,4,4,8
+9,At Seventeen,Janis Ian,16,9,11
+10,Please Mr. Please,Olivia Newton-John,3,3,12
+11,Fight The Power Part 1,The Isley Brothers,15,11,10
+12,Midnight Blue,Melissa Manchester,9,6,16
+13,Love Will Keep Us Together,Captain & Tennille,13,1,19
+14,I'm Not In Love,10cc,11,2,15
+15,Could It Be Magic,Barry Manilow,19,15,9
+16,Wasted Days And Wasted Nights,Freddy Fender,20,16,10
+17,Feel Like Makin' Love,Bad Company,21,17,8
+18,Holdin' On To Yesterday,Ambrosia,18,18,11
+19,That's The Way Of The World,"Earth, Wind & Fire",22,19,8
+20,Ballroom Blitz,Sweet,24,20,11
+21,Third Rate Romance,Amazing Rhythm Aces,25,21,10
+22,Help Me Rhonda,Johnny Rivers,26,22,7
+23,The Rockford Files,Mike Post,10,10,15
+24,Fame,David Bowie,30,24,9
+25,Tush,ZZ Top,31,25,6
+26,Rendezvous,The Hudson Brothers,28,26,10
+27,That's When The Music Takes Me,Neil Sedaka,27,27,9
+28,"Black Superman - ""Muhammad Ali""",Johnny Wakelin & The Kinshasa Band,33,28,22
+29,(I Believe) There's Nothing Stronger Than Our Love,Paul Anka/Odia Coates,35,29,5
+30,Solitaire,Carpenters,40,30,4
+31,Daisy Jane,America,36,31,6
+32,Til The World Ends,Three Dog Night,32,32,8
+33,Two Fine People,Cat Stevens,37,33,6
+34,The Proud One,The Osmonds,42,34,5
+35,Feelings,Morris Albert,45,35,10
+36,How Long (Betcha' Got A Chick On The Side),The Pointer Sisters,43,36,6
+37,Run Joey Run,David Geddes,54,37,4
+38,Dream Merchant,New Birth,44,38,8
+39,Glasshouse,The Temptations,41,39,7
+40,It Only Takes A Minute,Tavares,50,40,5
+41,Dance With Me,Orleans,48,41,6
+42,Sweet Maxine,The Doobie Brothers,52,42,4
+43,(Shu-Doo-Pa-Poo-Poop) Love Being Your Fool,Travis Wammack,38,38,10
+44,Listen To What The Man Said,Wings,17,1,13
+45,Mornin' Beautiful,Tony Orlando & Dawn,14,14,10
+46,Ain't No Way To Treat A Lady,Helen Reddy,62,46,3
+47,Rocky,Austin Roberts,58,47,6
+48,They Just Can't Stop It the (Games People Play),The Spinners ,70,48,3
+49,I'm Sorry,John Denver,64,49,2
+50,Get The Cream Off The Top,Eddie Kendricks,55,50,7
+51,Just A Little Bit Of You,Michael Jackson,23,23,12
+52,Dynomite-Part I,Tony Camillo's Bazuka,29,10,20
+53,The Hustle,Van McCoy And The Soul City Symphony,34,1,19
+54,Hope That We Can Be Together Soon,Sharon Paige and Harold Melvin And The Blue Notes,46,42,8
+55,Brazil,The Ritchie Family,65,55,4
+56,Gone At Last,Paul Simon/Phoebe Snow,67,56,2
+57,Look At Me (I'm In Love),The Moments,39,39,8
+58,Keep Your Eye On The Sparrow,Merry Clayton,66,58,5
+59,7-6-5-4-3-2-1 (Blow Your Whistle),Gary Toms Empire,69,59,10
+60,I Believe I'm Gonna Love You,Frank Sinatra,60,60,4
+61,Give It What You Got/Peace Pipe,B.T. Express,72,61,3
+62,Send In The Clowns,Judy Collins,49,36,10
+63,Lady Blue,Leon Russell,75,63,4
+64,Do It Any Way You Wanna,Peoples Choice,-1,64,1
+65,I Love Makin' Love To You,Evie Sands,73,65,4
+66,Carolina In The Pines,Michael Murphey,80,66,2
+67,Your Love,Graham Central Station,77,67,3
+68,Sooner Or Later,The Impressions,68,68,8
+69,Forever Came Today,Jackson 5,78,60,8
+70,Flyin' High,The Blackbyrds,74,70,4
+71,Can't Give You Anything (but My Love),The Stylistics,51,51,6
+72,Like They Say In L.A.,East L.A. Car Pool,76,72,4
+73,What A Diff'rence A Day Makes,Esther Phillips,83,73,2
+74,Por Amor Viviremos,Captain & Tennille,86,74,2
+75,"Main Title (Theme From ""Jaws"")","John Williams/""Jaws"" Soundtrack",85,75,3
+76,Inside My Love,Minnie Riperton,82,76,3
+77,Dreaming A Dream,Crown Heights Affair,87,77,2
+78,Alvin Stone (The Birth & Death Of A Gangster),Fantastic Four,81,78,5
+79,I Got Stoned And I Missed It,Jim Stafford,89,79,2
+80,Department Of Youth,Alice Cooper,90,80,2
+81,If I Ever Lose This Heaven,AWB,-1,81,1
+82,Miracles,Jefferson Starship,-1,82,1
+83,Katmandu,Bob Seger,94,83,3
+84,Turn Back The Pages,Stephen Stills,88,84,3
+85,To Each His Own,"Faith, Hope And Charity",95,85,2
+86,Mamacita,The Grass Roots,91,86,4
+87,I Only Have Eyes For You,Art Garfunkel,-1,87,1
+88,Who Loves You,The 4 Seasons,-1,88,1
+89,Only You Can,Fox,-1,89,1
+90,Out Of Time,The Rolling Stones,-1,90,1
+91,You Are A Song,Batdorf & Rodney,92,91,3
+92,For Your Love,Christopher Paul And Shawn,93,92,4
+93,House Of Strangers,Jim Gilstrap,97,93,2
+94,Chocolate Chip,Isaac Hayes,-1,94,1
+95,I'm On Fire,Dwight Twilley Band,53,16,18
+96,We Been Singin' Songs,Baron Stewart,96,96,2
+97,Music In My Bones,Joe Simon,-1,97,1
+98,Eighteen With A Bullet,Pete Wingfield,-1,98,1
+99,The Millionaire,Dr. Hook,-1,99,1
+100,What You Got,Duke & The Drivers,100,100,2

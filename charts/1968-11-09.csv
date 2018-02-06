@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hey Jude,The Beatles,1,1,9
+2,Those Were The Days,Mary Hopkin,2,2,7
+3,Love Child,Diana Ross & The Supremes,9,3,4
+4,Little Green Apples,O.C. Smith,3,2,13
+5,Hold Me Tight,Johnny Nash,8,5,9
+6,White Room,Cream,10,6,6
+7,Magic Carpet Ride,Steppenwolf,12,7,6
+8,Elenore,The Turtles,6,6,8
+9,Fire,The Crazy World Of Arthur Brown,4,2,10
+10,Midnight Confessions,The Grass Roots,5,5,11
+11,Over You,Gary Puckett And The Union Gap,7,7,8
+12,Piece Of My Heart,Big Brother And The Holding Company,13,12,11
+13,Sweet Blindness,The 5th Dimension,21,13,7
+14,Suzie Q. (Part One),Creedence Clearwater Revival,11,11,10
+15,Harper Valley P.T.A.,Jeannie C. Riley,14,1,12
+16,Girl Watcher,The O'Kaysions,15,5,13
+17,"Hey, Western Union Man",Jerry Butler,18,17,11
+18,"Abraham, Martin And John",Dion ,35,18,3
+19,Revolution,The Beatles,19,12,9
+20,Say It Loud - I'm Black And I'm Proud (Part 1),James Brown,20,10,10
+21,Who's Making Love,Johnnie Taylor,29,21,3
+22,Shape Of Things To Come,Max Frost And The Troopers,22,22,10
+23,Fool For You,The Impressions,23,23,10
+24,Keep On Lovin' Me Honey,Marvin Gaye & Tammi Terrell,34,24,5
+25,Court Of Love,The Unifics,26,25,8
+26,Hi-Heel Sneakers,Jose Feliciano,27,26,4
+27,Bang-Shang-A-Lang,The Archies,28,27,7
+28,I've Gotta Get A Message To You,Bee Gees,16,8,13
+29,All Along The Watchtower,The Jimi Hendrix Experience,25,20,8
+30,Time Has Come Today,The Chambers Brothers,24,11,14
+31,My Special Angel,The Vogues,17,7,10
+32,Chained,Marvin Gaye,32,32,9
+33,Lalena,Donovan,33,33,6
+34,Quick Joey Small (Run Joey Run),Kasenetz-Katz Singing Orchestral Circus,41,34,6
+35,For Once In My Life,Stevie Wonder,79,35,2
+36,Chewy Chewy,Ohio Express,36,36,4
+37,Always Together,The Dells,37,37,5
+38,Take Me For A Little While,Vanilla Fudge,38,38,6
+39,In-A-Gadda-Da-Vida,Iron Butterfly,30,30,12
+40,Little Arrows,Leapy Lee,57,40,5
+41,I've Got Dreams To Remember,Otis Redding,49,41,7
+42,Bring It On Home To Me,Eddie Floyd,50,42,4
+43,Cycles,Frank Sinatra,43,43,5
+44,Do The Choo Choo,Archie Bell & The Drells,44,44,7
+45,Les Bicyclettes De Belsize,Engelbert Humperdinck,46,45,4
+46,The Funky Judge,Bull & The Matadors,47,46,12
+47,I Love How You Love Me,Bobby Vinton,64,47,2
+48,"Promises, Promises",Dionne Warwick,66,48,2
+49,"Shoot'em Up, Baby",Andy Kim,31,31,10
+50,Gentle On My Mind,Glen Campbell,39,39,16
+51,I'm In A Different World,Four Tops,51,51,6
+52,1432 Franklin Pike Circle Hero,Bobby Russell,52,52,3
+53,Battle Hymn Of The Republic,Andy Williams with the St. Charles Borromeo Choir,53,53,4
+54,The Straight Life,Bobby Goldsboro,54,54,3
+55,Peace Of Mind,Nancy Wilson,55,55,7
+56,Pickin' Wild Mountain Berries,Peggy Scott & Jo Jo Benson,56,56,4
+57,Stormy,Classics IV Featuring Dennis Yost,67,57,3
+58,Cinderella Sunshine,Paul Revere & The Raiders Featuring Mark Lindsay,58,58,5
+59,Do Something To Me,Tommy James And The Shondells,59,59,5
+60,Cinnamon,Derek,60,60,3
+61,Ride My See-Saw,The Moody Blues,61,61,5
+62,Porpoise Song,The Monkees,62,62,5
+63,I Love You Madly,Fantastic Four,63,60,8
+64,From The Teacher To The Preacher,Gene Chandler & Barbara Acklin,65,64,4
+65,The Star-Spangled Banner,Jose Feliciano,89,65,2
+66,Alfie,Eivets Rednow,73,66,6
+67,Wichita Lineman,Glen Campbell,75,67,2
+68,Goody Goody Gumdrops,1910 Fruitgum Co.,72,68,3
+69,"Shame, Shame",Magic Lanterns,74,69,3
+70,Fly Me To The Moon,Bobby Womack,70,52,13
+71,Shake,Shadows Of Knight,71,71,3
+72,Peace Brother Peace,Bill Medley,76,72,3
+73,Too Weak To Fight,Clarence Carter,-1,73,1
+74,Both Sides Now,Judy Collins,-1,74,1
+75,Goodbye My Love,James Brown,-1,75,1
+76,Slow Drag,The Intruders,-1,76,1
+77,Harper Valley P.T.A. (Later That Same Day),Ben Colder,78,77,3
+78,For Once In My Life,Jackie Wilson,80,78,2
+79,Not Enough Indians,Dean Martin,93,79,2
+80,Everybody Got To Believe In Somebody,Sam & Dave,81,80,2
+81,The Yard Went On Forever,Richard Harris,97,81,2
+82,Mornin' Glory,Bobbie Gentry & Glen Campbell,84,82,3
+83,Do What You Gotta Do,Nina Simone,83,83,4
+84,Fire,Five By Five,87,84,2
+85,Soul Drippin',The Mauds,85,85,4
+86,Sweet Darlin',Martha Reeves & The Vandellas,86,86,2
+87,Kentucky Woman,Deep Purple,-1,87,1
+88,I Walk Alone,Marty Robbins ,90,88,3
+89,Talking About My Baby,Gloria Walker,96,89,2
+90,California Earthquake,Mama Cass,95,90,2
+91,Crown Of Creation,Jefferson Airplane,91,91,2
+92,Billy You're My Friend,Gene Pitney,92,92,2
+93,Aunt Dora's Love Soul Shack,Arthur Conley,94,93,3
+94,Hang 'Em High,Booker T. & The MG's,-1,94,1
+95,Sunday Sun,Neil Diamond,-1,95,2
+96,I Put A Spell On You,Creedence Clearwater Revival,-1,96,1
+97,Let's Make A Promise,Peaches & Herb,-1,97,1
+98,Stand By Your Man,Tammy Wynette,-1,98,1
+99,"Come On, React!",The Fireballs,100,99,2
+100,A Whiter Shade Of Pale,The Hesitations,-1,100,1

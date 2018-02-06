@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sailing,Christopher Cross,2,1,12
+2,Upside Down,Diana Ross,5,2,8
+3,Magic,Olivia Newton-John,1,1,15
+4,Emotional Rescue,The Rolling Stones,4,4,9
+5,Take Your Time (Do It Right) Part 1,The S.O.S. Band,3,3,14
+6,Fame,Irene Cara,7,6,12
+7,All Out Of Love,Air Supply,8,7,12
+8,Give Me The Night,George Benson,11,8,9
+9,Let My Love Open The Door,Pete Townshend,9,9,12
+10,More Love,Kim Carnes,10,10,14
+11,Late In The Evening,Paul Simon,13,11,4
+12,Into The Night,Benny Mardones,16,12,12
+13,Lookin' For Love,Johnny Lee,19,13,8
+14,It's Still Rock And Roll To Me,Billy Joel,6,1,15
+15,Take A Little Rhythm,Ali Thomson,15,15,12
+16,Drivin' My Life Away,Eddie Rabbitt,23,16,11
+17,JoJo,Boz Scaggs,17,17,12
+18,Why Not Me,Fred Knoblock,18,18,10
+19,You're The Only Woman (You & I),Ambrosia,20,19,8
+20,Old-Fashion Love,Commodores,21,20,11
+21,Boulevard,Jackson Browne,22,21,9
+22,You'll Accomp'ny Me,Bob Seger,26,22,6
+23,All Over The World,Electric Light Orchestra,27,23,5
+24,Hot Rod Hearts,Robbie Dupree,28,24,7
+25,Make A Little Magic,The Dirt Band,25,25,11
+26,One In A Million You,Larry Graham,29,26,10
+27,Shining Star,The Manhattans,12,5,19
+28,Another One Bites The Dust,Queen,50,28,3
+29,Someone That I Used To Love,Natalie Cole,31,29,11
+30,Don't Ask Me Why,Billy Joel,32,30,5
+31,Xanadu,Olivia Newton-John/Electric Light Orchestra,43,31,4
+32,I'm Alright,Kenny Loggins,36,32,8
+33,Misunderstanding,Genesis,14,14,15
+34,How Does It Feel To Be Back,Daryl Hall John Oates,42,34,7
+35,Hey There Lonely Girl,Robert John,39,35,7
+36,Jesse,Carly Simon,40,36,5
+37,Never Knew Love Like This Before,Stephanie Mills,57,37,4
+38,Little Jeannie,Elton John,24,3,18
+39,He's So Shy,The Pointer Sisters,47,39,6
+40,You're Supposed To Keep Your Love For Me,Jermaine Jackson,44,40,8
+41,Tulsa Time/Cocaine,Eric Clapton And His Band,30,30,11
+42,You Better Run,Pat Benatar,46,42,6
+43,No Night So Long,Dionne Warwick,48,43,6
+44,Cupid/I've Loved You For A Long Time,The Spinners,33,4,16
+45,Look What You've Done To Me,Boz Scaggs,69,45,2
+46,First Time Love,Livingston Taylor,52,46,6
+47,Coming Up (Live At Glasgow),Paul McCartney And Wings,34,1,19
+48,Under The Gun,Poco,49,48,7
+49,Stand By Me,Mickey Gilley,35,22,16
+50,How Do I Survive,Amy Holland,56,50,4
+51,Love The World Away,Kenny Rogers,45,14,11
+52,Tired Of Toein' The Line,Rocky Burnette,37,8,17
+53,First...Be A Woman,Lenore O'malley,60,53,6
+54,Fool For Your Loving,Whitesnake,58,54,5
+55,Don't Misunderstand Me,Rossington Collins Band,59,55,6
+56,(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?,Elton John,62,56,4
+57,In America,The Charlie Daniels Band,41,11,14
+58,Empire Strikes Back (Medley),Meco,38,18,12
+59,"Honey, Honey",David Hudson,61,59,10
+60,Red Light,Linda Clifford,66,60,4
+61,I Hear You Now,Jon & Vangelis,73,61,3
+62,Late At Night,England Dan Seals,72,62,3
+63,The Legend Of Wooley Swamp,The Charlie Daniels Band,74,63,3
+64,Who'll Be The Fool Tonight,Larsen-Feiten Band,75,64,3
+65,Out Here On My Own,Irene Cara,78,65,3
+66,True Love Ways,Mickey Gilley,76,66,3
+67,One Fine Day,Carole King,53,12,16
+68,I'm Almost Ready,Pure Prairie League,79,68,2
+69,Midnight Rocks,Al Stewart,-1,69,1
+70,Games Without Frontiers,Peter Gabriel,80,70,3
+71,Let Me Be Your Angel,Stacy Lattisaw,82,71,4
+72,My Prayer,"Ray, Goodman & Brown",83,72,2
+73,Treasure,The Brothers Johnson,77,73,3
+74,"Girl, Don't Let It Get You Down",The O'Jays,84,74,2
+75,Good Morning Girl/stay Awhile,Journey,87,75,2
+76,Thunder And Lightning,Chicago,86,76,2
+77,Rebels Are We,Chic,-1,77,1
+78,I Got You,Split Enz,88,78,2
+79,The Royal Mile (Sweet Darlin'),Gerry Rafferty,54,54,7
+80,Switchin' To Glide/This Beat Goes On,The Kings,90,80,2
+81,Leaving L.A.,Deliverance,-1,81,1
+82,Can't We Try,Teddy Pendergrass,-1,82,1
+83,The Rose,Bette Midler,51,3,24
+84,I Can't Let Go,Linda Ronstadt,55,31,10
+85,Whip It,Devo,-1,85,1
+86,Steal Away,Robbie Dupree,63,6,21
+87,You Can Call Me Blue,Michael Johnson,89,87,2
+88,Lola,The Kinks,-1,9,15
+89,My Guy/My Girl,Amii Stewart & Johnny Bristol,-1,89,1
+90,Rock It,"Lipps, Inc.",64,64,5
+91,Gimme Some Lovin',Blues Brothers,65,18,14
+92,Free Me,Roger Daltrey,67,53,9
+93,All Night Long,Joe Walsh,70,19,16
+94,Years From Now,Dr. Hook,96,51,9
+95,Over You,Roxy Music,97,80,4
+96,Let Me Love You Tonight,Pure Prairie League,71,10,17
+97,I'm Alive,Electric Light Orchestra,91,16,15
+98,Let's Get Serious,Jermaine Jackson,92,9,23
+99,Funkytown,"Lipps, Inc.",95,1,23
+100,Darlin',Yipes!!,68,68,5

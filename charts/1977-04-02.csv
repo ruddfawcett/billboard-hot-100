@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Rich Girl,Daryl Hall John Oates,1,1,11
+2,Dancing Queen,ABBA,3,2,17
+3,Don't Give Up On Us,David Soul,4,3,10
+4,Don't Leave Me This Way,Thelma Houston,5,4,16
+5,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,2,1,17
+6,Southern Nights,Glen Campbell,16,6,8
+7,The Things We Do For Love,10cc,8,7,13
+8,Hotel California,Eagles,17,8,6
+9,I've Got Love On My Mind,Natalie Cole,12,9,10
+10,Maybe I'm Amazed,Wings,11,10,8
+11,Carry On Wayward Son,Kansas,13,11,15
+12,So In To You,Atlanta Rhythm Section,14,12,10
+13,Fly Like An Eagle,Steve Miller,6,2,16
+14,I Like Dreamin',Kenny Nolan,9,3,22
+15,Say You'll Stay Until Tomorrow,Tom Jones,15,15,13
+16,Torn Between Two Lovers,Mary Macgregor,10,1,20
+17,Night Moves,Bob Seger,7,4,17
+18,Tryin' To Love Two,William Bell,24,18,7
+19,Right Time Of The Night,Jennifer Warnes,21,19,10
+20,Sam,Olivia Newton-John,22,20,10
+21,When I Need You,Leo Sayer,35,21,6
+22,I Wanna Get Next To You,Rose Royce,36,22,6
+23,The First Cut Is The Deepest,Rod Stewart,27,23,8
+24,Do Ya,Electric Light Orchestra,25,24,9
+25,Gloria,Enchantment,26,25,10
+26,Lido Shuffle,Boz Scaggs,32,26,4
+27,Free,Deniece Williams,28,27,17
+28,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,30,28,13
+29,Go Your Own Way,Fleetwood Mac,18,10,13
+30,Can't Stop Dancin',Captain & Tennille,45,30,3
+31,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,33,31,8
+32,Your Love,"Marilyn McCoo & Billy Davis, Jr.",50,32,3
+33,Couldn't Get It Right,Climax Blues Band,37,33,7
+34,All Strung Out On You,John Travolta,34,34,7
+35,I'm Your Boogie Man,KC And The Sunshine Band,41,35,6
+36,"N.y., You Got Me Dancing",Andrea True Connection,40,36,7
+37,Somethin' 'bout 'cha,Latimore,38,37,9
+38,Love In 'C' Minor - Pt. I,Cerrone,39,38,6
+39,Magical Mystery Tour,Ambrosia,44,39,6
+40,Angel In Your Arms,Hot,49,40,7
+41,Crackerbox Palace,George Harrison,19,19,10
+42,Spring Rain,Silvetti,42,39,11
+43,Boogie Child,Bee Gees,20,12,12
+44,Dancin' Man,Q,55,44,4
+45,Phantom Writer,Gary Wright,47,45,5
+46,Sometimes,Facts Of Life,56,46,5
+47,Heard It In A Love Song,The Marshall Tucker Band,57,47,4
+48,Calling Dr. Love,KISS,58,48,3
+49,Love In 'C' Minor,The Heart And Soul Orchestra,46,46,6
+50,Blinded By The Light,Manfred Mann's Earth Band,29,1,20
+51,Year Of The Cat,Al Stewart,31,8,17
+52,Do What You Wanna Do,T-Connection,62,52,4
+53,Be My Girl,The Dramatics,53,53,13
+54,Here Come Those Tears Again,Jackson Browne,23,23,9
+55,Uptown Festival (Part 1),Shalamar,66,55,4
+56,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,59,56,7
+57,Lonely Boy,Andrew Gold,72,57,3
+58,My Sweet Lady,John Denver,61,58,4
+59,Tie Your Mother Down,Queen,70,59,3
+60,Whodunit,Tavares,71,60,2
+61,"""Roots"" Medley",Quincy Jones,64,61,5
+62,Your Own Special Way,Genesis,63,62,4
+63,Disco Inferno,The Trammps,65,63,5
+64,You're Throwing A Good Love Away,The Spinners,74,64,3
+65,Hello Stranger,Yvonne Elliman,76,65,3
+66,Lucille,Kenny Rogers,83,66,2
+67,Sailing Ships,Mesa,68,67,6
+68,I'll Be Standing By,Foghat,73,68,2
+69,Cherry Baby,Starz,79,69,3
+70,Feels Like The First Time,Foreigner,89,70,2
+71,Old Fashioned Boy (You're The One),Stallion,82,71,4
+72,Dreamin,Loleatta Holloway,77,72,9
+73,Dancin',Crown Heights Affair,78,73,7
+74,Sir Duke,Stevie Wonder,-1,74,1
+75,You Know Like I Know,Ozark Mountain Daredevils,75,75,11
+76,I Think We're Alone Now,The Rubinoos,80,76,5
+77,Cinderella,Firefall,90,77,2
+78,(Theme from) Charlie's Angels,Henry Mancini And His Orchestra,85,78,3
+79,Love Is Better In The A.M. (Part 1),Johnnie Taylor,81,79,6
+80,Ain't Gonna Bump No More (with No Big Fat Woman),Joe Tex,-1,80,1
+81,Living Next Door To Alice,Smokie,69,25,18
+82,Long Time,Boston,43,22,10
+83,Rock And Roll Star,Champagne,84,83,2
+84,Margaritaville,Jimmy Buffett,-1,84,1
+85,Sub-rosa Subway/calling Occupants,Klaatu,-1,85,1
+86,Sleepwalker,The Kinks,-1,86,1
+87,I Wanna Do It To You,Jerry Butler,87,87,4
+88,You Take My Heart Away,James Darren,92,88,3
+89,Sing,Tony Orlando & Dawn,-1,89,1
+90,Love's Grown Deep,Kenny Nolan,-1,90,1
+91,It Feels So Good To Be Loved So Bad,The Manhattans,91,91,2
+92,Slowdown,John Miles,96,92,2
+93,Arrested For Driving While Blind,ZZ Top,94,93,2
+94,Weekend In New England,Barry Manilow,52,10,19
+95,Deeply,Anson Williams,-1,95,1
+96,Romeo,Mr. Big,100,91,5
+97,Part Time Love,Kerry Chater,98,97,2
+98,Undercover Angel,Alan O'Day,-1,98,1
+99,Enjoy Yourself, The Jacksons,54,6,21
+100,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,48,48,7

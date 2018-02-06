@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Battle Of New Orleans,Johnny Horton,1,1,10
+2,Personality,Lloyd Price and His Orchestra,2,2,10
+3,Lonely Boy,Paul Anka,4,3,5
+4,Dream Lover,Bobby Darin,3,2,11
+5,Lipstick On Your Collar,Connie Francis,10,5,7
+6,Tallahassee Lassie,Freddy Cannon,7,6,8
+7,Kansas City,Wilbert Harrison,5,1,12
+8,Quiet Village,The Exotic Sounds of Martin Denny,6,4,12
+9,Along Came Jones,The Coasters,9,9,7
+10,A Teenager In Love,Dion & The Belmonts,8,5,11
+11,Frankie,Connie Francis,11,11,7
+12,Waterloo,Stonewall Jackson,17,12,6
+13,Bobby Sox To Stockings,Frankie Avalon,13,13,6
+14,Bongo Rock,Preston Epps,16,14,7
+15,I Only Have Eyes For You,The Flamingos,19,15,5
+16,A Boy Without A Girl,Frankie Avalon,21,16,6
+17,My Heart Is An Open Book,"Carl Dobkins, Jr.",26,17,11
+18,Just Keep It Up,Dee Clark,22,18,9
+19,Tiger,Fabian,34,19,3
+20,Hushabye,The Mystics,33,20,6
+21,You're So Fine,The Falcons,31,21,11
+22,So Fine,The Fiestas,15,11,13
+23,Only You,Franck Pourcel's French Fiddles,12,9,13
+24,"Kookie, Kookie (Lend Me Your Comb)",Edward Byrnes & Connie Stevens,14,4,11
+25,The Wonder Of You,Ray Peterson,28,25,7
+26,What A Diff'rence A Day Makes,Dinah Washington,40,26,6
+27,This I Swear,The Skyliners,30,27,5
+28,M.T.A.,The Kingston Trio,49,28,3
+29,I'm Ready,Fats Domino,18,16,8
+30,Crossfire,Johnny And The Hurricanes,24,23,10
+31,Forty Miles Of Bad Road,Duane Eddy And The Rebels,50,31,3
+32,Ring-A-Ling-A-Lario,Jimmie Rodgers,35,32,5
+33,Little Dipper,The Mickey Mozart Quintet,32,32,6
+34,There Goes My Baby,The Drifters,41,34,5
+35,Twixt Twelve And Twenty,Pat Boone,54,35,3
+36,"Goodbye Jimmy, Goodbye",Kathy Linden,27,11,12
+37,My Melancholy Baby,Tommy Edwards,29,26,7
+38,The Happy Organ,"Dave ""Baby"" Cortez",25,1,16
+39,Robbin' The Cradle,Tony Bellus,43,39,10
+40,Endlessly,Brook Benton,23,12,11
+41,Sorry (I Ran All The Way Home),The Impalas,20,2,16
+42,Only Sixteen,Sam Cooke,51,42,4
+43,I've Come Of Age,Billy Storm,37,28,12
+44,I Can't Get You Out Of My Heart,Al Martino,53,44,7
+45,Forty Days,Ronnie Hawkins,64,45,4
+46,Wonderful You,Jimmie Rodgers,62,46,3
+47,Lonely For You,Gary Stites,44,24,12
+48,I'll Be Satisfied,Jackie Wilson,63,48,2
+49,Lavender-Blue,Sammy Turner,60,49,2
+50,Mona Lisa,Carl Mann,46,46,5
+51,Velvet Waters,The Megatrons,57,51,5
+52,Back In The U.S.A.,Chuck Berry,56,52,2
+53,Since You've Been Gone,Clyde McPhatter,55,53,3
+54,Gidget,Jimmy Darren,48,41,10
+55,Like Young,Andre Previn With David Rose,83,55,3
+56,Tall Cool One,The Wailers,36,36,7
+57,Graduation's Here,The Fleetwoods,39,39,7
+58,Remember When,The Platters,68,58,2
+59,Taboo,Arthur Lyman,67,59,3
+60,I Know,Perry Como,74,60,4
+61,The Class,Chubby Checker,38,38,7
+62,The Whistling Organ,"Dave ""Baby"" Cortez",77,62,4
+63,Just A Little Too Much,Ricky Nelson,-1,63,1
+64,With My Eyes Wide Open I'm Dreaming,Patti Page,70,64,3
+65,I Waited Too Long,LaVern Baker,42,33,11
+66,Small World,Johnny Mathis,88,66,3
+67,The Quiet Three,Duane Eddy His Twangy Guitar And The Rebels,-1,67,1
+68,High Hopes,"Frank Sinatra ""and a bunch of kids""",92,68,3
+69,Rockin' Crickets,Hot-Toddys featuring Bill Pennell,61,57,10
+70,It Was I,Skip And Flip,98,70,2
+71,I Love An Angel,Little Bill and The Bluenotes,84,71,2
+72,There Is Something On Your Mind,Big Jay McNeely And Band,79,68,6
+73,So Close,Brook Benton,73,38,7
+74,Cap And Gown,Marty Robbins,78,74,3
+75,Margie,Fats Domino,52,51,8
+76,"Ciao, Ciao Bambina",Jacky Noguez And His Musette Orchestra,97,76,2
+77,I'm Gonna Change Him,Cathy Carr,65,63,4
+78,Cherrystone,Addrisi Brothers,85,78,4
+79,Yes - Sir - ee,Dodie Stevens,-1,79,2
+80,Flower Of Love,The Crests featuring Johnny Mastro,81,80,4
+81,A Prayer And A Juke Box,Little Anthony And The Imperials,90,81,3
+82,Enchanted,The Platters,45,12,15
+83,Danny Boy,Sil Austin,59,59,5
+84,Sweet Chile,Sheb Wooley,75,70,5
+85,Till There Was You,Anita Bryant,-1,85,1
+86,"One Love, One Heart",The Four Coins,-1,82,3
+87,Sweet Someone,Eddie and Betty,-1,87,1
+88,La Plume De Ma Tante,Hugo & Luigi,95,88,4
+89,The Five Pennies,Dodie Stevens,-1,89,1
+90,See You In September,The Tempos,-1,90,1
+91,Little Boy Blue,Huelyn Duvall,93,88,3
+92,Old Spanish Town,The Bell Notes,-1,76,7
+93,Kissin' Time,Bobby Rydell,-1,93,1
+94,Beach Time,Roger Smith,-1,94,1
+95,(Now and Then There's) A Fool Such As I,Elvis Presley With The Jordanaires,71,2,15
+96,"Oh, What A Fool",The Impalas,100,96,2
+97,You Made Me Love You,Nat King Cole,58,45,9
+98,Here Comes Summer,Jerry Keller,-1,98,1
+99,Happy Vacation,Jackie Lee,-1,99,1
+100,The Way I Walk,Jack Scott,-1,100,1

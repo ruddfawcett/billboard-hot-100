@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Harper Valley P.T.A.,Jeannie C. Riley,2,1,5
+2,People Got To Be Free,The Rascals,1,1,10
+3,Hey Jude,The Beatles,10,3,2
+4,Hush,Deep Purple,8,4,6
+5,"1, 2, 3, Red Light",1910 Fruitgum Co.,5,5,9
+6,Light My Fire,Jose Feliciano,3,3,9
+7,Born To Be Wild, Steppenwolf,4,2,11
+8,The Fool On The Hill,Sergio Mendes & Brasil '66,11,8,7
+9,I've Gotta Get A Message To You,Bee Gees,23,9,6
+10,The House That Jack Built,Aretha Franklin,6,6,6
+11,Time Has Come Today,The Chambers Brothers,27,11,7
+12,Revolution,The Beatles,38,12,2
+13,Slip Away,Clarence Carter,17,13,11
+14,I Say A Little Prayer,Aretha Franklin,14,14,6
+15,Fire,The Crazy World Of Arthur Brown,60,15,3
+16,Girl Watcher,The O'Kaysions,18,16,6
+17,You're All I Need To Get By,Marvin Gaye & Tammi Terrell,7,7,9
+18,On The Road Again,Canned Heat,24,18,7
+19,My Special Angel,The Vogues,57,19,3
+20,Do It Again,The Beach Boys,20,20,9
+21,Midnight Confessions,The Grass Roots,52,21,4
+22,You Keep Me Hangin' On,The Vanilla Fudge,12,6,16
+23,"Hello, I Love You",The Doors,9,1,12
+24,Tuesday Afternoon (Forever Afternoon),The Moody Blues,29,24,10
+25,Sunshine Of Your Love,Cream,13,5,26
+26,Magic Bus,The Who,26,26,7
+27,Little Green Apples,O.C. Smith,41,27,6
+28,Love Makes A Woman,Barbara Acklin,21,15,11
+29,(The Lament Of The Cherokee) Indian Reservation,Don Fardon,59,29,4
+30,Classical Gas,Mason Williams,22,2,14
+31,Say It Loud - I'm Black And I'm Proud (Part 1),James Brown,31,31,3
+32,"Turn Around, Look At Me",The Vogues,15,7,15
+33,Down At Lulu's,Ohio Express,34,33,8
+34,Special Occasion,Smokey Robinson & The Miracles,37,34,6
+35,Sealed With A Kiss,Gary Lewis And The Playboys,25,19,14
+36,Stay In My Corner,The Dells,19,10,13
+37,I Can't Stop Dancing,Archie Bell & The Drells,16,9,10
+38,Hip City - Pt. 2,Jr. Walker & The All Stars,39,38,7
+39,Who Is Gonna Love Me?,Dionne Warwick,49,39,5
+40,The Snake,Al Wilson,44,40,6
+41,The Eyes Of A New York Woman,B.J. Thomas,28,28,14
+42,In-A-Gadda-Da-Vida,Iron Butterfly,58,42,5
+43,Girls Can't Do What The Guys Do,Betty Wright,33,33,8
+44,Suzie Q. (Part One),Creedence Clearwater Revival,88,44,3
+45,Piece Of My Heart,Big Brother And The Holding Company,56,45,4
+46,Brown Eyed Woman,Bill Medley,46,46,8
+47,"Baby, Come Back",The Equals,66,47,3
+48,Help Yourself,Tom Jones,48,48,4
+49,Give A Damn,Spanky And Our Gang ,43,43,8
+50,I Can't Dance To That Music You're Playin',Martha Reeves & The Vandellas,42,42,7
+51,To Wait For Love,Herb Alpert,54,51,4
+52,Morning Dew,Lulu,53,52,7
+53,I've Never Found A Girl (To Love Me Like You Do),Eddie Floyd,40,40,9
+54,Over You,Gary Puckett And The Union Gap,-1,54,1
+55,Listen Here,Eddie Harris,55,55,10
+56,The Weight,Jackie DeShannon,61,56,5
+57,Street Fighting Man,The Rolling Stones,63,57,3
+58,Six Man Band,The Association,47,47,5
+59,I Wish It Would Rain,Gladys Knight And The Pips,45,45,5
+60,"Hey, Western Union Man",Jerry Butler,64,60,4
+61,Down On Me,Big Brother And The Holding Company,68,61,4
+62,Workin' On A Groovy Thing,Patti Drew,62,62,8
+63,Shape Of Things To Come,Max Frost And The Troopers,84,63,3
+64,Break Your Promise,The Delfonics,65,64,4
+65,(There's) Always Something There To Remind Me,Dionne Warwick,69,65,4
+66,All Along The Watchtower,The Jimi Hendrix Experience,-1,66,1
+67,Barefoot In Baltimore,Strawberry Alarm Clock,67,67,4
+68,I Met Her In Church,The Box Tops,80,68,2
+69,Down Here On The Ground,Lou Rawls,72,69,4
+70,The Weight,The Band,70,70,4
+71,My Way Of Life,Frank Sinatra,71,71,4
+72,Chained,Marvin Gaye,79,72,2
+73,Fly Me To The Moon,Bobby Womack,73,73,6
+74,Unchained Melody,The Sweet Inspirations,74,74,4
+75,Private Number,Judy Clay & William Bell,75,75,4
+76,That Kind Of Woman,Merrilee Rush & The Turnabouts,76,76,4
+77,Fool For You,The Impressions,77,77,3
+78,Don't Change Your Love,Five Stairsteps & Cubie,78,78,5
+79,Gentle On My Mind,Glen Campbell,89,62,9
+80,Naturally Stoned,The Avant-Garde,81,80,4
+81,For The Love Of Ivy,The Mamas & The Papas,91,81,2
+82,The Mule,The James Boys,82,82,4
+83,Do What You Gotta Do,Bobby Vee,83,83,4
+84,Then You Can Tell Me Goodbye,Eddy Arnold,85,84,3
+85,"Shoot'em Up, Baby",Andy Kim,86,85,3
+86,Poor Baby,The Cowsills,87,86,2
+87,I Found A True Love,Wilson Pickett,-1,87,1
+88,Horse Fever,Cliff Nobles & Co.,99,88,2
+89,Light My Fire,The Doors,90,1,21
+90,Hold Me Tight,Johnny Nash,98,90,2
+91,The Funky Judge,Bull & The Matadors,92,91,5
+92,"The Biplane, Ever More",The Irish Rovers,96,92,2
+93,San Francisco Girls (Return of the Native),Fever Tree,-1,91,4
+94,There Was A Time,Gene Chandler,-1,94,1
+95,Battle Of New Orleans,Harpers Bizarre,-1,95,1
+96,The Choice,The O'Jays,-1,96,1
+97,Elenore,The Turtles,-1,97,1
+98,Tomboy,Ronnie Dove,-1,98,1
+99,I Love You Madly,Fantastic Four,-1,99,1
+100,Court Of Love,The Unifics,-1,100,1

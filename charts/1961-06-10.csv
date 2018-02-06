@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Travelin' Man,Ricky Nelson,2,1,8
+2,Moody River,Pat Boone,7,2,7
+3,Running Scared,Roy Orbison,1,1,10
+4,Stand By Me,Ben E. King,6,4,6
+5,Raindrops,Dee Clark,9,5,7
+6,The Writing On The Wall,Adam Wade,18,6,5
+7,I Feel So Bad,Elvis Presley,5,5,5
+8,Every Beat Of My Heart,Pips,21,8,5
+9,Quarter To Three,U.S. Bonds,33,9,4
+10,The Boll Weevil Song,Brook Benton,26,10,5
+11,Those Oldies But Goodies (Remind Me Of You),Little Caesar and The Romans,22,11,7
+12,Mama Said,The Shirelles,4,4,9
+13,Barbara-Ann,The Regents,16,13,5
+14,You Always Hurt The One You Love,Clarence Henry,17,14,5
+15,Hello Mary Lou,Ricky Nelson,14,9,7
+16,Daddy's Home,Shep And The Limelites,3,2,12
+17,Tossin' And Turnin',Bobby Lewis,24,17,8
+18,Hello Walls,Faron Young ,12,12,10
+19,A Hundred Pounds Of Clay,Gene McDaniels,8,3,13
+20,Tragedy,The Fleetwoods,11,10,9
+21,Dance On Little Girl,Paul Anka,48,21,3
+22,Mother-In-Law,Ernie K-Doe,19,1,12
+23,Yellow Bird,Arthur Lyman Group,42,23,3
+24,Peanut Butter,The Marathons,28,24,8
+25,Little Egypt (Ying-Yang),The Coasters,27,25,8
+26,Rama Lama Ding Dong,The Edsels,31,26,7
+27,I'm A Fool To Care,Joe Barry,25,25,8
+28,Breakin' In A Brand New Broken Heart,Connie Francis,10,7,9
+29,Runaway,Del Shannon,15,1,15
+30,Little Devil,Neil Sedaka,13,11,7
+31,Lullaby Of Love,Frank Gari,23,23,10
+32,Temptation,The Everly Brothers,59,32,3
+33,What A Surprise,Johnny Maestro The Voice Of The Crests,35,33,8
+34,Girl Of My Best Friend,Ral Donner,20,19,9
+35,Triangle,Janie Grant,29,29,12
+36,Exodus,Eddie Harris,36,36,10
+37,Never On Sunday,Don Costa And His Orchestra And Chorus,38,19,21
+38,Count Every Star,Donnie and The Dreamers,45,38,7
+39,The Bilbao Song,Andy Williams,37,37,8
+40,Better Tell Him No,The Starlets,49,40,8
+41,Tell Me Why,The Belmonts,58,41,4
+42,Halfway To Paradise,Tony Orlando,39,39,7
+43,Heart And Soul,The Cleftones,55,43,4
+44,It Keeps Rainin',Fats Domino,54,44,5
+45,Every Beat Of My Heart,Gladys Knight And The Pips,46,45,5
+46,Portrait Of My Love,Steve Lawrence,30,9,15
+47,That Old Black Magic,Bobby Rydell,32,21,7
+48,Wild In The Country,Elvis Presley With The Jordanaires,73,48,2
+49,I've Told Every Little Star,Linda Scott,34,3,14
+50,Stick With Me Baby,The Everly Brothers,97,50,2
+51,My Kind Of Girl,Matt Monro,68,51,3
+52,The Wayward Wind,Gogi Grant,50,50,8
+53,Jimmy Martinez,Marty Robbins,63,53,3
+54,Anna,Jorgen Ingmann & His Guitar,60,54,4
+55,I Don't Mind,James Brown And The Famous Flames,61,55,5
+56,You Can Depend On Me,Brenda Lee,40,6,12
+57,A Love Of My Own,Carla Thomas,56,56,6
+58,Buzz Buzz A-Diddle-It,Freddy Cannon,51,51,7
+59,Take Good Care Of Her,Adam Wade,41,7,14
+60,Just For Old Time's Sake,The McGuire Sisters,44,20,14
+61,Three Hearts In A Tangle,Roy Drusky,76,61,10
+62,Nobody Cares (about me),Jeanette (Baby) Washington,65,62,7
+63,How Many Tears,Bobby Vee,70,63,3
+64,Cupid,Sam Cooke,85,64,2
+65,Please Stay,The Drifters,93,65,2
+66,Jura (I Swear I Love You),Les Paul And Mary Ford,83,66,6
+67,Tonight (Could Be The Night),The Velvets featuring Virgil Johnson,89,67,3
+68,I Fall To Pieces,Patsy Cline,77,68,4
+69,Rainin' In My Heart,Slim Harpo,72,69,3
+70,Hats Off To Larry,Del Shannon,92,70,2
+71,Sacred,The Castells,80,71,3
+72,I'm Comin' On On Back To You,Jackie Wilson,-1,72,1
+73,Big Big World,Johnny Burnette,62,58,7
+74,San Antonio Rose,Floyd Cramer,90,74,2
+75,"I Like It Like That, Part 1",Chris Kenner,75,75,3
+76,The Girl's A Devil,The Dukays,79,76,5
+77,Ole Buttermilk Sky,Bill Black's Combo,94,77,2
+78,Big Boss Man,Jimmy Reed,81,78,3
+79,Yellow Bird,Lawrence Welk And His Orchestra,-1,79,1
+80,Lonely Life,Jackie Wilson,-1,80,1
+81,Milord,Teresa Brewer,74,74,4
+82,Right Or Wrong,Wanda Jackson,87,82,2
+83,Fool That I Am,Etta James,-1,83,1
+84,Nature Boy,Bobby Darin,-1,84,1
+85,Summertime,The Marcels,78,78,3
+86,Hold Back The Tears,The Delacardos,98,86,2
+87,The Lonely Crowd,Teddy Vann,95,87,2
+88,Daydreams,Johnny Crawford,-1,88,1
+89,Miss Fine,The New Yorkers,69,69,5
+90,Lonesome Whistle Blues,Freddy King,88,88,4
+91,"(Theme From) ""Goodbye Again""",Ferrante & Teicher,-1,91,1
+92,Watch Your Step,Bobby Parker,-1,92,1
+93,(I've Got) Spring Fever,Little Willie John,71,71,5
+94,Mom And Dad's Waltz,Patti Page,-1,94,1
+95,Sad Eyes (Don't You Cry),The Echoes,-1,95,1
+96,Ring Of Fire,Duane Eddy,84,84,3
+97,Joanie,Frankie Calen,-1,97,1
+98,Should I,The String-A-Longs,-1,98,1
+99,Blue Tomorrow,Billy Vaughn And His Orchestra,-1,99,1
+100,Bobby,Neil Scott,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Help Me, Rhonda",The Beach Boys,4,1,7
+2,Ticket To Ride,The Beatles,1,1,6
+3,Back In My Arms Again,The Supremes,6,3,5
+4,Mrs. Brown You've Got A Lovely Daughter,Herman's Hermits,2,1,7
+5,Wooly Bully,Sam The Sham and the Pharaohs,8,5,9
+6,Crying In The Chapel,Elvis Presley With The Jordanaires,10,6,6
+7,Count Me In,Gary Lewis And The Playboys,3,2,9
+8,I'll Never Find Another You,The Seekers,5,4,10
+9,Just A Little,The Beau Brummels,19,9,7
+10,It's Not Unusual,Tom Jones,15,10,8
+11,Just Once In My Life,The Righteous Brothers,9,9,8
+12,Baby The Rain Must Fall,Glenn Yarbrough,12,12,12
+13,She's About A Mover,Sir Douglas Quintet,18,13,9
+14,Silhouettes,Herman's Hermits,7,5,9
+15,Cast Your Fate To The Wind,Sounds Orchestral,11,10,11
+16,True Love Ways,Peter And Gordon,17,16,7
+17,I Can't Help Myself (Sugar Pie Honey Bunch),Four Tops,32,17,3
+18,Queen Of The House,Jody Miller,25,18,6
+19,Engine Engine #9,Roger Miller,30,19,4
+20,Iko Iko,The Dixie Cups,20,20,9
+21,Do The Freddie,Freddie And The Dreamers,24,21,6
+22,You Were Made For Me,Freddie And The Dreamers,26,22,5
+23,Reelin' And Rockin',The Dave Clark Five,23,23,7
+24,Ooo Baby Baby,The Miracles,21,16,10
+25,Dream On Little Dreamer,Perry Como,27,25,8
+26,We're Gonna Make It,Little Milton,29,25,10
+27,I'll Be Doggone,Marvin Gaye,16,8,11
+28,L-O-N-E-L-Y,Bobby Vinton,36,28,4
+29,Last Chance To Turn Around,Gene Pitney,38,29,4
+30,Nothing Can Stop Me,Gene Chandler,34,30,7
+31,You Were Only Fooling (While I Was Falling In Love),Vic Damone,41,31,7
+32,I Know A Place,Petula Clark,13,3,11
+33,Game Of Love,Wayne Fontana & The Mindbenders,14,1,11
+34,"Hush, Hush, Sweet Charlotte",Patti Page,39,34,6
+35,Three O'Clock In The Morning,Bert Kaempfert And His Orchestra,45,35,5
+36,The Last Time,The Rolling Stones,22,9,10
+37,It's Growing,The Temptations,31,18,9
+38,Concrete And Clay,Unit Four plus Two,49,38,5
+39,Before And After,Chad & Jeremy,50,39,3
+40,Bring It On Home To Me,The Animals,52,40,3
+41,Land Of 1000 Dances,Cannibal And The Headhunters,35,30,14
+42,I Do Love You,Billy Stewart,33,26,10
+43,It's Gonna Be Alright,Gerry And The Pacemakers,37,23,8
+44,A Walk In The Black Forest,Horst Jankowski,55,44,4
+45,Concrete And Clay,Eddie Rambeau,51,45,5
+46,Voodoo Woman,Bobby Goldsboro,56,46,5
+47,Shakin' All Over,The Guess Who,59,47,4
+48,For Your Love,The Yardbirds,61,48,3
+49,Let's Do The Freddie,Chubby Checker,40,40,9
+50,Wonderful World,Herman's Hermits,-1,50,1
+51,I've Been Loving You Too Long (To Stop Now),Otis Redding,75,51,3
+52,Lipstick Traces (On A Cigarette),The O'Jays,68,52,4
+53,Boo-Ga-Loo,Tom and Jerrio,65,53,5
+54,(Remember Me) I'm The One Who Loves You,Dean Martin,77,54,2
+55,Mr. Tambourine Man,The Byrds,72,55,3
+56,Now That You've Gone,Connie Stevens,53,53,6
+57,Wishing It Was You,Connie Francis,62,57,5
+58,Catch The Wind,Donovan,70,58,3
+59,Something You Got,Chuck Jackson & Maxine Brown,67,59,6
+60,Laurie (Strange Things Happen),Dickey Lee,74,60,3
+61,Al's Place,Al (He's the King) Hirt,57,57,7
+62,What Do You Want With Me,Chad & Jeremy,58,51,8
+63,And I Love Him,Esther Phillips,78,63,4
+64,Peanuts (La Cacahuata),The Sunglows,64,64,4
+65,The Climb,The Kingsmen,69,65,4
+66,I Do,The Marvelows,79,66,3
+67,You Can Have Her,The Righteous Brothers,73,67,4
+68,Georgie Porgie,Jewel Akens,71,68,5
+69,"Yes, I'm Ready",Barbara Mason,86,69,3
+70,What The World Needs Now Is Love,Jackie DeShannon,88,70,2
+71,Tell Her (You Love Her Every Day),Frank Sinatra,82,71,2
+72,It's Wonderful To Be In Love,The Ovations (Featuring Louis Williams),84,72,2
+73,Give Us Your Blessings,The Shangri-Las,-1,73,1
+74,Here Comes The Night,Them,-1,74,1
+75,I'll Be With You In Apple Blossom Time,Wayne Newton,90,75,2
+76,You Really Know How To Hurt A Guy,Jan & Dean,91,76,2
+77,Gotta Have Your Love,The Sapphires,80,77,5
+78,What's He Doing In My World,Eddy Arnold,85,78,3
+79,Love Is A 5-Letter Word,James Phelps,89,79,4
+80,Tonight's The Night,Solomon Burke,-1,80,1
+81,Good Lovin',The Olympics,81,81,5
+82,You Turn Me On (Turn On Song),Ian Whitcomb And Bluesville,99,82,2
+83,Bring A Little Sunshine (To My Heart),Vic Dana,98,83,2
+84,The Mouse,Soupy Sales,76,76,6
+85,I'll Keep Holding On,The Marvelettes,-1,85,1
+86,Keep On Trying,Bobby Vee,95,86,4
+87,A World Of Our Own,The Seekers,-1,87,1
+88,Is This What I Get For Loving You?,The Ronettes Featuring Veronica,-1,88,1
+89,Little Lonely One,Tom Jones,-1,89,1
+90,Lip Sync (To The Tongue Twisters),Len Barry,-1,90,1
+91,When The Ship Comes In,"Peter, Paul & Mary",94,91,3
+92,"Oo Wee Baby, I Love You",Fred Hughes,-1,92,1
+93,You'll Miss Me (When I'm Gone),Fontella Bass & Bobby McClure,-1,93,1
+94,It's Almost Tomorrow,Jimmy Velvet,-1,94,1
+95,Break Up,Del Shannon,97,95,2
+96,Too Many Rivers,Brenda Lee,-1,96,1
+97,I Love You So,Bobbi Martin,-1,97,1
+98,No One,Brenda Lee,-1,98,1
+99,It Ain't No Big Thing,Radiants,-1,91,3
+100,The Puzzle Song (A Puzzle In Song),Shirley Ellis,-1,100,1

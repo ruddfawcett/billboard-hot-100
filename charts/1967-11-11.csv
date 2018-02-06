@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,To Sir With Love,Lulu,1,1,10
+2,Soul Man,Sam & Dave,2,2,10
+3,It Must Be Him,Vikki Carr,3,3,11
+4,Incense And Peppermints,Strawberry Alarm Clock,7,4,7
+5,Your Precious Love,Marvin Gaye & Tammi Terrell,5,5,10
+6,"The Rain, The Park & Other Things",The Cowsills,9,6,7
+7,Please Love Me Forever,Bobby Vinton,10,7,7
+8,A Natural Woman (You Make Me Feel Like),Aretha Franklin,8,8,7
+9,Expressway (To Your Heart),Soul Survivors,4,4,11
+10,Never My Love,The Association,6,2,12
+11,I Can See For Miles,The Who,23,11,5
+12,I'm Wondering, Stevie Wonder,12,12,6
+13,Love Is Strange,Peaches & Herb,18,13,7
+14,(Loneliness Made Me Realize) It's You That I Need,The Temptations,15,14,5
+15,Let It Out (Let It All Hang Out),The Hombres,16,15,9
+16,Holiday,Bee Gees,21,16,7
+17,How Can I Be Sure,The Young Rascals ,13,4,10
+18,People Are Strange,The Doors,14,12,8
+19,Everlasting Love,Robert Knight,24,19,7
+20,Get On Up,The Esquires,11,11,13
+21,Pata Pata,Miriam Makeba,26,21,6
+22,I Say A Little Prayer,Dionne Warwick,27,22,4
+23,Kentucky Woman,Neil Diamond,28,23,5
+24,Lazy Day,Spanky And Our Gang,29,24,5
+25,Lady Bird,Nancy Sinatra & Lee Hazlewood,30,25,4
+26,The Letter,The Box Tops,17,1,14
+27,I Heard It Through The Grapevine,Gladys Knight And The Pips,32,27,4
+28,Gimme Little Sign,Brenton Wood ,19,9,14
+29,Glad To Be Unhappy,The Mamas & The Papas,37,29,3
+30,Boogaloo Down Broadway,The Fantastic Johnny C,40,30,6
+31,Like An Old Time Movie,Scott McKenzie,41,31,4
+32,She Is Still A Mystery,The Lovin' Spoonful,42,32,3
+33,The Last Waltz,Engelbert Humperdinck,25,25,8
+34,The Look Of Love,Dusty Springfield,22,22,14
+35,Keep The Ball Rollin',Jay And The Techniques,46,35,4
+36,Hey Baby (They're Playing Our Song),The Buckinghams,20,12,10
+37,Homburg,Procol Harum,47,37,3
+38,Big Boss Man,Elvis Presley,38,38,5
+39,Stag-O-Lee,Wilson Pickett,57,39,2
+40,Even The Bad Times Are Good,The Tremeloes,36,36,7
+41,You Better Sit Down Kids,Cher,62,41,3
+42,Get It Together (Part 1),James Brown And The Famous Flames,53,42,3
+43,Back On The Street Again,The Sunshine Company,54,43,4
+44,Mr. Dream Merchant,Jerry Butler,55,44,4
+45,You Don't Know Me,Elvis Presley With The Jordanaires,45,45,5
+46,Wild Honey,The Beach Boys,67,46,2
+47,Little Ole Man (Uptight-Everything's Alright),Bill Cosby,35,4,11
+48,"Beg, Borrow And Steal",Ohio Express,58,48,6
+49,Watch The Flowers Grow,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",61,49,3
+50,Child Of Clay,Jimmie Rodgers,31,31,8
+51,By The Time I Get To Phoenix,Glen Campbell,76,51,3
+52,Hush,Billy Joe Royal,52,52,7
+53,This Town,Frank Sinatra,63,53,3
+54,Shout Bamalama,Mickey Murray,56,54,6
+55,You've Made Me So Very Happy,Brenda Holloway,39,39,10
+56,Out Of The Blue,Tommy James And The Shondells,68,56,3
+57,I Second That Emotion,Smokey Robinson & The Miracles,85,57,2
+58,Skinny Legs And All,Joe Tex ,69,58,3
+59,Are You Never Coming Home,Sandy Posey,59,59,4
+60,Suzanne,Noel Harrison,70,60,3
+61,Karate-Boo-Ga-Loo,Jerryo,51,51,7
+62,Yesterday,Ray Charles,-1,62,1
+63,If This Is Love (I'd Rather Be Lonely),The Precisions,60,60,6
+64,Go-Go Girl,Lee Dorsey,65,64,4
+65,In And Out Of Love,Diana Ross & The Supremes,-1,65,1
+66,Next Plane To London,The Rose Garden,75,66,4
+67,She's My Girl,The Turtles,-1,67,1
+68,Rock 'N' Roll Woman,The Buffalo Springfield,66,44,7
+69,Just One Look,The Hollies,44,44,8
+70,"Wake Up, Wake Up",The Grass Roots,72,70,3
+71,Nine Pound Steel,Joe Simon,71,71,8
+72,Paper Cup,The 5th Dimension,90,72,2
+73,Whole Lotta Woman,Arthur Conley ,83,73,2
+74,(The Lights Went Out In) Massachusetts,Bee Gees,-1,74,1
+75,You Mean The World To Me,David Houston,77,75,6
+76,Spreadin' Honey,The Watts 103rd Street Rhythm Band,73,73,10
+77,"Sweet, Sweet Lovin'",The Platters,94,77,4
+78,Go With Me,Gene And Debbe,80,78,5
+79,Can't Stop Loving You,The Last Word,79,79,4
+80,Get Down,Harvey Scales,81,80,5
+81,Soul Man,Ramsey Lewis,-1,81,1
+82,Brink Of Disaster,Lesley Gore,82,82,4
+83,When You're Gone,Brenda & The Tabulations,84,83,2
+84,An Open Letter To My Teenage Son,Victor Lundberg,-1,84,1
+85,Shame On Me,Chuck Jackson,87,85,5
+86,All Your Goodies Are Gone (The Loser's Seat),The Parliaments,88,86,5
+87,Neon Rainbow,The Box Tops,-1,87,1
+88,You Are My Sunshine,Mitch Ryder,93,88,3
+89,"O-O, I Love You",The Dells,95,89,2
+90,Different Drum,Stone Poneys Featuring Linda Ronstadt,-1,90,1
+91,For Once In My Life,Tony Bennett,92,91,3
+92,Itchycoo Park,Small Faces,-1,92,1
+93,Where Is The Party,Helena Ferguson,-1,93,1
+94,Lapland,The Baltimore And Ohio Marching Band,96,94,3
+95,Alligator Bogaloo,Lou Donaldson,99,95,2
+96,Pony With The Golden Mane,Every Mothers' Son,-1,96,1
+97,On A Saturday Night,Eddie Floyd,97,97,3
+98,Tell Mama,Etta James,-1,98,1
+99,Piece Of My Heart,Erma Franklin,100,99,2
+100,He Ain't Give You None,Freddie Scott,-1,100,1

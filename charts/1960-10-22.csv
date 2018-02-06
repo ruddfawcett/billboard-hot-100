@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Want To Be Wanted,Brenda Lee,4,1,7
+2,Save The Last Dance For Me,The Drifters,1,1,8
+3,The Twist,Chubby Checker,5,1,13
+4,My Heart Has A Mind Of Its Own,Connie Francis,2,1,11
+5,Chain Gang,Sam Cooke,3,2,11
+6,Devil Or Angel,Bobby Vee,6,6,13
+7,Let's Think About Living,Bob Luman ,11,7,8
+8,So Sad (To Watch Good Love Go Bad),The Everly Brothers,9,7,8
+9,Mr. Custer,Larry Verne,7,1,9
+10,Theme From The Apartment,Ferrante & Teicher,14,10,14
+11,Georgia On My Mind,Ray Charles,13,11,5
+12,You Talk Too Much,Joe Jones,25,12,6
+13,Kiddio,Brook Benton,12,7,12
+14,A Million To One,Jimmy Charles and The Revelletts,8,5,10
+15,Don't Be Cruel,Bill Black's Combo,18,15,7
+16,It's Now Or Never,Elvis Presley With The Jordanaires,10,1,15
+17,Three Nights A Week,Fats Domino,16,15,8
+18,Diamonds And Pearls,The Paradons,19,18,10
+19,Never On Sunday,Don Costa And His Orchestra And Chorus,22,19,12
+20,Summer's Gone,Paul Anka,24,20,5
+21,Sleep,Little Willie John,21,21,8
+22,Blue Angel,Roy Orbison,33,22,6
+23,Artificial Flowers,Bobby Darin,26,23,5
+24,(You've Got To) Move Two Mountains,Marv Johnson,20,20,8
+25,"Let's Go, Let's Go, Let's Go",Hank Ballard And The Midnighters,34,25,6
+26,Poetry In Motion,Johnny Tillotson,41,26,3
+27,Stay,Maurice Williams & The Zodiacs,36,27,4
+28,Dreamin',Johnny Burnette,30,11,14
+29,Pineapple Princess,Annette With The Afterbeats,17,11,11
+30,Togetherness,Frankie Avalon,31,30,6
+31,North To Alaska,Johnny Horton,37,31,6
+32,To Each His Own,The Platters,49,32,3
+33,Lucille,The Everly Brothers,32,21,8
+34,Walk -- Don't Run,The Ventures,15,2,15
+35,Twistin' U.S.A.,Danny & The Juniors,29,27,6
+36,Alone At Last,Jackie Wilson,45,36,3
+37,The Same One,Brook Benton,35,16,10
+38,You Mean Everything To Me,Neil Sedaka,23,17,12
+39,Tonights The Night,The Shirelles,40,39,7
+40,A Fool In Love,Ike & Tina Turner,27,27,9
+41,Peter Gunn,Duane Eddy His Twangy Guitar And The Rebels,67,41,3
+42,Shimmy Like Kate,The Olympics,47,42,7
+43,Just A Little,Brenda Lee,55,43,4
+44,Anymore,Teresa Brewer,39,31,12
+45,Somebody To Love,Bobby Darin,53,45,5
+46,(I Do The) Shimmy Shimmy,Bobby Freeman,46,37,11
+47,Run Samson Run,Neil Sedaka,28,28,8
+48,New Orleans,U.S. Bonds ,71,48,2
+49,Let's Have A Party,Wanda Jackson,48,37,9
+50,My Dearest Darling,Etta James,54,50,6
+51,The Hucklebuck,Chubby Checker,59,51,3
+52,I Wish I'd Never Been Born,Patti Page,60,52,4
+53,Finger Poppin' Time,Hank Ballard And The Midnighters,42,7,24
+54,Love Walked In,Dinah Washington,61,54,4
+55,Last Date,Floyd Cramer,63,55,3
+56,Temptation,Roger Williams,62,56,5
+57,Volare,Bobby Rydell,43,4,15
+58,The Twist,Hank Ballard And The Midnighters,50,28,15
+59,Humdinger,Freddy Cannon,66,59,3
+60,Everglades,The Kingston Trio,65,60,3
+61,My Love For You,Johnny Mathis,56,47,9
+62,I'm Not Afraid,Ricky Nelson,57,27,8
+63,I'm Sorry,Brenda Lee,51,1,22
+64,Mission Bell,Donnie Brooks,38,7,20
+65,Whole Lotta Shakin' Goin' On,Chubby Checker,77,65,3
+66,The Sundowners,Billy Vaughn And His Orchestra,73,66,4
+67,A Thousand Stars,Kathy Young With The Innocents,-1,67,1
+68,One Of The Lucky Ones,Anita Bryant,80,68,3
+69,Alabam,Cowboy Copas,74,69,5
+70,Theme From The Sundowners,Felix Slatkin Orchestra and Chorus,76,70,4
+71,Patsy,Jack Scott,83,71,2
+72,Lonely Teenager,Dion,82,72,2
+73,(The Clickity Clack Song) Four Little Heels,Brian Hyland,81,73,3
+74,That's How Much,Brian Hyland,-1,74,1
+75,If She Should Come To You (La Montana),Anthony Newley,98,75,3
+76,Sailor (Your Home Is The Sea),Lolita,-1,76,1
+77,My Girl Josephine,Fats Domino,-1,77,1
+78,Am I Losing You,Jim Reeves,-1,78,1
+79,Dear John,Pat Boone,-1,79,1
+80,My Hero,The Blue Notes ,78,78,4
+81,Last Date,Lawrence Welk And His Orchestra,-1,81,1
+82,Serenata,Sarah Vaughan,86,82,3
+83,Ballad Of The Alamo,Marty Robbins,92,83,2
+84,Ballad Of The Alamo,Bud & Travis,99,84,2
+85,The Girl With The Story In Her Eyes,Safaris with The Phantom's Band,93,85,2
+86,Have Mercy Baby,The Bobbettes,88,86,3
+87,Midnight Lace,Ray Ellis,95,87,2
+88,Shoppin' For Clothes,The Coasters,89,83,4
+89,Alabam,Pat Boone,-1,89,1
+90,I'll Save The Last Dance For You,Damita Jo,-1,90,1
+91,Side Car Cycle,Charlie Ryan and the Timberline Riders,94,91,2
+92,Wait For Me,The Playmates,-1,92,1
+93,Night Theme,The Mark II,97,93,2
+94,Midnight Lace - Part I,Ray Conniff His Orchestra And Chorus,100,94,2
+95,Dance With Me Georgie,The Bobbettes,-1,95,1
+96,Only The Lonely (Know How I Feel),Roy Orbison,72,2,21
+97,"(Theme from) ""The Dark At The Top Of The Stairs""",Ernie Freeman,-1,97,1
+98,Midnight Lace,David Carroll And His Orchestra,-1,98,1
+99,Am I The Man,Jackie Wilson,-1,99,1
+100,Isn't It Amazing,The Crests featuring Johnny Mastro,-1,100,1

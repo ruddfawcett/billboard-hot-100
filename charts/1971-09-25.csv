@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Go Away Little Girl,Donny Osmond,1,1,8
+2,Maggie May/Reason To Believe,Rod Stewart,4,2,11
+3,Ain't No Sunshine,Bill Withers,3,3,11
+4,The Night They Drove Old Dixie Down,Joan Baez,8,4,7
+5,Spanish Harlem,Aretha Franklin,2,2,9
+6,Uncle Albert/Admiral Halsey,Paul & Linda McCartney,5,1,7
+7,Smiling Faces Sometimes,The Undisputed Truth,6,3,14
+8,Superstar/Bless The Beasts And Children,Carpenters,12,8,4
+9,Whatcha See Is Whatcha Get,The Dramatics,10,9,13
+10,I Just Want To Celebrate,Rare Earth,7,7,11
+11,Stick-Up,The Honey Cone,11,11,8
+12,Do You Know What I Mean,Lee Michaels,16,12,9
+13,I Woke Up In Love This Morning,The Partridge Family Starring Shirley Jones Featuring David Cassidy,14,13,7
+14,If You Really Love Me,Stevie Wonder,20,14,7
+15,Won't Get Fooled Again,The Who,15,15,11
+16,Tired Of Being Alone,Al Green,19,16,10
+17,How Can You Mend A Broken Heart,Bee Gees,9,1,14
+18,Sweet City Woman,Stampeders,21,18,7
+19,Yo-Yo,The Osmonds,40,19,3
+20,So Far Away/Smackwater Jack,Carole King,25,20,5
+21,Chirpy Chirpy Cheep Cheep,Mac And Katie Kissoon,22,21,10
+22,Signs,Five Man Electrical Band,18,3,18
+23,Make It Funky (Part 1),James Brown,27,23,5
+24,The Story In Your Eyes,The Moody Blues,24,24,8
+25,Rain Dance,The Guess Who,29,25,7
+26,"Take Me Home, Country Roads",John Denver,13,2,23
+27,Thin Line Between Love & Hate,The Persuaders,35,27,5
+28,Saturday Morning Confusion,Bobby Russell,30,28,12
+29,Liar,Three Dog Night,17,7,12
+30,I've Found Someone Of My Own,The Free Movement,39,30,17
+31,Bangla-Desh/Deep Blue,George Harrison,23,23,7
+32,Wedding Song (There Is Love),Paul Stookey,33,32,9
+33,The Breakdown (Part I),Rufus Thomas,34,33,7
+34,The Love We Had (Stays On My Mind),The Dells,36,34,7
+35,Trapped By A Thing Called Love,Denise LaSalle,42,35,6
+36,I Ain't Got Time Anymore,The Glass Bottle,37,36,11
+37,Stagger Lee,Tommy Roe,45,37,6
+38,Surrender,Diana Ross,38,38,7
+39,All Day Music,War,41,39,8
+40,Easy Loving,Freddie Hart,49,40,6
+41,Loving Her Was Easier (Than Anything I'll Ever Do Again),Kris Kristofferson,48,41,6
+42,Marianne,Stephen Stills,43,42,6
+43,MacArthur Park (Part II),Four Tops,62,43,3
+44,"Another Time, Another Place",Engelbert Humperdinck,50,44,6
+45,Where Evil Grows,The Poppy Family,46,45,9
+46,Birds Of A Feather,The Raiders,70,46,3
+47,"Stop, Look, Listen (To Your Heart)",The Stylistics,47,39,14
+48,One Fine Morning,Lighthouse,66,48,3
+49,K-Jee,The Nite-Liters,52,39,12
+50,Annabella,"Hamilton, Joe Frank & Reynolds",57,50,5
+51,Crazy Love,Helen Reddy,51,51,8
+52,"Call My Name, I'll Be There",Wilson Pickett,55,52,5
+53,Women's Love Rights,Laura Lee,69,53,4
+54,Ko-Ko Joe,Jerry Reed,58,54,4
+55,A Natural Man,Lou Rawls,60,55,5
+56,"Take Me Girl, I'm Ready",Jr. Walker & The All Stars,53,50,8
+57,I Likes To Do It,The People's Choice,54,38,10
+58,The Year That Clayton Delaney Died,Tom T. Hall,79,58,6
+59,Is That The Way,Tin Tin,59,59,5
+60,Maggie,Redbone,56,45,17
+61,Never My Love,The 5th Dimension,89,61,2
+62,Them Changes,Buddy Miles & The Freedom Express,64,62,16
+63,How Can I Unlove You,Lynn Anderson,63,63,6
+64,Hijackin' Love,Johnnie Taylor (The Soul Philosopher),65,64,5
+65,Think His Name,Johnny Rivers,67,65,5
+66,"Gypsys, Tramps & Thieves",Cher,88,66,2
+67,Roll On,The New Colony Six,71,67,6
+68,Talk It Over In The Morning,Anne Murray,73,68,3
+69,Gimme Shelter,Grand Funk Railroad,61,61,5
+70,All My Trials,Ray Stevens,75,70,5
+71,Only You Know And I Know,Delaney & Bonnie,-1,71,1
+72,Charity Ball,Fanny,81,72,2
+73,Don't Try To Lay No Boogie-Woogie On The King Of Rock And Roll,John Baldry,74,73,6
+74,I'm Comin' Home,Tommy James,-1,74,1
+75,Ghetto Woman,B.B. King,76,75,3
+76,You've Got To Crawl (Before You Walk),The 8th Day,91,76,2
+77,Pin The Tail On The Donkey,The Newcomers,84,77,3
+78,Feel So Bad,Ray Charles,80,78,5
+79,Military Madness,Graham Nash,82,79,4
+80,"One Tin Soldier, The Legend of Billy Jack",Coven,87,80,2
+81,Some Of Shelly's Blues,Nitty Gritty Dirt Band,85,81,3
+82,That's The Way A Woman Is,Messengers,93,82,3
+83,He'd Rather Have The Rain,Heaven Bound with Tony Scotti,83,83,4
+84,It's A Cryin' Shame,Gayle McCormick,90,84,2
+85,I Don't Need No Doctor,Humble Pie,-1,85,1
+86,I Know I'm In Love,Chee-Chee & Peppy,86,49,11
+87,It's For You,Springwell,97,87,2
+88,Peace Train,Cat Stevens,-1,88,1
+89,You Send Me,Ponderosa Twins + One,-1,89,1
+90,"Hot Pants - I'm Coming, Coming, I'm Coming",Bobby Byrd,-1,90,1
+91,Solo,Billie Sans,92,91,3
+92,Handbags And Gladrags,Chase,95,92,3
+93,Can You Get To That,Funkadelic,94,93,3
+94,A Part Of You,Brenda & The Tabulations,96,94,5
+95,All My Hard Times,Joe Simon,-1,95,1
+96,Everything's Alright,Yvonne Elliman,-1,96,1
+97,Black Seeds Keep On Growing,The Main Ingredient,99,97,3
+98,I Like What You Give,Nolan,100,98,2
+99,Your Move (I've Seen All Good People),Yes,-1,99,1
+100,I'd Love To Change The World,Ten Years After,-1,100,1

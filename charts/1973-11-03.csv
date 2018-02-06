@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Midnight Train To Georgia,Gladys Knight And The Pips,1,1,10
+2,Angie,The Rolling Stones,2,1,9
+3,Keep On Truckin' (Part 1),Eddie Kendricks,5,3,11
+4,Half-Breed,Cher,3,1,14
+5,Paper Roses,Marie Osmond,7,5,8
+6,Heartbeat - It's A Lovebeat,The DeFranco Family featuring Tony DeFranco,8,6,9
+7,Ramblin Man,The Allman Brothers Band,4,2,11
+8,Let's Get It On,Marvin Gaye,6,1,17
+9,Space Race,Billy Preston,15,9,7
+10,All I Know,Garfunkel,11,10,8
+11,Photograph,Ringo Starr,18,11,5
+12,Knockin' On Heaven's Door,Bob Dylan,12,12,10
+13,Top Of The World,Carpenters,23,13,5
+14,That Lady (Part 1),The Isley Brothers,9,6,17
+15,I Got A Name,Jim Croce,19,15,5
+16,Higher Ground,Stevie Wonder,10,4,12
+17,Just You 'n' Me,Chicago,22,17,6
+18,You're A Special Part Of Me,Diana Ross & Marvin Gaye,20,18,5
+19,Why Me,Kris Kristofferson,21,19,31
+20,Yes We Can Can,The Pointer Sisters,13,11,12
+21,Basketball Jones Featuring Tyrone Shoelaces,Cheech & Chong,17,15,9
+22,Loves Me Like A Rock,Paul Simon (with The Dixie Hummingbirds),16,2,14
+23,Summer (The First Time),Bobby Goldsboro,25,23,11
+24,The Whole Town's Laughing At Me,Teddy Pendergrass,32,24,6
+25,We're An American Band,Grand Funk,14,1,15
+26,We May Never Pass This Way (Again),Seals & Crofts,28,26,7
+27,Hurts So Good,Millie Jackson,24,24,9
+28,My Maria,B.W. Stevenson,26,9,15
+29,Cheaper To Keep Her,Johnnie Taylor,38,29,4
+30,Nutbush City Limits,Ike & Tina Turner,36,30,9
+31,Free Ride,Edgar Winter Group,27,14,13
+32,Funky Stuff,Kool & The Gang,29,29,9
+33,Jesse,Roberta Flack,30,30,7
+34,Ecstasy,Ohio Players,35,34,13
+35,The Most Beautiful Girl,Charlie Rich,40,35,6
+36,China Grove,The Doobie Brothers,31,15,12
+37,Get It Together,Jackson 5,34,28,10
+38,Check It Out,Tavares,43,38,7
+39,Rocky Mountain Way,Joe Walsh,33,23,13
+40,Goodbye Yellow Brick Road,Elton John,62,40,2
+41,You've Never Been This Far Before,Conway Twitty,39,22,13
+42,Delta Dawn,Helen Reddy,37,1,20
+43,Ooh Baby,Gilbert O'Sullivan,49,43,4
+44,Raised On Rock/For Ol' Times Sake,Elvis Presley,41,41,7
+45,Friends/chapel Of Love,Bette Midler,50,45,6
+46,Hello It's Me,Todd Rundgren,56,46,5
+47,Never Let You Go,Bloodstone,45,45,8
+48,Let Me In,The Osmonds,46,36,9
+49,Sweet Understanding Love,Four Tops,57,49,4
+50,If You're Ready (Come Go With Me),The Staple Singers,76,50,2
+51,I Can't Stand The Rain,Ann Peebles,44,44,10
+52,Such A Night, Dr. John,42,42,8
+53,Rockin' Roll Baby,The Stylistics,65,53,3
+54,In The Midnight Hour,Cross Country,48,30,12
+55,Let Me Be Your Lovemaker,Betty Wright,55,55,5
+56,Sister James,Nino Tempo And 5th Ave. Sax,53,53,7
+57,Country Sunshine,Dottie West,60,57,6
+58,The Joker,The Steve Miller Band,72,58,3
+59,(I Don't Want To Love You But) You Got Me Anyway,Sutherland Brothers And Quiver,51,48,12
+60,My Pretending Days Are Over,The Dells,63,60,5
+61,To Know You Is To Love You,B.B. King,58,38,14
+62,Little Girl Gone,Donna Fargo,66,62,5
+63,Be,Neil Diamond,73,63,2
+64,Sail Around The World,David Gates,67,64,3
+65,"Never, Never Gonna Give Ya Up",Barry White,99,65,2
+66,Corazón,Carole King,80,66,2
+67,Oh! No Not My Baby,Rod Stewart,69,67,4
+68,Life Ain't Easy,Dr. Hook And The Medicine Show,70,68,6
+69,D'yer Mak'er,Led Zeppelin,79,69,3
+70,Dream On,Aerosmith,74,70,3
+71,Mammy Blue,Stories,81,71,2
+72,Let Me Serenade You,Three Dog Night,84,72,2
+73,Outlaw Man,Eagles,59,59,8
+74,Gotta Find A Way,The Moments,68,68,7
+75,Fell For You,The Dramatics,82,75,2
+76,Show And Tell, Al Wilson,95,76,3
+77,If I Were Only A Child Again,Curtis Mayfield,86,77,3
+78,Rubber Bullets,10cc,75,73,8
+79,"""Having A Party"" Medley",The Ovations (Featuring Louis Williams),87,79,4
+80,I'm Coming Home,Johnny Mathis,83,78,7
+81,You'd Better Believe It,The Manhattans,77,77,7
+82,Come Get To This,Marvin Gaye,-1,82,1
+83,Roll In My Sweet Baby's Arms/I'm So Lonesome I Could Cry,Hank Wilson,78,78,5
+84,You're In Good Hands,Jermaine Jackson,93,84,3
+85,My Music,Loggins & Messina,-1,85,1
+86,Painted Ladies,Ian Thomas,96,86,2
+87,Redneck Friend,Jackson Browne,85,85,6
+88,Some Guys Have All The Luck,The Persuaders,-1,88,1
+89,Back For A Taste Of Your Love,Syl Johnson,97,89,2
+90,Leave Me Alone (ruby Red Dress),Helen Reddy,-1,90,1
+91,Stealin',Uriah Heep,91,91,4
+92,I Won't Last A Day Without You,Maureen McGovern,89,89,4
+93,Smokin' In The Boy's Room,Brownsville Station,100,93,2
+94,"I Don't Know What It Is, But It Sure Is Funky",Ripple,-1,94,1
+95,I Wanna Know Your Name,The Intruders,98,95,2
+96,There Ain't No Way,Lobo,-1,96,1
+97,My Old School,Steely Dan,-1,97,1
+98,"Hey, Little Girl",Foster Sylvers,94,92,5
+99,Vado Via,Drupi,-1,99,1
+100,Pretty Lady,Lighthouse,-1,100,1

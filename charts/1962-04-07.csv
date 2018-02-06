@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Johnny Angel,Shelley Fabares,3,1,6
+2,Don't Break The Heart That Loves You,Connie Francis,1,1,9
+3,Good Luck Charm,Elvis Presley With The Jordanaires,9,3,4
+4,Slow Twistin',Chubby Checker (with Dee Dee Sharp),6,4,6
+5,Dream Baby (How Long Must I Dream),Roy Orbison,4,4,8
+6,Hey! Baby,Bruce Channel,2,1,11
+7,Midnight In Moscow,Kenny Ball and his Jazzmen,5,2,10
+8,Young World,Rick Nelson,12,8,6
+9,Love Letters,Ketty Lester,11,9,7
+10,Mashed Potato Time,Dee Dee Sharp,15,10,6
+11,What's Your Name,Don & Juan,7,7,9
+12,Love Me Warm And Tender,Paul Anka,16,12,7
+13,Let Me In,The Sensations,8,4,14
+14,Twistin' The Night Away,Sam Cooke,10,9,10
+15,Please Don't Ask About Barbara,Bobby Vee,19,15,7
+16,Lover Please,Clyde McPhatter,20,16,6
+17,Come Back Silly Girl,The Lettermen,17,17,8
+18,(I've Got) Bonnie,Bobby Rydell,21,18,8
+19,She's Got You,Patsy Cline,14,14,11
+20,Duke Of Earl,Gene Chandler,13,1,13
+21,Where Have All The Flowers Gone,The Kingston Trio,22,21,12
+22,You Win Again,Fats Domino,23,22,7
+23,Nut Rocker,B. Bumble & The Stingers,30,23,6
+24,Soldier Boy,The Shirelles,34,24,3
+25,Dear One,Larry Finnegan,32,25,7
+26,Shout - Part I,Joey Dee & the Starliters,36,26,3
+27,You Better Move On,Arthur Alexander,31,27,7
+28,When My Little Girl Is Smiling,The Drifters,35,28,7
+29,Her Royal Majesty,James Darren,18,6,10
+30,She Can't Find Her Keys,Paul Petersen ,38,30,6
+31,Stranger On The Shore,Mr. Acker Bilk,43,31,4
+32,"Twist, Twist Senora",Gary U.S. Bonds,68,32,2
+33,Soul Twist,King Curtis And The Noble Knights,41,33,5
+34,She Cried,Jay & The Americans,53,34,4
+35,If A Woman Answers (Hang Up The Phone),Leroy Van Dyke,37,35,5
+36,Anything That's Part Of You,Elvis Presley With The Jordanaires ,48,36,4
+37,Ginny Come Lately,Brian Hyland,50,37,5
+38,Cry Baby Cry,The Angels,42,38,8
+39,Something's Got A Hold On Me,Etta James,39,39,7
+40,Cinderella,Jack Ross,46,40,4
+41,Jamie,Eddie Holland,33,30,12
+42,Johnny Jingo,Hayley Mills,52,42,4
+43,Patti Ann,Johnny Crawford,47,43,6
+44,The Jam - Part 1,Bobby Gregg and His Friends,56,44,4
+45,The Alvin Twist,The Chipmunks With David Seville,40,40,6
+46,Smoky Places,"The Corsairs Featuring Jay ""Bird"" Uzzell",28,12,15
+47,Tell Me,Dick and DeeDee,58,47,4
+48,Tuff,Ace Cannon,27,17,15
+49,Percolator (Twist),Billy Joe & The Checkmates,29,10,13
+50,The Wanderer,Dion,25,2,18
+51,Break It To Me Gently,Brenda Lee,26,4,13
+52,What'd I Say (Part 1),Bobby Darin,70,52,2
+53,Crying In The Rain,The Everly Brothers,24,6,13
+54,Pop-Eye,Huey Smith ,51,51,8
+55,Two Of A Kind,Sue Thompson,67,55,4
+56,Annie Get Your Yo-Yo,Little Junior Parker,60,56,5
+57,Moments,Jennell Hawkins,66,57,3
+58,You Talk About Love,Barbara George,65,58,2
+59,At The Club,Ray Charles and his Orchestra,64,59,2
+60,The Twist,Chubby Checker,44,1,39
+61,The White Rose Of Athens,David Carroll And His Orchestra,84,61,5
+62,The One Who Really Loves You,Mary Wells,71,62,3
+63,Tra La La La La, Ike & Tina Turner,72,63,3
+64,Shout! Shout! (Knock Yourself Out),Ernie Maresca,83,64,2
+65,Funny Way Of Laughin',Burl Ives,-1,65,1
+66,Lollipops And Roses,Jack Jones,75,66,6
+67,Hide 'Nor Hair,Ray Charles and his Orchestra,-1,67,1
+68,Uptown,The Crystals,80,68,2
+69,I Wish That We Were Married,Ronnie and The Hi-Lites,82,69,2
+70,P.T. 109,Jimmy Dean,90,70,2
+71,Caterina,Perry Como,91,71,2
+72,Chapel By The Sea,Billy Vaughn And His Orchestra,78,72,4
+73,"Midnight Special, Part 1",Jimmy Smith,69,69,6
+74,Memories Of Maria,Jerry Byrd,76,74,4
+75,The Ballad Of Thunder Road,Robert Mitchum,79,62,18
+76,You Are Mine,Frankie Avalon,93,76,3
+77,Our Anniversary,Shep And The Limelites,73,59,8
+78,The Big Draft,The Four Preps,99,78,2
+79,Who Will The Next Fool Be,Bobby Bland,77,77,2
+80,Runaway,Lawrence Welk And His Orchestra,-1,80,1
+81,I Will,Vic Dana,87,81,2
+82,Thou Shalt Not Steal,John D. Loudermilk,-1,82,1
+83,What Am I Supposed To Do,Ann-Margret,85,83,3
+84,Patricia - Twist,Perez Prado And His Orchestra,-1,84,1
+85,Ev'rybody's Twistin',Frank Sinatra,-1,85,1
+86,The Rains Came,Big Sambo and The House Wreckers,89,86,5
+87,A Girl Has To Know,The G-Clefs,81,81,5
+88,(What A Sad Way) To Love Someone,Ral Donner,92,88,3
+89,Twistin' Matilda (and the channel),Jimmy Soul,97,89,2
+90,King Of Clowns,Neil Sedaka,100,90,2
+91,Itty Bitty Pieces,James Ray,-1,91,1
+92,Cookin',Al Casey Combo,-1,92,1
+93,Amor,Roger Williams,-1,88,4
+94,Smile,Ferrante & Teicher,-1,94,3
+95,Shout - Part 1,The Isley Brothers,-1,47,11
+96,Honky-Tonk Man,Johnny Horton,96,96,2
+97,Old Rivers,Walter Brennan,-1,97,1
+98,Lover Come Back,Doris Day,-1,98,1
+99,Sweet Thursday,Johnny Mathis,-1,99,2
+100,Count Every Star,Linda Scott,-1,100,1

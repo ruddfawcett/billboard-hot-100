@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Island Girl,Elton John,8,1,4
+2,I'm Sorry,John Denver,2,1,12
+3,Miracles,Jefferson Starship,3,3,11
+4,Lyin' Eyes,Eagles,4,4,8
+5,They Just Can't Stop It the (Games People Play),The Spinners,5,5,13
+6,Who Loves You,The 4 Seasons,7,6,11
+7,Feelings,Morris Albert,6,6,20
+8,Bad Blood,Neil Sedaka,1,1,8
+9,Heat Wave/love Is A Rose,Linda Ronstadt,12,9,7
+10,This Will Be,Natalie Cole,16,10,10
+11,Brazil,The Ritchie Family,11,11,14
+12,Do It Any Way You Wanna,Peoples Choice,14,12,11
+13,Something Better To Do,Olivia Newton-John,15,13,7
+14,The Way I Want To Touch You,Captain & Tennille,18,14,6
+15,Lady Blue,Leon Russell,17,15,14
+16,Low Rider,War,19,16,7
+17,S.O.S.,ABBA,20,17,11
+18,It Only Takes A Minute,Tavares,10,10,15
+19,Sky High,Jigsaw,25,19,10
+20,You,George Harrison,23,20,7
+21,What A Diff'rence A Day Makes,Esther Phillips,24,21,12
+22,Nights On Broadway,Bee Gees,30,22,5
+23,Born To Run,Bruce Springsteen,26,23,7
+24,Dance With Me,Orleans,13,6,16
+25,"Fly, Robin, Fly",Silver Convention,32,25,4
+26,I Only Have Eyes For You,Art Garfunkel,27,26,11
+27,Rockin' All Over The World,John Fogerty,28,27,9
+28,That's The Way (I Like It),KC And The Sunshine Band,50,28,2
+29,Blue Eyes Crying In The Rain,Willie Nelson,31,29,10
+30,My Little Town,Simon & Garfunkel,47,30,3
+31,Fame,David Bowie,29,1,19
+32,Eighteen With A Bullet,Pete Wingfield,36,32,11
+33,Ballroom Blitz,Sweet,9,5,21
+34,Just Too Many People,Melissa Manchester,37,34,7
+35,Operator,The Manhattan Transfer,41,35,7
+36,The Agony And The Ecstasy,Smokey Robinson,38,36,9
+37,Let's Do It Again,The Staple Singers,68,37,2
+38,Give It What You Got/Peace Pipe,B.T. Express,42,38,13
+39,Letting Go,Wings,39,39,5
+40,I Want'a Do Something Freaky To You,Leon Haywood,46,40,9
+41,Ain't No Way To Treat A Lady,Helen Reddy,22,8,13
+42,Diamonds And Rust,Joan Baez,44,42,7
+43,Secret Love,Freddy Fender,53,43,3
+44,Saturday Night,Bay City Rollers,55,44,4
+45,Every Day I Have To Cry Some,Arthur Alexander,45,45,8
+46,Sweet Sticky Thing,Ohio Players,33,33,7
+47,Carolina In The Pines,Michael Murphey,21,21,12
+48,There Goes Another Love Song,The Outlaws,34,34,9
+49,Dreaming A Dream,Crown Heights Affair,43,43,12
+50,Since I Met You Baby,Freddy Fender ,54,50,3
+51,Our Day Will Come,Frankie Valli,63,51,3
+52,Change With The Times,Van Mccoy,56,52,4
+53,Mexico,James Taylor,57,53,5
+54,Mr. Jaws,Dickie Goodman,35,4,9
+55,Hollywood Hot,The Eleventh Hour,59,55,10
+56,Manhattan Spiritual,Mike Post,58,56,6
+57,Keep On Tryin',Poco,61,57,7
+58,To Each His Own,"Faith, Hope And Charity",60,50,12
+59,(How I Spent My Summer Vacation) Or A Day At The Beach With Pedro & Man - P,Cheech & Chong,79,59,3
+60,Summer Of '42,Biddu Orchestra,65,60,5
+61,Are You Sure Hank Done It This Way,Waylon Jennings,64,61,7
+62,Dear Prudence,Katfish,62,62,6
+63,Sailing,Rod Stewart,73,63,3
+64,I'm On Fire,5000 Volts,75,64,3
+65,Help Me Make It (To My Rockin' Chair),B.J. Thomas,67,65,7
+66,Rocky,Austin Roberts,40,9,16
+67,Rhinestone Cowboy,Glen Campbell,48,1,23
+68,I Get High On You,Sly Stone,52,52,9
+69,So In Love,Curtis Mayfield ,72,69,6
+70,I Love Music (Part 1),The O'Jays,-1,70,1
+71,King Kong - Pt. I,The Jimmy Castor Bunch,83,71,3
+72,Easy Evil,Travis Wammack,74,72,6
+73,Indian Love Call,Ray Stevens,82,73,4
+74,Fire On The Mountain,The Marshall Tucker Band,84,74,3
+75,What's Happened To Blue Eyes/You Ain't Never Been Loved (Like I'm Gonna Lov,Jessi Colter,85,57,4
+76,Come And Get Your Love,Roger Daltrey,86,76,5
+77,Is It Love That We're Missin',Quincy Jones (feat. The Brothers Johnson),78,77,4
+78,Bringing It Back,Elvis Presley,88,78,2
+79,Minstrel In The Gallery,Jethro Tull ,80,79,4
+80,Welcome To My Nightmare,Alice Cooper,93,80,2
+81,The Other Woman,Vicki Lawrence,81,81,3
+82,Venus And Mars Rock Show,Wings,-1,82,1
+83,The Music Never Stopped,The Grateful Dead,87,83,2
+84,Skybird,Tony Orlando & Dawn,-1,84,1
+85,Love Machine (Part 1),The Miracles,90,85,2
+86,You Sexy Thing,Hot Chocolate,-1,86,1
+87,Happy,Eddie Kendricks,92,87,4
+88,Machines,John Livigni,98,88,3
+89,Theme From Mahogany (Do You Know Where You're Going To),Diana Ross,-1,89,1
+90,Just A Smile,Pilot,91,90,4
+91,Same Thing It Took,The Impressions,-1,91,1
+92,Love Power,Willie Hutch,-1,92,1
+93,I'm On Fire,Jim Gilstrap,97,93,2
+94,Volare,Al Martino,-1,94,1
+95,Never Been Any Reason,Head East,95,95,3
+96,Hey There Little Firefly Part I,Firefly,96,96,3
+97,Everything's The Same (Ain't Nothing Changed),Billy Swan,-1,97,1
+98,(If You Want It) Do It Yourself,Gloria Gaynor,100,98,2
+99,I'll Go To My Grave Loving You,The Statler Brothers,-1,99,1
+100,Better By The Pound,Funkadelic,-1,100,1

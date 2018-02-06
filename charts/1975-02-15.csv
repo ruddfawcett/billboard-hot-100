@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You're No Good,Linda Ronstadt,2,1,11
+2,Pick Up The Pieces,AWB,4,2,11
+3,Best Of My Love,Eagles,5,3,12
+4,Some Kind Of Wonderful,Grand Funk,6,4,10
+5,Black Water,The Doobie Brothers,7,5,9
+6,Fire,Ohio Players,1,1,10
+7,Lonely People,America,9,7,8
+8,Boogie On Reggae Woman,Stevie Wonder,3,3,14
+9,My Eyes Adored You,Frankie Valli,12,9,13
+10,#9 Dream,John Lennon,13,10,9
+11,Look In My Eyes Pretty Woman,Tony Orlando & Dawn,14,11,9
+12,Doctor's Orders, Carol Douglas,11,11,12
+13,Sweet Surrender,John Denver,17,13,8
+14,Get Dancin',Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III,10,10,13
+15,Nightingale,Carole King,19,15,7
+16,Laughter In The Rain,Neil Sedaka,8,1,18
+17,Lady,Styx,21,17,10
+18,Have You Never Been Mellow,Olivia Newton-John,34,18,4
+19,Can't Get It Out Of My Head,Electric Light Orchestra,23,19,9
+20,I'm A Woman,Maria Muldaur,25,20,8
+21,Lady Marmalade,Labelle,29,21,7
+22,Roll On Down The Highway,Bachman-Turner Overdrive,30,22,5
+23,"Don't Call Us, We'll Call You",Sugarloaf/Jerry Corbetta,31,23,11
+24,Big Yellow Taxi,Joni Mitchell,26,24,14
+25,Please Mr. Postman,Carpenters,15,1,13
+26,Express,B.T. Express,33,26,4
+27,I Belong To You,Love Unlimited,27,27,12
+28,Mandy,Barry Manilow,16,1,14
+29,Poetry Man,Phoebe Snow,37,29,7
+30,Up In A Puff Of Smoke,Polly Brown,38,30,7
+31,Movin' On,Bad Company,39,31,5
+32,To The Door Of The Sun (Alle Porte Del Sole),Al Martino,40,32,9
+33,My Boy,Elvis Presley,42,33,4
+34,Morning Side Of The Mountain,Donny & Marie Osmond,18,8,14
+35,You Are So Beautiful/It's A Sin When You Love Somebody,Joe Cocker,43,35,6
+36,Your Bulldog Drinks Champagne,Jim Stafford,24,24,9
+37,Don't Take Your Love,The Manhattans,45,37,7
+38,Lovin' You,Minnie Riperton,48,38,5
+39,Sad Sweet Dreamer,Sweet Sensation,47,39,6
+40,Never Let Her Go,David Gates,49,40,5
+41,Lucy In The Sky With Diamonds,Elton John,32,1,12
+42,I Am Love (Parts I & II),Jackson 5,52,42,5
+43,"Shame, Shame, Shame",Shirley And Company,53,43,6
+44,Ain't That Peculiar,Diamond Reo,44,44,6
+45,Junior's Farm/Sally G,Paul McCartney And Wings,50,3,15
+46,Rock N' Roll (I Gave You The Best Years Of My Life),Mac Davis,22,15,11
+47,Star On A TV Show,The Stylistics,57,47,5
+48,Never Can Say Goodbye,Gloria Gaynor,20,9,16
+49,Ding Dong; Ding Dong, George Harrison,36,36,6
+50,Hot Dawgit,"Ramsey Lewis And Earth, Wind & Fire",58,50,5
+51,Happy People,The Temptations,41,40,9
+52,I've Been This Way Before,Neil Diamond,62,52,3
+53,If Loving You Is Wrong I Don't Want To Be Right,Millie Jackson,64,53,4
+54,One Man Woman/One Woman Man,Paul Anka with Odia Coates,28,7,15
+55,I Get Lifted,George McCrae,69,55,4
+56,Chevy Van,Sammy Johns,68,56,3
+57,Struttin',Billy Preston,35,22,10
+58,No No Song/snookeroo,Ringo Starr,78,58,2
+59,Part Of The Plan,Dan Fogelberg,77,59,3
+60,Emotion,Helen Reddy,72,60,2
+61,Thanks For The Smiles,Charlie Ross,66,61,5
+62,My Elusive Dreams,Charlie Rich,73,62,3
+63,Rhyme Tyme People,Kool & The Gang,65,63,7
+64,I Fought The Law,Sam Neely,74,64,3
+65,It's All Right,Jim Capaldi,67,65,5
+66,"Please, Mr. President",Paula Webb,76,66,3
+67,"Good Times, Rock & Roll",Flash Cadillac And The Continental Kids,79,67,3
+68,Wolf Creek Pass,C.W. McCall,80,68,3
+69,Supernatural Thing - Part I,Ben E. King,85,69,2
+70,Bungle In The Jungle,Jethro Tull,55,12,16
+71,Future Shock,Hello People,71,71,5
+72,Butter Boy,Fanny,82,72,3
+73,Changes,David Bowie,59,41,18
+74,Devil In The Bottle,T.G. Sheppard,84,74,4
+75,The South's Gonna Do It,The Charlie Daniels Band,86,75,2
+76,I Won't Last A Day Without You/Let Me Be The One,Al Wilson,81,76,6
+77,Walking In Rhythm,The Blackbyrds,88,77,2
+78,Emma,Hot Chocolate,89,78,2
+79,Once You Get Started,Rufus Featuring Chaka Khan,-1,79,1
+80,Satin Soul,Love Unlimited Orchestra,90,80,2
+81,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,B.J. Thomas,91,81,3
+82,Before The Next Teardrop Falls,Freddy Fender,92,82,3
+83,We May Never Love Like This Again,Maureen McGovern,83,83,4
+84,Changes,Loggins & Messina,87,84,2
+85,Dance The Kung Fu,Carl Douglas,-1,85,1
+86,Shining Star,"Earth, Wind & Fire",-1,86,1
+87,I Wanna Learn A Love Song,Harry Chapin,-1,87,1
+88,Jackie Blue,Ozark Mountain Daredevils,94,88,2
+89,I Have A Dream,Donny Osmond,-1,89,1
+90,Isn't It Lonely Together,Stark & McBrien,95,90,4
+91,I'll Still Love You,Jim Weatherly,93,91,4
+92,Killer Queen,Queen,98,92,2
+93,Charmer,Tim Moore,96,93,2
+94,Believe Half Of What You See (And None Of What You Hear),Leon Haywood ,100,94,2
+95,I Just Can't Say Goodbye,Philly Devotions,97,95,2
+96,Hijack,Herbie Mann,99,96,2
+97,Shoeshine Boy,Eddie Kendricks,-1,97,1
+98,Love Don't You Go Through No Changes On Me,Sister Sledge,-1,92,4
+99,Smokin' Room,Carl Carlton,-1,99,1
+100,Bump Me Baby Part 1,Dooley Silverspoon,-1,100,1

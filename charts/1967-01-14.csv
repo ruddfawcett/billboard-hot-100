@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I'm A Believer,The Monkees,1,1,6
+2,Snoopy Vs. The Red Baron,The Royal Guardsmen,2,2,5
+3,Tell It Like It Is,Aaron Neville,3,3,7
+4,Good Thing,Paul Revere & The Raiders Featuring Mark Lindsay,7,4,7
+5,Sugar Town,Nancy Sinatra,5,5,9
+6,Words Of Love,The Mamas & The Papas,8,6,7
+7,Standing In The Shadows Of Love,Four Tops,9,7,5
+8,Winchester Cathedral,The New Vaudeville Band,4,1,12
+9,That's Life,Frank Sinatra,6,4,9
+10,Georgy Girl,The Seekers,20,10,7
+11,Coming Home Soldier,Bobby Vinton,11,11,9
+12,Tell It To The Rain,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",15,12,6
+13,Mellow Yellow,Donovan,10,2,10
+14,Single Girl,Sandy Posey,12,12,9
+15,Talk Talk,The Music Machine,16,15,10
+16,Nashville Cats,The Lovin' Spoonful,24,16,5
+17,Devil With A Blue Dress On & Good Golly Miss Molly,Mitch Ryder And The Detroit Wheels,14,4,15
+18,I've Passed This Way Before,Jimmy Ruffin,23,18,7
+19,(I Know) I'm Losing You,The Temptations,13,8,9
+20,(I'm Not Your) Steppin' Stone,The Monkees,32,20,5
+21,Good Vibrations,The Beach Boys,17,1,13
+22,Cry,Ronnie Dove,18,18,8
+23,Color My World,Petula Clark,28,23,4
+24,(We Ain't Got) Nothin' Yet,Blues Magoos,31,24,6
+25,98.6,Keith,37,25,6
+26,Stand By Me,Spyder Turner,43,26,5
+27,East West,Herman's Hermits,27,27,7
+28,Where Will The Words Come From,Gary Lewis And The Playboys,39,28,5
+29,Try A Little Tenderness, Otis Redding,34,29,7
+30,Gallant Men,Senator Everett McKinley Dirksen,33,30,4
+31,Knight In Rusty Armour,Peter And Gordon,41,31,4
+32,Mustang Sally,Wilson Pickett,26,23,8
+33,A Place In The Sun,Stevie Wonder,19,9,10
+34,There's Got To Be A Word!,The Innocence,36,34,7
+35,Help Me Girl,Eric Burdon & The Animals,29,29,8
+36,I Need Somebody,? (Question Mark) & The Mysterians,25,22,9
+37,Blue Autumn,Bobby Goldsboro,42,37,6
+38,Happenings Ten Years Time Ago,The Yardbirds,30,30,8
+39,Born Free,Roger Williams,22,7,21
+40,Look What You've Done,Pozo Seco Singers,48,40,5
+41,"Green, Green Grass Of Home",Tom Jones,51,41,4
+42,Kind Of A Drag,The Buckinghams,66,42,3
+43,How Do You Catch A Girl,Sam The Sham and the Pharaohs,50,43,4
+44,I Had Too Much To Dream (Last Night),The Electric Prunes,47,44,6
+45,I Fooled You This Time,Gene Chandler,45,45,8
+46,Wack Wack,The Young Holt Trio,53,46,5
+47,Music To Watch Girls By,Bob Crewe Generation,58,47,3
+48,Papa Was Too,Joe Tex,49,48,5
+49,Another Night,Dionne Warwick,59,49,4
+50,You Keep Me Hangin' On,The Supremes,21,1,12
+51,Goodnight My Love,The Happenings,52,51,6
+52,Wild Thing,Senator Bobby Featuring Bill Minkin,77,52,2
+53,It's Now Winters Day,Tommy Roe,64,53,4
+54,I (Who Have Nothing),Terry Knight and The Pack,46,46,10
+55,(Open Up The Door) Let The Good Times In,Dean Martin,63,55,5
+56,Grizzly Bear,The Youngbloods,61,56,5
+57,Karate,The Emperor's,57,57,7
+58,Hello Hello,"The Sopwith ""Camel""",65,58,4
+59,Bring It Up,James Brown And The Famous Flames,78,59,2
+60,Communication Breakdown,Roy Orbison,60,60,6
+61,You Can Bring Me All Your Heartaches,Lou Rawls,55,55,8
+62,I'm Gonna Miss You,The Artistics,71,62,5
+63,Gimme Some Lovin',The Spencer Davis Group,80,63,3
+64,"Hey, Leroy, Your Mama's Callin' You",Jimmy Castor,67,64,3
+65,Pushin' Too Hard,The Seeds,76,65,4
+66,Wish Me A Rainbow,The Gunter Kallmann Chorus,72,66,4
+67,"Mercy, Mercy, Mercy",Cannonball Adderley,82,67,2
+68,It Takes Two,Marvin Gaye & Kim Weston,88,68,2
+69,Are You Lonely For Me,Freddy Scott,79,69,4
+70,Just One Smile,Gene Pitney,70,70,4
+71,Baby What I Mean,The Drifters,62,62,7
+72,The Beat Goes On,Sonny & Cher,-1,72,1
+73,Dancing In The Street,The Mamas & The Papas,75,73,5
+74,Day Tripper,Ramsey Lewis,74,74,4
+75,If You Go Away,Damita Jo,73,73,6
+76,I've Got To Have A Reason,The Dave Clark Five,84,76,2
+77,You Got Me Hummin',Sam & Dave,86,77,6
+78,Constant Rain (Chove Chuva),Sergio Mendes & Brasil '66,81,78,4
+79,Tramp,Lowell Fulsom,-1,79,1
+80,"Look At Granny Run, Run",Howard Tate,87,80,4
+81,Pretty Ballerina,The Left Banke,96,81,2
+82,Oh Yeah!,The Joe Cuba Sextet,85,82,2
+83,I Dig Girls,J.J. Jackson,83,83,3
+84,Love Me,Bobby Hebb,92,84,3
+85,Deadend Street,The Kinks,98,85,2
+86,Lovin' You,Bobby Darin,-1,86,1
+87,"Ride, Ride, Ride",Brenda Lee,-1,87,1
+88,I Got To Go Back (And Watch That Little Girl Dance),The McCoys,91,88,2
+89,Full Measure,The Lovin' Spoonful,99,89,2
+90,Tiny Bubbles,Don Ho and the Aliis,95,87,6
+91,It May Be Winter Outside (But In My Heart It's Spring),Felice Taylor,-1,91,1
+92,There Goes My Everything,Jack Greene,100,92,2
+93,Walk With Faith In Your Heart,The Bachelors,94,93,2
+94,Then You Can Tell Me Goodbye,The Casinos,-1,94,1
+95,Go Where You Wanna Go,The 5th Dimension,-1,95,1
+96,Sweetest One,The Metros,-1,96,1
+97,Danger! She's A Stranger,The Five Stairsteps,-1,97,1
+98,96 Tears,Big Maybelle,-1,98,1
+99,Something Good (Is Going To Happen To You),Carla Thomas,-1,99,1
+100,All,James Darren,-1,100,1

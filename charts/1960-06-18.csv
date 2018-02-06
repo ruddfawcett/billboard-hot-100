@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Cathy's Clown,The Everly Brothers,1,1,10
+2,Everybody's Somebody's Fool,Connie Francis,2,2,7
+3,Burning Bridges,Jack Scott,3,3,10
+4,Good Timin',Jimmy Jones,4,3,10
+5,Swingin' School,Bobby Rydell,9,5,7
+6,Alley-Oop,Hollywood Argyles,12,6,4
+7,Paper Roses,Anita Bryant,5,5,11
+8,Love You So,Ron Holden with The Thunderbirds,7,7,12
+9,He'll Have To Stay,Jeanne Black,6,4,8
+10,Stuck On You,Elvis Presley With The Jordanaires,8,1,12
+11,Because They're Young,Duane Eddy And The Rebels,13,11,5
+12,My Home Town,Paul Anka,16,12,5
+13,A Rockin' Good Way (To Mess Around And Fall In Love),Dinah Washington & Brook Benton,20,13,5
+14,I'm Sorry,Brenda Lee,23,14,4
+15,Wonderful World,Sam Cooke,19,15,7
+16,Happy-Go-Lucky-Me,Paul Evans,10,10,8
+17,Night,Jackie Wilson,11,4,14
+18,Young Emotions,Ricky Nelson,14,12,9
+19,Jealous Of You (Tango Della Gelosia),Connie Francis ,24,19,5
+20,Alley-Oop,Dante and the Evergreens,28,20,4
+21,Mule Skinner Blues,The Fendermen,25,21,5
+22,Another Sleepless Night,Jimmy Clanton,30,22,9
+23,Greenfields,The Brothers Four,15,2,18
+24,Sixteen Reasons,Connie Stevens,17,3,21
+25,Lonely Weekends,Charlie Rich,32,22,15
+26,Cherry Pie,Skip And Flip,18,11,12
+27,Ding-A-Ling,Bobby Rydell,22,18,7
+28,Jump Over,Freddy Cannon,29,28,7
+29,Mack The Knife, Ella Fitzgerald,31,29,8
+30,I Really Don't Want To Know,Tommy Edwards,34,30,5
+31,Only The Lonely (Know How I Feel),Roy Orbison,44,31,3
+32,Cradle Of Love,Johnny Preston,27,7,13
+33,Won't You Come Home Bill Bailey,Bobby Darin,41,33,5
+34,"Please Help Me, I'm Falling",Hank Locklin,38,34,5
+35,Doggin' Around,Jackie Wilson,21,15,12
+36,That's All You Gotta Do,Brenda Lee,55,36,3
+37,Train Of Love,Annette With The Afterbeats,45,37,3
+38,Let The Little Girl Dance,Billy Bland,26,7,19
+39,Pennies From Heaven,The Skyliners,50,39,7
+40,All I Could Do Was Cry,Etta James,33,33,8
+41,Runaround,The Fleetwoods,42,41,5
+42,Theme For Young Lovers,Percy Faith And His Orchestra,43,42,7
+43,Sink The Bismark,Johnny Horton,48,3,16
+44,"Theme From ""The Unforgiven"" (The Need For Love)",Don Costa And His Orchestra And Chorus,49,44,8
+45,Walking The Floor Over You,Pat Boone,47,45,5
+46,Dutchman's Gold,Walter Brennan With Billy Vaughn and his Orchestra,36,30,9
+47,Something Happened,Paul Anka,52,47,4
+48,Mr. Lucky,Henry Mancini,37,21,12
+49,Down Yonder,Johnny And The Hurricanes,63,49,4
+50,Spring Rain,Pat Boone,54,50,4
+51,Stairway To Heaven,Neil Sedaka,39,9,13
+52,One Of Us (Will Weep Tonight),Patti Page,78,52,3
+53,Clap Your Hands,The Beau-Marks,58,53,6
+54,The Old Lamplighter,The Browns Featuring Jim Edward Brown,40,5,15
+55,Mountain Of Love,Harold Dorman,35,21,17
+56,Ooh Poo Pah Doo - Part II,Jessie Hill,51,28,13
+57,Walking To New Orleans,Fats Domino,-1,57,1
+58,National City,"Joiner, Arkansas Junior High School Band",56,53,6
+59,When You Wish Upon A Star,Dion & The Belmonts,57,30,9
+60,I'm Gettin' Better,Jim Reeves,-1,60,1
+61,Pink Chiffon,Mitchell Torok,64,61,7
+62,Image Of A Girl,Safaris with The Phantom's Band,73,62,3
+63,When Will I Be Loved,The Everly Brothers,71,63,4
+64,Lonely Winds,The Drifters,70,64,5
+65,Exclusively Yours,"Carl Dobkins, Jr.",69,65,6
+66,Barbara,The Temptations,60,29,10
+67,Hey Little One,Dorsey Burnette,72,67,3
+68,Alley-Oop,The Dyna-Sores,59,59,3
+69,Ebb Tide,The Platters Featuring Tony Williams,66,56,6
+70,Banjo Boy,Jan And Kjeld,81,70,3
+71,The Madison,Al Brown's Tunetoppers Featuring Cookie Brown,61,23,12
+72,Tell Laura I Love Her,Ray Peterson,86,72,2
+73,Mister Lonely,The Videls,76,73,2
+74,Finger Poppin' Time,Hank Ballard And The Midnighters,74,64,6
+75,Comin' Down With Love,Mel Gadson,85,75,4
+76,Is A Blue Bird Blue,Conway Twitty,93,76,2
+77,La Montana (If She Should Come To You),Frank DeVol And His Rainbow Strings,80,77,6
+78,Nobody Loves Me Like You,The Flamingos,65,30,10
+79,Banjo Boy,Dorothy Collins,88,79,2
+80,All The Love I've Got,Marv Johnson,87,80,2
+81,Always It's You,The Everly Brothers,75,56,6
+82,Got A Girl,The Four Preps,62,24,10
+83,Trouble In Paradise,The Crests,90,83,2
+84,Where Are You,Frankie Avalon,89,84,2
+85,Look For A Star,Deane Hawley,-1,85,1
+86,Hot Rod Lincoln,Charlie Ryan and the Timberline Riders,-1,78,6
+87,"Wake Me, Shake Me",The Coasters,-1,87,1
+88,Look For A Star,Garry Miles,-1,88,1
+89,This Bitter Earth,Dinah Washington,-1,89,1
+90,There's Something On Your Mind (Part 2),Bobby Marchan,99,90,2
+91,Ain't Gonna Be That Way,Marv Johnson,96,91,4
+92,Look For A Star,Billy Vaughn And His Orchestra,-1,92,1
+93,Tuxedo Junction,Frankie Avalon,82,82,2
+94,I Can't Help It,Adam Wade,-1,94,1
+95,Bad Man Blunder,The Kingston Trio,-1,95,1
+96,Mission Bell,Donnie Brooks,84,84,2
+97,Is There Any Chance,Marty Robbins,-1,97,1
+98,Feel So Fine,Johnny Preston ,-1,98,1
+99,Look For A Star - Part I,Garry Mills,-1,99,1
+100,Banjo Boy,Art Mooney And His Orchestra,100,100,2

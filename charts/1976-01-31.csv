@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Love Rollercoaster,Ohio Players,3,1,12
+2,I Write The Songs,Barry Manilow,2,1,12
+3,Love To Love You Baby,Donna Summer,4,3,9
+4,You Sexy Thing,Hot Chocolate,6,4,14
+5,I Love Music (Part 1),The O'Jays,5,5,14
+6,Convoy,C.W. McCall,7,1,9
+7,Sing A Song,"Earth, Wind & Fire",10,7,11
+8,Times Of Your Life,Paul Anka,8,8,12
+9,Walk Away From Love,David Ruffin,9,9,13
+10,50 Ways To Leave Your Lover,Paul Simon,14,10,7
+11,Theme From Mahogany (Do You Know Where You're Going To),Diana Ross,1,1,14
+12,Rock And Roll All Nite (live),KISS,12,12,12
+13,Fly Away,John Denver,13,13,9
+14,Evil Woman,Electric Light Orchestra,15,14,12
+15,Love Machine (Part 1),The Miracles,16,15,15
+16,Breaking Up Is Hard To Do,Neil Sedaka,17,16,8
+17,Theme From S.W.A.T.,Rhythm Heritage,20,17,12
+18,Love Hurts,Nazareth,19,18,11
+19,Squeeze Box,The Who,26,19,10
+20,Wake Up Everybody (Part 1),Harold Melvin And The Blue Notes,22,20,11
+21,Winners And Losers,"Hamilton, Joe Frank & Reynolds",21,21,13
+22,Somewhere In The Night,Helen Reddy,24,22,9
+23,Baby Face,The Wing And A Prayer Fife & Drum Corps.,23,23,12
+24,Take It To The Limit,Eagles,28,24,7
+25,All By Myself,Eric Carmen,31,25,7
+26,Paloma Blanca,George Baker Selection,27,26,10
+27,Fanny (Be Tender With My Love),Bee Gees,32,27,6
+28,Fox On The Run,Sweet,18,5,12
+29,Country Boy (You Got Your Feet In L.A.),Glen Campbell,11,11,13
+30,Golden Years,David Bowie,33,30,8
+31,Grow Some Funk Of Your Own/I Feel Like A Bullet (In The Gun Of Robert Ford),Elton John,55,31,2
+32,Slow Ride,Foghat,34,32,8
+33,Tracks Of My Tears,Linda Ronstadt,37,33,7
+34,The White Knight,Cledus Maggard And The Citizen's Band,39,34,6
+35,Let The Music Play,Barry White,38,35,6
+36,Deep Purple,Donny & Marie Osmond,36,36,8
+37,Dream Weaver,Gary Wright,60,37,5
+38,Love Or Leave,The Spinners,40,38,6
+39,Break Away,Art Garfunkel,43,39,6
+40,"December, 1963 (Oh, What a Night)",The 4 Seasons,44,40,6
+41,Junk Food Junkie,Larry Groce,46,41,4
+42,Yesterday's Hero,John Paul Young,42,42,8
+43,Bohemian Rhapsody,Queen,49,43,5
+44,Only Sixteen,Dr. Hook,53,44,5
+45,Over My Head,Fleetwood Mac,29,20,13
+46,Sweet Love,Commodores,48,46,6
+47,The Homecoming,Hagood Hardy,47,47,7
+48,Love Is The Drug,Roxy Music,51,48,6
+49,Dream On,Aerosmith,59,49,13
+50,Lonely Night (angel Face),Captain & Tennille,69,50,2
+51,Saturday Night,Bay City Rollers,25,1,17
+52,Sweet Thing,Rufus Featuring Chaka Khan,62,52,5
+53,Back To The Island,Leon Russell,56,53,5
+54,Let's Do It Again,The Staple Singers,41,1,15
+55,'til It's Time To Say Goodbye,Jonathan Cain,63,55,4
+56,Renegade,Michael Murphey,72,56,2
+57,Take Me,Grand Funk Railroad,73,57,2
+58,Inseparable,Natalie Cole,61,51,8
+59,Easy As Pie,"Billy ""Crash"" Craddock",54,54,8
+60,Tangerine,The Salsoul Orchestra,70,60,2
+61,"Fly, Robin, Fly",Silver Convention,57,1,17
+62,Let It Shine/He Ain't Heavy...He's My Brother,Olivia Newton-John,30,30,9
+63,Don't Cry Joni,Conway Twitty with Joni Lee,65,63,7
+64,Lady Bump,Penny Mclean,66,64,5
+65,Chain Gang Medley,Jim Croce,71,65,5
+66,Honey I,George McCrae,67,66,4
+67,Hold Back The Night,The Trammps,80,67,3
+68,That's Why I Love You,Andrew Gold,68,68,5
+69,That's The Way (I Like It),KC And The Sunshine Band,35,1,15
+70,Hurricane (Part 1),Bob Dylan,50,33,10
+71,Quiet Storm,Smokey Robinson,75,71,3
+72,I Could Have Danced All Night/Jump For Joy,Biddu Orchestra,76,72,4
+73,What's The Name Of This Funk (spider Man),Ramsey Lewis,78,73,2
+74,Amazing Grace (used To Be Her Favorite Song),Amazing Rhythm Aces,74,74,7
+75,Growin' Up,Dan Hill,81,75,2
+76,Funky Weekend,The Stylistics,77,76,9
+77,Remember Me,Willie Nelson,79,77,4
+78,For The Love Of You (Part 1&2),The Isley Brothers,45,22,12
+79,If I Only Knew,Ozark Mountain Daredevils,82,79,3
+80,Since I Fell For You,Charlie Rich,86,80,2
+81,Make Love To Your Mind,Bill Withers,84,81,7
+82,Once You Hit The Road,Dionne Warwick,88,82,4
+83,This Old Heart Of Mine,Rod Stewart,85,83,4
+84,Tell It Like It Is,Andy Williams,89,84,3
+85,Venus,Frankie Avalon,98,1,19
+86,Close To You,B.T. Express,90,86,2
+87,Tenth Avenue Freeze-out,Bruce Springsteen,91,87,2
+88,Let Your Love Flow,Bellamy Brothers,-1,88,1
+89,You're Fooling You,The Dramatics,87,87,3
+90,I Heard It Through The Grapevine,Creedence Clearwater Revival Featuring John Fogerty,-1,90,1
+91,Sara Smile,Daryl Hall John Oates,-1,91,1
+92,Disco Sax/for The Love Of You,Houston Person,92,92,3
+93,Young Love,Ray Stevens,97,93,2
+94,Bad Luck,The Atlanta Disco Band,96,94,4
+95,One Fine Day,Julie,93,93,3
+96,Daydreamer,C.C. & Company,95,95,5
+97,We're On The Right Track,South Shore Commission,94,94,4
+98,Scotch On The Rocks,The Band Of The Black Watch,-1,98,1
+99,January,Pilot,-1,99,1
+100,Tonight's The Night,S.S.O.,99,99,4

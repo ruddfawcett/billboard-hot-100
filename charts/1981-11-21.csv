@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Physical,Olivia Newton-John,3,1,8
+2,Private Eyes,Daryl Hall John Oates,1,1,13
+3,Waiting For A Girl Like You,Foreigner,4,3,7
+4,Start Me Up,The Rolling Stones,2,2,14
+5,Here I Am (Just When I Thought I Was Over You),Air Supply,7,5,9
+6,Tryin' To Live My Life Without You,Bob Seger,5,5,11
+7,The Night Owls,Little River Band,6,6,14
+8,Every Little Thing She Does Is Magic,The Police,12,8,9
+9,Arthur's Theme (Best That You Can Do),Christopher Cross,9,1,15
+10,The Theme From Hill Street Blues, Mike Post featuring Larry Carlton,10,10,14
+11,Oh No,Commodores,13,11,9
+12,Why Do Fools Fall In Love,Diana Ross,14,12,6
+13,I've Done Everything For You,Rick Springfield,8,8,14
+14,When She Was My Girl,Four Tops,11,11,15
+15,Young Turks,Rod Stewart,19,15,6
+16,The Old Songs,Barry Manilow,18,16,7
+17,Just Once,Quincy Jones Featuring James Ingram,17,17,15
+18,Let's Groove,"Earth, Wind & Fire",23,18,8
+19,Trouble,Lindsey Buckingham,24,19,5
+20,We're In This Love Together,Al Jarreau,15,15,17
+21,Leather And Lace,Stevie Nicks With Don Henley,25,21,5
+22,Harden My Heart,Quarterflash,27,22,6
+23,Yesterday's Songs,Neil Diamond,34,23,3
+24,Don't Stop Believin',Journey,28,24,4
+25,Sausalito Summernight,Diesel,26,25,11
+26,Our Lips Are Sealed,Go-Go's,30,26,13
+27,Take My Heart (You Can Have It If You Want It),Kool & The Gang,29,27,6
+28,"My Girl (Gone, Gone, Gone)",Chilliwack,31,28,9
+29,The Sweetest Thing (I've Ever Known),Juice Newton,33,29,6
+30,No Reply At All,Genesis,32,30,9
+31,Heart Like A Wheel,The Steve Miller Band,36,31,4
+32,I Can't Go For That (No Can Do),Daryl Hall John Oates,59,32,2
+33,For Your Eyes Only,Sheena Easton,16,4,18
+34,Steal The Night,Stevie Woods,39,34,11
+35,Never Too Much,Luther Vandross,37,35,7
+36,Hard To Say,Dan Fogelberg,20,7,13
+37,"I Want You, I Need You",Chris Christian,40,37,8
+38,Endless Love,Diana Ross & Lionel Richie,21,1,20
+39,Turn Your Love Around,George Benson,49,39,5
+40,Poor Man's Son,Survivor,44,40,6
+41,Centerfold,The J. Geils Band,50,41,3
+42,Hooked On Classics,Royal Philharmonic Orchestra,63,42,4
+43,Twilight,Electric Light Orchestra,48,43,5
+44,I Wouldn't Have Missed It For The World,Ronnie Milsap,52,44,5
+45,Comin' In And Out Of Your Life,Barbra Streisand,62,45,2
+46,Say Goodbye To Hollywood,Billy Joel,22,17,11
+47,Step By Step,Eddie Rabbitt,35,5,18
+48,Super Freak (Part I),Rick James,41,16,16
+49,Cool Night,Paul Davis,69,49,3
+50,"She's A Bad Mama Jama (She's Built, She's Stacked)",Carl Carlton,42,22,14
+51,Atlanta Lady (Something About Your Love),Marty Balin,43,27,10
+52,Stop Draggin' My Heart Around,Stevie Nicks With Tom Petty And The Heartbreakers,45,3,18
+53,Wrack My Brain,Ringo Starr,65,53,3
+54,Under Pressure,Queen & David Bowie,66,54,3
+55,Promises In The Dark,Pat Benatar,46,38,8
+56,Share Your Love With Me,Kenny Rogers,38,14,12
+57,Magic Power,Triumph,51,51,8
+58,Castles In The Air,Don McLean,68,58,4
+59,Someone Could Lose A Heart Tonight,Eddie Rabbitt,76,59,2
+60,More Than Just The Two Of Us,Sneaker,70,60,4
+61,Who's Crying Now,Journey,53,4,19
+62,Bet Your Heart On Me,Johnny Lee,54,54,7
+63,Living Eyes,Bee Gees,75,63,3
+64,I'm Just Too Shy,Jermaine Jackson,64,64,4
+65,When She Dances,Joey Scarbury,55,49,7
+66,The Cowboy And The Lady,John Denver,73,66,4
+67,"Pay The Devil (Ooo, Baby, Ooo)",The Knack,67,67,4
+68,Talking Out Of Turn,The Moody Blues ,77,68,3
+69,Working For The Weekend,Loverboy,79,69,2
+70,Controversy,Prince,74,70,5
+71,Alien,Atlanta Rhythm Section,56,29,13
+72,Urgent,Foreigner,57,4,21
+73,Hold On Tight,Electric Light Orchestra,58,10,18
+74,Mistaken Identity,Kim Carnes,60,60,5
+75,In The Dark,Billy Squier,61,35,11
+76,Shake It Up,The Cars,-1,76,1
+77,I Surrender,Arlan Day,71,71,6
+78,La La Means I Love You,Tierra,72,72,5
+79,She's Got A Way,Billy Joel,-1,79,1
+80,Sweet Merilee,Donnie Iris,83,80,4
+81,Love In The First Degree,Alabama,90,81,2
+82,Key Largo,Bertie Higgins,86,82,2
+83,Let Me Love You Once,Greg Lake,-1,83,1
+84,I Heard It Through The Grapevine (Part 1),Roger,89,84,3
+85,If I Were You,Lulu,-1,85,1
+86,Blaze Of Glory,Kenny Rogers,-1,86,1
+87,Wkrp In Cincinnati,Steve Carlisle,-1,87,1
+88,Walking Into Sunshine,Central Line,91,88,2
+89,Come Go With Me,The Beach Boys,-1,89,1
+90,Falling In Love,Balance,-1,90,1
+91,Snap Shot,Slave,92,91,5
+92,I Could Never Miss You (More Than I Do),Lulu,78,18,17
+93,Queen Of Hearts,Juice Newton,80,2,26
+94,The Voice,The Moody Blues,81,15,16
+95,You Saved My Soul,Burton Cummings,82,37,11
+96,The Beach Boys Medley,The Beach Boys,84,12,18
+97,Destroyer,The Kinks,85,85,4
+98,Working In The Coal Mine,Devo,87,43,12
+99,It's All I Can Do,Anne Murray,88,53,9
+100,One More Night,Streek,47,47,7

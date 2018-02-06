@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Heard It Through The Grapevine,Marvin Gaye,1,1,6
+2,For Once In My Life,Stevie Wonder,3,2,9
+3,Love Child,Diana Ross & The Supremes,2,1,11
+4,Wichita Lineman,Glen Campbell,5,4,9
+5,Stormy,Classics IV Featuring Dennis Yost,6,5,10
+6,"Abraham, Martin And John",Dion,4,4,10
+7,I'm Gonna Make You Love Me,Diana Ross And The Supremes & The Temptations,17,7,4
+8,Who's Making Love,Johnnie Taylor,7,5,10
+9,I Love How You Love Me,Bobby Vinton,9,9,9
+10,Cloud Nine,The Temptations,12,10,7
+11,Both Sides Now,Judy Collins,8,8,8
+12,Cinnamon,Derek,13,12,10
+13,Hooked On A Feeling,B.J. Thomas,22,13,7
+14,See Saw,Aretha Franklin,14,14,6
+15,Hey Jude,The Beatles,11,1,16
+16,Soulful Strut,Young-Holt Unlimited,20,16,5
+17,Bring It On Home To Me,Eddie Floyd,18,17,11
+18,Magic Carpet Ride,Steppenwolf,10,3,13
+19,Chewy Chewy,Ohio Express ,15,15,11
+20,Going Up The Country,Canned Heat,26,20,4
+21,Son-Of-A Preacher Man,Dusty Springfield,24,21,5
+22,Little Arrows,Leapy Lee,21,16,12
+23,Too Weak To Fight,Clarence Carter,28,23,8
+24,Papa's Got A Brand New Bag,Otis Redding,31,24,5
+25,Those Were The Days,Mary Hopkin,19,2,14
+26,Lo Mucho Que Te Quiero (The More I Love You),Rene & Rene,30,26,6
+27,Scarborough Fair,Sergio Mendes & Brasil '66,16,16,7
+28,Crimson And Clover,Tommy James And The Shondells,39,28,3
+29,"Shame, Shame",Magic Lanterns,29,29,10
+30,If I Can Dream,Elvis Presley,36,30,5
+31,Till,The Vogues,27,27,6
+32,A Ray Of Hope,The Rascals,35,32,4
+33,Battle Hymn Of The Republic,Andy Williams with the St. Charles Borromeo Choir,34,33,11
+34,Stand By Your Man,Tammy Wynette,51,34,8
+35,"Promises, Promises",Dionne Warwick,23,19,9
+36,My Song,Aretha Franklin,54,36,5
+37,I Can't Turn You Loose,The Chambers Brothers,37,37,6
+38,This Is My Country,The Impressions,43,38,5
+39,People,The Tymes,53,39,7
+40,Hang 'Em High,Booker T. & The MG's,41,40,8
+41,I Started A Joke,Bee Gees,61,41,2
+42,Everyday People,Sly & The Family Stone,55,42,5
+43,Hey Jude,Wilson Pickett,90,43,2
+44,Put Your Head On My Shoulder,The Lettermen,46,44,7
+45,Kentucky Woman,Deep Purple,38,38,8
+46,Bella Linda,The Grass Roots,49,46,5
+47,My Favorite Things,Herb Alpert & The Tijuana Brass,47,47,3
+48,Baby Let's Wait,The Royal Guardsmen,50,48,7
+49,There's Gonna Be A Showdown,Archie Bell & The Drells,75,49,3
+50,Ready Or Not Here I Come (Can't Hide From Love),The Delfonics,60,50,4
+51,Malinda,Bobby Taylor & The Vancouvers,57,51,4
+52,Not Enough Indians,Dean Martin,44,43,9
+53,Worst That Could Happen,Brooklyn Bridge,98,53,2
+54,Ballad Of Two Brothers,Autry Inman,48,48,7
+55,The Girl Most Likely,Jeannie C. Riley,56,55,4
+56,Crosstown Traffic,The Jimi Hendrix Experience,52,52,5
+57,Are You Happy,Jerry Butler,78,57,4
+58,I Put A Spell On You,Creedence Clearwater Revival,59,58,8
+59,American Boys,Petula Clark,62,59,6
+60,Rockin' In The Same Old Boat,Bobby Bland,64,60,7
+61,Bluebirds Over The Mountain,The Beach Boys,67,61,3
+62,California Soul,The 5th Dimension,72,62,2
+63,Isn't It Lonely Together,O.C. Smith,76,63,3
+64,Daddy Sang Bass,Johnny Cash,-1,64,1
+65,"Season Of The Witch, Pt. 1",Vanilla Fudge,73,65,2
+66,Can I Change My Mind,Tyrone Davis,74,66,2
+67,White Houses,Eric Burdon & The Animals,68,67,6
+68,Just Ain't No Love,Barbara Acklin,70,68,7
+69,California Dreamin',Bobby Womack,71,69,4
+70,"Soul Sister, Brown Sugar",Sam & Dave ,81,70,2
+71,The Beginning Of My End,The Unifics,85,71,3
+72,Touch Me,The Doors,-1,72,1
+73,A Minute Of Your Time,Tom Jones,88,73,2
+74,I've Gotta Be Me,Sammy Davis Jr.,93,74,3
+75,Ramblin' Gamblin' Man,Bob Seger System,84,75,2
+76,Love Machine,The O'Kaysions,77,76,6
+77,Good Time Girl,Nancy Sinatra,65,65,5
+78,Chitty Chitty Bang Bang,Paul Mauriat,83,78,6
+79,Reach Out,Merrilee Rush,82,79,4
+80,Vance,Roger Miller,97,80,4
+81,You Got Soul,Johnny Nash,89,81,3
+82,Release Me,Johnny Adams,86,82,3
+83,Electric Stories,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",-1,83,1
+84,Rainbow Ride,Andy Kim,87,84,2
+85,Not On The Outside,The Moments,-1,85,1
+86,Tit For Tat (Ain't No Taking Back),James Brown,92,86,2
+87,Kay,"John Wesley Ryles, I",-1,87,1
+88,Feelin' So Good (S.k.o.o.b.y-D.o.o),The Archies,-1,88,1
+89,"Sweet Cream Ladies, Forward March",The Box Tops,-1,89,1
+90,This Magic Moment,Jay & The Americans,-1,90,1
+91,Stay Close To Me,Five Stairsteps & Cubie,95,91,2
+92,Eloise,Barry Ryan,-1,92,1
+93,You've Got The Power,The Esquires,-1,93,1
+94,Does Anybody Know I'm Here,The Dells,-1,94,1
+95,The Thought Of Loving You,The Crystal Mansion,99,95,2
+96,Shout! - Part 1,Chambers Brothers,96,96,2
+97,Condition Red,The Goodees,100,97,2
+98,I'm Into Lookin' For Someone To Love Me,Bobby Vee,-1,98,1
+99,I Can't Help It (If I'm Still In Love With You),Al Martino,-1,99,1
+100,Things I'd Like To Say,New Colony Six,-1,100,1

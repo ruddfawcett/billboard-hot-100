@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Everyday People,Sly & The Family Stone,1,1,13
+2,Crimson And Clover,Tommy James And The Shondells,2,1,11
+3,Build Me Up Buttercup,The Foundations,4,3,8
+4,Touch Me,The Doors,3,3,9
+5,Can I Change My Mind,Tyrone Davis,6,5,10
+6,Worst That Could Happen,Brooklyn Bridge,5,3,10
+7,You Showed Me,The Turtles,7,7,8
+8,This Magic Moment,Jay & The Americans,12,8,9
+9,Proud Mary,Creedence Clearwater Revival,21,9,5
+10,I'm Livin' In Shame,Diana Ross & The Supremes,11,10,5
+11,"Baby, Baby Don't Cry",Smokey Robinson & The Miracles,14,11,8
+12,Hang 'Em High,Booker T. & The MG's,9,9,16
+13,Games People Play,Joe South,15,13,7
+14,I'm Gonna Make You Love Me,Diana Ross And The Supremes & The Temptations,10,2,12
+15,I Heard It Through The Grapevine,Marvin Gaye,8,1,14
+16,I Started A Joke,Bee Gees,13,6,10
+17,Ramblin' Gamblin' Man,Bob Seger System,17,17,10
+18,I've Gotta Be Me,Sammy Davis Jr.,19,18,11
+19,Give It Up Or Turnit A Loose,James Brown,20,19,5
+20,Take Care Of Your Homework,Johnnie Taylor,23,20,6
+21,This Girl's In Love With You,Dionne Warwick,26,21,4
+22,Hooked On A Feeling,B.J. Thomas,22,5,15
+23,Traces,Classics IV Featuring Dennis Yost,46,23,3
+24,Indian Giver,1910 Fruitgum Co.,27,24,5
+25,Dizzy,Tommy Roe,39,25,4
+26,But You Know I Love You,The First Edition,29,26,6
+27,Goodnight My Love,Paul Anka,28,27,8
+28,"Sweet Cream Ladies, Forward March",The Box Tops,33,28,9
+29,Crossroads,Cream,32,29,5
+30,There'll Come A Time,Betty Everett,30,30,6
+31,Things I'd Like To Say,New Colony Six,31,31,9
+32,There's Gonna Be A Showdown,Archie Bell & The Drells,25,21,11
+33,Soulful Strut,Young-Holt Unlimited,18,3,13
+34,Stand By Your Man,Tammy Wynette,24,19,16
+35,Good Lovin' Ain't Easy To Come By,Marvin Gaye & Tammi Terrell,36,35,4
+36,If I Can Dream,Elvis Presley,16,12,13
+37,Time Of The Season,The Zombies,52,37,3
+38,"Run Away Child, Running Wild",The Temptations,70,38,2
+39,Soulshake,Peggy Scott & Jo Jo Benson,40,39,4
+40,My Whole World Ended (The Moment You Left Me),David Ruffin,50,40,2
+41,Heaven,The Rascals,59,41,3
+42,Daddy Sang Bass,Johnny Cash,45,42,9
+43,I Got A Line On You,Spirit,54,43,6
+44,Does Anybody Know I'm Here,The Dells,38,38,9
+45,I Forgot To Be Your Lover,William Bell,47,45,8
+46,May I,Bill Deal & The Rhondels,58,46,6
+47,Honey (I Miss You),O.C. Smith,76,47,3
+48,A Minute Of Your Time,Tom Jones,48,48,10
+49,Cloud Nine,Mongo Santamaria,67,49,4
+50,To Susan On The West Coast Waiting,Donovan,57,50,3
+51,Woman Helping Man,The Vogues,51,51,4
+52,The Weight,Aretha Franklin,-1,52,1
+53,Home Cookin,Jr. Walker & The All Stars,42,42,6
+54,River Deep-Mountain High,Deep Purple,53,53,5
+55,You Gave Me A Mountain,Frankie Laine,65,55,3
+56,Condition Red,The Goodees,56,46,10
+57,Someday Soon,Judy Collins,78,57,4
+58,Let It Be Me,Glen Campbell & Bobbie Gentry,60,58,5
+59,Riot,Hugh Masekela,55,55,7
+60,Kum Ba Yah,Tommy Leonetti,61,60,6
+61,"Mr. Sun, Mr. Moon",Paul Revere & The Raiders Featuring Mark Lindsay,82,61,2
+62,Tragedy,Brian Hyland,62,62,7
+63,Sophisticated Cissy,The Meters,64,63,3
+64,Glad She's A Woman,Bobby Goldsboro,90,64,3
+65,Hot Smoke & Sasafrass,The Bubble Puppy,84,65,2
+66,Do Your Thing,The Watts 103rd Street Rhythm Band,68,66,4
+67,The Greatest Love,Dorsey Burnette,74,67,5
+68,I Don't Know Why,Stevie Wonder,77,68,2
+69,Lovin' Things,The Grass Roots,83,69,2
+70,Mendocino,Sir Douglas Quintet,80,70,6
+71,Hey! Baby,Jose Feliciano,71,71,5
+72,Witchi Tai To,Everything Is Everything,72,72,3
+73,Grits Ain't Groceries (All Around The World), Little Milton,73,73,4
+74,30-60-90,Willie Mitchell,69,69,4
+75,Maybe Tomorrow,The Iveys,86,75,2
+76,Getting The Corners,The T.S.U. Toronadoes,75,75,6
+77,Hello It's Me,Nazz,87,77,2
+78,Johnny One Time,Brenda Lee,85,78,3
+79,Long Line Rider,Bobby Darin,81,79,3
+80,Somebody Loves You,The Delfonics,-1,80,1
+81,Soul Experience,Iron Butterfly,-1,81,1
+82,Apricot Brandy,Rhinoceros,-1,82,1
+83,The Letter,The Arbors,-1,83,1
+84,Am I The Same Girl,Barbara Acklin,-1,84,1
+85,Great Balls Of Fire,Tiny Tim,88,85,3
+86,No Not Much,The Smoke Ring,89,86,2
+87,Tear Drop City,The Monkees,-1,87,1
+88,Anything You Choose,Spanky And Our Gang,95,88,2
+89,Try A Little Tenderness,Three Dog Night,96,89,3
+90,Back Door Man,Derek,-1,90,1
+91,Long Green,The Fireballs,-1,91,1
+92,Only The Lonely,Sonny James,94,92,3
+93,My Special Prayer,Percy Sledge,93,93,4
+94,Twenty-Five Miles,Edwin Starr,100,94,2
+95,I Like What You're Doing (To Me),Carla Thomas,98,95,2
+96,Switch It On,Cliff Nobles & Co.,97,96,2
+97,I Don't Want To Cry,Ruby Winters,99,97,2
+98,I Do Love You,Billy Stewart,-1,26,11
+99,These Are Not My People,Johnny Rivers,-1,99,1
+100,Brother Love's Travelling Salvation Show,Neil Diamond,-1,100,1

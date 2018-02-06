@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Stranger On The Shore,Mr. Acker Bilk,2,1,11
+2,Soldier Boy,The Shirelles,1,1,10
+3,Mashed Potato Time,Dee Dee Sharp,3,2,13
+4,I Can't Stop Loving You,Ray Charles,21,4,4
+5,Old Rivers,Walter Brennan,7,5,8
+6,Everybody Loves Me But You,Brenda Lee,8,6,7
+7,She Cried,Jay & The Americans,5,5,11
+8,P.T. 109,Jimmy Dean,9,8,9
+9,Johnny Angel,Shelley Fabares,4,1,13
+10,Lovers Who Wander,Dion,13,10,6
+11,Shout! Shout! (Knock Yourself Out),Ernie Maresca,6,6,9
+12,The One Who Really Loves You,Mary Wells,14,12,10
+13,Uptown,The Crystals,18,13,9
+14,Funny Way Of Laughin',Burl Ives,10,10,8
+15,Conscience,James Darren,15,15,7
+16,I Wish That We Were Married,Ronnie and The Hi-Lites,17,16,9
+17,Good Luck Charm,Elvis Presley With The Jordanaires,11,1,11
+18,It Keeps Right On A-Hurtin',Johnny Tillotson,34,18,3
+19,Shout - Part I,Joey Dee & the Starliters,12,6,10
+20,I Sold My Heart To The Junkman,The Blue-Belles,24,20,6
+21,(The Man Who Shot) Liberty Valance,Gene Pitney,32,21,5
+22,Twistin' Matilda (and the channel),Jimmy Soul,25,22,9
+23,"Twist, Twist Senora",Gary U.S. Bonds,16,9,9
+24,Second Hand Love,Connie Francis,40,24,3
+25,Don't Play That Song (You Lied),Ben E. King,33,25,6
+26,Tell Me,Dick and DeeDee,22,22,11
+27,Caterina,Perry Como,23,23,9
+28,Palisades Park,Freddy Cannon,42,28,3
+29,Most People Get Married,Patti Page,27,27,6
+30,Follow That Dream,Elvis Presley,38,30,3
+31,You Are Mine,Frankie Avalon,26,26,10
+32,Moon River,Henry Mancini And His Orchestra,37,11,24
+33,Playboy,The Marvelettes,46,33,4
+34,Lover Please,Clyde McPhatter,20,7,13
+35,Night Train,James Brown And The Famous Flames,39,35,7
+36,Village Of Love,Nathaniel Mayer And The Fabulous Twilights,43,36,5
+37,Slow Twistin',Chubby Checker (with Dee Dee Sharp),19,3,13
+38,Teach Me Tonight,George Maharis,47,38,6
+39,Soul Twist,King Curtis And The Noble Knights,28,17,12
+40,So This Is Love,The Castells,44,40,7
+41,That's Old Fashioned (That's The Way Love Should Be),The Everly Brothers,56,41,3
+42,(I was) Born To Cry,Dion,49,42,6
+43,Young World,Rick Nelson,31,5,13
+44,Walk On The Wild Side (Part 1),Jimmy Smith And The Big Band,69,44,3
+45,Count Every Star,Linda Scott,41,41,8
+46,Any Day Now (My Wild Beautiful Bird),Chuck Jackson,61,46,5
+47,Blues (Stay Away From Me),Ace Cannon,36,36,7
+48,Hit Record,Brook Benton,60,48,4
+49,I Love You,The Volume's,62,49,5
+50,Itty Bitty Pieces,James Ray,51,41,8
+51,Cindy's Birthday,Johnny Crawford,65,51,3
+52,Dear One,Larry Finnegan,30,11,14
+53,King Of Clowns,Neil Sedaka,45,45,9
+54,Snap Your Fingers,Joe Henderson,76,54,2
+55,Number One Man,Bruce Channel,57,55,5
+56,Love Letters,Ketty Lester,35,5,14
+57,Sharing You,Bobby Vee,74,57,2
+58,If I Cried Every Time You Hurt Me,Wanda Jackson,59,58,6
+59,Lemon Tree,"Peter, Paul & Mary",63,59,4
+60,Balboa Blue,The Marketts,66,60,5
+61,Born To Lose,Ray Charles,70,61,3
+62,The Stripper,David Rose and His Orchestra,87,62,3
+63,Meet Me At The Twistin' Place,Johnnie Morisette,64,63,7
+64,I Will,Vic Dana,50,47,9
+65,Hearts,Jackie Wilson,58,58,5
+66,Where Are You,Dinah Washington,72,66,2
+67,Johnny Jingo,Hayley Mills,29,21,11
+68,My Real Name,Fats Domino,79,68,3
+69,Love Can't Wait,Marty Robbins,71,69,5
+70,How Is Julie?,The Lettermen,73,70,3
+71,That's My Desire,Yvonne Baker and the Sensations,75,71,4
+72,I'll Take You Home,"The Corsairs Featuring Jay ""Bird"" Uzzell",68,68,7
+73,When I Get Thru With You (You'll Love Me Too),Patsy Cline,85,73,2
+74,Fortuneteller,Bobby Curtola,77,74,4
+75,I Found A Love,The Falcons & Band (Ohio Untouchables),80,75,8
+76,Theme From Ben Casey,Valjean on Piano,84,76,2
+77,Doctor Feel-Good,Dr. Feelgood And The Interns,82,77,5
+78,Oh My Angel,Bertha Tillman,81,78,4
+79,Why'd You Wanna Make Me Cry,Connie Stevens,83,79,4
+80,Wolverton Mountain,Claude King,-1,80,1
+81,Al Di La',Emilio Pericoli,100,81,2
+82,I'll Try Something New,The Miracles,94,82,3
+83,Drummin' Up A Storm,Sandy Nelson,67,67,5
+84,Woman Is A Man's Best Friend,Teddy & The Twilights,86,84,2
+85,Bristol Twistin' Annie,The Dovells,97,85,2
+86,Drum Stomp,Sandy Nelson,-1,86,1
+87,Let Me Be The One,The Paris Sisters,91,87,3
+88,A Steel Guitar And A Glass Of Wine,Paul Anka,-1,88,1
+89,Swingin' Gently,Earl Grant,-1,89,1
+90,Adios Amigo,Jim Reeves,-1,90,3
+91,Having A Party,Sam Cooke,-1,91,1
+92,Down In The Valley,Solomon Burke,-1,92,1
+93,Where Have You Been (All My Life),Arthur Alexander,-1,93,1
+94,Lipstick Traces (On A Cigarette),Benny Spellman,-1,94,3
+95,Johnny Get Angry,Joanie Sommers,-1,95,1
+96,How Can I Meet Her?,The Everly Brothers,-1,96,1
+97,Tennessee,Jan & Dean,-1,97,1
+98,Limbo Rock,The Champs,-1,98,1
+99,West Of The Wall,Toni Fisher,-1,99,1
+100,Boom Boom,John Lee Hooker,-1,100,1

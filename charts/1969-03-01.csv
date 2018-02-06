@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Everyday People,Sly & The Family Stone,1,1,14
+2,Crimson And Clover,Tommy James And The Shondells,2,1,12
+3,Build Me Up Buttercup,The Foundations,3,3,9
+4,Touch Me,The Doors,4,3,10
+5,Proud Mary,Creedence Clearwater Revival,9,5,6
+6,You Showed Me,The Turtles,7,6,9
+7,This Magic Moment,Jay & The Americans,8,7,10
+8,"Baby, Baby Don't Cry",Smokey Robinson & The Miracles,11,8,9
+9,Worst That Could Happen,Brooklyn Bridge,6,3,11
+10,Dizzy,Tommy Roe,25,10,5
+11,This Girl's In Love With You,Dionne Warwick,21,11,5
+12,I'm Livin' In Shame,Diana Ross & The Supremes,10,10,6
+13,Games People Play,Joe South,13,13,8
+14,Can I Change My Mind,Tyrone Davis,5,5,11
+15,I've Gotta Be Me,Sammy Davis Jr.,18,15,12
+16,Indian Giver,1910 Fruitgum Co.,24,16,6
+17,Ramblin' Gamblin' Man,Bob Seger System,17,17,11
+18,Give It Up Or Turnit A Loose,James Brown,19,18,6
+19,Traces,Classics IV Featuring Dennis Yost,23,19,4
+20,Hang 'Em High,Booker T. & The MG's,12,9,17
+21,But You Know I Love You,The First Edition,26,21,7
+22,"Run Away Child, Running Wild",The Temptations,38,22,3
+23,My Whole World Ended (The Moment You Left Me),David Ruffin,40,23,3
+24,Things I'd Like To Say,New Colony Six,31,24,10
+25,Time Of The Season,The Zombies,37,25,4
+26,There'll Come A Time,Betty Everett,30,26,7
+27,Take Care Of Your Homework,Johnnie Taylor,20,20,7
+28,I Heard It Through The Grapevine,Marvin Gaye,15,1,15
+29,Crossroads,Cream,29,29,6
+30,Goodnight My Love,Paul Anka,27,27,9
+31,I'm Gonna Make You Love Me,Diana Ross And The Supremes & The Temptations,14,2,13
+32,Good Lovin' Ain't Easy To Come By,Marvin Gaye & Tammi Terrell,35,32,5
+33,I Started A Joke,Bee Gees,16,6,11
+34,The Weight,Aretha Franklin,52,34,2
+35,To Susan On The West Coast Waiting,Donovan,50,35,4
+36,Hooked On A Feeling,B.J. Thomas,22,5,16
+37,Soulshake,Peggy Scott & Jo Jo Benson,39,37,5
+38,"Sweet Cream Ladies, Forward March",The Box Tops,28,28,10
+39,Heaven,The Rascals,41,39,4
+40,You Gave Me A Mountain,Frankie Laine,55,40,4
+41,"Mr. Sun, Mr. Moon",Paul Revere & The Raiders Featuring Mark Lindsay,61,41,3
+42,I Got A Line On You,Spirit,43,42,7
+43,I Don't Know Why,Stevie Wonder,68,43,3
+44,May I,Bill Deal & The Rhondels,46,44,7
+45,Cloud Nine,Mongo Santamaria,49,45,5
+46,Honey (I Miss You),O.C. Smith,47,46,4
+47,Woman Helping Man,The Vogues,51,47,5
+48,Daddy Sang Bass,Johnny Cash,42,42,10
+49,Mendocino,Sir Douglas Quintet,70,49,7
+50,Sophisticated Cissy,The Meters,63,50,4
+51,Let It Be Me,Glen Campbell & Bobbie Gentry,58,51,6
+52,I Forgot To Be Your Lover,William Bell,45,45,9
+53,Lovin' Things,The Grass Roots,69,53,3
+54,Hot Smoke & Sasafrass,The Bubble Puppy,65,54,3
+55,Kum Ba Yah,Tommy Leonetti,60,55,7
+56,Tragedy,Brian Hyland,62,56,8
+57,Someday Soon,Judy Collins,57,57,5
+58,Do Your Thing,The Watts 103rd Street Rhythm Band,66,58,5
+59,Riot,Hugh Masekela,59,55,8
+60,Condition Red,The Goodees,56,46,11
+61,Glad She's A Woman,Bobby Goldsboro,64,61,4
+62,Try A Little Tenderness,Three Dog Night,89,62,4
+63,Rock Me,Steppenwolf,-1,63,1
+64,Who's Making Love,Young-Holt Unlimited,-1,64,1
+65,When He Touches Me (Nothing Else Matters),Peaches & Herb,-1,65,1
+66,Twenty-Five Miles,Edwin Starr,94,66,3
+67,The Greatest Love,Dorsey Burnette,67,67,6
+68,Tear Drop City,The Monkees,87,68,2
+69,Witchi Tai To,Everything Is Everything,72,69,4
+70,Only The Strong Survive,Jerry Butler,-1,70,1
+71,A Lover's Question,Otis Redding,-1,71,1
+72,The Letter,The Arbors ,83,72,2
+73,Maybe Tomorrow,The Iveys,75,73,3
+74,30-60-90,Willie Mitchell,74,69,5
+75,Johnny One Time,Brenda Lee,78,75,4
+76,Grits Ain't Groceries (All Around The World),Little Milton,73,73,5
+77,Hello It's Me,Nazz,77,77,3
+78,Soul Experience,Iron Butterfly,81,78,2
+79,Somebody Loves You,The Delfonics,80,79,2
+80,Apricot Brandy,Rhinoceros,82,80,2
+81,These Are Not My People,Johnny Rivers,99,81,2
+82,Am I The Same Girl,Barbara Acklin,84,82,2
+83,Brother Love's Travelling Salvation Show,Neil Diamond,100,83,2
+84,Back Door Man,Derek,90,84,2
+85,No Not Much,The Smoke Ring,86,85,3
+86,Anything You Choose,Spanky And Our Gang,88,86,3
+87,Galveston,Glen Campbell,-1,87,1
+88,Don't Forget About Me,Dusty Springfield,-1,88,1
+89,I Like What You're Doing (To Me),Carla Thomas,95,89,3
+90,Snatching It Back,Clarence Carter,-1,90,1
+91,Long Green,The Fireballs,91,91,2
+92,Only The Lonely,Sonny James,92,92,4
+93,Switch It On,Cliff Nobles & Co.,96,93,3
+94,Gimme Gimme Good Lovin',Crazy Elephant,-1,94,1
+95,You've Made Me So Very Happy,"Blood, Sweat & Tears",-1,95,1
+96,Sweeter Than Sugar,Ohio Express,-1,96,1
+97,Day After Day (It's Slippin' Away),Shango,-1,97,1
+98,I Do Love You,Billy Stewart,98,26,12
+99,Give It Away,The Chi-lites,-1,99,1
+100,The Way It Used To Be,Engelbert Humperdinck,-1,100,1

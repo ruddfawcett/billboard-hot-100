@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,(Just Like) Starting Over,John Lennon,1,1,11
+2,Love On The Rocks,Neil Diamond,3,2,11
+3,Guilty,Barbra Streisand & Barry Gibb,7,3,11
+4,The Tide Is High,Blondie,8,4,9
+5,Hungry Heart,Bruce Springsteen,5,5,10
+6,Every Woman In The World,Air Supply,6,6,12
+7,Passion,Rod Stewart,11,7,8
+8,Tell It Like It Is,Heart,10,8,8
+9,Lady,Kenny Rogers,4,1,15
+10,More Than I Can Say,Leo Sayer,2,2,16
+11,"De Do Do Do, De Da Da Da",The Police,12,11,12
+12,Hit Me With Your Best Shot,Pat Benatar,9,9,15
+13,It's My Turn,Diana Ross,15,13,12
+14,I Made It Through The Rain,Barry Manilow,16,14,8
+15,I Love A Rainy Night,Eddie Rabbitt,19,15,10
+16,Celebration,Kool & The Gang,17,16,12
+17,Hey Nineteen,Steely Dan,20,17,7
+18,Master Blaster (Jammin'),Stevie Wonder,13,5,17
+19,Time Is Time,Andy Gibb,21,19,8
+20,Another One Bites The Dust,Queen,14,1,22
+21,Suddenly,Olivia Newton-John & Cliff Richard,23,21,12
+22,Giving It Up For Your Love,Delbert McClinton,28,22,6
+23,Everybody's Got To Learn Sometime,The Korgis,18,18,14
+24,One Step Closer,The Doobie Brothers,26,24,8
+25,Miss Sun,Boz Scaggs,30,25,7
+26,9 To 5,Dolly Parton,33,26,7
+27,Together,Tierra,29,27,10
+28,Woman In Love,Barbra Streisand,22,1,19
+29,You've Lost That Lovin' Feeling,Daryl Hall John Oates,25,12,16
+30,The Winner Takes It All,ABBA,36,30,8
+31,Same Old Lang Syne,Dan Fogelberg,37,31,5
+32,I Believe In You,Don Williams,24,24,16
+33,Whip It,Devo,27,14,20
+34,Keep On Loving You,REO Speedwagon,39,34,7
+35,Seven Bridges Road,Eagles,55,35,4
+36,Never Be The Same,Christopher Cross,31,15,14
+37,Cold Love,Donna Summer,41,37,7
+38,Killin' Time,Fred Knoblock & Susan Anton,40,38,8
+39,He Can't Love You,Michael Stanley Band,43,39,8
+40,Heartbreak Hotel,The Jacksons,51,40,6
+41,My Mother's Eyes,Bette Midler,45,41,8
+42,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,32,21,18
+43,I Need Your Lovin',Teena Marie,49,43,8
+44,Need Your Loving Tonight,Queen,44,44,7
+45,Shine On,L.T.D.,46,45,9
+46,Smoky Mountain Rain,Ronnie Milsap,50,46,7
+47,Love T.K.O.,Teddy Pendergrass,52,47,7
+48,Games People Play,The Alan Parsons Project,54,48,6
+49,I Ain't Gonna Stand For It,Stevie Wonder,56,49,5
+50,I'm Coming Out,Diana Ross,34,5,19
+51,Teacher Teacher,Rockpile,53,51,8
+52,Who's Making Love,Blues Brothers,64,52,4
+53,A Little In Love,Cliff Richard,65,53,5
+54,Girls Can Get It,Dr. Hook,35,34,11
+55,Sequel,Harry Chapin,38,23,11
+56,Turn And Walk Away,The Babys,42,42,9
+57,You,"Earth, Wind & Fire",48,48,8
+58,Fool That I Am,Rita Coolidge,61,58,5
+59,Gotta Have More Love,Climax Blues Band,47,47,9
+60,The Wanderer,Donna Summer,60,3,17
+61,Ah! Leah!,Donnie Iris,70,61,5
+62,Breakfast In America,Supertramp,62,62,5
+63,Back In Black,AC/DC,71,63,4
+64,This Time,John Cougar,57,27,16
+65,Dreaming,Cliff Richard,58,10,18
+66,Deep Inside My Heart,Randy Meisner,59,22,13
+67,United Together,Aretha Franklin,81,67,3
+68,Full Of Fire,Shalamar,79,68,4
+69,What Can You Get A Wookiee For Christmas (When He Already Owns A Comb?),The Star Wars Intergalactic Droid Choir & Chorale,69,69,5
+70,Fashion,David Bowie,72,70,6
+71,Set The Night On Fire,Oak,73,71,5
+72,Skateaway,Dire Straits,80,72,4
+73,(Ghost) Riders In The Sky,Outlaws,83,73,3
+74,He's So Shy,The Pointer Sisters,63,3,25
+75,Turning Japanese,The Vapors,75,36,16
+76,Never Knew Love Like This Before,Stephanie Mills,66,6,23
+77,The Horizontal Bop,Bob Seger,67,42,10
+78,Lovely One,The Jacksons,78,12,16
+79,Easy Love, Dionne Warwick,74,62,8
+80,Got To Rock On,Kansas,90,80,3
+81,Could I Be Dreaming,The Pointer Sisters,68,52,10
+82,Merry Christmas In The NFL,"Willis ""The Guard"" & Vigorish",82,82,3
+83,Without Your Love,Roger Daltrey,76,20,18
+84,Don't Want No-Body,J.D. Drews,88,84,3
+85,Upside Down,Diana Ross,77,1,27
+86,Toccata,Sky (Arista),-1,86,1
+87,Switchin' To Glide/This Beat Goes On,The Kings,84,43,21
+88,Fly Away,Peter Allen,-1,88,1
+89,Gypsy Spirit,Pendulum,89,89,7
+90,Stop This Game,Cheap Trick,86,48,10
+91,Spend The Night In Love,The 4 Seasons,91,91,5
+92,Let Me Be Your Angel,Stacy Lattisaw,85,21,23
+93,Remote Control,The Reddings,94,89,9
+94,Once A Night,Jackie English,96,94,4
+95,I Can't Stop The Feelin',Pure Prairie League,95,77,6
+96,On The Road Again,Willie Nelson,87,20,19
+97,Trickle Trickle,The Manhattan Transfer,92,73,7
+98,Help Me!,Marcy Levy & Robin Gibb,97,50,10
+99,I'm Happy That Love Has Found You,Jimmy Hall,98,27,16
+100,Out Here On My Own,Irene Cara,99,19,22

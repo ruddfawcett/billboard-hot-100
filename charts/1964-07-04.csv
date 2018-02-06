@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Get Around,The Beach Boys,2,1,7
+2,My Boy Lollipop,Millie Small,4,2,7
+3,Memphis,Johnny Rivers,6,3,6
+4,Don't Let The Sun Catch You Crying,Gerry And The Pacemakers,7,4,7
+5,People,Barbra Streisand,5,5,14
+6,A World Without Love,Peter And Gordon,1,1,9
+7,Chapel Of Love,The Dixie Cups,3,1,10
+8,Rag Doll," The 4 Seasons Featuring the ""Sound of Frankie Valli""",18,8,3
+9,Bad To Me,Billy J. Kramer With The Dakotas,9,9,6
+10,Can't You See That She's Mine,The Dave Clark Five,16,10,4
+11,No Particular Place To Go,Chuck Berry,14,11,7
+12,The Girl From Ipanema,Stan Getz/Astrud Gilberto,20,12,5
+13,Love Me With All Your Heart (Cuando Calienta El Sol),The Ray Charles Singers,8,3,13
+14,Little Children,Billy J. Kramer With The Dakotas,12,7,12
+15,Walk On By,Dionne Warwick,10,6,11
+16,Good Times,Sam Cooke,23,16,5
+17,What's The Matter With You Baby,Marvin Gaye & Mary Wells,22,17,8
+18,Don't Throw Your Love Away,The Searchers,25,18,6
+19,Love Me Do,The Beatles,11,1,13
+20,Try It Baby,Marvin Gaye,27,20,5
+21,Yesterday's Gone,Chad & Jeremy,24,21,7
+22,The Little Old Lady (From Pasadena),Jan & Dean,60,22,2
+23,Keep On Pushing,The Impressions,32,23,5
+24,Don't Worry Baby,The Beach Boys,29,24,6
+25,I'll Touch A Star,Terry Stafford,26,25,7
+26,Tell Me Why,Bobby Vinton,13,13,7
+27,Diane,The Bachelors,17,10,12
+28,Today,The New Christy Minstrels,21,17,12
+29,My Guy,Mary Wells,15,1,14
+30,Alone,The 4 Seasons,38,30,5
+31,Dang Me,Roger Miller,44,31,4
+32,Beans In My Ears,The Serendipity Singers,30,30,7
+33,I'll Be In Trouble,The Temptations,41,33,6
+34,"Hello, Dolly!",Louis Armstrong And The All Stars,19,1,21
+35,Tennessee Waltz,Sam Cooke,46,35,4
+36,Remember Me,Rita Pavone,45,36,5
+37,Farmer John,The Premiers,56,37,3
+38,Giving Up,Gladys Knight And The Pips,42,38,9
+39,Tears And Roses,Al Martino,28,20,8
+40,Do You Love Me,The Dave Clark Five ,34,11,10
+41,Hey Harmonica Man,Stevie Wonder,52,41,4
+42,Lazy Elsie Molly,Chubby Checker,50,42,5
+43,Every Little Bit Hurts,Brenda Holloway,31,13,10
+44,Wishin' And Hopin',Dusty Springfield,61,44,3
+45,Milord,Bobby Darin,49,45,8
+46,Everybody Loves Somebody,Dean Martin,72,46,2
+47,Party Girl,Bernadette Carroll,47,47,8
+48,Nobody I Know,Peter And Gordon,73,48,2
+49,Beg Me,Chuck Jackson,57,49,7
+50,Alone With You,Brenda Lee,58,50,4
+51,What Have I Got Of My Own,Trini Lopez,53,51,9
+52,Steal Away,Jimmy Hughes,77,52,3
+53,I Still Get Jealous,Louis Armstrong And The All Stars,64,53,3
+54,Just Ain't Enough Love,Eddie Holland,62,54,6
+55,Not Fade Away,The Rolling Stones,63,55,10
+56,My Baby Don't Dig Me,Ray Charles and his Orchestra,51,51,6
+57,The French Song,Lucille Starr,54,54,8
+58,(You Don't Know) How Glad I Am,Nancy Wilson,66,58,2
+59,The World I Used To Know,Jimmie Rodgers,70,59,6
+60,Share Your Love With Me,Bobby Bland,65,60,4
+61,I Wanna Love Him So Bad,The Jelly Beans,84,61,3
+62,Under The Boardwalk,The Drifters,81,62,2
+63,Kick That Little Foot Sally Ann,Round Robin,68,63,6
+64,Something You Got,Alvin Robinson,67,64,5
+65,"Hickory, Dick And Doc",Bobby Vee,69,65,6
+66,Do I Love You?,The Ronettes,78,66,3
+67,I Like It Like That,The Miracles,82,67,2
+68,It Ain't No Use,Major Lance,76,68,5
+69,The First Night Of The Full Moon,Jack Jones,71,69,6
+70,Girls,Major Lance,80,70,2
+71,I Believe,The Bachelors,83,71,2
+72,I Can't Hear You,Betty Everett,79,72,2
+73,The World Of Lonely People,Anita Bryant,59,59,8
+74,I Want To Hold Your Hand,Boston Pops Orchestra Arthur Fiedler,-1,74,1
+75,Peg O' My Heart,Robert Maxwell His Harp And Orchestra,87,75,3
+76,Oh! Baby (We Got A Good Thing Goin'),Barbara Lynn,89,76,3
+77,Yesterday's Gone,The Overlanders,75,75,7
+78,I'm Into Somethin' Good,Earl-Jean,90,78,2
+79,The Ferris Wheel,The Everly Brothers,88,79,3
+80,You're My World,Cilla Black,-1,80,1
+81,Tell Me (You're Coming Back),The Rolling Stones,-1,81,1
+82,Anyone Who Knows What Love Is (will understand),Irma Thomas,-1,82,1
+83,"Mixed-Up, Shook-Up, Girl",Patty & The Emblems,85,83,3
+84,Don't Take Your Love From Me,Gloria Lynne,-1,84,1
+85,Handy Man,Del Shannon,-1,85,1
+86,A Little Toy Balloon,Danny Williams,86,86,3
+87,Taste Of Tears,Johnny Mathis,94,87,3
+88,You're My Remedy,The Marvelettes,-1,88,1
+89,It Will Stand,The Showmen,-1,61,13
+90,The Mexican Shuffle,Herb Alpert's Tijuana Brass,95,90,2
+91,Dream Lover,The Paris Sisters,93,91,4
+92,Viva Las Vegas,Elvis Presley,-1,92,1
+93,All My Loving,The Hollyridge Strings,-1,93,1
+94,It's All Over Now,The Valentinos,99,94,2
+95,I Don't Want To Hear Anymore,Jerry Butler,98,95,2
+96,"Oh, Rock My Soul (Part I)","Peter, Paul & Mary",96,96,2
+97,If You See My Love,Lenny Welch,-1,97,1
+98,Help The Poor,B.B. King,100,98,2
+99,The Things That I Used To Do,James Brown And His Orchestra,-1,99,1
+100,My Heart Skips A Beat,Buck Owens,-1,100,1

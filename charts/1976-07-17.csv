@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Afternoon Delight,Starland Vocal Band,1,1,11
+2,Kiss And Say Goodbye,The Manhattans,2,2,14
+3,I'll Be Good To You,The Brothers Johnson,3,3,12
+4,"More, More, More Pt. 1",Andrea True Connection,5,4,19
+5,Moonlight Feels Right,Starbuck,13,5,14
+6,Love Is Alive,Gary Wright,8,6,14
+7,Shop Around,Captain & Tennille,4,4,12
+8,Got To Get You Into My Life,The Beatles,10,8,6
+9,Silly Love Songs,Wings,6,1,15
+10,Rock And Roll Music,The Beach Boys,15,10,7
+11,Let Her In,John Travolta,12,11,12
+12,Take The Money And Run,Steve Miller,14,12,11
+13,The Boys Are Back In Town,Thin Lizzy,16,13,10
+14,If You Know What I Mean,Neil Diamond,17,14,5
+15,Misty Blue,Dorothy Moore,7,3,18
+16,Get Closer,Seals & Crofts (Featuring Carolyn Willis),18,16,14
+17,Tear The Roof Off The Sucker (Give Up The Funk),Parliament,24,17,10
+18,You're My Best Friend,Queen,20,18,9
+19,Turn The Beat Around,Vicki Sue Robinson,22,19,15
+20,Never Gonna Fall In Love Again,Eric Carmen,11,11,12
+21,Sara Smile,Daryl Hall John Oates,9,4,25
+22,Let 'em In,Wings,43,22,3
+23,Don't Go Breaking My Heart,Elton John & Kiki Dee,46,23,3
+24,I'm Easy,Keith Carradine,26,24,11
+25,You Should Be Dancing,Bee Gees,51,25,3
+26,Last Child,Aerosmith,28,26,6
+27,I Need To Be In Love,Carpenters,29,27,6
+28,Young Hearts Run Free,Candi Staton,30,28,8
+29,Sophisticated Lady (She's A Different Lady),Natalie Cole,31,29,8
+30,Get Up And Boogie (That's Right),Silver Convention,19,2,19
+31,This Masquerade,George Benson,44,31,6
+32,You'll Never Find Another Love Like Mine,Lou Rawls,37,32,7
+33,Something He Can Feel,Aretha Franklin,35,33,6
+34,A Fifth Of Beethoven,Walter Murphy & The Big Apple Band,36,34,8
+35,Heaven Must Be Missing An Angel (part 1),Tavares,59,35,7
+36,I'd Really Love To See You Tonight,England Dan & John Ford Coley,40,36,6
+37,"Baby, I Love Your Way",Peter Frampton,48,37,4
+38,Today's The Day,America,23,23,10
+39,Another Rainy Day In New York City,Chicago,45,39,4
+40,Love Hangover,Diana Ross,21,1,16
+41,Framed,Cheech & Chong,41,41,6
+42,Livin' Ain't Livin',Firefall,42,42,7
+43,C'mon Marianne,Donny Osmond,47,43,7
+44,Steppin' Out,Neil Sedaka,54,44,4
+45,Who'd She Coo?,Ohio Players,61,45,4
+46,It Keeps You Runnin',Carly Simon,56,46,5
+47,A Little Bit More,Dr. Hook,58,47,5
+48,I'm Gonna Let My Heart Do The Walking,The Supremes,50,48,8
+49,Hot Stuff/fool To Cry,The Rolling Stones,53,49,4
+50,Making Our Dreams Come True,Cyndi Grecco,25,25,11
+51,"Roots, Rock, Reggae",Bob Marley And The Wailers,62,51,3
+52,Everything's Coming Up Love,David Ruffin,52,52,6
+53,Say You Love Me,Fleetwood Mac,63,53,3
+54,Hold On,Sons Of Champlin,65,54,5
+55,Foxy Lady,Crown Heights Affair,59,55,9
+56,"(Shake, Shake, Shake) Shake Your Booty",KC And The Sunshine Band,79,56,2
+57,Summer,War,80,57,2
+58,Good Vibrations,Todd Rundgren,34,34,7
+59,Play That Funky Music,Wild Cherry,78,59,5
+60,Shower The People,James Taylor,73,60,3
+61,Silver Star,The 4 Seasons,38,38,8
+62,Wham Bam (Shang-A-Lang),Silver,74,62,5
+63,Cotton Candy,The Sylvers,68,63,4
+64,Ten Percent,Double Exposure,66,64,5
+65,Blt,Lee Oskar,67,65,4
+66,Lowdown,Boz Scaggs,70,66,3
+67,Devil Woman,Cliff Richard,77,67,3
+68,Don't Touch Me There,The Tubes,69,68,3
+69,Save Your Kisses For Me,Brotherhood Of Man,27,27,11
+70,Mamma Mia,ABBA,32,32,9
+71,Somebody's Gettin' It,Johnnie Taylor,33,33,7
+72,Springtime Mama,Henry Gross,85,72,2
+73,Dancin' Kid,Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III,83,73,3
+74,Hell Cat,Bellamy Brothers,84,74,2
+75,The Lonely One,Special Delivery Featuring Terry Huff,75,75,8
+76,I Want You,Marvin Gaye,55,15,13
+77,Fool For The City,Foghat,57,45,7
+78,Gotta Be The One,Maxine Nightingale,-1,78,1
+79,Getaway,"Earth, Wind & Fire",-1,79,1
+80,I Never Cry,Alice Cooper,82,80,3
+81,Rainbow In Your Eyes,Leon & Mary Russell,81,81,5
+82,Kid Charlemagne,Steely Dan,87,82,2
+83,Wake Up Susan,The Spinners,-1,83,1
+84,"Try Me, I Know We Can Make It",Donna Summer,88,84,2
+85,Magic Man,Heart,-1,85,1
+86,Honey Child,Bad Company,89,86,2
+87,Devil With A Blue Dress,Pratt & McClain,-1,87,1
+88,Ode To Billie Joe,Bobbie Gentry,-1,1,15
+89,Light Up The World With Sunshine,"Hamilton, Joe Frank & Dennison",-1,89,1
+90,Street Singin',Lady Flash,-1,90,1
+91,Hey Shirley (This Is Squirrely),Shirley & Squirrely,-1,91,1
+92,"Mary Hartman, Mary Hartman",The Deadly Nightshade,-1,92,1
+93,You To Me Are Everything,The Real Thing,-1,93,1
+94,You To Me Are Everything,Broadway,-1,94,1
+95,Up The Creek (without A Paddle),The Temptations,-1,95,1
+96,Rock Creek Park,The Blackbyrds,-1,96,1
+97,Takin' It To The Streets,The Doobie Brothers,49,13,14
+98,That's Where The Happy People Go,The Trammps,60,27,15
+99,Movin',Brass Construction,64,14,16
+100,I'll Get Over You,Crystal Gayle,71,71,6

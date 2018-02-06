@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Sound Of Silence,Simon & Garfunkel,2,1,10
+2,We Can Work It Out,The Beatles,1,1,6
+3,She's Just My Style,Gary Lewis And The Playboys,3,3,7
+4,Five O'Clock World,The Vogues,4,4,9
+5,Day Tripper,The Beatles,6,5,6
+6,No Matter What Shape (Your Stomach's In),The T-Bones,10,6,7
+7,The Men In My Little Girl's Life,Mike Douglas,8,7,5
+8,A Must To Avoid,Herman's Hermits,11,8,5
+9,As Tears Go By,The Rolling Stones,9,9,5
+10,You Didn't Have To Be So Nice,The Lovin' Spoonful,12,10,9
+11,Just Like Me,Paul Revere & The Raiders Featuring Mark Lindsay,16,11,8
+12,Flowers On The Wall,The Statler Brothers,7,4,11
+13,Ebb Tide,The Righteous Brothers,5,5,8
+14,The Duck,Jackie Lee,17,14,10
+15,Barbara Ann,The Beach Boys,31,15,4
+16,Jenny Take A Ride!,Mitch Ryder And The Detroit Wheels,21,16,7
+17,My Love,Petula Clark,24,17,5
+18,Spanish Eyes,Al Martino,18,18,8
+19,Attack,The Toys,22,19,6
+20,Lies,The Knickerbockers,26,20,8
+21,Crying Time,Ray Charles,33,21,7
+22,Over And Over,The Dave Clark Five,13,1,11
+23,Satin Pillows,Bobby Vinton,23,23,8
+24,A Well Respected Man,The Kinks,28,24,8
+25,Thunderball,Tom Jones,27,25,7
+26,Uptight (Everything's Alright),Stevie Wonder,46,26,6
+27,Sandy,Ronny And The Daytonas,30,27,8
+28,I Got You (I Feel Good),James Brown And The Famous Flames,20,3,11
+29,Going To A Go-Go,The Miracles,48,29,5
+30,Lightnin' Strikes,Lou Christie,52,30,5
+31,It Was A Very Good Year,Frank Sinatra,37,31,5
+32,Look Through Any Window,The Hollies,34,32,10
+33,Zorba The Greek,Herb Alpert & The Tijuana Brass,43,33,5
+34,It's My Life,The Animals,25,23,12
+35,Under Your Spell Again,Johnny Rivers,35,35,6
+36,Like A Baby,Len Barry,54,36,4
+37,Tell Me Why,Elvis Presley With The Jordanaires,47,37,4
+38,Second Hand Rose,Barbra Streisand,41,38,6
+39,Are You There (With Another Girl),Dionne Warwick,45,39,7
+40,A Sweet Woman Like You,Joe Tex,29,29,8
+41,Fever,The McCoys,14,7,11
+42,Don't Mess With Bill,The Marvelettes,55,42,4
+43,Turn! Turn! Turn! (To Everything There Is A Season),The Byrds,19,1,14
+44,Michael,The C.O.D.'s,61,44,9
+45,Let's Hang On!,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",15,3,16
+46,My World Is Empty Without You,The Supremes,78,46,2
+47,Michelle,David & Jonathan,69,47,3
+48,Harlem Nocturne,The Viscounts,42,39,29
+49,Recovery,Fontella Bass,56,49,5
+50,I've Got To Be Somebody,Billy Joe Royal,38,38,8
+51,Tijuana Taxi,Herb Alpert & The Tijuana Brass,64,51,5
+52,It's Good News Week,Hedgehoppers Anonymous,57,50,8
+53,Hurt,Little Anthony And The Imperials,66,53,4
+54,California Dreamin',The Mamas & The Papas,74,54,3
+55,A Young Girl,Noel Harrison,51,51,8
+56,Broomstick Cowboy,Bobby Goldsboro,53,53,6
+57,Spread It On Thick,The Gentrys,65,57,4
+58,A Hard Day's Night,Ramsey Lewis Trio,-1,58,1
+59,I Ain't Gonna Eat Out My Heart Anymore,The Young Rascals,67,59,5
+60,I See The Light,The Five Americans,71,60,4
+61,Call Me,Chris Montez,68,61,3
+62,Cleo's Mood,Jr. Walker & The All Stars,75,62,2
+63,If You Gotta Make A Fool Of Somebody,Maxine Brown,73,63,7
+64,Can You Please Crawl Out Your Window?,Bob Dylan,72,64,4
+65,Little Boy (In Grown Up Clothes),The 4 Seasons,60,60,5
+66,Night Time,The Strangeloves,85,66,2
+67,(You're Gonna) Hurt Yourself,Frankie Valli,86,67,2
+68,"Get Out Of My Life, Woman",Lee Dorsey,81,68,4
+69,Rainbow '65 (Part I),Gene Chandler,79,69,7
+70,Love (Makes Me Do Foolish Things),Martha & The Vandellas,80,70,7
+71,When Liking Turns To Loving,Ronnie Dove,-1,71,1
+72,Please Don't Fight It,"Dino, Desi & Billy",63,60,7
+73,Hole In The Wall,The Packers,70,43,11
+74,These Boots Are Made For Walkin',Nancy Sinatra,-1,74,1
+75,My Baby Loves Me,Martha & The Vandellas,-1,75,1
+76,I'm Too Far Gone (To Turn Around),Bobby Bland,84,76,3
+77,My Generation,The Who,98,77,2
+78,Michelle, Billy Vaughn And His Orchestra,90,78,3
+79,Snow Flake,Jim Reeves,88,79,2
+80,I Can't Believe You Love Me,Tammi Terrell,87,80,3
+81,Breakin' Up Is Breakin' My Heart,Roy Orbison,-1,81,1
+82,Andrea,The Sunrays,-1,82,1
+83,Elusive Butterfly,Bob Lind,-1,83,1
+84,Love Is All We Need,Mel Carter,-1,84,1
+85,Giddyup Go,Red Sovine,82,82,3
+86,Bye Bye Blues,Bert Kaempfert And His Orchestra,-1,86,1
+87,Tired Of Being Lonely,Sharpees,92,87,2
+88,Get Back,Roy Head,99,88,2
+89,This Can't Be True,Eddie Holman,97,89,2
+90,You Don't Know Like I Know,Sam & Dave,91,90,2
+91,Goodnight My Love,Ben E. King,95,91,3
+92,Michelle,Bud Shank,-1,92,1
+93,The Loop,Johnny Lytle,-1,93,1
+94,The Pain Gets A Little Deeper,Darrow Fletcher,94,94,2
+95,Something I Want To Tell You,Johnny and The Expressions,-1,95,1
+96,Spanish Harlem,King Curtis,89,89,5
+97,Where The Sun Has Never Shone,Jonathan King,100,97,2
+98,Can't You See (You're Losing Me),Mary Wells,-1,98,1
+99,Love Makes The World Go Round,Deon Jackson,-1,99,1
+100,Because I Love You,Billy Stewart,-1,100,1

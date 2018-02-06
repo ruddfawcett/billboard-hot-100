@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Paint It, Black",The Rolling Stones,3,1,5
+2,Did You Ever Have To Make Up Your Mind?,The Lovin' Spoonful,4,2,6
+3,I Am A Rock,Simon & Garfunkel,5,3,6
+4,When A Man Loves A Woman,Percy Sledge,1,1,10
+5,A Groovy Kind Of Love,The Mindbenders,2,2,9
+6,Strangers In The Night,Frank Sinatra,10,6,6
+7,"Monday, Monday",The Mamas & The Papas,6,1,10
+8,It's A Man's Man's Man's World,James Brown And The Famous Flames,8,8,7
+9,Green Grass,Gary Lewis And The Playboys,9,9,5
+10,Barefootin',Robert Parker,12,10,8
+11,Sweet Talkin' Guy,The Chiffons,13,11,6
+12,Cool Jerk,The Capitols,17,12,7
+13,Oh How Happy,Shades Of Blue,18,13,6
+14,Opus 17 (Don't You Worry 'Bout Me),"The 4 Seasons Featuring the ""Sound of Frankie Valli""",19,14,4
+15,Rainy Day Women #12 & 35,Bob Dylan,7,2,9
+16,The More I See You,Chris Montez,21,16,9
+17,You Don't Have To Say You Love Me,Dusty Springfield,23,17,4
+18,Love Is Like An Itching In My Heart,The Supremes,11,9,7
+19,Red Rubber Ball,The Cyrkle,35,19,4
+20,(I'm A) Road Runner,Jr. Walker & The All Stars,24,20,10
+21,Double Shot (Of My Baby's Love),Swingin' Medallions,26,21,8
+22,Don't Bring Me Down,The Animals,30,22,4
+23,Girl In Love,The Outsiders,33,23,5
+24,Mama,B.J. Thomas,25,24,5
+25,Come On Let's Go,The McCoys,22,22,8
+26,Hold On! I'm A Comin',Sam & Dave,29,26,8
+27,Kicks,Paul Revere & The Raiders Featuring Mark Lindsay,14,4,13
+28,Paperback Writer,The Beatles,-1,28,1
+29,Good Lovin',The Young Rascals,15,1,14
+30,Message To Michael,Dionne Warwick,20,8,11
+31,Dirty Water,The Standells,45,31,8
+32,The Sun Ain't Gonna Shine (Anymore),The Walker Bros.,16,13,9
+33,Sloop John B,The Beach Boys,27,3,11
+34,I Love You Drops,Vic Dana,40,34,6
+35,Come Running Back,Dean Martin,41,35,6
+36,Ain't Too Proud To Beg,The Temptations,44,36,3
+37,"How Does That Grab You, Darlin'?",Nancy Sinatra,28,7,8
+38,Crying,Jay & The Americans,50,38,3
+39,I Love You 1000 Times,The Platters,39,39,7
+40,Backstage,Gene Pitney,34,25,8
+41,Dedicated Follower Of Fashion,The Kinks,46,41,4
+42,It's Over,Jimmie Rodgers,49,42,5
+43,Hey Joe,The Leaves,51,43,4
+44,S.Y.S.L.J.F.M. (The Letter Song),Joe Tex,48,44,5
+45,The Ballad Of Irving,Frank Gallop,37,34,9
+46,Popsicle,Jan & Dean,66,46,2
+47,The Last Word In Lonesome Is Me,Eddy Arnold,47,47,5
+48,Hanky Panky,Tommy James And The Shondells,75,48,2
+49,Peter Rabbit,Dee Jay And The Runaways,59,49,6
+50,There's No Living Without Your Loving,Peter And Gordon,54,50,6
+51,Little Girl,Syndicate Of Sound,78,51,2
+52,He,The Righteous Brothers,89,52,2
+53,The Land Of Milk And Honey,The Vogues,76,53,2
+54,My Little Red Book,Love,57,54,7
+55,Take This Heart Of Mine,Marvin Gaye,55,55,4
+56,Oh Yeah,The Shadows Of Knight,74,56,2
+57,Wiederseh'n,Al Martino,60,57,3
+58,Better Use Your Head,Little Anthony And The Imperials,58,58,5
+59,Let's Go Get Stoned,Ray Charles,64,59,3
+60,I Know You Better Than That,Bobby Goldsboro,56,56,5
+61,Wang Dang Doodle,Ko Ko Taylor,61,58,8
+62,Have I Stayed Too Long,Sonny & Cher,82,62,2
+63,Break Out, Mitch Ryder And The Detroit Wheels,63,63,3
+64,Along Comes Mary,The Association,79,64,2
+65,Cloudy Summer Afternoon (Raindrops),Barry McGuire,67,65,4
+66,Take Some Time Out For Love,The Isley Brothers,69,66,3
+67,Younger Girl,The Critters,71,67,3
+68,Ninety-Nine And A Half (Won't Do),Wilson Pickett,68,68,3
+69,Younger Girl,The Hondells,72,69,3
+70,Solitary Man,Neil Diamond,73,70,4
+71,Loving You Is Sweeter Than Ever,Four Tops,86,71,3
+72,Rain,The Beatles,-1,72,1
+73,Batman & His Grandmother,Dickie Goodman,70,70,3
+74,Mame,Bobby Darin,53,53,7
+75,Evol-Not Love,The Five Americans,52,52,9
+76,When A Woman Loves A Man,Esther Phillips,80,76,2
+77,Everyday I Have To Cry,The Gentrys,77,77,5
+78,Day For Decision,Johnny Sea,-1,78,1
+79,Please Tell Me Why,The Dave Clark Five,-1,79,1
+80,I'll Love You Forever,The Holidays,90,80,6
+81,(I Washed My Hands In) Muddy Water,Johnny Rivers,-1,81,1
+82,Good Time Charlie,Bobby Bland,84,82,4
+83,Come And Get Me,Jackie DeShannon,83,83,3
+84,What Am I Going To Do Without Your Love,Martha & The Vandellas,-1,84,1
+85,Come On And See Me,Tammi Terrell,97,85,3
+86,My Lover's Prayer,Otis Redding,87,86,2
+87,The Impossible Dream (The Quest),Jack Jones,100,87,2
+88,Think Of Me,Buck Owens and The Buckaroos,92,88,3
+89,Mame,Louis Armstrong,81,81,4
+90,Sweet Pea,Tommy Roe,-1,90,1
+91,Count Down,"Dave ""Baby"" Cortez",93,91,2
+92,Don't Touch Me,Jeannie Seely,95,92,3
+93,River Deep-Mountain High,Ike & Tina Turner Featuring Tina,94,93,3
+94,I Love Onions,Susan Christie,-1,94,1
+95,One Too Many Mornings,Beau Brummels,96,95,2
+96,It's An Uphill Climb To The Bottom,Walter Jackson,98,96,2
+97,"Neighbor, Neighbor",Jimmy Hughes,99,97,2
+98,The Pied Piper,Crispian St. Peters,-1,98,1
+99,Lil' Red Riding Hood,Sam The Sham and the Pharaohs,-1,99,1
+100,I Need Love,Barbara Mason,-1,100,1

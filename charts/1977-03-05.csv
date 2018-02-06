@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,2,1,13
+2,New Kid In Town,Eagles,1,1,12
+3,Fly Like An Eagle,Steve Miller,4,3,12
+4,I Like Dreamin',Kenny Nolan,5,4,18
+5,Blinded By The Light,Manfred Mann's Earth Band,3,1,16
+6,Night Moves,Bob Seger,8,6,13
+7,Dancing Queen, ABBA,9,7,13
+8,Year Of The Cat,Al Stewart,11,8,13
+9,Torn Between Two Lovers,Mary Macgregor,7,1,16
+10,Weekend In New England,Barry Manilow,10,10,15
+11,Go Your Own Way,Fleetwood Mac,14,11,9
+12,Rich Girl,Daryl Hall John Oates,18,12,7
+13,Don't Leave Me This Way,Thelma Houston,17,13,12
+14,Boogie Child,Bee Gees,16,14,8
+15,The Things We Do For Love,10cc,19,15,9
+16,Enjoy Yourself,The Jacksons,6,6,17
+17,I Wish,Stevie Wonder,13,1,14
+18,Carry On Wayward Son,Kansas,21,18,11
+19,Car Wash,Rose Royce,12,1,20
+20,Maybe I'm Amazed,Wings,26,20,4
+21,Hard Luck Woman,KISS,15,15,12
+22,Long Time,Boston,24,22,6
+23,Don't Give Up On Us,David Soul,27,23,6
+24,Say You'll Stay Until Tomorrow,Tom Jones,28,24,9
+25,Living Next Door To Alice,Smokie,25,25,14
+26,Crackerbox Palace,George Harrison,30,26,6
+27,I've Got Love On My Mind,Natalie Cole,40,27,6
+28,Bite Your Lip (Get up and dance!),Elton John,32,28,4
+29,So In To You,Atlanta Rhythm Section,37,29,6
+30,Here Come Those Tears Again,Jackson Browne,34,30,5
+31,Moody Blue/she Thinks I Still Care,Elvis Presley,33,31,11
+32,Sam,Olivia Newton-John,36,32,6
+33,Hot Line,The Sylvers,31,5,22
+34,The First Cut Is The Deepest,Rod Stewart,38,34,4
+35,Right Time Of The Night,Jennifer Warnes,39,35,6
+36,Save It For A Rainy Day,Stephen Bishop,22,22,13
+37,Free,Deniece Williams,41,37,13
+38,Do Ya,Electric Light Orchestra,46,38,5
+39,Southern Nights,Glen Campbell,65,39,4
+40,Gloria,Enchantment,50,40,6
+41,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,44,41,9
+42,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,43,27,18
+43,Spring Rain,Silvetti,54,43,7
+44,I Just Can't Say No To You,Parker McGee,42,42,7
+45,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,55,45,4
+46,Lost Without Your Love,Bread,20,9,15
+47,Somethin' 'bout 'cha,Latimore,57,47,5
+48,Kong,Dickie Goodman,52,48,5
+49,All Strung Out On You,John Travolta,62,49,3
+50,You Make Me Feel Like Dancing,Leo Sayer,23,1,20
+51,Reach,Orleans,53,51,6
+52,Hotel California,Eagles,72,52,2
+53,Dazz,Brick,29,3,20
+54,Walk This Way,Aerosmith,35,10,16
+55,Tryin' To Love Two,William Bell,75,55,3
+56,Spring Affair/Winter Melody,Donna Summer,66,47,12
+57,Be My Girl,The Dramatics,59,57,9
+58,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",45,1,26
+59,Somebody To Love,Queen,49,13,15
+60,Tonight's The Night (Gonna Be Alright),Rod Stewart,60,1,23
+61,Ha Cha Cha (funktion),Brass Construction,51,51,11
+62,I'll Always Call Your Name,Little River Band,67,62,5
+63,I'm Scared,Burton Cummings,73,63,3
+64,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,64,64,3
+65,Race Among The Ruins,Gordon Lightfoot,70,65,3
+66,"N.y., You Got Me Dancing",Andrea True Connection,78,66,3
+67,Dedication,Bay City Rollers,69,67,4
+68,Theme From King Kong (Pt. I),Love Unlimited Orchestra,68,68,7
+69,Love In 'C' Minor,The Heart And Soul Orchestra,79,69,2
+70,When I Need You,Leo Sayer,81,70,2
+71,Welcome To Our World (Of Merry Music),Mass Production,77,71,3
+72,I'm Your Boogie Man,KC And The Sunshine Band,84,72,2
+73,Couldn't Get It Right,Climax Blues Band,83,73,3
+74,Too Hot To Stop (Pt. 1),The Bar-Kays,76,74,4
+75,Love In 'C' Minor - Pt. I,Cerrone,85,75,2
+76,Reaching For The World,Harold Melvin And The Blue Notes,74,74,4
+77,Sorry/That's The Trouble,Grace Jones,71,71,7
+78,Magical Mystery Tour,Ambrosia,90,78,2
+79,I Wanna Get Next To You,Rose Royce,89,79,2
+80,Angel In Your Arms,Hot,87,80,3
+81,Phantom Writer,Gary Wright,-1,81,1
+82,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,93,82,3
+83,Dreamin,Loleatta Holloway,88,83,5
+84,Dancin',Crown Heights Affair,86,84,3
+85,Here Is Where Your Love Belongs,The Sons Of Champlin,80,80,5
+86,You Know Like I Know,Ozark Mountain Daredevils,91,79,7
+87,"""Roots"" Medley",Quincy Jones,-1,87,1
+88,Sometimes,Facts Of Life,-1,88,1
+89,Sailing Ships,Mesa,95,89,2
+90,Disco Inferno,The Trammps,-1,90,1
+91,Bodyheat (Part 1),James Brown,92,91,2
+92,Romeo,Mr. Big,-1,92,1
+93,Love Is Better In The A.M. (Part 1),Johnnie Taylor,94,93,2
+94,Fire Sign,Cory,-1,94,1
+95,I Think We're Alone Now,The Rubinoos,-1,95,1
+96,Theme From Rocky (gonna Fly Now),Rhythm Heritage,98,96,2
+97,Try It On,Exile,-1,97,1
+98,Fancy Dancer,Commodores,56,39,9
+99,It Ain't Easy Comin' Down,Charlene,-1,99,1
+100,Dance Little Lady Dance,Danny White,100,100,2

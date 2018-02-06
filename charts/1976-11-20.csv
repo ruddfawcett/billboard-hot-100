@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Tonight's The Night (Gonna Be Alright),Rod Stewart,1,1,8
+2,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,3,2,13
+3,Love So Right,Bee Gees,4,3,10
+4,Muskrat Love,Captain & Tennille,5,4,9
+5,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,2,1,15
+6,The Rubberband Man,The Spinners,9,6,11
+7,Rock'n Me,Steve Miller,6,1,15
+8,Just To Be Close To You,Commodores,8,8,10
+9,Beth/Detroit Rock City,KISS,11,9,12
+10,Do You Feel Like We Do,Peter Frampton,10,10,10
+11,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",13,11,13
+12,More Than A Feeling,Boston,15,12,10
+13,Fernando,ABBA,14,13,12
+14,You Are The Woman,Firefall,16,14,14
+15,Nights Are Forever Without You,England Dan & John Ford Coley,18,15,7
+16,If You Leave Me Now,Chicago,7,1,15
+17,(Don't Fear) The Reaper,Blue Oyster Cult,12,12,17
+18,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",25,18,11
+19,The Best Disco In Town,The Ritchie Family,19,19,13
+20,I Never Cry,Alice Cooper,24,20,15
+21,Magic Man,Heart,20,9,19
+22,You Make Me Feel Like Dancing,Leo Sayer,28,22,5
+23,Love Me,Yvonne Elliman,29,23,8
+24,I Only Want To Be With You,Bay City Rollers,22,12,12
+25,Stand Tall,Burton Cummings,31,25,7
+26,Love Ballad,L.T.D.,32,26,8
+27,Play That Funky Music,Wild Cherry,23,1,23
+28,Sorry Seems To Be The Hardest Word,Elton John,54,28,2
+29,After The Lovin',Engelbert Humperdinck,41,29,5
+30,Nice 'N' Naasty,The Salsoul Orchestra,30,30,10
+31,Hot Line,The Sylvers,39,31,7
+32,Livin' Thing,Electric Light Orchestra,40,32,5
+33,Hello Old Friend,Eric Clapton,37,33,6
+34,A Fifth Of Beethoven,Walter Murphy & The Big Apple Band,21,1,26
+35,You Are My Starship,Norman Connors,27,27,13
+36,It's A Long Way There,Little River Band,36,36,10
+37,She's Gone,Daryl Hall John Oates,17,7,26
+38,A Dose Of Rock 'N' Roll,Ringo Starr,26,26,8
+39,Give It Up (turn It Loose),Tyrone Davis,38,38,9
+40,Dazz,Brick,53,40,5
+41,Lowdown,Boz Scaggs,33,3,21
+42,Jeans On,David Dundas,45,42,7
+43,That'll Be The Day,Linda Ronstadt,35,11,14
+44,"(Shake, Shake, Shake) Shake Your Booty",KC And The Sunshine Band,34,1,20
+45,This One's For You,Barry Manilow,43,29,10
+46,The End Is Not In Sight (the Cowboy Tune),Amazing Rhythm Aces,42,42,10
+47,I Can't Live A Dream,The Osmonds,46,46,8
+48,Whenever I'm Away From You,John Travolta,50,48,4
+49,So Sad The Song,Gladys Knight And The Pips,47,47,7
+50,My Sweet Summer Suite,Love Unlimited Orchestra,48,48,11
+51,Did You Boogie (With Your Baby),Flash Cadillac And The Continental Kids,49,29,13
+52,Shake Your Rump To The Funk,The Bar-Kays,52,52,6
+53,"Do What You Want, Be What You Are",Daryl Hall John Oates,55,53,4
+54,I Kinda Miss You,The Manhattans,59,54,4
+55,Anything You Want,John Valenti,51,37,12
+56,It's Only Love,ZZ Top,44,44,11
+57,Don't Take Away The Music,Tavares,65,57,4
+58,Let's Be Young Tonight,Jermaine Jackson,58,58,10
+59,Mr. Melody,Natalie Cole,57,49,11
+60,I Don't Wanna Lose Your Love,The Emotions,67,60,3
+61,Down To Love Town,The Originals,71,61,5
+62,Every Face Tells A Story,Olivia Newton-John,66,62,3
+63,Breezin',George Benson,63,63,6
+64,Still The One,Orleans,60,5,17
+65,Car Wash,Rose Royce,75,65,5
+66,Enjoy Yourself,The Jacksons,82,66,2
+67,I Like Dreamin',Kenny Nolan,78,67,3
+68,Baby Boy,Mary Kay Place As Loretta Haggers,74,68,4
+69,Mademoiselle,Styx,79,69,2
+70,Lets Get It Together,El Coco,70,70,5
+71,Keep Me Cryin',Al Green,73,71,5
+72,You Ought To Be Havin' Fun,Tower Of Power,69,69,6
+73,Flight '76,The Walter Murphy Band,83,73,2
+74,Help Wanted,The Hudson Brothers,76,74,3
+75,Catfish,Four Tops,77,75,4
+76,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,86,76,3
+77,It Keeps You Runnin',The Doobie Brothers,87,77,2
+78,Saturday Nite,"Earth, Wind & Fire",-1,78,1
+79,"Ob-la-di, Ob-la-da",The Beatles,-1,79,1
+80,Devil Woman,Cliff Richard,61,6,21
+81,(one More Year Of) Daddy's Little Girl,Ray Sawyer,81,81,3
+82,This Song,George Harrison,-1,82,1
+83,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",84,83,4
+84,"Baby, I'll Give It To You",Seals & Crofts,-1,84,1
+85,What Can I Say,Boz Scaggs,-1,85,1
+86,Peter Gunn,Deodato,88,86,5
+87,Torn Between Two Lovers,Mary Macgregor,-1,87,1
+88,Sherry,The Keane Brothers,90,88,2
+89,Open Sesame - Part 1,Kool & The Gang,93,89,3
+90,Walk This Way,Aerosmith,-1,90,1
+91,Slow Dancing,Funky Kings,92,91,3
+92,Makes You Blind,The Glitter Band,95,92,3
+93,"9,999,999 Tears",Dickey Lee,-1,93,1
+94,A Little Bit More,Dr. Hook,64,11,23
+95,Blinded By The Light,Manfred Mann's Earth Band,-1,95,1
+96,I'd Really Love To See You Tonight,England Dan & John Ford Coley,62,2,24
+97,Get The Funk Out Ma Face,The Brothers Johnson,56,30,15
+98,Getaway,"Earth, Wind & Fire",68,12,19
+99,Living It Down,Freddy Fender,72,72,4
+100,Let Me Down Easy,American Flyer,80,80,4

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Just Want To Be Your Everything,Andy Gibb,2,1,15
+2,I'm In You,Peter Frampton,4,2,10
+3,Looks Like We Made It,Barry Manilow,1,1,13
+4,My Heart Belongs To Me,Barbra Streisand,5,4,11
+5,Da Doo Ron Ron,Shaun Cassidy,3,1,12
+6,Best Of My Love,The Emotions,10,6,8
+7,Do You Wanna Make Love,Peter Mccann,9,7,15
+8,Margaritaville,Jimmy Buffett,8,8,18
+9,(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,11,9,13
+10,Whatcha Gonna Do?,Pablo Cruise,12,10,16
+11,You And Me,Alice Cooper,13,11,14
+12,You Made Me Believe In Magic,Bay City Rollers,16,12,9
+13,Easy,Commodores,17,13,9
+14,"Knowing Me, Knowing You",ABBA,14,14,12
+15,Undercover Angel,Alan O'Day,7,1,18
+16,Angel In Your Arms,Hot,6,6,24
+17,Just A Song Before I Go,"Crosby, Stills & Nash",24,17,10
+18,You're My World,Helen Reddy,18,18,14
+19,Handy Man,James Taylor,26,19,7
+20,Barracuda,Heart,23,20,10
+21,Jet Airliner,The Steve Miller Band,15,8,14
+22,Don't Stop,Fleetwood Mac,31,22,4
+23,It's Sad To Belong,England Dan & John Ford Coley,21,21,13
+24,Telephone Man,Meri Wilson,28,24,9
+25,Give A Little Bit,Supertramp,27,25,9
+26,Telephone Line,Electric Light Orchestra,29,26,8
+27,How Much Love,Leo Sayer,34,27,4
+28,Gonna Fly Now,Bill Conti,19,1,15
+29,Smoke From A Distant Fire,The Sanford/Townsend Band,35,29,7
+30,Got To Give It Up (Pt. I),Marvin Gaye,20,1,16
+31,Black Betty,Ram Jam,38,31,8
+32,On And On,Stephen Bishop,37,32,12
+33,Ariel,Dean Friedman,33,26,16
+34,(Remember The Days Of The) Old Schoolyard,Cat Stevens,40,34,6
+35,Way Down,Elvis Presley,36,35,6
+36,Swayin' To The Music (slow Dancin'),Johnny Rivers,43,36,6
+37,Strawberry Letter 23,The Brothers Johnson,44,37,5
+38,Slide,Slave,39,38,7
+39,Christine Sixteen,KISS,54,39,3
+40,Float On,The Floaters,50,40,4
+41,Livin' In The Life,The Isley Brothers,42,41,6
+42,The Killing Of Georgie (Part I And II),Rod Stewart,30,30,9
+43,Don't Worry Baby,B.J. Thomas,53,43,5
+44,"Luckenbach, Texas (Back To The Basics Of Love)",Waylon Jennings,25,25,13
+45,Superman,Celi Bee & The Buzzy Bunch,45,45,8
+46,Lady (put The Light On Me),Brownsville Station,46,46,9
+47,High School Dance,The Sylvers,22,17,15
+48,Something About You,LeBlanc & Carr,48,48,5
+49,Walk Right In,Dr. Hook,49,49,6
+50,Sunflower,Glen Campbell,62,50,4
+51,It's A Crazy World,Mac McAnally,61,51,4
+52,Star Wars (Main Title),London Symphony Orchestra,67,52,4
+53,Dreams,Fleetwood Mac,32,1,16
+54,If It's The Last Thing I Do,Thelma Houston,47,47,9
+55,Rock And Roll Never Forgets,Bob Seger,65,55,4
+56,Life In The Fast Lane,Eagles,51,11,12
+57,It Was Almost Like A Song,Ronnie Milsap,60,57,7
+58,Runaway,Bonnie Raitt,57,57,11
+59,A Real Mother For Ya,Johnny Guitar Watson,69,59,4
+60,Cold As Ice,Foreigner,81,60,2
+61,Feels Like The First Time,Foreigner,41,4,19
+62,So You Win Again,Hot Chocolate,72,62,3
+63,Platinum Heroes,Bruce Foster,63,63,5
+64,L.a. Sunshine, War,64,64,4
+65,Edge Of The Universe,Bee Gees,76,65,2
+66,Hard Rock Cafe,Carole King,84,66,2
+67,That's Rock 'N' Roll,Shaun Cassidy,77,67,2
+68,I Don't Love You Anymore,Teddy Pendergrass,55,41,11
+69,Lucille,Kenny Rogers,56,5,19
+70,Baby Don't Change Your Mind,Gladys Knight And The Pips,74,52,8
+71,Gonna Love You More,George Benson,71,71,5
+72,Love's Grown Deep,Kenny Nolan,52,20,18
+73,Nobody Does It Better,Carly Simon,83,73,2
+74,Down The Hall,The 4 Seasons,78,74,3
+75,In The Middle,Tim Moore,75,75,3
+76,See You When I Git There,Lou Rawls,86,76,2
+77,Little Darling (i Need You),The Doobie Brothers,-1,77,1
+78,Everybody Ought To Be In Love,Paul Anka,80,78,3
+79,Lonely Boy,Andrew Gold,70,7,20
+80,I'm Your Boogie Man,KC And The Sunshine Band,58,1,23
+81,I Can't Help Myself,Eddie Rabbitt,85,81,6
+82,Keep It Comin' Love,KC And The Sunshine Band,-1,82,1
+83,Party Lights,Natalie Cole,88,83,2
+84,I'm Dreaming,Jennifer Warnes,-1,84,1
+85,"Sing It, Shout It",Starz,92,66,6
+86,Hurry Sundown,Outlaws,-1,86,1
+87,O-H-I-O,Ohio Players,90,87,2
+88,Boogie Nights,Heatwave,93,88,2
+89,While I'm Alone,Maze Featuring Frankie Beverly,89,89,10
+90,Ain't Gonna Bump No More (with No Big Fat Woman),Joe Tex,79,12,18
+91,Flame,Steve Sperry,91,91,3
+92,It's Uncanny,Daryl Hall John Oates,-1,92,1
+93,Devil's Gun,C.J. & Company,59,36,11
+94,The Greatest Love Of All,George Benson,-1,94,1
+95,I Believe In Love,Kenny Loggins,-1,95,1
+96,Sheena Is A Punk Rocker,The Ramones,87,87,5
+97,Heard It In A Love Song,The Marshall Tucker Band,73,14,21
+98,Here Comes Summer,Wildfire,68,49,7
+99,Since I Fell For You/I'm Falling In Love,"Hodges, James And Smith",96,96,4
+100,Save Me,Donna McDaniel,98,90,5

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Ain't No Mountain High Enough,Diana Ross,1,1,9
+2,Lookin' Out My Back Door/Long As I Can See The Light,Creedence Clearwater Revival,3,2,9
+3,Candida,Dawn,7,3,11
+4,Cracklin' Rosie,Neil Diamond,6,4,7
+5,"Julie, Do Ya Love Me",Bobby Sherman,5,5,10
+6,I'll Be There,Jackson 5,19,6,3
+7,(I Know) I'm Losing You,Rare Earth,9,7,10
+8,Snowbird,Anne Murray,8,8,12
+9,War,Edwin Starr,2,1,13
+10,All Right Now,Free,13,10,8
+11,Patches,Clarence Carter,4,4,12
+12,Groovy Situation,Gene Chandler,12,12,13
+13,Don't Play That Song,Aretha Franklin with The Dixie Flyers,11,11,9
+14,Express Yourself,Charles Wright And The Watts 103rd Street Rhythm Band,25,14,8
+15,It's A Shame,The Spinners,24,15,11
+16,Green-Eyed Lady,Sugarloaf,18,16,8
+17,25 Or 6 To 4,Chicago,10,4,11
+18,We've Only Just Begun,Carpenters,42,18,4
+19,I (Who Have Nothing),Tom Jones,14,14,7
+20,Still Water (Love),Four Tops,39,20,6
+21,Joanne,Michael Nesmith & The First National Band,23,21,9
+22,Neanderthal Man,Hotlegs,22,22,7
+23,Indiana Wants Me,R. Dean Taylor,26,23,5
+24,Out In The Country,Three Dog Night,30,24,6
+25,Look What They've Done To My Song Ma,The New Seekers featuring Eve Graham,33,25,5
+26,Long Long Time,Linda Ronstadt,27,26,8
+27,Closer To Home (I'm Your Captain),Grand Funk Railroad,31,27,8
+28,Lola,The Kinks,29,28,6
+29,Rubber Duckie,Ernie (Jim Henson),16,16,8
+30,Fire And Rain,James Taylor,40,30,4
+31,(They Long To Be) Close To You,Carpenters,17,1,16
+32,It's Only Make Believe,Glen Campbell,37,32,5
+33,That's Where I Went Wrong,The Poppy Family (Featuring Susan Jacks),35,33,9
+34,El Condor Pasa (If I Could),Simon & Garfunkel,38,34,4
+35,In The Summertime,Mungo Jerry,15,3,13
+36,Spill The Wine,Eric Burdon And War,21,3,20
+37,Somebody's Been Sleeping,100 Proof Aged in Soul,43,37,5
+38,Make It With You,Bread,20,1,17
+39,Do What You Wanna Do,Five Flights Up,50,39,7
+40,Stand By Your Man,Candi Staton,44,40,6
+41,Solitary Man,Neil Diamond,28,21,23
+42,I Stand Accused,Isaac Hayes,46,42,6
+43,Deeper & Deeper,Freda Payne,58,43,4
+44,If I Didn't Care,The Moments,45,44,7
+45,Peace Will Come (According To Plan),Melanie,32,32,7
+46,Sunday Morning Coming Down,Johnny Cash,49,46,6
+47,Our House,"Crosby, Stills, Nash & Young",59,47,3
+48,Soul Shake,Delaney & Bonnie & Friends,47,43,8
+49,We Can Make Music,Tommy Roe,57,49,4
+50,As The Years Go By,Mashmakhan,51,50,7
+51,Yellow River,Christie,53,51,12
+52,"God, Love And Rock & Roll",Teegarden & Van Winkle,67,52,3
+53,It Don't Matter To Me,Bread,78,53,2
+54,Mongoose,Elephant's Memory,54,54,9
+55,Riki Tiki Tavi,Donovan,55,55,7
+56,(Baby) Turn On To Me,The Impressions,64,56,5
+57,Gypsy Woman,Brian Hyland,68,57,5
+58,I Do Take You,The Three Degrees,65,58,4
+59,Funk # 49,James Gang,60,59,6
+60,"Baby, I Need Your Loving",O.C. Smith,61,60,7
+61,"See Me, Feel Me",The Who,75,61,2
+62,Lucretia Mac Evil,"Blood, Sweat & Tears",-1,62,1
+63,Super Bad (Part 1 & Part 2),James Brown,-1,63,1
+64,For The Good Times,Ray Price,66,64,6
+65,Montego Bay,Bobby Bloom,73,65,4
+66,When You Get Right Down To It,The Delfonics,71,66,3
+67,I Just Wanna Keep It Together,Paul Davis,74,67,4
+68,Where Are You Going To My Love,The Brotherhood Of Man,62,61,7
+69,Engine Number 9,Wilson Pickett,83,69,2
+70,Ungena Za Ulimwengu (Unite The World),The Temptations,-1,70,1
+71,Sweetheart,Engelbert Humperdinck,99,71,2
+72,Seems Like I Gotta Do Wrong,The Whispers,92,72,3
+73,Only You Know And I Know,Dave Mason,63,42,10
+74,Come On And Say It,The Grass Roots,77,74,3
+75,Something,Shirley Bassey,76,75,3
+76,And The Grass Won't Pay No Mind,Mark Lindsay,84,76,3
+77,Just Let It Come,Alive 'N Kickin',96,77,2
+78,Holy Man,Diane Kolby ,81,78,3
+79,Love Uprising,Otis Leaville,82,79,3
+80,Stay Away From Me (I Love You Too Much),Major Lance,79,67,7
+81,Make It Easy On Yourself,Dionne Warwick,-1,81,1
+82,Lovin' You Baby,White Plains,86,82,2
+83,Screaming Night Hog,Steppenwolf,72,62,7
+84,Our World,Blue Mink,90,84,2
+85,It's So Nice,Jackie DeShannon,91,84,6
+86,Greenwood Mississippi,Little Richard,85,85,5
+87,Stoned Cowboy,Fantasy,94,87,3
+88,Fresh Air,Quicksilver Messenger Service,-1,88,1
+89,Woodstock,The Assembled Multitude,-1,89,1
+90,If You Were Mine,Ray Charles,-1,90,1
+91,Gas Lamps And Clay,Blues Image,95,91,2
+92,Part Time Love,Ann Peebles,-1,92,1
+93,You Better Think Twice,Poco,-1,93,1
+94,Funky Man,Kool & The Gang,97,94,2
+95,So Close,Jake Holmes,-1,95,1
+96,Baby Don't Take Your Love,"Faith, Hope And Charity",98,96,2
+97,Let Me Back In,Tyrone Davis,-1,97,1
+98,Day Is Done,Brooklyn Bridge,-1,98,1
+99,5-10-15-20 (25-30 Years Of Love),The Presidents,-1,99,1
+100,Got To Believe In Love,Robin McNamara,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Let It Be,The Beatles,2,1,4
+2,ABC,Jackson 5,4,2,5
+3,Instant Karma (We All Shine On),John Ono Lennon,3,3,7
+4,Spirit In The Sky,Norman Greenbaum,6,4,7
+5,Bridge Over Troubled Water,Simon & Garfunkel,1,1,10
+6,Love Grows (Where My Rosemary Goes),Edison Lighthouse,5,5,8
+7,House Of The Rising Sun,Frijid Pink,7,7,10
+8,Come And Get It,Badfinger,9,8,10
+9,"Easy Come, Easy Go",Bobby Sherman,10,9,10
+10,The Rapper,The Jaggerz,8,2,11
+11,Up The Ladder To The Roof,The Supremes,16,11,6
+12,The Bells,The Originals,23,12,10
+13,Call Me/Son Of A Preacher Man,Aretha Franklin,13,13,10
+14,Love Or Let Me Be Lonely,The Friends Of Distinction,20,14,6
+15,American Woman/No Sugar Tonight,The Guess Who,17,15,4
+16,Rainy Night In Georgia/Rubberneckin',Brook Benton,14,4,14
+17,Give Me Just A Little More Time,Chairman Of The Board,12,3,13
+18,Evil Ways,Santana,18,9,12
+19,"He Ain't Heavy, He's My Brother",The Hollies,11,7,17
+20,Celebrate,Three Dog Night,15,15,7
+21,Something's Burning,Kenny Rogers & The First Edition,24,21,9
+22,Turn Back The Hands Of Time,Tyrone Davis,32,22,4
+23,Gotta Hold On To This Feeling,Jr. Walker & The All Stars,21,21,8
+24,You're The One-Part II,Little Sister,33,24,7
+25,Shilo,Neil Diamond,30,25,10
+26,Long Lonesome Highway,Michael Parks,28,26,7
+27,Tennessee Bird Walk,Jack Blanchard & Misty Morgan,29,27,7
+28,Didn't I (Blow Your Mind This Time),The Delfonics,22,10,14
+29,Ma Belle Amie,The Tee Set,19,5,12
+30,Reflections Of My Life,The Marmalade,31,30,5
+31,Kentucky Rain,Elvis Presley,25,16,9
+32,All I Have To Do Is Dream,Bobbie Gentry & Glen Campbell,27,27,9
+33,Woodstock,"Crosby, Stills, Nash & Young",35,33,3
+34,You Need Love Like I Do (Don't You),Gladys Knight And The Pips,37,34,4
+35,Get Ready,Rare Earth,36,35,5
+36,Do The Funky Chicken,Rufus Thomas,34,28,10
+37,Everybody's Out Of Town,B.J. Thomas,42,37,3
+38,Vehicle,The Ides Of March,75,38,3
+39,For The Love Of Him,Bobbi Martin,43,39,5
+40,Little Green Bag,George Baker Selection,58,40,4
+41,Temma Harbour,Mary Hopkin,39,39,8
+42,"My Woman, My Woman, My Wife",Marty Robbins,50,42,5
+43,Mighty Joe,The Shocking Blue,45,43,6
+44,Who's Your Baby?,The Archies,40,40,6
+45,Let's Give Adam And Eve Another Chance,Gary Puckett And The Union Gap,41,41,6
+46,I Could Write A Book,Jerry Butler,52,46,4
+47,California Girl,Eddie Floyd,54,47,8
+48,Easy To Be Free,Rick Nelson,48,48,6
+49,Jennifer Tomkins,Street People,44,36,15
+50,To The Other Woman (I'm The Other Woman),Doris Duke,53,50,7
+51,Funky Drummer (Part 1),James Brown,56,51,4
+52,Everything Is Beautiful,Ray Stevens,74,52,2
+53,Gotta Get Back To You,Tommy James And The Shondells,46,45,8
+54,Children,Joe South,62,54,4
+55,The Cat Walk,The Village Soul Choir,55,55,8
+56,Love On A Two-Way Street,The Moments,-1,56,1
+57,Make Me Smile,Chicago,89,57,2
+58,Come Together,Ike & Tina Turner & The Ikettes,57,57,6
+59,Come Running,Van Morrison,78,59,2
+60,Capture The Moment,Jay & The Americans,67,60,3
+61,The Girls' Song,The 5th Dimension,69,61,2
+62,The Funniest Thing,Dennis Yost And The Classics IV,66,62,3
+63,Nothing Succeeds Like Success,Bill Deal & The Rhondels,63,63,4
+64,Love Land,Charles Wright And The Watts 103rd Street Rhythm Band,-1,64,1
+65,Living Loving Maid (She's Just A Woman),Led Zeppelin,65,65,5
+66,What Is Truth,Johnny Cash,-1,66,1
+67,Dear Prudence,The 5 Stairsteps,68,67,4
+68,Cecilia,Simon & Garfunkel,-1,68,1
+69,But For Love,Jerry Naylor,79,69,3
+70,Is Anybody Goin' To San Antone,Charley Pride,73,70,5
+71,Deeper (In Love With You),The O'Jays,71,71,2
+72,Cryin' In The Streets (Part 1),George Perkins & The Silver Stars,72,72,2
+73,Which Way You Goin' Billy?,The Poppy Family (Featuring Susan Jacks),76,73,3
+74,Chicken Strut,The Meters,82,74,2
+75,So Excited,B.B. King,-1,75,1
+76,Run Sally Run,The Cuff Links,77,76,6
+77,Hey Lawdy Mama,Steppenwolf,-1,77,1
+78,Brown Paper Bag,Syndicate Of Sound,81,78,3
+79,He Made A Woman Out Of Me,Bobbie Gentry,-1,79,1
+80,"I Got A Thing, You Got A Thing, Everybody's Got A Thing",Funkadelic,80,80,4
+81,Miss America,Mark Lindsay,87,81,2
+82,Don't Stop Now/Since I Don't Have You,Eddie Holman,90,82,2
+83,Hitchin' A Ride,Vanity Fare,83,83,4
+84,Can You Feel It,Bobby Goldsboro,84,84,2
+85,Love Minus Zero-No Limit,Turley Richards,86,85,2
+86,Buffalo Soldier,Flamingos,88,86,2
+87,"July 12, 1939",Charlie Rich,85,85,3
+88,Come Saturday Morning,The Sandpipers,-1,83,9
+89,Viva Tirado - Part I,El Chicano,-1,89,1
+90,Airport Love Theme (Gwen And Vern),Vincent Bell,-1,90,1
+91,"My Wife, The Dancer",Eddie & Dutch,94,91,2
+92,"Cole, Cooke & Redding",Wilson Pickett,95,92,2
+93,Hang On Sloopy,The Lettermen,93,93,2
+94,Mississippi Queen,Mountain,92,92,2
+95,Oh Happy Day,Glen Campbell,-1,95,1
+96,Lucifer,Bob Seger System,98,96,2
+97,You Make Me Real/Roadhouse Blues,The Doors,-1,97,1
+98,If Only I Had My Mind On Something Else,Bee Gees,91,91,3
+99,I Can't Leave Your Love Alone,Clarence Carter,-1,99,1
+100,Angelica,Oliver,-1,100,1

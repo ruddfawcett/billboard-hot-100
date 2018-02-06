@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Blue Moon,The Marcels,1,1,7
+2,Runaway,Del Shannon,4,2,7
+3,Mother-In-Law,Ernie K-Doe,9,3,4
+4,On The Rebound,Floyd Cramer,5,4,7
+5,But I Do,Clarence Henry,6,5,9
+6,Apache,Jorgen Ingmann & His Guitar,2,2,13
+7,Dedicated To The One I Love,The Shirelles,3,3,17
+8,Asia Minor,Kokomo,12,8,9
+9,A Hundred Pounds Of Clay,Gene McDaniels,20,9,5
+10,Surrender,Elvis Presley With The Jordanaires,7,1,9
+11,Take Good Care Of Her, Adam Wade,13,11,6
+12,Don't Worry,Marty Robbins,8,3,12
+13,Please Love Me Forever,Cathy Jean and The Roommates,14,13,8
+14,One Mint Julep,Ray Charles,16,14,7
+15,Pony Time,Chubby Checker,11,1,13
+16,You Can Depend On Me, Brenda Lee,29,16,4
+17,Baby Blue,The Echoes,18,17,7
+18,I've Told Every Little Star,Linda Scott,23,18,6
+19,"Tonight My Love, Tonight",Paul Anka,28,19,6
+20,Please Tell Me Why,Jackie Wilson,22,20,6
+21,Walk Right Back,The Everly Brothers,10,7,11
+22,Think Twice,Brook Benton,15,11,10
+23,Portrait Of My Love,Steve Lawrence,24,23,7
+24,Gee Whiz (Look At His Eyes),Carla Thomas,17,10,12
+25,Just For Old Time's Sake,The McGuire Sisters,41,25,6
+26,Wheels,The String-A-Longs,21,3,15
+27,Daddy's Home,Shep And The Limelites ,37,27,4
+28,Once Upon A Time,Rochell And The Candles With Johnny Wyatt,26,26,11
+29,Where The Boys Are,Connie Francis,25,4,14
+30,Trust In Me,Etta James,32,30,6
+31,Find Another Girl,Jerry Butler,30,30,7
+32,Tenderly,Bert Kaempfert And His Orchestra,35,32,4
+33,Hide Away,Freddy King,29,29,7
+34,Shu Rah,Fats Domino,42,34,5
+35,Brass Buttons,The String-A-Longs,49,35,4
+36,Some Kind Of Wonderful,The Drifters,36,36,5
+37,(Love Theme From) One Eyed Jacks,Ferrante & Teicher,43,37,5
+38,"Like, Long Hair",Paul Revere & The Raiders,48,38,4
+39,Theme From Dixie,Duane Eddy,46,39,5
+40,Model Girl,Johnny Maestro,27,20,11
+41,Ebony Eyes,The Everly Brothers,31,8,12
+42,Bumble Boogie,B. Bumble & The Stingers,57,42,4
+43,Fell In Love On Monday,Fats Domino,33,32,5
+44,Tonight I Fell In Love,The Tokens,47,44,7
+45,I'm In The Mood For Love,The Chimes,53,45,4
+46,Funny,Maxine Brown,52,46,4
+47,Frogg,The Brothers Four,62,47,2
+48,To Be Loved (Forever),The Pentagons,50,48,9
+49,That's It - I Quit - I'm Movin' On,Sam Cooke,39,31,7
+50,Ginnie Bell,Paul Dino,38,38,12
+51,The Continental Walk,Hank Ballard And The Midnighters,59,51,3
+52,"Ain't It, Baby",The Miracles,54,52,4
+53,What'd I Say,Jerry Lee Lewis And His Pumping Piano,79,53,3
+54,Running Scared,Roy Orbison,71,54,2
+55,(Theme from) My Three Sons,Lawrence Welk And His Orchestra,56,55,5
+56,Breakin' In A Brand New Broken Heart,Connie Francis,-1,56,1
+57,Happy Birthday Blues,Kathy Young With The Innocents,34,30,9
+58,Sleepy-Eyed John,Johnny Horton,63,58,4
+59,Bye Bye Baby,Mary Wells,45,45,11
+60,Foolin' Around,Kay Starr,66,60,5
+61,Spanish Harlem,Ben E. King,44,10,16
+62,Trees,The Platters,70,62,3
+63,Bonanza,Al Caiola And His Orchestra,83,63,3
+64,African Waltz,Cannonball Adderley Orchestra,69,64,2
+65,Bewildered,James Brown And The Famous Flames,40,40,8
+66,Merry-Go-Round,Marv Johnson,61,61,6
+67,(It Never Happens) In Real Life,Chuck Jackson,75,67,2
+68,Exodus,Eddie Harris,73,68,2
+69,"Good, Good Lovin'",Chubby Checker,-1,69,1
+70,The Second Time Around,Frank Sinatra,51,50,7
+71,The Charanga,Merv Griffin,78,71,2
+72,The Next Kiss (Is The Last Goodbye),Conway Twitty,82,72,3
+73,Triangle,Janie Grant,81,73,4
+74,Underwater,The Frogmen,84,74,3
+75,Lullaby Of Love,Frank Gari,89,75,2
+76,Glory Of Love,The Roommates,80,76,2
+77,Hello Walls,Faron Young,97,77,2
+78,Mama Said,The Shirelles,-1,78,1
+79,Saved,LaVern Baker,95,79,2
+80,The Continental Walk,The Rollers,85,80,2
+81,Seventeen,Frankie Ford,72,72,5
+82,Girl Of My Best Friend,Ral Donner,-1,82,1
+83,Come Along,Maurice Williams & The Zodiacs,87,83,2
+84,I'll Just Have A Cup Of Coffee (Then I'll Go),Claude Gray ,86,84,2
+85,Flaming Star,Elvis Presley With The Jordanaires,-1,85,1
+86,The Very Thought Of You,Little Willie John,64,61,6
+87,La Pachanga,Audrey Arno And The Hazy Osterwald Sextet,88,87,2
+88,A Scottish Soldier (Green Hills of Tyrol),Andy Stewart,92,88,3
+89,California Sun,Joe Jones,96,89,3
+90,Ling-Ting-Tong,Buddy Knox,65,65,7
+91,Come On Over,The Strollers,94,91,2
+92,Welcome Home,Sammy Kaye And His Orchestra,68,68,3
+93,Three Hearts In A Tangle,Roy Drusky,98,93,2
+94,Your One And Only Love,Jackie Wilson,60,40,6
+95,The Mess Around,Bobby Freeman,-1,95,1
+96,Hop Scotch,Santo & Johnny,-1,96,1
+97,Ground Hog,The Browns Featuring Jim Edward Brown,100,97,2
+98,Where I Fell In Love,The Capris,74,74,4
+99,Tragedy,The Fleetwoods,-1,99,1
+100,Little Pedro,The Olympics,76,76,4

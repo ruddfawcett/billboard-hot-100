@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Magic,Olivia Newton-John,2,1,11
+2,It's Still Rock And Roll To Me,Billy Joel,1,1,11
+3,Little Jeannie,Elton John,3,3,14
+4,Cupid/I've Loved You For A Long Time,The Spinners,4,4,12
+5,Shining Star,The Manhattans,5,5,15
+6,Take Your Time (Do It Right) Part 1,The S.O.S. Band,9,6,10
+7,Coming Up (Live At Glasgow),Paul McCartney And Wings,6,1,15
+8,Tired Of Toein' The Line,Rocky Burnette,8,8,13
+9,Emotional Rescue,The Rolling Stones,11,9,5
+10,Sailing,Christopher Cross,17,10,8
+11,In America,The Charlie Daniels Band,13,11,10
+12,One Fine Day,Carole King,12,12,12
+13,More Love,Kim Carnes,14,13,10
+14,Love The World Away,Kenny Rogers,16,14,7
+15,Steal Away,Robbie Dupree,7,6,17
+16,The Rose,Bette Midler,10,3,20
+17,Misunderstanding,Genesis,22,17,11
+18,Gimme Some Lovin',Blues Brothers,18,18,10
+19,All Night Long,Joe Walsh,19,19,12
+20,Empire Strikes Back (Medley),Meco,20,20,8
+21,Let My Love Open The Door,Pete Townshend,23,21,8
+22,Stand By Me,Mickey Gilley,24,22,12
+23,Take A Little Rhythm,Ali Thomson,25,23,8
+24,JoJo,Boz Scaggs,26,24,8
+25,Old-Fashion Love,Commodores,27,25,7
+26,Into The Night,Benny Mardones,28,26,8
+27,Fame,Irene Cara,31,27,8
+28,Make A Little Magic,The Dirt Band,30,28,7
+29,Boulevard,Jackson Browne,33,29,5
+30,Why Not Me,Fred Knoblock,35,30,6
+31,All Out Of Love,Air Supply,37,31,8
+32,I Can't Let Go,Linda Ronstadt,34,32,6
+33,Let Me Love You Tonight,Pure Prairie League,15,10,13
+34,Tulsa Time/Cocaine,Eric Clapton And His Band,38,34,7
+35,Drivin' My Life Away,Eddie Rabbitt,40,35,7
+36,You're The Only Woman (You & I),Ambrosia,53,36,4
+37,I'm Alive,Electric Light Orchestra,29,16,11
+38,Let's Get Serious,Jermaine Jackson,21,9,19
+39,Give Me The Night,George Benson,44,39,5
+40,Lookin' For Love,Johnny Lee,51,40,4
+41,One In A Million You,Larry Graham,48,41,6
+42,Play The Game,Queen,42,42,6
+43,Walks Like A Lady,Journey,32,32,11
+44,Someone That I Used To Love,Natalie Cole,49,44,7
+45,Funkytown," Lipps, Inc.",39,1,19
+46,Hot Rod Hearts,Robbie Dupree,60,46,3
+47,Shandi,KISS,47,47,7
+48,Against The Wind,Bob Seger,41,5,14
+49,Upside Down,Diana Ross,59,49,4
+50,Love That Got Away,Firefall,56,50,6
+51,Years From Now,Dr. Hook,57,51,5
+52,A Lover's Holiday,Change,43,40,12
+53,Biggest Part Of Me,Ambrosia,45,3,18
+54,Free Me,Roger Daltrey,61,54,5
+55,That Lovin' You Feelin' Again,Roy Orbison & Emmylou Harris,55,55,6
+56,Beyond,Herb Alpert,50,50,6
+57,I'm Alright,Kenny Loggins,67,57,4
+58,One More Time For Love,Billy Preston & Syreeta,52,52,8
+59,You're Supposed To Keep Your Love For Me,Jermaine Jackson,65,59,4
+60,Hey There Lonely Girl,Robert John,73,60,3
+61,All Over The World,Electric Light Orchestra,-1,61,1
+62,You Better Run,Pat Benatar,72,62,2
+63,Landlord,Gladys Knight And The Pips,46,46,8
+64,How Does It Feel To Be Back,Daryl Hall John Oates,74,64,3
+65,You'll Accomp'ny Me,Bob Seger,82,65,2
+66,Under The Gun,Poco ,76,66,3
+67,"Honey, Honey",David Hudson,69,67,6
+68,The Royal Mile (Sweet Darlin'),Gerry Rafferty,78,68,3
+69,King Of The Hill,Rick Pinette & Oak,36,36,13
+70,Jesse,Carly Simon,-1,70,1
+71,Don't Ask Me Why,Billy Joel,-1,71,1
+72,Let's Go 'round Again,Average White Band,75,53,7
+73,He's So Shy,The Pointer Sisters,83,73,2
+74,Half Moon Silver,Hotel,77,74,4
+75,First Time Love,Livingston Taylor,84,75,2
+76,Don't Misunderstand Me,Rossington Collins Band,85,76,2
+77,No Night So Long,Dionne Warwick,86,77,2
+78,Cry Just A Little,Paul Davis,79,78,3
+79,(Call Me) When The Spirit Moves You,Touch,89,79,2
+80,You And Me,Rockie Robbins,80,80,3
+81,My Mistake,The Kingbees,81,81,6
+82,First...Be A Woman,Lenore O'malley,90,82,2
+83,Rock It,"Lipps, Inc.",-1,83,1
+84,Fool For Your Loving,Whitesnake,-1,84,1
+85,Stranger In My Home Town,Foghat,-1,85,1
+86,Wango Tango,Ted Nugent,87,86,2
+87,Whatever You Decide,Randy VanWarmer,-1,87,1
+88,Everything Is Alright,Spider,-1,88,1
+89,Darlin',Yipes!!,-1,89,1
+90,Just Can't Wait,The J. Geils Band,88,78,4
+91,Where Did We Go Wrong,Frankie Valli & Chris Forde,93,91,3
+92,Mirage,Eric Troyer,92,92,2
+93,Shiver And Shake,The Silencers,96,93,2
+94,Don't Fall In Love With A Dreamer,Kenny Rogers with Kim Carnes,68,4,19
+95,On The Rebound,Russ Ballard,58,58,8
+96,She's Out Of My Life,Michael Jackson,54,10,16
+97,Cars,Gary Numan,62,9,25
+98,Call Me,Blondie,64,1,25
+99,Should've Never Let You Go,Neil Sedaka & Dara Sedaka,63,19,19
+100,Dancin' In The Streets,Teri DeSario With K.C.,66,66,6

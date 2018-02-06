@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Night Fever,Bee Gees,1,1,13
+2,If I Can't Have You,Yvonne Elliman,2,2,14
+3,Can't Smile Without You,Barry Manilow,3,3,13
+4,The Closer I Get To You,Roberta Flack With Donny Hathaway,5,4,11
+5,With A Little Luck,Wings,7,5,6
+6,Lay Down Sally,Eric Clapton,4,3,17
+7,Dust In The Wind,Kansas,6,6,14
+8,Jack And Jill,Raydio,8,8,16
+9,You're The One That I Want,John Travolta & Olivia Newton-John,11,9,5
+10,"Too Much, Too Little, Too Late",Johnny Mathis/Deniece Williams,20,10,5
+11,Running On Empty,Jackson Browne,12,11,12
+12,Count On Me,Jefferson Starship,14,12,8
+13,Stayin' Alive,Bee Gees,13,1,21
+14,Imaginary Lover,Atlanta Rhythm Section,18,14,9
+15,Feels So Good,Chuck Mangione,17,15,12
+16,Flash Light,Parliament,16,16,12
+17,Sweet Talkin' Woman,Electric Light Orchestra,19,17,11
+18,Our Love,Natalie Cole,10,10,16
+19,Disco Inferno,The Trammps ,22,19,20
+20,This Time I'm In It For Love,Player,24,20,8
+21,Goodbye Girl,David Gates,15,15,20
+22,Shadow Dancing,Andy Gibb,30,22,3
+23,Two Doors Down,Dolly Parton,26,23,7
+24,We'll Never Have To Say Goodbye Again,England Dan & John Ford Coley,9,9,10
+25,On Broadway,George Benson,37,25,8
+26,Werewolves Of London,Warren Zevon,36,26,6
+27,(Love Is) Thicker Than Water,Andy Gibb,27,1,26
+28,Love Is Like Oxygen,Sweet,35,28,11
+29,Movin' Out (Anthony's Song),Billy Joel,31,29,7
+30,Baby Hold On,Eddie Money,33,30,10
+31,It's A Heartache,Bonnie Tyler,38,31,6
+32,Fantasy,"Earth, Wind & Fire",32,32,9
+33,More Than A Woman,Tavares,34,33,18
+34,Emotion,Samantha Sang,21,3,24
+35,Ebony Eyes,Bob Welch,23,14,14
+36,Do You Believe In Magic,Shaun Cassidy,40,36,6
+37,Ego,Elton John,41,37,3
+38,Let's All Chant,The Michael Zager Band,42,38,9
+39,Thank You For Being A Friend,Andrew Gold,25,25,12
+40,Two Out Of Three Ain't Bad,Meat Loaf,46,40,7
+41,Deacon Blues,Steely Dan,53,41,5
+42,Every Kinda People,Robert Palmer,47,42,6
+43,(I Will Be Your) Shadow In The Street,Allan Clarke,48,43,6
+44,Fooling Yourself (The Angry Young Man),Styx,29,29,11
+45,Dance With Me,Peter Brown With Betty Wright,51,45,9
+46,Make You Feel Love Again,Wet Willie,56,46,4
+47,Because The Night,Patti Smith Group,60,47,4
+48,Ain't Gonna Eat Out My Heart Anymore,Angel,54,48,5
+49,Heartless,Heart,59,49,4
+50,Take A Chance On Me,ABBA,69,50,2
+51,Lady Love,Lou Rawls,45,24,15
+52,Thunder Island,Jay Ferguson,49,9,20
+53,Rocket Ride,KISS,39,39,10
+54,Before My Heart Finds Out,Gene Cotton,44,23,13
+55,How Deep Is Your Love,Bee Gees,55,1,32
+56,"Let Me Party With You (Part 1) (Party, Party, Party)",Bunny Sigler,43,43,10
+57,"Music, Harmony And Rhythm",Brooklyn Dreams,57,57,6
+58,You Belong To Me,Carly Simon,79,58,3
+59,Always And Forever,Heatwave,61,18,17
+60,Tumbling Dice,Linda Ronstadt,70,60,2
+61,Stay,Rufus/Chaka Khan,71,61,4
+62,Wheel In The Sky,Journey,66,62,4
+63,I Go Crazy,Paul Davis,63,7,36
+64,I'm Gonna Take Care Of Everything,Rubicon,28,28,10
+65,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,65,6,27
+66,Since You Been Gone,Head East,76,66,3
+67,Baker Street,Gerry Rafferty,82,67,2
+68,You're The Love,Seals & Crofts,73,68,3
+69,You Got That Right,Lynyrd Skynyrd,72,69,3
+70,I Was Only Joking,Rod Stewart,-1,70,1
+71,Follow You Follow Me,Genesis,83,71,2
+72,Mama Let Him Play,Doucette,77,72,4
+73,I Can't Stand The Rain,Eruption,74,73,8
+74,The Wanderer,Leif Garrett,84,74,2
+75,Cheeseburger In Paradise,Jimmy Buffett,85,75,2
+76,Dance Across The Floor,"Jimmy ""Bo"" Horne",80,76,5
+77,Almost Summer,Celebration featuring Mike Love,-1,77,1
+78,"Yank Me, Crank Me",Ted Nugent,58,58,5
+79,Don't Cost You Nothing,Ashford & Simpson,81,79,8
+80,Everybody Dance,Chic,90,80,2
+81,You'll Love Again,Hotel,-1,81,5
+82,I Want To Live,John Denver,-1,82,1
+83,Use Ta Be My Girl,The O'Jays,-1,83,1
+84,Warm Ride,Rare Earth,-1,84,1
+85,Where Have You Been All My Life,Fotomaker,87,85,2
+86,I'm On My Way,Captain & Tennille,88,86,2
+87,Bluer Than Blue,Michael Johnson,94,87,2
+88,Africanism/Gimme Some Lovin',Kongas,92,88,4
+89,Do You Wanna Dance,Ramones,89,89,3
+90,Oh What A Night For Dancing,Barry White,-1,90,1
+91,Chattanooga Choo Choo,Tuxedo Junction,93,91,2
+92,Just The Way You Are,Billy Joel,75,3,25
+93,Ready For The Times To Get Better,Crystal Gayle,52,52,10
+94,"Theme Song From ""Which Way Is Up""",Stargard,62,21,14
+95,Ca Plane Pour Moi,Plastic Bertrand,-1,95,1
+96,Baby Come Back,Player,96,1,31
+97,"Sweet, Sweet Smile",Carpenters,64,44,13
+98,That's Your Secret,Sea Level,50,50,10
+99,The Circle Is Small (I Can See It In Your Eyes),Gordon Lightfoot,67,33,12
+100,Rumour Has It,Donna Summer,68,53,9

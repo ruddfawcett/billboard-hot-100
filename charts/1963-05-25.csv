@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,If You Wanna Be Happy,Jimmy Soul,1,1,9
+2,I Will Follow Him,Little Peggy March,2,1,10
+3,Surfin' U.S.A.,The Beach Boys,4,3,10
+4,Foolish Little Girl,The Shirelles,5,4,10
+5,I Love You Because,Al Martino,10,5,8
+6,Losing You,Brenda Lee,7,6,8
+7,Two Faces Have I,Lou Christie,11,7,9
+8,Take These Chains From My Heart,Ray Charles,12,8,7
+9,It's My Party,Lesley Gore,26,9,3
+10,Another Saturday Night,Sam Cooke,14,10,6
+11,Hot Pastrami,The Dartells,13,11,7
+12,Puff (The Magic Dragon),"Peter, Paul & Mary",3,2,11
+13,Da Doo Ron Ron (When He Walked Me Home),The Crystals,19,13,5
+14,Reverend Mr. Black,The Kingston Trio,8,8,8
+15,You Can't Sit Down,The Dovells,18,15,5
+16,Pipeline,Chantay's,6,4,13
+17,Still,Bill Anderson,24,17,7
+18,Can't Get Used To Losing You,Andy Williams,9,2,13
+19,Killer Joe,The Rocky Fellers,16,16,10
+20,Sukiyaki,Kyu Sakamoto,45,20,3
+21,This Little Girl,Dion,21,21,6
+22,Ain't That A Shame!,The 4 Seasons,22,22,6
+23,The Love Of My Man,Theola Kilgore,31,23,6
+24,El Watusi,Ray Barretto,27,24,5
+25,Those Lazy-Hazy-Crazy Days Of Summer,Nat King Cole,47,25,3
+26,Pushover,Etta James,35,26,6
+27,Prisoner Of Love,James Brown And The Famous Flames,37,27,6
+28,He's So Fine,The Chiffons,17,1,14
+29,Little Band Of Gold,James Gilreath,23,21,10
+30,Mecca,Gene Pitney,15,12,10
+31,Let's Go Steady Again,Neil Sedaka,39,31,5
+32,Come And Get These Memories,Martha & The Vandellas,36,32,8
+33,Hello Stranger,Barbara Lewis,53,33,4
+34,18 Yellow Roses,Bobby Darin,55,34,3
+35,Charms,Bobby Vee,20,13,9
+36,Days Of Wine And Roses,Andy Williams,28,26,11
+37,On Broadway,The Drifters,25,9,10
+38,Shut Down,The Beach Boys,43,38,5
+39,Remember Diana,Paul Anka,41,39,7
+40,If You Need Me,Solomon Burke,51,40,6
+41,Hot Pastrami With Mashed Potatoes - Part I,Joey Dee & the Starliters,49,41,5
+42,That's How Heartaches Are Made,Baby Washington,46,42,10
+43,The Good Life,Tony Bennett,59,43,3
+44,Watermelon Man,Mongo Santamaria Band,30,10,11
+45,A Love She Can Count On,The Miracles,38,31,9
+46,Don't Say Nothin' Bad (About My Baby),The Cookies,33,7,13
+47,What A Guy,The Raindrops,52,47,5
+48,Tom Cat,The Rooftop Singers,29,20,10
+49,Wildwood Days,Bobby Rydell,60,49,3
+50,(Today I Met) The Boy I'm Gonna Marry,Darlene Love,44,39,8
+51,Days Of Wine And Roses,Henry Mancini And His Orchestra,34,33,18
+52,"Shame, Shame, Shame",Jimmy Reed,62,52,5
+53,Do It - Rat Now,Bill Black's Combo,56,53,5
+54,The Bounce,The Olympics,58,54,5
+55,I'm Saving My Love,Skeeter Davis,61,55,3
+56,Sweet Dreams (Of You),Patsy Cline,67,56,6
+57,Sting Ray,The Routers,54,54,5
+58,Young And In Love,Dick and DeeDee,42,17,11
+59,Baby Workout,Jackie Wilson,32,5,12
+60,Don't Make My Baby Blue,Frankie Laine,68,60,3
+61,Two Kind Of Teardrops,Del Shannon,50,50,7
+62,Blue On Blue,Bobby Vinton,85,62,2
+63,Birdland,Chubby Checker,81,63,2
+64,Gravy Waltz,Steve Allen,76,64,5
+65,Little Latin Lupe Lu,The Righteous Brothers,73,65,3
+66,Patty Baby,Freddy Cannon,69,66,4
+67,If You Need Me,Wilson Pickett,74,67,4
+68,Teenage Heaven,Johnny Cymbal,70,68,3
+69,My Summer Love,Ruby And The Romantics,72,69,2
+70,The Bird's The Word,The Rivingtons,57,52,7
+71,The Last Leaf,The Cascades,79,71,3
+72,String Along,Rick Nelson,-1,72,1
+73,Pride And Joy,Marvin Gaye,99,73,2
+74,Every Step Of The Way,Johnny Mathis,-1,74,1
+75,Call Me Irresponsible,Jack Jones,83,75,4
+76,Poor Little Rich Girl,Steve Lawrence,-1,76,1
+77,Your Old Stand By,Mary Wells,-1,77,1
+78,Call Me Irresponsible,Frank Sinatra,78,78,8
+79,If My Pillow Could Talk,Connie Francis,95,79,2
+80,A Stranger In Your Town,The Shacklefords,84,80,3
+81,I'm Movin' On,Matt Lucas,75,75,4
+82,Shake A Tail Feather,The Five Du-Tones,90,82,2
+83,"Ronnie, Call Me When You Get A Chance",Shelley Fabares,77,72,5
+84,Forever,The Marvelettes,86,84,4
+85,Gypsy Woman,Rick Nelson,88,85,2
+86,Hobo Flats - Part I,Jimmy Smith,82,82,3
+87,There Goes (My Heart Again),Fats Domino,89,87,2
+88,"Sad, Sad Girl And Boy",The Impressions,-1,88,1
+89,Shake A Hand,Jackie Wilson & Linda Hopkins,-1,89,1
+90,Swinging On A Star,Big Dee Irwin (with Little Eva),-1,90,1
+91,These Arms Of Mine,Otis Redding,-1,91,1
+92,"Lonely Boy, Lonely Guitar",Duane Eddy,96,92,2
+93,Soon (I'll Be Home Again),The 4 Seasons Featuring Frankie Valli,80,80,3
+94,Got You On My Mind,Cookie And His Cupcakes,94,94,3
+95,The Dog,Rufus Thomas,-1,87,7
+96,I Know I Know,"""Pookie"" Hudson",-1,96,1
+97,Needles And Pins,Jackie DeShannon,97,97,2
+98,Danger,Vic Dana,-1,98,1
+99,The Last Minute (Pt. I),Jimmy McGriff,-1,99,1
+100,Soulville,Dinah Washington,-1,100,1

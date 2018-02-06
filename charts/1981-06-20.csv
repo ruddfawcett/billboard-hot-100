@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Medley,Stars On 45,2,1,11
+2,Bette Davis Eyes,Kim Carnes,1,1,13
+3,Sukiyaki,A Taste Of Honey,3,3,16
+4,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,5,4,16
+5,All Those Years Ago,George Harrison,7,5,5
+6,Being With You,Smokey Robinson,4,2,19
+7,The One That You Love,Air Supply,14,7,6
+8,America,Neil Diamond,8,8,9
+9,You Make My Dreams,Daryl Hall John Oates,17,9,8
+10,Jessie's Girl,Rick Springfield,20,10,13
+11,This Little Girl,Gary U.S. Bonds,12,11,9
+12,I Love You,Climax Blues Band,13,12,18
+13,Living Inside Myself,Gino Vannelli,6,6,14
+14,Take It On The Run,REO Speedwagon,9,5,14
+15,What Are We Doin' In Love,Dottie West with Kenny Rogers,15,15,13
+16,Sweetheart,Franke & The Knockouts,10,10,16
+17,Is It You,Lee Ritenour,21,17,9
+18,Hearts,Marty Balin,24,18,5
+19,The Waiting,Tom Petty And The Heartbreakers,19,19,8
+20,"Theme From ""Greatest American Hero"" (Believe It or Not)",Joey Scarbury,27,20,7
+21,Nobody Wins,Elton John,23,21,7
+22,I Don't Need You,Kenny Rogers,33,22,2
+23,Elvira,The Oak Ridge Boys,28,23,6
+24,Winning,Santana,26,24,11
+25,Modern Girl,Sheena Easton,29,25,7
+26,Gemini Dream,The Moody Blues,37,26,3
+27,Boy From New York City,The Manhattan Transfer,34,27,5
+28,Still Right Here In My Heart,Pure Prairie League,30,28,10
+29,Fool In Love With You,Jim Photoglo,31,29,10
+30,Time,The Alan Parsons Project,35,30,10
+31,Seven Year Ache,Rosanne Cash,36,31,9
+32,Say What,Jesse Winchester,32,32,9
+33,Queen Of Hearts,Juice Newton,43,33,4
+34,Sweet Baby,Stanley Clarke/George Duke,38,34,8
+35,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",11,2,19
+36,Stronger Than Before,Carole Bayer Sager,40,36,6
+37,Too Much Time On My Hands,Styx,18,9,14
+38,Angel Of The Morning,Juice Newton,22,4,18
+39,How 'bout Us,Champaign,16,12,19
+40,The Stroke,Billy Squier,44,40,6
+41,Watching The Wheels,John Lennon,25,10,13
+42,A Life Of Illusion,Joe Walsh,49,42,5
+43,Jones Vs. Jones,Kool & The Gang,47,43,6
+44,Slow Hand,The Pointer Sisters,57,44,4
+45,Lovin' The Night Away,The Dillman Band,46,45,7
+46,Two Hearts,Stephanie Mills Featuring Teddy Pendergrass,50,46,6
+47,Double Dutch Bus,Frankie Smith,51,47,6
+48,Promises,Barbra Streisand,52,48,5
+49,I Can Take Care Of Myself,Billy & The Beaters,39,39,9
+50,Since I Don't Have You,Don McLean,42,23,11
+51,Don't Let Him Go,REO Speedwagon,72,51,2
+52,The Breakup Song (They Don't Write 'Em),Greg Kihn Band,60,52,5
+53,What Cha' Gonna Do For Me,Chaka Khan,55,53,6
+54,Brooklyn Girls,Robbie Dupree,56,54,5
+55,It's Now Or Never,John Schneider,65,55,4
+56,Rock And Roll Dreams Come Through,Jim Steinman,61,56,4
+57,Shaddap You Face,Joe Dolce,59,57,8
+58,Give It To Me Baby,Rick James,66,58,4
+59,Sign Of The Gypsy Queen,April Wine,67,59,4
+60,Yearning For Your Love,The Gap Band,62,60,5
+61,In The Air Tonight,Phil Collins,69,61,4
+62,It Didn't Take Long,Spider,70,62,4
+63,Fantasy Girl,38 Special,71,63,3
+64,Give A Little Bit More,Cliff Richard,41,41,9
+65,Morning Train (Nine To Five),Sheena Easton,45,1,19
+66,Arc Of A Diver,Steve Winwood,48,48,7
+67,Feels So Right,Alabama,77,67,3
+68,I Missed Again,Phil Collins,53,19,14
+69,Almost Saturday Night,Dave Edmunds,54,54,7
+70,Tom Sawyer,Rush,74,70,3
+71,She Did It,Michael Damian,75,71,4
+72,Hard Times,James Taylor,81,72,2
+73,Ai No Corrida (I-No-Ko-ree-da),Quincy Jones,58,28,11
+74,Say You'll Be Mine,Christopher Cross,63,20,13
+75,What She Does To Me (The Diana Song),The Producers,85,75,2
+76,Touch Me When We're Dancing,Carpenters,-1,76,1
+77,Some Days Are Diamonds (Some Days Are Stone),John Denver,87,77,2
+78,Another Ticket,Eric Clapton,86,78,2
+79,You Are Forever,Smokey Robinson,-1,79,1
+80,Paradise,Change,80,80,3
+81,The Kid Is Hot Tonite,Loverboy,-1,81,1
+82,Some Changes Are For Good,Dionne Warwick,-1,82,1
+83,Suzi,Randy VanWarmer,-1,83,1
+84,Lady (You Bring Me Up),Commodores,-1,84,1
+85,Love On A Two Way Street,Stacy Lattisaw,-1,85,1
+86,Don't Want To Wait Anymore,The Tubes,-1,86,1
+87,Kiss On My List,Daryl Hall John Oates,64,1,22
+88,Find Your Way Back,Jefferson Starship,68,29,12
+89,Fly Away,Blackfoot,-1,89,1
+90,You Better You Bet,The Who,73,18,14
+91,Ain't Even Done With The Night,John Cougar,78,17,21
+92,I Can't Stand It,Eric Clapton And His Band,76,10,17
+93,Love You Like I Never Loved Before,John O'Banion,79,24,13
+94,Hold On Loosely,38 Special,83,27,17
+95,Rich Man,Terri Gibbs,-1,95,1
+96,Blessed Are The Believers,Anne Murray,89,34,13
+97,Just So Lonely,Get Wet,84,39,9
+98,You're So Easy To Love,Tommy James,82,58,7
+99,"Mercy, Mercy, Mercy",Phoebe Snow,88,52,8
+100,Rain In May,Max Werner,90,74,6

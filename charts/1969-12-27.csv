@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Someday We'll Be Together,Diana Ross & The Supremes,2,1,8
+2,Leaving On A Jet Plane,"Peter, Paul & Mary",1,1,10
+3,Raindrops Keep Fallin' On My Head,B.J. Thomas,5,3,9
+4,Down On The Corner/Fortunate Son,Creedence Clearwater Revival,3,3,10
+5,Na Na Hey Hey Kiss Him Goodbye,Steam,4,1,11
+6,Holly Holy,Neil Diamond,9,6,9
+7,Come Together/Something,The Beatles,6,1,11
+8,I Want You Back,Jackson 5,17,8,7
+9,Whole Lotta Love,Led Zeppelin,12,9,6
+10,Take A Letter Maria,R.B. Greaves,8,2,11
+11,Midnight Cowboy,Ferrante & Teicher,15,11,9
+12,Eli's Coming,Three Dog Night,11,10,10
+13,"Yester-Me, Yester-You, Yesterday",Stevie Wonder,7,7,11
+14,La La La (If I Had You),Bobby Sherman,14,14,6
+15,And When I Die,"Blood, Sweat & Tears",10,2,11
+16,These Eyes,Jr. Walker & The All Stars,20,16,10
+17,Friendship Train,Gladys Knight And The Pips,18,17,10
+18,Backfield In Motion,Mel And Tim,13,10,11
+19,Venus,The Shocking Blue,31,19,3
+20,Jam Up Jelly Tight, Tommy Roe,23,20,7
+21,Cherry Hill Park,Billy Joe Royal,16,15,13
+22,Jingle Jangle,The Archies,34,22,5
+23,Don't Cry Daddy/Rubberneckin',Elvis Presley,25,23,5
+24,Smile A Little Smile For Me,The Flying Machine,21,5,13
+25,"Baby, I'm For Real",The Originals,22,14,14
+26,Up On Cripple Creek,The Band,26,26,9
+27,A Brand New Me,Dusty Springfield,24,24,8
+28,Evil Woman Don't Play Your Games With Me,CROW,28,28,10
+29,Wedding Bell Blues,The 5th Dimension,19,1,14
+30,Early In The Morning,Vanity Fare,37,30,6
+31,Heaven Knows,The Grass Roots,27,24,8
+32,Eleanor Rigby,Aretha Franklin,29,17,8
+33,Cold Turkey,Plastic Ono Band,35,33,7
+34,She,Tommy James And The Shondells,40,34,3
+35,Sunday Mornin',Oliver,38,35,6
+36,Ain't It Funky Now (Part 1),James Brown,36,36,6
+37,Going In Circles,The Friends Of Distinction,30,15,20
+38,Groovy Grubworm,Harlow Wilcox and the Oakies,33,30,12
+39,"Wonderful World, Beautiful People",Jimmy Cliff,47,39,4
+40,Point It Out,Smokey Robinson & The Miracles,64,40,3
+41,Winter World Of Love,Engelbert Humperdinck,48,41,4
+42,Okie From Muskogee,Merle Haggard And The Strangers,42,42,9
+43,Cupid,Johnny Nash,43,43,8
+44,Don't Let Love Hang You Up,Jerry Butler,44,44,7
+45,Don't Let Him Take Your Love From Me,Four Tops,46,45,4
+46,"Mind, Body and Soul",The Flaming Ember,39,26,14
+47,Arizona,Mark Lindsay,66,47,4
+48,Kozmic Blues,Janis Joplin,41,41,8
+49,What You Gave Me,Marvin Gaye & Tammi Terrell,50,49,5
+50,Without Love (There Is Nothing),Tom Jones,-1,50,1
+51,I'll Never Fall In Love Again,Dionne Warwick,-1,51,1
+52,Can't Take My Eyes Off You,Nancy Wilson,55,52,6
+53,Fancy,Bobbie Gentry,54,53,6
+54,Walkin' In The Rain,Jay & The Americans,69,54,6
+55,Let's Work Together (Part 1),Wilbert Harrison,68,55,4
+56,She Belongs To Me,Rick Nelson,56,56,11
+57,I'll Hold Out My Hand,The Clique,45,45,6
+58,She Came In Through The Bathroom Window,Joe Cocker,60,58,4
+59,You Got To Pay The Price,Gloria Taylor,49,49,8
+60,Blistered/See Ruby Fall,Johnny Cash,52,50,6
+61,Midnight,Dennis Yost And The Classics IV,58,58,7
+62,One Tin Soldier,The Original Caste,63,62,7
+63,When Julie Comes Around,The Cuff Links,71,63,3
+64,Baby Take Me In Your Arms,Jefferson,73,64,2
+65,Volunteers,Jefferson Airplane,65,65,8
+66,Let A Man Come In And Do The Popcorn (Part Two),James Brown,72,66,2
+67,I'm So Glad I Fell For You,David Ruffin,80,67,2
+68,She Lets Her Hair Down (Early In The Morning),The Tokens,77,68,3
+69,Turn! Turn! Turn!/To Everything There Is A Season,Judy Collins,75,69,5
+70,No Time,The Guess Who,81,70,2
+71,Monster,Steppenwolf,-1,71,1
+72,Tonight I'll Say A Prayer,Eydie Gorme,85,72,5
+73,Hey There Lonely Girl,Eddie Holman,-1,73,1
+74,I'm Tired,Savoy Brown,74,74,5
+75,Traces/Memories Medley,The Lettermen,-1,75,1
+76,I Love You,Otis Leavill,76,76,5
+77,Love Bones,Johnnie Taylor,95,77,2
+78,Lady-O,The Turtles,78,78,4
+79,Is It Because I'm Black,Syl Johnson,94,79,3
+80,Look-Ka Py Py,The Meters,82,80,4
+81,Are You Getting Any Sunshine?,Lou Christie,83,81,2
+82,Together,The Illusion,87,82,2
+83,Six White Horses,Tommy Cash,86,83,3
+84,Come Saturday Morning,The Sandpipers,84,84,2
+85,"To Be Young, Gifted And Black",Nina Simone,90,85,3
+86,Bold Soul Sister,Ike & Tina Turner,92,86,2
+87,Groovin' (Out On Life),The Newbeats,88,87,2
+88,Oh Me Oh My (I'm A Fool For You Baby),Lulu,-1,88,1
+89,I'm Gonna Love You,The Intrigues,89,89,2
+90,Voodoo Woman,Simon Stokes/Nighthawks,91,90,2
+91,I Started Loving You Again,Al Martino,-1,91,2
+92,A World Without Music,Archie Bell & The Drells,-1,92,1
+93,"He Ain't Heavy, He's My Brother",The Hollies,100,93,2
+94,Too Many Cooks (Spoil The Soup),100 Proof Aged in Soul,99,94,2
+95,Theme From Electric Surfboard,Brother Jack McDuff,-1,95,1
+96,It's Been A Long Time,Betty Everett,96,96,2
+97,Mr. Limousine Driver,Grand Funk Railroad,98,97,2
+98,The Gangs Back Again,Kool & The Gang,-1,98,1
+99,Guess Who,Ruby Winters,-1,99,1
+100,The Thrill Is Gone,B.B. King,-1,100,1

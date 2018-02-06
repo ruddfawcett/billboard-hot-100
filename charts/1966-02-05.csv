@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,My Love,Petula Clark,9,1,7
+2,Barbara Ann,The Beach Boys,2,2,6
+3,No Matter What Shape (Your Stomach's In),The T-Bones,4,3,9
+4,We Can Work It Out,The Beatles,1,1,8
+5,Lightnin' Strikes,Lou Christie,20,5,7
+6,The Men In My Little Girl's Life,Mike Douglas,7,6,7
+7,She's Just My Style,Gary Lewis And The Playboys,3,3,9
+8,Five O'Clock World,The Vogues,5,4,11
+9,A Must To Avoid,Herman's Hermits,8,8,7
+10,Crying Time,Ray Charles,16,10,9
+11,Jenny Take A Ride!,Mitch Ryder And The Detroit Wheels,10,10,9
+12,As Tears Go By,The Rolling Stones,6,6,7
+13,My World Is Empty Without You, The Supremes,26,13,4
+14,Just Like Me,Paul Revere & The Raiders Featuring Mark Lindsay,11,11,10
+15,Zorba The Greek,Herb Alpert & The Tijuana Brass,24,15,7
+16,Uptight (Everything's Alright),Stevie Wonder,21,16,8
+17,A Well Respected Man,The Kinks,19,17,10
+18,The Duck,Jackie Lee,14,14,12
+19,Don't Mess With Bill,The Marvelettes,31,19,6
+20,The Sound Of Silence,Simon & Garfunkel,12,1,12
+21,Going To A Go-Go,The Miracles,23,21,7
+22,Day Tripper,The Beatles,13,5,8
+23,Spanish Eyes,Al Martino,15,15,10
+24,Lies,The Knickerbockers,22,20,10
+25,You Didn't Have To Be So Nice,The Lovin' Spoonful,17,10,11
+26,Michelle,David & Jonathan,36,26,5
+27,Like A Baby,Len Barry,30,27,6
+28,These Boots Are Made For Walkin',Nancy Sinatra,50,28,3
+29,Attack,The Toys,18,18,8
+30,It Was A Very Good Year,Frank Sinatra,28,28,7
+31,Flowers On The Wall,The Statler Brothers,25,4,13
+32,Second Hand Rose,Barbra Streisand,34,32,8
+33,California Dreamin',The Mamas & The Papas,44,33,5
+34,When Liking Turns To Loving,Ronnie Dove,57,34,3
+35,Tell Me Why,Elvis Presley With The Jordanaires ,33,33,6
+36,Night Time,The Strangeloves,46,36,4
+37,A Hard Day's Night,Ramsey Lewis Trio,47,37,3
+38,Tijuana Taxi,Herb Alpert & The Tijuana Brass,45,38,7
+39,Thunderball,Tom Jones,35,25,9
+40,Sandy,Ronny And The Daytonas,27,27,10
+41,Call Me,Chris Montez,53,41,5
+42,Satin Pillows,Bobby Vinton,29,23,10
+43,Are You There (With Another Girl),Dionne Warwick,43,39,9
+44,Working My Way Back To You,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",63,44,2
+45,I See The Light,The Five Americans,55,45,6
+46,Recovery,Fontella Bass,37,37,7
+47,What Now My Love,Sonny & Cher,68,47,2
+48,(You're Gonna) Hurt Yourself,Frankie Valli,61,48,4
+49,Breakin' Up Is Breakin' My Heart,Roy Orbison,60,49,3
+50,Spread It On Thick,The Gentrys,52,50,6
+51,My Baby Loves Me,Martha & The Vandellas,66,51,3
+52,I Ain't Gonna Eat Out My Heart Anymore,The Young Rascals,56,52,7
+53,Cleo's Mood,Jr. Walker & The All Stars,54,53,4
+54,I Fought The Law,Bobby Fuller Four,75,54,2
+55,Look Through Any Window,The Hollies,32,32,12
+56,It's Good News Week,Hedgehoppers Anonymous,48,48,10
+57,Elusive Butterfly,Bob Lind,70,57,3
+58,Michael,The C.O.D.'s,41,41,11
+59,"Get Out Of My Life, Woman",Lee Dorsey,62,59,6
+60,Under Your Spell Again,Johnny Rivers,38,35,8
+61,Andrea,The Sunrays,69,61,3
+62,Hurt,Little Anthony And The Imperials,51,51,6
+63,Can You Please Crawl Out Your Window?,Bob Dylan ,58,58,6
+64,I'm Too Far Gone (To Turn Around),Bobby Bland,64,64,5
+65,Bye Bye Blues,Bert Kaempfert And His Orchestra,80,65,3
+66,Love Makes The World Go Round,Deon Jackson,81,66,3
+67,Snow Flake,Jim Reeves,73,67,4
+68,The Cheater,Bob Kuban And The In-Men,86,68,2
+69,Love Is All We Need,Mel Carter,76,69,3
+70,A Little Bit Of Soap,The Exciters,85,70,2
+71,You Baby,The Turtles,-1,71,1
+72,If You Gotta Make A Fool Of Somebody,Maxine Brown,65,63,9
+73,At The Scene, The Dave Clark Five,-1,73,1
+74,This Can't Be True,Eddie Holman,74,74,4
+75,My Generation,The Who,77,75,4
+76,My Ship Is Comin' In,The Walker Bros.,87,76,2
+77,Michelle,Billy Vaughn And His Orchestra,78,77,5
+78,Michelle,Bud Shank,82,78,3
+79,Hide & Seek,The Sheep,84,79,2
+80,Baby Scratch My Back,Slim Harpo,90,80,2
+81,Long Live Our Love,The Shangri-Las,-1,81,1
+82,The Rains Came,Sir Douglas Quintet,91,82,2
+83,I Can't Believe You Love Me,Tammi Terrell,72,72,5
+84,Something I Want To Tell You,Johnny and The Expressions,83,83,3
+85,Batman Theme,The Marketts,-1,85,1
+86,The Loop,Johnny Lytle,88,86,3
+87,The Ballad Of The Green Berets,SSgt Barry Sadler,-1,87,1
+88,We Know We're In Love,Lesley Gore,-1,88,1
+89,Waitin' In Your Welfare Line,Buck Owens,93,89,2
+90,Georgia On My Mind,The Righteous Brothers,-1,90,1
+91,Take Me For What I'm Worth,The Searchers,100,91,2
+92,Set You Free This Time,The Byrds,-1,92,1
+93,In My Room (El Amor),Verdelle Smith,-1,93,1
+94,Can't You See (You're Losing Me),Mary Wells,95,94,3
+95,Lost Someone,James Brown And The Famous Flames,-1,48,11
+96,Since I Lost The One I Love,The Impressions,-1,96,1
+97,Red Hot,Sam The Sham and the Pharaohs,-1,97,1
+98,Don't Forget About Me,Barbara Lewis,99,98,2
+99,I Want To Go With You,Eddy Arnold,-1,99,1
+100,The Answer To My Prayer,Neil Sedaka,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Yesterday,The Beatles,1,1,6
+2,A Lover's Concerto,The Toys,3,2,8
+3,Get Off Of My Cloud,The Rolling Stones,4,3,4
+4,Keep On Dancing,The Gentrys,5,4,8
+5,Everybody Loves A Clown,Gary Lewis And The Playboys,8,5,6
+6,Treat Her Right,Roy Head And The Traits,2,2,9
+7,You're The One,The Vogues,10,7,7
+8,Positively 4th Street,Bob Dylan,9,8,5
+9,Hang On Sloopy,The McCoys,6,1,12
+10,1-2-3,Len Barry,19,10,6
+11,Make Me Your Baby,Barbara Lewis,16,11,8
+12,"Liar, Liar",The Castaways,12,12,12
+13,Just A Little Bit Better,Herman's Hermits,7,7,7
+14,Rescue Me,Fontella Bass,32,14,5
+15,Taste Of Honey,Herb Alpert & The Tijuana Brass,25,15,6
+16,I Knew You When,Billy Joe Royal,22,16,7
+17,But You're Mine,Sonny & Cher,23,17,4
+18,Let's Hang On!,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",41,18,4
+19,Ain't That Peculiar,Marvin Gaye,35,19,4
+20,Everyone's Gone To The Moon,Jonathan King,28,20,6
+21,"The ""In"" Crowd",Ramsey Lewis Trio,13,5,14
+22,Do You Believe In Magic,The Lovin' Spoonful,11,9,11
+23,I Want To (Do Everything For You),Joe Tex,26,23,10
+24,Baby Don't Go,Sonny & Cher,14,8,11
+25,Not The Lovin' Kind,"Dino, Desi & Billy",27,25,7
+26,I'm Yours,Elvis Presley,17,11,10
+27,Hungry For Love,San Remo Golden Strings,34,27,8
+28,Some Enchanted Evening,Jay & The Americans,18,13,9
+29,Mohair Sam,Charlie Rich,24,21,10
+30,Say Something Funny,Patty Duke,42,30,5
+31,You Were On My Mind,We Five,21,3,15
+32,Help!,The Beatles,29,1,13
+33,"Run, Baby Run (Back Into My Arms)",The Newbeats,49,33,5
+34,Eve Of Destruction,Barry McGuire,15,1,11
+35,Where Have All The Flowers Gone,Johnny Rivers,52,35,5
+36,You've Got Your Troubles,The Fortunes,20,7,11
+37,Respect,Otis Redding,38,37,9
+38,Round Every Corner,Petula Clark,55,38,4
+39,I Hear A Symphony,The Supremes,-1,39,1
+40,Catch Us If You Can,The Dave Clark Five,33,4,11
+41,I Miss You So,Little Anthony And The Imperials,46,41,5
+42,Cara-Lin,The Strangeloves,39,39,7
+43,"My Town, My Guy And Me",Lesley Gore,36,32,8
+44,Where Do You Go,Cher,68,44,3
+45,The Universal Soldier,Glen Campbell,48,45,6
+46,Steppin' Out,Paul Revere & The Raiders,50,46,7
+47,Act Naturally,The Beatles,47,47,6
+48,Chapel In The Moonlight,The Bachelors,60,48,4
+49,My Girl Has Gone,The Miracles,53,49,4
+50,My Baby,The Temptations,74,50,2
+51,You've Got To Hide Your Love Away,The Silkie,61,51,3
+52,Road Runner,The Gants,62,52,6
+53,Universal Soldier,Donovan,54,53,6
+54,I Found A Girl,Jan & Dean,65,54,3
+55,Ring Dang Doo,Sam The Sham and the Pharaohs,59,55,4
+56,Take Me In Your Arms (Rock Me A Little While),Kim Weston,56,56,5
+57,I Live For The Sun,The Sunrays,51,51,9
+58,Make It Easy On Yourself,The Walker Bros.,73,58,3
+59,May The Bird Of Paradise Fly Up Your Nose,"""Little"" Jimmy Dickens",75,59,3
+60,Rusty Bells,Brenda Lee,70,60,4
+61,Turn! Turn! Turn! (To Everything There Is A Season),The Byrds,80,61,2
+62,If You've Got A Heart,Bobby Goldsboro,63,62,6
+63,Make The World Go Away,Eddy Arnold,79,63,3
+64,The Dawn Of Correction,The Spokesmen,40,36,7
+65,Secretly,The Lettermen,67,65,5
+66,A Lifetime Of Loneliness,Jackie DeShannon,66,66,5
+67,Cleo's Back,Jr. Walker & The All Stars,72,67,4
+68,Don't Talk To Strangers,The Beau Brummels,69,68,4
+69,What Color (Is A Man),Bobby Vinton,43,38,7
+70,Looking With My Eyes,Dionne Warwick,83,70,5
+71,Are You A Boy Or Are You A Girl,The Barbarians,64,55,6
+72,He Touched Me,Barbra Streisand,82,72,5
+73,Forgive Me,Al Martino,85,73,3
+74,Remember When, Wayne Newton,78,74,3
+75,(All Of A Sudden) My Heart Sings,Mel Carter,-1,75,1
+76,Just One Kiss From You,The Impressions,77,76,5
+77,I'm So Thankful,The Ikettes,84,77,4
+78,Just Yesterday,Jack Jones,87,78,4
+79,Sinner Man,Trini Lopez,90,79,3
+80,Let Me Be,The Turtles,-1,80,1
+81,Misty,The Vibrations,99,81,2
+82,Just A Little Bit,Roy Head,-1,82,1
+83,I'm A Man,The Yardbirds,-1,83,1
+84,Harlem Nocturne,The Viscounts,-1,52,17
+85,Roses And Rainbows,Danny Hutton,86,85,3
+86,Inky Dinky Spider (The Spider Song),The Kids Next Door,89,86,2
+87,I Still Love You,The Vejtables,88,87,2
+88,I Will,Dean Martin,-1,88,1
+89,Dance With Me,The Mojo Men,-1,89,1
+90,The Letter,Sonny & Cher,100,90,2
+91,Stand By Me,Earl Grant,95,91,2
+92,So Long Babe,Nancy Sinatra,93,92,3
+93,Don't Have To Shop Around,The Mad Lads,94,93,2
+94,Honky Tonk '65,Lonnie Mack,-1,94,1
+95,Think,Jimmy McCracklin,96,95,2
+96,I Believe I'll Love On,Jackie Wilson,97,96,2
+97,Mystic Eyes,Them,-1,97,1
+98,Autumn Leaves - 1965,Roger Williams,92,92,3
+99,The Organ Grinder's Swing,Jimmy Smith With Kenny Burrell And Grady Tate,-1,92,3
+100,I Have Dreamed,Chad & Jeremy,-1,100,1

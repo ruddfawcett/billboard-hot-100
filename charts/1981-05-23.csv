@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Bette Davis Eyes,Kim Carnes,1,1,9
+2,Being With You,Smokey Robinson,3,2,15
+3,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",2,2,15
+4,Angel Of The Morning,Juice Newton,4,4,14
+5,Medley,Stars On 45,14,5,7
+6,Take It On The Run,REO Speedwagon,6,6,10
+7,Living Inside Myself,Gino Vannelli,7,7,10
+8,Sukiyaki,A Taste Of Honey,8,8,12
+9,Too Much Time On My Hands,Styx,10,9,10
+10,Watching The Wheels,John Lennon,11,10,9
+11,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,15,11,12
+12,Sweetheart,Franke & The Knockouts,13,12,12
+13,Morning Train (Nine To Five),Sheena Easton,5,1,15
+14,How 'bout Us,Champaign,16,14,15
+15,America,Neil Diamond,20,15,5
+16,Kiss On My List,Daryl Hall John Oates,9,1,18
+17,I Love You,Climax Blues Band,19,17,14
+18,You Better You Bet,The Who,18,18,10
+19,I Missed Again,Phil Collins,21,19,10
+20,Say You'll Be Mine,Christopher Cross,22,20,9
+21,What Are We Doin' In Love,Dottie West with Kenny Rogers,23,21,9
+22,I Can't Stand It,Eric Clapton And His Band,12,10,13
+23,This Little Girl,Gary U.S. Bonds,25,23,5
+24,Love You Like I Never Loved Before,John O'Banion,24,24,9
+25,Since I Don't Have You,Don McLean,26,25,7
+26,Ain't Even Done With The Night,John Cougar,17,17,17
+27,Hold On Loosely,38 Special,27,27,13
+28,Jessie's Girl,Rick Springfield ,33,28,9
+29,Find Your Way Back,Jefferson Starship,30,29,8
+30,Ai No Corrida (I-No-Ko-ree-da),Quincy Jones,32,30,7
+31,You Make My Dreams,Daryl Hall John Oates,38,31,4
+32,The Waiting,Tom Petty And The Heartbreakers,39,32,4
+33,All Those Years Ago,George Harrison,-1,33,1
+34,Blessed Are The Believers,Anne Murray,34,34,9
+35,Is It You,Lee Ritenour,48,35,5
+36,Winning,Santana,40,36,7
+37,I Loved 'em Every One,T.G. Sheppard,37,37,11
+38,The One That You Love,Air Supply,59,38,2
+39,Still Right Here In My Heart,Pure Prairie League,44,39,6
+40,Just So Lonely,Get Wet,43,40,5
+41,Fool In Love With You,Jim Photoglo,45,41,6
+42,Somebody's Knockin',Terri Gibbs,28,13,19
+43,Say What,Jesse Winchester,53,43,5
+44,Time,The Alan Parsons Project,47,44,6
+45,Super Trouper,ABBA,46,45,8
+46,Give A Little Bit More,Cliff Richard,50,46,5
+47,I Can Take Care Of Myself,Billy & The Beaters,52,47,5
+48,I've Been Waiting For You All Of My Life,Paul Anka,49,48,6
+49,Nobody Wins,Elton John,57,49,3
+50,Seven Year Ache,Rosanne Cash,56,50,5
+51,Her Town Too,James Taylor & J.D. Souther,29,11,11
+52,Rapture,Blondie,31,1,17
+53,You Like Me Don't You,Jermaine Jackson,60,53,6
+54,Wasn't That A Party,The Rovers,54,37,14
+55,Modern Girl,Sheena Easton,67,55,3
+56,While You See A Chance,Steve Winwood,35,7,16
+57,Don't Stand So Close To Me,The Police,36,10,16
+58,Sweet Baby,Stanley Clarke/George Duke,66,58,4
+59,But You Know I Love You,Dolly Parton,41,41,8
+60,"Mercy, Mercy, Mercy",Phoebe Snow,70,60,4
+61,Arc Of A Diver,Steve Winwood,71,61,3
+62,"Theme From ""Greatest American Hero"" (Believe It or Not)",Joey Scarbury,73,62,3
+63,Make That Move,Shalamar,65,63,5
+64,Keep On Loving You,REO Speedwagon,42,1,26
+65,Woman,John Lennon,51,2,19
+66,You're So Easy To Love,Tommy James,76,66,3
+67,Elvira,The Oak Ridge Boys,78,67,2
+68,One Day In Your Life,Michael Jackson,55,55,6
+69,Hurry Up And Wait,The Isley Brothers,58,58,6
+70,Lovin' The Night Away,The Dillman Band,80,70,3
+71,Almost Saturday Night,Dave Edmunds,79,71,3
+72,Boy From New York City,The Manhattan Transfer,-1,72,1
+73,Stronger Than Before,Carole Bayer Sager,83,73,2
+74,Shaddap You Face,Joe Dolce,81,74,4
+75,The Stroke,Billy Squier,84,75,2
+76,Double Dutch Bus,Frankie Smith,86,76,2
+77,Can You Feel It,The Jacksons,77,77,4
+78,Two Hearts,Stephanie Mills Featuring Teddy Pendergrass,88,78,2
+79,What Cha' Gonna Do For Me,Chaka Khan,87,79,2
+80,Jones Vs. Jones,Kool & The Gang,89,80,2
+81,Rain In May,Max Werner,90,81,2
+82,Next Time You'll Know,Sister Sledge,82,82,3
+83,Promises,Barbra Streisand,-1,83,1
+84,A Life Of Illusion,Joe Walsh,-1,84,1
+85,The Best Of Times,Styx,61,3,18
+86,Hearts,Marty Balin,-1,86,1
+87,Brooklyn Girls,Robbie Dupree,-1,87,1
+88,The Breakup Song (They Don't Write 'Em),Greg Kihn Band,-1,88,1
+89,Yearning For Your Love,The Gap Band,-1,89,1
+90,I Can't Say Goodbye To You,Helen Reddy,-1,90,1
+91,Crying,Don McLean,62,5,18
+92,Just Between You And Me,April Wine,63,21,16
+93,Lately,Stevie Wonder,64,64,7
+94,Time Out Of Mind,Steely Dan,68,22,11
+95,Don't Stop The Music,Yarbrough & Peoples,69,19,16
+96,It's A Love Thing,The Whispers,72,28,15
+97,Turn Me Loose,Loverboy,74,35,17
+98,Mister Sandman,Emmylou Harris,75,37,13
+99,The Party's Over (Hopelessly In Love),Journey,85,34,13
+100,9 To 5,Dolly Parton,91,1,26

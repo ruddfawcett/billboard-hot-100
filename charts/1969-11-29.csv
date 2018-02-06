@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Come Together/Something,The Beatles,7,1,7
+2,And When I Die,"Blood, Sweat & Tears",4,2,7
+3,Wedding Bell Blues,The 5th Dimension,1,1,10
+4,Take A Letter Maria,R.B. Greaves,2,2,7
+5,Na Na Hey Hey Kiss Him Goodbye,Steam,6,5,7
+6,Smile A Little Smile For Me,The Flying Machine,5,5,9
+7,Leaving On A Jet Plane,"Peter, Paul & Mary",12,7,6
+8,"Yester-Me, Yester-You, Yesterday",Stevie Wonder,8,8,7
+9,Down On The Corner/Fortunate Son,Creedence Clearwater Revival,21,9,6
+10,Eli's Coming,Three Dog Night,18,10,6
+11,Someday We'll Be Together,Diana Ross & The Supremes,20,11,4
+12,Baby It's You,Smith,11,5,13
+13,Backfield In Motion,Mel And Tim,13,13,7
+14,"Baby, I'm For Real",The Originals,15,14,10
+15,Cherry Hill Park,Billy Joe Royal,19,15,9
+16,Suspicious Minds,Elvis Presley,9,1,12
+17,I Can't Get Next To You,The Temptations,10,1,16
+18,Holly Holy,Neil Diamond,28,18,5
+19,"Sugar, Sugar",The Archies,16,1,19
+20,Going In Circles,The Friends Of Distinction,17,15,16
+21,Suite: Judy Blue Eyes,"Crosby, Stills & Nash",27,21,9
+22,Undun,The Guess Who,29,22,7
+23,Try A Little Kindness,Glen Campbell,24,23,8
+24,Eleanor Rigby,Aretha Franklin,33,24,4
+25,Raindrops Keep Fallin' On My Head,B.J. Thomas,37,25,5
+26,"Mind, Body and Soul",The Flaming Ember,35,26,10
+27,Tracy,The Cuff Links,22,9,12
+28,Is That All There Is,Peggy Lee,23,11,10
+29,Friendship Train,Gladys Knight And The Pips,34,29,6
+30,These Eyes,Jr. Walker & The All Stars,36,30,6
+31,Up On Cripple Creek,The Band,47,31,5
+32,Heaven Knows,The Grass Roots,40,32,4
+33,Reuben James,Kenny Rogers & The First Edition,26,26,10
+34,I Guess The Lord Must Be In New York City, Nilsson,43,34,5
+35,Groovy Grubworm,Harlow Wilcox and the Oakies,39,35,8
+36,Make Your Own Kind Of Music,Mama Cass Elliot,38,36,7
+37,Midnight Cowboy,Ferrante & Teicher,46,37,5
+38,Evil Woman Don't Play Your Games With Me,CROW,45,38,6
+39,Let A Man Come In And Do The Popcorn (Part One),James Brown,32,21,8
+40,A Brand New Me,Dusty Springfield,50,40,4
+41,Love Will Find A Way,Jackie DeShannon,51,41,5
+42,On The Dock Of The Bay,The Dells,53,42,5
+43,Jam Up Jelly Tight,Tommy Roe,69,43,3
+44,Roosevelt And Ira Lee (Night of the Mossacin),Tony Joe White,44,44,6
+45,Whole Lotta Love,Led Zeppelin,91,45,2
+46,Kozmic Blues,Janis Joplin,83,46,4
+47,Cold Turkey,Plastic Ono Band,74,47,3
+48,"We Love You, Call Collect",Art Linkletter,42,42,5
+49,Ain't It Funky Now (Part 1),James Brown,71,49,2
+50,Tonight I'll Be Staying Here With You,Bob Dylan,54,50,5
+51,I Want You Back,Jackson 5,67,51,3
+52,Time Machine,Grand Funk Railroad,52,48,10
+53,You Got To Pay The Price,Gloria Taylor,56,53,4
+54,La La La (If I Had You),Bobby Sherman,80,54,2
+55,Any Way That You Want Me,Evie Sands,55,53,16
+56,Let A Woman Be A Woman - Let A Man Be A Man,Dyke And The Blazers,49,36,11
+57,Sunday Mornin',Oliver,78,57,2
+58,Say You Love Me, The Impressions,64,58,7
+59,Crumbs Off The Table,The Glass House,62,59,7
+60,Jingo,Santana,65,60,6
+61,Okie From Muskogee,Merle Haggard And The Strangers,61,61,5
+62,Early In The Morning,Vanity Fare,77,62,2
+63,Kool And The Gang,Kool & The Gang,60,59,12
+64,Turn On A Dream,The Box Tops,58,58,7
+65,Cupid,Johnny Nash,73,65,4
+66,Ballad Of Easy Rider,The Byrds,92,66,5
+67,Midnight,Dennis Yost And The Classics IV,70,67,3
+68,Girls It Ain't Easy,The Honey Cone,68,68,4
+69,Blistered/See Ruby Fall,Johnny Cash,100,69,2
+70,Get It From The Bottom,The Steelers,72,70,3
+71,Get Rhythm,Johnny Cash,79,71,3
+72,I'll Hold Out My Hand,The Clique,86,72,2
+73,Don't Cry Daddy/Rubberneckin', Elvis Presley,-1,73,1
+74,Can't Take My Eyes Off You,Nancy Wilson,98,74,2
+75,Fancy,Bobbie Gentry,94,75,2
+76,Don't Let Love Hang You Up,Jerry Butler,90,76,3
+77,What You Gave Me,Marvin Gaye & Tammi Terrell,-1,77,1
+78,I Can't Make It Alone, Lou Rawls,63,63,5
+79,She Belongs To Me,Rick Nelson,88,79,7
+80,Walkin' In The Rain,Jay & The Americans,89,80,2
+81,I'm Tired,Savoy Brown,-1,81,1
+82,The Ten Commandments Of Love,Little Anthony And The Imperials,84,82,4
+83,(I'm So) Afraid Of Losing You Again,Charley Pride,85,83,4
+84,Turn! Turn! Turn!/To Everything There Is A Season,Judy Collins,-1,84,1
+85,Volunteers,Jefferson Airplane,93,85,4
+86,Swingin' Tight,Bill Deal & The Rhondels,87,86,3
+87,Je T'Aime...Moi Non Plus,Jane Birkin Serge Gainsbourg,-1,87,1
+88,One Tin Soldier,The Original Caste,96,88,3
+89,Happy,Paul Anka,99,89,2
+90,Jingle Jangle,The Archies,-1,90,1
+91,Tonight I'll Say A Prayer,Eydie Gorme,-1,91,1
+92,I Love You,Otis Leavill,-1,92,1
+93,No One Better Than You,Petula Clark ,-1,93,1
+94,You Keep Me Hanging On,Wilson Pickett,-1,94,1
+95,It's A Funky Thing-Right On (Part 1),Herbie Mann,95,95,2
+96,(One Of These Days) Sunday's Gonna' Come On Tuesday,The New Establishment,-1,96,1
+97,Feeling Alright,Mongo Santamaria,-1,97,1
+98,Curly,Jimmy Clanton,97,97,3
+99,Wichita Lineman,Sergio Mendes & Brasil '66,-1,99,1
+100,Goin' Out Of My Head/Forget To Remember,Frank Sinatra,-1,100,1

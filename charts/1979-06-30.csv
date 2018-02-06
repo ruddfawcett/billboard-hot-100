@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Ring My Bell,Anita Ward,3,1,8
+2,Hot Stuff,Donna Summer,1,1,11
+3,Bad Girls,Donna Summer,5,3,6
+4,We Are Family,Sister Sledge,2,2,10
+5,Chuck E.'s In Love,Rickie Lee Jones,7,5,10
+6,The Logical Song,Supertramp,6,6,15
+7,She Believes In Me,Kenny Rogers,8,7,10
+8,Boogie Wonderland,"Earth, Wind & Fire with The Emotions",9,8,8
+9,Just When I Needed You Most,Randy VanWarmer,4,4,15
+10,You Take My Breath Away,Rex Smith,10,10,11
+11,Love You Inside Out,Bee Gees,11,1,11
+12,I Want You To Want Me,Cheap Trick,16,12,10
+13,Makin' It,David Naughton,15,13,14
+14,Minute By Minute,The Doobie Brothers,14,14,9
+15,Shine A Little Love,Electric Light Orchestra,17,15,7
+16,Gold,John Stewart,19,16,7
+17,Reunited,Peaches & Herb,12,1,16
+18,Dance The Night Away,Van Halen,20,18,10
+19,When You're In Love With A Beautiful Woman,Dr. Hook,22,19,12
+20,Ain't No Stoppin' Us Now,McFadden & Whitehead,23,20,10
+21,I Can't Stand It No More,Peter Frampton,24,21,6
+22,Days Gone Down (Still Got The Light In Your Eyes),Gerry Rafferty,25,22,5
+23,Heart Of The Night,Poco,26,23,8
+24,You Can't Change That,Raydio,27,24,10
+25,Does Your Mother Know,ABBA,28,25,7
+26,I Was Made For Lovin' You,KISS,30,26,6
+27,Rock 'n' Roll Fantasy,Bad Company,13,13,16
+28,Do It Or Die,Atlanta Rhythm Section,32,28,6
+29,Get Used To It,Roger Voudouris,21,21,16
+30,Mama Can't Buy You Love,Elton John,40,30,4
+31,Shakedown Cruise,Jay Ferguson,31,31,9
+32,Shadows In The Moonlight,Anne Murray,36,32,6
+33,People Of The South Wind,Kansas,39,33,5
+34,Shake Your Body (Down To The Ground),The Jacksons,18,7,20
+35,One Way Or Another,Blondie,41,35,5
+36,Up On The Roof,James Taylor,42,36,5
+37,Getting Closer,Wings,51,37,3
+38,Sad Eyes,Robert John,44,38,7
+39,Renegade,Styx,34,16,16
+40,Weekend,Wet Willie,46,40,6
+41,Lead Me On,Maxine Nightingale,48,41,6
+42,Is She Really Going Out With Him?,Joe Jackson,50,42,4
+43,Goodnight Tonight,Wings,33,5,14
+44,Married Men,Bette Midler,52,44,5
+45,If You Can't Give Me Love,Suzi Quatro,45,45,6
+46,Go West,Village People,47,46,6
+47,The Main Event/Fight,Barbra Streisand,59,47,3
+48,If I Said You Have A Beautiful Body Would You Hold It Against Me,Bellamy Brothers,54,48,6
+49,Deeper Than The Night,Olivia Newton-John,37,11,12
+50,Good Times,Chic,62,50,3
+51,Wasn't It Good,Cher,58,51,5
+52,Vengeance,Carly Simon,61,52,4
+53,Disco Nights (Rock-Freak),G.Q.,29,12,16
+54,Ain't Love A Bitch,Rod Stewart,53,22,11
+55,Kiss In The Dark,Pink Lady,63,55,5
+56,Do You Wanna Go Party,KC And The Sunshine Band,57,56,7
+57,Suspicions,Eddie Rabbitt,65,57,4
+58,Since I Don't Have You,Art Garfunkel,66,58,4
+59,Amanda,Waylon,67,59,4
+60,Don't Ever Wanna Lose Ya,New England,43,40,9
+61,Love Is The Answer,England Dan & John Ford Coley,55,10,17
+62,Hot Number,Foxy,38,21,14
+63,Heart Of Glass,Blondie,49,1,20
+64,Morning Dance,Spyro Gyra,74,64,3
+65,(Wish I Could Fly Like) Superman,The Kinks,64,41,10
+66,Rock Me,Nick Gilder,76,66,3
+67,Feel That You're Feelin',Maze Featuring Frankie Beverly,72,67,3
+68,Hold On,Triumph,78,68,3
+69,Heaven Must Have Sent You,Bonnie Pointer,79,69,3
+70,You Angel You,Manfred Mann's Earth Band,80,70,3
+71,The Devil Went Down To Georgia,The Charlie Daniels Band,81,71,2
+72,I'll Never Love This Way Again,Dionne Warwick,82,72,2
+73,Highway Song,Blackfoot,83,73,2
+74,Light My Fire/137 Disco Heaven,Amii Stewart,84,74,2
+75,Hot Summer Nights,Night,85,75,2
+76,My Sharona,The Knack,86,76,2
+77,You Gonna Make Me Love Somebody Else,The Jones Girls,87,77,2
+78,Born To Be Alive,Patrick Hernandez,88,78,2
+79,You're My Weakness,Faith Band,89,79,2
+80,Let's Go,The Cars,-1,80,1
+81,Last Of The Singing Cowboys,The Marshall Tucker Band,-1,81,1
+82,You're The Only One,Dolly Parton,-1,82,1
+83,We've Got Love,Peaches & Herb,-1,83,1
+84,Long Live Rock,The Who,-1,84,1
+85,I Do Love You,GQ,-1,85,1
+86,I'll Know Her When I See Her,Cooper Brothers Band,-1,86,1
+87,Cuba,The Gibson Brothers,91,87,2
+88,Motown Review,Philly Cream,-1,88,1
+89,I Know A Heartache When I See One,Jennifer Warnes,-1,89,1
+90,Say Maybe,Neil Diamond,56,55,7
+91,In The Navy,Village People,35,3,16
+92,Boogie Woogie Dancin' Shoes,Claudja Barry,68,56,12
+93,Make Love To Me,Helen Reddy,60,60,7
+94,Honesty,Billy Joel,70,24,11
+95,Good Timin',The Beach Boys,69,40,10
+96,Love Takes Time,Orleans,90,11,15
+97,(If Loving You Is Wrong) I Don't Want To Be Right,Barbara Mandrell,73,31,16
+98,Georgy Porgy,Toto,77,48,10
+99,Little Bit Of Soap,Nigel Olsson,71,34,12
+100,Music Box,"Evelyn ""Champagne"" King",75,75,6

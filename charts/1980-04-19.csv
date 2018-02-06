@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Call Me,Blondie,2,1,10
+2,Another Brick In The Wall (Part II),Pink Floyd,1,1,14
+3,Ride Like The Wind,Christopher Cross,4,3,10
+4,With You I'm Born Again,Billy Preston & Syreeta,7,4,20
+5,Special Lady,"Ray, Goodman & Brown",6,5,13
+6,Lost In Love,Air Supply,12,6,11
+7,Fire Lake,Bob Seger,11,7,9
+8,I Can't Tell You Why,Eagles,9,8,9
+9,"Working My Way Back To You/Forgive Me, Girl",The Spinners,3,2,19
+10,Off The Wall,Michael Jackson,10,10,10
+11,Too Hot,Kool & The Gang,5,5,14
+12,You May Be Right,Billy Joel,14,12,6
+13,Sexy Eyes,Dr. Hook,15,13,10
+14,Hold On To My Love,Jimmy Ruffin,18,14,8
+15,Crazy Little Thing Called Love,Queen,8,1,18
+16,Don't Fall In Love With A Dreamer,Kenny Rogers with Kim Carnes,26,16,4
+17,Pilot Of The Airwaves,Charlie Dore,23,17,9
+18,How Do I Make You,Linda Ronstadt,17,10,12
+19,And The Beat Goes On,The Whispers,19,19,11
+20,I Pledge My Love,Peaches & Herb,22,20,14
+21,Him,Rupert Holmes,13,6,14
+22,Think About Me,Fleetwood Mac,24,22,7
+23,Hurt So Bad,Linda Ronstadt,46,23,2
+24,Biggest Part Of Me,Ambrosia ,44,24,3
+25,Cars,Gary Numan,32,25,10
+26,Any Way You Want It,Journey,29,26,8
+27,Set Me Free,Utopia,28,27,9
+28,Stomp!,The Brothers Johnson,30,28,6
+29,Brass In Pocket (I'm Special),Pretenders,33,29,10
+30,Breakdown Dead Ahead,Boz Scaggs,41,30,4
+31,The Second Time Around,Shalamar,16,8,20
+32,I Can't Help It,Andy Gibb & Olivia Newton-John,43,32,4
+33,Fire In The Morning,Melissa Manchester,34,33,9
+34,Carrie,Cliff Richard,35,34,9
+35,Do Right,Paul Davis,38,35,7
+36,Only A Lonely Heart Sees,Felix Cavaliere,37,36,8
+37,Funkytown,"Lipps, Inc.",61,37,4
+38,Three Times In Love,Tommy James,21,19,13
+39,Desire,Andy Gibb,20,4,13
+40,Heart Hotels,Dan Fogelberg,49,40,5
+41,Longer,Dan Fogelberg,25,2,19
+42,On The Radio,Donna Summer,31,5,15
+43,Give It All You Got,Chuck Mangione,27,18,14
+44,Let Me Be,Korona,48,44,5
+45,The Seduction (Love Theme),James Last Band,55,45,4
+46,Wondering Where The Lions Are,Bruce Cockburn,62,46,5
+47,Let Me Be The Clock,Smokey Robinson,51,47,6
+48,Train In Vain (Stand By Me),The Clash,56,48,5
+49,The Rose,Bette Midler,58,49,5
+50,It's Hard To Be Humble,Mac Davis,59,50,5
+51,Keep The Fire,Kenny Loggins,36,36,9
+52,Let's Get Serious,Jermaine Jackson,64,52,4
+53,Stay In Time,Off Broadway USA,63,53,5
+54,Refugee,Tom Petty And The Heartbreakers,39,15,13
+55,Even It Up,Heart,42,33,11
+56,Starting Over Again,Dolly Parton,66,56,4
+57,She's Out Of My Life,Michael Jackson,-1,57,1
+58,Gee Whiz,Bernadette Peters,68,58,4
+59,Should've Never Let You Go,Neil Sedaka & Dara Sedaka,70,59,4
+60,Autograph,John Denver,52,52,9
+61,Lucky Me,Anne Murray,72,61,3
+62,Headed For A Fall,Firefall,82,62,2
+63,When The Feeling Comes Around,Jennifer Warnes,73,63,3
+64,Borrowed Time,Styx,65,64,4
+65,After You,Dionne Warwick,67,65,4
+66,We Were Meant To Be Lovers,Photoglo,77,66,4
+67,White Hot,Red Rider,74,67,3
+68,The Good Lord Loves You,Neil Diamond,76,68,3
+69,We Live For Love,Pat Benatar,78,69,3
+70,I Don't Want To Walk Without You,Barry Manilow,81,70,2
+71,Can't Put A Price On Love,The Knack,79,71,3
+72,Solitaire,Peter McIan,80,72,3
+73,Love Stinks,The J. Geils Band,83,73,2
+74,Somewhere In America,Survivor,75,74,9
+75,Steal Away,Robbie Dupree,85,75,2
+76,Don't Say Goodnight (It's Time For Love) (Parts 1 & 2),The Isley Brothers,-1,76,1
+77,Lady,The Whispers,-1,77,1
+78,You've Got What I Need,Shooting Star,88,78,2
+79,It's A Night For Beautiful Girls,The Fools,-1,79,1
+80,Don't Push It Don't Force It,Leon Haywood,90,80,3
+81,Years,Wayne Newton,50,35,12
+82,Catching The Sun,Spyro Gyra,-1,82,1
+83,Goin' On,The Beach Boys,84,83,2
+84,Twilight Zone/Twilight Tone,The Manhattan Transfer,-1,84,1
+85,Say Goodbye To Little Jo,Steve Forbert,89,85,2
+86,Two Places At The Same Time,Ray Parker Jr. & Raydio,-1,86,1
+87,Rock Lobster,The B-52s,-1,87,1
+88,Don't Cry For Me Argentina,Festival,92,72,7
+89,Coming Down From Love,Bobby Caldwell,-1,89,1
+90,New Romance (It's A Mystery),Spider,-1,90,1
+91,You Are My Heaven,Roberta Flack With Donny Hathaway,47,47,10
+92,"Yes, I'm Ready",Teri DeSario With K.C.,45,2,23
+93,Do That To Me One More Time,Captain & Tennille,53,1,27
+94,I Was Looking For Someone To Love,Leif Garrett,98,94,2
+95,Come Back,The J. Geils Band,54,32,12
+96,A Certain Girl,Warren Zevon,57,57,7
+97,Today Is The Day,Bar-Kays,60,60,5
+98,Seasons,Grace Slick,-1,98,1
+99,Heartbreaker,Pat Benatar,40,23,18
+100,Love On A Shoestring,Captain & Tennille,71,55,7

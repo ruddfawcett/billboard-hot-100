@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Love Me Do,The Beatles,2,1,8
+2,Chapel Of Love,The Dixie Cups,4,2,5
+3,My Guy,Mary Wells,1,1,9
+4,Love Me With All Your Heart (Cuando Calienta El Sol),The Ray Charles Singers,5,4,8
+5,"Hello, Dolly!",Louis Armstrong And The All Stars,3,1,16
+6,(Just Like) Romeo & Juliet,The Reflections,7,6,8
+7,A World Without Love,Peter And Gordon,10,7,4
+8,Little Children,Billy J. Kramer With The Dakotas,11,8,7
+9,It's Over,Roy Orbison,9,9,8
+10,Walk On By,Dionne Warwick,16,10,6
+11,P.S. I Love You,The Beatles,15,11,4
+12,Do You Love Me,The Dave Clark Five,18,12,5
+13,Ronnie,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",8,6,8
+14,Bits And Pieces,The Dave Clark Five,6,4,9
+15,Cotton Candy,Al Hirt,22,15,8
+16,People,Barbra Streisand,26,16,9
+17,Every Little Bit Hurts,Brenda Holloway,33,17,5
+18,I'm So Proud,The Impressions,14,14,9
+19,Do You Want To Know A Secret,The Beatles,12,2,10
+20,Diane,The Bachelors,27,20,7
+21,Wish Someone Would Care,Irma Thomas,17,17,10
+22,I Don't Want To Be Hurt Anymore,Nat King Cole,25,22,6
+23,Dead Man's Curve,Jan & Dean,13,8,13
+24,Once Upon A Time,Marvin Gaye & Mary Wells,32,24,5
+25,Shangri-La,Robert Maxwell His Harp And Orchestra,21,15,11
+26,The Very Thought Of You,Rick Nelson,28,26,6
+27,Today,The New Christy Minstrels,35,27,7
+28,White On White,Danny Williams,19,9,13
+29,What'd I Say,Elvis Presley With The Jubilee Four And Carole Lombard Quartet,50,29,2
+30,Tell Me Why,Bobby Vinton,68,30,2
+31,Three Window Coupe,The Rip Chords,39,31,6
+32,Be Anything (But Be Mine),Connie Francis,42,32,4
+33,Viva Las Vegas,Elvis Presley With The Jordanaires,46,33,4
+34,Kiss Me Quick,Elvis Presley With The Jordanaires,34,34,5
+35,Wrong For Each Other,Andy Williams,37,35,7
+36,Goodbye Baby (Baby Goodbye),Solomon Burke,36,36,7
+37,Don't Let The Rain Come Down (Crooked Little Man),The Serendipity Singers,20,6,14
+38,Tall Cool One,The Wailers,45,36,21
+39,Whenever He Holds You,Bobby Goldsboro,40,39,7
+40,Tears And Roses,Al Martino,52,40,3
+41,Suspicion,Terry Stafford,24,3,15
+42,Can't Buy Me Love,The Beatles,23,1,10
+43,"I Rise, I Fall",Johnny Tillotson,48,43,5
+44,Shangri-La,Vic Dana,31,27,10
+45,I Get Around,The Beach Boys,76,45,2
+46,Good Golly Miss Molly,The Swinging Blue Jeans,53,46,4
+47,Don't Let The Sun Catch You Crying,Gerry And The Pacemakers,87,47,2
+48,My Boy Lollipop,Millie Small,90,48,2
+49,I'll Touch A Star,Terry Stafford,79,49,2
+50,Sugar And Spice,The Searchers,62,50,5
+51,Gonna Get Along Without You Now,Skeeter Davis,55,51,5
+52,I Don't Wanna Be A Loser,Lesley Gore,75,52,2
+53,Gonna' Get Along Without You Now,Tracey Dey,59,53,6
+54,I Knew It All The Time,The Dave Clark Five,58,54,6
+55,What's The Matter With You Baby,Marvin Gaye & Mary Wells,63,55,3
+56,Rock Me Baby,B.B. King,57,56,4
+57,Too Late To Turn Back Now,Brook Benton,77,57,4
+58,One Way Love,The Drifters,60,58,5
+59,Hurt By Love,Inez Foxx,54,54,6
+60,Tea For Two,Nino Tempo & April Stevens,56,56,5
+61,Another Cup Of Coffee,Brook Benton,64,61,3
+62,Donnie,The Bermudas,67,62,7
+63,Party Girl,Bernadette Carroll,69,63,3
+64,Yesterday's Hero,Gene Pitney,74,64,4
+65,Soul Serenade,King Curtis,51,51,12
+66,Giving Up,Gladys Knight And The Pips,70,66,4
+67,One Girl,Garnet Mimms,78,67,3
+68,The Loneliest Night,Dale & Grace,65,65,5
+69,Don't Throw Your Love Away,The Searchers,-1,69,1
+70,Carol,Tommy Roe,61,61,6
+71,Bad To Me,Billy J. Kramer With The Dakotas,-1,71,1
+72,Yesterday's Gone,Chad & Jeremy,92,72,2
+73,The French Song,Lucille Starr,86,73,3
+74,Beans In My Ears,The Serendipity Singers,89,74,2
+75,The World Of Lonely People,Anita Bryant,80,75,3
+76,What Have I Got Of My Own,Trini Lopez,82,76,4
+77,"Winkin', Blinkin' And Nod",The Simon Sisters,73,73,6
+78,No Particular Place To Go,Chuck Berry,100,78,2
+79,Milord,Bobby Darin,88,79,3
+80,I'll Be In Trouble,The Temptations,-1,80,1
+81,From Russia With Love,The Village Stompers,81,81,6
+82,Not Fade Away,The Rolling Stones,83,82,5
+83,Rules Of Love,The Orlons,84,83,3
+84,"Hickory, Dick And Doc",Bobby Vee,-1,84,1
+85,Tell Me Mamma,Christine Quaite,95,85,2
+86,A World Without Love,Bobby Rydell,-1,86,3
+87,Yesterday's Gone,The Overlanders,98,87,2
+88,Memphis,Johnny Rivers,-1,88,1
+89,The World I Used To Know,Jimmie Rodgers,-1,89,1
+90,Be My Girl,The Four-Evers,-1,90,1
+91,Tequila,Bill Black's Combo,91,91,3
+92,Beg Me,Chuck Jackson,93,92,2
+93,Don't Worry Baby,The Beach Boys,-1,93,1
+94,My Baby Don't Dig Me,Ray Charles and his Orchestra,-1,94,1
+95,I Wanna Be Loved,Dean And Jean,-1,95,1
+96,The First Night Of The Full Moon,Jack Jones,-1,96,1
+97,Kick That Little Foot Sally Ann,Round Robin,-1,97,1
+98,Across The Street,Lenny O'Henry,-1,98,1
+99,Let's Have A Party,The Rivieras,-1,99,1
+100,Everybody Knows,Steve Lawrence,-1,100,1

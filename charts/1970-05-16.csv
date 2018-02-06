@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,American Woman/No Sugar Tonight,The Guess Who,1,1,9
+2,ABC,Jackson 5,2,1,10
+3,Vehicle,The Ides Of March,4,3,8
+4,Let It Be,The Beatles,3,1,9
+5,Cecilia,Simon & Garfunkel,14,5,6
+6,Spirit In The Sky,Norman Greenbaum,5,3,12
+7,Everything Is Beautiful,Ray Stevens,7,7,7
+8,Turn Back The Hands Of Time,Tyrone Davis,9,8,9
+9,Up Around The Bend/Run Through The Jungle,Creedence Clearwater Revival,13,9,4
+10,Reflections Of My Life,The Marmalade,10,10,10
+11,Woodstock,"Crosby, Stills, Nash & Young",11,11,8
+12,Love On A Two-Way Street,The Moments,16,12,6
+13,For The Love Of Him,Bobbi Martin,15,13,10
+14,Something's Burning,Kenny Rogers & The First Edition,12,11,14
+15,Love Or Let Me Be Lonely,The Friends Of Distinction,6,6,11
+16,Get Ready,Rare Earth,19,16,10
+17,Which Way You Goin' Billy?,The Poppy Family (Featuring Susan Jacks),23,17,8
+18,Instant Karma (We All Shine On),John Ono Lennon,8,3,12
+19,Make Me Smile,Chicago,25,19,7
+20,What Is Truth,Johnny Cash,20,20,6
+21,The Letter,Joe Cocker with Leon Russell & The Shelter People,26,21,5
+22,Up The Ladder To The Roof,The Supremes,17,10,11
+23,Daughter Of Darkness,Tom Jones,31,23,3
+24,Love Grows (Where My Rosemary Goes),Edison Lighthouse,22,5,13
+25,Come Saturday Morning,The Sandpipers,36,25,14
+26,Puppet Man,The 5th Dimension,34,26,5
+27,Little Green Bag,George Baker Selection,27,27,9
+28,Reach Out And Touch (Somebody's Hand),Diana Ross,30,28,4
+29,Come And Get It,Badfinger,18,7,15
+30,Viva Tirado - Part I,El Chicano,35,30,6
+31,Airport Love Theme (Gwen And Vern),Vincent Bell,32,31,6
+32,Everybody's Out Of Town,B.J. Thomas,29,26,8
+33,Soolaimón (African Trilogy II),Neil Diamond,57,33,3
+34,Tennessee Bird Walk,Jack Blanchard & Misty Morgan,28,23,12
+35,Hey Lawdy Mama,Steppenwolf,38,35,6
+36,Hitchin' A Ride,Vanity Fare,42,36,9
+37,Let Me Go To Him,Dionne Warwick,39,37,5
+38,Long Lonesome Highway,Michael Parks,33,20,12
+39,Lay Down (Candles In The Rain),Melanie with The Edwin Hawkins Singers,62,39,4
+40,Oh Happy Day,Glen Campbell,40,40,6
+41,My Baby Loves Lovin',White Plains,58,41,5
+42,United We Stand,The Brotherhood Of Man,51,42,5
+43,Brother Rapp (Part 1),James Brown,60,43,3
+44,The Girls' Song,The 5th Dimension,43,43,7
+45,The Seeker,The Who,47,45,5
+46,Miss America,Mark Lindsay,44,44,7
+47,It's All In The Game,Four Tops,76,47,4
+48,Don't Stop Now/Since I Don't Have You,Eddie Holman,48,48,7
+49,"Sugar Sugar/Cole, Cooke & Redding",Wilson Pickett,67,49,3
+50,Come Running,Van Morrison,49,39,7
+51,Love Land,Charles Wright And The Watts 103rd Street Rhythm Band,53,51,6
+52,Chicken Strut,The Meters,50,50,7
+53,Question,The Moody Blues,78,53,3
+54,Hum A Song (From Your Heart),Lulu with The Dixie Flyers,55,54,4
+55,Cinnamon Girl,The Gentrys,64,55,5
+56,The Onion Song/California Soul,Marvin Gaye & Tammi Terrell,59,56,5
+57,Band Of Gold,Freda Payne,66,57,4
+58,Ticket To Ride,Carpenters,54,54,12
+59,(You've Got Me) Dangling On A String,Chairman Of The Board,80,59,3
+60,"My Wife, The Dancer",Eddie & Dutch,52,52,7
+61,Ride Captain Ride,Blues Image,85,61,2
+62,Baby Hold On,The Grass Roots,79,62,2
+63,Mississippi Queen,Mountain,65,63,5
+64,Farther On Down The Road,Joe Simon,74,64,5
+65,Open Up My Heart/Nadine,The Dells,72,65,5
+66,The Wonder Of You/Mama Liked The Roses,Elvis Presley,-1,66,1
+67,You Make Me Real/Roadhouse Blues,The Doors,56,50,6
+68,So Excited,B.B. King,61,54,6
+69,Deeper (In Love With You),The O'Jays,69,64,7
+70,Grover Henson Feels Forgotten,Bill Cosby,73,70,3
+71,Welfare Cadilac,Guy Drake,77,63,13
+72,"Whoever Finds This, I Love You",Mac Davis,-1,72,1
+73,Into The Mystic,Johnny Rivers,90,73,2
+74,My Way,Brook Benton,81,74,5
+75,I Can't Leave Your Love Alone,Clarence Carter,83,75,6
+76,Check Out Your Mind,The Impressions,-1,76,1
+77,Come To Me,Tommy James And The Shondells,-1,77,1
+78,I Call My Baby Candy,The Jaggerz,92,78,2
+79,Killer Joe,Quincy Jones,-1,79,1
+80,Go Back,Crabby Appleton,86,80,2
+81,"Hey, Mister Sun",Bobby Sherman,-1,81,1
+82,Baby I Love You,Little Milton,91,82,2
+83,Mississippi,John Phillips,-1,83,1
+84,Lucifer,Bob Seger System,84,84,5
+85,So Much Love,"Faith, Hope And Charity",-1,85,1
+86,"Darkness, Darkness",The Youngbloods,89,86,3
+87,Red Red Wine,Vic Dana,-1,87,1
+88,Get Down People,Fabulous Counts,88,88,4
+89,Them Changes,Buddy Miles & The Freedom Express,87,87,3
+90,And My Heart Sang (Tra La La),Brenda & The Tabulations,100,90,2
+91,Let This Be A Letter (To My Baby),Jackie Wilson,-1,91,1
+92,Sweet Feeling,Candi Staton,96,92,2
+93,Tobacco Road,Jamul,93,93,2
+94,Patch Of Blue,Frankie Valli & The 4 Seasons,94,94,2
+95,If You Do Believe In Love,The Tee Set,95,95,2
+96,She Didn't Know (She Kept On Talking),Dee Dee Warwick,99,96,2
+97,I Want To (Do Everything For You),The Raelettes,-1,97,1
+98,Cottage Cheese,CROW,-1,98,1
+99,That Same Old Feeling,The Fortunes,-1,99,1
+100,That Same Old Feeling,Pickettywitch,-1,100,1

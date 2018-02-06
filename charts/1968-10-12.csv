@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hey Jude,The Beatles,1,1,5
+2,Harper Valley P.T.A.,Jeannie C. Riley,2,1,8
+3,Fire,The Crazy World Of Arthur Brown,3,3,6
+4,Little Green Apples,O.C. Smith,4,4,9
+5,Girl Watcher,The O'Kaysions,5,5,9
+6,Midnight Confessions,The Grass Roots,17,6,7
+7,My Special Angel,The Vogues,18,7,6
+8,I've Gotta Get A Message To You,Bee Gees,8,8,9
+9,Over You,Gary Puckett And The Union Gap,25,9,4
+10,Slip Away,Clarence Carter,6,6,14
+11,Time Has Come Today,The Chambers Brothers,11,11,10
+12,People Got To Be Free,The Rascals,7,1,13
+13,I Say A Little Prayer,Aretha Franklin,10,10,9
+14,Say It Loud - I'm Black And I'm Proud (Part 1),James Brown,14,14,6
+15,Revolution,The Beatles,12,12,5
+16,Hush,Deep Purple,16,4,9
+17,Suzie Q. (Part One),Creedence Clearwater Revival,26,17,6
+18,Those Were The Days,Mary Hopkin,54,18,3
+19,Piece Of My Heart,Big Brother And The Holding Company,24,19,7
+20,(The Lament Of The Cherokee) Indian Reservation,Don Fardon,20,20,7
+21,On The Road Again,Canned Heat,21,16,10
+22,The Fool On The Hill,Sergio Mendes & Brasil '66,13,6,10
+23,"1, 2, 3, Red Light",1910 Fruitgum Co.,9,5,12
+24,Elenore,The Turtles,44,24,4
+25,Light My Fire,Jose Feliciano,19,3,12
+26,Shape Of Things To Come,Max Frost And The Troopers,36,26,6
+27,The Snake,Al Wilson,27,27,9
+28,"Hey, Western Union Man",Jerry Butler,29,28,7
+29,All Along The Watchtower,The Jimi Hendrix Experience ,31,29,4
+30,The House That Jack Built,Aretha Franklin,15,6,9
+31,Hip City - Pt. 2,Jr. Walker & The All Stars,35,31,10
+32,In-A-Gadda-Da-Vida,Iron Butterfly,32,32,8
+33,You're All I Need To Get By,Marvin Gaye & Tammi Terrell,22,7,12
+34,"Baby, Come Back",The Equals,34,34,6
+35,Help Yourself,Tom Jones,39,35,7
+36,Fool For You,The Impressions,37,36,6
+37,I Met Her In Church,The Box Tops,42,37,5
+38,Hold Me Tight,Johnny Nash,38,38,5
+39,Who Is Gonna Love Me?,Dionne Warwick,33,33,8
+40,Break Your Promise,The Delfonics,40,40,7
+41,I Wish It Would Rain,Gladys Knight And The Pips,41,41,8
+42,Special Occasion,Smokey Robinson & The Miracles,28,26,9
+43,Down On Me,Big Brother And The Holding Company,47,43,7
+44,Poor Baby,The Cowsills,52,44,5
+45,"Shoot'em Up, Baby",Andy Kim,46,45,6
+46,Court Of Love,The Unifics,56,46,4
+47,Chained,Marvin Gaye,50,47,5
+48,Street Fighting Man,The Rolling Stones,48,48,6
+49,I Found A True Love,Wilson Pickett,49,49,4
+50,White Room,Cream,58,50,2
+51,Do The Choo Choo,Archie Bell & The Drells,59,51,3
+52,Sweet Blindness,The 5th Dimension,62,52,3
+53,Naturally Stoned,The Avant-Garde,53,53,7
+54,Gentle On My Mind,Glen Campbell,64,54,12
+55,I've Got Dreams To Remember,Otis Redding,57,55,3
+56,Magic Carpet Ride,Steppenwolf,86,56,2
+57,Lalena,Donovan,73,57,2
+58,Take Me For A Little While,Vanilla Fudge,84,58,2
+59,Don't Change Your Love,Five Stairsteps & Cubie,60,59,8
+60,Bang-Shang-A-Lang,The Archies,71,60,3
+61,The Funky Judge,Bull & The Matadors,61,61,8
+62,Brown Eyed Woman,Bill Medley,43,43,11
+63,Fly Me To The Moon,Bobby Womack,63,63,9
+64,The Weight,Jackie DeShannon,55,55,8
+65,Peace Of Mind,Nancy Wilson,69,65,3
+66,Workin' On A Groovy Thing,Patti Drew,65,62,11
+67,I Ain't Got To Love Nobody Else,The Masqueraders,67,67,3
+68,Horse Fever,Cliff Nobles & Co.,68,68,5
+69,Keep On Lovin' Me Honey,Marvin Gaye & Tammi Terrell,-1,69,1
+70,Ice In The Sun,The Status Quo,72,70,3
+71,Puffin' On Down The Track,Hugh Masekela,74,71,3
+72,I'm In A Different World,Four Tops,98,72,2
+73,The Weight,The Band,66,63,7
+74,Listen Here,Eddie Harris,45,45,13
+75,Message From Maria,Joe Simon,75,75,3
+76,Destination: Anywhere,The Marvelettes,76,76,2
+77,Always Together,The Dells,-1,77,1
+78,Smell Of Incense,Southwest F.O.B.,99,78,2
+79,I Love You Madly,Fantastic Four,79,79,4
+80,"Oh Lord, Why Lord",Los Pop Tops,80,80,3
+81,For The Love Of Ivy,The Mamas & The Papas,81,81,5
+82,Hitchcock Railway,Jose Feliciano,-1,82,1
+83,A Little Less Conversation,Elvis Presley With The Jordanaires,-1,83,1
+84,Alfie,Eivets Rednow,85,84,2
+85,Cinderella Sunshine,Paul Revere & The Raiders Featuring Mark Lindsay,-1,85,1
+86,Quick Joey Small (Run Joey Run),Kasenetz-Katz Singing Orchestral Circus,89,86,2
+87,On The Way Home,The Buffalo Springfield,-1,87,1
+88,You Got The Love,Professor Morrison's Lollipop,88,88,2
+89,Porpoise Song,The Monkees,-1,89,1
+90,You Put It On Me,B.B. King,90,90,2
+91,"The Biplane, Ever More",The Irish Rovers,92,91,5
+92,Up-Hard,Willie Mitchell,93,92,2
+93,Harper Valley P.T.A.,King Curtis & The Kingpins,-1,93,1
+94,Cycles,Frank Sinatra,-1,94,1
+95,Nitty Gritty,Ricardo Ray,97,95,2
+96,Baroque-A-Nova,Mason Williams,-1,96,1
+97,Little Arrows,Leapy Lee,-1,97,1
+98,Do Something To Me,Tommy James And The Shondells,-1,98,1
+99,"You Need Me, Baby",Joe Tex,-1,99,1
+100,Ride My See-Saw,The Moody Blues,-1,100,1

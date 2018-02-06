@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Car Wash,Rose Royce,2,1,15
+2,I Wish,Stevie Wonder,1,1,9
+3,Dazz,Brick,4,3,15
+4,You Make Me Feel Like Dancing,Leo Sayer,3,1,15
+5,Hot Line,The Sylvers,6,5,17
+6,New Kid In Town,Eagles,7,6,7
+7,Torn Between Two Lovers,Mary Macgregor,10,7,11
+8,Blinded By The Light,Manfred Mann's Earth Band,9,8,11
+9,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,20,9,8
+10,Walk This Way,Aerosmith,12,10,11
+11,Enjoy Yourself,The Jacksons,15,11,12
+12,Lost Without Your Love,Bread,14,12,10
+13,Somebody To Love, Queen,13,13,10
+14,I Like Dreamin',Kenny Nolan,16,14,13
+15,Fly Like An Eagle,Steve Miller,18,15,7
+16,Weekend In New England,Barry Manilow,21,16,10
+17,Jeans On,David Dundas,18,17,17
+18,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",5,1,21
+19,After The Lovin',Engelbert Humperdinck,8,8,15
+20,Hard Luck Woman,KISS,25,20,7
+21,Saturday Nite,"Earth, Wind & Fire",22,21,11
+22,Tonight's The Night (Gonna Be Alright),Rod Stewart,11,1,18
+23,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,27,23,10
+24,Year Of The Cat,Al Stewart,36,24,8
+25,Night Moves,Bob Seger,29,25,8
+26,Dancing Queen,ABBA,33,26,8
+27,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,28,27,13
+28,Livin' Thing,Electric Light Orchestra,17,13,15
+29,Stand Tall,Burton Cummings,24,10,17
+30,Don't Leave Me This Way,Thelma Houston,43,30,7
+31,Save It For A Rainy Day,Stephen Bishop,35,31,8
+32,Go Your Own Way,Fleetwood Mac,38,32,4
+33,Sorry Seems To Be The Hardest Word,Elton John,23,6,12
+34,I Never Cry,Alice Cooper,26,12,25
+35,You've Got Me Runnin',Gene Cotton,37,35,9
+36,Living Next Door To Alice,Smokie,40,36,9
+37,It Keeps You Runnin',The Doobie Brothers,39,37,12
+38,Boogie Child,Bee Gees,57,38,3
+39,I Like To Do It,KC And The Sunshine Band,41,39,9
+40,The Things We Do For Love,10cc,50,40,4
+41,In The Mood,Henhouse Five Plus Too,51,41,4
+42,Moody Blue/she Thinks I Still Care,Elvis Presley,46,42,6
+43,Dreamboat Annie,Heart,44,43,7
+44,Do It To My Mind,Johnny Bristol,47,44,10
+45,Carry On Wayward Son,Kansas,55,45,6
+46,Someone To Lay Down Beside Me,Linda Ronstadt,42,42,9
+47,The Rubberband Man,The Spinners,30,2,21
+48,What Can I Say,Boz Scaggs,49,42,11
+49,Baby Don't You Know,Wild Cherry,59,49,3
+50,Love Me,Yvonne Elliman,34,14,18
+51,Muskrat Love,Captain & Tennille,45,4,19
+52,Spring Affair/Winter Melody,Donna Summer,58,52,7
+53,"Do What You Want, Be What You Are",Daryl Hall John Oates,52,39,14
+54,Drivin' Wheel,Foghat,53,34,10
+55,Open Sesame - Part 1,Kool & The Gang,61,55,13
+56,Love So Right,Bee Gees,56,3,20
+57,Fancy Dancer,Commodores,68,57,4
+58,Say You'll Stay Until Tomorrow,Tom Jones,70,58,4
+59,Shake Your Rump To The Funk,The Bar-Kays,31,23,16
+60,Free,Deniece Williams,62,60,8
+61,Ha Cha Cha (funktion),Brass Construction,73,61,6
+62,Long Time,Boston,-1,62,1
+63,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,67,63,3
+64,This Song,George Harrison,32,25,11
+65,"Baby, You Look Good To Me Tonight",John Denver,69,65,6
+66,Crackerbox Palace,George Harrison,-1,66,1
+67,Be My Girl,The Dramatics,74,67,4
+68,When Love Is New,Arthur Prysock,71,68,6
+69,C.b. Savage,Rod Hart,72,69,6
+70,Happier,Paul Anka,60,60,7
+71,Rich Girl,Daryl Hall John Oates,81,71,2
+72,Sam,Olivia Newton-John,-1,72,1
+73,I Just Can't Say No To You,Parker McGee,84,73,2
+74,Don't Give Up On Us,David Soul,-1,74,1
+75,Daddy Cool,Boney M,87,75,2
+76,"Darlin' Darlin' Baby (Sweet, Tender, Love)",The O'Jays,80,76,2
+77,Hail! Hail! Rock And Roll!,Starland Vocal Band,79,77,4
+78,Shakey Ground,Phoebe Snow,88,78,2
+79,Feel The Beat (Everybody Disco),Ohio Players,-1,79,1
+80,I Don't Wanna Lose Your Love/Flowers,The Emotions,82,80,3
+81,Right Time Of The Night,Jennifer Warnes,-1,81,1
+82,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",83,82,2
+83,You Know Like I Know,Ozark Mountain Daredevils,85,83,2
+84,I've Got Love On My Mind,Natalie Cole,-1,84,1
+85,Reach,Orleans,-1,85,1
+86,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,91,86,4
+87,If Not You,Dr. Hook,89,55,10
+88,Fly By Night/In The Mood,Rush,92,88,4
+89,So In To You,Atlanta Rhythm Section,-1,89,1
+90,Hey Baby,Ringo Starr,-1,90,1
+91,Gloria,Enchantment,-1,91,1
+92,Up Your Nose,Gabriel Kaplan,100,92,2
+93,Love Ballad,L.T.D.,78,20,18
+94,Theme From King Kong (Pt. I),Love Unlimited Orchestra,99,94,2
+95,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,97,94,6
+96,Spring Rain,Silvetti,96,96,2
+97,Sorry/That's The Trouble,Grace Jones,98,97,2
+98,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,94,1,25
+99,Turn Loose Of My Leg,Jim Stafford,-1,99,1
+100,Love To The World,L.T.D.,-1,100,1

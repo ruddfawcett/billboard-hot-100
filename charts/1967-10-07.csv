@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Letter,The Box Tops,1,1,9
+2,Never My Love,The Association,3,2,7
+3,Ode To Billie Joe,Bobbie Gentry,2,1,10
+4,Come Back When You Grow Up,Bobby Vee And The Strangers,4,3,12
+5,Little Ole Man (Uptight-Everything's Alright),Bill Cosby,13,5,6
+6,(Your Love Keeps Lifting Me) Higher And Higher,Jackie Wilson,7,6,9
+7,Reflections,Diana Ross & The Supremes,5,2,9
+8,"Apples, Peaches, Pumpkin Pie",Jay And The Techniques,6,6,13
+9,How Can I Be Sure,The Young Rascals,14,9,5
+10,Gimme Little Sign,Brenton Wood,11,10,9
+11,To Sir With Love,Lulu,22,11,5
+12,I Dig Rock And Roll Music,"Peter, Paul & Mary",9,9,8
+13,Brown Eyed Girl,Van Morrison,10,10,13
+14,Funky Broadway,Wilson Pickett,8,8,10
+15,Dandelion,The Rolling Stones,20,15,5
+16,Get On Up,The Esquires,27,16,8
+17,Expressway (To Your Heart),Soul Survivors,28,17,6
+18,I Make A Fool Of Myself,Frankie Valli,19,18,7
+19,Hey Baby (They're Playing Our Song),The Buckinghams,24,19,5
+20,Soul Man,Sam & Dave,40,20,5
+21,Groovin',Booker T. & The MG's,21,21,10
+22,You Know What I Mean,The Turtles,12,12,10
+23,Your Precious Love,Marvin Gaye & Tammi Terrell,31,23,5
+24,You Keep Running Away,Four Tops,32,24,4
+25,Love Bug Leave My Heart Alone,Martha & The Vandellas,25,25,8
+26,The Cat In The Window (The Bird In The Sky),Petula Clark,26,26,6
+27,You're My Everything,The Temptations,15,6,11
+28,Gettin' Together,Tommy James And The Shondells,18,18,7
+29,It Must Be Him,Vikki Carr,38,29,6
+30,What Now My Love,Mitch Ryder,37,30,5
+31,Let Love Come Between Us,James & Bobby Purify,41,31,5
+32,People Are Strange,The Doors,44,32,3
+33,Lightning's Girl,Nancy Sinatra,45,33,3
+34,Memphis Soul Stew,King Curtis,35,34,7
+35,In The Heat Of The Night,Ray Charles,33,33,7
+36,A Banda (Ah Bahn-da),Herb Alpert & The Tijuana Brass,36,36,5
+37,San Franciscan Nights,Eric Burdon & The Animals,29,9,10
+38,A Natural Woman (You Make Me Feel Like),Aretha Franklin,70,38,2
+39,Ode To Billie Joe,The Kingpins,57,39,3
+40,Let It Out (Let It All Hang Out),The Hombres,63,40,4
+41,The Look Of Love,Dusty Springfield,52,41,9
+42,Child Of Clay,Jimmie Rodgers,56,42,3
+43,Anything Goes,Harpers Bizarre,43,43,8
+44,I Had A Dream,Paul Revere & The Raiders Featuring Mark Lindsay,17,17,8
+45,There Is A Mountain,Donovan,16,11,9
+46,Knock On Wood,Otis & Carla,30,30,9
+47,Ballad Of You & Me & Pooneil,Jefferson Airplane,42,42,6
+48,The Last Waltz,Engelbert Humperdinck,59,48,3
+49,You've Got To Pay The Price,Al Kent,49,49,8
+50,We Love You,The Rolling Stones,51,50,4
+51,Please Love Me Forever,Bobby Vinton,72,51,2
+52,Love Is Strange,Peaches & Herb,69,52,2
+53,Casonova (Your Playing Days Are Over),Ruby Andrews,53,51,7
+54,Why Do Fools Fall In Love,The Happenings,64,54,3
+55,Put Your Mind At Ease,Every Mothers' Son,46,46,7
+56,I'll Never Fall In Love Again,Tom Jones,61,56,5
+57,Take A Look,Aretha Franklin,60,57,6
+58,Holiday,Bee Gees,84,58,2
+59,Incense And Peppermints,Strawberry Alarm Clock,88,59,2
+60,Even The Bad Times Are Good,The Tremeloes,81,60,2
+61,I'm Wondering,Stevie Wonder,-1,61,1
+62,"The Rain, The Park & Other Things",The Cowsills,90,62,2
+63,Sunshine Games,The Music Explosion,65,63,5
+64,It's Got To Be Mellow,Leon Haywood,67,64,8
+65,More Than The Eye Can See,Al Martino,73,65,3
+66,For What It's Worth,The Staple Singers,79,66,3
+67,Get Together,The Youngbloods,68,67,6
+68,Everlasting Love,Robert Knight,83,68,2
+69,Rock 'N' Roll Woman,The Buffalo Springfield,71,69,2
+70,Turn The World Around,Eddy Arnold,66,66,8
+71,You've Made Me So Very Happy,Brenda Holloway,74,71,5
+72,Purple Haze,The Jimi Hendrix Experience,76,72,5
+73,King Midas In Reverse,The Hollies,-1,73,1
+74,Fall In Love With Me,Bettye Swann,77,74,3
+75,Baby I'm Lonely,The Intruders,75,75,4
+76,To Share Your Love,Fantastic Four,80,76,3
+77,Stranded In The Middle Of Noplace,The Righteous Brothers,95,77,2
+78,Judy,Elvis Presley,78,78,5
+79,If This Is Love (I'd Rather Be Lonely),The Precisions,-1,79,1
+80,Just One Look,The Hollies,82,80,3
+81,Shout Bamalama,Mickey Murray,-1,81,1
+82,Hush,Billy Joe Royal,91,82,2
+83,Spreadin' Honey,The Watts 103rd Street Rhythm Band,89,83,5
+84,Dirty Man,Laura Lee,92,84,3
+85,Dancing In The Street,Ramsey Lewis,86,85,3
+86,Tell Him,Patti Drew,87,86,7
+87,Funky Donkey,Pretty Purdie,96,87,3
+88,Nine Pound Steel,Joe Simon,98,88,3
+89,Ode To Billy Joe,Ray Bryant,94,89,2
+90,What've I Done (To Make You Mad),Linda Jones,93,90,2
+91,Heart Be Still,Lorraine Ellison,-1,91,1
+92,Peas 'N' Rice,Freddie McCoy,-1,92,1
+93,Pata Pata,Miriam Makeba,-1,93,1
+94,Boogaloo Down Broadway,The Fantastic Johnny C,-1,94,1
+95,"You, No One But You",Frankie Laine,-1,95,1
+96,"Beg, Borrow And Steal",Ohio Express,-1,96,1
+97,I'm A Fool For You,James Carr,99,97,3
+98,When The Snow Is On The Roses,Ed Ames,100,98,2
+99,Walkin' Proud,The Pete Klint Quintet,-1,99,1
+100,You Mean The World To Me,David Houston,-1,100,1

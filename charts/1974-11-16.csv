@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Whatever Gets You Thru The Night,John Lennon With The Plastic Ono Nuclear Band,3,1,8
+2,Do It ('til You're Satisfied),B.T. Express,7,2,8
+3,My Melody Of Love,Bobby Vinton,6,3,9
+4,Tin Man,America,4,4,13
+5,Back Home Again,John Denver,5,5,9
+6,I Can Help,Billy Swan,15,6,8
+7,Longfellow Serenade,Neil Diamond,13,7,7
+8,Life Is A Rock (But The Radio Rolled Me),Reunion,9,8,11
+9,Everlasting Love,Carl Carlton,11,9,9
+10,Carefree Highway,Gordon Lightfoot,10,10,12
+11,Jazzman,Carole King,2,2,12
+12,You Ain't Seen Nothing Yet/Free Wheelin',Bachman-Turner Overdrive,1,1,9
+13,The Need To Be,Jim Weatherly,14,13,10
+14,The Bitch Is Back,Elton John,8,4,11
+15,Love Don't Love Nobody - Pt. I,The Spinners,17,15,9
+16,When Will I See You Again,The Three Degrees,20,16,8
+17,I've Got The Music In Me,The Kiki Dee Band,19,17,10
+18,Rockin' Soul,The Hues Corporation,22,18,6
+19,Wishing You Were Here,Chicago,25,19,5
+20,Angie Baby,Helen Reddy,26,20,5
+21,Sha-La-La (Make Me Happy),Al Green,27,21,8
+22,Cat's In The Cradle,Harry Chapin,29,22,7
+23,So You Are A Star,The Hudson Brothers,23,23,9
+24,People Gotta Move,Gino Vannelli,24,24,9
+25,After The Goldrush,Prelude,30,25,7
+26,You Got The Love,Rufus Featuring Chaka Khan,32,26,6
+27,Kung Fu Fighting,Carl Douglas,33,27,6
+28,You Haven't Done Nothin,Stevie Wonder,12,1,16
+29,Promised Land,Elvis Presley,37,29,4
+30,La La Peace Song,Al Wilson,38,30,7
+31,Touch Me,Fancy,42,31,6
+32,Fairytale,The Pointer Sisters,40,32,7
+33,Play Something Sweet (Brickyard Blues),Three Dog Night,34,33,8
+34,You Can Have Her,Sam Neely,36,34,9
+35,Doraville,Atlanta Rhythm Section,35,35,7
+36,"You're The First, The Last, My Everything",Barry White,46,36,3
+37,I Feel A Song (In My Heart)/Don't Burn Down The Bridge,Gladys Knight And The Pips,47,37,6
+38,Overnight Sensation (Hit Record),Raspberries,18,18,10
+39,Laughter In The Rain,Neil Sedaka,50,39,5
+40,Ain't Too Proud To Beg,The Rolling Stones,64,40,2
+41,The Black-Eyed Boys,Paper Lace,41,41,6
+42,Heavy Fallin' Out,The Stylistics,51,42,5
+43,Junior's Farm/Sally G,Paul McCartney And Wings,59,43,2
+44,Three Ring Circus,Blue Magic,55,44,5
+45,Woman To Woman,Shirley Brown,56,45,3
+46,In The Bottle,Brother To Brother,52,46,6
+47,Let's Straighten It Out,Latimore,58,47,4
+48,Willie And The Hand Jive,Eric Clapton,66,48,3
+49,Ride 'em Cowboy,Paul Davis,60,49,6
+50,Sugar Pie Guy Pt. 1,The Joneses,53,50,7
+51,Must Of Got Lost,The J. Geils Band,61,51,2
+52,Ask Me,"Ecstasy, Passion & Pain",62,52,5
+53,Do It Baby,The Miracles,21,13,13
+54,"Fire, Baby I'm On Fire",Andy Kim,65,54,4
+55,Distant Lover,Marvin Gaye,28,28,8
+56,Stop And Smell The Roses,Mac Davis,31,9,13
+57,"Whatever You Got, I Want",Jackson 5,68,57,4
+58,Nobody,The Doobie Brothers,69,58,3
+59,Can't Get Enough,Bad Company,16,5,14
+60,Bungle In The Jungle,Jethro Tull,71,60,3
+61,One Man Woman/One Woman Man,Paul Anka with Odia Coates,79,61,2
+62,Boogie On Reggae Woman,Stevie Wonder ,-1,62,1
+63,Only You,Ringo Starr,-1,63,1
+64,Dream On,The Righteous Brothers,75,64,2
+65,The Heartbreak Kid,Bo Donaldson And The Heywoods,-1,65,1
+66,Country Side Of Life,Wet Willie,70,66,4
+67,Mandy,Barry Manilow,-1,67,1
+68,You And I,Johnny Bristol,-1,68,1
+69,Never Can Say Goodbye,Gloria Gaynor,80,69,3
+70,Early Morning Love,Sammy Johns,76,69,6
+71,Someday,Dave Loggins,-1,71,1
+72,She's Gone,Tavares,74,72,7
+73,Give Me A Reason To Be Gone,Maureen McGovern,77,73,5
+74,Morning Side Of The Mountain,Donny & Marie Osmond,-1,74,1
+75,Mississippi Cotton Picking Delta Town,Charley Pride,-1,75,1
+76,Evil Boll-weevil,Grand Canyon,82,76,3
+77,Without Love, Aretha Franklin,-1,77,1
+78,Black Lassie (Featuring Johnny Stash),Cheech & Chong,89,78,2
+79,Then Came You,Dionne Warwicke & Spinners,39,1,17
+80,Sexy Ida (Part 1),Ike & Tina Turner,85,80,3
+81,Shoe Shoe Shine,Dynamic Superiors,88,81,3
+82,California My Way,The Main Ingredient,-1,82,1
+83,Funky President (People It's Bad)/Coldblooded,James Brown,94,83,2
+84,I Feel Sanctified,Commodores,-1,84,1
+85,Where Are All My Friends,Harold Melvin And The Blue Notes,96,85,2
+86,Just One Look,Anne Murray,90,86,2
+87,Steppin' Out (Gonna Boogie Tonight),Tony Orlando & Dawn,48,7,13
+88,Feel Like Making Love,Bob James,95,88,2
+89,Love Me For A Reason,The Osmonds,43,10,12
+90,U.S. Of A,Donna Fargo,93,90,2
+91,Ride The Tiger,Jefferson Starship,-1,91,1
+92,Sunshine Roses,Gene Cotton,-1,92,1
+93,Sweet Home Alabama,Lynyrd Skynyrd,44,8,17
+94,Let This Be A Lesson To You,The Independents,-1,94,1
+95,"Honey, Honey",ABBA,45,27,10
+96,I'll Be Your Everything,Percy Sledge,-1,96,1
+97,Easy Street,Edgar Winter Group,83,83,4
+98,I Can't Leave You Alone,George McCrae,54,50,6
+99,Skin Tight,Ohio Players,78,13,11
+100,I Honestly Love You,Olivia Newton-John,86,1,14

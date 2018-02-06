@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sunshine On My Shoulders,John Denver,3,1,10
+2,Hooked On A Feeling,Blue Swede,7,2,7
+3,Seasons In The Sun,Terry Jacks,2,1,12
+4,Bennie And The Jets,Elton John,6,4,7
+5,Dark Lady,Cher,1,1,11
+6,Mockingbird,Carly Simon & James Taylor,5,5,9
+7,Jet,Paul McCartney And Wings,8,7,8
+8,Come And Get Your Love,Redbone,11,8,12
+9,Eres Tu (Touch The Wind),Mocedades,9,9,12
+10,The Lord's Prayer,Sister Janet Mead,14,10,6
+11,Boogie Down,Eddie Kendricks,4,2,13
+12,TSOP (The Sound Of Philadelphia),MFSB Featuring The Three Degrees,16,12,5
+13,Jungle Boogie,Kool & The Gang,10,4,17
+14,Best Thing That Ever Happened To Me,Gladys Knight And The Pips,18,14,7
+15,Trying To Hold On To My Woman,Lamont Dozier,15,15,15
+16,Rock On,David Essex,12,5,21
+17,A Very Special Love Song,Charlie Rich,22,17,6
+18,There Won't Be Anymore,Charlie Rich,19,18,10
+19,Oh My My,Ringo Starr,28,19,4
+20,Lookin' For A Love,Bobby Womack,24,20,9
+21,Mighty Love - Pt. 1,The Spinners,20,20,10
+22,I'll Have To Say I Love You In A Song,Jim Croce,30,22,5
+23,The Way We Were,Barbra Streisand,13,1,19
+24,My Sweet Lady,Cliff DeYoung,17,17,13
+25,Spiders & Snakes,Jim Stafford,21,3,21
+26,Just Don't Want To Be Lonely,The Main Ingredient,32,26,9
+27,"Touch A Hand, Make A Friend",The Staple Singers,33,27,6
+28,"Rock And Roll, Hoochie Koo",Rick Derringer,23,23,11
+29,Love's Theme,Love Unlimited Orchestra,26,1,18
+30,Tell Me A Lie,Sami Jo,37,30,8
+31,Sexy Mama,The Moments,25,17,12
+32,Let It Ride,Bachman-Turner Overdrive,40,32,6
+33,Until You Come Back To Me (That's What I'm Gonna Do),Aretha Franklin,27,3,19
+34,Tubular Bells,Mike Oldfield,48,34,6
+35,Keep On Singing,Helen Reddy,43,35,4
+36,I'll Be The Other Woman,The Soul Children,38,36,7
+37,My Mistake (Was To Love You),Diana Ross & Marvin Gaye,45,37,6
+38,The Loco-Motion,Grand Funk,50,38,4
+39,I've Got A Thing About You Baby/Take Good Care Of Her,Elvis Presley,39,39,8
+40,Dancing Machine,Jackson 5,58,40,3
+41,Piano Man,Billy Joel,51,41,6
+42,Love Song,Anne Murray,31,12,16
+43,Star,Stealers Wheel,29,29,13
+44,"Honey Please, Can't Ya See",Barry White,49,44,6
+45,Outside Woman,Bloodstone,55,45,6
+46,Put Your Hands Together,The O'Jays,35,10,15
+47,Last Time I Saw Him,Diana Ross,41,14,13
+48,WOLD,Harry Chapin,36,36,13
+49,(i've Been) Searchin' So Long,Chicago,66,49,3
+50,We're Getting Careless With Our Love,Johnnie Taylor,34,34,10
+51,On A Night Like This,Bob Dylan,44,44,6
+52,Would You Lay With Me (in A Field Of Stone),Tanya Tucker,56,52,7
+53,Your Cash Ain't Nothin' But Trash,The Steve Miller Band,61,53,5
+54,Star Baby,The Guess Who,62,54,7
+55,Midnight At The Oasis,Maria Muldaur,63,55,6
+56,The Show Must Go On,Three Dog Night,72,56,3
+57,I'm A Train,Albert Hammond,67,57,5
+58,Homely Girl,The Chi-lites,54,54,8
+59,Thanks For Saving My Life,Billy Paul,59,48,10
+60,Must Be Love,The James Gang,65,60,9
+61,Virginia (Touch Me Like You Do),Bill Amesbury,64,61,7
+62,Help Me,Joni Mitchell,77,62,3
+63,The Payback - Part I,James Brown,81,63,2
+64,Mighty Mighty,"Earth, Wind & Fire",74,64,4
+65,Once You Understand,Think,75,65,4
+66,Touch And Go,Al Wilson,71,66,4
+67,Unborn Child,Seals & Crofts,70,67,5
+68,Oh Very Young,Cat Stevens,78,68,3
+69,Goin' Down Slow,"Bobby ""Blue"" Bland",69,69,5
+70,You Make Me Feel Brand New,The Stylistics,84,70,2
+71,Watching The River Run,Loggins & Messina,73,71,5
+72,She's Gone,Daryl Hall John Oates,60,60,8
+73,I Wish It Was Me,Tyrone Davis,57,57,9
+74,Heavenly,The Temptations,85,74,3
+75,Skybird,Neil Diamond,79,75,3
+76,Happiness Is Me And You,Gilbert O'Sullivan,87,76,2
+77,Dance With The Devil,Cozy Powell,83,77,3
+78,The Entertainer,"Marvin Hamlisch/""The Sting""",88,78,2
+79,Pepper Box,The Peppers,86,79,4
+80,Keep It In The Family,Leon Haywood,97,80,2
+81,All In Love Is Fair,Barbra Streisand,-1,81,1
+82,Summer Breeze (Part 1),The Isley Brothers,90,82,2
+83,She, Southcote,80,80,4
+84,Beyond The Blue Horizon,Lou Christie,92,80,7
+85,Best Thing That Ever Happened To Me,The Persuaders,91,85,5
+86,Rock Around The Clock,Bill Haley And His Comets,94,86,3
+87,Let's Get Married,Al Green,-1,87,1
+88,Chameleon,Herbie Hancock,96,88,2
+89,I Am What I Am,Lois Fletcher,-1,89,1
+90,Loving Arms,Kris Kristofferson & Rita Coolidge,98,90,2
+91,Might Just Take Your Life,Deep Purple,99,91,2
+92,Power Of Love,Martha Reeves,-1,92,1
+93,Put A Little Love Away,The Emotions,100,93,2
+94,Under The Influence Of Love,Love Unlimited,-1,94,1
+95,It Only Hurts When I Try To Smile,Dawn Featuring Tony Orlando,-1,95,1
+96,One Hell Of A Woman,Mac Davis,-1,96,1
+97,La Grange,ZZ Top,-1,97,1
+98,"If It Feels Good, Do It",Ian Lloyd & Stories,-1,98,1
+99,Werewolf,Five Man Electrical Band,-1,99,1
+100,Music Eyes,Heartsfield,95,95,5

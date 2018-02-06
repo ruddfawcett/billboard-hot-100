@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Top Of The World,Carpenters,1,1,10
+2,Goodbye Yellow Brick Road,Elton John,3,2,7
+3,The Most Beautiful Girl,Charlie Rich,10,3,11
+4,Just You 'n' Me,Chicago,6,4,11
+5,Photograph,Ringo Starr,2,1,10
+6,Space Race,Billy Preston,4,4,12
+7,The Whole Town's Laughing At Me,Teddy Pendergrass,8,7,11
+8,Hello It's Me,Todd Rundgren,11,8,10
+9,Keep On Truckin' (Part 1),Eddie Kendricks,5,1,16
+10,Leave Me Alone (ruby Red Dress),Helen Reddy,13,10,6
+11,Midnight Train To Georgia,Gladys Knight And The Pips,7,1,15
+12,If You're Ready (Come Go With Me),The Staple Singers,14,12,7
+13,Time In A Bottle,Jim Croce,18,13,4
+14,Heartbeat - It's A Lovebeat,The DeFranco Family featuring Tony DeFranco,9,3,14
+15,The Joker,The Steve Miller Band,22,15,8
+16,"Never, Never Gonna Give Ya Up",Barry White,20,16,7
+17,Let Me Serenade You,Three Dog Night,17,17,7
+18,Paper Roses,Marie Osmond,12,5,13
+19,My Music,Loggins & Messina,26,19,6
+20,Rockin' Roll Baby,The Stylistics,24,20,8
+21,I Got A Name,Jim Croce,16,10,10
+22,Come Get To This,Marvin Gaye,25,22,6
+23,Living For The City,Stevie Wonder ,29,23,5
+24,MIND GAMES,John Lennon,30,24,5
+25,Cheaper To Keep Her,Johnnie Taylor,15,15,9
+26,Angie,The Rolling Stones,19,1,14
+27,Show And Tell,Al Wilson,33,27,8
+28,You're A Special Part Of Me,Diana Ross & Marvin Gaye,21,12,10
+29,Who's In The Strawberry Patch With Sally,Tony Orlando & Dawn,32,29,5
+30,D'yer Mak'er,Led Zeppelin,36,30,8
+31,Helen Wheels,Paul McCartney And Wings,42,31,3
+32,All I Know,Garfunkel,23,9,13
+33,Smokin' In The Boy's Room,Brownsville Station,41,33,7
+34,Why Me,Kris Kristofferson,31,16,36
+35,I've Got To Use My Imagination,Gladys Knight And The Pips,50,35,3
+36,Be,Neil Diamond,34,34,7
+37,Knockin' On Heaven's Door,Bob Dylan,27,12,15
+38,Me And Baby Brother,War,44,38,5
+39,Corazón,Carole King,43,39,7
+40,Some Guys Have All The Luck,The Persuaders ,49,40,6
+41,Nutbush City Limits,Ike & Tina Turner,38,22,14
+42,Half-Breed,Cher,35,1,19
+43,Ooh Baby,Gilbert O'Sullivan,28,25,9
+44,Let Me Be There,Olivia Newton-John,60,44,4
+45,Until You Come Back To Me (That's What I'm Gonna Do),Aretha Franklin,69,45,3
+46,We May Never Pass This Way (Again),Seals & Crofts,37,21,12
+47,Fell For You,The Dramatics,45,45,7
+48,I Can't Stand The Rain,Ann Peebles,55,44,15
+49,Painted Ladies,Ian Thomas,53,49,7
+50,Mammy Blue,Stories,51,50,7
+51,Ramblin Man,The Allman Brothers Band,39,2,16
+52,Never Let You Go,Bloodstone,47,43,13
+53,I Found Sunshine,The Chi-lites,57,53,4
+54,Sweet Understanding Love,Four Tops,40,33,9
+55,When I Fall In Love/Are You Lonesome Tonight,Donny Osmond,72,55,3
+56,Tell Her She's Lovely,El Chicano,61,56,4
+57,This Time I'm Gone For Good,"Bobby ""Blue"" Bland",64,57,4
+58,Check It Out,Tavares,48,35,12
+59,Pretty Lady,Lighthouse,62,59,6
+60,Keep Your Head To The Sky,"Earth, Wind & Fire",74,60,4
+61,Spiders & Snakes,Jim Stafford,71,61,5
+62,"""Having A Party"" Medley",The Ovations (Featuring Louis Williams),56,56,9
+63,Dream On,Aerosmith,59,59,8
+64,Walk Like A Man,Grand Funk,75,64,3
+65,Sister Mary Elephant (Shudd-Up!),Cheech & Chong,77,65,3
+66,Country Sunshine,Dottie West,58,49,11
+67,Sail Around The World,David Gates,54,50,8
+68,Smarty Pants,First Choice,80,68,4
+69,A Song I'd Like To Sing,Kris Kristofferson & Rita Coolidge,83,69,4
+70,River,Joe Simon,78,70,4
+71,My Old School,Steely Dan,63,63,6
+72,American Tune,Paul Simon,82,72,2
+73,The Way We Were,Barbra Streisand,87,73,3
+74,I Wanna Know Your Name,The Intruders,76,74,7
+75,It's All Over,The Independents,65,65,4
+76,"I Don't Know What It Is, But It Sure Is Funky",Ripple,67,67,6
+77,Let Me Try Again (Laisse Moi Le Temps),Frank Sinatra,81,77,5
+78,The River Of Love,B.W. Stevenson,88,78,2
+79,Love's Theme,Love Unlimited Orchestra,89,79,2
+80,Rock On,David Essex,84,80,5
+81,Blue Collar,Bachman-Turner Overdrive,86,81,2
+82,If We Make It Through December,Merle Haggard,92,82,3
+83,Ain't Got No Home,The Band,93,83,3
+84,Baby Come Close,Smokey Robinson,85,84,4
+85,Livin' For You,Al Green,-1,85,1
+86,Love Me For What I Am/there Ain't No Way,Lobo,-1,86,1
+87,Showdown,Electric Light Orchestra,90,87,2
+88,Little Girl Gone,Donna Fargo,66,57,10
+89,Come Live With Me,Ray Charles,91,89,4
+90,Big Time Operator,Keith Hampshire,-1,90,1
+91,"Love, Reign O'er Me",The Who,97,91,2
+92,Love Has No Pride,Linda Ronstadt,99,92,2
+93,Stoned To The Bone - Part 1,James Brown,96,93,2
+94,This Is Your Song,Don Goodwin,-1,94,1
+95,Last Kiss,Wednesday,95,95,3
+96,Half A Million Miles From Home,Albert Hammond,100,96,2
+97,I Love,Tom T. Hall,-1,97,1
+98,I'm A Rocker,Raspberries,-1,98,1
+99,I Like To Live The Love,B.B. King,-1,99,1
+100,Jungle Boogie,Kool & The Gang,-1,100,1

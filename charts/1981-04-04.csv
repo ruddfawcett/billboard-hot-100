@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Rapture,Blondie,1,1,10
+2,Woman,John Lennon,2,2,12
+3,The Best Of Times,Styx,3,3,11
+4,Kiss On My List,Daryl Hall John Oates,9,4,11
+5,Crying,Don McLean,5,5,11
+6,Hello Again,Neil Diamond,6,6,10
+7,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",8,7,8
+8,Keep On Loving You,REO Speedwagon,4,1,19
+9,While You See A Chance,Steve Winwood,11,9,9
+10,What Kind Of Fool,Barbra Streisand & Barry Gibb,10,10,10
+11,Morning Train (Nine To Five),Sheena Easton,14,11,8
+12,Don't Stand So Close To Me,The Police,13,12,9
+13,I Can't Stand It,Eric Clapton And His Band,16,13,6
+14,The Winner Takes It All,ABBA,12,8,20
+15,Angel Of The Morning,Juice Newton,18,15,7
+16,9 To 5,Dolly Parton,7,1,19
+17,Celebration,Kool & The Gang,17,1,24
+18,Her Town Too,James Taylor & J.D. Souther,23,18,4
+19,Somebody's Knockin',Terri Gibbs,21,19,12
+20,Being With You,Smokey Robinson,27,20,8
+21,Don't Stop The Music,Yarbrough & Peoples,25,21,9
+22,Precious To Me,Phil Seymour,22,22,11
+23,I Love A Rainy Night,Eddie Rabbitt,15,1,22
+24,A Little In Love,Cliff Richard,20,17,17
+25,Just Between You And Me,April Wine,29,25,9
+26,Ain't Even Done With The Night,John Cougar,30,26,10
+27,Take It On The Run,REO Speedwagon,32,27,3
+28,Time Out Of Mind,Steely Dan,34,28,4
+29,Too Much Time On My Hands,Styx,33,29,3
+30,Treat Me Right,Pat Benatar,24,18,12
+31,Sweetheart,Franke & The Knockouts,37,31,5
+32,Living Inside Myself,Gino Vannelli,59,32,3
+33,It's A Love Thing,The Whispers,36,33,8
+34,Hearts On Fire,Randy Meisner,19,19,11
+35,You Better You Bet,The Who,48,35,3
+36,How 'bout Us,Champaign,39,36,8
+37,Turn Me Loose,Loverboy,38,37,10
+38,I Love You,Climax Blues Band,41,38,7
+39,The Party's Over (Hopelessly In Love),Journey,42,39,6
+40,Who Do You Think You're Foolin',Donna Summer,40,40,7
+41,Me (Without You), Andy Gibb,43,41,4
+42,Mister Sandman,Emmylou Harris,44,42,6
+43,Sukiyaki,A Taste Of Honey,52,43,5
+44,Wasn't That A Party,The Rovers,47,44,7
+45,Hold On Loosely,38 Special,51,45,6
+46,Games,Phoebe Snow,46,46,7
+47,I Missed Again,Phil Collins,65,47,3
+48,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,54,48,5
+49,Games People Play,The Alan Parsons Project,31,16,18
+50,Running Scared,The Fools,50,50,5
+51,Lonely Together,Barry Manilow,58,51,4
+52,Watching The Wheels,John Lennon,77,52,2
+53,Love You Like I Never Loved Before,John O'Banion,72,53,2
+54,Lovers After All,Melissa Manchester & Peabo Bryson,55,54,6
+55,Limelight,Rush,61,55,4
+56,Fade Away,Bruce Springsteen,35,20,9
+57,Bette Davis Eyes,Kim Carnes,80,57,2
+58,Walking On Thin Ice,Yoko Ono,60,58,5
+59,I Loved 'em Every One,T.G. Sheppard,67,59,4
+60,I Ain't Gonna Stand For It,Stevie Wonder,26,11,17
+61,I Have The Skill,Sherbs,62,61,5
+62,Memories,Tierra,70,62,4
+63,Right Away,Hawks,64,63,4
+64,Say You'll Be Mine,Christopher Cross,74,64,2
+65,Guitar Man,Elvis Presley,28,28,17
+66,96 Tears,Garland Jeffreys,66,66,4
+67,What Are We Doin' In Love,Dottie West with Kenny Rogers,78,67,2
+68,Giving It Up For Your Love,Delbert McClinton,49,8,18
+69,It's My Job,Jimmy Buffett,57,57,7
+70,Hold On,Badfinger,56,56,6
+71,Somebody Special,Rod Stewart,71,71,3
+72,Jessie's Girl,Rick Springfield,81,72,2
+73,Blessed Are The Believers,Anne Murray,83,73,2
+74,Bon Bon Vie (Gimme The Good Life),T.S. Monk,63,63,7
+75,The Tide Is High,Blondie,45,1,21
+76,Lover,Michael Stanley Band,84,76,2
+77,Somebody Send My Baby Home,Lenny LeBlanc,87,77,2
+78,Smoky Mountain Rain,Ronnie Milsap,69,24,19
+79,All American Girls,Sister Sledge,79,79,3
+80,Shotgun Rider,Delbert McClinton,89,80,2
+81,Find Your Way Back,Jefferson Starship,-1,81,1
+82,But You Know I Love You,Dolly Parton,-1,82,1
+83,Unchained Melody,Heart,85,83,2
+84,I Don't Need You,Rupert Holmes,-1,84,1
+85,Burn Rubber (Why You Wanna Hurt Me),The Gap Band,86,85,6
+86,Same Old Lang Syne,Dan Fogelberg,76,9,17
+87,Living In A Fantasy,Leo Sayer,73,23,11
+88,Super Trouper,ABBA,-1,88,1
+89,Don't Know Much,Bill Medley,90,89,2
+90,Playing With Lightning,Shot In The Dark,-1,90,1
+91,Proud,The Joe Chemay Band,68,68,8
+92,8th Wonder,Sugarhill Gang,82,82,9
+93,Ah! Leah!,Donnie Iris,93,29,17
+94,Let Me Go,The Rings,75,75,5
+95,Where's Your Angel?,Lani Hall,88,88,3
+96,Ch Ch Cherie,The Johnny Average Band Featuring Nikki Wills,53,53,7
+97,Passion,Rod Stewart,91,5,20
+98,Yesterday Once More/Nothing Remains The Same,The Spinners,96,52,8
+99,(Ghost) Riders In The Sky,Outlaws,94,31,15
+100,Hey Nineteen,Steely Dan,98,10,19

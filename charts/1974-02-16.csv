@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Way We Were,Barbra Streisand,2,1,13
+2,Love's Theme,Love Unlimited Orchestra,1,1,12
+3,You're Sixteen,Ringo Starr,3,1,10
+4,Until You Come Back To Me (That's What I'm Gonna Do),Aretha Franklin,5,4,13
+5,Spiders & Snakes,Jim Stafford,7,5,15
+6,Americans,Byron MacGregor ,4,4,7
+7,Let Me Be There,Olivia Newton-John,6,6,14
+8,Jungle Boogie,Kool & The Gang,10,8,11
+9,Boogie Down,Eddie Kendricks,14,9,7
+10,Rock On,David Essex,13,10,15
+11,Show And Tell,Al Wilson,8,1,18
+12,Seasons In The Sun,Terry Jacks,27,12,6
+13,Put Your Hands Together,The O'Jays,15,13,9
+14,I've Got To Use My Imagination,Gladys Knight And The Pips,9,4,13
+15,I Love,Tom T. Hall,19,15,11
+16,Doo Doo Doo Doo Doo (heartbreaker),The Rolling Stones,17,16,6
+17,Last Time I Saw Him,Diana Ross,21,17,7
+18,The Joker,The Steve Miller Band,11,1,18
+19,Love Song,Anne Murray,23,19,10
+20,Midnight Rider,Gregg Allman,22,20,9
+21,Dark Lady,Cher,31,21,5
+22,Smokin' In The Boy's Room,Brownsville Station,12,3,17
+23,Living For The City,Stevie Wonder,16,8,15
+24,Sexy Mama,The Moments,32,24,6
+25,Jim Dandy,Black Oak Arkansas,26,25,10
+26,Time In A Bottle,Jim Croce,18,1,14
+27,Baby Come Close,Smokey Robinson,29,27,14
+28,"Never, Never Gonna Give Ya Up",Barry White,20,7,17
+29,The Most Beautiful Girl,Charlie Rich,25,1,21
+30,Mockingbird,Carly Simon & James Taylor,66,30,3
+31,Can This Be Real,Natural Four,35,31,7
+32,Abra-Ca-Dabra,The De Franco Family,34,32,8
+33,The Americans (A Canadian's Opinion),Gordon Sinclair,24,24,6
+34,Eres Tu (Touch The Wind),Mocedades,42,34,6
+35,Come And Get Your Love,Redbone,40,35,6
+36,My Sweet Lady,Cliff DeYoung,45,36,7
+37,Trying To Hold On To My Woman,Lamont Dozier,44,37,9
+38,I Like To Live The Love,B.B. King,39,38,11
+39,Sunshine On My Shoulders,John Denver,51,39,4
+40,Last Kiss,Wednesday,43,40,13
+41,Daddy What If,Bobby Bare,41,41,7
+42,"""Joy"" Pt. I",Isaac Hayes,30,30,9
+43,Livin' For You,Al Green,33,19,11
+44,There Won't Be Anymore,Charlie Rich,54,44,4
+45,I Shall Sing,Garfunkel,38,38,8
+46,Leave Me Alone (ruby Red Dress),Helen Reddy,36,3,16
+47,Jet,Paul McCartney And Wings,69,47,2
+48,You're So Unique,Billy Preston,50,48,7
+49,Mighty Love - Pt. 1,The Spinners,59,49,4
+50,You Sure Love To Ball,Marvin Gaye,53,50,4
+51,In The Mood,Bette Midler,56,51,4
+52,WOLD,Harry Chapin,62,52,7
+53,Me And Baby Brother,War,28,15,15
+54,Star,Stealers Wheel,64,54,7
+55,Goodbye Yellow Brick Road,Elton John,47,2,17
+56,Energy Crisis '74,Dickie Goodman,75,56,3
+57,"Rock And Roll, Hoochie Koo",Rick Derringer,67,57,5
+58,Helen Wheels,Paul McCartney And Wings,37,10,13
+59,Rockin' Roll Baby,The Stylistics,49,14,18
+60,What It Comes Down To,The Isley Brothers,63,60,8
+61,I Miss You,The Dells,60,60,5
+62,Let Your Hair Down,The Temptations,46,27,9
+63,Hello It's Me,Todd Rundgren,55,5,20
+64,Top Of The World,Carpenters,48,1,20
+65,Jessica,The Allman Brothers Band,70,65,5
+66,We're Getting Careless With Our Love,Johnnie Taylor,72,66,4
+67,Life Is A Song Worth Singing,Johnny Mathis,71,67,8
+68,Teenage Lament '74,Alice Cooper,58,48,8
+69,Bennie And The Jets,Elton John,-1,69,1
+70,Lookin' For A Love,Bobby Womack,80,70,3
+71,When I Fall In Love/Are You Lonesome Tonight,Donny Osmond,52,14,13
+72,I've Got A Thing About You Baby/Take Good Care Of Her,Elvis Presley,90,72,2
+73,Jolene,Dolly Parton,78,73,4
+74,Homely Girl,The Chi-lites,98,74,2
+75,I Just Can't Get You Out Of My Mind,Four Tops,83,75,4
+76,Thanks For Saving My Life,Billy Paul,81,76,4
+77,Best Thing That Ever Happened To Me,Gladys Knight And The Pips,-1,77,1
+78,Get That Gasoline Blues,NRBQ,86,78,3
+79,Houston (I'm Comin' To See You),Glen Campbell,84,79,2
+80,Let Me Get To Know You,Paul Anka,82,80,7
+81,Stop To Start,Blue Magic,88,81,3
+82,Tell Me A Lie,Sami Jo,85,82,2
+83,I Wish It Was Me,Tyrone Davis,87,83,3
+84,Just Don't Want To Be Lonely,The Main Ingredient,89,84,3
+85,That's The Sound That Lonely Makes,Tavares,91,85,3
+86,She's Gone,Daryl Hall John Oates,96,86,2
+87,Hooked On A Feeling,Blue Swede,-1,87,1
+88,"Quick, Fast, In A Hurry",New York City,93,88,3
+89,Must Be Love,The James Gang,94,89,3
+90,Virginia (Touch Me Like You Do),Bill Amesbury,-1,90,1
+91,Try (Try To Fall In Love),Cooker,95,91,3
+92,Would You Lay With Me (in A Field Of Stone),Tanya Tucker,-1,92,1
+93,It's Been A Long Time,The New Birth,-1,93,1
+94,I'll Be The Other Woman,The Soul Children,-1,94,1
+95,The Americans (A Canadian's Opinion),Tex Ritter,100,95,2
+96,A Mother For My Children,The Whispers,99,96,2
+97,Beyond The Blue Horizon,Lou Christie,-1,97,1
+98,The Crude Oil Blues,Jerry Reed,-1,98,1
+99,Star Baby,The Guess Who ,-1,99,1
+100,The Real Me,The Who,92,92,3

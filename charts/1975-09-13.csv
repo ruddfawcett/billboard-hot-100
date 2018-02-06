@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Rhinestone Cowboy,Glen Campbell,1,1,16
+2,Fallin' In Love,"Hamilton, Joe Frank & Reynolds",2,1,13
+3,At Seventeen,Janis Ian,4,3,14
+4,Get Down Tonight,KC And The Sunshine Band,3,1,10
+5,Fame,David Bowie,7,5,12
+6,Fight The Power Part 1,The Isley Brothers,8,6,13
+7,Could It Be Magic,Barry Manilow,9,7,12
+8,I'm Sorry,John Denver,15,8,5
+9,Run Joey Run,David Geddes,19,9,7
+10,Wasted Days And Wasted Nights,Freddy Fender,11,10,13
+11,Feel Like Makin' Love,Bad Company,12,11,11
+12,Ballroom Blitz,Sweet,14,12,14
+13,That's The Way Of The World,"Earth, Wind & Fire",13,13,11
+14,Third Rate Romance,Amazing Rhythm Aces,16,14,13
+15,Jive Talkin',Bee Gees,6,1,16
+16,How Sweet It Is (To Be Loved By You),James Taylor,5,5,13
+17,Ain't No Way To Treat A Lady,Helen Reddy,28,17,6
+18,Solitaire,Carpenters,21,18,7
+19,Dance With Me,Orleans,25,19,9
+20,(I Believe) There's Nothing Stronger Than Our Love,Paul Anka/Odia Coates,23,20,8
+21,"Black Superman - ""Muhammad Ali""",Johnny Wakelin & The Kinshasa Band,22,21,25
+22,Feelings,Morris Albert,26,22,13
+23,Daisy Jane,America,24,23,9
+24,The Proud One,The Osmonds,27,24,8
+25,They Just Can't Stop It the (Games People Play),The Spinners,34,25,6
+26,How Long (Betcha' Got A Chick On The Side),The Pointer Sisters,29,26,9
+27,It Only Takes A Minute,Tavares,31,27,8
+28,Rocky,Austin Roberts,33,28,9
+29,One Of These Nights,Eagles,10,1,16
+30,Gone At Last,Paul Simon/Phoebe Snow,35,30,5
+31,Mr. Jaws,Dickie Goodman,49,31,2
+32,Brazil,The Ritchie Family,38,32,7
+33,Someone Saved My Life Tonight,Elton John,18,4,11
+34,Miracles,Jefferson Starship,50,34,4
+35,Lady Blue,Leon Russell,41,35,7
+36,Carolina In The Pines,Michael Murphey,45,36,5
+37,"Main Title (Theme From ""Jaws"")","John Williams/""Jaws"" Soundtrack",44,37,6
+38,Do It Any Way You Wanna,Peoples Choice,43,38,4
+39,Your Love,Graham Central Station,46,39,6
+40,Give It What You Got/Peace Pipe,B.T. Express,40,40,6
+41,Holdin' On To Yesterday,Ambrosia,17,17,14
+42,Tush,ZZ Top,20,20,9
+43,What A Diff'rence A Day Makes,Esther Phillips,53,43,5
+44,You're All I Need To Get By,Tony Orlando & Dawn,60,44,3
+45,I Only Have Eyes For You,Art Garfunkel,55,45,4
+46,Keep Your Eye On The Sparrow,Merry Clayton,48,46,8
+47,7-6-5-4-3-2-1 (Blow Your Whistle),Gary Toms Empire,52,47,13
+48,I Got Stoned And I Missed It,Jim Stafford,58,48,5
+49,Por Amor Viviremos,Captain & Tennille,54,49,5
+50,If I Ever Lose This Heaven,AWB,61,50,4
+51,Katmandu,Bob Seger,62,51,6
+52,I Love Makin' Love To You,Evie Sands,56,52,7
+53,To Each His Own,"Faith, Hope And Charity",64,53,5
+54,Who Loves You,The 4 Seasons,66,54,4
+55,Love Will Keep Us Together,Captain & Tennille,32,1,22
+56,Help Me Rhonda,Johnny Rivers,36,22,10
+57,Only You Can,Fox,68,57,4
+58,If I Could Only Win Your Love,Emmylou Harris,69,58,3
+59,Please Mr. Please,Olivia Newton-John,37,3,15
+60,Money,Gladys Knight And The Pips,70,60,3
+61,Rockin' All Over The World,John Fogerty,71,61,2
+62,This Will Be,Natalie Cole,72,62,3
+63,Love Is A Rose,Linda Ronstadt,73,63,2
+64,Dreaming A Dream,Crown Heights Affair,75,64,5
+65,Blue Eyes Crying In The Rain,Willie Nelson,76,65,3
+66,Bad Blood,Neil Sedaka,-1,66,1
+67,Sky High,Jigsaw,77,67,3
+68,There Goes Another Love Song,The Outlaws,79,68,2
+69,Two Fine People,Cat Stevens,39,33,9
+70,Glasshouse,The Temptations,42,37,10
+71,Brand New Love Affair (Part I & II),Chicago,82,71,2
+72,I Get High On You,Sly Stone,83,72,2
+73,I Believe I'm Gonna Love You,Frank Sinatra,47,47,7
+74,Sweet Maxine,The Doobie Brothers,57,40,7
+75,You Ain't Never Been Loved (Like I'm Gonna Love You),Jessi Colter,85,75,2
+76,The Agony And The Ecstasy,Smokey Robinson,86,76,2
+77,(All I Have To Do Is) Dream,The Nitty Gritty Dirt Band,89,77,3
+78,Mamacita,The Grass Roots,78,78,7
+79,Lyin' Eyes,Eagles,-1,79,1
+80,Jam Band,Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III,80,80,3
+81,Eighteen With A Bullet,Pete Wingfield,91,81,4
+82,Hollywood Hot,The Eleventh Hour,87,82,3
+83,I Want'a Do Something Freaky To You,Leon Haywood,90,83,2
+84,Dream Merchant,New Birth,59,36,11
+85,Why Can't We Be Friends?,War,30,6,20
+86,Every Day I Have To Cry Some,Arthur Alexander,-1,86,1
+87,Don't It Make You Wanna Dance?,Rusty Wier,98,87,2
+88,Shotgun Shuffle,The Sunshine Band,88,88,2
+89,S.O.S.,ABBA,99,84,4
+90,Salsoul Hustle,The Salsoul Orchestra,-1,90,1
+91,When You're Young And In Love,The Choice Four,94,91,3
+92,Music In My Bones,Joe Simon,92,92,4
+93,You Are A Song,Batdorf & Rodney,93,87,6
+94,Alvin Stone (The Birth & Death Of A Gangster),Fantastic Four,74,74,8
+95,The Millionaire,Dr. Hook,95,95,4
+96,If You Think You Know How To Love Me,Smokey,-1,96,3
+97,When You're Young And In Love,Ralph Carter,97,97,2
+98,Party Music,Pat Lundi,100,98,2
+99,Living For The City,Ray Charles,-1,99,1
+100,Foot Stompin Music,Hamilton Bohannon,-1,100,1

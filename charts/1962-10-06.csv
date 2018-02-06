@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sherry,The 4 Seasons,1,1,7
+2,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",4,2,5
+3,Ramblin' Rose,Nat King Cole,2,2,10
+4,Let's Dance,Chris Montez,6,4,9
+5,Green Onions,Booker T. & The MG's,3,3,9
+6,Patches,Dickey Lee,8,6,7
+7,Venus In Blue Jeans,Jimmy Clanton,13,7,8
+8,I Remember You,Frank Ifield,17,8,5
+9,Alley Cat,Bent Fabric and His Piano,7,7,11
+10,You Beat Me To The Punch,Mary Wells,11,9,9
+11,Sheila,Tommy Roe,5,1,11
+12,Rain Rain Go Away,Bobby Vinton,18,12,7
+13,Lie To Me,Brook Benton,15,13,7
+14,If I Had A Hammer (The Hammer Song),"Peter, Paul & Mary",12,12,8
+15,Do You Love Me,The Contours,19,15,9
+16,Teen Age Idol,Rick Nelson,10,5,9
+17,You Belong To Me,The Duprees,9,7,10
+18,Beechwood 4-5789,The Marvelettes,23,17,9
+19,Surfin' Safari,The Beach Boys,24,19,9
+20,What Kind Of Love Is This,Joey Dee & the Starliters,21,20,7
+21,Punish Her,Bobby Vee,26,21,6
+22,It Might As Well Rain Until September,Carole King,25,22,7
+23,He's A Rebel,The Crystals,44,23,5
+24,Only Love Can Break A Heart,Gene Pitney,30,24,4
+25,Popeye (The Hitchhiker),Chubby Checker,36,25,4
+26,Hully Gully Baby,The Dovells,27,26,9
+27,The Loco-Motion,Little Eva,14,1,15
+28,I Left My Heart In San Francisco,Tony Bennett,32,28,9
+29,A Wonderful Dream,The Majors,22,22,9
+30,Don't Go Near The Indians,Rex Allen,46,30,4
+31,Silver Threads And Golden Needles,The Springfields,20,20,10
+32,She's Not You,Elvis Presley With The Jordanaires,16,5,10
+33,Rinky Dink,Baby Cortez,28,10,13
+34,Come On Little Angel,The Belmonts,37,28,12
+35,All Alone Am I,Brenda Lee,50,35,2
+36,Little Black Book,Jimmy Dean,51,36,4
+37,King Of The Whole Wide World,Elvis Presley With The Jordanaires,53,37,3
+38,Torture,Kris Jensen,42,38,6
+39,Stop The Music,The Shirelles,41,39,5
+40,What Kind Of Fool Am I,Sammy Davis Jr.,54,40,6
+41,Devil Woman,Marty Robbins,39,16,11
+42,You Don't Know Me,Ray Charles,29,2,11
+43,Shame On Me,Bobby Bare,35,23,12
+44,"Hide & Go Seek, Part I",Bunker Hill,49,44,7
+45,Point Of No Return,Gene McDaniels,40,21,10
+46,Gina,Johnny Mathis,63,46,3
+47,Limbo Rock,Chubby Checker,59,47,5
+48,A Swingin' Safari,Billy Vaughn And His Orchestra,34,13,12
+49,Warmed Over Kisses (Left Over Love),Brian Hyland,76,49,3
+50,The Things We Did Last Summer,Shelley Fabares,55,50,4
+51,Send Me The Pillow You Dream On,Johnny Tillotson,33,17,9
+52,Your Nose Is Gonna Grow,Johnny Crawford,31,14,9
+53,Save All Your Lovin' For Me,Brenda Lee,56,53,3
+54,A Taste Of Honey,Martin Denny and His Orchestra,61,50,13
+55,You Can't Judge A Book By The Cover,Bo Diddley,48,48,8
+56,Close To Cathy,Mike Clifford,66,56,4
+57,Party Lights,Claudine Clark,52,5,15
+58,I Keep Forgettin',Chuck Jackson,60,55,6
+59,Lollipops And Roses,Paul Petersen,62,54,7
+60,Stormy Monday Blues,Bobby Bland,73,60,5
+61,Sweet Sixteen Bars,Earl Grant,65,61,5
+62,If I Didn't Have A Dime (To Play The Jukebox),Gene Pitney,64,62,6
+63,Workin' For The Man,Roy Orbison,79,63,3
+64,No One Will Ever Know,Jimmie Rodgers,67,64,6
+65,...And Then There Were Drums,Sandy Nelson,71,65,3
+66,Don't You Worry, Don Gardner And Dee Dee Ford,68,66,7
+67,Nothing Can Change This Love,Sam Cooke,87,67,2
+68,Ten Lonely Guys,Pat Boone,80,68,3
+69,Baby Face,Bobby Darin,84,69,2
+70,The Swiss Maid,Del Shannon,70,70,4
+71,James (Hold The Ladder Steady),Sue Thompson,83,71,2
+72,Twistin' With Linda,The Isley Brothers,75,72,3
+73,If A Man Answers,Bobby Darin,90,73,2
+74,Long As The Rose Is Red,Florraine Darlin,77,62,7
+75,What Time Is It?, The Jive Five With Eugene Pitts,69,69,4
+76,I Love You The Way You Are,Bobby Vinton,38,38,9
+77,Next Door To An Angel,Neil Sedaka,-1,77,1
+78,Don't You Believe It,Andy Williams,85,78,4
+79,Lookin' For A Love,The Valentinos,72,72,8
+80,Papa-Oom-Mow-Mow,The Rivingtons,58,48,8
+81,Susie Darlin',Tommy Roe,-1,81,1
+82,Mashed Potatoes U.S.A.,James Brown And The Famous Flames,89,82,2
+83,Second Fiddle Girl,Barbara Lynn,86,83,3
+84,The Burning Of Atlanta,Claude King,-1,84,1
+85,What Kind Of Fool Am I,Anthony Newley,97,85,3
+86,Desafinado,Stan Getz/Charlie Byrd,93,86,2
+87,I'm Going Back To School,Dee Clark,-1,87,1
+88,(Dance With The) Guitar Man,Duane Eddy and the Rebelettes,-1,88,1
+89,What Kind Of Fool Am I?,Robert Goulet,-1,89,1
+90,Pop Pop Pop - Pie,The Sherrys,-1,90,1
+91,Forever And A Day,Jackie Wilson,91,91,3
+92,Love Me Tender,Richard Chamberlain,-1,92,1
+93,Mr. Lonely,Buddy Greco,96,93,3
+94,I Was Such A Fool (To Fall In Love With You),Connie Francis,-1,94,1
+95,Léah,Roy Orbison,-1,95,1
+96,I Left My Heart In The Balcony,Linda Scott,98,96,3
+97,Did You Ever See A Dream Walking,Fats Domino,-1,97,1
+98,Wiggle Wobble,Les Cooper and the Soul Rockers,-1,98,1
+99,He Thinks I Still Care,Connie Francis,-1,99,1
+100,When The Boys Get Together,Joanie Sommers,-1,100,1

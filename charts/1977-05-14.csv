@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,When I Need You,Leo Sayer,2,1,12
+2,Sir Duke,Stevie Wonder,4,2,7
+3,Hotel California,Eagles,1,1,12
+4,Southern Nights,Glen Campbell,3,1,14
+5,Couldn't Get It Right,Climax Blues Band,9,5,13
+6,Right Time Of The Night,Jennifer Warnes,6,6,16
+7,So In To You,Atlanta Rhythm Section,7,7,16
+8,I'm Your Boogie Man,KC And The Sunshine Band,11,8,12
+9,Got To Give It Up (Pt. I),Marvin Gaye,14,9,5
+10,I Wanna Get Next To You,Rose Royce,10,10,12
+11,Lido Shuffle,Boz Scaggs,12,11,10
+12,Lucille,Kenny Rogers,17,12,8
+13,Can't Stop Dancin',Captain & Tennille,13,13,9
+14,Dreams,Fleetwood Mac,26,14,5
+15,Lonely Boy,Andrew Gold,20,15,9
+16,Calling Dr. Love,KISS,18,16,9
+17,Hello Stranger,Yvonne Elliman,19,17,9
+18,I've Got Love On My Mind,Natalie Cole,8,5,16
+19,Feels Like The First Time,Foreigner,22,19,8
+20,Angel In Your Arms,Hot,21,20,13
+21,Gonna Fly Now,Bill Conti,29,21,4
+22,Ain't Gonna Bump No More (with No Big Fat Woman),Joe Tex,24,22,7
+23,Dancin' Man,Q,25,23,10
+24,Don't Leave Me This Way,Thelma Houston,5,1,22
+25,Heard It In A Love Song,The Marshall Tucker Band,27,25,10
+26,Whodunit,Tavares,28,26,8
+27,Your Love,"Marilyn McCoo & Billy Davis, Jr.",15,15,9
+28,Undercover Angel,Alan O'Day,40,28,7
+29,Show You The Way To Go,The Jacksons,35,29,6
+30,Uptown Festival (Part 1),Shalamar,32,30,10
+31,Don't Give Up On Us,David Soul,16,1,16
+32,My Sweet Lady,John Denver,34,32,10
+33,Margaritaville,Jimmy Buffett,37,33,7
+34,Cinderella,Firefall,36,34,8
+35,Love's Grown Deep,Kenny Nolan,39,35,7
+36,Slow Dancin' Don't Turn Me On,Addrisi Brothers,41,36,6
+37,Mainstreet,Bob Seger,54,37,4
+38,Back In The Saddle,Aerosmith,38,38,6
+39,Jet Airliner,The Steve Miller Band,55,39,3
+40,Slowdown,John Miles,44,40,8
+41,High School Dance,The Sylvers,50,41,4
+42,Ariel,Dean Friedman,47,42,5
+43,Everybody Be Dancin',Starbuck,51,43,5
+44,Rich Girl,Daryl Hall John Oates,30,1,17
+45,I Think We're Alone Now,The Rubinoos,46,45,11
+46,"Gonna Fly Now (Theme From ""Rocky"")",Maynard Ferguson,58,46,4
+47,On The Border,Al Stewart,60,47,4
+48,Do You Wanna Make Love,Peter Mccann,61,48,4
+49,I Just Want To Be Your Everything,Andy Gibb,64,49,4
+50,This Is The Way That I Feel,Marie Osmond,65,50,4
+51,I Wanna Do It To You,Jerry Butler,53,51,10
+52,You Are On My Mind,Chicago,49,49,6
+53,Cherry Baby,Starz,33,33,9
+54,Tryin' To Love Two,William Bell,23,10,13
+55,Spirit In The Night,Manfred Mann's Earth Band,66,55,6
+56,This Girl (Has Turned Into A Woman),Mary Macgregor,56,56,4
+57,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,31,1,23
+58,Hold Back The Night,Graham Parker And The Rumour,62,58,6
+59,Back Together Again,Daryl Hall John Oates,73,59,2
+60,Hooked On You,Bread,63,60,5
+61,Do What You Wanna Do,T-Connection,72,52,10
+62,The Whistler,Jethro Tull,59,59,6
+63,Whatcha Gonna Do?,Pablo Cruise,74,63,5
+64,Sleepwalker,The Kinks,48,48,7
+65,You're My World,Helen Reddy,71,65,3
+66,Looks Like We Made It,Barry Manilow,88,66,2
+67,Hollywood,Rufus Featuring Chaka Khan,78,67,2
+68,You Take My Heart Away,James Darren,52,52,9
+69,Solsbury Hill,Peter Gabriel,79,69,3
+70,You And Me,Alice Cooper,70,70,3
+71,I Gotta Keep Dancin',Carrie,81,71,3
+72,Going In With My Eyes Open,David Soul,82,72,2
+73,Life In The Fast Lane,Eagles,-1,73,1
+74,It's Sad To Belong,England Dan & John Ford Coley,85,74,2
+75,"Luckenbach, Texas (Back To The Basics Of Love)",Waylon Jennings,87,75,2
+76,It Feels So Good To Be Loved So Bad,The Manhattans,76,76,8
+77,(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,89,77,2
+78,The Pride (Part I),The Isley Brothers,90,78,2
+79,You're Movin' Out Today,Bette Midler,84,79,6
+80,"Knowing Me, Knowing You",ABBA,-1,80,1
+81,Sound And Vision,David Bowie,69,69,6
+82,Down To The Station,B.W. Stevenson,86,82,5
+83,Sad Girl,Carl Graves,83,83,5
+84,That Magic Touch,Angel,77,77,4
+85,Fly At Night,Chilliwack,75,75,3
+86,Peace Of Mind,Boston,-1,86,1
+87,I Need A Man,Grace Jones,98,87,2
+88,Capture Your Heart,Blue,91,88,2
+89,Da Doo Ron Ron,Shaun Cassidy,-1,89,1
+90,Dancin',Crown Heights Affair,42,42,13
+91,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,94,48,9
+92,The Things We Do For Love,10cc,43,5,19
+93,(Theme from) Charlie's Angels,Henry Mancini And His Orchestra,57,45,9
+94,"Theme From ""Rocky"" (Gonna Fly Now)",Current,100,94,3
+95,Hot To Trot,Wild Cherry,-1,95,1
+96,All The Kids On The Street,The Hollywood Stars,-1,96,1
+97,Feel The Need,Detroit Emeralds,-1,97,1
+98,Dance And Shake Your Tambourine,Universal Robot Band,-1,98,1
+99,Freddie,Charlene,-1,99,1
+100,Discomania,The Lovers,-1,100,1

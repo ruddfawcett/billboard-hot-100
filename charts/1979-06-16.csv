@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hot Stuff,Donna Summer,2,1,9
+2,We Are Family,Sister Sledge,3,2,8
+3,Ring My Bell,Anita Ward,6,3,6
+4,Just When I Needed You Most,Randy VanWarmer,5,4,13
+5,Love You Inside Out,Bee Gees,1,1,9
+6,The Logical Song,Supertramp,7,6,13
+7,Chuck E.'s In Love,Rickie Lee Jones,8,7,8
+8,She Believes In Me,Kenny Rogers,10,8,8
+9,Reunited,Peaches & Herb,4,1,14
+10,Boogie Wonderland,"Earth, Wind & Fire with The Emotions",19,10,6
+11,Bad Girls,Donna Summer,28,11,4
+12,You Take My Breath Away,Rex Smith,15,12,9
+13,Rock 'n' Roll Fantasy,Bad Company,14,13,14
+14,Shake Your Body (Down To The Ground),The Jacksons,9,7,18
+15,Disco Nights (Rock-Freak),G.Q.,12,12,14
+16,Minute By Minute,The Doobie Brothers,18,16,7
+17,Goodnight Tonight,Wings,13,5,12
+18,Makin' It,David Naughton,20,18,12
+19,I Want You To Want Me,Cheap Trick,24,19,8
+20,Shine A Little Love,Electric Light Orchestra,25,20,5
+21,Get Used To It,Roger Voudouris,23,21,14
+22,Renegade, Styx,16,16,14
+23,Dance The Night Away,Van Halen,29,23,8
+24,Gold,John Stewart,30,24,5
+25,In The Navy,Village People,17,3,14
+26,When You're In Love With A Beautiful Woman,Dr. Hook,33,26,10
+27,Ain't No Stoppin' Us Now,McFadden & Whitehead,35,27,8
+28,I Can't Stand It No More,Peter Frampton,36,28,4
+29,Deeper Than The Night,Olivia Newton-John,11,11,10
+30,Days Gone Down (Still Got The Light In Your Eyes),Gerry Rafferty,47,30,3
+31,Heart Of The Night,Poco,46,31,6
+32,You Can't Change That,Raydio,39,32,8
+33,Does Your Mother Know,ABBA,37,33,5
+34,Shakedown Cruise,Jay Ferguson,38,34,7
+35,I Was Made For Lovin' You,KISS,42,35,4
+36,Ain't Love A Bitch,Rod Stewart,22,22,9
+37,Hot Number,Foxy,21,21,12
+38,Heart Of Glass,Blondie,27,1,18
+39,Do It Or Die,Atlanta Rhythm Section,52,39,4
+40,Don't Ever Wanna Lose Ya,New England,41,40,7
+41,(Wish I Could Fly Like) Superman,The Kinks,43,41,8
+42,Love Is The Answer,England Dan & John Ford Coley,26,10,15
+43,Shadows In The Moonlight,Anne Murray,50,43,4
+44,Dance Away,Roxy Music,44,44,8
+45,(If Loving You Is Wrong) I Don't Want To Be Right,Barbara Mandrell,31,31,14
+46,People Of The South Wind,Kansas,58,46,3
+47,One Way Or Another,Blondie,59,47,3
+48,It Must Be Love,Alton McClain & Destiny,32,32,11
+49,Little Bit Of Soap,Nigel Olsson,34,34,10
+50,Up On The Roof,James Taylor,68,50,3
+51,Sad Eyes,Robert John,62,51,5
+52,If You Can't Give Me Love,Suzi Quatro,64,52,4
+53,Weekend,Wet Willie,63,53,4
+54,Go West,Village People,65,54,4
+55,Say Maybe,Neil Diamond,61,55,5
+56,Lead Me On,Maxine Nightingale,67,56,4
+57,Boogie Woogie Dancin' Shoes,Claudja Barry,56,56,10
+58,Mama Can't Buy You Love,Elton John,69,58,2
+59,Good Timin',The Beach Boys,40,40,8
+60,Make Love To Me,Helen Reddy,72,60,5
+61,If I Said You Have A Beautiful Body Would You Hold It Against Me,Bellamy Brothers,70,61,4
+62,Married Men,Bette Midler,75,62,3
+63,Is She Really Going Out With Him?,Joe Jackson,76,63,2
+64,Getting Closer,Wings,-1,64,1
+65,Wasn't It Good,Cher,78,65,3
+66,Honesty,Billy Joel,48,24,9
+67,My Baby's Baby,Liquid Gold,45,45,8
+68,Do You Wanna Go Party,KC And The Sunshine Band,79,68,5
+69,Old Time Rock & Roll,Bob Seger & The Silver Bullet Band,53,28,11
+70,Kiss In The Dark,Pink Lady,80,70,3
+71,Vengeance,Carly Simon,82,71,2
+72,Good Times,Chic,-1,72,1
+73,One More Minute,Saint Tropez,49,49,10
+74,Suspicions,Eddie Rabbitt,85,74,2
+75,The Main Event/Fight,Barbra Streisand,-1,75,1
+76,Since I Don't Have You,Art Garfunkel,88,76,2
+77,Amanda,Waylon,90,77,2
+78,Georgy Porgy,Toto,84,48,8
+79,Music Box,"Evelyn ""Champagne"" King",81,79,4
+80,Feel The Need,Leif Garrett,57,57,7
+81,Love Takes Time,Orleans,54,11,13
+82,Feel That You're Feelin',Maze Featuring Frankie Beverly,-1,82,1
+83,Stumblin' In,Suzi Quatro & Chris Norman,55,4,21
+84,Morning Dance,Spyro Gyra,-1,84,1
+85,Can't Sleep,Rockets,51,51,9
+86,Rock Me,Nick Gilder,-1,86,1
+87,I Got My Mind Made Up (You Can Get It Girl),Instant Funk,87,20,18
+88,Hold On,Triumph,-1,88,1
+89,Heaven Must Have Sent You,Bonnie Pointer,-1,89,1
+90,You Angel You,Manfred Mann's Earth Band,-1,90,1
+91,"Saturday Night, Sunday Morning",Thelma Houston,66,34,13
+92,No Time To Lose,The Tarney/Spencer Band,97,84,5
+93,Tragedy,Bee Gees,93,1,19
+94,Star Love,Cheryl Lynn,94,62,10
+95,I Will Survive,Gloria Gaynor,95,1,27
+96,Dance With You,Carrie Lucas,98,70,6
+97,Bustin' Out,Rick James,71,71,6
+98,He's The Greatest Dancer,Sister Sledge,83,9,19
+99,I Want Your Love,Chic,86,7,19
+100,Take Me Home,Cher,89,8,19

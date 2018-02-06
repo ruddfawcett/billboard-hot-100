@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Killing Me Softly With His Song,Roberta Flack,1,1,7
+2,Dueling Banjos,Deliverance/Eric Weissberg & Steve Mandell,2,2,9
+3,Last Song,Edward Bear,3,3,13
+4,Could It Be I'm Falling In Love,The Spinners,4,4,11
+5,Love Train,The O'Jays,7,5,8
+6,Also Sprach Zarathustra (2001),Deodato,8,6,6
+7,Crocodile Rock,Elton John,5,1,14
+8,"The Cover Of ""Rolling Stone""",Dr. Hook And The Medicine Show,11,8,15
+9,Rocky Mountain High,John Denver,9,9,16
+10,Daddy's Home,Jermaine Jackson,12,10,14
+11,You're So Vain,Carly Simon,6,1,15
+12,Don't Expect Me To Be Your Friend,Lobo,10,8,11
+13,I'm Just A Singer (In A Rock And Roll Band),The Moody Blues,17,13,6
+14,Dancing In The Moonlight,King Harvest,13,13,20
+15,Danny's Song,Anne Murray,19,15,10
+16,Neither One Of Us (Wants To Be The First To Say Goodbye),Gladys Knight And The Pips,20,16,7
+17,Do You Want To Dance?,Bette Midler,18,17,12
+18,Break Up To Make Up,The Stylistics,22,18,5
+19,Jambalaya (On The Bayou),The Blue Ridge Rangers,16,16,15
+20,Ain't No Woman (Like The One I've Got),Four Tops,33,20,6
+21,Aubrey,Bread,24,21,6
+22,Peaceful Easy Feeling,Eagles,23,22,11
+23,Call Me (Come Back Home),Al Green,28,23,4
+24,Do It Again,Steely Dan,14,6,17
+25,Big City Miss Ruth Ann,Gallery,26,25,11
+26,Hummingbird,Seals & Crofts,30,26,8
+27,Dead Skunk,Loudon Wainwright III,34,27,7
+28,Space Oddity,David Bowie,31,28,7
+29,Dreidel,Don McLean,21,21,12
+30,Stir It Up,Johnny Nash,36,30,5
+31,Sing,Carpenters,49,31,3
+32,Give Me Your Love,Barbara Mason,32,32,9
+33,"Oh, Babe, What Would You Say?",Hurricane Smith,15,3,15
+34,Masterpiece,The Temptations,46,34,3
+35,Kissing My Love,Bill Withers,38,35,6
+36,Good Morning Heartache,Diana Ross,39,36,9
+37,Soul Song,Joe Stampley,40,37,10
+38,Hello Hurray,Alice Cooper,42,38,6
+39,Master Of Eyes (The Deepness Of Your Eyes),Aretha Franklin,41,39,5
+40,Peaceful,Helen Reddy,45,40,6
+41,I Got Ants In My Pants (and i want to dance) (Part 1),James Brown,27,27,8
+42,One Less Set Of Footsteps,Jim Croce,50,42,6
+43,Rosalie,Sam Neely,44,43,7
+44,A Letter To Myself,The Chi-lites,48,44,5
+45,Cook With Honey,Judy Collins,52,45,5
+46,Today I Started Loving You Again,Bettye Swann,47,46,7
+47,The Night The Lights Went Out In Georgia,Vicki Lawrence,59,47,5
+48,Tie A Yellow Ribbon Round The Ole Oak Tree,Dawn Featuring Tony Orlando,56,48,4
+49,Little Willy,The Sweet,60,49,8
+50,Bitter Bad,Melanie,57,50,4
+51,Keep On Singing,Austin Roberts,55,51,6
+52,The Message,Cymande,54,52,8
+53,Don't Cross The River,America,35,35,7
+54,Walk On The Wild Side,Lou Reed,72,54,4
+55,Control Of Me,Les Emmerson,51,51,9
+56,Pardon Me Sir,Joe Cocker,61,56,4
+57,Superman,Donna Fargo,65,57,3
+58,Love Is What You Make It,The Grass Roots,58,58,7
+59,Daisy A Day,Jud Strunk,63,59,4
+60,Step By Step,Joe Simon,69,60,4
+61,Follow Your Daughter Home,The Guess Who,64,61,6
+62,One Man Band (Plays All Alone),Ronnie Dyson,71,62,4
+63,Lost Horizon,Shawn Phillips,66,63,5
+64,Magic Woman Touch,The Hollies,67,64,5
+65,Wildflower,Skylark,77,65,4
+66,Drift Away,Dobie Gray,73,66,3
+67,One Man Parade,James Taylor,75,67,2
+68,Do It In The Name Of Love,Candi Staton,70,68,6
+69,The Cisco Kid,War,79,69,2
+70,"Pinball Wizard/See Me, Feel Me",The New Seekers,78,70,3
+71,"Boo, Boo, Don't 'Cha Be Blue",Tommy James,74,71,4
+72,The Twelfth Of Never,Donny Osmond,82,72,2
+73,Out Of The Question,Gilbert O'Sullivan,81,73,2
+74,Stuck In The Middle With You,Stealers Wheel,86,74,2
+75,Dream Me Home,Mac Davis,80,75,4
+76,Yesterday I Had The Blues,Harold Melvin And The Blue Notes,88,76,2
+77,If You Gotta Break Another Heart,Albert Hammond,84,77,2
+78,Bell Bottom Blues,Eric Clapton,83,78,4
+79,Funky Worm,Ohio Players,92,79,3
+80,Oh La De Da,The Staple Singers,-1,80,1
+81,Sail On Sailor,The Beach Boys,87,81,3
+82,Reeling In The Years,Steely Dan,-1,82,1
+83,Cindy Incidentally,Faces,-1,83,1
+84,Wish That I Could Talk To You,The Sylvers,89,84,6
+85,Down And Out In New York City,James Brown,-1,85,1
+86,I'm Doin' Fine Now,New York City,96,86,2
+87,Girl You Need A Change Of Mind (Part 1),Eddie Kendricks,90,87,3
+88,Gudbuy T' Jane,Slade,-1,88,1
+89,Let Your Yeah Be Yeah,Brownsville Station,94,89,2
+90,Teddy Bear Song,Barbara Fairchild,95,90,3
+91,"Names, Tags, Numbers & Labels",The Association,91,91,3
+92,"Stop, Wait & Listen",Circus,93,92,3
+93,Hocus Pocus,Focus,98,93,2
+94,The Lord Knows I'm Drinking,Cal Smith,-1,94,1
+95,We Did It,Syl Johnson,100,95,3
+96,River Road,Uncle Dog,99,96,2
+97,Armed And Extremely Dangerous,First Choice,-1,97,1
+98,Frankenstein,Edgar Winter Group,-1,98,1
+99,Last Tango In Paris,Herb Alpert & The Tijuana Brass,-1,99,1
+100,Rosanna,Dennis Yost And The Classics IV,-1,100,1

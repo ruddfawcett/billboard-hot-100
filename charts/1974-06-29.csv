@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sundown,Gordon Lightfoot,3,1,12
+2,"Billy, Don't Be A Hero",Bo Donaldson And The Heywoods,1,1,11
+3,You Make Me Feel Brand New,The Stylistics,2,2,15
+4,Be Thankful For What You Got,William DeVaughn,5,4,9
+5,If You Love Me (let Me Know),Olivia Newton-John,7,5,12
+6,Rock The Boat,The Hues Corporation,12,6,6
+7,Hollywood Swinging,Kool & The Gang,9,7,11
+8,Band On The Run,Paul McCartney And Wings,6,1,11
+9,Rock Your Baby,George McCrae,15,9,5
+10,ANNIE's SONG,John Denver,27,10,5
+11,The Air That I Breathe,The Hollies,21,11,11
+12,You Won't See Me,Anne Murray,16,12,11
+13,On And On,Gladys Knight And The Pips,17,13,6
+14,The Streak,Ray Stevens,4,1,12
+15,One Hell Of A Woman,Mac Davis,19,15,14
+16,Dancing Machine,Jackson 5,8,2,16
+17,Rikki Don't Lose That Number,Steely Dan,25,17,8
+18,I'm Coming Home,The Spinners,20,18,7
+19,Rock And Roll Heaven, The Righteous Brothers,24,19,6
+20,Sideshow,Blue Magic,26,20,7
+21,Midnight At The Oasis,Maria Muldaur,11,6,19
+22,The Entertainer,"Marvin Hamlisch/""The Sting""",10,3,15
+23,For The Love Of Money,The O'Jays,13,9,12
+24,Haven't Got Time For The Pain,Carly Simon,14,14,8
+25,If You Wanna Get To Heaven,Ozark Mountain Daredevils,28,25,11
+26,Save The Last Dance For Me,The DeFranco Family featuring Tony DeFranco,18,18,9
+27,Train Of Thought,Cher,31,27,6
+28,My Girl Bill,Jim Stafford,22,12,11
+29,Radar Love,Golden Earring,40,29,8
+30,Waterloo,ABBA,39,30,5
+31,Help Me,Joni Mitchell,23,7,16
+32,Already Gone,Eagles,34,32,9
+33,The Loco-Motion,Grand Funk,29,1,17
+34,If You Talk In Your Sleep,Elvis Presley,46,34,4
+35,Finally Got Myself Together (I'm A Changed Man),The Impressions,44,35,9
+36,The Show Must Go On,Three Dog Night,32,4,16
+37,Takin' Care Of Business,Bachman-Turner Overdrive,45,37,7
+38,Oh Very Young,Cat Stevens,30,10,16
+39,Workin' At The Car Wash Blues,Jim Croce,48,39,4
+40,Come Monday,Jimmy Buffett,50,40,7
+41,La Grange,ZZ Top,43,41,14
+42,I Won't Last A Day Without You,Carpenters,35,11,12
+43,Son Of Sagittarius,Eddie Kendricks,33,28,8
+44,Keep On Smilin',Wet Willie,54,44,6
+45,Machine Gun,Commodores,66,45,3
+46,This Heart,Gene Redding,56,46,9
+47,Don't You Worry 'Bout A Thing,Stevie Wonder,36,16,13
+48,Ballero,War,58,48,4
+49,I'm The Leader Of The Gang,Brownsville Station,52,49,6
+50,Don't Let The Sun Go Down On Me,Elton John,70,50,2
+51,Please Come To Boston,Dave Loggins,61,51,5
+52,Fish Ain't Bitin',Lamont Dozier,62,52,3
+53,Feel Like Makin' Love,Roberta Flack,78,53,2
+54,When The Morning Comes,Hoyt Axton,59,54,5
+55,Jive Turkey (Part 1),Ohio Players,65,55,3
+56,Wildflower,The New Birth ,47,45,8
+57,Room Full Of Roses,Mickey Gilley,63,57,4
+58,Tell Me Something Good,Rufus Featuring Chaka Khan,73,58,3
+59,The Same Love That Made Me Laugh,Bill Withers,53,50,12
+60,TSOP (The Sound Of Philadelphia),MFSB Featuring The Three Degrees,41,1,18
+61,Living In The U.s.a.,The Steve Miller Band,49,49,9
+62,I'm In Love,Aretha Franklin,37,19,13
+63,You And Me Against The World,Helen Reddy,77,63,3
+64,Too Late,Tavares,68,64,5
+65,My Thang,James Brown,79,65,2
+66,Rock Me Gently,Andy Kim,81,66,2
+67,That Song Is Driving Me Crazy,Tom T. Hall,74,67,3
+68,If You Go Away,Terry Jacks,75,68,4
+69,Call On Me,Chicago,89,69,2
+70,King Of Nothing,Seals & Crofts,60,60,6
+71,Silly Milly,Blue Swede,76,71,3
+72,Put Out The Light,Joe Cocker,82,72,2
+73,Rebel Rebel,David Bowie,64,64,5
+74,The Night Chicago Died,Paper Lace,87,74,3
+75,Wild Thing,Fancy,95,75,3
+76,I Hate Hate,Razzy,67,67,6
+77,Lamplight,David Essex,71,71,5
+78,There Will Never Be Any Peace (Until God Is Seated At The Conference Table),The Chi-lites,84,78,3
+79,Hang On In There Baby,Johnny Bristol,-1,79,1
+80,I've Had It,Fanny,86,80,4
+81,Kung Fu,Curtis Mayfield,96,81,2
+82,Mr. President,Dickie Goodman,88,82,3
+83,Sho Nuff Boogie (Part I),Sylvia And The Moments,80,80,4
+84,Rub It In,"Billy ""Crash"" Craddock",-1,84,1
+85,You've Got My Soul On Fire,The Temptations,90,85,2
+86,I'm Falling In Love With You,Little Anthony And The Imperials,91,86,3
+87,How Do You Feel The Morning After,Millie Jackson,92,87,4
+88,Sure As I'm Sittin' Here,Three Dog Night,-1,88,1
+89,I've Been Born Again,Johnnie Taylor,-1,89,1
+90,Old Home Filler-up An' Keep On-a-truckin' Cafe,C.W. McCall,-1,90,1
+91,You Can't Be A Beacon (if Your Light Don't Shine),Donna Fargo,-1,91,1
+92,What's Your Name,Andy & David Williams,98,92,2
+93,Wake Up And Love Me,April,97,93,3
+94,Worse Comes To Worst,Billy Joel,-1,94,1
+95,Tell Me That I'm Wrong,"Blood, Sweat & Tears",-1,95,1
+96,Air Disaster,Albert Hammond,-1,96,1
+97,Happiness Is Just Around The Bend,The Main Ingredient,-1,97,1
+98,Between Her Goodbye And My Hello,Gladys Knight And The Pips,-1,98,1
+99,Georgia Porcupine,George Fischoff,93,93,5
+100,Tell Laura I Love Her,Johnny T. Angel,94,94,4

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Windy,The Association,1,1,8
+2,Little Bit O' Soul,The Music Explosion,2,2,10
+3,Can't Take My Eyes Off You,Frankie Valli,3,3,9
+4,San Francisco (Be Sure To Wear Flowers In Your Hair),Scott McKenzie,4,4,8
+5,Don't Sleep In The Subway,Petula Clark,5,5,7
+6,Come On Down To My Boat,Every Mothers' Son,6,6,11
+7,Up -- Up And Away,The 5th Dimension,7,7,7
+8,Light My Fire,The Doors,12,8,7
+9,C'mon Marianne,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",16,9,6
+10,A Whiter Shade Of Pale,Procol Harum,13,10,4
+11,I Was Made To Love Her,Stevie Wonder,19,11,6
+12,White Rabbit,Jefferson Airplane,22,12,4
+13,The Tracks Of My Tears,Johnny Rivers,10,10,7
+14,Society's Child (Baby I've Been Thinking),Janis Ian,17,14,8
+15,Here We Go Again,Ray Charles,20,15,9
+16,Let's Live For Today,The Grass Roots,8,8,10
+17,"Mercy, Mercy, Mercy",The Buckinghams,29,17,5
+18,Alfie,Dionne Warwick,15,15,15
+19,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,21,19,10
+20,I Take It Back,Sandy Posey,25,20,6
+21,Jackson,Nancy Sinatra & Lee Hazlewood,33,21,4
+22,Soul Finger,Bar-Kays,24,22,9
+23,Don't Go Out Into The Rain (You're Going To Melt),Herman's Hermits,37,23,4
+24,Step Out Of Your Mind,The American Breed,36,24,7
+25,More Love,Smokey Robinson & The Miracles,30,25,5
+26,Make Me Yours, Bettye Swann,26,26,9
+27,For Your Love,Peaches & Herb,32,27,4
+28,Carrie-Anne,The Hollies,34,28,5
+29,Ding Dong! The Witch Is Dead,The Fifth Estate,18,11,9
+30,There Goes My Everything,Engelbert Humperdinck,45,30,4
+31,"Shake, Rattle & Roll",Arthur Conley,31,31,6
+32,Silence Is Golden,The Tremeloes,47,32,5
+33,She'd Rather Be With Me,The Turtles,11,3,10
+34,For Your Precious Love,"Oscar Toney, Jr.",23,23,8
+35,I Like The Way,Tommy James And The Shondells,50,35,3
+36,Respect,Aretha Franklin,14,1,12
+37,Don't Blame The Children,Sammy Davis Jr.,38,37,8
+38,Groovin',The Young Rascals,9,1,13
+39,Mary In The Morning,Al Martino,27,27,8
+40,Bowling Green,The Everly Brothers,40,40,8
+41,Love Me Tender,Percy Sledge,43,41,5
+42,In The Chapel In The Moonlight,Dean Martin,60,42,2
+43,Pay You Back With Interest,The Hollies,28,28,7
+44,You Must Have Been A Beautiful Baby,The Dave Clark Five,35,35,6
+45,Hypnotized,Linda Jones,51,45,4
+46,Airplane Song (My Airplane),The Royal Guardsmen,48,46,5
+47,Let The Good Times Roll & Feel So Good,Bunny Sigler,61,47,4
+48,Show Business,Lou Rawls,58,48,3
+49,Your Unchanging Love,Marvin Gaye,62,49,3
+50,Take Me (Just As I Am),Solomon Burke,63,50,3
+51,You Wanted Someone To Play With (I Wanted Someone To Love),Frankie Laine,52,51,5
+52,My Mammy,The Happenings,-1,52,1
+53,The Happening,Herb Alpert & The Tijuana Brass,76,53,2
+54,Somebody Help Me,The Spencer Davis Group,64,54,5
+55,You Only Live Twice,Nancy Sinatra,56,55,4
+56,Soothe Me,Sam & Dave,57,56,5
+57,You Were On My Mind,Crispian St. Peters,67,57,3
+58,Joy,Mitch Ryder,81,58,3
+59,Soul Dance Number Three,Wilson Pickett,55,55,5
+60,(I Wanna) Testify,The Parliaments,72,60,3
+61,A Girl Like You, The Young Rascals,-1,61,1
+62,Lonely Drifter,Pieces Of Eight,77,62,4
+63,"Woman Like That, Yeah",Joe Tex,54,54,7
+64,The River Is Wide,The Forum,88,64,2
+65,Pictures Of Lily,The Who,82,65,3
+66,Summer And Sandy,Lesley Gore,65,65,6
+67,Who's Lovin' You,Brenda & The Tabulations,66,66,6
+68,Black Sheep,Sam The Sham and the Pharaohs,68,68,5
+69,Baby Please Come Back Home,J.J. Barnes,69,61,9
+70,You Keep Me Hangin' On,The Vanilla Fudge,86,70,2
+71,My World Fell Down,Sagittarius,89,71,4
+72,Don't Let The Rain Fall Down On Me,The Critters,84,72,2
+73,Now I Know,Jack Jones,73,73,6
+74,I Stand Accused (Of Loving You),The Glories,74,74,5
+75,Groovy Summertime,The Love Generation,78,75,4
+76,Give Me Time,Dusty Springfield,83,76,3
+77,I'll Do It For You,Toussaint McCall,80,77,3
+78,Bluebird,The Buffalo Springfield,-1,78,1
+79,To Love Somebody,Bee Gees,-1,79,1
+80,Mr. Pleasant,The Kinks,90,80,3
+81,Out & About,Tommy Boyce & Bobby Hart,-1,81,1
+82,Washed Ashore (On A Lonely Island In The Sea),The Platters,97,82,3
+83,I'll Turn To Stone,Four Tops,-1,83,1
+84,Everybody Needs Love,Gladys Knight And The Pips,87,84,2
+85,Gentle On My Mind,Glen Campbell,100,85,2
+86,Thank The Lord For The Night Time,Neil Diamond,-1,86,1
+87,I Take What I Want,James & Bobby Purify,-1,87,1
+88,Omaha,Moby Grape,98,88,2
+89,Funky Broadway Part I,Dyke And The Blazers,92,81,8
+90,Blue's Theme,Davie Allan And The Arrows,99,90,6
+91,What Am I Living For,Percy Sledge,94,91,2
+92,Cold Sweat - Part 1,James Brown And The Famous Flames,-1,92,1
+93,I Could Be So Happy,The Magnificent Men,-1,93,1
+94,My Elusive Dreams,David Houston & Tammy Wynette,96,94,2
+95,More And More,Andy Williams,95,95,2
+96,Happy,The Blades Of Grass,-1,96,1
+97,Happy,The Sunshine Company,-1,97,1
+98,"Apples, Peaches, Pumpkin Pie",Jay And The Techniques,-1,98,1
+99,Brown Eyed Girl,Van Morrison,-1,99,1
+100,A Thousand Shadows,The Seeds,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,(Just Like) Starting Over,John Lennon,1,1,13
+2,Love On The Rocks,Neil Diamond,2,2,13
+3,The Tide Is High,Blondie,4,3,11
+4,Guilty,Barbra Streisand & Barry Gibb,3,3,13
+5,Hungry Heart,Bruce Springsteen,5,5,12
+6,Every Woman In The World,Air Supply,6,6,14
+7,Passion,Rod Stewart,7,7,10
+8,I Love A Rainy Night,Eddie Rabbitt,12,8,12
+9,It's My Turn,Diana Ross,11,9,14
+10,"De Do Do Do, De Da Da Da",The Police,10,10,14
+11,I Made It Through The Rain,Barry Manilow,13,11,10
+12,Celebration,Kool & The Gang,14,12,14
+13,Tell It Like It Is,Heart,8,8,10
+14,Hey Nineteen,Steely Dan,15,14,9
+15,Time Is Time,Andy Gibb,18,15,10
+16,Giving It Up For Your Love,Delbert McClinton,19,16,8
+17,Miss Sun,Boz Scaggs,21,17,9
+18,9 To 5,Dolly Parton,22,18,9
+19,Same Old Lang Syne,Dan Fogelberg,26,19,7
+20,Lady,Kenny Rogers,9,1,17
+21,The Winner Takes It All,ABBA,25,21,10
+22,Together,Tierra,23,22,12
+23,Keep On Loving You,REO Speedwagon,28,23,9
+24,Suddenly,Olivia Newton-John & Cliff Richard,20,20,14
+25,Seven Bridges Road,Eagles,29,25,6
+26,I Ain't Gonna Stand For It,Stevie Wonder,32,26,7
+27,Woman,John Lennon,36,27,2
+28,Hit Me With Your Best Shot,Pat Benatar,16,9,17
+29,More Than I Can Say,Leo Sayer,17,2,18
+30,Heartbreak Hotel,The Jacksons,35,30,8
+31,The Best Of Times,Styx,-1,31,1
+32,Killin' Time,Fred Knoblock & Susan Anton,34,32,10
+33,Cold Love,Donna Summer,33,33,9
+34,A Little In Love,Cliff Richard,43,34,7
+35,He Can't Love You,Michael Stanley Band,37,35,10
+36,Smoky Mountain Rain,Ronnie Milsap,42,36,9
+37,Crying,Don McLean,-1,37,1
+38,I Need Your Lovin',Teena Marie,40,38,10
+39,My Mother's Eyes,Bette Midler,39,39,10
+40,Games People Play,The Alan Parsons Project,44,40,8
+41,Shine On,L.T.D.,41,41,11
+42,Who's Making Love,Blues Brothers,46,42,6
+43,One Step Closer,The Doobie Brothers,24,24,10
+44,Love T.K.O.,Teddy Pendergrass,45,44,9
+45,Master Blaster (Jammin'),Stevie Wonder,27,5,19
+46,Fool That I Am,Rita Coolidge,51,46,7
+47,Another One Bites The Dust,Queen,30,1,24
+48,Ah! Leah!,Donnie Iris,52,48,7
+49,Back In Black,AC/DC,54,49,6
+50,Treat Me Right,Pat Benatar,68,50,2
+51,Woman In Love,Barbra Streisand,31,1,21
+52,Everybody's Got To Learn Sometime,The Korgis,38,18,16
+53,You've Lost That Lovin' Feeling,Daryl Hall John Oates,47,12,18
+54,(Ghost) Riders In The Sky,Outlaws,64,54,5
+55,Whip It,Devo,48,14,22
+56,I Believe In You,Don Williams,49,24,18
+57,Never Be The Same,Christopher Cross,50,15,16
+58,United Together,Aretha Franklin,60,58,5
+59,Full Of Fire,Shalamar,61,59,6
+60,Skateaway,Dire Straits,62,60,6
+61,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,53,21,20
+62,Need Your Loving Tonight,Queen,55,44,9
+63,I'm Coming Out,Diana Ross,56,5,21
+64,Flash's Theme Aka Flash,Queen,79,64,2
+65,Hearts On Fire,Randy Meisner,-1,65,1
+66,Girls Can Get It,Dr. Hook,57,34,13
+67,Fly Away,Peter Allen,77,67,3
+68,Teacher Teacher,Rockpile,58,51,10
+69,Kiss On My List,Daryl Hall John Oates,-1,69,1
+70,You,"Earth, Wind & Fire",59,48,10
+71,Sequel,Harry Chapin,63,23,13
+72,Turn And Walk Away,The Babys,65,42,11
+73,The Wanderer,Donna Summer,66,3,19
+74,Gotta Have More Love,Climax Blues Band,67,47,11
+75,Too Tight,ConFunkShun,-1,75,1
+76,Breakfast In America,Supertramp,69,62,7
+77,Guitar Man,Elvis Presley,-1,43,7
+78,Precious To Me,Phil Seymour,-1,78,1
+79,Don't Want No-Body,J.D. Drews,80,79,5
+80,Watching You,Slave,90,80,2
+81,Staying With It,Firefall,-1,81,1
+82,Dreaming,Cliff Richard,70,10,20
+83,Deep Inside My Heart,Randy Meisner,71,22,15
+84,Somebody's Knockin',Terri Gibbs,94,84,2
+85,Living In A Fantasy,Leo Sayer,-1,85,1
+86,Fashion,David Bowie,73,70,8
+87,I Don't Want To Know Your Name,Glen Campbell,-1,87,1
+88,"Wynken, Blynken And Nod",The Doobie Brothers,-1,88,1
+89,Seasons,Charles Fox,-1,89,1
+90,Lipstick,Suzi Quatro,-1,90,1
+91,Remote Control,The Reddings,92,89,11
+92,Got To Rock On,Kansas,76,76,5
+93,Long Time Lovin' You,McGuffey Lane,97,93,2
+94,Never Knew Love Like This Before,Stephanie Mills,78,6,25
+95,The Horizontal Bop,Bob Seger,82,42,12
+96,Easy Love,Dionne Warwick,84,62,10
+97,Lovely One,The Jacksons,85,12,18
+98,Upside Down,Diana Ross,86,1,29
+99,Switchin' To Glide/This Beat Goes On,The Kings,87,43,23
+100,Stop This Game,Cheap Trick,89,48,12

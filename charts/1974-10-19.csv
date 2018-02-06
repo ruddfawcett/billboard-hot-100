@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Nothing From Nothing,Billy Preston,2,1,15
+2,Then Came You,Dionne Warwicke & Spinners,3,2,13
+3,You Haven't Done Nothin,Stevie Wonder,5,3,12
+4,I Honestly Love You,Olivia Newton-John,1,1,10
+5,Jazzman,Carole King,15,5,8
+6,The Bitch Is Back,Elton John,7,6,7
+7,Never My Love,Blue Swede,8,7,9
+8,Can't Get Enough,Bad Company,10,8,10
+9,Steppin' Out (Gonna Boogie Tonight),Tony Orlando & Dawn,11,9,9
+10,Love Me For A Reason,The Osmonds,17,10,8
+11,Stop And Smell The Roses,Mac Davis,12,11,9
+12,You Little Trustmaker,The Tymes,14,12,10
+13,Skin Tight,Ohio Players,13,13,7
+14,Do It Baby,The Miracles,16,14,9
+15,Sweet Home Alabama,Lynyrd Skynyrd,19,9,13
+16,Tin Man,America,20,16,9
+17,You Ain't Seen Nothing Yet/Free Wheelin',Bachman-Turner Overdrive,22,17,5
+18,Whatever Gets You Thru The Night,John Lennon With The Plastic Ono Nuclear Band,24,18,4
+19,Back Home Again,John Denver,23,19,5
+20,Give It To The People,The Righteous Brothers,26,20,7
+21,Life Is A Rock (But The Radio Rolled Me),Reunion,25,21,7
+22,Carefree Highway,Gordon Lightfoot,28,22,8
+23,Earache My Eye,Cheech & Chong Featuring Alice Bowie,9,9,11
+24,Do It ('til You're Satisfied),B.T. Express,30,24,4
+25,Another Saturday Night,Cat Stevens,6,6,12
+26,Beach Baby,First Class,4,4,14
+27,My Melody Of Love,Bobby Vinton,33,27,5
+28,The Need To Be,Jim Weatherly,34,28,6
+29,Straight Shootin' Woman,Steppenwolf,29,29,7
+30,Overnight Sensation (Hit Record),Raspberries,36,30,6
+31,Kings Of The Party,Brownsville Station,31,31,8
+32,Everlasting Love,Carl Carlton,38,32,5
+33,Devotion,"Earth, Wind & Fire",35,33,4
+34,"Honey, Honey",ABBA,40,34,6
+35,Clap For The Wolfman,The Guess Who,18,6,14
+36,I've Got The Music In Me,The Kiki Dee Band,46,36,6
+37,Higher Plane,Kool & The Gang,37,37,7
+38,Second Avenue,Garfunkel,45,38,5
+39,Longfellow Serenade,Neil Diamond,48,39,3
+40,When Will I See You Again,The Three Degrees,72,40,4
+41,One Day At A Time,Marilyn Sellars,41,37,9
+42,Love Don't Love Nobody - Pt. I,The Spinners,52,42,5
+43,Blood Is Thicker Than Water,William DeVaughn,43,43,7
+44,People Gotta Move,Gino Vannelli,54,44,5
+45,So You Are A Star,The Hudson Brothers,55,45,5
+46,You Can Have Her,Sam Neely,58,46,5
+47,Hang On In There Baby,Johnny Bristol,21,8,17
+48,Rock Me Gently,Andy Kim,32,1,18
+49,Distant Lover,Marvin Gaye,60,49,4
+50,Rockin' Soul,The Hues Corporation,63,50,2
+51,Fallin' In Love,"The Souther, Hillman, Furay Band",27,27,9
+52,I Can Help,Billy Swan,69,52,4
+53,I Love My Friend,Charlie Rich,53,24,12
+54,Play Something Sweet (Brickyard Blues),Three Dog Night,67,54,4
+55,Sha-La-La (Make Me Happy),Al Green,66,55,4
+56,Wishing You Were Here,Chicago,-1,56,1
+57,She Called Me Baby,Charlie Rich,64,57,4
+58,Second Avenue,Tim Moore,61,58,5
+59,My Country,Jud Strunk,62,59,4
+60,Angie Baby,Helen Reddy,-1,60,1
+61,I Can't Leave You Alone,George McCrae,80,61,2
+62,Cat's In The Cradle,Harry Chapin,73,62,3
+63,Don't Send Nobody Else,Ace Spectrum,70,63,4
+64,You And Me Against The World,Helen Reddy,51,9,19
+65,After The Goldrush,Prelude,75,65,3
+66,Virgin Man,Smokey Robinson,68,66,4
+67,Doraville,Atlanta Rhythm Section,79,67,3
+68,La La Peace Song,O.C. Smith,71,68,4
+69,Travelin' Shoes,Elvin Bishop ,84,69,3
+70,The Player - Part 1,First Choice,76,70,6
+71,La La Peace Song,Al Wilson,82,71,3
+72,Battle Of New Orleans,The Nitty Gritty Dirt Band,78,72,2
+73,Fairytale,The Pointer Sisters,85,73,3
+74,The Black-Eyed Boys,Paper Lace,88,74,2
+75,Papa Don't Take No Mess (Part I),James Brown,39,31,9
+76,Touch Me,Fancy,87,76,2
+77,She's Gone,Tavares,83,77,3
+78,Pretzel Logic,Steely Dan,89,78,2
+79,You Got The Love,Rufus Featuring Chaka Khan,90,79,2
+80,Kung Fu Fighting,Carl Douglas,94,80,2
+81,I Feel A Song (In My Heart)/Don't Burn Down The Bridge,Gladys Knight And The Pips,92,81,2
+82,Free Man In Paris,Joni Mitchell,50,22,13
+83,In The Bottle,Brother To Brother,93,83,2
+84,Early Morning Love,Sammy Johns,95,84,2
+85,Sugar Pie Guy Pt. 1,The Joneses,86,85,3
+86,James Dean,Eagles,77,77,5
+87,Three Ring Circus,Blue Magic,-1,87,1
+88,"I Wash My Hands Of The Whole Damn Deal, Part I",The New Birth,91,88,2
+89,Loose Booty,Sly & The Family Stone,-1,89,1
+90,Heavy Fallin' Out,The Stylistics,-1,90,1
+91,Live It Up Part 1,The Isley Brothers,81,52,13
+92,Ride 'em Cowboy,Paul Davis,98,92,2
+93,Up For The Down Stroke,Parliament,97,63,8
+94,Ask Me," Ecstasy, Passion & Pain",-1,94,1
+95,Laughter In The Rain,Neil Sedaka,-1,95,1
+96,Give Me A Reason To Be Gone,Maureen McGovern,-1,96,1
+97,Don't Eat The Yellow Snow,Frank Zappa,-1,97,1
+98,Candy's Going Bad,Golden Earring,-1,98,1
+99,I'm A Ramblin' Man,Waylon Jennings,99,75,7
+100,"Can't Get Enough Of Your Love, Babe",Barry White,42,1,12

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Without You,Nilsson,1,1,11
+2,Hurting Each Other,Carpenters,3,2,7
+3,Precious And Few,Climax,4,3,9
+4,Let's Stay Together,Al Green,2,1,13
+5,Down By The Lazy River,The Osmonds,6,5,6
+6,Joy,Apollo featuring Tom Parker,8,6,9
+7,The Lion Sleeps Tonight,Robert John,9,7,9
+8,Everything I Own,Bread,10,8,5
+9,American Pie (Parts I & II),Don McLean,7,1,14
+10,Sweet Seasons,Carole King,11,10,5
+11,Never Been To Spain,Three Dog Night,5,5,10
+12,The Way Of Love,Cher,22,12,5
+13,Heart Of Gold,Neil Young,27,13,4
+14,Bang A Gong (Get It On),T. Rex,18,14,9
+15,Don't Say You Don't Remember,Beverly Bremers,16,15,11
+16,My World,Bee Gees,23,16,5
+17,Day After Day,Badfinger,12,4,13
+18,Floy Joy,The Supremes,25,18,8
+19,Anticipation,Carly Simon,13,13,12
+20,Stay With Me,Faces,17,17,9
+21,Black Dog,Led Zeppelin,15,15,10
+22,Jungle Fever,The Chakachas,35,22,7
+23,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Donnie Elbert,34,23,5
+24,Brand New Key,Melanie,14,1,18
+25,Ain't Understanding Mellow,Jerry Butler & Brenda Lee Eager,32,25,12
+26,Clean Up Woman,Betty Wright,19,6,14
+27,Mother And Child Reunion,Paul Simon,38,27,4
+28,Fire And Water,Wilson Pickett,24,24,10
+29,Footstompin' Music,Grand Funk Railroad,31,29,8
+30,Softly Whispering I Love You,The English Congregation,37,30,6
+31,I Gotcha,Joe Tex,46,31,6
+32,Rock And Roll Lullaby,B.J. Thomas,49,32,3
+33,We've Got To Get It On Again,Addrisi Brothers,41,33,6
+34,Ring The Living Bell,Melanie,39,34,5
+35,Runnin' Away,Sly & The Family Stone,45,35,4
+36,The Nickel Song,Melanie,43,36,6
+37,Feeling Alright,Joe Cocker,33,33,14
+38,Talking Loud And Saying Nothing - Part I,James Brown,47,38,3
+39,"You Want It, You Got It",Detroit Emeralds,40,39,8
+40,Kiss An Angel Good Mornin',Charley Pride,30,21,15
+41,Sunshine,Jonathan Edwards,20,4,16
+42,That's The Way I Feel About Cha,Bobby Womack & Peace,36,27,12
+43,The Witch Queen Of New Orleans,Redbone,21,21,15
+44,Until It's Time For You To Go,Elvis Presley,50,44,5
+45,No One To Depend On,Santana,55,45,3
+46,Handbags And Gladrags,Rod Stewart,56,46,3
+47,A Horse With No Name,America,84,47,2
+48,Roundabout,Yes,62,48,3
+49,Crazy Mama,J.J. Cale,57,49,5
+50,"Love Me, Love Me Love",Frank Mills,59,50,5
+51,Now Run And Tell That,Denise LaSalle,61,51,4
+52,Could It Be Forever,David Cassidy,66,52,2
+53,Show Me How,The Emotions,52,52,14
+54,Country Wine,The Raiders,51,51,5
+55,Together Let's Find Love,The 5th Dimension,54,37,9
+56,Brian's Song,Michel Legrand,60,56,5
+57,Son Of Shaft,The Bar-Kays,53,53,10
+58,Do The Funky Penguin Part I,Rufus Thomas,44,44,10
+59,Glory Bound,The Grass Roots,72,59,3
+60,Puppy Love,Donny Osmond,-1,60,1
+61,Iron Man,Black Sabbath,63,61,5
+62,Every Day Of My Life,Bobby Vinton,78,62,5
+63,Taurus,Dennis Coffey & The Detroit Guitar Band,89,63,2
+64,In The Rain,The Dramatics,-1,64,1
+65,Slippin' Into Darkness,War,67,65,6
+66,Diamonds Are Forever,Shirley Bassey,69,66,5
+67,Gimme Some More,The JB's,73,67,6
+68,That's What Love Will Make You Do,Little Milton,74,68,3
+69,Do Your Thing,Isaac Hayes,-1,69,1
+70,Love Gonna Pack Up (And Walk Out),The Persuaders,64,64,10
+71,(Oh Lord Won't You Buy Me A) Mercedes Benz,Goose Creek Symphony,80,71,5
+72,Keep Playin' That Rock 'N' Roll,Edgar Winter's White Trash,70,70,11
+73,The Day I Found Myself,The Honey Cone,88,73,2
+74,Goin' Down (On The Road To L.A.),Terry Black & Laurel Ward,87,74,3
+75,Standing In For Jody,Johnnie Taylor (The Soul Philosopher),75,75,6
+76,Mr. Penguin-Pt. I,Lunar Funk,82,76,4
+77,Cheer,Potliquor,83,77,4
+78,A Cowboys Work Is Never Done,Sonny & Cher,-1,78,1
+79,"Betcha By Golly, Wow","The Stylistics Featuring Russell Thompkins,Jr.",-1,79,1
+80,Cry,Lynn Anderson,71,71,5
+81,Step Out,The Mamas & The Papas,85,81,3
+82,Do What You Set Out To Do,Bobby Bland,-1,82,1
+83,White Lies,Grin,91,83,4
+84,What It Is,The Undisputed Truth,-1,84,1
+85,Afro-Strut,The Nite-Liters,-1,85,1
+86,Waking Up Alone,Paul Williams,96,86,2
+87,(Love Me) Love The Life I Lead,The Fantastics,93,87,2
+88,Nice To Be With You, Gallery,-1,88,1
+89,Living Without You,Manfred Mann's Earth Band,-1,89,1
+90,Up In Heah,Ike & Tina Turner,-1,90,1
+91,Together Again,Bobby Sherman,99,91,2
+92,It's Four In The Morning,Faron Young,92,92,3
+93,Tell 'Em Willie Boy 's A'Comin',Tommy James,100,93,2
+94,One Way Sunday,Mark-Almond,94,94,2
+95,Keep On Doin' What You're Doin',Bobby Byrd,-1,95,1
+96,Da Doo Ron Ron (When He Walked Me Home),Ian Matthews,97,96,2
+97,It's All Up To You,The Dells,-1,97,1
+98,You Got Me Walking,Jackie Wilson,-1,98,1
+99,Your Precious Love,Linda Jones,-1,99,1
+100,We're Together,The Hillside Singers,-1,100,1

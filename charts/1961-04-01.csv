@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Blue Moon,The Marcels,6,1,5
+2,Apache,Jorgen Ingmann & His Guitar,4,2,11
+3,Surrender,Elvis Presley With The Jordanaires,1,1,7
+4,Pony Time,Chubby Checker,2,1,11
+5,Dedicated To The One I Love,The Shirelles,3,3,15
+6,Don't Worry,Marty Robbins,5,3,10
+7,On The Rebound,Floyd Cramer,11,7,5
+8,Walk Right Back,The Everly Brothers,7,7,9
+9,Runaway,Del Shannon,21,9,5
+10,But I Do,Clarence Henry,17,10,7
+11,Think Twice,Brook Benton,12,11,8
+12,Wheels,The String-A-Longs,8,3,13
+13,Asia Minor,Kokomo,15,13,7
+14,Gee Whiz (Look At His Eyes),Carla Thomas,10,10,10
+15,Where The Boys Are,Connie Francis,9,4,12
+16,Please Love Me Forever,Cathy Jean and The Roommates,22,16,6
+17,Ebony Eyes,The Everly Brothers,13,8,10
+18,Take Good Care Of Her,Adam Wade,24,18,4
+19,You Can Depend On Me,Brenda Lee,62,19,2
+19,Baby Blue,The Echoes,27,19,5
+20,Model Girl,Johnny Maestro,20,20,9
+21,One Mint Julep,Ray Charles,32,21,5
+22,"Tonight My Love, Tonight",Paul Anka,34,22,4
+23,Mother-In-Law,Ernie K-Doe,55,23,2
+24,Spanish Harlem,Ben E. King,16,10,14
+25,I've Told Every Little Star,Linda Scott,46,25,4
+26,A Hundred Pounds Of Clay,Gene McDaniels,71,26,3
+27,Please Tell Me Why,Jackie Wilson,33,27,4
+28,Lazy River,Bobby Darin,14,14,9
+30,Once Upon A Time,Rochell And The Candles With Johnny Wyatt,35,30,9
+31,That's It - I Quit - I'm Movin' On,Sam Cooke,31,31,5
+32,Fell In Love On Monday,Fats Domino,41,32,3
+33,Happy Birthday Blues,Kathy Young With The Innocents,37,30,7
+34,Find Another Girl,Jerry Butler,56,34,5
+35,Hide Away,Freddy King,45,35,5
+36,Baby Sittin' Boogie,Buzz Clifford,19,6,13
+37,Portrait Of My Love,Steve Lawrence,48,37,5
+38,Trust In Me,Etta James,43,38,4
+39,The Watusi,The Vibrations,28,25,7
+40,Bewildered,James Brown And The Famous Flames,49,40,6
+41,Hearts Of Stone,Bill Black's Combo,26,20,7
+42,Calcutta,Lawrence Welk And His Orchestra,23,1,17
+43,Little Boy Sad,Johnny Burnette,18,17,9
+44,Your One And Only Love,Jackie Wilson,40,40,4
+45,You Can Have Her,Roy Hamilton,30,12,10
+46,Some Kind Of Wonderful,The Drifters,64,46,3
+47,Shu Rah,Fats Domino,54,47,3
+48,Good Time Baby,Bobby Rydell,25,11,11
+49,Exodus,Ferrante & Teicher,36,2,21
+50,The Second Time Around,Frank Sinatra,65,50,5
+51,There's A Moon Out Tonight,The Capris,29,3,14
+52,To Be Loved (Forever),The Pentagons,86,52,7
+53,Theme From Dixie,Duane Eddy,77,53,3
+54,Just For Old Time's Sake,The McGuire Sisters,78,54,4
+55,Ginnie Bell,Paul Dino,51,51,10
+56,Tonight I Fell In Love,The Tokens,76,56,5
+57,(Love Theme From) One Eyed Jacks,Ferrante & Teicher,61,57,3
+58,(Theme from) My Three Sons,Lawrence Welk And His Orchestra,66,58,3
+59,Tenderly,Bert Kaempfert And His Orchestra,87,59,2
+60,Daddy's Home,Shep And The Limelites,88,60,2
+61,The Very Thought Of You,Little Willie John,73,61,4
+62,The Blizzard,Jim Reeves,82,62,3
+63,Blue Moon,Herb Lance & The Classics,50,50,5
+64,Brass Buttons,The String-A-Longs,80,64,2
+65,Bye Bye Baby,Mary Wells,75,65,9
+66,Funny,Maxine Brown,83,66,2
+67,Merry-Go-Round,Marv Johnson,84,67,4
+68,"Ain't It, Baby",The Miracles,85,68,2
+69,Ling-Ting-Tong,Buddy Knox,70,69,5
+70,Little Miss Stuck-Up,The Playmates,72,70,5
+71,Sleepy-Eyed John,Johnny Horton,89,71,2
+72,Welcome Home,Sammy Kaye And His Orchestra,-1,72,1
+73,The Continental Walk,Hank Ballard And The Midnighters,-1,73,1
+74,Foolin' Around,Kay Starr,81,74,3
+75,I'm In The Mood For Love,The Chimes,92,75,2
+76,Little Pedro,The Olympics,98,76,2
+77,Your Friends,Dee Clark,39,34,9
+78,Pony Express,Danny & The Juniors,68,60,7
+79,The Touchables,Dickie Goodman,60,60,7
+80,Seventeen,Frankie Ford,91,80,3
+81,Where I Fell In Love,The Capris,97,81,2
+82,Trees,The Platters,-1,82,1
+83,"Like, Long Hair",Paul Revere & The Raiders,94,83,2
+84,Bumble Boogie,B. Bumble & The Stingers,90,84,2
+85,I Told You So,Jimmy Jones,93,85,2
+86,Lonely Blue Nights,Rosie,74,66,4
+87,Triangle,Janie Grant,96,87,2
+88,Honky Tonk (Part 2),Bill Doggett,59,57,10
+89,What'd I Say,Jerry Lee Lewis And His Pumping Piano,-1,89,1
+90,(Theme from) The Great Impostor,Henry Mancini And His Orchestra,-1,90,1
+91,I Pity The Fool,Bobby Bland,47,46,7
+92,Kokomo,The Flamingos,-1,92,3
+93,Underwater,The Frogmen,-1,93,1
+94,A Scottish Soldier (Green Hills of Tyrol),Andy Stewart,-1,94,1
+95,Little Turtle Dove,Otis Williams And His Charms,-1,95,3
+96,I Don't Want To Cry,Chuck Jackson,53,36,7
+97,Bonanza,Al Caiola And His Orchestra,-1,97,1
+98,California Sun,Joe Jones,-1,98,1
+99,The Next Kiss (Is The Last Goodbye),Conway Twitty,-1,99,1
+100,Sweet Little Kathy,Ray Peterson,-1,100,1

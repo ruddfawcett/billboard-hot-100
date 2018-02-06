@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Surf City,Jan & Dean,2,1,6
+2,Easier Said Than Done,The Essex,1,1,7
+3,So Much In Love,The Tymes,4,3,8
+4,"Tie Me Kangaroo Down, Sport",Rolf Harris,3,3,7
+5,Memphis,Lonnie Mack,7,5,7
+6,Fingertips - Pt 2,Little Stevie Wonder,11,6,5
+7,Wipe Out,The Surfaris,10,7,5
+8,Sukiyaki,Kyu Sakamoto,6,1,11
+9,(You're the) Devil In Disguise,Elvis Presley With The Jordanaires,16,9,4
+10,Pride And Joy,Marvin Gaye,13,10,10
+11,Blue On Blue,Bobby Vinton,8,3,10
+12,One Fine Day,The Chiffons,5,5,8
+13,Not Me,The Orlons,15,13,6
+14,Blowin' In The Wind,"Peter, Paul & Mary",34,14,4
+15,Just One Look,Doris Troy,20,15,7
+16,Hello Stranger,Barbara Lewis,9,3,12
+17,Harry The Hairy Ape,Ray Stevens,17,17,6
+18,Hopeless,Andy Williams,28,18,5
+19,It's My Party,Lesley Gore,12,1,11
+20,Ring Of Fire,Johnny Cash,23,20,8
+21,No One,Ray Charles,24,21,5
+22,On Top Of Spaghetti,Tom Glazer And The Do-Re-Mi Children's Chorus,14,14,8
+23,Judy's Turn To Cry,Lesley Gore,52,23,3
+24,Detroit City,Bobby Bare,27,24,6
+25,My True Confession,Brook Benton,31,25,6
+26,Falling,Roy Orbison,22,22,7
+27,You Can't Sit Down,The Dovells,19,3,13
+28,My Summer Love,Ruby And The Romantics,21,16,10
+29,Without Love (There Is Nothing),Ray Charles,35,29,5
+30,Candy Girl,The 4 Seasons,54,30,3
+31,Don't Say Goodnight And Mean Goodbye,The Shirelles,36,31,6
+32,Goodnight My Love,The Fleetwoods,40,32,8
+33,Those Lazy-Hazy-Crazy Days Of Summer,Nat King Cole,18,6,11
+34,Be True To Yourself,Bobby Vee,43,34,5
+35,Till Then,The Classics,49,35,5
+36,Still,Bill Anderson,29,8,15
+37,Six Days On The Road,Dave Dudley,44,37,7
+38,Swinging On A Star,Big Dee Irwin (with Little Eva),38,38,9
+39,(I Love You) Don't You Forget It,Perry Como,41,39,8
+40,Abilene,George Hamilton IV,51,40,5
+41,Shut Down,The Beach Boys,33,23,13
+42,Denise,Randy & The Rainbows,46,42,6
+43,Hootenanny,The Glencoves,47,43,6
+44,"Green, Green",The New Christy Minstrels,60,44,4
+45,String Along,Rick Nelson,26,25,9
+46,Be Careful Of Stones That You Throw,Dion,58,46,3
+47,Rock Me In The Cradle Of Love,Dee Dee Sharp,59,47,4
+48,First Quarrel,Paul and Paula,30,27,8
+49,Summer's Comin',Kirby St. Romain,50,49,6
+50,More,Kai Winding & Orchestra,73,50,3
+51,My Whole World Is Falling Down,Brenda Lee,74,51,3
+52,Tips Of My Fingers,Roy Clark,64,52,4
+53,I Wonder,Brenda Lee,70,53,2
+54,Come Go With Me,Dion,48,48,6
+55,I (Who Have Nothing),Ben E. King,66,55,4
+56,Da Doo Ron Ron (When He Walked Me Home),The Crystals,25,3,13
+57,Danke Schoen,Wayne Newton And The Newton Brothers,75,57,2
+58,Come And Get These Memories,Martha & The Vandellas,42,29,16
+59,Mockingbird,Inez Foxx with Charlie Foxx,72,59,5
+60,I Love You Because,Al Martino,37,3,16
+61,Shake A Tail Feather,The Five Du-Tones,57,51,10
+62,Surf Party,Chubby Checker,81,62,2
+63,True Love Never Runs Smooth,Gene Pitney,92,63,3
+64,Like The Big Guys Do,The Rocky Fellers,55,55,4
+65,Shake! Shake! Shake!,Jackie Wilson,83,65,2
+66,Marlena,The 4 Seasons,77,66,2
+67,Sometimes You Gotta Cry A Little,Bobby Bland,-1,67,1
+68,When A Boy Falls In Love,Mel Carter,79,68,3
+69,My Block,The Four Pennies,67,67,5
+70,Cottonfields,Ace Cannon,78,70,5
+71,Twist It Up,Chubby Checker,-1,71,1
+72,The Monkey Time,Major Lance,90,72,2
+73,Brenda,The Cupids,76,73,3
+74,Will Power,The Cookies,80,74,3
+75,I Will Love You,Richard Chamberlain,93,75,3
+76,Jack The Ripper,Link Wray And The Wraymen,71,69,6
+77,From Me To You,Del Shannon,82,77,4
+78,Make The World Go Away,Timi Yuro,-1,78,1
+79,Leave Me Alone,Baby Washington,-1,79,1
+80,How Many Teardrops,Lou Christie,-1,80,1
+81,I'm Afraid To Go Home,Brian Hyland,87,81,4
+82,Rat Race,The Drifters,84,71,6
+83,Antony And Cleopatra Theme,Ferrante & Teicher,89,83,4
+84,Land Of 1000 Dances,Chris Kenner,88,84,4
+85,A Letter From Betty,Bobby Vee,-1,85,2
+86,Surfin' Hootenanny,Al Casey,97,86,2
+87,Can't Nobody Love You,Solomon Burke,-1,87,1
+88,Love Me All The Way,Kim Weston,96,88,3
+89,Dancin' Holiday,The Olympics,91,89,3
+90,Wait Til' My Bobby Gets Home,Darlene Love,-1,90,1
+91,Groovy Baby,Billy Abbott And The Jewels,-1,91,1
+92,Mama Don't Allow,The Rooftop Singers,-1,92,1
+93,Summertime,Chris Columbo Quintet,-1,93,2
+94,"Dance, Dance, Dance",Joey Dee,-1,94,1
+95,I Can't Stop Loving You,Count Basie,98,77,8
+96,It Hurts To Be Sixteen,Andrea Carroll,-1,96,1
+97,This Is All I Ask,Tony Bennett,-1,97,1
+98,Still No. 2,Ben Colder,-1,98,1
+99,I Want To Stay Here,Steve & Eydie,-1,99,1
+100,What A Fool I've Been,Carla Thomas,-1,100,1

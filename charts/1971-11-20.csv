@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Theme From Shaft,Isaac Hayes,2,1,6
+2,"Gypsys, Tramps & Thieves",Cher,1,1,10
+3,Imagine,John Lennon Plastic Ono Band,3,3,5
+4,Baby I'm - A Want You,Bread,11,4,5
+5,Have You Seen Her,The Chi-lites,8,5,5
+6,Maggie May/Reason To Believe,Rod Stewart,4,1,19
+7,Peace Train,Cat Stevens,7,7,9
+8,Family Affair,Sly & The Family Stone,21,8,3
+9,Got To Be There,Michael Jackson,13,9,4
+10,Yo-Yo,The Osmonds,6,3,11
+11,I've Found Someone Of My Own,The Free Movement,5,5,25
+12,Inner City Blues (Make Me Wanna Holler),Marvin Gaye,9,9,7
+13,Desiderata,Les Crane,15,13,7
+14,Everybody's Everything,Santana,16,14,6
+15,Rock Steady,Aretha Franklin,22,15,4
+16,Superstar/Bless The Beasts And Children,Carpenters,10,2,12
+17,Easy Loving,Freddie Hart,18,17,14
+18,Two Divided By Love,The Grass Roots,27,18,7
+19,Never My Love,The 5th Dimension,12,12,10
+20,Tired Of Being Alone,Al Green,17,11,18
+21,A Natural Man,Lou Rawls,31,21,13
+22,Do You Know What I Mean,Lee Michaels,14,6,17
+23,Respect Yourself,The Staple Singers,37,23,6
+24,Questions 67 And 68/I'm A Man,Chicago,25,24,7
+25,All I Ever Need Is You,Sonny & Cher,33,25,6
+26,Absolutely Right,Five Man Electrical Band,26,26,6
+27,"One Tin Soldier, The Legend of Billy Jack",Coven,29,27,10
+28,The Night They Drove Old Dixie Down,Joan Baez,19,3,15
+29,Cherish,David Cassidy,40,29,3
+30,Where Did Our Love Go,Donnie Elbert,51,30,6
+31,"Theme From ""Summer Of '42""",Peter Nero,43,31,6
+32,Superstar (Remember How You Got Where You Are),The Temptations,67,32,3
+33,Scorpio,Dennis Coffey & The Detroit Guitar Band,38,33,4
+34,One Fine Morning,Lighthouse,24,24,11
+35,Only You Know And I Know,Delaney & Bonnie,20,20,9
+36,Wild Night,Van Morrison,41,36,7
+37,You've Got To Crawl (Before You Walk),The 8th Day,28,28,10
+38,Trapped By A Thing Called Love,Denise LaSalle,35,13,14
+39,An Old Fashioned Love Song,Three Dog Night,77,39,2
+40,I'd Love To Change The World,Ten Years After,42,40,9
+41,She's All I Got,Freddie North,45,41,8
+42,Love,The Lettermen,49,42,7
+43,You Are Everything,The Stylistics,59,43,3
+44,It's A Cryin' Shame,Gayle McCormick,47,44,10
+45,Till,Tom Jones,50,45,4
+46,Long Ago And Far Away,James Taylor,36,31,8
+47,Stones/Crunchy Granola Suite,Neil Diamond,76,47,2
+48,I'm A Greedy Man - Part I,James Brown,61,48,2
+49,What Are You Doing Sunday,Dawn Featuring Tony Orlando,39,39,8
+50,Charity Ball,Fanny,46,40,10
+51,Your Move (I've Seen All Good People),Yes,52,51,9
+52,It's Impossible,The New Birth,54,52,7
+53,Don't Wanna Live Inside Myself,Bee Gees,55,53,5
+54,Brand New Key,Melanie,66,54,4
+55,Grandma's Hands,Bill Withers,69,55,4
+56,Bless You,Martha Reeves & The Vandellas,53,53,6
+57,Mammy Blue,Pop-Tops,64,57,7
+58,Do I Love You,Paul Anka,63,58,8
+59,You Brought The Joy,Freda Payne,57,52,8
+60,Jennifer,Bobby Sherman,62,60,6
+61,Behind Blue Eyes,The Who,89,61,3
+62,An American Trilogy,Mickey Newbury,75,62,3
+63,I'm Still Waiting,Diana Ross,78,63,3
+64,It's For You,Springwell,60,60,10
+65,Friends With You,John Denver,82,65,3
+66,Hallelujah,Sweathog,100,66,2
+67,Rub It In,Layng Martine,65,65,8
+68,Gimme Some Lovin'-Pt. 1,"Traffic, Etc.",73,68,5
+69,Sunshine,Jonathan Edwards ,90,69,2
+70,My Part/Make It Funky (Part 3),James Brown,68,68,5
+71,Let It Be,Joan Baez,99,71,2
+72,You've Lost That Lovin' Feelin',Roberta Flack & Donny Hathaway,71,71,5
+73,Ain't Nobody Home,B.B. King,87,73,2
+74,One Monkey Don't Stop No Show Part I,The Honey Cone,-1,74,1
+75,Life Is A Carnival,The Band,72,72,6
+76,Can I Get A Witness,Lee Michaels,-1,76,1
+77,I Like What You Give,Nolan,70,70,8
+78,"Lisa, Listen To Me","Blood, Sweat & Tears",79,78,4
+79,(I Know) I'm Losing You,Rod Stewart With Faces,-1,79,1
+80,Dolly Dagger,Jimi Hendrix,80,80,5
+81,Long Ago Tomorrow,B.J. Thomas,85,81,3
+82,Walk Right Up To The Sun,The Delfonics,83,82,4
+83,For Ladies Only,Steppenwolf,84,83,3
+84,Satisfaction,Smokey Robinson & The Miracles,-1,84,1
+85,I Say A Little Prayer/By The Time I Get To Phoenix,Glen Campbell/Anne Murray,81,81,5
+86,"White Lies, Blue Eyes",Bullet,88,86,3
+87,Tell Mama,Savoy Brown,91,87,3
+88,Kiss An Angel Good Mornin',Charley Pride,-1,88,1
+89,Long Promised Road,The Beach Boys,92,89,4
+90,My Boy,Richard Harris,-1,90,1
+91,Turn Your Radio On,Ray Stevens,-1,91,1
+92,I Bet He Don't Love You (Like I Love You),The Intruders,94,92,4
+93,Help Me Make It Through The Night,O.C. Smith,93,93,2
+94,Fool Me,Joe South,96,94,3
+95,Get Down,Curtis Mayfield,98,95,2
+96,Show Me How,The Emotions,97,96,3
+97,You Keep Me Holding On,Tyrone Davis,-1,97,1
+98,Lookin' Back,Bob Seger,-1,98,1
+99,The Witch Queen Of New Orleans,Redbone,-1,99,1
+100,Pretty As You Feel,Jefferson Airplane,-1,100,1

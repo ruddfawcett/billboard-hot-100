@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,My Heart Has A Mind Of Its Own,Connie Francis,2,1,7
+2,The Twist,Chubby Checker,1,1,9
+3,Chain Gang,Sam Cooke,5,3,7
+4,Mr. Custer,Larry Verne,4,4,5
+5,A Million To One,Jimmy Charles and The Revelletts,10,5,6
+6,It's Now Or Never,Elvis Presley With The Jordanaires,3,1,11
+7,Walk -- Don't Run,The Ventures,6,2,11
+8,Kiddio,Brook Benton,7,7,8
+9,So Sad (To Watch Good Love Go Bad),The Everly Brothers,11,9,4
+10,Save The Last Dance For Me,The Drifters,18,10,4
+11,Pineapple Princess,Annette With The Afterbeats,17,11,7
+12,Theme From The Apartment,Ferrante & Teicher,12,10,10
+13,Devil Or Angel,Bobby Vee,15,13,9
+14,Volare,Bobby Rydell,9,4,11
+15,Dreamin',Johnny Burnette,13,11,10
+16,Yogi,The Ivy Three,8,8,8
+17,The Same One,Brook Benton,16,16,6
+18,Mission Bell,Donnie Brooks,14,7,16
+19,You Mean Everything To Me,Neil Sedaka,23,19,8
+20,Finger Poppin' Time,Hank Ballard And The Midnighters,19,7,20
+21,Three Nights A Week,Fats Domino,22,21,4
+22,Lucille,The Everly Brothers,27,22,4
+23,I Want To Be Wanted,Brenda Lee,33,23,3
+24,Over The Rainbow,The Demensions,21,16,13
+25,In My Little Corner Of The World,Anita Bryant,20,10,12
+26,Never On Sunday,Don Costa And His Orchestra And Chorus,31,26,8
+27,I'm Not Afraid,Ricky Nelson,38,27,4
+28,Honest I Do,The Innocents,39,28,7
+29,Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini,Brian Hyland,25,1,13
+30,I'm Sorry,Brenda Lee,24,1,18
+31,Anymore,Teresa Brewer,34,31,8
+32,Hot Rod Lincoln,Johnny Bond,26,26,8
+33,Let's Think About Living,Bob Luman,56,33,4
+34,"Yes Sir, That's My Baby",Ricky Nelson,43,34,3
+35,The Twist,Hank Ballard And The Midnighters,28,28,11
+36,(You Were Made For) All My Love,Jackie Wilson,29,12,12
+37,Diamonds And Pearls,The Paradons,60,37,6
+38,Only The Lonely (Know How I Feel),Roy Orbison,30,2,17
+39,Hello Young Lovers,Paul Anka,32,23,9
+40,(I Do The) Shimmy Shimmy,Bobby Freeman,47,40,7
+41,Ta Ta,Clyde McPhatter,36,23,11
+42,"A Woman, A Lover, A Friend",Jackie Wilson,37,15,12
+43,You're Looking Good,Dee Clark,50,43,7
+44,A Fool In Love,Ike & Tina Turner,49,44,5
+45,Let's Have A Party,Wanda Jackson,51,45,5
+46,"Please Help Me, I'm Falling",Hank Locklin,40,8,19
+47,Don't Be Cruel,Bill Black's Combo,76,47,3
+48,I Love You In The Same Old Way,Paul Anka,46,40,9
+49,Image Of A Girl,Safaris with The Phantom's Band,35,6,17
+50,Big Boy Pete,The Olympics,53,50,13
+51,(I Can't Help You) I'm Falling Too,Skeeter Davis,42,39,6
+52,Hot Rod Lincoln,Charlie Ryan and the Timberline Riders,45,33,18
+53,Sleep,Little Willie John,65,53,4
+54,Run Samson Run,Neil Sedaka,48,48,4
+55,Malagueña,Connie Francis,55,55,6
+56,You Talk Too Much,Joe Jones,91,56,2
+57,Shimmy Like Kate,The Olympics,70,57,3
+58,If I Can't Have You,Etta & Harvey,52,52,9
+59,Put Your Arms Around Me Honey,Fats Domino,58,58,4
+60,(You've Got To) Move Two Mountains,Marv Johnson,66,60,4
+61,My Love For You,Johnny Mathis,63,61,5
+62,Rocking Goose,Johnny And The Hurricanes,73,62,4
+63,It Only Happened Yesterday,Jack Scott,41,38,9
+64,A Mess Of Blues,Elvis Presley With The Jordanaires,59,32,10
+65,Let The Good Times Roll,Shirley & Lee,54,48,4
+66,Come Back,Jimmy Clanton,74,66,6
+67,Togetherness, Frankie Avalon,100,67,2
+68,My Shoes Keep Walking Back To You,Guy Mitchell,57,45,9
+69,And Now,Della Reese,72,69,4
+70,A Kookie Little Paradise,Jo Ann Campbell,61,61,7
+71,Twistin' U.S.A.,Danny & The Juniors,98,71,2
+72,I Walk The Line,Jaye P. Morgan,68,66,5
+73,Time Machine,Dante and the Evergreens,95,73,3
+74,Five Brothers,Marty Robbins,77,74,3
+75,Somebody To Love,Bobby Darin,-1,75,1
+76,Tonight's The Night,The Chiffons,78,76,3
+77,"Let's Go, Let's Go, Let's Go",Hank Ballard And The Midnighters,87,77,2
+78,Tonights The Night,The Shirelles,90,78,3
+79,Just Call Me (And I'll Understand),Lloyd Price and His Orchestra,92,79,3
+80,Brontosaurus Stomp,The Piltdown Men,75,75,3
+81,Blue Angel,Roy Orbison,96,81,2
+82,Nice 'N' Easy,Frank Sinatra,67,60,5
+83,Journey Of Love,The Crests featuring Johnny Mastro,81,81,3
+84,The Lovin' Touch,Mark Dinning,88,84,5
+85,North To Alaska,Johnny Horton,93,85,2
+86,This Old Heart,James Brown And The Famous Flames,85,79,5
+87,Kommotion,Duane Eddy,83,78,6
+88,Is You Is Or Is You Ain't My Baby,Buster Brown,94,88,2
+89,My Dearest Darling,Etta James,99,89,2
+90,Artificial Flowers,Bobby Darin,-1,90,1
+91,Temptation,Roger Williams,-1,91,1
+92,Over The Mountain; Across The Sea,Johnnie & Joe,-1,92,1
+93,No,Dodie Stevens,80,73,8
+94,Georgia On My Mind,Ray Charles,-1,94,1
+95,Alvin For President,David Seville And The Chipmunks,-1,95,2
+96,"The Wreck Of The ""John B""",Jimmie Rodgers,71,64,9
+97,Summer's Gone,Paul Anka,-1,97,1
+98,Alabam,Cowboy Copas,-1,98,1
+99,You Talk Too Much,Frankie Ford,-1,99,1
+100,Wait,Jimmy Clanton,-1,100,1

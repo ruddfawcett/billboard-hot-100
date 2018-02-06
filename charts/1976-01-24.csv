@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Theme From Mahogany (Do You Know Where You're Going To),Diana Ross,2,1,13
+2,I Write The Songs,Barry Manilow,1,1,11
+3,Love Rollercoaster,Ohio Players,4,3,11
+4,Love To Love You Baby,Donna Summer,7,4,8
+5,I Love Music (Part 1),The O'Jays,6,5,13
+6,You Sexy Thing,Hot Chocolate,8,6,13
+7,Convoy,C.W. McCall,3,1,8
+8,Times Of Your Life,Paul Anka,9,8,11
+9,Walk Away From Love,David Ruffin,10,9,12
+10,Sing A Song,"Earth, Wind & Fire",12,10,10
+11,Country Boy (You Got Your Feet In L.A.),Glen Campbell,11,11,12
+12,Rock And Roll All Nite (live),KISS,13,12,11
+13,Fly Away,John Denver,14,13,8
+14,50 Ways To Leave Your Lover,Paul Simon,15,14,6
+15,Evil Woman,Electric Light Orchestra,16,15,11
+16,Love Machine (Part 1),The Miracles,18,16,14
+17,Breaking Up Is Hard To Do,Neil Sedaka,19,17,7
+18,Fox On The Run,Sweet,5,5,11
+19,Love Hurts,Nazareth,21,19,10
+20,Theme From S.W.A.T.,Rhythm Heritage,27,20,11
+21,Winners And Losers,"Hamilton, Joe Frank & Reynolds",22,21,12
+22,Wake Up Everybody (Part 1),Harold Melvin And The Blue Notes,23,22,10
+23,Baby Face,The Wing And A Prayer Fife & Drum Corps.,25,23,11
+24,Somewhere In The Night,Helen Reddy,26,24,8
+25,Saturday Night,Bay City Rollers,17,1,16
+26,Squeeze Box,The Who,28,26,9
+27,Paloma Blanca,George Baker Selection,29,27,9
+28,Take It To The Limit,Eagles,32,28,6
+29,Over My Head,Fleetwood Mac,20,20,12
+30,Let It Shine/He Ain't Heavy...He's My Brother,Olivia Newton-John,30,30,8
+31,All By Myself,Eric Carmen,38,31,6
+32,Fanny (Be Tender With My Love),Bee Gees,40,32,5
+33,Golden Years,David Bowie,37,33,7
+34,Slow Ride,Foghat,36,34,7
+35,That's The Way (I Like It),KC And The Sunshine Band,24,1,14
+36,Deep Purple,Donny & Marie Osmond,41,36,7
+37,Tracks Of My Tears,Linda Ronstadt,43,37,6
+38,Let The Music Play,Barry White,42,38,5
+39,The White Knight,Cledus Maggard And The Citizen's Band,45,39,5
+40,Love Or Leave,The Spinners,46,40,5
+41,Let's Do It Again,The Staple Singers,31,1,14
+42,Yesterday's Hero,John Paul Young,50,42,7
+43,Break Away,Art Garfunkel,52,43,5
+44,"December, 1963 (Oh, What a Night)",The 4 Seasons,54,44,5
+45,For The Love Of You (Part 1&2),The Isley Brothers,34,22,11
+46,Junk Food Junkie,Larry Groce,56,46,3
+47,The Homecoming,Hagood Hardy,49,47,6
+48,Sweet Love,Commodores,53,48,5
+49,Bohemian Rhapsody,Queen,59,49,4
+50,Hurricane (Part 1),Bob Dylan,33,33,9
+51,Love Is The Drug,Roxy Music,61,51,5
+52,Let's Live Together,The Road Apples,35,35,14
+53,Only Sixteen,Dr. Hook,65,53,4
+54,Easy As Pie,"Billy ""Crash"" Craddock",55,54,7
+55,Grow Some Funk Of Your Own/I Feel Like A Bullet (In The Gun Of Robert Ford),Elton John,-1,55,1
+56,Back To The Island,Leon Russell,58,56,4
+57,"Fly, Robin, Fly",Silver Convention,39,1,16
+58,Woman Tonight,America,44,44,9
+59,Dream On,Aerosmith,69,59,12
+60,Dream Weaver,Gary Wright,78,60,4
+61,Inseparable,Natalie Cole,51,51,7
+62,Sweet Thing, Rufus Featuring Chaka Khan,72,62,4
+63,'til It's Time To Say Goodbye,Jonathan Cain,75,63,3
+64,Feelings,Morris Albert,66,6,32
+65,Don't Cry Joni,Conway Twitty with Joni Lee,67,65,6
+66,Lady Bump,Penny Mclean,68,66,4
+67,Honey I,George McCrae,76,67,3
+68,That's Why I Love You,Andrew Gold,74,68,4
+69,Lonely Night (angel Face),Captain & Tennille,-1,69,1
+70,Tangerine,The Salsoul Orchestra,-1,70,1
+71,Chain Gang Medley,Jim Croce,81,71,4
+72,Renegade,Michael Murphey,-1,72,1
+73,Take Me,Grand Funk Railroad,-1,73,1
+74,Amazing Grace (used To Be Her Favorite Song),Amazing Rhythm Aces,80,74,6
+75,Quiet Storm,Smokey Robinson,86,75,2
+76,I Could Have Danced All Night/Jump For Joy,Biddu Orchestra,84,76,3
+77,Funky Weekend,The Stylistics,79,77,8
+78,What's The Name Of This Funk (spider Man),Ramsey Lewis,-1,78,1
+79,Remember Me,Willie Nelson,82,79,3
+80,Hold Back The Night,The Trammps,90,80,2
+81,Growin' Up,Dan Hill,-1,81,1
+82,If I Only Knew,Ozark Mountain Daredevils,88,82,2
+83,Every Beat Of My Heart,Crown Heights Affair,83,83,8
+84,Make Love To Your Mind,Bill Withers,91,84,6
+85,This Old Heart Of Mine,Rod Stewart,85,85,3
+86,Since I Fell For You,Charlie Rich,-1,86,1
+87,You're Fooling You,The Dramatics,87,87,2
+88,Once You Hit The Road,Dionne Warwick,92,88,3
+89,Tell It Like It Is,Andy Williams,99,89,2
+90,Close To You,B.T. Express,-1,90,1
+91,Tenth Avenue Freeze-out,Bruce Springsteen,-1,91,1
+92,Disco Sax/for The Love Of You,Houston Person,93,92,2
+93,One Fine Day,Julie,94,93,2
+94,We're On The Right Track,South Shore Commission,95,94,3
+95,Daydreamer,C.C. & Company,96,95,4
+96,Bad Luck,The Atlanta Disco Band,98,96,3
+97,Young Love,Ray Stevens,-1,97,1
+98,Venus,Frankie Avalon,-1,1,18
+99,Tonight's The Night,S.S.O.,100,99,3
+100,I Don't Wanna Leave You,Debbie Taylor,-1,100,1

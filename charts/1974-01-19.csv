@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Show And Tell,Al Wilson,3,1,14
+2,The Joker,The Steve Miller Band,1,1,14
+3,Smokin' In The Boy's Room,Brownsville Station,4,3,13
+4,I've Got To Use My Imagination,Gladys Knight And The Pips,5,4,9
+5,You're Sixteen,Ringo Starr,6,5,6
+6,Time In A Bottle,Jim Croce,2,1,10
+7,The Way We Were,Barbra Streisand,11,7,9
+8,Living For The City,Stevie Wonder,8,8,11
+9,Let Me Be There,Olivia Newton-John,9,9,10
+10,Love's Theme,Love Unlimited Orchestra,13,10,8
+11,"Never, Never Gonna Give Ya Up",Barry White,7,7,13
+12,Helen Wheels,Paul McCartney And Wings,10,10,9
+13,Until You Come Back To Me (That's What I'm Gonna Do),Aretha Franklin,17,13,9
+14,When I Fall In Love/Are You Lonesome Tonight,Donny Osmond,15,14,9
+15,Me And Baby Brother,War,16,15,11
+16,The Most Beautiful Girl,Charlie Rich,12,1,17
+17,Americans,Byron MacGregor,33,17,3
+18,Spiders & Snakes,Jim Stafford,22,18,11
+19,Livin' For You,Al Green,21,19,7
+20,Walk Like A Man,Grand Funk,23,20,9
+21,Leave Me Alone (ruby Red Dress),Helen Reddy,14,3,12
+22,Jungle Boogie,Kool & The Gang,28,22,7
+23,Goodbye Yellow Brick Road,Elton John,18,2,13
+24,Sister Mary Elephant (Shudd-Up!),Cheech & Chong,25,24,9
+25,Top Of The World,Carpenters,19,1,16
+26,Hello It's Me,Todd Rundgren,20,5,16
+27,If You're Ready (Come Go With Me),The Staple Singers,24,9,13
+28,If We Make It Through December,Merle Haggard,32,28,9
+29,Put Your Hands Together,The O'Jays,39,29,5
+30,Let Your Hair Down,The Temptations,38,30,5
+31,Rockin' Roll Baby,The Stylistics,27,14,14
+32,Rock On,David Essex,40,32,11
+33,"""Joy"" Pt. I",Isaac Hayes,36,33,5
+34,MIND GAMES,John Lennon,29,18,11
+35,Just You 'n' Me,Chicago,26,4,17
+36,Midnight Rider,Gregg Allman,44,36,5
+37,American Tune,Paul Simon,35,35,8
+38,I Love,Tom T. Hall,41,38,7
+39,Baby Come Close,Smokey Robinson,48,39,10
+40,Love Song,Anne Murray,50,40,6
+41,Last Time I Saw Him,Diana Ross,56,41,3
+42,Jim Dandy,Black Oak Arkansas,46,42,6
+43,D'yer Mak'er,Led Zeppelin,30,20,14
+44,My Music,Loggins & Messina,31,16,12
+45,Painted Ladies,Ian Thomas,34,34,13
+46,Boogie Down,Eddie Kendricks,62,46,3
+47,This Time I'm Gone For Good,"Bobby ""Blue"" Bland",42,42,10
+48,I Like To Live The Love,B.B. King,58,48,7
+49,Abra-Ca-Dabra,The De Franco Family,70,49,4
+50,Who's In The Strawberry Patch With Sally,Tony Orlando & Dawn,37,27,11
+51,The Whole Town's Laughing At Me,Teddy Pendergrass,43,7,17
+52,Can This Be Real,Natural Four,68,52,3
+53,Keep Your Head To The Sky,"Earth, Wind & Fire",53,52,10
+54,Teenage Lament '74,Alice Cooper,64,54,4
+55,A Fool Such As I,Bob Dylan,55,55,6
+56,Showdown,Electric Light Orchestra,57,56,8
+57,I Shall Sing,Garfunkel,67,57,4
+58,Stoned To The Bone - Part 1,James Brown,61,58,8
+59,Love Has No Pride,Linda Ronstadt,51,51,8
+60,Last Kiss,Wednesday,63,60,9
+61,Doo Doo Doo Doo Doo (heartbreaker),The Rolling Stones,83,61,2
+62,The Americans (A Canadian's Opinion),Gordon Sinclair,98,62,2
+63,I Got A Name,Jim Croce,52,10,16
+64,It Doesn't Have To Be That Way,Jim Croce,66,64,4
+65,Come Get To This,Marvin Gaye,49,21,12
+66,Trying To Hold On To My Woman,Lamont Dozier,84,66,5
+67,Wang Dang Doodle,The Pointer Sisters,77,67,5
+68,You're So Unique,Billy Preston,74,68,3
+69,Daddy What If,Bobby Bare,80,69,3
+70,My Sweet Lady,Cliff DeYoung,76,70,3
+71,Raised On Robbery,Joni Mitchell,75,71,5
+72,I Can't Stand The Rain,Ann Peebles,47,38,21
+73,Come And Get Your Love,Redbone,85,73,2
+74,Photograph,Ringo Starr,45,1,16
+75,Sexy Mama,The Moments,100,75,2
+76,Hangin' Around,Edgar Winter Group,65,65,6
+77,"One Tin Soldier, The Legend of Billy Jack",Coven,81,26,16
+78,What It Comes Down To,The Isley Brothers,88,78,4
+79,Tell Her She's Lovely,El Chicano,54,40,10
+80,I Wanna Know Your Name,The Intruders,72,60,13
+81,Star,Stealers Wheel,87,81,3
+82,Dark Lady,Cher,-1,82,1
+83,Life Is A Song Worth Singing,Johnny Mathis,89,83,4
+84,Eres Tu (Touch The Wind),Mocedades,90,84,2
+85,Flashback,The 5th Dimension,86,85,6
+86,Seasons In The Sun,Terry Jacks,99,86,2
+87,WOLD,Harry Chapin,91,87,3
+88,Can't Say Nothin',Curtis Mayfield,93,88,4
+89,Let Me Get To Know You,Paul Anka,94,89,3
+90,Jessica,The Allman Brothers Band,-1,90,1
+91,I Miss You,The Dells,-1,91,1
+92,This Is Your Song,Don Goodwin,95,86,7
+93,A Song I'd Like To Sing,Kris Kristofferson & Rita Coolidge,71,49,10
+94,(I'd Know You) Anywhere,Ashford & Simpson,-1,94,1
+95,Space Race,Billy Preston,59,4,18
+96,Meadows,Joe Walsh,97,96,2
+97,Last Kiss,J. Frank Wilson and The Cavaliers,92,92,5
+98,I Found Sunshine,The Chi-lites,79,47,10
+99,"Please, Daddy",John Denver,69,69,5
+100,"Rock And Roll, Hoochie Koo",Rick Derringer,-1,100,1

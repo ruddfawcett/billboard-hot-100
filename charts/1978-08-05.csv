@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Miss You,The Rolling Stones,3,1,11
+2,Three Times A Lady,Commodores,6,2,8
+3,Grease,Frankie Valli,5,3,11
+4,Last Dance,Donna Summer,4,4,13
+5,Shadow Dancing,Andy Gibb,1,1,17
+6,Baker Street,Gerry Rafferty,2,2,16
+7,Use Ta Be My Girl,The O'Jays,8,4,15
+8,Hot Blooded,Foreigner,11,8,6
+9,Love Will Find A Way,Pablo Cruise,10,9,10
+10,Still The Same,Bob Seger & The Silver Bullet Band,7,4,13
+11,Magnet And Steel,Walter Egan,16,11,11
+12,Copacabana (at The Copa),Barry Manilow,13,12,9
+13,Life's Been Good,Joe Walsh,14,13,9
+14,My Angel Baby,Toby Beau,15,14,10
+15,I'm Not Gonna Let It Bother Me Tonight,Atlanta Rhythm Section,18,15,9
+16,An Everlasting Love,Andy Gibb,29,16,4
+17,Boogie Oogie Oogie,A Taste Of Honey,28,17,7
+18,Hopelessly Devoted To You,Olivia Newton-John,26,18,5
+19,King Tut,Steve Martin And The Toot Uncommons,24,19,11
+20,The Groove Line,Heatwave,9,7,14
+21,Stay/The Load-Out,Jackson Browne,23,21,9
+22,Runaway,Jefferson Starship,12,12,11
+23,Shame,"Evelyn ""Champagne"" King",33,23,8
+24,Take A Chance On Me,ABBA,17,3,16
+25,I've Had Enough,Wings,27,25,8
+26,Fool If You Think It's Over,Chris Rea,36,26,5
+27,Kiss You All Over,Exile,43,27,5
+28,Stuff Like That,Quincy Jones,34,28,9
+29,Can We Still Be Friends, Todd Rundgren,30,29,11
+30,You,Rita Coolidge,35,30,6
+31,Dance With Me,Peter Brown With Betty Wright,20,8,23
+32,Two Tickets To Paradise,Eddie Money,38,32,7
+33,You And I,Rick James,46,33,6
+34,Hot Child In The City,Nick Gilder,45,34,9
+35,Rivers Of Babylon,Boney M,37,35,10
+36,Mr. Blue Sky,Electric Light Orchestra,39,36,7
+37,Macho Man,Village People,40,37,7
+38,You're A Part Of Me,Gene Cotton With Kim Carnes,41,38,8
+39,Got To Get You Into My Life,"Earth, Wind & Fire",69,39,3
+40,Love Is In The Air,John Paul Young,54,40,4
+41,I Need To Know,Tom Petty And The Heartbreakers,42,41,8
+42,You're The One That I Want,John Travolta & Olivia Newton-John,44,1,19
+43,Just What I Needed,The Cars,50,43,8
+44,Two Out Of Three Ain't Bad,Meat Loaf,47,11,21
+45,Close The Door,Teddy Pendergrass,52,45,5
+46,It's A Heartache,Bonnie Tyler,19,3,20
+47,Bluer Than Blue,Michael Johnson,21,12,16
+48,FM (No Static At All),Steely Dan,22,22,10
+49,Songbird,Barbra Streisand,25,25,8
+50,Thank God It's Friday,Love And Kisses,31,22,14
+51,Love Or Something Like It,Kenny Rogers,32,32,10
+52,Wonderful Tonight,Eric Clapton,48,16,13
+53,You Don't Love Me Anymore,Eddie Rabbitt,53,53,7
+54,If Ever I See You Again,Roberta Flack,49,24,12
+55,You Needed Me,Anne Murray,68,55,4
+56,Reminiscing,Little River Band,81,56,2
+57,A Rock 'N' Roll Fantasy,The Kinks,75,57,3
+58,I Love The Nightlife (Disco 'round),Alicia Bridges,64,58,5
+59,Think It Over,Cheryl Ladd,71,59,3
+60,Will You Still Love Me Tomorrow,Dave Mason,60,39,10
+61,That Once In A Lifetime,Demis Roussos,61,47,10
+62,Ain't Nothing Gonna Keep Me From You,Teri DeSario,72,62,6
+63,Get Off,Foxy,76,63,3
+64,Time For Me To Fly,REO Speedwagon,70,64,3
+65,"Love Theme From ""Eyes Of Laura Mars"" (Prisoner)",Barbra Streisand,79,65,2
+66,Summer Nights,John Travolta & Olivia Newton-John & Cast,-1,66,1
+67,You Belong To Me,Carly Simon,56,6,17
+68,Only The Good Die Young,Billy Joel,58,24,13
+69,You're All I Need To Get By,Johnny Mathis & Deniece Williams,84,69,2
+70,Talking In Your Sleep,Crystal Gayle,83,70,2
+71,Surrender,Cheap Trick,73,71,3
+72,If You Wanna Do A Dance,The Spinners,82,72,2
+73,Ready Or Not,Helen Reddy,74,73,4
+74,He's So Fine,Kristy And Jimmy McNichol,78,74,3
+75,On The Strip,Paul Nicholas,86,75,2
+76,Steppin' In A Slide Zone,The Moody Blues,88,76,2
+77,Runaway Love,Linda Clifford,77,76,6
+78,I Can't Stand The Rain,Eruption,55,18,22
+79,Prove It All Night,Bruce Springsteen,51,33,9
+80,"Whenever I Call You ""Friend""",Kenny Loggins,90,80,2
+81,Come Together,Aerosmith,-1,81,1
+82,Flyin',Prism,93,82,3
+83,You Never Done It Like That,Captain & Tennille,-1,83,1
+84,Arms Of Mary,Chilliwack,-1,84,1
+85,Break It To Them Gently,Burton Cummings,85,85,4
+86,I Will Still Love You,Stonebolt,-1,86,1
+87,Wild In The Streets,British Lions,87,87,3
+88,She Loves To Be In Love,Charlie,-1,88,1
+89,Rumor At The Honky Tonk,Spellbound,89,89,2
+90,Raise A Little Hell,Trooper,-1,90,1
+91,New Orleans Ladies,Louisiana's Le Roux,96,59,7
+92,It's Really You,The Tarney/Spencer Band,94,92,3
+93,Love Is Like Oxygen,Sweet,57,8,25
+94,Because The Night,Patti Smith Group,62,13,18
+95,Only One Love In My Life,Ronnie Milsap,63,63,6
+96,"Hot Love, Cold World",Bob Welch,65,31,10
+97,Chattanooga Choo Choo,Tuxedo Junction,66,32,16
+98,Follow You Follow Me,Genesis,59,23,16
+99,Never Let Her Slip Away,Andrew Gold,67,67,8
+100,I Can't Wait Any Longer,Bill Anderson,80,80,4

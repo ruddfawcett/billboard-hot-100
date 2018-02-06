@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Loco-Motion,Grand Funk,1,1,10
+2,The Streak,Ray Stevens,6,2,5
+3,Dancing Machine,Jackson 5,5,3,9
+4,The Entertainer,"Marvin Hamlisch/""The Sting""",11,4,8
+5,Bennie And The Jets,Elton John,3,1,13
+6,The Show Must Go On,Three Dog Night,9,6,9
+7,Tubular Bells,Mike Oldfield,8,7,12
+8,TSOP (The Sound Of Philadelphia),MFSB Featuring The Three Degrees,2,1,11
+9,(i've Been) Searchin' So Long,Chicago,12,9,9
+10,Midnight At The Oasis,Maria Muldaur,15,10,12
+11,Best Thing That Ever Happened To Me,Gladys Knight And The Pips,4,3,13
+12,Hooked On A Feeling,Blue Swede,7,1,13
+13,You Make Me Feel Brand New,The Stylistics,17,13,8
+14,Band On The Run,Paul McCartney And Wings,22,14,4
+15,I Won't Last A Day Without You,Carpenters,21,15,5
+16,Come And Get Your Love,Redbone,14,5,18
+17,Oh My My,Ringo Starr,13,5,10
+18,Just Don't Want To Be Lonely,The Main Ingredient,10,10,15
+19,Help Me,Joni Mitchell,23,19,9
+20,Oh Very Young,Cat Stevens,24,20,9
+21,Don't You Worry 'Bout A Thing,Stevie Wonder,27,21,6
+22,I'll Have To Say I Love You In A Song,Jim Croce,16,9,11
+23,For The Love Of Money,The O'Jays,32,23,5
+24,Lookin' For A Love,Bobby Womack,18,10,15
+25,My Mistake (Was To Love You),Diana Ross & Marvin Gaye,19,19,12
+26,The Payback - Part I,James Brown,30,26,8
+27,Sunshine On My Shoulders,John Denver,20,1,16
+28,Keep On Singing,Helen Reddy,26,15,10
+29,My Girl Bill,Jim Stafford,39,29,4
+30,I'm In Love,Aretha Franklin,36,30,6
+31,Mighty Mighty,"Earth, Wind & Fire",35,31,10
+32,Seasons In The Sun,Terry Jacks,28,1,18
+33,The Lord's Prayer,Sister Janet Mead,25,4,12
+34,Let's Get Married,Al Green,41,34,7
+35,Let It Ride,Bachman-Turner Overdrive,29,23,12
+36,Sundown,Gordon Lightfoot,46,36,5
+37,Mockingbird,Carly Simon & James Taylor,33,5,15
+38,"Billy, Don't Be A Hero",Bo Donaldson And The Heywoods,57,38,4
+39,If You Love Me (let Me Know),Olivia Newton-John,50,39,5
+40,Standing At The End Of The Line,Lobo,48,40,5
+41,A Very Special Love Song,Charlie Rich,31,11,12
+42,"Touch A Hand, Make A Friend",The Staple Singers,40,23,12
+43,I'm A Train,Albert Hammond,37,31,11
+44,Hollywood Swinging,Kool & The Gang,58,44,4
+45,Chameleon,Herbie Hancock,55,45,8
+46,Rock Around The Clock,Bill Haley And His Comets,49,46,9
+47,Piano Man,Billy Joel,42,25,12
+48,Jet,Paul McCartney And Wings,47,7,14
+49,One Hell Of A Woman,Mac Davis,59,49,7
+50,Keep It In The Family,Leon Haywood,54,50,8
+51,You Won't See Me,Anne Murray,61,51,4
+52,Daybreak,Nilsson,62,52,5
+53,Heavenly,The Temptations,43,43,9
+54,Be Thankful For What You Got,William DeVaughn,89,54,2
+55,Outside Woman,Bloodstone,44,34,12
+56,Tell Me A Lie,Sami Jo,34,21,14
+57,Star Baby,The Guess Who,52,39,13
+58,Thanks For Saving My Life,Billy Paul,38,37,16
+59,Dance With The Devil,Cozy Powell,56,49,9
+60,The Same Love That Made Me Laugh,Bill Withers,65,60,5
+61,"Another Park, Another Sunday",The Doobie Brothers,73,61,4
+62,No Charge,Melba Montgomery,71,62,5
+63,Satisfaction Guaranteed (Or Take Your Love Back),Harold Melvin And The Blue Notes,70,63,6
+64,Werewolf,Five Man Electrical Band,68,64,7
+65,I Am What I Am,Lois Fletcher,64,64,7
+66,Save The Last Dance For Me,The DeFranco Family featuring Tony DeFranco,84,66,2
+67,Silver Threads And Golden Needles,Linda Ronstadt,74,67,6
+68,La Grange,ZZ Top,77,68,7
+69,Who Is He And What Is He To You,Creative Source,78,69,6
+70,I Don't See Me In Your Eyes Anymore,Charlie Rich,80,70,2
+71,(I'm A) YoYo Man,Rick Cunha,81,71,3
+72,One Chain Don't Make No Prison,Four Tops,82,72,2
+73,If I Were A Carpenter...,Leon Russell,79,73,4
+74,Son Of Sagittarius,Eddie Kendricks,-1,74,1
+75,If You Wanna Get To Heaven,Ozark Mountain Daredevils,83,75,4
+76,Can You Handle It?,Graham Central Station,91,76,2
+77,Under The Influence Of Love,Love Unlimited,76,76,7
+78,A Dream Goes On Forever,Todd Rundgren,69,69,6
+79,Time Will Tell,Tower Of Power,85,79,3
+80,Haven't Got Time For The Pain,Carly Simon,-1,80,1
+81,Teenage Love Affair,Rick Derringer,86,81,3
+82,The Air That I Breathe,The Hollies,88,82,4
+83,"Bad, Bad Leroy Brown",Frank Sinatra,87,83,6
+84,Rikki Don't Lose That Number,Steely Dan,-1,84,1
+85,Already Gone,Eagles,97,85,2
+86,Help Yourself,The Undisputed Truth,90,86,3
+87,Rhapsody In White,Love Unlimited Orchestra,93,87,3
+88,This Heart,Gene Redding,98,88,2
+89,Teen Angel,Wednesday,-1,89,1
+90,Something,Johnny Rodriguez,92,90,2
+91,Wonderful,Isaac Hayes,94,91,2
+92,Sleepin',Diana Ross,-1,92,1
+93,Daybreaker,Electric Light Orchestra,95,93,2
+94,Finally Got Myself Together (I'm A Changed Man),The Impressions,99,94,2
+95,Wildflower,The New Birth,-1,95,1
+96,(everybody Wanna Get Rich) Rite Away,Dr. John,-1,96,1
+97,Scratch,The Crusaders,100,97,3
+98,After Midnight,Maggie Bell,-1,98,1
+99,Radar Love,Golden Earring,-1,99,1
+100,Billy - Don't Be A Hero,Paper Lace,96,96,3

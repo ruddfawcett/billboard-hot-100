@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Baby Come Back,Player,1,1,17
+2,How Deep Is Your Love,Bee Gees,2,1,18
+3,Here You Come Again,Dolly Parton,3,3,15
+4,You're In My Heart (The Final Acclaim),Rod Stewart,4,4,13
+5,Short People,Randy Newman,15,5,11
+6,Slip Slidin' Away,Paul Simon,6,6,15
+7,Hey Deanie,Shaun Cassidy,7,7,11
+8,We Will Rock You/We Are The Champions,Queen,10,8,14
+9,Come Sail Away,Styx,9,9,18
+10,Stayin' Alive,Bee Gees,17,10,7
+11,Just The Way You Are,Billy Joel,16,11,11
+12,(Every Time I Turn Around) Back In Love Again,LTD,5,4,15
+13,Runaround Sue,Leif Garrett,14,13,11
+14,(Love Is) Thicker Than Water,Andy Gibb,20,14,12
+15,Sometimes When We Touch,Dan Hill,22,15,9
+16,Turn To Stone,Electric Light Orchestra,18,16,10
+17,Serpentine Fire,"Earth, Wind & Fire",19,17,13
+18,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,23,18,13
+19,I Go Crazy,Paul Davis,21,19,22
+20,Sentimental Lady,Bob Welch,8,8,15
+21,Desiree,Neil Diamond,26,21,8
+22,You Light Up My Life,Debby Boone,11,1,21
+23,Emotion,Samantha Sang,31,23,10
+24,Don't Let Me Be Misunderstood,Santa Esmeralda Starring Leroy Gomez,28,24,12
+25,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,12,12,19
+26,Blue Bayou,Linda Ronstadt ,13,3,20
+27,What's Your Name,Lynyrd Skynyrd,34,27,8
+28,Point Of Know Return,Kansas,29,28,11
+29,Native New Yorker,Odyssey,32,29,11
+30,"Long, Long Way From Home",Foreigner,37,30,7
+31,Don't It Make My Brown Eyes Blue,Crystal Gayle,25,2,24
+32,Peg,Steely Dan,36,32,10
+33,Too Hot Ta Trot,Commodores,40,33,6
+34,Ffun,ConFunkShun,45,34,6
+35,Lovely Day,Bill Withers,42,35,7
+36,As,Stevie Wonder,38,36,12
+37,Happy Anniversary,Little River Band,53,37,6
+38,(You're My) Soul And Inspiration,Donny & Marie Osmond,39,38,10
+39,"Theme From ""Close Encounters Of The Third Kind""",John Williams,48,39,5
+40,Theme From Close Encounters,Meco,50,40,3
+41,Easy To Love,Leo Sayer,46,41,7
+42,Street Corner Serenade,Wet Willie,47,42,8
+43,If You're Not Back In Love By Monday,Millie Jackson,43,43,10
+44,The Name Of The Game,ABBA,57,44,5
+45,Thunder Island,Jay Ferguson,54,45,6
+46,Sweet Music Man,Kenny Rogers,51,46,6
+47,I Love You,Donna Summer,52,47,6
+48,Falling,LeBlanc & Carr,56,48,15
+49,The Way I Feel Tonight,Bay City Rollers,24,24,15
+50,Always And Forever,Heatwave,59,50,3
+51,Lay Down Sally,Eric Clapton,61,51,3
+52,"Curious Mind (Um, Um, Um, Um, Um, Um)",Johnny Rivers,62,52,5
+53,Breakdown,Tom Petty And The Heartbreakers,55,53,12
+54,Galaxy,War,69,54,3
+55,Gettin' Ready For Love,Diana Ross,27,27,12
+56,Reach For It,George Duke,67,56,3
+57,It's So Easy,Linda Ronstadt,30,5,16
+58,Mind Bender,Stillwater,64,58,8
+59,Girls' School,Wings,33,33,10
+60,Cocomotion,El Coco,72,60,9
+61,God Only Knows,Marilyn Scott,63,61,7
+62,You Make Me Crazy,Sammy Hagar,65,62,7
+63,Jack And Jill,Raydio,73,63,2
+64,Goodbye Girl,David Gates,75,64,6
+65,My Way,Elvis Presley,35,22,11
+66,Rockaway Beach,Ramones,68,66,8
+67,How Can I Leave You Again,John Denver,44,44,9
+68,Crazy On You,Heart,71,35,16
+69,Tried To Love,Peter Frampton,41,41,7
+70,Isn't It Time,The Babys,58,13,16
+71,So Long,Firefall,83,71,2
+72,The Next Hundred Years,Al Martino,49,49,7
+73,The Way You Do The Things You Do,Rita Coolidge,84,73,2
+74,Ooh Boy,Rose Royce,78,74,9
+75,Take Me To The Kaptin,Prism,79,75,3
+76,Our Love,Natalie Cole,88,76,2
+77,We're All Alone,Rita Coolidge,60,7,19
+78,Le Spank,Le Pamplemousse,82,78,9
+79,"If It Don't Fit, Don't Force It",Kellee Patterson,81,79,6
+80,"What's Your Name, What's Your Number",Andrea True Connection,90,80,2
+81,(What A) Wonderful World,Art Garfunkel With James Taylor & Paul Simon,-1,81,1
+82,Lady Love,Lou Rawls,-1,82,1
+83,Belle,Al Green,87,83,3
+84,"Let It Go, Let It Flow",Dave Mason,-1,84,1
+85,Shout It Out Loud,KISS,-1,31,11
+86,Touch And Gone,Gary Wright,-1,86,1
+87,Everybody Loves A Rain Song,B.J. Thomas,-1,87,1
+88,Until Now,Bobby Arvon,91,88,8
+89,Storybook Children (Daybreak),Bette Midler,93,89,2
+90,Supernature,Cerrone,-1,90,1
+91,Come Go With Me,Pockets,92,91,3
+92,Swingtown,The Steve Miller Band,66,17,15
+93,Love Me Right,Denise LaSalle,95,93,2
+94,What A Difference You've Made In My Life,Ronnie Milsap,80,80,5
+95,"1,000 Laughs",Eloise Laws,97,95,2
+96,Your Smiling Face,James Taylor,94,20,17
+97,Any Way You Want Me,The Sylvers,98,72,9
+98,Heaven On The 7th Floor,Paul Nicholas,86,6,23
+99,Don't Ask My Neighbors,The Emotions,99,44,13
+100,Boogie Nights,Heatwave,96,2,27

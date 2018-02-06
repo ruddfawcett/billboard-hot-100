@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hang On Sloopy,The McCoys,2,1,8
+2,Eve Of Destruction,Barry McGuire,1,1,7
+3,Yesterday,The Beatles,45,3,2
+4,Catch Us If You Can,The Dave Clark Five,4,4,7
+5,You Were On My Mind,We Five,3,3,11
+6,"The ""In"" Crowd",Ramsey Lewis Trio,6,6,10
+7,Treat Her Right,Roy Head And The Traits,12,7,5
+8,You've Got Your Troubles,The Fortunes,11,8,7
+9,Baby Don't Go,Sonny & Cher,14,9,7
+10,Laugh At Me,Sonny,10,10,7
+11,Help!,The Beatles,5,1,9
+12,Do You Believe In Magic,The Lovin' Spoonful,17,12,7
+13,We Gotta Get Out Of This Place,The Animals ,13,13,8
+14,Heart Full Of Soul,The Yardbirds,9,9,10
+15,Some Enchanted Evening,Jay & The Americans,20,15,5
+16,I'm Yours,Elvis Presley,21,16,6
+17,It Ain't Me Babe,The Turtles,8,8,9
+18,Like A Rolling Stone,Bob Dylan,7,2,11
+19,Keep On Dancing,The Gentrys,34,19,4
+20,"Liar, Liar",The Castaways,26,20,8
+21,Agent Double-O-Soul,Edwin Starr,22,21,9
+22,I'll Make All Your Dreams Come True,Ronnie Dove,25,22,6
+23,Unchained Melody,The Righteous Brothers,15,4,12
+24,Just You,Sonny & Cher,32,24,6
+25,Just A Little Bit Better,Herman's Hermits,40,25,3
+26,Ride Away,Roy Orbison,30,26,7
+27,With These Hands,Tom Jones,29,27,6
+28,Mohair Sam,Charlie Rich,33,28,6
+29,Home Of The Brave,Jody Miller,37,29,6
+30,I Got You Babe,Sonny & Cher,16,1,13
+31,Action,Freddy Cannon,18,13,8
+32,California Girls,The Beach Boys,19,3,11
+33,Kansas City Star,Roger Miller,44,33,4
+34,Summer Nights,Marianne Faithfull,24,24,8
+35,"Sad, Sad Girl",Barbara Mason,27,27,9
+36,Heartaches By The Number,Johnny Tillotson,42,36,6
+37,Papa's Got A Brand New Bag (Part I),James Brown And The Famous Flames,28,8,12
+38,A Lover's Concerto,The Toys,66,38,4
+39,"Hold Me, Thrill Me, Kiss Me",Mel Carter,23,8,15
+40,Houston,Dean Martin ,35,21,9
+41,You're The One,The Vogues,72,41,3
+42,Everybody Loves A Clown,Gary Lewis And The Playboys,85,42,2
+43,The Dawn Of Correction,The Spokesmen,53,43,3
+44,"My Town, My Guy And Me",Lesley Gore,54,44,4
+45,Ain't It True,Andy Williams,47,45,5
+46,The Tracks Of My Tears,The Miracles,31,16,12
+47,3rd Man Theme,Herb Alpert & The Tijuana Brass,52,47,4
+48,I Want To (Do Everything For You),Joe Tex,56,48,6
+49,Make Me Your Baby,Barbara Lewis,60,49,4
+50,Hungry For Love,San Remo Golden Strings,67,50,4
+51,What Color (Is A Man),Bobby Vinton,71,51,3
+52,I'm A Happy Man,The Jive Five,36,36,8
+53,There But For Fortune,Joan Baez,62,53,4
+54,Not The Lovin' Kind,"Dino, Desi & Billy",73,54,3
+55,I Knew You When,Billy Joe Royal,76,55,3
+56,Cara-Lin,The Strangeloves,69,56,3
+57,(My Girl) Sloopy,Little Caesar And The Consuls,55,50,8
+58,Moonlight And Roses (Bring Mem'ries Of You),Vic Dana,51,51,9
+59,High Heel Sneakers,Stevie Wonder,63,59,6
+60,I Live For The Sun,The Sunrays,70,60,5
+61,Two Different Worlds,Lenny Welch,65,61,7
+62,Respect,Otis Redding,68,62,5
+63,Steppin' Out,Paul Revere & The Raiders,78,63,3
+64,Everyone's Gone To The Moon,Jonathan King,79,64,2
+65,These Hands (Small But Mighty),Bobby Bland,75,65,6
+66,Positively 4th Street,Bob Dylan,-1,66,1
+67,Are You A Boy Or Are You A Girl,The Barbarians,83,67,2
+68,N-E-R-V-O-U-S!,Ian Whitcomb,59,59,5
+69,Universal Soldier,Donovan,84,69,2
+70,First I Look At The Purse,The Contours,57,57,8
+71,The Universal Soldier,Glen Campbell,90,71,2
+72,Act Naturally,The Beatles,87,72,2
+73,The Girl From Peyton Place,Dickey Lee,74,73,5
+74,Taste Of Honey,Herb Alpert & The Tijuana Brass,89,74,2
+75,Danger Heartbreak Dead Ahead,The Marvelettes,61,61,8
+76,Rescue Me,Fontella Bass,-1,76,1
+77,1-2-3,Len Barry,93,77,2
+78,If You've Got A Heart,Bobby Goldsboro,92,78,2
+79,Little Miss Sad,The Five Emprees,82,79,4
+80,Take Me In Your Arms (Rock Me A Little While),Kim Weston,-1,80,1
+81,The World Through A Tear,Neil Sedaka,81,81,6
+82,Say Something Funny,Patty Duke,-1,82,1
+83,I Miss You So,Little Anthony And The Imperials,-1,83,1
+84,A Lifetime Of Loneliness,Jackie DeShannon,-1,84,1
+85,Tossing & Turning,The Ivy League,91,85,3
+86,Funny Little Butterflies,Patty Duke,88,86,2
+87,The Sins Of A Family,P.F. Sloan,94,87,2
+88,The Way Of Love,Kathy Kirby,95,88,3
+89,Roundabout,Connie Francis,80,80,4
+90,"Run, Baby Run (Back Into My Arms)",The Newbeats,-1,90,1
+91,Just One Kiss From You,The Impressions,-1,91,1
+92,Where Have All The Flowers Gone,Johnny Rivers,-1,92,1
+93,Secretly,The Lettermen,-1,93,1
+94,Road Runner,The Gants,98,94,2
+95,For Your Love,Sam & Bill,96,95,3
+96,You Can't Take It Away,Fred Hughes,99,96,2
+97,Looking With My Eyes,Dionne Warwick,-1,97,1
+98,Let's Move & Groove (Together), Johnny Nash,100,98,2
+99,He Touched Me,Barbra Streisand,-1,99,1
+100,The Organ Grinder's Swing,Jimmy Smith With Kenny Burrell And Grady Tate,-1,100,1

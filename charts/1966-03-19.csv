@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Ballad Of The Green Berets,SSgt Barry Sadler,1,1,7
+2,19th Nervous Breakdown,The Rolling Stones,6,2,4
+3,These Boots Are Made For Walkin',Nancy Sinatra,2,1,9
+4,Nowhere Man,The Beatles,7,4,3
+5,Elusive Butterfly,Bob Lind,5,5,9
+6,Listen People,Herman's Hermits,3,3,5
+7,California Dreamin',The Mamas & The Papas,4,4,11
+8,Homeward Bound,Simon & Garfunkel,10,8,6
+9,I Fought The Law,Bobby Fuller Four,9,9,8
+10,Daydream,The Lovin' Spoonful,25,10,4
+11,Love Makes The World Go Round,Deon Jackson,15,11,9
+12,The Cheater,Bob Kuban And The In-Men,12,12,8
+13,Lightnin' Strikes,Lou Christie,8,1,13
+14,(You're My) Soul And Inspiration,The Righteous Brothers,45,14,3
+15,"634-5789 (Soulsville, U.S.A.)",Wilson Pickett,24,15,6
+16,Baby Scratch My Back,Slim Harpo,22,16,8
+17,Batman Theme,The Marketts,17,17,7
+18,I'm So Lonesome I Could Cry,B.J. Thomas And The Triumphs,31,18,5
+19,"Shake Me, Wake Me (When It's Over)",Four Tops,36,19,5
+20,Woman,Peter And Gordon,26,20,6
+21,You Baby,The Turtles,23,21,7
+22,My Baby Loves Me,Martha & The Vandellas,27,22,9
+23,When Liking Turns To Loving,Ronnie Dove,20,18,9
+24,Don't Mess With Bill,The Marvelettes,19,7,12
+25,Sure Gonna Miss Her,Gary Lewis And The Playboys,55,25,3
+26,Husbands And Wives,Roger Miller,29,26,5
+27,This Old Heart Of Mine (Is Weak For You),The Isley Brothers,42,27,5
+28,It's Too Late,Bobby Goldsboro,30,28,5
+29,Working My Way Back To You,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",11,9,8
+30,My World Is Empty Without You,The Supremes,16,5,10
+31,The Rains Came,Sir Douglas Quintet,34,31,8
+32,Somewhere There's A Someone,Dean Martin,33,32,6
+33,Magic Town,The Vogues,44,33,4
+34,One More Heartache,Marvin Gaye,39,34,5
+35,Batman Theme,Neal Hefti,35,35,6
+36,I Want To Go With You,Eddy Arnold,38,36,7
+37,What Now My Love,Sonny & Cher,21,14,8
+38,Walkin' My Cat Named Dog,Norma Tanega,51,38,4
+39,At The Scene,The Dave Clark Five,18,18,7
+40,Uptight (Everything's Alright),Stevie Wonder,13,3,14
+41,Bang Bang (My Baby Shot Me Down),Cher,75,41,2
+42,Get Ready,The Temptations,53,42,4
+43,My Love,Petula Clark,14,1,13
+44,Little Latin Lupe Lu,Mitch Ryder And The Detroit Wheels,60,44,3
+45,The Dedication Song,Freddy Cannon,41,41,5
+46,Inside-Looking Out,The Animals,56,46,4
+47,Crying Time,Ray Charles,28,6,15
+48,Ain't That A Groove (Part 1),James Brown And The Famous Flames,54,48,3
+49,Up And Down,The McCoys,46,46,6
+50,Time Won't Let Me,The Outsiders,65,50,5
+51,Dear Lover,Mary Wells,62,51,6
+52,The One On The Right Is On The Left,Johnny Cash,58,52,4
+53,Stop Her On Sight (S.O.S.),Edwin Starr,61,53,5
+54,Satisfaction,Otis Redding ,64,54,3
+55,Think I'll Go Somewhere And Cry Myself To Sleep,Al Martino,81,55,2
+56,Time,Pozo Seco Singers,73,56,4
+57,This Can't Be True,Eddie Holman,57,57,10
+58,Secret Agent Man,The Ventures,78,58,4
+59,Tears,Bobby Vinton,63,59,4
+60,Secret Agent Man,Johnny Rivers,-1,60,1
+61,Lullaby Of Love,The Poppies,83,61,3
+62,Kicks,Paul Revere & The Raiders Featuring Mark Lindsay,-1,62,1
+63,Why Can't You Bring Me Home,Jay & The Americans,72,63,5
+64,Whenever She Holds You,Patty Duke,68,64,4
+65,The Love You Save (May Be Your Own),Joe Tex,85,65,3
+66,Spanish Flea,Herb Alpert & The Tijuana Brass,-1,66,1
+67,Good Lovin',The Young Rascals,86,67,2
+68,What Now My Love,Herb Alpert & The Tijuana Brass,-1,68,1
+69,In My Room (El Amor),Verdelle Smith,69,62,7
+70,Juanita Banana,The Peels,100,70,2
+71,Somewhere,Len Barry,-1,71,1
+72,Shapes Of Things,The Yardbirds,-1,72,1
+73,I Hear Trumpets Blow,The Tokens,-1,73,1
+74,Frankie And Johnny,Elvis Presley,-1,74,1
+75,Outside The Gates Of Heaven,Lou Christie,90,75,3
+76,Keep On Running,The Spencer Davis Group,76,76,3
+77,Wait A Minute,Tim Tam And The Turn-Ons,84,77,3
+78,Gloria,Shadows Of Knight,-1,78,1
+79,Helpless,Kim Weston,87,79,2
+80,I Want Someone,The Mad Lads,88,80,3
+81,What Goes On,The Beatles,89,81,2
+82,The Phoenix Love Theme (Senza Fine),The Brass Ring featuring Phil Bodner,97,82,2
+83,Tippy Toeing,The Harden Trio,93,83,2
+84,One Track Mind,The Knickerbockers,-1,84,1
+85,Please Don't Stop Loving Me,Elvis Presley,-1,85,1
+86,I Can't Grow Peaches On A Cherry Tree,Just Us,96,86,2
+87,Memories Are Made Of This,The Drifters,-1,87,1
+88,Follow Me,Lyme & Cybelle,-1,88,1
+89,She Blew A Good Thing,The Poets,-1,89,1
+90,Moulty,The Barbarians,91,90,4
+91,I Can't Let Go,The Hollies,-1,91,1
+92,Darling Baby,The Elgins,-1,92,1
+93,The Boogaloo Party,The Flamingos,-1,93,1
+94,(I'm Just A) Fool For You,Gene Chandler,-1,94,1
+95,Big Time,Lou Christie,-1,95,1
+96,He Wore The Green Beret,Nancy Ames,-1,96,1
+97,"Love Is Me, Love Is You",Connie Francis,-1,97,1
+98,Sharing You,Mitty Collier,-1,98,1
+99,Baby I Need You,The Manhattans,-1,99,1
+100,I Spy (For The FBI),Jamo Thomas & His Party Brothers Orchestra,-1,100,1

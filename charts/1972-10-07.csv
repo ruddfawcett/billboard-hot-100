@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Baby Don't Get Hooked On Me,Mac Davis,1,1,15
+2,Ben,Michael Jackson,5,2,10
+3,Back Stabbers,The O'Jays,4,3,12
+4,Everybody Plays The Fool,The Main Ingredient,6,4,13
+5,Go All The Way,Raspberries,7,5,15
+6,Use Me,Bill Withers,8,6,7
+7,Burning Love,Elvis Presley,9,7,8
+8,Black & White,Three Dog Night,2,1,9
+9,My Ding-A-Ling,Chuck Berry,13,9,10
+10,Popcorn,Hot Butter,10,10,14
+11,Play Me,Neil Diamond,12,11,9
+12,Nights In White Satin,The Moody Blues,14,12,10
+13,Saturday In The Park,Chicago,3,3,10
+14,Speak To The Sky,Rick Springfield,15,14,10
+15,Garden Party,Rick Nelson And The Stone Canyon Band,19,15,11
+16,Tight Rope,Leon Russell,26,16,7
+17,You Wear It Well,Rod Stewart,21,17,7
+18,Why/Lonely Boy,Donny Osmond,24,18,7
+19,Get On The Good Foot-Part 1,James Brown,23,19,10
+20,The City Of New Orleans,Arlo Guthrie,22,20,11
+21,"Freddie's Dead (Theme From ""Superfly"")",Curtis Mayfield,25,21,8
+22,Beautiful Sunday,Daniel Boone,20,15,19
+23,Good Time Charlie's Got The Blues,Danny O'Keefe,27,23,6
+24,Listen To The Music,The Doobie Brothers,31,24,6
+25,Starting All Over Again,Mel And Tim,29,25,14
+26,Don't Ever Be Lonely (A Poor Little Fool Like Me),Cornelius Brothers & Sister Rose ,28,26,6
+27,Alone Again (Naturally),Gilbert O'Sullivan,18,1,17
+28,Honky Cat,Elton John,17,8,9
+29,Thunder And Lightning,Chi Coltrane,34,29,6
+30,Witchy Woman,Eagles,35,30,5
+31,If I Could Reach You,The 5th Dimension,37,31,5
+32,Power Of Love,Joe Simon,11,11,14
+33,I Can See Clearly Now,Johnny Nash,43,33,5
+34,Run To Me,Bee Gees,16,16,11
+35,I Believe In Music,Gallery,41,35,9
+36,Midnight Rider,Joe Cocker and The Chris Stainton Band,44,36,4
+37,Geronimo's Cadillac,Michael Murphey,46,37,10
+38,If You Leave Me Tonight I'll Cry,Jerry Wallace,38,38,8
+39,Loving You Just Crossed My Mind,Sam Neely,47,39,6
+40,I'll Be Around,The Spinners,51,40,4
+41,Rock Me Baby,David Cassidy,48,41,5
+42,"My Man, A Sweet Man",Millie Jackson,42,42,10
+43,Spaceman,Nilsson,49,43,4
+44,I'd Love You To Want Me,Lobo,60,44,3
+45,From The Beginning,"Emerson, Lake & Palmer",45,45,7
+46,I Am Woman,Helen Reddy,58,46,7
+47,A Piece Of Paper,Gladstone,57,47,7
+48,Don't Hide Your Love,Cher,52,48,5
+49,Easy Livin,Uriah Heep,39,39,11
+50,Don't Do It,The Band,59,50,4
+51,Sweet Caroline (Good Times Never Seemed So Good), Bobby Womack & Peace,53,51,7
+52,Slaughter,Billy Preston,56,52,5
+53,"For Emily, Whenever I May Find Her",Simon & Garfunkel,54,53,6
+54,(It's The Way) Nature Planned It,Four Tops,55,54,5
+55,Pop That Thang,The Isley Brothers,32,24,15
+56,That's How Love Goes, Jermaine Jackson,64,56,4
+57,Can't You Hear The Song?,Wayne Newton,62,57,3
+58,American City Suite,Cashman & West,63,58,3
+59,Summer Breeze,Seals & Crofts,70,59,5
+60,All The Young Dudes,Mott The Hoople,69,60,3
+61,If You Don't Know Me By Now,Harold Melvin And The Blue Notes,86,61,2
+62,Let It Rain,Eric Clapton,76,62,3
+63,Guess Who/Them Changes,B.B. King,65,63,8
+64,Woman Don't Go Astray,King Floyd,68,64,4
+65,Rock 'N Roll Soul,Grand Funk Railroad,75,65,3
+66,Think (About It),Lyn Collins,66,66,6
+67,Elected,Alice Cooper,-1,67,1
+68,I'll Make You Music,Beverly Bremers,73,68,4
+69,A Lonely Man/The Man & The Woman (The Boy & The Girl),The Chi-lites,81,69,2
+70,Toast To The Fool,The Dramatics,74,70,7
+71,"Carry Me, Carrie",Dr. Hook And The Medicine Show,71,71,5
+72,Money Back Guarantee,Five Man Electrical Band,72,72,5
+73,I Will Never Pass This Way Again,Glen Campbell,61,61,7
+74,We Can Make It Together,Steve & Eydie Featuring The Osmonds,78,74,4
+75,Colorado,Danny Holien,79,75,5
+76,One More Chance,Ocean,80,76,3
+77,I've Got To Have You,Sammi Smith,77,77,7
+78,Poor Boy,Casey Kelly,88,78,3
+79,Guilty,Al Green,83,79,2
+80,Rockin' Pneumonia - Boogie Woogie Flu,Johnny Rivers,-1,80,1
+81,So Long Dixie,"Blood, Sweat & Tears",100,81,2
+82,If You Let Me,Eddie Kendricks,-1,82,1
+83,Funny Face,Donna Fargo,95,83,2
+84,Best Thing,Styx,85,84,4
+85,"Dance, Dance, Dance",The New Seekers featuring Marty Kristian,89,85,3
+86,The Mosquito,The Doors,87,86,2
+87,If You Can Beat Me Rockin' (You Can Have My Chair),Laura Lee,93,87,2
+88,Dinah Flo,Boz Scaggs,94,88,2
+89,Wedding Song (There Is Love),Petula Clark,-1,89,1
+90,Sunny Days, Lighthouse,-1,90,1
+91,Evil Ways,Carlos Santana & Buddy Miles,84,84,5
+92,"Mean Little Woman, Rosalie",Tommy Roe,92,92,3
+93,Dedicated To The One I Love,The Temprees,-1,93,1
+94,With Pen In Hand,Bobby Goldsboro,96,94,4
+95,Sing A Song/Make Your Own Kind Of Music,Barbra Streisand,99,95,2
+96,Why Can't We Be Lovers,Holland-Dozier,98,96,2
+97,Take Me Bak 'Ome,Slade,97,97,2
+98,Man Sized Job,Denise LaSalle,-1,98,1
+99,I Just Want To Make Love To You,Foghat,-1,99,1
+100,Happier Than The Morning Sun,B.J. Thomas,-1,100,1

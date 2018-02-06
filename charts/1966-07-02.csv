@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Strangers In The Night,Frank Sinatra,2,1,9
+2,Paperback Writer,The Beatles,1,1,4
+3,Red Rubber Ball,The Cyrkle,6,3,7
+4,"Paint It, Black",The Rolling Stones,3,1,8
+5,You Don't Have To Say You Love Me,Dusty Springfield,9,5,7
+6,Hanky Panky,Tommy James And The Shondells,15,6,5
+7,Cool Jerk,The Capitols,8,7,10
+8,I Am A Rock,Simon & Garfunkel,5,3,9
+9,Did You Ever Have To Make Up Your Mind?,The Lovin' Spoonful,4,2,9
+10,Barefootin',Robert Parker,7,7,11
+11,Little Girl,Syndicate Of Sound,24,11,5
+12,Don't Bring Me Down,The Animals,14,12,7
+13,Sweet Talkin' Guy,The Chiffons,10,10,9
+14,Oh How Happy,Shades Of Blue,12,12,9
+15,Ain't Too Proud To Beg,The Temptations,20,15,6
+16,Dirty Water,The Standells,21,16,11
+17,Double Shot (Of My Baby's Love),Swingin' Medallions,19,17,11
+18,Opus 17 (Don't You Worry 'Bout Me),"The 4 Seasons Featuring the ""Sound of Frankie Valli""",13,13,7
+19,Along Comes Mary,The Association,32,19,5
+20,He,The Righteous Brothers,26,20,5
+21,Girl In Love,The Outsiders,22,21,8
+22,Hold On! I'm A Comin',Sam & Dave,23,21,11
+23,A Groovy Kind Of Love,The Mindbenders,16,2,12
+24,Rain,The Beatles,29,24,4
+25,The More I See You,Chris Montez,18,16,12
+26,Popsicle,Jan & Dean,27,26,5
+27,Crying,Jay & The Americans,25,25,6
+28,Green Grass,Gary Lewis And The Playboys,17,8,8
+29,When A Man Loves A Woman,Percy Sledge,11,1,13
+30,(I Washed My Hands In) Muddy Water,Johnny Rivers,38,30,4
+31,Lil' Red Riding Hood,Sam The Sham and the Pharaohs,55,31,4
+32,Hey Joe,The Leaves,34,32,7
+33,Please Tell Me Why,The Dave Clark Five,43,33,4
+34,The Land Of Milk And Honey,The Vogues,35,34,5
+35,Day For Decision,Johnny Sea,36,35,4
+36,Let's Go Get Stoned,Ray Charles,37,36,6
+37,Sweet Pea,Tommy Roe,58,37,4
+38,Mama,B.J. Thomas,28,22,8
+39,Oh Yeah,The Shadows Of Knight,42,39,5
+40,I Love You 1000 Times,The Platters,31,31,10
+41,You Better Run,The Young Rascals,51,41,3
+42,The Pied Piper,Crispian St. Peters,56,42,4
+43,Younger Girl,The Critters,48,43,6
+44,Take This Heart Of Mine,Marvin Gaye,45,44,7
+45,Loving You Is Sweeter Than Ever,Four Tops,50,45,6
+46,Peter Rabbit,Dee Jay And The Runaways,46,46,9
+47,Wild Thing,The Troggs,75,47,2
+48,"Somewhere, My Love",Ray Conniff And The Singers,59,48,3
+49,Have I Stayed Too Long,Sonny & Cher,49,49,5
+50,Hungry,Paul Revere & The Raiders Featuring Mark Lindsay,67,50,3
+51,Happy Summer Days,Ronnie Dove,61,51,3
+52,Younger Girl,The Hondells,54,52,6
+53,I Saw Her Again,The Mamas & The Papas,-1,53,1
+54,Ninety-Nine And A Half (Won't Do),Wilson Pickett,57,54,6
+55,Solitary Man,Neil Diamond,60,55,7
+56,My Little Red Book,Love,52,52,10
+57,Love Letters,Elvis Presley,-1,57,1
+58,The Impossible Dream (The Quest),Jack Jones,64,58,5
+59,The Work Song,Herb Alpert & The Tijuana Brass,-1,59,1
+60,Where Were You When I Needed You,The Grass Roots,70,60,3
+61,My Lover's Prayer,Otis Redding,65,61,5
+62,Billy And Sue,B.J. Thomas And The Triumphs,71,62,3
+63,I'll Love You Forever,The Holidays,63,63,9
+64,Whole Lot Of Shakin' In My Heart (Since I Met You),The Miracles,79,64,3
+65,"Neighbor, Neighbor",Jimmy Hughes,66,65,5
+66,Over Under Sideways Down,The Yardbirds,82,66,2
+67,Cloudy Summer Afternoon (Raindrops),Barry McGuire,62,62,7
+68,Searching For My Love,Bobby Moore & The Rhythm Aces,88,68,2
+69,You Can't Roller Skate In A Buffalo Herd,Roger Miller,96,69,2
+70,Not Responsible,Tom Jones,72,70,3
+71,What Am I Going To Do Without Your Love,Martha & The Vandellas,77,71,4
+72,Pretty Flamingo,Manfred Mann,-1,72,1
+73,I Love Onions,Susan Christie,78,73,4
+74,When A Woman Loves A Man,Esther Phillips,73,73,5
+75,I'm A Nut,Leroy Pullins,90,75,2
+76,Sweet Dreams,Tommy McLain,87,76,2
+77,You Wouldn't Listen,The Ides Of March,86,77,2
+78,Trains And Boats And Planes,Dionne Warwick,-1,78,1
+79,Sunny,Bobby Hebb,95,79,2
+80,Teenager's Prayer,Joe Simon,80,80,3
+81,Grim Reaper Of Love,The Turtles,81,81,3
+82,"Lara's Theme from ""Dr. Zhivago""",Roger Williams,93,82,2
+83,I Only Have Eyes For You,The Lettermen,84,83,3
+84,"Past, Present And Future",The Shangri-Las,99,84,2
+85,Misty,"""Groove"" Holmes",100,85,2
+86,Stop! - Get A Ticket,Clefs Of Lavender Hill,94,86,2
+87,Ain't Gonna Cry No More,Brenda Lee,-1,87,1
+88,It's An Uphill Climb To The Bottom,Walter Jackson,89,88,5
+89,Can I Trust You?,The Bachelors,-1,89,1
+90,I Want You,Bob Dylan,-1,90,1
+91,It's That Time Of The Year,Len Barry,91,91,3
+92,On The Good Ship Lollipop,The Wonder Who?,-1,92,1
+93,Painter,Lou Christie,98,93,2
+94,La Bamba - Part I,Trini Lopez,97,94,2
+95,High On Love,The Knickerbockers,-1,95,1
+96,Hot Shot,The Buena Vistas,-1,96,1
+97,Everybody Loves A Nut,Johnny Cash,-1,97,1
+98,Hey You! Little Boo-Ga-Loo,Chubby Checker,-1,98,1
+99,All These Things,The Uniques,-1,99,1
+100,Such A Sweet Thing,Mary Wells,-1,100,1

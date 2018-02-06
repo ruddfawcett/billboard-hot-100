@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Daydream Believer,The Monkees,1,1,4
+2,"The Rain, The Park & Other Things",The Cowsills,2,2,11
+3,Incense And Peppermints,Strawberry Alarm Clock,3,1,11
+4,I Say A Little Prayer,Dionne Warwick,5,4,8
+5,I Heard It Through The Grapevine,Gladys Knight And The Pips,8,5,8
+6,To Sir With Love,Lulu,4,1,14
+7,I Second That Emotion,Smokey Robinson & The Miracles,11,7,6
+8,Hello Goodbye,The Beatles,45,8,2
+9,In And Out Of Love,Diana Ross & The Supremes,13,9,5
+10,An Open Letter To My Teenage Son,Victor Lundberg,10,10,5
+11,(The Lights Went Out In) Massachusetts,Bee Gees,20,11,5
+12,You Better Sit Down Kids,Cher,12,12,7
+13,Boogaloo Down Broadway,The Fantastic Johnny C,15,13,10
+14,I Can See For Miles,The Who,9,9,9
+15,Keep The Ball Rollin',Jay And The Techniques,16,15,8
+16,Please Love Me Forever,Bobby Vinton,6,6,11
+17,Soul Man,Sam & Dave,7,2,14
+18,Lazy Day,Spanky And Our Gang,14,14,9
+19,Pata Pata,Miriam Makeba,19,12,10
+20,Skinny Legs And All,Joe Tex,26,20,7
+21,She's My Girl,The Turtles,24,21,5
+22,"Woman, Woman",The Union Gap Featuring Gary Puckett,32,22,4
+23,Everlasting Love,Robert Knight ,17,13,11
+24,Neon Rainbow,The Box Tops,37,24,5
+25,Yesterday,Ray Charles,25,25,5
+26,Summer Rain,Johnny Rivers,40,26,4
+27,By The Time I Get To Phoenix,Glen Campbell,28,27,7
+28,Expressway (To Your Heart),Soul Survivors,18,4,15
+29,"Beg, Borrow And Steal",Ohio Express,29,29,10
+30,Honey Chile,Martha Reeves & The Vandellas,35,30,4
+31,Wild Honey,The Beach Boys,31,31,6
+32,Watch The Flowers Grow,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",30,30,7
+33,Different Drum,Stone Poneys Featuring Linda Ronstadt,43,33,5
+34,Paper Cup,The 5th Dimension,44,34,6
+35,(Loneliness Made Me Realize) It's You That I Need,The Temptations,27,14,9
+36,Wear Your Love Like Heaven,Donovan,46,36,3
+37,Next Plane To London,The Rose Garden,47,37,8
+38,Stag-O-Lee,Wilson Pickett,22,22,6
+39,Let It Out (Let It All Hang Out),The Hombres,23,12,13
+40,It Must Be Him,Vikki Carr,21,3,15
+41,"Bend Me, Shape Me",The American Breed,73,41,2
+42,Peace Of Mind,Paul Revere & The Raiders Featuring Mark Lindsay,53,42,4
+43,Beautiful People,Bobby Vee And The Strangers,48,43,4
+44,Beautiful People,Kenny O'Dell,50,44,4
+45,And Get Away,The Esquires,55,45,3
+46,Since You Showed Me How To Be Happy,Jackie Wilson,58,46,3
+47,If I Could Build My Whole World Around You,Marvin Gaye & Tammi Terrell,65,47,2
+48,Chattanooga Choo Choo,Harpers Bizarre,52,48,4
+49,Soul Man,Ramsey Lewis,49,49,5
+50,What's It Gonna Be,Dusty Springfield,57,50,4
+51,Baby You Got It,Brenton Wood,61,51,3
+52,Too Much Of Nothing,"Peter, Paul & Mary",62,52,3
+53,Come See About Me,Jr. Walker & The All Stars,63,53,3
+54,Okolona River Bottom Band,Bobbie Gentry,59,54,3
+55,Judy In Disguise (With Glasses),John Fred And The Playboys,74,55,3
+56,Windy,Wes Montgomery,66,56,3
+57,Tell Mama,Etta James,69,57,5
+58,When You're Gone,Brenda & The Tabulations,60,58,6
+59,In The Misty Moonlight,Dean Martin,87,59,2
+60,Cover Me,Percy Sledge,71,60,3
+61,"O-O, I Love You",The Dells,64,61,6
+62,The Other Man's Grass Is Always Greener,Petula Clark,77,62,2
+63,Glad To Be Unhappy,The Mamas & The Papas,34,26,7
+64,I Am The Walrus,The Beatles,-1,64,1
+65,Ooh Baby,Deon Jackson,68,65,4
+66,Chain Of Fools,Aretha Franklin,-1,66,1
+67,Love Power,The Sandpebbles,67,67,3
+68,It's Wonderful,The Young Rascals,-1,68,1
+69,Itchycoo Park,Small Faces,72,69,5
+70,Piece Of My Heart,Erma Franklin,75,70,6
+71,Dear Eloise,The Hollies,86,71,2
+72,Storybook Children,Billy Vera & Judy Clay,81,72,2
+73,Hooray For The Salvation Army Band,Bill Cosby,78,73,2
+74,Susan,The Buckinghams,-1,74,1
+75,Love Me Two Times,The Doors,-1,75,1
+76,Shame On Me,Chuck Jackson,76,76,9
+77,Sockin' 1-2-3-4,John Roberts,80,77,2
+78,Can't Help But Love You,The Standells,88,78,3
+79,I'll Be Sweeter Tomorrow (Than I Was Today),The O'Jays,79,79,3
+80,I'm In Love,Wilson Pickett,82,80,2
+81,Georgia Pines,The Candymen,83,81,4
+82,A Love That's Real,The Intruders,94,82,2
+83,Tony Rome,Nancy Sinatra,85,83,2
+84,"Wanted: Lover, No Experience Necessary",Laura Lee,84,84,2
+85,I Can't Stand Myself (When You Touch Me),James Brown And The Famous Flames,-1,85,1
+86,Up-Up And Away,Hugh Masekela,-1,86,1
+87,Goin' Out Of My Head/Can't Take My Eyes Off You,The Lettermen,-1,87,1
+88,For What It's Worth,King Curtis & The Kingpins,98,88,3
+89,Back Up Train,Al Greene & The Soul Mate's,-1,89,1
+90,Where Is The Party,Helena Ferguson,90,90,5
+91,Here Comes Heaven,Eddy Arnold,91,91,2
+92,Something's Missing,5 Stairsteps and Cubie,96,92,2
+93,A Letter To Dad,Every Father's Teenage Son,97,93,3
+94,Felicidad,Sally Field,95,94,4
+95,Cross My Heart,Billy Stewart,99,95,2
+96,Dancing Bear,The Mamas & The Papas,-1,96,1
+97,Shout,Lulu And The Luvers,-1,94,4
+98,Nobody But Me,The Human Beinz,-1,98,1
+99,Live For Life,Jack Jones,100,99,2
+100,A Voice In The Choir,Al Martino,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Don't Go Breaking My Heart,Elton John & Kiki Dee,1,1,9
+2,You Should Be Dancing,Bee Gees,2,2,9
+3,Let 'em In,Wings,3,3,9
+4,You'll Never Find Another Love Like Mine,Lou Rawls,4,4,13
+5,I'd Really Love To See You Tonight,England Dan & John Ford Coley,5,5,12
+6,"(Shake, Shake, Shake) Shake Your Booty",KC And The Sunshine Band,6,6,8
+7,Play That Funky Music,Wild Cherry,12,7,11
+8,A Fifth Of Beethoven,Walter Murphy & The Big Apple Band,13,8,14
+9,Get Closer,Seals & Crofts (Featuring Carolyn Willis),9,6,20
+10,This Masquerade,George Benson,11,10,12
+11,Kiss And Say Goodbye,The Manhattans,8,1,20
+12,"Baby, I Love Your Way",Peter Frampton,14,12,10
+13,Summer,War,21,13,8
+14,Say You Love Me,Fleetwood Mac,16,14,9
+15,Love Is Alive,Gary Wright,15,2,20
+16,Lowdown,Boz Scaggs,22,16,9
+17,Heaven Must Be Missing An Angel (part 1),Tavares,19,17,13
+18,Rock And Roll Music,The Beach Boys,7,5,13
+19,With Your Love,Jefferson Starship,25,19,6
+20,Devil Woman,Cliff Richard,30,20,9
+21,A Little Bit More,Dr. Hook,24,21,11
+22,Still The One,Orleans,27,22,5
+23,Who'd She Coo?,Ohio Players,26,23,10
+24,If You Leave Me Now,Chicago,28,24,3
+25,Wham Bam (Shang-A-Lang),Silver,29,25,11
+26,Turn The Beat Around,Vicki Sue Robinson,10,10,21
+27,She's Gone,Daryl Hall John Oates,33,27,14
+28,Shower The People,James Taylor,31,28,9
+29,Getaway,"Earth, Wind & Fire",32,29,7
+30,Afternoon Delight,Starland Vocal Band,17,1,17
+31,Street Singin',Lady Flash,35,31,7
+32,I'm Easy,Keith Carradine,18,17,17
+33,I Can't Hear You No More/Music Is My Life,Helen Reddy,38,33,4
+34,Moonlight Feels Right,Starbuck,34,3,20
+35,Young Hearts Run Free,Candi Staton,20,20,14
+36,One Love In My Lifetime,Diana Ross,40,36,4
+37,Springtime Mama,Henry Gross,37,37,8
+38,Got To Get You Into My Life,The Beatles,23,7,12
+39,Last Child,Aerosmith,36,21,12
+40,Teddy Bear,Red Sovine,41,40,6
+41,Magic Man,Heart,51,41,7
+42,You're My Best Friend,Queen,39,16,15
+43,(The System Of) Doctor Tarr And Professor Fether,The Alan Parsons Project,54,43,6
+44,Let Her In,John Travolta,42,10,18
+45,Sophisticated Lady (She's A Different Lady),Natalie Cole,43,25,14
+46,Hard Work,John Handy,47,46,7
+47,Don't Stop Believin',Olivia Newton-John,57,47,4
+48,If You Know What I Mean,Neil Diamond,44,11,11
+49,(Don't Fear) The Reaper,Blue Oyster Cult,60,49,5
+50,Hey Shirley (This Is Squirrely),Shirley & Squirrely,52,50,7
+51,Tear The Roof Off The Sucker (Give Up The Funk),Parliament,46,15,16
+52,Superstar,Paul Davis,62,52,4
+53,The Boys Are Back In Town,Thin Lizzy,48,12,16
+54,Rainbow In Your Eyes,Leon & Mary Russell,56,54,11
+55,Get Up Offa That Thing,James Brown,59,55,3
+56,Rock'n Me,Steve Miller,70,56,3
+57,That'll Be The Day,Linda Ronstadt,71,57,2
+58,Popsicle Toes,Michael Franks,64,58,4
+59,Showdown,Electric Light Orchestra,63,53,15
+60,"No, No, Joe",Silver Convention,61,60,4
+61,Get The Funk Out Ma Face,The Brothers Johnson,73,61,3
+62,Can You Do It,Grand Funk Railroad,72,62,3
+63,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,79,63,3
+64,You To Me Are Everything,The Real Thing,66,64,7
+65,Funny How Time Slips Away,Dorothy Moore,69,65,6
+66,Sunrise,Eric Carmen,76,66,3
+67,I'm Gonna Let My Heart Do The Walking,The Supremes,50,40,14
+68,Something He Can Feel,Aretha Franklin,45,28,12
+69,Highfly,John Miles,74,68,10
+70,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,-1,70,1
+71,Party,Van Mccoy,75,71,3
+72,You Are The Woman,Firefall,82,72,2
+73,Take A Hand,Rick Springfield,83,73,2
+74,After The Dance,Marvin Gaye,77,74,3
+75,Howzat,Sherbet,85,75,2
+76,The More You Do It (The More I Like It Done To Me),Ronnie Dyson,81,76,5
+77,It's O.k.,The Beach Boys,87,77,2
+78,We're All Alone,Frankie Valli,80,78,3
+79,Amber Cascades,America,86,79,2
+80,Party Line,Andrea True Connection,84,80,4
+81,The Best Disco In Town,The Ritchie Family,-1,81,1
+82,Harvest For The World,The Isley Brothers,92,82,2
+83,You Are My Starship,Norman Connors,-1,83,1
+84,Rocky Mountain Music,Eddie Rabbitt,88,78,5
+85,Brand New Love Affair,Jigsaw,95,85,2
+86,Let Me In,Derringer,-1,86,1
+87,Did You Boogie (With Your Baby),Flash Cadillac And The Continental Kids,-1,87,1
+88,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",-1,88,1
+89,The Princess And The Punk,Barry Mann,91,89,3
+90,Roxy Roller,Sweeney Todd,90,90,2
+91,Heart On My Sleeve,Gallagher And Lyle,93,91,2
+92,Wheels Of Fortune,The Doobie Brothers,-1,92,1
+93,Free Spirit,Atlanta Rhythm Section,94,93,2
+94,Dancin' Kid,Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III,96,60,9
+95,Grasshopper,Spin,-1,95,1
+96,Listen To The Buddha,Ozo,98,96,3
+97,Let's Rock,Ellison Chase,-1,97,1
+98,One For The Money (part 1),The Whispers,-1,98,1
+99,Gotta Be The One,Maxine Nightingale,53,53,7
+100,"More, More, More Pt. 1",Andrea True Connection,49,4,25

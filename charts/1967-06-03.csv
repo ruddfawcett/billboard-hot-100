@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Respect,Aretha Franklin,2,1,6
+2,Groovin',The Young Rascals,1,1,7
+3,I Got Rhythm,The Happenings,3,3,9
+4,Release Me (And Let Me Love Again),Engelbert Humperdinck,4,4,9
+5,Creeque Alley,The Mamas & The Papas,8,5,6
+6,Him Or Me - What's It Gonna Be?,Paul Revere & The Raiders,7,6,6
+7,The Happening,The Supremes,5,1,9
+8,Sweet Soul Music,Arthur Conley,6,2,13
+9,Somebody To Love,Jefferson Airplane,17,9,10
+10,All I Need,The Temptations,15,10,6
+11,Mirage,Tommy James And The Shondells,14,11,6
+12,"Girl, You'll Be A Woman Soon",Neil Diamond,10,10,9
+13,Here Comes My Baby,The Tremeloes,13,13,9
+14,She'd Rather Be With Me,The Turtles,39,14,4
+15,On A Carousel,The Hollies,11,11,12
+16,Somethin' Stupid,Nancy Sinatra & Frank Sinatra,9,1,12
+17,Little Bit O' Soul,The Music Explosion,40,17,4
+18,Friday On My Mind,The Easybeats,16,16,12
+19,Six O'Clock,The Lovin' Spoonful,30,19,6
+20,I Was Kaiser Bill's Batman,Whistling Jack Smith,21,20,6
+21,Close Your Eyes,Peaches & Herb,18,8,11
+22,Don't You Care,The Buckinghams,12,6,13
+23,When You're Young And In Love,The Marvelettes,28,23,7
+24,Happy Jack,The Who,26,24,8
+25,Shake A Tail Feather,James & Bobby Purify,25,25,8
+26,Do It Again A Little Bit Slower,Jon & Robin And The In Crowd,35,26,5
+27,Sunday Will Never Be The Same,Spanky And Our Gang,49,27,3
+28,Windy,The Association,52,28,2
+29,Come On Down To My Boat,Every Mothers' Son,34,29,5
+30,7 Rooms Of Gloom,Four Tops,50,30,3
+31,Sunshine Girl,The Parade,20,20,8
+32,Too Many Fish In The Sea & Three Little Fishes,Mitch Ryder And The Detroit Wheels,24,24,6
+33,Can't Take My Eyes Off You, Frankie Valli,53,33,3
+34,My Girl Josephine,Jerry Jaye,29,29,8
+35,Alfie,Dionne Warwick,37,35,9
+36,Let's Live For Today,The Grass Roots,46,36,4
+37,Hip Hug-Her,Booker T. & The MG's,38,37,11
+38,Casino Royale,Herb Alpert & The Tijuana Brass,27,27,9
+39,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,47,39,4
+40,Tramp,Otis & Carla,42,40,5
+41,Can't Seem To Make You Mine,The Seeds,41,41,6
+42,Girls In Love,Gary Lewis And The Playboys,43,42,4
+43,You Got What It Takes,The Dave Clark Five,19,7,10
+44,The Oogum Boogum Song,Brenton Wood,54,44,8
+45,Ding Dong! The Witch Is Dead,The Fifth Estate,58,45,3
+46,I Think We're Alone Now,Tommy James And The Shondells,23,4,17
+47,When I Was Young,Eric Burdon & The Animals,22,15,9
+48,Dead End Street Monologue/Dead End Street,Lou Rawls,32,29,11
+49,"New York Mining Disaster 1941 (Have You Seen My Wife, Mr. Jones)",Bee Gees,79,49,2
+50,Portrait Of My Love,The Tokens,36,36,8
+51,Let Yourself Go,James Brown And The Famous Flames,56,51,5
+52,Sound Of Love,The Five Americans,66,52,3
+53,Here We Go Again,Ray Charles,64,53,3
+54,Yellow Balloon,The Yellow Balloon,31,25,10
+55,San Francisco (Be Sure To Wear Flowers In Your Hair),Scott McKenzie,98,55,2
+56,I Could Be So Good To You,Don And The Goodtimes,57,56,7
+57,Funny Familiar Forgotten Feelings,Tom Jones,70,57,3
+58,Shake,Otis Redding,62,58,3
+59,Misty Blue,Eddy Arnold,59,59,5
+60,Come To The Sunshine,Harpers Bizarre,74,60,3
+61,Don't Blame The Children,Sammy Davis Jr.,76,61,2
+62,Mary In The Morning,Al Martino,77,62,2
+63,For Your Precious Love,"Oscar Toney, Jr.",78,63,2
+64,Together,The Intruders,67,64,6
+65,Love Me Forever,Roger Williams,60,60,5
+66,Society's Child (Baby I've Been Thinking),Janis Ian,81,66,2
+67,"Another Day, Another Heartache",The 5th Dimension,45,45,6
+68,Long Legged Girl (With The Short Dress On),Elvis Presley With The Jordanaires,71,68,3
+69,"Time, Time",Ed Ames,61,61,5
+70,The Tracks Of My Tears,Johnny Rivers,-1,70,1
+71,Nothing Takes The Place Of You,Toussaint McCall,63,52,11
+72,We Had A Good Thing Goin',The Cyrkle,72,72,4
+73,Am I Grooving You,Freddie Scott,73,73,4
+74,Jump Back,King Curtis,75,74,4
+75,Pay You Back With Interest,The Hollies,-1,75,1
+76,Don't Sleep In The Subway,Petula Clark,-1,76,1
+77,Bowling Green,The Everly Brothers,89,77,2
+78,You Can't Stand Alone,Wilson Pickett,86,78,2
+79,Stay Together Young Lovers,Brenda & The Tabulations,84,79,3
+80,"Oooh, Baby Baby",The Five Stairsteps,83,80,2
+81,Leopard-Skin Pill-Box Hat,Bob Dylan,85,81,3
+82,Why (Am I Treated So Bad),The Sweet Inspirations,-1,82,1
+83,Up -- Up And Away,The 5th Dimension,-1,83,1
+84,Me About You,The Mojo Men,88,84,2
+85,"Woman Like That, Yeah",Joe Tex,-1,85,1
+86,You Gave Me Something (And Everything's Alright),Fantastic Four,87,86,2
+87,Night And Day,Sergio Mendes & Brasil '66,-1,87,1
+88,Soul Finger,Bar-Kays,94,88,3
+89,It's Cold Outside,The Choir,-1,89,1
+90,Step Out Of Your Mind,The American Breed,-1,90,1
+91,No Good To Cry,The Wildweeds,100,91,2
+92,Stop! And Think It Over,Perry Como,93,92,3
+93,Baby Please Come Back Home,J.J. Barnes,96,93,3
+94,Release Me,"Esther Phillips ""Little Esther""",-1,8,15
+95,Why? (Am I Treated So Bad),The Staple Singers,-1,95,1
+96,Only Love Can Break A Heart,Margaret Whiting,-1,96,1
+97,Holiday For Clowns,Brian Hyland,99,97,2
+98,Light My Fire,The Doors,-1,98,1
+99,Make Me Yours,Bettye Swann,-1,96,3
+100,When The Good Sun Shines,Elmo & Almo,-1,100,1

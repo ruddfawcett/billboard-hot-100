@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Wooden Heart,Joe Dowell,2,1,10
+2,Tossin' And Turnin',Bobby Lewis,1,1,19
+3,Michael,The Highwaymen,3,3,8
+4,Last Night,Mar-Keys,4,3,9
+5,You Don't Know What You've Got (Until You Lose It),Ral Donner,6,5,8
+6,"I Like It Like That, Part 1",Chris Kenner,5,2,14
+7,School Is Out,Gary U.S. Bonds,10,7,6
+8,Pretty Little Angel Eyes,Curtis Lee,7,7,9
+9,Don't Bet Money Honey,Linda Scott,11,9,9
+10,Hurt,Timi Yuro,12,10,6
+11,As If I Didn't Know,Adam Wade,14,11,6
+12,I'm Gonna Knock On Your Door,Eddie Hodges,17,12,11
+13,My True Story,The Jive Five With Joe Rene And Orchestra,21,13,9
+14,I Fall To Pieces,Patsy Cline,16,14,15
+15,Let The Four Winds Blow,Fats Domino,15,15,6
+16,Let's Twist Again,Chubby Checker,9,8,11
+17,Dum Dum,Brenda Lee,8,4,11
+18,Together,Connie Francis,13,6,10
+19,Does Your Chewing Gum Lose It's Flavor (On The Bedpost Over Night),Lonnie Donegan And His Skiffle Group,26,19,4
+20,I Dreamed Of A Hill-Billy Heaven,Tex Ritter,24,20,9
+21,Sea Of Heartbreak,Don Gibson,36,21,11
+22,Amor,Ben E. King,40,22,5
+23,Take Good Care Of My Baby,Bobby Vee,31,23,4
+24,"Who Put The Bomp (In The Bomp, Bomp, Bomp)",Barry Mann,33,24,4
+25,I'm A Telling You,Jerry Butler,25,25,6
+26,Little Sister,Elvis Presley,61,26,2
+27,I Just Don't Understand,Ann-Margret,37,27,6
+28,Without You,Johnny Tillotson,44,28,4
+29,Crying,Roy Orbison,49,29,3
+30,Princess,Frank Gari,32,30,9
+31,I'll Never Smile Again,The Platters,34,31,5
+32,The Mountain's High,Dick and DeeDee,42,32,5
+33,I Don't Want To Take A Chance,Mary Wells,35,33,7
+34,When We Get Married,The Dreamlovers,46,34,5
+35,A Little Bit Of Soap,The Jarmels,48,35,4
+36,Nag,The Halos,43,36,7
+37,One Summer Night,The Diamonds,22,22,9
+38,Right Or Wrong,Wanda Jackson,29,29,10
+39,I'll Be There,Damita Jo,18,12,9
+40,Hats Off To Larry,Del Shannon,20,5,13
+41,Never On Sunday,The Chordettes,19,13,11
+42,It's Gonna Work Out Fine,Ike & Tina Turner,56,42,5
+43,"Don't Cry, Baby",Etta James,45,43,4
+44,"Starlight, Starbright",Linda Scott,47,44,5
+45,Frankie And Johnny,Brook Benton,75,45,2
+46,Transistor Sister,Freddy Cannon,53,46,5
+47,San-Ho-Zay,Freddy King,68,47,4
+48,Let Me Belong To You,Brian Hyland,55,48,4
+49,Nothing But Good,Hank Ballard And The Midnighters,74,49,2
+50,Lover's Island,The Blue Jays,57,50,3
+51,Water Boy,Don Shirley Trio,58,51,7
+52,More Money For You And Me,The Four Preps,78,52,3
+53,Big Cold Wind,Pat Boone,76,53,2
+54,Hully Gully Again,Little Caesar and The Romans,54,54,4
+55,A Thing Of The Past,The Shirelles,41,41,8
+56,Missing You,Ray Peterson,59,56,5
+57,Bless You,Tony Orlando,73,57,3
+58,Now And Forever,Bert Kaempfert And His Orchestra,67,58,5
+60,Kissin' On The Phone,Paul Anka,-1,60,1
+61,Magic Moon (Clair De Lune),The Rays,71,61,3
+62,Candy Man,Roy Orbison,60,60,4
+63,Teardrops In My Heart,Joe Barry,66,63,5
+64,Lonely Street,Clarence Henry,70,64,4
+65,"Baby, You're Right",James Brown And The Famous Flames,94,65,2
+66,(Marie's The Name) His Latest Flame,Elvis Presley,-1,66,1
+67,Every Breath I Take,Gene Pitney,82,67,4
+68,Roll Over Beethoven,The Velaires,81,68,3
+69,Mexico,Bob Moore and His Orch.,59,59,3
+69,One Track Mind,Bobby Lewis,-1,69,1
+70,Back Beat No. 1,The Rondels,72,70,3
+71,Don't Cry No More,Bobby Bland,79,71,4
+72,Summer Souvenirs,"Karl Hammel, Jr.",80,72,5
+73,Baby You're So Fine,Mickey & Sylvia,88,73,2
+74,"Music, Music, Music",The Sensations Featuring Yvonne,83,74,3
+75,Jeremiah Peabody's Poly Unsaturated Quick Dissolving Fast Acting Pleasant T,Ray Stevens,90,75,2
+76,Wizard Of Love,The Ly - Dells,99,76,2
+77,Sweet Little You,Neil Sedaka,-1,77,1
+78,I Wake Up Crying,Chuck Jackson,95,78,2
+79,Pitter-Patter,The Four Sportsmen,86,79,3
+80,Look In My Eyes,The Chantels,-1,80,1
+81,"Well-A, Well-A",Shirley & Lee,84,81,4
+82,My Kind Of Girl,Matt Monro,23,18,14
+83,Quarter To Three,U.S. Bonds,27,1,15
+84,Years From Now,Jackie Wilson,91,84,2
+85,Black Land Farmer,Wink Martindale,92,85,2
+86,Starlight,The Preludes Five,89,86,3
+87,Keep On Dancing,Hank Ballard And The Midnighters,97,87,2
+88,My Blue Heaven,Duane Eddy And The Rebels,-1,88,1
+89,"Big River, Big Man",Claude King,-1,83,4
+90,My Heart's On Fire,Billy Bland,93,90,4
+91,Romeo,Janie Grant,-1,91,1
+92,The Boll Weevil Song,Brook Benton,28,2,16
+93,My Dream Come True,Jack Scott,-1,93,1
+94,You're The Reason,Joe South,-1,94,1
+95,Donald Where's Your Troosers?,Andy Stewart,100,95,2
+96,Don't Forget I Love You,The Butanes,98,96,3
+97,You're The Reason,Bobby Edwards,-1,97,1
+98,(Theme From) Silver City,The Ventures,-1,98,1
+99,I Can't Take It,Mary Ann Fisher,-1,99,1
+100,Quite A Party,The Fireballs,30,27,10

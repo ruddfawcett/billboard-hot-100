@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Sugar, Sugar",The Archies,1,1,10
+2,Green River,Creedence Clearwater Revival,3,2,9
+3,Honky Tonk Women,The Rolling Stones,2,1,11
+4,Easy To Be Hard,Three Dog Night,5,4,8
+5,Little Woman,Bobby Sherman,9,5,6
+6,I Can't Get Next To You,The Temptations,10,6,7
+7,Jean,Oliver,8,7,7
+8,I'll Never Fall In Love Again,Tom Jones,6,6,17
+9,Hot Fun In The Summertime,Sly & The Family Stone,21,9,8
+10,"Oh, What A Night",The Dells,11,10,7
+11,A Boy Named Sue,Johnny Cash,4,2,10
+12,This Girl Is A Woman Now,Gary Puckett And The Union Gap,14,12,6
+13,Get Together,The Youngbloods,7,5,22
+14,Hurt So Bad,The Lettermen,12,12,18
+15,That's The Way Love Is,Marvin Gaye,28,15,6
+16,Keem-O-Sabe,The Electric Indian,22,16,9
+17,Everybody's Talkin',Nilsson,18,17,7
+18,Your Good Thing (Is About To End),Lou Rawls,20,18,11
+19,Suspicious Minds,Elvis Presley,36,19,3
+20,Lay Lady Lay,Bob Dylan,16,7,12
+21,When I Die,Motherlode,24,21,8
+22,What's The Use Of Breaking Up,Jerry Butler,35,22,5
+23,What Kind Of Fool Do You Think I Am,Bill Deal & The Rhondels,23,23,7
+24,Put A Little Love In Your Heart,Jackie DeShannon,19,4,14
+25,I'd Wait A Million Years,The Grass Roots,15,15,13
+26,I'm Gonna Make You Mine,Lou Christie,27,26,6
+27,Sweet Caroline (Good Times Never Seemed So Good),Neil Diamond,17,4,14
+28,Soul Deep,The Box Tops,25,18,13
+29,Share Your Love With Me,Aretha Franklin,13,13,9
+30,"You, I",The Rugbys,46,30,6
+31,Move Over,Steppenwolf,31,31,7
+32,Carry Me Back,The Rascals,32,32,4
+33,Sugar On Sunday,The Clique,37,33,5
+34,Daddy's Little Man,O.C. Smith,34,34,5
+35,The Nitty Gritty,Gladys Knight And The Pips,30,19,11
+36,Did You See Her Eyes,The Illusion,33,32,13
+37,World (Part 1),James Brown,58,37,3
+38,I'm A Better Man,Engelbert Humperdinck,45,38,6
+39,By The Time I Get To Phoenix,Isaac Hayes,43,39,5
+40,It's Getting Better,Mama Cass,42,30,17
+41,In A Moment,The Intrigues,47,41,9
+42,Going In Circles,The Friends Of Distinction,48,42,7
+43,Here I Go Again,Smokey Robinson & The Miracles,50,43,6
+44,Don't It Make You Want To Go Home,Joe South and The Believers ,56,44,6
+45,You Got Yours And I'll Get Mine,The Delfonics,51,45,7
+46,Nobody But You Babe,Clarence Reid,40,40,9
+47,Lowdown Popcorn,James Brown,41,41,6
+48,The Weight,Supremes & Temptations,65,48,3
+49,Tracy,The Cuff Links,68,49,3
+50,Baby It's You,Smith,62,50,4
+51,We Gotta All Get Together,Paul Revere & The Raiders Featuring Mark Lindsay,57,51,4
+52,No One For Me To Turn To,Spiral Starecase,52,52,5
+53,Muddy Mississippi Line,Bobby Goldsboro,53,53,7
+54,Make Believe,Wind,70,54,4
+55,And That Reminds Me (My Heart Reminds Me),The 4 Seasons,60,55,3
+56,Máh-Ná-Mah-Ná,Piero Umiliani,63,56,4
+57,You've Lost That Lovin' Feeling,Dionne Warwick,90,57,2
+58,I Could Never Be President,Johnnie Taylor,55,48,8
+59,Love Of The Common People,The Winstons,61,59,2
+60,Jealous Kind Of Fella,Garland Green,72,60,3
+61,Sad Girl,The Intruders,59,59,5
+62,Something In The Air,Thunderclap Newman,75,62,4
+63,Walk On By,Isaac Hayes,83,63,5
+64,Jack And Jill,Tommy Roe,71,54,9
+65,I Want You To Know,The New Colony Six,73,65,5
+66,Let A Woman Be A Woman - Let A Man Be A Man,Dyke And The Blazers,89,66,2
+67,Wedding Bell Blues,The 5th Dimension,-1,67,1
+68,Lodi,Al Wilson,67,67,6
+69,The Train,1910 Fruitgum Co.,64,64,6
+70,Jesus Is A Soul Man,Lawrence Reynolds,94,70,2
+71,Runnin' Blue,The Doors,76,71,4
+72,Any Way That You Want Me,Evie Sands,80,72,7
+73,Don't Forget To Remember,Bee Gees,92,73,2
+74,Life And Death In G & A,Abaco Dream,87,74,4
+75,Love's Been Good To Me,Frank Sinatra,85,75,3
+76,Is That All There Is,Peggy Lee,-1,76,1
+77,Doin' Our Thing,Clarence Carter,-1,77,1
+78,Hook And Sling-Part I,Eddie Bo,78,73,9
+79,Get Off My Back Woman,B.B. King,82,79,5
+80,Son Of A Lovin' Man,Buchanan Brothers,81,80,2
+81,Chains Of Love,Bobby Bland,86,81,3
+82,So Good Together,Andy Kim,-1,82,1
+83,Can't Find The Time,Orpheus,84,83,6
+84,San Francisco Is A Lonely Town,Joe Simon,-1,84,1
+85,Echo Park,Keith Barbour,-1,85,1
+86,"Baby, I'm For Real",The Originals,-1,86,1
+87,Moonlight Sonata,Henry Mancini And His Orchestra,88,87,4
+88,My Balloon's Going Up,Archie Bell & The Drells,93,88,3
+89,Slum Baby,Booker T. & The MG's,-1,89,3
+90,"Since I Met You, Baby",Sonny James,97,90,2
+91,Time Machine,Grand Funk Railroad,-1,91,1
+92,"Mind, Body and Soul",The Flaming Ember,-1,92,1
+93,Was It Good To You,The Isley Brothers,-1,93,1
+94,Goodbye Columbus,The Association,95,80,10
+95,Kool And The Gang,Kool & The Gang,96,95,3
+96,We'll Cry Together,Maxine Brown,-1,96,1
+97,Julia,Ramsey Lewis,-1,97,1
+98,Drummer Man,Nancy Sinatra,98,98,2
+99,Good Clean Fun,The Monkees,100,99,2
+100,Reuben James,Kenny Rogers & The First Edition,-1,100,1

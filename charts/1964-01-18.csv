@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,There! I've Said It Again,Bobby Vinton,1,1,8
+2,Louie Louie,The Kingsmen,2,2,11
+3,Popsicles And Icicles,The Murmaids,3,3,9
+4,Forget Him,Bobby Rydell,5,4,11
+5,Surfin' Bird,The Trashmen,7,5,7
+6,Dominique,The Singing Nun (Soeur Sourire),4,1,11
+7,Hey Little Cobra,The Rip Chords,19,7,6
+8,The Nitty Gritty,Shirley Ellis,8,8,10
+9,Out Of Limits,The Marketts,20,9,7
+10,Drag City,Jan & Dean,13,10,7
+11,Whispering,Nino Tempo & April Stevens,16,11,5
+12,As Usual,Brenda Lee,12,12,6
+13,Since I Fell For You,Lenny Welch,6,4,13
+14,"Um, Um, Um, Um, Um, Um",Major Lance,31,14,3
+15,Midnight Mary,Joey Powers,10,10,11
+16,Talk Back Trembling Lips,Johnny Tillotson,9,7,11
+17,Anyone Who Had A Heart,Dionne Warwick,22,17,7
+18,You Don't Own Me,Lesley Gore,37,18,4
+19,For You,Rick Nelson,27,19,4
+20,That Lucky Old Sun,Ray Charles,21,20,7
+21,Quicksand,Martha & The Vandellas,11,8,9
+22,Wives And Lovers,Jack Jones ,14,14,12
+23,Daisy Petal Pickin',Jimmy Gilmer And The Fireballs,30,23,6
+24,Somewhere,The Tymes,25,24,7
+25,When The Lovelight Starts Shining Through His Eyes,The Supremes,23,23,8
+26,Pretty Paper,Roy Orbison,15,15,6
+27,You Don't Have To Be A Baby To Cry,The Caravelles,17,3,12
+28,"Baby, I Love You",The Ronettes,32,28,5
+29,Drip Drop,Dion Di Muci,18,6,10
+30,Hooka Tooka,Chubby Checker,33,30,7
+31,Need To Belong,Jerry Butler,34,31,9
+32,Can I Get A Witness,Marvin Gaye,24,22,14
+33,Kansas City,Trini Lopez,29,23,10
+34,Girls Grow Up Faster Than Boys,The Cookies,43,34,8
+35,Tra La La La Suzy,Dean And Jean,42,35,12
+36,Loddy Lo,Chubby Checker,28,12,12
+37,For Your Precious Love,Garnet Mimms & The Enchanters,26,26,9
+38,I Gotta Dance To Keep From Crying,The Miracles,35,35,9
+39,What Kind Of Fool (Do You Think I Am),The Tams,51,39,6
+40,It's All In The Game,Cliff Richard,47,40,7
+41,Turn Around,Dick and DeeDee,36,27,9
+42,Charade,Henry Mancini And His Orchestra,53,42,7
+43,The Marvelous Toy,The Chad Mitchell Trio,46,43,8
+44,I Can't Stop Talking About You,Steve & Eydie,52,44,5
+45,I Want To Hold Your Hand,The Beatles,-1,45,1
+46,Be True To Your School,The Beach Boys,38,6,12
+47,What's Easy For Two Is So Hard For One,Mary Wells,54,47,9
+48,A Fool Never Learns,Andy Williams,65,48,2
+49,In The Summer Of His Years,Connie Francis,56,49,4
+50,Talking About My Baby,The Impressions,-1,50,1
+51,Letter From Sherry,Dale Ward,67,51,4
+52,I Have A Boyfriend,The Chiffons,45,36,10
+53,Java,Al (He's the King) Hirt,78,53,3
+54,Today's Teardrops,Rick Nelson,60,54,8
+55,Comin' In The Back Door,The Baja Marimba Band,59,55,5
+56,"My One And Only, Jimmy Boy",The Girlfriends,61,56,4
+57,Bon-Doo-Wah,The Orlons,55,55,6
+58,The Little Boy,Tony Bennett,62,58,5
+59,Dumb Head,Ginny Arnell,68,59,9
+60,You're No Good,Betty Everett,81,58,8
+61,Watch Your Step,Brooks O'Dell,63,61,6
+62,Long Tall Texan,Murry Kellum,58,51,11
+63,Harlem Shuffle,Bob And Earl,70,63,5
+64,As Long As I Know He's Mine,The Marvelettes,57,47,11
+65,The Shelter Of Your Arms,Sammy Davis Jr.,75,65,7
+66,You'll Never Walk Alone,Patti LaBelle And The Blue Belles ,72,66,3
+67,If Somebody Told You,Anna King,69,67,3
+68,That Boy John,The Raindrops,64,64,8
+69,True Love Goes On And On,Burl Ives,66,66,4
+70,Pain In My Heart,Otis Redding,90,70,7
+71,Snap Your Fingers,Barbara Lewis,73,71,4
+72,Who Cares,Fats Domino,74,72,3
+73,I Wish You Love,Gloria Lynne,79,73,2
+74,Tonight You're Gonna Fall In Love With Me,The Shirelles,77,74,2
+75,We Belong Together,Jimmy Velvet,76,75,6
+76,Please,Frank Ifield,71,71,6
+77,Pink Dominos,The Crescents Featuring Chiyo,88,77,4
+78,Since I Found A New Love,Little Johnny Taylor,82,78,3
+79,Do-Wah-Diddy,The Exciters,89,79,3
+80,See The Funny Little Clown,Bobby Goldsboro,83,80,2
+81,Puppy Love,Barbara Lewis,84,81,2
+82,Come On,Tommy Roe,-1,82,1
+83,Come Dance With Me,Jay & The Americans,80,76,8
+84,"Southtown, U.S.A.",The Dixiebelles,-1,84,1
+85,Billie Baby,Lloyd Price,87,85,2
+86,Little Boxes,Pete Seeger,95,86,2
+87,That Girl Belongs To Yesterday,Gene Pitney,-1,87,1
+88,Stay With Me,Frank Sinatra,-1,88,1
+89,Wow Wow Wee (He's The Boy For Me),The Angels,-1,89,1
+90,Deep In The Heart Of Harlem,Clyde McPhatter,93,90,3
+91,His Kiss,Betty Harris,92,91,3
+92,"Saginaw, Michigan",Lefty Frizzell,-1,92,1
+93,I'll Remember (In The Still Of The Night),Santo & Johnny,-1,93,1
+94,So Far Away,Hank Jacobs,-1,94,1
+95,Judy Loves Me,Johnny Crawford,96,95,2
+96,442 Glenwood Avenue,The Pixies Three,-1,96,1
+97,Slipin' And Slidin',Jim and Monica,-1,97,1
+98,Here Comes The Boy,Tracey Dey,-1,93,2
+99,Who Do You Love,The Sapphires,100,99,2
+100,Charade,Andy Williams,-1,100,1

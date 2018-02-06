@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Maggie May/Reason To Believe,Rod Stewart,1,1,13
+2,Go Away Little Girl,Donny Osmond,2,1,10
+3,Superstar/Bless The Beasts And Children,Carpenters,4,3,6
+4,The Night They Drove Old Dixie Down,Joan Baez,3,3,9
+5,Yo-Yo,The Osmonds,9,5,5
+6,Do You Know What I Mean,Lee Michaels,10,6,11
+7,Uncle Albert/Admiral Halsey,Paul & Linda McCartney,6,1,9
+8,Ain't No Sunshine,Bill Withers,5,3,13
+9,If You Really Love Me,Stevie Wonder,12,9,9
+10,Sweet City Woman,Stampeders,14,10,9
+11,Smiling Faces Sometimes,The Undisputed Truth,8,3,16
+12,Spanish Harlem,Aretha Franklin,7,2,11
+13,Tired Of Being Alone,Al Green,15,13,12
+14,So Far Away/Smackwater Jack,Carole King,16,14,7
+15,Stick-Up,The Honey Cone,11,11,10
+16,I Woke Up In Love This Morning,The Partridge Family Starring Shirley Jones Featuring David Cassidy,13,13,9
+17,I've Found Someone Of My Own,The Free Movement,21,17,19
+18,Trapped By A Thing Called Love,Denise LaSalle,25,18,8
+19,Rain Dance,The Guess Who,19,19,9
+20,Chirpy Chirpy Cheep Cheep,Mac And Katie Kissoon,20,20,12
+21,Thin Line Between Love & Hate,The Persuaders,24,21,7
+22,Make It Funky (Part 1),James Brown,22,22,7
+23,The Story In Your Eyes,The Moody Blues,23,23,10
+24,Whatcha See Is Whatcha Get,The Dramatics,18,9,15
+25,Wedding Song (There Is Love),Paul Stookey,27,25,11
+26,I Just Want To Celebrate,Rare Earth,17,7,13
+27,Loving Her Was Easier (Than Anything I'll Ever Do Again),Kris Kristofferson,30,27,8
+28,"Gypsys, Tramps & Thieves",Cher,39,28,4
+29,Birds Of A Feather,The Raiders,32,29,5
+30,Never My Love,The 5th Dimension,38,30,4
+31,Stagger Lee,Tommy Roe,34,31,8
+32,The Love We Had (Stays On My Mind),The Dells,33,32,9
+33,Won't Get Fooled Again,The Who,26,15,13
+34,Peace Train,Cat Stevens,50,34,3
+35,Easy Loving,Freddie Hart,37,35,8
+36,One Fine Morning,Lighthouse,41,36,5
+37,Saturday Morning Confusion,Bobby Russell,29,28,14
+38,MacArthur Park (Part II),Four Tops,40,38,5
+39,The Breakdown (Part I),Rufus Thomas,31,31,9
+40,Only You Know And I Know,Delaney & Bonnie,49,40,3
+41,Women's Love Rights,Laura Lee,44,41,6
+42,All Day Music,War,35,35,10
+43,I Ain't Got Time Anymore,The Glass Bottle,36,36,13
+44,I'm Comin' Home,Tommy James,56,44,3
+45,A Natural Man,Lou Rawls,47,45,7
+46,K-Jee,The Nite-Liters,48,39,14
+47,Marianne,Stephen Stills,42,42,8
+48,Annabella,"Hamilton, Joe Frank & Reynolds",46,46,7
+49,"Another Time, Another Place",Engelbert Humperdinck,43,43,8
+50,The Year That Clayton Delaney Died,Tom T. Hall,54,50,8
+51,What Are You Doing Sunday,Dawn Featuring Tony Orlando,89,51,2
+52,"One Tin Soldier, The Legend of Billy Jack",Coven,64,52,4
+53,Charity Ball,Fanny,61,53,4
+54,You've Got To Crawl (Before You Walk),The 8th Day,63,54,4
+55,Where Evil Grows,The Poppy Family,55,45,11
+56,Roll On,The New Colony Six,59,56,8
+57,Talk It Over In The Morning,Anne Murray,60,57,5
+58,Long Ago And Far Away,James Taylor,90,58,2
+59,"Stop, Look, Listen (To Your Heart)",The Stylistics,53,39,16
+60,"Call My Name, I'll Be There",Wilson Pickett,52,52,7
+61,Ko-Ko Joe,Jerry Reed,51,51,6
+62,Inner City Blues (Make Me Wanna Holler),Marvin Gaye,-1,62,1
+63,I'd Love To Change The World,Ten Years After,86,63,3
+64,It's A Cryin' Shame,Gayle McCormick,72,64,4
+65,It's For You,Springwell,71,65,4
+66,Questions 67 And 68/I'm A Man,Chicago,-1,66,1
+67,She's All I Got,Freddie North,81,67,2
+68,Feel So Bad,Ray Charles,75,68,7
+69,Ghetto Woman,B.B. King,68,68,5
+70,Some Of Shelly's Blues,Nitty Gritty Dirt Band,78,70,5
+71,Spill The Wine,The Isley Brothers,79,71,2
+72,That's The Way A Woman Is,Messengers,82,72,5
+73,Love,The Lettermen,-1,73,1
+74,I Don't Need No Doctor,Humble Pie,80,74,3
+75,You Brought The Joy,Freda Payne,92,75,2
+76,"Freedom Comes, Freedom Goes",The Fortunes,98,76,2
+77,Pin The Tail On The Donkey,The Newcomers,74,74,5
+78,Military Madness,Graham Nash,73,73,6
+79,Two Divided By Love,The Grass Roots,-1,79,1
+80,Rub It In,Layng Martine,94,80,2
+81,It's Impossible,The New Birth,-1,81,1
+82,Do I Love You,Paul Anka,97,82,2
+83,Wild Night,Van Morrison,-1,83,1
+84,Handbags And Gladrags,Chase,84,84,5
+85,I Know I'm In Love,Chee-Chee & Peppy,85,49,13
+86,You Send Me,Ponderosa Twins + One,87,86,3
+87,Desiderata,Les Crane,-1,87,1
+88,"Hot Pants - I'm Coming, Coming, I'm Coming",Bobby Byrd,88,88,3
+89,Midnight Man,James Gang,-1,89,1
+90,It's Only Love,Elvis Presley,-1,90,1
+91,Your Move (I've Seen All Good People),Yes,96,91,3
+92,Mammy Blue,Pop-Tops,-1,92,1
+93,Everything's Alright,Yvonne Elliman,95,93,3
+94,Walk Easy My Son,Jerry Butler,-1,94,1
+95,I'm So Glad,The Fuzz,-1,95,1
+96,Valerie,Cymarron,100,96,2
+97,Touch,The Supremes,-1,97,1
+98,Olena,Don Nix,-1,98,1
+99,Co-Co,The Sweet,99,99,2
+100,"Baby, I'm Yours",Jody Miller,-1,100,1

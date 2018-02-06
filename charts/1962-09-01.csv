@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sheila,Tommy Roe,5,1,6
+2,The Loco-Motion,Little Eva,1,1,10
+3,Breaking Up Is Hard To Do,Neil Sedaka,2,1,10
+4,You Don't Know Me,Ray Charles,4,4,6
+5,Party Lights,Claudine Clark,7,5,10
+6,She's Not You,Elvis Presley With The Jordanaires,8,6,5
+7,Things,Bobby Darin,3,3,9
+8,Roses Are Red (My Love),Bobby Vinton,6,1,13
+9,Vacation,Connie Francis,12,9,6
+10,Little Diane,Dion,10,8,9
+11,Ramblin' Rose,Nat King Cole,22,11,5
+12,What's A Matter Baby (Is It Hurting You),Timi Yuro,18,12,8
+13,"Ahab, The Arab",Ray Stevens,9,5,10
+14,Your Nose Is Gonna Grow,Johnny Crawford,30,14,4
+15,A Swingin' Safari,Billy Vaughn And His Orchestra,21,15,7
+16,Rinky Dink,Baby Cortez,24,16,8
+17,Teen Age Idol,Rick Nelson,35,17,4
+18,Devil Woman,Marty Robbins,23,18,6
+19,You Belong To Me,The Duprees,31,19,5
+20,Make It Easy On Yourself,Jerry Butler,25,20,9
+21,Sealed With A Kiss,Brian Hyland,17,3,13
+22,Sherry,The 4 Seasons,65,22,2
+23,Call Me Mr. In-Between,Burl Ives,19,19,7
+24,The Wah Watusi,The Orlons,11,2,13
+25,Send Me The Pillow You Dream On,Johnny Tillotson,37,25,4
+26,Till Death Do Us Part,Bob Braun,32,26,7
+27,Twist And Shout,The Isley Brothers,26,17,14
+28,You'll Lose A Good Thing,Barbara Lynn,14,8,12
+29,Bring It On Home To Me,Sam Cooke,13,13,9
+30,Alley Cat,Bent Fabric and His Piano,36,30,6
+31,Come On Little Angel,The Belmonts,40,31,7
+32,You Beat Me To The Punch,Mary Wells,39,32,4
+33,Shame On Me,Bobby Bare,34,33,7
+34,Heart In Hand,Brenda Lee,15,15,9
+35,Speedy Gonzales,Pat Boone,20,6,12
+36,Point Of No Return,Gene McDaniels,42,36,5
+37,Silver Threads And Golden Needles,The Springfields,50,37,5
+38,Venus In Blue Jeans,Jimmy Clanton,47,38,3
+39,Beechwood 4-5789,The Marvelettes,49,39,4
+40,Green Onions,Booker T. & The MG's,48,40,4
+41,Stop The Wedding,Etta James,44,41,6
+42,A Wonderful Dream,The Majors,52,42,4
+43,Let's Dance,Chris Montez,55,43,4
+44,Wolverton Mountain,Claude King,16,6,15
+45,Patches,Dickey Lee,61,45,2
+46,If I Had A Hammer (The Hammer Song),"Peter, Paul & Mary",59,46,3
+47,The Stripper,David Rose and His Orchestra,27,1,17
+48,I'm The Girl From Wolverton Mountain,Jo Ann Campbell,58,48,3
+49,Baby Elephant Walk,Lawrence Welk And His Orchestra,51,49,13
+50,A Taste Of Honey,Martin Denny and His Orchestra,53,50,8
+51,Surfin' Safari,The Beach Boys,62,51,4
+52,I Love You The Way You Are,Bobby Vinton,64,52,4
+53,Mr. Songwriter,Connie Stevens,56,53,5
+54,"(Girls, Girls, Girls) Made To Love",Eddie Hodges,28,14,11
+55,Just Tell Her Jim Said Hello,Elvis Presley With The Jordanaires,66,55,4
+56,Lie To Me,Brook Benton,69,56,2
+57,What Kind Of Love Is This,Joey Dee & the Starliters,71,57,2
+58,The Boys' Night Out,Patti Page,63,58,5
+59,Papa-Oom-Mow-Mow,The Rivingtons,74,59,3
+60,Hully Gully Baby,The Dovells,70,60,4
+61,Theme From Dr. Kildare (Three Stars Will Shine Tonight),Richard Chamberlain,29,10,14
+62,I Left My Heart In San Francisco,Tony Bennett,73,62,4
+63,Love Me As I Love You,George Maharis,54,54,5
+64,I Can't Stop Loving You,Ray Charles,41,1,18
+65,(Theme from) A Summer Place,Dick Roman,68,65,5
+66,You Can't Judge A Book By The Cover,Bo Diddley,72,66,3
+67,The Ballad Of Paladin,Duane Eddy,33,33,9
+68,Rain Rain Go Away,Bobby Vinton,89,68,2
+69,Do You Love Me,The Contours,82,69,4
+70,Having A Party,Sam Cooke,46,17,15
+71,Jivin' Around,Al Casey Combo,75,71,5
+72,Yield Not To Temptation,Bobby Bland,78,72,4
+73,It Might As Well Rain Until September,Carole King,90,73,2
+74,Lolita Ya-Ya,The Ventures,67,67,5
+75,Every Night (Without You),Paul Anka,80,75,2
+76,Too Late To Worry - Too Blue To Cry,Glen Campbell,77,76,2
+77,Long As The Rose Is Red,Florraine Darlin,86,77,2
+78,Punish Her,Bobby Vee,-1,78,1
+79,Lollipops And Roses,Paul Petersen,87,79,2
+80,Glory Of Love,Don Gardner And Dee Dee Ford,81,80,3
+81,Silly Boy (She Doesn't Love You),The Lettermen,92,81,3
+82,Lookin' For A Love,The Valentinos,84,82,3
+83,Don't You Worry,Don Gardner And Dee Dee Ford,83,83,2
+84,Beach Party,King Curtis And The Noble Knights,60,60,7
+85,Reap What You Sow,Billy Stewart,79,79,4
+86,Torture,Kris Jensen,-1,86,1
+87,So What,Bill Black's Combo ,91,87,4
+88,A Taste Of Honey,The Victor Feldman Quartet,-1,88,1
+89,I Want To Be Loved,Dinah Washington,76,76,3
+90,What Kind Of Fool Am I,Sammy Davis Jr.,-1,90,1
+91,Oh! What It Seemed To Be,The Castells,93,91,2
+92,Broken Heart,The Fiestas,97,92,2
+93,I Wouldn't Know (What To Do),Dinah Washington,-1,93,1
+94,No One Will Ever Know,Jimmie Rodgers,-1,94,1
+95,I Keep Forgettin',Chuck Jackson,-1,95,1
+96,"Hide & Go Seek, Part I",Bunker Hill,98,96,2
+97,For All We Know,Dinah Washington,88,88,2
+98,There Is No Greater Love,The Wanderers,99,98,2
+99,If I Didn't Have A Dime (To Play The Jukebox),Gene Pitney,-1,99,1
+100,Ol' Man River,Jimmy Smith,-1,100,1

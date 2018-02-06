@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Night Fever,Bee Gees,1,1,8
+2,Stayin' Alive,Bee Gees,2,1,16
+3,Emotion,Samantha Sang,3,3,19
+4,Lay Down Sally,Eric Clapton,4,4,12
+5,Can't Smile Without You,Barry Manilow,6,5,8
+6,(Love Is) Thicker Than Water,Andy Gibb,5,1,21
+7,I Go Crazy,Paul Davis,7,7,31
+8,Sometimes When We Touch,Dan Hill,8,3,18
+9,If I Can't Have You,Yvonne Elliman,14,9,9
+10,Thunder Island,Jay Ferguson,11,10,15
+11,Just The Way You Are,Billy Joel,10,3,20
+12,Dust In The Wind,Kansas,23,12,9
+13,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,9,6,22
+14,Falling,LeBlanc & Carr,15,14,24
+15,Jack And Jill,Raydio,19,15,11
+16,Our Love,Natalie Cole,18,16,11
+17,(What A) Wonderful World,Art Garfunkel With James Taylor & Paul Simon,17,17,10
+18,We'll Never Have To Say Goodbye Again,England Dan & John Ford Coley,26,18,5
+19,Ebony Eyes,Bob Welch,22,19,9
+20,Running On Empty,Jackson Browne,25,20,7
+21,Always And Forever,Heatwave,21,21,12
+22,Goodbye Girl,David Gates,24,22,15
+23,"Theme Song From ""Which Way Is Up""",Stargard,27,23,9
+24,Flash Light,Parliament,28,24,7
+25,Sweet Talkin' Woman,Electric Light Orchestra,29,25,6
+26,Before My Heart Finds Out,Gene Cotton,30,26,8
+27,Lady Love,Lou Rawls,31,27,10
+28,The Closer I Get To You,Roberta Flack With Donny Hathaway,39,28,6
+29,Hot Legs,Rod Stewart,33,29,7
+30,Thank You For Being A Friend,Andrew Gold,34,30,7
+31,The Name Of The Game,ABBA,12,12,14
+32,Feels So Good,Chuck Mangione,40,32,7
+33,How Deep Is Your Love,Bee Gees,35,1,27
+34,It's You That I Need,Enchantment,38,34,8
+35,Count On Me,Jefferson Starship,58,35,3
+36,You Really Got Me,Van Halen,37,36,9
+37,The Circle Is Small (I Can See It In Your Eyes),Gordon Lightfoot,42,37,7
+38,Boogie Shoes,KC And The Sunshine Band,41,38,7
+39,Disco Inferno,The Trammps,43,39,15
+40,Imaginary Lover,Atlanta Rhythm Section,45,40,4
+41,Fooling Yourself (The Angry Young Man),Styx,46,41,6
+42,Mammas Don't Let Your Babies Grow Up To Be Cowboys,Waylon & Willie,44,42,7
+43,What's Your Name,Lynyrd Skynyrd,13,13,17
+44,Fantasy,"Earth, Wind & Fire",54,44,4
+45,Little One,Chicago,55,45,7
+46,Baby Hold On,Eddie Money,51,46,5
+47,I'm Gonna Take Care Of Everything,Rubicon,52,47,5
+48,We Will Rock You/We Are The Champions,Queen,36,4,23
+49,More Than A Woman, Tavares,60,49,13
+50,This Time I'm In It For Love,Player,65,50,3
+51,Love Is Like Oxygen,Sweet,56,51,6
+52,"Sweet, Sweet Smile",Carpenters,53,52,8
+53,Rocket Ride,KISS,57,53,5
+54,Two Doors Down,Dolly Parton,69,54,2
+55,Rumour Has It,Donna Summer,61,55,4
+56,Happy Anniversary,Little River Band,16,16,15
+57,Your Love Is So Good For Me,Diana Ross,63,57,4
+58,The Way You Do The Things You Do,Rita Coolidge,20,20,11
+59,Peg,Steely Dan,32,11,19
+60,"Let Me Party With You (Part 1) (Party, Party, Party)",Bunny Sigler,66,60,5
+61,Honey Don't Leave L.a.,James Taylor,64,61,5
+62,Put Your Head On My Shoulder,Leif Garrett,62,62,4
+63,On Broadway,George Benson,71,63,3
+64,Never Get Enough Of Your Love,L.T.D.,73,64,3
+65,That's Your Secret,Sea Level,75,65,5
+66,It Amazes Me,John Denver,68,66,4
+67,Hollywood,Boz Scaggs,67,49,8
+68,Baby Come Back,Player,47,1,26
+69,Movin' Out (Anthony's Song),Billy Joel,79,69,2
+70,With A Little Luck,Wings,-1,70,1
+71,Let's All Chant,The Michael Zager Band,76,71,4
+72,Kings And Queens,Aerosmith,74,72,3
+73,Ready For The Times To Get Better,Crystal Gayle,83,73,5
+74,Do You Believe In Magic,Shaun Cassidy,-1,74,1
+75,I Love My Music,Wild Cherry,77,75,5
+76,Werewolves Of London,Warren Zevon,-1,76,1
+77,Bombs Away,Bob Weir,89,77,2
+78,It's A Heartache,Bonnie Tyler,-1,78,1
+79,Sitting In Limbo,Don Brown,81,79,2
+80,(Any Way That You Want It) I'll Be There,Starz,82,80,3
+81,Dancin' Fever,Claudja Barry,84,81,5
+82,We Fell In Love While Dancing,Bill Brandon,85,82,5
+83,"Music, Harmony And Rhythm",Brooklyn Dreams,-1,83,1
+84,Don't Cost You Nothing,Ashford & Simpson,88,84,3
+85,Two Out Of Three Ain't Bad,Meat Loaf,90,85,2
+86,(I Will Be Your) Shadow In The Street,Allan Clarke,-1,86,1
+87,Every Kinda People,Robert Palmer,-1,87,1
+88,Disco Rufus,Stargard,91,88,4
+89,Love Is All You Need,High Inergy,92,89,4
+90,You'll Love Again,Hotel,95,90,3
+91,Dance With Me,Peter Brown With Betty Wright,93,91,4
+92,Woman To Woman,Barbara Mandrell,94,92,4
+93,I Can't Stand The Rain,Eruption,96,93,3
+94,Miss Broadway,Belle Epoque,97,94,3
+95,"I Love You, I Love You, I Love You",Ronnie McDowell,98,95,2
+96,"Theme From ""Close Encounters Of The Third Kind""",John Williams,48,13,14
+97,Number One,Eloise Laws,99,97,2
+98,Poor Poor Pitiful Me,Linda Ronstadt,49,31,9
+99,Short People,Randy Newman,50,2,20
+100,You're In My Heart (The Final Acclaim),Rod Stewart,59,4,22

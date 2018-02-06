@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Mrs. Robinson,Simon & Garfunkel,2,1,6
+2,"The Good, The Bad And The Ugly","Hugo Montenegro, His Orchestra And Chorus",4,2,16
+3,A Beautiful Morning,The Rascals,3,3,8
+4,Tighten Up,Archie Bell & The Drells,1,1,10
+5,Honey,Bobby Goldsboro,5,1,11
+6,Yummy Yummy Yummy,Ohio Express,24,6,5
+7,Mony Mony,Tommy James And The Shondells,12,7,9
+8,Ain't Nothing Like The Real Thing,Marvin Gaye & Tammi Terrell,8,8,8
+9,Cowboys To Girls,The Intruders,6,6,11
+10,Do You Know The Way To San José,Dionne Warwick,10,10,8
+11,This Guy's In Love With You,Herb Alpert,27,11,3
+12,MacArthur Park,Richard Harris,34,12,4
+13,Think,Aretha Franklin,16,13,3
+14,Love Is All Around,The Troggs,14,7,15
+15,She's Lookin' Good,Wilson Pickett,15,15,8
+16,Shoo-Be-Doo-Be-Doo-Da-Day,Stevie Wonder,9,9,9
+17,Young Girl,The Union Gap Featuring Gary Puckett,13,2,14
+18,The Unicorn,The Irish Rovers,7,7,11
+19,Like To Get To Know You,Spanky And Our Gang,20,19,7
+20,I Could Never Love Another (After Loving You),The Temptations,22,20,5
+21,Delilah,Tom Jones,21,21,12
+22,I Will Always Think About You,The New Colony Six,28,22,10
+23,Master Jack,Four Jacks And A Jill,30,23,10
+24,Take Time To Know Her,Percy Sledge,11,11,12
+25,If I Were A Carpenter,Four Tops,26,25,6
+26,Soul Serenade,Willie Mitchell,23,23,13
+27,Cry Like A Baby,The Box Tops,19,2,14
+28,The Happy Song (Dum-Dum),Otis Redding,25,25,6
+29,How'd We Ever Get This Way,Andy Kim,49,29,5
+30,Angel Of The Morning,Merrilee Rush & The Turnabouts,48,30,5
+31,I Love You,People,40,31,9
+32,Licking Stick - Licking Stick (Part 1),James Brown And The Famous Flames,75,32,2
+33,Sweet Inspiration,The Sweet Inspirations,32,18,14
+34,The Look Of Love,Sergio Mendes & Brasil '66,42,34,4
+35,My Girl/Hey Girl,Bobby Vee,35,35,7
+36,I Wanna Live,Glen Campbell,36,36,9
+37,Funky Street,Arthur Conley,18,14,12
+38,Reach Out Of The Darkness,Friend And Lover,57,38,3
+39,A Man Without Love (Quando M'innamoro),Engelbert Humperdinck,52,39,4
+40,Does Your Mama Know About Me,Bobby Taylor & The Vancouvers,29,29,7
+41,(You Keep Me) Hangin' On,Joe Simon,41,41,8
+42,I'm Sorry,The Delfonics,43,42,6
+43,I Got The Feelin',James Brown And The Famous Flames,17,6,12
+44,Lady Madonna,The Beatles,31,4,11
+45,Time For Livin',The Association,46,45,3
+46,Tip-Toe Thru' The Tulips With Me,Tiny Tim,69,46,3
+47,Playboy,Gene And Debbe,38,17,16
+48,She's A Heartbreaker,Gene Pitney,58,48,4
+49,Wear It On Our Face,The Dells,44,44,8
+50,Never Give You Up,Jerry Butler,50,50,5
+51,Jelly Jungle (Of Orange Marmalade),Lemon Pipers,56,51,3
+52,Unwind,Ray Stevens,55,52,7
+53,If You Don't Want My Love,Robert John,53,53,8
+54,The Horse,Cliff Nobles & Co.,71,54,2
+55,Paying The Cost To Be The Boss,B.B. King,39,39,7
+56,United,Peaches & Herb,59,56,3
+57,You Don't Know What You Mean To Me,Sam & Dave,77,57,2
+58,Brooklyn Roads,Neil Diamond,66,58,4
+59,Friends,The Beach Boys,47,47,7
+60,Love In Every Room,Paul Mauriat And His Orchestra,60,60,4
+61,I'll Never Do You Wrong,Joe Tex,61,61,3
+62,Choo Choo Train,The Box Tops,-1,62,1
+63,May I Take A Giant Step (Into Your Heart),1910 Fruitgum Co.,68,63,7
+64,Anyone For Tennis,Cream,65,64,4
+65,Sleepy Joe,Herman's Hermits,67,65,4
+66,Baby Make Your Own Sweet Music,Jay And The Techniques,64,64,8
+67,I Can Remember,James & Bobby Purify,51,51,6
+68,We're Rolling On (Part I),The Impressions,63,59,7
+69,I Promise To Wait My Love,Martha Reeves & The Vandellas,62,62,7
+70,The Doctor,Mary Wells,83,70,3
+71,I Got You Babe,Etta James,79,71,3
+72,America Is My Home - Pt. 1,James Brown And The Famous Flames,89,72,2
+73,Yester Love,Smokey Robinson & The Miracles,-1,73,1
+74,I Wish I Knew (How It Would Feel To Be Free),Solomon Burke,74,74,5
+75,Bring A Little Lovin',Los Bravos,97,75,2
+76,Here's To You,Hamilton Camp,76,76,5
+77,You Ain't Going Nowhere,The Byrds,78,77,4
+78,I Got A Sure Thing,Ollie & The Nightingales,73,73,9
+79,Indian Lake,The Cowsills,-1,79,1
+80,My Shy Violet,The Mills Brothers,80,80,3
+81,"Face It Girl, It's Over",Nancy Wilson,81,81,4
+82,Apologize,Ed Ames,82,82,4
+83,Here Comes The Judge,Shorty Long,-1,83,1
+84,Folsom Prison Blues,Johnny Cash,96,84,2
+85,"Ready, Willing and Able",The American Breed,100,85,2
+86,Sky Pilot (Part One),Eric Burdon & The Animals,-1,86,1
+87,Lili Marlene,Al Martino,87,87,6
+88,It's Over,Eddy Arnold,91,88,3
+89,A Tribute To A King,William Bell,86,86,6
+90,Climb Every Mountain,The Hesitations,90,90,2
+91,San Francisco Girls (Return of the Native),Fever Tree,-1,91,1
+92,Hold On,Radiants,93,92,2
+93,Lonely Is The Name,Sammy Davis Jr.,94,93,2
+94,Here Come Da Judge,The Buena Vistas,-1,94,1
+95,Stoned Soul Picnic,The 5th Dimension,-1,95,1
+96,Funky Fever,Clarence Carter,-1,96,1
+97,Ain't Nothin' But A House Party,The Show Stoppers,-1,97,1
+98,Pictures Of Matchstick Men,The Status Quo,98,98,3
+99,Don't Sign The Paper Baby (I Want You Back),Jimmy Delphs,99,99,2
+100,Here Come The Judge,The Magistrates,-1,100,1

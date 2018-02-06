@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Endless Love,Diana Ross & Lionel Richie,1,1,13
+2,Arthur's Theme (Best That You Can Do),Christopher Cross,7,2,8
+3,Stop Draggin' My Heart Around,Stevie Nicks With Tom Petty And The Heartbreakers,3,3,11
+4,Who's Crying Now,Journey,6,4,12
+5,(There's) No Gettin' Over Me,Ronnie Milsap,5,5,15
+6,Queen Of Hearts,Juice Newton,2,2,19
+7,Step By Step,Eddie Rabbitt,8,7,11
+8,Urgent,Foreigner,4,4,14
+9,Start Me Up,The Rolling Stones,10,9,7
+10,Hold On Tight,Electric Light Orchestra,11,10,11
+11,For Your Eyes Only,Sheena Easton,14,11,11
+12,The Beach Boys Medley,The Beach Boys,13,12,11
+13,Private Eyes,Daryl Hall John Oates,18,13,6
+14,The Night Owls,Little River Band,17,14,7
+15,The Voice,The Moody Blues,16,15,9
+16,Lady (You Bring Me Up),Commodores,9,8,16
+17,Share Your Love With Me,Kenny Rogers,19,17,5
+18,Hard To Say,Dan Fogelberg,24,18,6
+19,I Could Never Miss You (More Than I Do),Lulu,21,19,10
+20,In Your Letter,REO Speedwagon,20,20,9
+21,Super Freak (Part I),Rick James,23,21,9
+22,Breaking Away,Balance,22,22,13
+23,I've Done Everything For You,Rick Springfield ,26,23,7
+24,We're In This Love Together,Al Jarreau,27,24,10
+25,When She Was My Girl,Four Tops,30,25,8
+26,Tryin' To Live My Life Without You,Bob Seger,31,26,4
+27,Slow Hand,The Pointer Sisters,12,2,19
+28,Just Once,Quincy Jones Featuring James Ingram,33,28,8
+29,"She's A Bad Mama Jama (She's Built, She's Stacked)",Carl Carlton,35,29,7
+30,Say Goodbye To Hollywood,Billy Joel,40,30,4
+31,Jessie's Girl,Rick Springfield,15,1,28
+32,"Theme From ""Greatest American Hero"" (Believe It or Not)",Joey Scarbury,25,2,22
+33,General Hospi-tale,The Afternoon Delights,34,33,11
+34,Draw Of The Cards,Kim Carnes,28,28,9
+35,Cool Love,Pablo Cruise,29,13,14
+36,The Theme From Hill Street Blues,Mike Post featuring Larry Carlton,42,36,7
+37,Here I Am (Just When I Thought I Was Over You),Air Supply,54,37,2
+38,The Breakup Song (They Don't Write 'Em),Greg Kihn Band,32,15,20
+39,Really Wanna Know You,Gary Wright,36,16,14
+40,Burnin' For You,Blue Oyster Cult,44,40,8
+41,Fire And Ice,Pat Benatar,37,17,12
+42,Alien,Atlanta Rhythm Section,48,42,6
+43,Atlanta Lady (Something About Your Love),Marty Balin,60,43,3
+44,Every Little Thing She Does Is Magic,The Police,66,44,2
+45,Our Lips Are Sealed,Go-Go's,51,45,6
+46,Love All The Hurt Away,Aretha Franklin And George Benson,46,46,6
+47,Some Days Are Diamonds (Some Days Are Stone),John Denver,38,36,17
+48,Heavy Metal (Takin' A Ride),Don Felder,52,48,11
+49,He's A Liar,Bee Gees,63,49,2
+50,Working In The Coal Mine,Devo,58,50,5
+51,Feels So Right,Alabama,43,20,18
+52,Sausalito Summernight,Diesel,62,52,4
+53,Straight From The Heart,The Allman Brothers Band,39,39,9
+54,You Saved My Soul,Burton Cummings,64,54,4
+55,In The Dark,Billy Squier,65,55,4
+56,I'm In Love,Evelyn King,41,40,11
+57,Backfired,Debbie Harry,47,43,8
+58,That Old Song,Ray Parker Jr. & Raydio,50,21,13
+59,You Could Take My Heart Away,Silver Condor,45,32,11
+60,Chloe,Elton John,49,34,11
+61,Oh No,Commodores,71,61,2
+62,Silly,Deniece Williams,53,53,8
+63,Square Biz,Teena Marie,57,50,11
+64,Steal The Night,Stevie Woods,70,64,4
+65,Love On A Two Way Street,Stacy Lattisaw,55,26,16
+66,Physical,Olivia Newton-John,-1,66,1
+67,Aiming At Your Heart,The Temptations,74,67,3
+68,More Stars,More Stars On 45,76,68,2
+69,Boy From New York City,The Manhattan Transfer,59,7,20
+70,"My Girl (Gone, Gone, Gone)",Chilliwack,81,70,2
+71,Promises In The Dark,Pat Benatar,-1,71,1
+72,Take Me Now,David Gates,82,72,2
+73,Stay Awake,Ronnie Laws,73,73,4
+74,No Time To Lose,The Tarney/Spencer Band,75,74,9
+75,No Reply At All,Genesis,85,75,2
+76,It's All I Can Do,Anne Murray,86,76,2
+77,The House Of The Rising Sun,Dolly Parton,77,77,3
+78,(Want You) Back In My Life Again,Carpenters,78,78,4
+79,At This Moment,Billy & The Beaters,80,79,3
+80,Still,John Schneider,90,80,2
+81,Let's Put The Fun Back In Rock N Roll,Freddy Cannon & The Belmonts,89,81,2
+82,"I Want You, I Need You",Chris Christian,-1,82,1
+83,Let's Groove,"Earth, Wind & Fire",-1,83,1
+84,A Lucky Guy,Rickie Lee Jones,-1,84,1
+85,Leila,ZZ Top,-1,85,1
+86,Fire In The Sky,The Dirt Band,-1,86,1
+87,I Don't Need You,Kenny Rogers,61,3,17
+88,Tempted,Squeeze,56,49,10
+89,Magic Power,Triumph,-1,89,1
+90,Hearts,Marty Balin,68,8,20
+91,Elvira,The Oak Ridge Boys,69,5,21
+92,All I Have To Do Is Dream,Andy Gibb & Victoria Principal,67,51,8
+93,Just Be My Lady,Larry Graham,72,67,5
+94,Magic Man,Herb Alpert,87,79,5
+95,You've Got A Good Love Coming,Van Stephenson ,79,79,4
+96,It's Now Or Never,John Schneider,83,14,19
+97,I'm So Glad I'm Standing Here Today,The Crusaders With Joe Cocker,98,97,2
+98,I'm Gonna Love Her For Both Of Us,Meat Loaf,84,84,3
+99,A Heart In New York,Art Garfunkel,91,66,9
+100,Don't Give It Up,Robbie Patton,92,26,13

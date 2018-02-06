@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,This Diamond Ring,Gary Lewis And The Playboys,1,1,7
+2,You've Lost That Lovin' Feelin',The Righteous Brothers,2,1,12
+3,My Girl,The Temptations,4,3,7
+4,Downtown,Petula Clark,3,1,11
+5,The Jolly Green Giant,The Kingsmen,6,5,8
+6,Tell Her No,The Zombies,11,6,8
+7,Shake,Sam Cooke,8,7,8
+8,The Boy From New York City,The Ad Libs,10,8,7
+9,I Go To Pieces,Peter And Gordon,9,9,8
+10,King Of The Road,Roger Miller,17,10,5
+11,The Name Game,Shirley Ellis,5,3,12
+12,Ferry Cross The Mersey,Gerry And The Pacemakers,21,12,4
+13,The Birds And The Bees,Jewel Akens,25,13,6
+14,Twine Time,Alvin Cash & The Crawlers,14,14,9
+15,"Laugh, Laugh",The Beau Brummels,15,15,9
+16,All Day And All Of The Night,The Kinks,7,7,10
+17,Hurt So Bad,Little Anthony And The Imperials,22,17,4
+18,Red Roses For A Blue Lady,Bert Kaempfert And His Orchestra,26,18,6
+19,Eight Days A Week,The Beatles,53,19,2
+20,Lemon Tree,Trini Lopez,20,20,6
+21,"Bye, Bye, Baby (Baby, Goodbye)","The 4 Seasons Featuring the ""Sound of Frankie Valli""",12,12,7
+22,"The ""In"" Crowd",Dobie Gray,13,13,8
+23,Goldfinger,Shirley Bassey,44,23,5
+24,Heart Of Stone,The Rolling Stones,19,19,8
+25,I've Got A Tiger By The Tail,Buck Owens,28,25,6
+26,Little Things,Bobby Goldsboro,31,26,6
+27,Can't You Hear My Heartbeat,Herman's Hermits,38,27,5
+28,Goodnight,Roy Orbison,34,28,3
+29,What Have They Done To The Rain,The Searchers,32,29,5
+30,For Lovin' Me,"Peter, Paul & Mary",30,30,6
+31,It's Alright,Adam Faith With The Roulettes,35,31,7
+32,Ask The Lonely,Four Tops,39,32,4
+33,A Change Is Gonna Come,Sam Cooke,33,33,5
+34,Paper Tiger,Sue Thompson,23,23,9
+35,Let's Lock The Door (And Throw Away The Key),Jay & The Americans,16,11,10
+36,Love Potion Number Nine,The Searchers,24,3,14
+37,Come Home,The Dave Clark Five,48,37,4
+38,New York's A Lonely Town,The Trade Winds,49,38,4
+39,Midnight Special,Johnny Rivers,46,39,4
+40,"Yeh, Yeh",Georgie Fame And The Blue Flames,54,40,3
+41,Stop! In The Name Of Love,The Supremes,80,41,2
+42,No Arms Can Ever Hold You,The Bachelors,27,27,10
+43,Whose Heart Are You Breaking Tonight,Connie Francis,43,43,6
+44,Hold What You've Got,Joe Tex,18,5,11
+45,Shotgun,Jr. Walker & The All Stars,64,45,3
+46,Red Roses For A Blue Lady,Vic Dana,57,46,4
+47,People Get Ready,The Impressions,67,47,3
+48,At The Club,The Drifters,50,43,5
+49,Don't Let Me Be Misunderstood,The Animals,60,49,4
+50,Break Away (From That Boy),The Newbeats,40,40,6
+51,Thanks A Lot,Brenda Lee,45,45,7
+52,Fancy Pants,Al (He's the King) Hirt,47,47,7
+53,If I Loved You,Chad & Jeremy,77,53,2
+54,Send Me The Pillow You Dream On,Dean Martin,68,54,2
+55,Born To Be Together,The Ronettes Featuring Veronica,56,55,4
+56,My Heart Would Know,Al Martino,52,52,7
+57,Dusty,The Rag Dolls,55,55,6
+58,Don't Mess Up A Good Thing,Fontella Bass & Bobby McClure,71,58,4
+59,I Don't Want To Spoil The Party,The Beatles,81,59,2
+60,Don't Come Running Back To Me,Nancy Wilson,58,58,5
+61,Goldfinger,Billy Strange,62,61,6
+62,Whenever A Teenager Cries,Reparata And The Delrons,66,60,8
+63,If I Ruled The World,Tony Bennett,78,63,3
+64,Married Man,Richard Burton,69,64,5
+65,Cry,Ray Charles,72,65,4
+66,Angel,Johnny Tillotson,82,66,3
+67,Comin' On Too Strong,Wayne Newton,65,65,5
+68,Do The Clam,"Elvis Presley With The Jordanaires, Jubilee Four & Carol Lombard Trio",-1,68,1
+69,He Was Really Sayin' Somethin',The Velvelettes,75,69,5
+70,It's Gotta Last Forever,Billy J. Kramer With The Dakotas,70,70,4
+71,Come Tomorrow,Manfred Mann,89,71,2
+72,I Wanna Be (Your Everything),The Manhattans,76,72,7
+73,Nowhere To Run,Martha & The Vandellas,-1,73,1
+74,Stranger In Town,Del Shannon,-1,74,1
+75,You Better Get It,Joe Tex,83,75,2
+76,Red Roses For A Blue Lady,Wayne Newton,-1,76,1
+77,Like A Child,Julie Rogers,87,77,3
+78,I Must Be Seeing Things,Gene Pitney,-1,78,1
+79,Try To Remember,Ed Ames,73,73,6
+80,Mr. Pitiful,Otis Redding,95,80,2
+81,4 - By The Beatles,The Beatles,-1,81,1
+82,You Got What It Takes,Joe Tex,-1,82,1
+83,Apache '65,The Arrows Featuring Davie Allan,86,83,3
+84,Do You Wanna Dance?,The Beach Boys,-1,84,1
+85,It's Gonna Be Alright,Maxine Brown,88,85,3
+86,Go Now!,The Moody Blues,96,86,2
+87,Does He Really Care For Me,Ruby And The Romantics,90,87,2
+88,Who Can I Turn To,Dionne Warwick,-1,88,1
+89,The Race Is On,Jack Jones,-1,89,1
+90,Orange Blossom Special,Johnny Cash,92,90,3
+91,Cupid,Johnny Rivers,94,91,2
+92,Did You Ever,The Hullaballoos,98,92,3
+93,Come And Stay With Me,Marianne Faithfull,-1,93,1
+94,This Is My Prayer,The Ray Charles Singers,-1,94,1
+95,Danny Boy,Jackie Wilson,-1,95,1
+96,You Can Have Him,Timi Yuro,99,96,2
+97,Goldfinger,Jack Laforge His Piano and Orchestra,97,97,4
+98,Whipped Cream,Herb Alpert's Tijuana Brass,100,98,2
+99,Pass Me By,Peggy Lee,-1,99,1
+100,Land Of 1000 Dances,Cannibal And The Headhunters,-1,100,1

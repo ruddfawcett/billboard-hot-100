@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Big Bad John,Jimmy Dean,1,1,8
+2,Runaround Sue,Dion,2,1,9
+3,Fool #1,Brenda Lee,3,3,8
+4,Goodbye Cruel World,James Darren,12,4,6
+5,Bristol Stomp,The Dovells,4,2,11
+6,Tower Of Strength,Gene McDaniels,5,5,8
+7,Hit The Road Jack,Ray Charles and his Orchestra,6,1,11
+8,Please Mr. Postman,The Marvelettes,9,8,12
+9,This Time,Troy Shondell,8,6,10
+10,The Fly,Chubby Checker,7,7,9
+11,You're The Reason,Bobby Edwards,13,11,13
+12,I Love How You Love Me,The Paris Sisters,15,5,12
+13,Tonight,Ferrante & Teicher,29,13,6
+14,I Understand (Just How You Feel),The G-Clefs,20,14,10
+15,Crazy,Patsy Cline,19,15,5
+16,Everlovin',Rick Nelson,16,16,8
+17,Sad Movies (Make Me Cry),Sue Thompson,10,5,12
+18,"God, Country And My Baby",Johnny Burnette,24,18,6
+19,Heartaches,The Marcels,17,17,7
+20,A Wonder Like You,Rick Nelson,11,11,8
+21,I Wanna Thank You,Bobby Rydell,30,21,6
+22,Moon River,Jerry Butler,26,22,7
+23,Let's Get Together,Hayley Mills and Hayley Mills,14,8,12
+24,Just Out Of Reach (Of My Two Open Arms),Solomon Burke,34,24,10
+25,Ya Ya,Lee Dorsey,18,7,11
+26,Moon River,Henry Mancini And His Orchestra,36,26,7
+27,The Twist,Chubby Checker,55,1,20
+28,September In The Rain,Dinah Washington,32,28,6
+29,Run To Him,Bobby Vee,57,29,2
+30,Let There Be Drums,Sandy Nelson,44,30,4
+31,Walk On By,Leroy Van Dyke,46,31,4
+32,Foot Stomping - Part 1,The Flares,38,25,12
+33,Big John,The Shirelles,21,21,8
+34,Crying,Roy Orbison,22,2,15
+35,Sweets For My Sweet,The Drifters,23,16,11
+36,The Way You Look Tonight,The Lettermen,25,13,12
+37,Gypsy Woman,The Impressions,49,37,6
+38,(He's My) Dreamboat,Connie Francis,33,14,9
+39,Rock-A-Bye Your Baby With A Dixie Melody,Aretha Franklin,43,39,7
+40,So Long Baby,Del Shannon,41,28,10
+41,Anybody But Me,Brenda Lee,48,31,8
+42,In The Middle Of A Heartache,Wanda Jackson ,52,42,6
+43,Candy Man,Roy Orbison,27,25,13
+44,Please Don't Go,Ral Donner,39,39,9
+45,"Happy Birthday, Sweet Sixteen",Neil Sedaka,62,45,2
+46,School Is In,Gary U.S. Bonds,28,28,5
+47,I Don't Know Why,Linda Scott,66,47,4
+48,Under The Moon Of Love,Curtis Lee,50,48,6
+49,What A Party,Fats Domino,35,22,8
+50,The Bridge Of Love,Joe Dowell,53,50,6
+51,Up A Lazy River,Si Zentner And His Orchestra,84,51,2
+52,Everybody's Gotta Pay Some Dues,The Miracles,60,52,5
+53,Your Ma Said You Cried In Your Sleep Last Night,Kenny Dino,68,53,3
+54,Blue Moon,The Ventures,65,54,5
+55,The Lion Sleeps Tonight,The Tokens,70,55,2
+56,Town Without Pity,Gene Pitney,72,56,4
+57,'Til,The Angels,81,57,5
+58,I'll Be Seeing You,Frank Sinatra,59,58,6
+59,Smile,Timi Yuro,63,59,3
+60,Tonight,Eddie Fisher,71,60,3
+61,Language Of Love,John D. Loudermilk,75,61,3
+62,Take Five,The Dave Brubeck Quartet,37,25,11
+63,The Way I Am,Jackie Wilson,58,58,5
+64,Sometime,Gene Thomas,69,64,4
+65,Let's Twist Again,Chubby Checker,-1,8,13
+66,I Really Love You,The Stereos,51,29,9
+67,Mexico,Bob Moore and His Orch.,31,7,15
+68,Peppermint Twist - Part I,Joey Dee & the Starliters,-1,68,1
+69,Johnny Will,Pat Boone,80,69,2
+70,Three Steps From The Altar,Shep And The Limelites,76,70,6
+71,For Me And My Gal,Freddy Cannon,74,71,6
+72,Danny Boy,Andy Williams,64,64,4
+73,It's Too Soon To Know,Etta James,90,73,3
+74,"Well, I Told You",The Chantels,92,74,2
+75,My Heart Belongs To Only You,Jackie Wilson,88,68,5
+76,A Certain Girl,Ernie K-Doe,95,76,2
+77,On Bended Knees,Clarence Henry,78,77,4
+78,The Gypsy Rover,The Highwaymen,83,78,3
+79,Somewhere Along The Way,Steve Lawrence,67,67,5
+80,When The Boy In Your Arms (Is The Boy In Your Heart),Connie Francis,-1,80,1
+81,It's All Because,Linda Scott,86,81,2
+82,I Cried My Last Tear,Ernie K-Doe,87,82,3
+83,Revenge,Brook Benton,-1,83,1
+84,The Comancheros,Claude King ,85,84,2
+85,Stick Shift,Duals,45,25,11
+86,I Wonder (If Your Love Will Ever Belong To Me),The Pentagons,93,86,4
+87,Funny How Time Slips Away,Jimmy Elledge,100,87,2
+88,It Will Stand,The Showmen,89,88,2
+89,When I Fall In Love,The Lettermen,-1,89,1
+90,If You Gotta Make A Fool Of Somebody,James Ray,-1,90,1
+91,Love (I'm So Glad) I Found You,The Spinners,-1,91,1
+92,There's No Other (Like My Baby),The Crystals,-1,92,1
+93,Greetings (This is Uncle Sam),Valadiers,-1,93,1
+94,What A Walk,Bobby Lewis,-1,94,1
+95,I Know (You Don't Love Me No More),Barbara George,99,95,2
+96,"Never, Never",The Jive Five With Joe Rene And Orchestra,98,96,2
+97,You're Following Me,Perry Como,-1,97,1
+98,"Turn Around, Look At Me",Glen Campbell,-1,97,3
+99,Steps 1 And 2,Jack Scott,-1,98,2
+100,Tennessee Flat-Top Box,Johnny Cash,91,91,2

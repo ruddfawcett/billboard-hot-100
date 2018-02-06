@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,In The Year 2525,Zager & Evans,8,1,4
+2,Spinning Wheel,"Blood, Sweat & Tears",2,2,7
+3,Good Morning Starshine,Oliver,4,3,8
+4,Love Theme From Romeo & Juliet,Henry Mancini And His Orchestra,1,1,10
+5,One,Three Dog Night,5,5,11
+6,Crystal Blue Persuasion,Tommy James And The Shondells ,7,6,6
+7,Bad Moon Rising,Creedence Clearwater Revival,3,2,11
+8,The Ballad Of John And Yoko,The Beatles,11,8,5
+9,Color Him Father,The Winstons,9,9,8
+10,What Does It Take (To Win Your Love),Jr. Walker & The All Stars,14,10,9
+11,My Cherie Amour,Stevie Wonder,16,11,7
+12,Get Back,The Beatles With Billy Preston,6,1,10
+13,Too Busy Thinking About My Baby,Marvin Gaye,10,4,12
+14,Love Me Tonight,Tom Jones,15,14,8
+15,Mother Popcorn (You Got To Have A Mother For Me) Part 1,James Brown,18,15,5
+16,In The Ghetto,Elvis Presley,12,3,11
+17,"Baby, I Love You",Andy Kim,29,17,8
+18,Black Pearl,"Sonny Charles And The Checkmates, Ltd.",13,13,10
+19,Israelites,Desmond Dekker & The Aces,19,9,9
+20,Let Me,Paul Revere & The Raiders Featuring Mark Lindsay,20,20,9
+21,Grazing In The Grass,The Friends Of Distinction,17,3,15
+22,Quentin's Theme,The Charles Randolph Grean Sounde,28,22,5
+23,I Turned You On,The Isley Brothers,30,23,7
+24,I Can Sing A Rainbow/Love Is Blue,The Dells,31,24,8
+25,Moody Woman,Jerry Butler,26,25,7
+26,"Ruby, Don't Take Your Love To Town",Kenny Rogers & The First Edition,37,26,6
+27,Medicine Man (Part I),Buchanan Brothers,22,22,11
+28,More Today Than Yesterday,Spiral Starecase,21,12,15
+29,My Pledge Of Love,The Joe Jeffrey Group,33,29,6
+30,Sweet Caroline (Good Times Never Seemed So Good),Neil Diamond,50,30,3
+31,Good Old Rock 'N Roll,Cat Mother & the All Night News Boys,51,31,3
+32,"Yesterday, When I Was Young",Roy Clark,42,32,5
+33,The Popcorn,James Brown,34,33,7
+34,The Days Of Sand And Shovels,Bobby Vinton,41,34,5
+35,With Pen In Hand,Vikki Carr,36,35,11
+36,We Got More Soul,Dyke And The Blazers,35,35,9
+37,Mrs. Robinson,Booker T. & The MG's,40,37,6
+38,The Minotaur,Dick Hyman & His Electric Eclectics ,38,38,7
+39,Everyday With You Girl,Classics IV Featuring Dennis Yost,24,19,11
+40,Choice Of Colors,The Impressions,48,40,3
+41,Doggone Right,Smokey Robinson & The Miracles,43,41,4
+42,"Abraham, Martin And John",Moms Mabley,57,42,3
+43,Moonflight,Vik Venus Alias: Your Main Moon Man,47,43,5
+44,So I Can Love You,The Emotions,44,44,8
+45,Memphis Underground,Herbie Mann,45,45,8
+46,But It's Alright,J.J. Jackson,46,22,21
+47,Moments To Remember,The Vogues,49,47,4
+48,"Abraham, Martin And John",Smokey Robinson & The Miracles,73,48,2
+49,I'd Rather Be An Old Man's Sweetheart (Than A Young Man's Fool),Candi Staton,59,49,4
+50,See,The Rascals,27,27,8
+51,You Don't Have To Walk In The Rain,The Turtles,53,51,6
+52,The Girl I'll Never Know (Angels Never Fly This Low),Frankie Valli,52,52,5
+53,It's Getting Better,Mama Cass,55,53,6
+54,Along Came Jones,Ray Stevens,66,54,3
+55,Put A Little Love In Your Heart,Jackie DeShannon,64,55,3
+56,Reconsider Me,Johnny Adams,68,56,3
+57,Polk Salad Annie,Tony Joe White,86,57,2
+58,Don't Let The Joneses Get You Down,The Temptations,32,20,8
+59,I'd Wait A Million Years,The Grass Roots,85,59,2
+60,Muddy River,Johnny Rivers,88,60,3
+61,"Don't Wake Me Up In The Morning, Michael",Peppermint Rainbow,71,61,5
+62,Tell All The People,The Doors,62,62,5
+63,Didn't We,Richard Harris,65,63,6
+64,Listen To The Band,The Monkees,67,64,6
+65,Clean Up Your Own Back Yard,Elvis Presley,90,65,2
+66,Why I Sing The Blues,B.B. King,70,66,9
+67,On Campus,Dickie Goodman,75,67,3
+68,Girl You're Too Young,Archie Bell & The Drells,74,68,4
+69,(Sittin' On) The Dock Of The Bay,Sergio Mendes & Brasil '66,72,69,3
+70,Feeling Alright,Joe Cocker,79,70,4
+71,The Feeling Is Right,Clarence Carter,78,71,4
+72,"Baby, Don't Be Looking In My Mind",Joe Simon,81,72,4
+73,Hurt So Bad,The Lettermen,77,73,7
+74,Get Together,The Youngbloods,89,62,11
+75,The Prophecy Of Daniel and John The Divine (Six-Six-Six),The Cowsills,76,75,4
+76,While You're Out Looking For Sugar?,The Honey Cone,83,76,3
+77,Hushabye,Jay & The Americans,69,62,7
+78,Did You See Her Eyes,The Illusion,92,78,2
+79,Break Away,The Beach Boys,93,79,2
+80,Forever,Mercy,87,80,3
+81,Hey Joe,Wilson Pickett,-1,81,1
+82,I'm Still A Struggling Man,Edwin Starr,80,80,3
+83,Laughing,The Guess Who,-1,83,1
+84,"Theme From ""A Summer Place""",The Ventures,97,84,3
+85,Where Do I Go/Be-In/Hare Krishna,The Happenings,-1,85,1
+86,Don't Tell Your Mama (Where You've Been),Eddie Floyd,95,86,3
+87,Stay And Love Me All Summer,Brian Hyland,-1,87,1
+88,Willie & Laura Mae Jones,Dusty Springfield,-1,88,1
+89,Nothing Can Take The Place Of You,Brook Benton,99,89,2
+90,Soul Deep,The Box Tops,94,90,2
+91,Never Comes The Day,The Moody Blues,91,91,3
+92,Wake Up,The Chambers Brothers,-1,92,1
+93,I'll Never Fall In Love Again,Burt Bacharach,98,93,2
+94,Lay Lady Lay,Bob Dylan,-1,94,1
+95,Everything I Do Gonh Be Funky (From Now On),Lee Dorsey,96,95,3
+96,Birds Of A Feather,Joe South,-1,96,1
+97,In The Time Of Our Lives,Iron Butterfly,-1,97,1
+98,Pass The Apple Eve,B.J. Thomas,-1,98,1
+99,My Little Chickadee,The Foundations,100,99,2
+100,Abergavenny,Shannon,-1,100,1

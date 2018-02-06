@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Ben,Michael Jackson,2,1,11
+2,Use Me,Bill Withers,6,2,8
+3,Everybody Plays The Fool,The Main Ingredient,4,3,14
+4,Burning Love,Elvis Presley,7,4,9
+5,Go All The Way,Raspberries,5,5,16
+6,Baby Don't Get Hooked On Me,Mac Davis,1,1,16
+7,My Ding-A-Ling,Chuck Berry,9,7,11
+8,Nights In White Satin,The Moody Blues,12,8,11
+9,Back Stabbers,The O'Jays,3,3,13
+10,Popcorn,Hot Butter,10,10,15
+11,Play Me,Neil Diamond,11,11,10
+12,Garden Party,Rick Nelson And The Stone Canyon Band,15,12,12
+13,You Wear It Well,Rod Stewart,17,13,8
+14,Speak To The Sky,Rick Springfield,14,14,11
+15,Tight Rope,Leon Russell,16,15,8
+16,Why/Lonely Boy,Donny Osmond,18,16,8
+17,"Freddie's Dead (Theme From ""Superfly"")",Curtis Mayfield,21,17,9
+18,Good Time Charlie's Got The Blues,Danny O'Keefe,23,18,7
+19,Get On The Good Foot-Part 1,James Brown,19,19,11
+20,The City Of New Orleans,Arlo Guthrie,20,20,12
+21,Black & White,Three Dog Night,8,1,10
+22,Listen To The Music,The Doobie Brothers,24,22,7
+23,Saturday In The Park,Chicago,13,3,11
+24,Don't Ever Be Lonely (A Poor Little Fool Like Me),Cornelius Brothers & Sister Rose,26,24,7
+25,Starting All Over Again,Mel And Tim,25,25,15
+26,I Can See Clearly Now,Johnny Nash,33,26,6
+27,Witchy Woman,Eagles,30,27,6
+28,If I Could Reach You,The 5th Dimension,31,28,6
+29,Thunder And Lightning,Chi Coltrane,29,29,7
+30,I Believe In Music,Gallery,35,30,10
+31,Midnight Rider,Joe Cocker and The Chris Stainton Band,36,31,5
+32,I'll Be Around,The Spinners,40,32,5
+33,Loving You Just Crossed My Mind,Sam Neely,39,33,7
+34,Beautiful Sunday,Daniel Boone,22,15,20
+35,I'd Love You To Want Me,Lobo,44,35,4
+36,I Am Woman,Helen Reddy,46,36,8
+37,Geronimo's Cadillac,Michael Murphey,37,37,11
+38,Rock Me Baby,David Cassidy,41,38,6
+39,Spaceman,Nilsson,43,39,5
+40,Don't Do It,The Band,50,40,5
+41,From The Beginning,"Emerson, Lake & Palmer",45,41,8
+42,Honky Cat,Elton John,28,8,10
+43,Alone Again (Naturally),Gilbert O'Sullivan,27,1,18
+44,American City Suite,Cashman & West,58,44,4
+45,If You Leave Me Tonight I'll Cry,Jerry Wallace,38,38,9
+46,A Piece Of Paper,Gladstone,47,46,8
+47,Don't Hide Your Love,Cher,48,47,6
+48,Elected,Alice Cooper,67,48,2
+49,All The Young Dudes,Mott The Hoople,60,49,4
+50,Summer Breeze,Seals & Crofts,59,50,6
+51,Slaughter,Billy Preston,52,51,6
+52,Can't You Hear The Song?,Wayne Newton,57,52,4
+53,That's How Love Goes,Jermaine Jackson,56,53,5
+54,(It's The Way) Nature Planned It,Four Tops,54,54,6
+55,Sweet Caroline (Good Times Never Seemed So Good),Bobby Womack & Peace,51,51,8
+56,If You Don't Know Me By Now,Harold Melvin And The Blue Notes,61,56,3
+57,Run To Me,Bee Gees,34,16,12
+58,A Lonely Man/The Man & The Woman (The Boy & The Girl),The Chi-lites,69,58,3
+59,Rock 'N Roll Soul,Grand Funk Railroad,65,59,4
+60,Let It Rain,Eric Clapton,62,60,4
+61,Power Of Love,Joe Simon,32,11,15
+62,Guess Who/Them Changes,B.B. King,63,62,9
+63,Woman Don't Go Astray,King Floyd,64,63,5
+64,Easy Livin,Uriah Heep,49,39,12
+65,"For Emily, Whenever I May Find Her",Simon & Garfunkel,53,53,7
+66,Colorado,Danny Holien,75,66,6
+67,Poor Boy,Casey Kelly,78,67,4
+68,I'll Make You Music,Beverly Bremers,68,68,5
+69,Toast To The Fool,The Dramatics,70,69,8
+70,Think (About It),Lyn Collins,66,66,7
+71,Funny Face,Donna Fargo,83,71,3
+72,So Long Dixie,"Blood, Sweat & Tears",81,72,3
+73,"Carry Me, Carrie",Dr. Hook And The Medicine Show,71,71,6
+74,We Can Make It Together,Steve & Eydie Featuring The Osmonds,74,74,5
+75,Rockin' Pneumonia - Boogie Woogie Flu,Johnny Rivers,80,75,2
+76,One More Chance,Ocean,76,76,4
+77,If You Let Me,Eddie Kendricks,82,77,2
+78,Operator (That's Not the Way it Feels),Jim Croce,-1,78,1
+79,Guilty, Al Green,79,79,3
+80,Sunny Days,Lighthouse,90,80,2
+81,Man Sized Job,Denise LaSalle,98,81,2
+82,Best Thing,Styx,84,82,5
+83,Papa Was A Rollin' Stone,The Temptations,-1,83,1
+84,If You Can Beat Me Rockin' (You Can Have My Chair),Laura Lee,87,84,3
+85,"Dance, Dance, Dance",The New Seekers featuring Marty Kristian,85,85,4
+86,The Mosquito,The Doors,86,86,3
+87,Wedding Song (There Is Love),Petula Clark,89,87,2
+88,Dinah Flo,Boz Scaggs,88,88,3
+89,Baby Sitter,Betty Wright,-1,89,1
+90,Why Can't We Be Lovers,Holland-Dozier,96,90,3
+91,No,Bulldog,-1,91,1
+92,I'm Stone In Love With You,The Stylistics,-1,92,1
+93,Dedicated To The One I Love,The Temprees,93,93,2
+94,Sing A Song/Make Your Own Kind Of Music,Barbra Streisand,95,94,3
+95,With Pen In Hand,Bobby Goldsboro,94,94,5
+96,Deteriorata,National Lampoon,-1,96,1
+97,Runnin' Back To Saskatoon,The Guess Who,-1,97,1
+98,Something's Wrong With Me,Austin Roberts,-1,98,1
+99,I Just Want To Make Love To You,Foghat,99,99,2
+100,Happier Than The Morning Sun,B.J. Thomas,100,100,2

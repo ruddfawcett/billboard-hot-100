@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,ABC,Jackson 5,2,1,7
+2,Let It Be,The Beatles,1,1,6
+3,Spirit In The Sky,Norman Greenbaum,3,3,9
+4,Instant Karma (We All Shine On),John Ono Lennon,4,3,9
+5,American Woman/No Sugar Tonight,The Guess Who,9,5,6
+6,Love Grows (Where My Rosemary Goes),Edison Lighthouse,5,5,10
+7,Come And Get It,Badfinger,7,7,12
+8,Love Or Let Me Be Lonely,The Friends Of Distinction,8,8,8
+9,Bridge Over Troubled Water,Simon & Garfunkel,6,1,12
+10,Turn Back The Hands Of Time,Tyrone Davis,16,10,6
+11,Up The Ladder To The Roof,The Supremes ,10,10,8
+12,Something's Burning,Kenny Rogers & The First Edition,15,12,11
+13,"Easy Come, Easy Go",Bobby Sherman,11,9,12
+14,Reflections Of My Life,The Marmalade,18,14,7
+15,House Of The Rising Sun,Frijid Pink,13,7,12
+16,Woodstock,"Crosby, Stills, Nash & Young",17,16,5
+17,The Bells,The Originals,12,12,12
+18,For The Love Of Him,Bobbi Martin,28,18,7
+19,Vehicle,The Ides Of March,32,19,5
+20,Long Lonesome Highway,Michael Parks,20,20,9
+21,Everything Is Beautiful,Ray Stevens,37,21,4
+22,You're The One-Part II,Little Sister,23,22,9
+23,Tennessee Bird Walk,Jack Blanchard & Misty Morgan,24,23,9
+24,Shilo,Neil Diamond,25,24,12
+25,The Rapper, The Jaggerz,14,2,13
+26,Everybody's Out Of Town,B.J. Thomas,34,26,5
+27,Cecilia,Simon & Garfunkel,38,27,3
+28,You Need Love Like I Do (Don't You),Gladys Knight And The Pips,30,28,6
+29,Celebrate,Three Dog Night,22,15,9
+30,Give Me Just A Little More Time,Chairman Of The Board,19,3,15
+31,What Is Truth,Johnny Cash,46,31,3
+32,Get Ready,Rare Earth,33,32,7
+33,Love On A Two-Way Street,The Moments,40,33,3
+34,Little Green Bag,George Baker Selection,35,34,6
+35,Airport Love Theme (Gwen And Vern),Vincent Bell,44,35,3
+36,Gotta Hold On To This Feeling,Jr. Walker & The All Stars,29,21,10
+37,Call Me/Son Of A Preacher Man,Aretha Franklin,26,13,12
+38,Which Way You Goin' Billy?,The Poppy Family (Featuring Susan Jacks),48,38,5
+39,Come Running,Van Morrison,43,39,4
+40,Make Me Smile,Chicago,41,40,4
+41,Come Saturday Morning,The Sandpipers,61,41,11
+42,Do The Funky Chicken,Rufus Thomas,39,28,12
+43,Oh Happy Day,Glen Campbell,52,43,3
+44,The Girls' Song,The 5th Dimension,47,44,4
+45,California Girl,Eddie Floyd,45,45,10
+46,The Letter,Joe Cocker with Leon Russell & The Shelter People,72,46,2
+47,Miss America,Mark Lindsay,64,47,4
+48,Up Around The Bend/Run Through The Jungle,Creedence Clearwater Revival,-1,48,1
+49,Reach Out And Touch (Somebody's Hand),Diana Ross,-1,49,1
+50,"My Woman, My Woman, My Wife",Marty Robbins,42,42,7
+51,Children,Joe South,54,51,6
+52,Hey Lawdy Mama,Steppenwolf,65,52,3
+53,Hitchin' A Ride,Vanity Fare,77,53,6
+54,Viva Tirado - Part I,El Chicano,76,54,3
+55,You Make Me Real/Roadhouse Blues,The Doors,75,55,3
+56,Puppet Man,The 5th Dimension,86,56,2
+57,Capture The Moment,Jay & The Americans,57,57,5
+58,Let Me Go To Him,Dionne Warwick,88,58,2
+59,Don't Stop Now/Since I Don't Have You,Eddie Holman,80,59,4
+60,Chicken Strut,The Meters,67,60,4
+61,Cryin' In The Streets (Part 1),George Perkins & The Silver Stars,68,61,4
+62,Nothing Succeeds Like Success,Bill Deal & The Rhondels,62,62,6
+63,Love Land,Charles Wright And The Watts 103rd Street Rhythm Band,63,63,3
+64,So Excited,B.B. King,73,64,3
+65,To The Other Woman (I'm The Other Woman),Doris Duke,60,50,9
+66,Dear Prudence,The 5 Stairsteps,66,66,6
+67,Deeper (In Love With You),The O'Jays,70,67,4
+68,"My Wife, The Dancer",Eddie & Dutch,79,68,4
+69,Come Together,Ike & Tina Turner & The Ikettes,58,57,8
+70,The Cat Walk,The Village Soul Choir,55,55,10
+71,Is Anybody Goin' To San Antone,Charley Pride,71,70,7
+72,He Made A Woman Out Of Me,Bobbie Gentry,74,72,3
+73,Brown Paper Bag,Syndicate Of Sound,78,73,5
+74,Hum A Song (From Your Heart),Lulu with The Dixie Flyers,-1,74,1
+75,The Funniest Thing,Dennis Yost And The Classics IV,59,59,5
+76,Ticket To Ride,Carpenters,81,66,9
+77,Cinnamon Girl,The Gentrys,98,77,2
+78,The Seeker,The Who,90,78,2
+79,United We Stand,The Brotherhood Of Man,93,79,2
+80,Welfare Cadilac,Guy Drake,-1,63,10
+81,Can You Feel It,Bobby Goldsboro,82,81,4
+82,I Who Have Nothing,Liquid Smoke,83,82,2
+83,Open Up My Heart/Nadine,The Dells,95,83,2
+84,My Way,Brook Benton,97,84,2
+85,Farther On Down The Road,Joe Simon,89,85,2
+86,"I Got A Thing, You Got A Thing, Everybody's Got A Thing",Funkadelic,85,80,6
+87,My Baby Loves Lovin',White Plains,91,87,2
+88,I Can't Leave Your Love Alone,Clarence Carter,99,88,3
+89,Lay Down (Candles In The Rain),Melanie with The Edwin Hawkins Singers,-1,89,1
+90,Fire & Rain,R.B. Greaves,-1,90,1
+91,"Cole, Cooke & Redding",Wilson Pickett,92,91,4
+92,A Little Bit Of Soap,Paul Davis,94,92,2
+93,Band Of Gold,Freda Payne,-1,93,1
+94,The Onion Song/California Soul,Marvin Gaye & Tammi Terrell,96,94,2
+95,I Got A Problem,Jesse Anderson,-1,95,1
+96,Thank You Girl,Street People,-1,96,1
+97,Angelica,Oliver,-1,97,2
+98,More Than I Can Stand,Bobby Womack,-1,98,1
+99,It's All In The Game,Four Tops,-1,99,1
+100,Get Down People,Fabulous Counts,-1,100,1

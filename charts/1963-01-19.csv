@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Go Away Little Girl,Steve Lawrence,1,1,11
+2,Telstar,The Tornadoes,2,1,12
+3,Hotel Happiness,Brook Benton,4,3,9
+4,Tell Him,The Exciters,6,4,8
+5,The Night Has A Thousand Eyes,Bobby Vee,7,5,7
+6,Limbo Rock,Chubby Checker,3,2,20
+7,Two Lovers,Mary Wells,9,7,8
+8,My Dad,Paul Petersen,10,8,10
+9,Pepino The Italian Mouse,Lou Monte,5,5,7
+10,Hey Paula,Paul and Paula,30,10,4
+11,Walk Right In,The Rooftop Singers,35,11,3
+12,It's Up To You,Rick Nelson,14,12,6
+13,Up On The Roof,The Drifters,16,13,12
+14,I Saw Linda Yesterday,Dickey Lee,17,14,7
+15,Zip-A-Dee Doo-Dah,Bob B. Soxx And The Blue Jeans,8,8,10
+16,Loop De Loop,Johnny Thunder,19,16,5
+17,Half Heaven - Half Heartache,Gene Pitney,20,17,6
+18,Big Girls Don't Cry,The 4 Seasons,11,1,14
+19,Bobby's Girl,Marcie Blane,12,3,14
+20,Everybody Loves A Lover,The Shirelles,21,20,8
+21,Return To Sender,Elvis Presley With The Jordanaires,13,2,14
+22,You Are My Sunshine,Ray Charles,15,7,10
+23,I'm Gonna' Be Warm This Winter,Connie Francis,37,23,6
+24,Shutters And Boards,Jerry Wallace,24,24,10
+25,Remember Then,The Earls,32,25,6
+26,Don't Make Me Over,Dionne Warwick,28,26,7
+27,My Coloring Book,Kitty Kallen,38,27,5
+28,You've Really Got A Hold On Me,The Miracles,33,28,7
+29,Wiggle Wobble,Les Cooper and the Soul Rockers,22,22,14
+30,The Lonely Bull (El Solo Torro),Herb Alpert & The Tijuana Brass,18,6,13
+31,Release Me,"Esther Phillips ""Little Esther""",23,8,13
+32,My Coloring Book,Sandy Stewart,42,32,4
+33,Trouble Is My Middle Name,Bobby Vinton,34,33,7
+34,See See Rider,LaVern Baker,36,34,8
+35,Chains,The Cookies,26,17,11
+36,The Cinnamon Cinder (It's A Very Nice Dance),The Pastel Six,49,36,4
+37,Love Came To Me,Dion,27,10,11
+38,Let's Kiss And Make Up,Bobby Vinton,40,38,8
+39,Dear Lonely Hearts,Nat King Cole,25,13,11
+40,He's Sure The Boy I Love,The Crystals,57,40,4
+41,From A Jack To A King,Ned Miller,51,41,4
+42,Little Town Flirt,Del Shannon,53,42,5
+43,Some Kinda Fun,Chris Montez,43,43,7
+44,The Love Of A Boy,Timi Yuro,46,44,8
+45,Keep Your Hands Off My Baby,Little Eva,29,12,12
+46,Lovesick Blues,Frank Ifield,52,46,5
+47,Don't Hang Up,The Orlons,31,4,15
+48,Let's Go (pony),The Routers,48,19,12
+49,Fly Me To The Moon - Bossa Nova,Joe Harnell And His Orchestra,66,49,4
+50,Shake Me I Rattle (Squeeze Me I Cry),Marion Worth,63,50,4
+51,Proud,Johnny Crawford,71,51,3
+52,Wild Weekend,The Rebels,67,52,4
+53,The Ballad Of Jed Clampett,Flatt & Scruggs,54,53,7
+54,Shake Sherry,The Contours,61,54,5
+55,Java,Floyd Cramer,62,55,4
+56,Strange I Know,The Marvelettes,59,56,8
+57,Ruby Ann,Marty Robbins,44,18,10
+58,(Dance With The) Guitar Man,Duane Eddy and the Rebelettes,45,12,16
+59,Ten Little Indians,The Beach Boys,56,49,8
+60,Cast Your Fate To The Wind,Vince Guaraldi Trio,70,60,7
+61,I'm A Woman,Peggy Lee,68,61,3
+62,Mama Didn't Lie,Jan Bradley,75,62,3
+63,My Wife Can't Cook,Lonnie Russ,64,57,7
+64,That's Life (That's Tough),Gabriel And The Angels,58,51,11
+65,Rhythm Of The Rain,The Cascades,80,65,2
+66,Love (Makes the World Go 'round),Paul Anka,-1,66,1
+67,Coney Island Baby,The Excellents,55,51,9
+68,Would It Make Any Difference To You,Etta James,79,68,2
+69,Ruby Baby,Dion,-1,69,1
+70,Chicken Feed,Bent Fabric and His Piano,77,70,2
+71,Molly,Bobby Goldsboro,73,71,5
+72,Call On Me,Bobby Bland,74,72,3
+73,The Gypsy Cried,Lou Christie,83,73,3
+74,Every Day I Have To Cry,Steve Alaimo,84,74,3
+75,"Puddin N' Tain (Ask Me Again, I'll Tell You The Same)",The Alley Cats,88,75,2
+76,All About My Girl,Jimmy McGriff,72,72,3
+77,You're Gonna Need Me,Barbara Lynn,65,65,6
+78,Settle Down (Goin' Down That Highway),"Peter, Paul & Mary",-1,78,1
+79,What To Do With Laurie,Mike Clifford,87,79,3
+80,Darkest Street In Town,Jimmy Clanton,81,80,3
+81,That's The Way Love Is,Bobby Bland,-1,81,1
+82,Blame It On The Bossa Nova,Eydie Gorme,-1,82,1
+83,Willie Can,Sue Thompson,89,83,2
+84,Little Tin Soldier,The Toy Dolls,85,84,4
+85,The Popeye Waddle,Don Covay,98,85,3
+86,I Wanna Be Around,Tony Bennett,90,86,2
+87,You're The Reason I'm Living,Bobby Darin,-1,87,1
+88,Jellybread,Booker T. & The MG's,82,82,4
+89,How Much Is That Doggie In The Window,Baby Jane & The Rockabyes,92,89,3
+90,Hitch Hike,Marvin Gaye,96,90,2
+91,Look At Me,Dobie Gray,91,91,2
+92,I Will Live My Life For You,Tony Bennett,94,92,3
+93,Let Me Go The Right Way,The Supremes,99,91,3
+94,Al Di La,Connie Francis,-1,90,2
+95,Red Pepper I,Roosevelt Fountain And Pens Of Rhythm,78,78,3
+96,Who Stole The Keeshka?,The Matys Bros.,-1,96,1
+97,"From The Bottom Of My Heart (Dammi, Dammi, Dammi)",Dean Martin,-1,97,2
+98,Walk Right In,The Moments,100,98,2
+99,Oo-La-La-Limbo,Danny & The Juniors,-1,99,1
+100,The Lone Teen Ranger,Jerry Landis,-1,100,1

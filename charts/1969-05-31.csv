@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Get Back,The Beatles With Billy Preston,1,1,4
+2,Love (Can Make You Happy),Mercy,3,2,8
+3,Aquarius/Let The Sunshine In,The 5th Dimension,2,1,13
+4,Oh Happy Day,The Edwin Hawkins' Singers Featuring Dorothy Combs Morrison,5,4,6
+5,Hair,The Cowsills,4,2,12
+6,These Eyes,The Guess Who,10,6,9
+7,Atlantis,Donovan,7,7,9
+8,Gitarzan,Ray Stevens,9,8,9
+9,In The Ghetto,Elvis Presley,17,9,5
+10,Grazing In The Grass,The Friends Of Distinction,12,10,9
+11,Love Theme From Romeo & Juliet,Henry Mancini And His Orchestra,18,11,4
+12,The Boxer,Simon & Garfunkel,8,7,8
+13,Goodbye,Mary Hopkin,14,13,7
+14,Bad Moon Rising,Creedence Clearwater Revival,20,14,5
+15,Too Busy Thinking About My Baby,Marvin Gaye,16,15,6
+16,It's Your Thing,The Isley Brothers,6,2,12
+17,Hawaii Five-O,The Ventures,11,4,13
+18,Time Is Tight,Booker T. & The MG's,15,6,12
+19,More Today Than Yesterday,Spiral Starecase,21,19,9
+20,Pinball Wizard,The Who,19,19,9
+21,Morning Girl,The Neon Philharmonic,30,21,9
+22,Happy Heart,Andy Williams,23,22,8
+23,One,Three Dog Night,41,23,5
+24,Cissy Strut,The Meters,24,24,8
+25,The Chokin' Kind,Joe Simon,13,13,11
+26,Where's The Playground Susie,Glen Campbell,33,26,5
+27,Day Is Done,"Peter, Paul & Mary",29,27,6
+28,I Can't See Myself Leaving You,Aretha Franklin,28,28,7
+29,Heather Honey,Tommy Roe,32,29,6
+30,Everyday With You Girl,Classics IV Featuring Dennis Yost,45,30,5
+31,The River Is Wide,The Grass Roots,36,31,8
+32,Black Pearl,"Sonny Charles And The Checkmates, Ltd.",44,32,4
+33,Stand!,Sly & The Family Stone,25,22,8
+34,Nothing But A Heartache,The Flirtations,34,34,13
+35,Don't Let The Joneses Get You Down,The Temptations,43,35,2
+36,I've Been Hurt,Bill Deal & The Rhondels,48,36,7
+37,The Windmills Of Your Mind,Dusty Springfield,40,37,5
+38,Seattle,Perry Como,42,38,8
+39,Medicine Man (Part I),Buchanan Brothers,50,39,5
+40,Testify (I Wonna),Johnnie Taylor,55,40,4
+41,Israelites,Desmond Dekker & The Aces,74,41,3
+42,Don't Let Me Down,The Beatles With Billy Preston,35,35,4
+43,See,The Rascals,61,43,2
+44,Special Delivery,1910 Fruitgum Co.,49,44,4
+45,Love Me Tonight,Tom Jones,79,45,2
+46,Proud Mary,Solomon Burke,46,46,5
+47,The April Fools,Dionne Warwick,56,47,3
+48,Let Me,Paul Revere & The Raiders Featuring Mark Lindsay,53,48,3
+49,Welcome Me Love,The Brooklyn Bridge Featuring Johnny Maestro,62,49,4
+50,I'm A Drifter,Bobby Goldsboro,54,50,7
+51,It's Never Too Late,Steppenwolf,59,51,4
+52,I Could Never Lie To You,The New Colony Six,57,52,5
+53,What Is A Man,Four Tops,63,53,4
+54,"Friend, Lover, Woman, Wife",O.C. Smith,60,54,4
+55,With Pen In Hand,Vikki Carr,64,55,5
+56,Sorry Suzanne,The Hollies,58,56,7
+57,Good Morning Starshine,Oliver,83,57,2
+58,Buying A Book,Joe Tex,47,47,8
+59,What Does It Take (To Win Your Love),Jr. Walker & The All Stars,78,59,3
+60,Tomorrow Tomorrow,Bee Gees,-1,60,1
+61,No Matter What Sign You Are,Diana Ross & The Supremes,-1,61,1
+62,Pretty World,Sergio Mendes & Brasil '66,66,62,5
+63,I Turned You On,The Isley Brothers,-1,63,1
+64,Born To Be Wild,Wilson Pickett,65,64,4
+65,Rhythm Of The Rain,Gary Lewis And The Playboys,71,65,9
+66,I Can Sing A Rainbow/Love Is Blue,The Dells,82,66,2
+67,We Got More Soul,Dyke And The Blazers,73,67,3
+68,I've Been Loving You Too Long,Ike & Tina Turner,69,68,6
+69,In-A-Gadda-Da-Vida,Iron Butterfly,72,30,15
+70,My Cherie Amour,Stevie Wonder,-1,70,1
+71,Without Her,Herb Alpert,-1,71,1
+72,Moody Woman,Jerry Butler,-1,72,1
+73,So I Can Love You,The Emotions,75,73,2
+74,Color Him Father,The Winstons,80,74,2
+75,Love Man,Otis Redding,77,75,2
+76,"Baby, I Love You",Andy Kim,95,76,2
+77,Truck Stop,Jerry Smith and his Pianos,85,77,4
+78,Spinning Wheel,"Blood, Sweat & Tears",-1,78,1
+79,The Minotaur,Dick Hyman & His Electric Eclectics,-1,79,1
+80,I Can't Quit Her,The Arbors,-1,80,1
+81,The Popcorn,James Brown,-1,81,1
+82,Sincerely,Paul Anka,-1,82,1
+83,Why I Sing The Blues,B.B. King,84,83,3
+84,You Don't Need Me For Anything Anymore,Brenda Lee,86,84,3
+85,But It's Alright,J.J. Jackson,96,22,15
+86,Never Gonna Let Him Know,Debbie Taylor,88,86,6
+87,Good Morning Starshine,Strawberry Alarm Clock,87,87,2
+88,I Want To Take You Higher,Sly & The Family Stone,89,88,2
+89,I Threw It All Away,Bob Dylan,92,89,3
+90,Hushabye,Jay & The Americans,-1,90,1
+91,Memphis Underground,Herbie Mann,100,91,2
+92,Brown Arms In Houston,Orpheus,-1,92,1
+93,Let's Dance,Ola & The Janglers,93,93,2
+94,I Need You Now,Ronnie Dove,-1,94,1
+95,Running Bear,Sonny James,-1,95,1
+96,Hurt So Bad,The Lettermen,-1,96,1
+97,Too Experienced,Eddie Lovette,97,97,2
+98,Here We Go Again,Nancy Sinatra,98,98,2
+99,Sausalito,Al Martino,99,99,3
+100,Son Of A Travelin' Man,Ed Ames,-1,100,1

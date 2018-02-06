@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Night Fever,Bee Gees,1,1,11
+2,Stayin' Alive,Bee Gees,2,1,19
+3,Lay Down Sally,Eric Clapton,3,3,15
+4,Can't Smile Without You,Barry Manilow,4,4,11
+5,If I Can't Have You,Yvonne Elliman,5,5,12
+6,Dust In The Wind,Kansas,7,6,12
+7,The Closer I Get To You,Roberta Flack With Donny Hathaway,13,7,9
+8,Jack And Jill,Raydio,10,8,14
+9,We'll Never Have To Say Goodbye Again,England Dan & John Ford Coley,12,9,8
+10,Our Love,Natalie Cole,11,10,14
+11,Emotion,Samantha Sang,6,3,22
+12,With A Little Luck,Wings,17,12,4
+13,Running On Empty,Jackson Browne,15,13,10
+14,Ebony Eyes,Bob Welch,14,14,12
+15,Goodbye Girl,David Gates,16,15,18
+16,Count On Me,Jefferson Starship,19,16,6
+17,(Love Is) Thicker Than Water,Andy Gibb,8,1,24
+18,Flash Light,Parliament,20,18,10
+19,You're The One That I Want,John Travolta & Olivia Newton-John,30,19,3
+20,Sweet Talkin' Woman,Electric Light Orchestra,22,20,9
+21,Feels So Good,Chuck Mangione,25,21,10
+22,Imaginary Lover,Atlanta Rhythm Section,27,22,7
+23,Before My Heart Finds Out,Gene Cotton,23,23,11
+24,Lady Love,Lou Rawls,24,24,13
+25,Thank You For Being A Friend,Andrew Gold,26,25,10
+26,Disco Inferno,The Trammps,29,26,18
+27,Thunder Island,Jay Ferguson,9,9,18
+28,Always And Forever,Heatwave,18,18,15
+29,I'm Gonna Take Care Of Everything,Rubicon,32,29,8
+30,Fooling Yourself (The Angry Young Man),Styx,34,30,9
+31,Two Doors Down,Dolly Parton,36,31,5
+32,This Time I'm In It For Love,Player,37,32,6
+33,"Theme Song From ""Which Way Is Up""",Stargard,21,21,12
+34,Fantasy,"Earth, Wind & Fire",38,34,7
+35,I Go Crazy,Paul Davis,28,7,34
+36,Baby Hold On,Eddie Money,40,36,8
+37,Movin' Out (Anthony's Song),Billy Joel,41,37,5
+38,Love Is Like Oxygen,Sweet,42,38,9
+39,More Than A Woman,Tavares,43,39,16
+40,Rocket Ride,KISS,44,40,8
+41,"Too Much, Too Little, Too Late",Johnny Mathis/Deniece Williams,51,41,3
+42,Do You Believe In Magic,Shaun Cassidy,52,42,4
+43,On Broadway,George Benson,46,43,6
+44,"Sweet, Sweet Smile",Carpenters,45,44,11
+45,"Let Me Party With You (Part 1) (Party, Party, Party)",Bunny Sigler,47,45,8
+46,Let's All Chant,The Michael Zager Band,50,46,7
+47,Werewolves Of London,Warren Zevon,53,47,4
+48,It's A Heartache,Bonnie Tyler,56,48,4
+49,How Deep Is Your Love,Bee Gees,48,1,30
+50,Falling,LeBlanc & Carr,31,13,27
+51,The Circle Is Small (I Can See It In Your Eyes),Gordon Lightfoot,33,33,10
+52,Two Out Of Three Ain't Bad,Meat Loaf,63,52,5
+53,Rumour Has It,Donna Summer,55,53,7
+54,That's Your Secret,Sea Level,58,54,8
+55,Ready For The Times To Get Better,Crystal Gayle,62,55,8
+56,Never Get Enough Of Your Love,L.T.D.,57,56,6
+57,Every Kinda People,Robert Palmer,67,57,4
+58,(I Will Be Your) Shadow In The Street,Allan Clarke,68,58,4
+59,"Music, Harmony And Rhythm",Brooklyn Dreams,61,59,4
+60,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,60,6,25
+61,"Yank Me, Crank Me",Ted Nugent,71,61,3
+62,Dance With Me,Peter Brown With Betty Wright,73,62,7
+63,Deacon Blues,Steely Dan,74,63,3
+64,Sometimes When We Touch,Dan Hill,64,3,21
+65,Ego,Elton John,-1,65,1
+66,Ain't Gonna Eat Out My Heart Anymore,Angel,77,66,3
+67,Make You Feel Love Again,Wet Willie,78,67,2
+68,Heartless,Heart,79,68,2
+69,Shadow Dancing,Andy Gibb,-1,69,1
+70,Bombs Away,Bob Weir ,72,70,5
+71,Because The Night,Patti Smith Group,82,71,2
+72,Dancin' Fever,Claudja Barry,75,72,8
+73,Boogie Shoes,KC And The Sunshine Band,35,35,10
+74,Sitting In Limbo,Don Brown,76,74,5
+75,Just The Way You Are,Billy Joel,39,3,23
+76,Hot Legs,Rod Stewart,54,28,10
+77,Wheel In The Sky,Journey,89,77,2
+78,House Of The Rising Sun,Santa Esmeralda,86,78,3
+79,Your Love Is So Good For Me,Diana Ross,49,49,7
+80,I Can't Stand The Rain,Eruption,87,80,6
+81,Don't Cost You Nothing,Ashford & Simpson,83,81,6
+82,Stay,Rufus/Chaka Khan,95,82,2
+83,Mama Let Him Play,Doucette,88,83,2
+84,Dance Across The Floor,"Jimmy ""Bo"" Horne",84,84,3
+85,You Got That Right,Lynyrd Skynyrd,-1,85,1
+86,Since You Been Gone,Head East,-1,86,1
+87,You're The Love,Seals & Crofts,-1,87,1
+88,It's A Heartache,Juice Newton,90,88,2
+89,You Belong To Me,Carly Simon,-1,89,1
+90,It's You That I Need,Enchantment,65,33,11
+91,We Will Rock You/We Are The Champions,Queen,91,4,26
+92,Baby Come Back,Player,85,1,29
+93,Happy Anniversary,Little River Band,93,16,18
+94,Mammas Don't Let Your Babies Grow Up To Be Cowboys,Waylon & Willie,94,42,10
+95,Africanism/Gimme Some Lovin',Kongas,98,95,2
+96,Do You Wanna Dance,Ramones,-1,96,1
+97,Put Your Head On My Shoulder,Leif Garrett,99,58,7
+98,It Amazes Me,John Denver,59,59,7
+99,(What A) Wonderful World,Art Garfunkel With James Taylor & Paul Simon,66,17,13
+100,I Love My Music,Wild Cherry ,69,69,8

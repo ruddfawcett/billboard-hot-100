@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Magic,Olivia Newton-John,1,1,13
+2,Sailing,Christopher Cross,5,2,10
+3,Take Your Time (Do It Right) Part 1,The S.O.S. Band,4,3,12
+4,Emotional Rescue,The Rolling Stones,7,4,7
+5,Upside Down,Diana Ross,10,5,6
+6,It's Still Rock And Roll To Me,Billy Joel,2,1,13
+7,Shining Star,The Manhattans,6,5,17
+8,Little Jeannie,Elton John,3,3,16
+9,Let My Love Open The Door,Pete Townshend,19,9,10
+10,More Love,Kim Carnes,12,10,12
+11,Cupid/I've Loved You For A Long Time,The Spinners,8,4,14
+12,Coming Up (Live At Glasgow),Paul McCartney And Wings,9,1,17
+13,Fame,Irene Cara,17,13,10
+14,Misunderstanding,Genesis,15,14,13
+15,Give Me The Night,George Benson,33,15,7
+16,Take A Little Rhythm,Ali Thomson,23,16,10
+17,Into The Night,Benny Mardones,20,17,10
+18,Empire Strikes Back (Medley),Meco,18,18,10
+19,JoJo,Boz Scaggs,21,19,10
+20,Why Not Me,Fred Knoblock,25,20,8
+21,All Out Of Love,Air Supply,28,21,10
+22,Stand By Me,Mickey Gilley,22,22,14
+23,Old-Fashion Love,Commodores,24,23,9
+24,Boulevard,Jackson Browne,27,24,7
+25,Make A Little Magic,The Dirt Band,26,25,9
+26,You're The Only Woman (You & I),Ambrosia,29,26,6
+27,Drivin' My Life Away,Eddie Rabbitt,30,27,9
+28,Lookin' For Love,Johnny Lee,34,28,6
+29,Late In The Evening,Paul Simon,46,29,2
+30,Tulsa Time/Cocaine,Eric Clapton And His Band,32,30,9
+31,Tired Of Toein' The Line,Rocky Burnette,13,8,15
+32,Hot Rod Hearts,Robbie Dupree,39,32,5
+33,One In A Million You,Larry Graham,37,33,8
+34,All Over The World,Electric Light Orchestra,43,34,3
+35,Someone That I Used To Love,Natalie Cole,40,35,9
+36,In America,The Charlie Daniels Band,11,11,12
+37,You'll Accomp'ny Me,Bob Seger,49,37,4
+38,Love The World Away,Kenny Rogers,14,14,9
+39,Don't Ask Me Why,Billy Joel,57,39,3
+40,One Fine Day,Carole King,16,12,14
+41,I Can't Let Go,Linda Ronstadt,31,31,8
+42,The Rose,Bette Midler,35,3,22
+43,Steal Away,Robbie Dupree,36,6,19
+44,I'm Alright,Kenny Loggins,48,44,6
+45,Hey There Lonely Girl,Robert John,52,45,5
+46,Gimme Some Lovin',Blues Brothers,38,18,12
+47,Jesse,Carly Simon,61,47,3
+48,How Does It Feel To Be Back,Daryl Hall John Oates,56,48,5
+49,You're Supposed To Keep Your Love For Me,Jermaine Jackson,55,49,6
+50,Under The Gun,Poco,58,50,5
+51,You Better Run,Pat Benatar,53,51,4
+52,He's So Shy,The Pointer Sisters,63,52,4
+53,Free Me,Roger Daltrey,54,53,7
+54,The Royal Mile (Sweet Darlin'),Gerry Rafferty,60,54,5
+55,No Night So Long,Dionne Warwick,68,55,4
+56,All Night Long,Joe Walsh,41,19,14
+57,Let Me Love You Tonight,Pure Prairie League,42,10,15
+58,I'm Alive,Electric Light Orchestra,44,16,13
+59,First Time Love,Livingston Taylor,66,59,4
+60,First...Be A Woman,Lenore O'malley,71,60,4
+61,Don't Misunderstand Me,Rossington Collins Band,67,61,4
+62,"Honey, Honey",David Hudson,65,62,8
+63,Xanadu,Olivia Newton-John/Electric Light Orchestra,79,63,2
+64,Fool For Your Loving,Whitesnake,74,64,3
+65,(Call Me) When The Spirit Moves You,Touch,69,65,4
+66,Rock It,"Lipps, Inc.",73,66,3
+67,Another One Bites The Dust,Queen,-1,67,1
+68,Darlin',Yipes!!,78,68,3
+69,How Do I Survive,Amy Holland,80,69,2
+70,Let's Get Serious,Jermaine Jackson,47,9,21
+71,Never Knew Love Like This Before,Stephanie Mills,83,71,2
+72,Half Moon Silver,Hotel,72,72,6
+73,(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?,Elton John,82,73,2
+74,Play The Game,Queen,45,42,8
+75,Love That Got Away,Firefall,50,50,8
+76,Red Light,Linda Clifford,89,76,2
+77,Whatever You Decide,Randy VanWarmer,77,77,3
+78,Funkytown," Lipps, Inc.",59,1,21
+79,Years From Now,Dr. Hook,51,51,7
+80,Over You,Roxy Music,84,80,2
+81,Shiver And Shake,The Silencers,91,81,4
+82,Late At Night,England Dan Seals,-1,82,1
+83,Let Me Be Your Angel,Stacy Lattisaw,87,83,2
+84,The Legend Of Wooley Swamp,The Charlie Daniels Band,-1,84,1
+85,I Hear You Now,Jon & Vangelis,-1,85,1
+86,True Love Ways,Mickey Gilley,-1,86,1
+87,Treasure,The Brothers Johnson,-1,87,1
+88,Who'll Be The Fool Tonight,Larsen-Feiten Band,-1,88,1
+89,Out Here On My Own,Irene Cara,-1,89,1
+90,Games Without Frontiers,Peter Gabriel,-1,90,1
+91,Shandi,KISS,62,47,9
+92,Against The Wind,Bob Seger,64,5,16
+93,Walks Like A Lady,Journey,70,32,13
+94,That Lovin' You Feelin' Again,Roy Orbison & Emmylou Harris,75,55,8
+95,Wango Tango,Ted Nugent,96,86,4
+96,My Mistake,The Kingbees,98,81,8
+97,Beyond,Herb Alpert,76,50,8
+98,One More Time For Love,Billy Preston & Syreeta,85,52,10
+99,Everything Is Alright, Spider,86,86,3
+100,Stranger In My Home Town,Foghat,81,81,3

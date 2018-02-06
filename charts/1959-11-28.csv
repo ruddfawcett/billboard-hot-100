@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Mack The Knife,Bobby Darin,1,1,15
+2,Don't You Know,Della Reese,3,2,11
+3,Mr. Blue,The Fleetwoods,2,1,13
+4,Heartaches By The Number,Guy Mitchell,4,4,9
+5,In The Mood,Ernie Fields & Orch.,8,5,11
+6,So Many Ways,Brook Benton,6,6,7
+7,Put Your Head On My Shoulder,Paul Anka,5,2,14
+8,We Got Love,Bobby Rydell,10,8,8
+9,Be My Guest,Fats Domino,14,9,6
+10,(Seven Little Girls) Sitting In The Back Seat,Paul Evans and the Curls,12,9,12
+11,Deck Of Cards,Wink Martindale,7,7,12
+12,Misty,Johnny Mathis,15,12,9
+13,Oh! Carol,Neil Sedaka,19,13,8
+14,Danny Boy,Conway Twitty,18,11,10
+15,Dance With Me,The Drifters,20,15,8
+16,Lonely Street,Andy Williams,11,5,13
+17,Primrose Lane,Jerry Wallace With The Jewels,9,8,16
+18,The Big Hurt,Miss Toni Fisher,36,18,3
+19,Always,Sammy Turner,24,19,5
+20,Unforgettable,Dinah Washington,21,17,9
+21,Scarlet Ribbons (For Her Hair),The Browns,33,21,5
+22,The Enchanted Sea,The Islanders,17,15,10
+23,Woo-Hoo,Rock-A-Teens,16,16,9
+24,You Were Mine,Fireflies,22,21,13
+25,Uh! Oh! Part 2,The Nutty Squirrels,50,25,4
+26,Teen Beat,Sandy Nelson,13,4,13
+27,El Paso,Marty Robbins,51,27,4
+28,Reveille Rock,Johnny And The Hurricanes,25,25,5
+29,Believe Me,Royal Teens,26,26,6
+30,Come Into My Heart,Lloyd Price and His Orchestra,35,30,6
+31,Love Potion No. 9,The Clovers,27,23,12
+32,Hound Dog Man,Fabian,42,32,3
+33,"(If You Cry) True Love, True Love",The Drifters,34,33,5
+34,You Got What It Takes,Marv Johnson,32,32,5
+35,Midnight Stroll,The Revels,38,35,7
+36,Marina,Rocco Granata and the International Quintet,39,36,4
+37,Battle Hymn Of The Republic,The Mormon Tabernacle Choir,23,13,13
+38,Talk To Me,Frank Sinatra,40,38,7
+39,Just As Much As Ever,Bob Beckham,41,32,16
+40,It's Time To Cry,Paul Anka,74,40,2
+41,This Friendly World,Fabian,61,41,2
+42,If I Give My Heart To You,Kitty Kallen,37,34,9
+43,The Enchanted Sea,The Exotic Sounds of Martin Denny,28,28,6
+44,High School U.S.A.,Tommy Facenda,29,28,7
+45,I've Been Around,Fats Domino,44,33,6
+46,God Bless America,Connie Francis,58,46,3
+47,Joey's Song,Bill Haley And His Comets,48,46,9
+48,First Name Initial,Annette With The Afterbeats,75,48,6
+49,I'm Movin' On,Ray Charles and his Orchestra,55,49,4
+50,I Wanna Be Loved,Ricky Nelson,-1,50,1
+51,Living Doll,Cliff Richard and The Drifters,30,30,10
+52,Wont'cha Come Home,Lloyd Price and His Orchestra,54,43,4
+53,Why,Frankie Avalon,95,53,2
+54,Pretty Blue Eyes,Steve Lawrence,80,54,2
+55,Torquay,Fireballs,47,39,10
+56,Among My Souvenirs,Connie Francis,76,56,2
+57,Smooth Operator,Sarah Vaughan,62,57,5
+58,The Clouds,The Spacemen,53,41,7
+59,Running Bear,Johnny Preston,86,59,7
+60,Way Down Yonder In New Orleans,Freddie Cannon,72,60,2
+61,Say Man,Bo Diddley,46,20,11
+62,The Best Of Everything,Johnny Mathis,66,62,3
+63,Tiny Tim,LaVern Baker,73,63,5
+64,Sandy,Larry Hall,89,64,2
+65,Just Ask Your Heart,Frankie Avalon,31,7,14
+66,Honestly And Truly,Tommy Edwards,65,65,5
+67,(New In) The Ways Of Love,Tommy Edwards,70,67,3
+68,Morgen,Ivo Robic and The Song-Masters,63,13,16
+69,I Dig Girls,Bobby Rydell,56,46,6
+70,Poison Ivy,The Coasters,43,7,15
+71,Pretend,Carl Mann,57,57,6
+72,I'll Walk The Line,Don Costa And His Orchestra And Chorus,83,72,3
+73,Goodnight My Love (Pleasant Dreams),Ray Peterson,78,73,3
+74,One More Chance,Rod Bernard,79,74,4
+75,Poco-Loco,Gene & Eunice,49,48,13
+76,Tear Drop,Santo & Johnny,-1,76,1
+77,The Hunch,Paul Gayten,68,68,6
+78,The Hunch,Bobby Peterson Quintet,71,71,6
+79,Tennessee Waltz,Bobby Comstock,52,52,6
+80,('til) I Kissed You,The Everly Brothers,45,4,16
+81,Marina,Willy Alberti,-1,81,1
+82,Gilee,Sonny Spencer,84,82,3
+83,Talk That Talk,Jackie Wilson,87,83,2
+84,"There, I've Said It Again",Sam Cooke,81,81,4
+85,Starry Eyed,Gary Stites,91,77,5
+86,Mighty Good,Ricky Nelson,-1,86,1
+87,Marina,Jacky Noguez And His Orchestra,94,87,3
+88,Just To Be With You,The Passions,97,84,8
+89,Happy Anniversary,Jane Morgan,96,83,4
+90,Symphony,Sammy Turner,-1,90,1
+91,Fancy Nancy,Skip And Flip,85,71,5
+92,Hey Little Girl,Dee Clark,67,20,15
+93,We Told You Not To Marry,Titus Turner,100,93,2
+94,Mary Lou,Ronnie Hawkins and The Hawks,69,26,16
+95,Shadows,5 Satins,-1,95,1
+96,Beyond The Sunset,Pat Boone,-1,96,1
+97,The Angels Listened In,The Crests,77,22,16
+98,Smokie - Part 2,Bill Black's Combo,-1,98,1
+99,Teach Me Tiger,April Stevens,-1,99,1
+100,Happy Anniversary,The Four Lads,82,77,4

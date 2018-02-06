@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Keep On Loving You,REO Speedwagon,2,1,17
+2,Woman,John Lennon,3,2,10
+3,The Best Of Times,Styx,4,3,9
+4,9 To 5,Dolly Parton,1,1,17
+5,Crying,Don McLean,6,5,9
+6,Rapture,Blondie,7,6,8
+7,Hello Again,Neil Diamond,9,7,8
+8,The Winner Takes It All,ABBA,8,8,18
+9,I Love A Rainy Night,Eddie Rabbitt,5,1,20
+10,What Kind Of Fool,Barbra Streisand & Barry Gibb,12,10,8
+11,I Ain't Gonna Stand For It,Stevie Wonder,11,11,15
+12,Kiss On My List,Daryl Hall John Oates,14,12,9
+13,Celebration,Kool & The Gang,10,1,22
+14,While You See A Chance,Steve Winwood,21,14,7
+15,Don't Stand So Close To Me,The Police,22,15,7
+16,Games People Play,The Alan Parsons Project,16,16,16
+17,A Little In Love,Cliff Richard,17,17,15
+18,Treat Me Right,Pat Benatar,18,18,10
+19,Hearts On Fire,Randy Meisner,19,19,9
+20,Fade Away,Bruce Springsteen,20,20,7
+21,Morning Train (Nine To Five),Sheena Easton,24,21,6
+22,I Can't Stand It,Eric Clapton And His Band,29,22,4
+23,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",27,23,6
+24,Precious To Me,Phil Seymour,26,24,9
+25,Somebody's Knockin',Terri Gibbs,28,25,10
+26,Angel Of The Morning,Juice Newton,31,26,5
+27,The Tide Is High,Blondie,15,1,19
+28,Guitar Man,Elvis Presley,30,28,15
+29,Her Town Too,James Taylor & J.D. Souther,38,29,2
+30,Giving It Up For Your Love,Delbert McClinton,13,8,16
+31,Being With You,Smokey Robinson,41,31,6
+32,Just Between You And Me,April Wine,36,32,7
+33,Smoky Mountain Rain,Ronnie Milsap,25,24,17
+34,Ain't Even Done With The Night,John Cougar,40,34,8
+35,Don't Stop The Music,Yarbrough & Peoples,39,35,7
+36,Living In A Fantasy,Leo Sayer,23,23,9
+37,Same Old Lang Syne,Dan Fogelberg,32,9,15
+38,Passion,Rod Stewart,33,5,18
+39,Together,Tierra,34,18,20
+40,Turn Me Loose,Loverboy,44,40,8
+41,Ah! Leah!,Donnie Iris,35,29,15
+42,It's A Love Thing,The Whispers,49,42,6
+43,Who Do You Think You're Foolin',Donna Summer,53,43,5
+44,How 'bout Us,Champaign,48,44,6
+45,I Love You,Climax Blues Band,54,45,5
+46,The Party's Over (Hopelessly In Love),Journey,55,46,4
+47,(Ghost) Riders In The Sky,Outlaws,42,31,13
+48,Time Out Of Mind,Steely Dan,70,48,2
+49,(Just Like) Starting Over,John Lennon,43,1,21
+50,Sweetheart,Franke & The Knockouts,64,50,3
+51,Games,Phoebe Snow,61,51,5
+52,Yesterday Once More/Nothing Remains The Same,The Spinners,52,52,6
+53,Wasn't That A Party,The Rovers,59,53,5
+54,Mister Sandman,Emmylou Harris,63,54,4
+55,Ch Ch Cherie,The Johnny Average Band Featuring Nikki Wills,58,55,5
+56,Hold On,Badfinger,66,56,4
+57,Hold On Loosely,38 Special,65,57,4
+58,Me (Without You),Andy Gibb,72,58,2
+59,It's My Job,Jimmy Buffett,60,59,5
+60,Too Much Time On My Hands,Styx,-1,60,1
+61,Running Scared,The Fools,71,61,3
+62,Sukiyaki,A Taste Of Honey,73,62,3
+63,You Better You Bet,The Who,-1,63,1
+64,Walking On Thin Ice,Yoko Ono,74,64,3
+65,Take It On The Run,REO Speedwagon,-1,65,1
+66,Lovers After All,Melissa Manchester & Peabo Bryson,67,66,4
+67,Bon Bon Vie (Gimme The Good Life),T.S. Monk,68,67,5
+68,Proud,The Joe Chemay Band,69,68,6
+69,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,76,69,3
+70,Lonely Together,Barry Manilow,79,70,2
+71,Right Away,Hawks,81,71,2
+72,Limelight,Rush,83,72,2
+73,I Have The Skill,Sherbs,84,73,3
+74,Staying With It,Firefall,37,37,9
+75,Let Me Go,The Rings,85,75,3
+76,96 Tears,Garland Jeffreys,86,76,2
+77,Living Inside Myself,Gino Vannelli,-1,77,1
+78,I Loved 'em Every One,T.G. Sheppard,87,78,2
+79,I Missed Again,Phil Collins,-1,79,1
+80,Memories,Tierra,90,80,2
+81,Somebody Special,Rod Stewart,-1,81,1
+82,Too Tight,ConFunkShun,47,40,9
+83,Hey Nineteen,Steely Dan,56,10,17
+84,Guilty,Barbra Streisand & Barry Gibb ,50,3,21
+85,8th Wonder,Sugarhill Gang,88,85,7
+86,Burn Rubber (Why You Wanna Hurt Me),The Gap Band,89,86,4
+87,Back In Black,AC/DC,51,37,14
+88,Every Woman In The World,Air Supply,45,5,22
+89,All American Girls,Sister Sledge,-1,89,1
+90,Where's Your Angel?,Lani Hall,-1,90,1
+91,The Rambler,Molly Hatchet,91,91,3
+92,Heartbreak Hotel,The Jacksons,46,22,16
+93,Miss Sun,Boz Scaggs,57,14,17
+94,And Love Goes On,"Earth, Wind & Fire",62,59,7
+95,Lipstick,Suzi Quatro,75,51,9
+96,Seven Bridges Road,Eagles,80,21,14
+97,Lady,Kenny Rogers,97,1,25
+98,Killin' Time,Fred Knoblock & Susan Anton,78,28,18
+99,Flash's Theme Aka Flash,Queen,82,42,10
+100,Fantastic Voyage,Lakeside,92,55,8

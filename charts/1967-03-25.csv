@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Happy Together,The Turtles,2,1,7
+2,Dedicated To The One I Love,The Mamas & The Papas,6,2,5
+3,Penny Lane,The Beatles,1,1,5
+4,There's A Kind Of Hush,Herman's Hermits,8,4,7
+5,Baby I Need Your Lovin',Johnny Rivers,3,3,8
+6,Sock It To Me-Baby!,Mitch Ryder And The Detroit Wheels,7,6,8
+7,"For What It's Worth (Stop, Hey What's That Sound)",The Buffalo Springfield,12,7,9
+8,My Cup Runneth Over,Ed Ames,9,8,10
+9,Love Is Here And Now You're Gone,The Supremes,4,1,9
+10,Ruby Tuesday,The Rolling Stones,5,1,10
+11,Strawberry Fields Forever,The Beatles,11,11,5
+12,Then You Can Tell Me Goodbye,The Casinos,10,6,11
+13,I Think We're Alone Now,Tommy James And The Shondells,18,13,7
+14,The 59th Street Bridge Song (Feelin' Groovy),Harpers Bizarre,26,14,6
+15,The Return Of The Red Baron,The Royal Guardsmen,27,15,5
+16,California Nights,Lesley Gore,16,16,8
+17,I've Been Lonely Too Long,The Young Rascals,17,17,9
+18,Bernadette,Four Tops,23,18,3
+19,This Is My Song,Petula Clark,28,19,4
+20,I Never Loved A Man (The Way I Love You),Aretha Franklin,25,20,4
+21,Darling Be Home Soon,The Lovin' Spoonful,15,15,7
+22,Ups And Downs,Paul Revere & The Raiders,22,22,6
+23,Niki Hoeky,P.J. Proby,24,23,9
+24,Jimmy Mack,Martha & The Vandellas,29,24,5
+25,Let's Fall In Love,Peaches & Herb,21,21,11
+26,The Hunter Gets Captured By The Game,The Marvelettes,13,13,10
+27,The Love I Saw In You Was Just A Mirage,Smokey Robinson & The Miracles,30,27,6
+28,Western Union,The Five Americans,35,28,4
+29,Somethin' Stupid,Nancy Sinatra & Frank Sinatra,50,29,2
+30,Beggin',"The 4 Seasons Featuring the ""Sound of Frankie Valli""",37,30,4
+31,Dry Your Eyes,Brenda & The Tabulations,41,31,5
+32,"A Little Bit Me, A Little Bit You",The Monkees,-1,32,1
+33,Gimme Some Lovin',The Spencer Davis Group,20,7,13
+34,Kind Of A Drag,The Buckinghams,14,1,13
+35,Pucker Up Buttercup,Jr. Walker & The All Stars,31,31,7
+36,"Sit Down, I Think I Love You",The Mojo Men,36,36,8
+37,With This Ring,The Platters,51,37,5
+38,No Milk Today,Herman's Hermits,40,38,6
+39,Lady,Jack Jones,44,39,10
+40,Epistle To Dippy,Donovan,19,19,7
+41,It Takes Two,Marvin Gaye & Kim Weston,32,14,12
+42,The Beat Goes On,Sonny & Cher,34,6,11
+43,Travlin' Man,Stevie Wonder,53,43,4
+44,Morningtown Ride,The Seekers,46,44,6
+45,Sweet Soul Music,Arthur Conley,55,45,3
+46,When Something Is Wrong With My Baby,Sam & Dave,52,46,5
+47,Wade In The Water,Herb Alpert & The Tijuana Brass,61,47,3
+48,One More Mountain To Climb,Ronnie Dove,45,45,6
+49,Daddy's Little Girl,Al Martino,42,42,9
+50,The Loser (With A Broken Heart),Gary Lewis And The Playboys,57,50,3
+51,Detroit City,Tom Jones,64,51,3
+52,What A Woman In Love Won't Do,Sandy Posey,65,52,3
+53,Show Me,Joe Tex,63,53,4
+54,Tell Me To My Face,Keith,77,54,2
+55,Kansas City,James Brown And The Famous Flames,59,55,4
+56,Laudy Miss Claudy,The Buckinghams,83,56,3
+57,Tiny Bubbles,Don Ho and the Aliis,66,57,16
+58,At The Zoo,Simon & Garfunkel,89,58,2
+59,Don't You Care,The Buckinghams,85,59,3
+60,Summer Wine,Nancy Sinatra with Lee Hazlewood,71,60,4
+61,Love You So Much,New Colony Six,69,61,6
+62,"Mercy, Mercy, Mercy",Marlena Shaw,70,62,3
+63,Gonna Give Her All The Love I've Got,Jimmy Ruffin,74,63,2
+64,On A Carousel,The Hollies,99,64,2
+65,The Girl I Knew Somewhere,The Monkees,-1,65,1
+66,Sunday For Tea,Peter And Gordon,-1,66,1
+67,Soul Time,Shirley Ellis,72,67,5
+68,Girl Don't Care,Gene Chandler,76,68,5
+69,For He's A Jolly Good Fellow,Bobby Vinton,82,69,2
+70,That Acapulco Gold,The Rainy Daze,78,70,3
+71,I'm A Man,The Spencer Davis Group,-1,71,1
+72,I'll Try Anything,Dusty Springfield,90,72,2
+73,Because Of You,Chris Montez,73,73,4
+74,Girl I Need You,The Artistics,92,74,2
+75,"Oh That's Good, No That's Bad",Sam The Sham and the Pharaohs,96,75,2
+76,Don't Do It,Micky Dolenz,80,76,4
+77,"Can't Get Enough Of You, Baby",? (Question Mark) & The Mysterians,-1,77,1
+78,The Dark End Of The Street,James Carr,79,78,5
+79,Pipe Dream,Blues Magoos,81,79,2
+80,Music To Watch Girls By,Andy Williams,-1,80,1
+81,Walkin' In The Sunshine,Roger Miller,-1,81,1
+82,Love Eyes,Nancy Sinatra,-1,82,1
+83,Danny Boy,Ray Price,-1,83,1
+84,Friday On My Mind,The Easybeats,100,84,2
+85,Cry To Me,Freddie Scott,-1,85,1
+86,Close Your Eyes,Peaches & Herb,-1,86,1
+87,Lonely Again,Eddy Arnold,88,87,2
+88,The Beginning Of Loneliness,Dionne Warwick,94,88,2
+89,Dead End Street Monologue/Dead End Street,Lou Rawls,-1,89,1
+90,Why Not Tonight,Jimmy Hughes,91,90,2
+91,Hold On I'm Coming,Chuck Jackson & Maxine Brown,-1,91,3
+92,Walk Tall,2 Of Clubs,95,92,2
+93,It's A Happening Thing,The Peanut Butter Conspiracy,93,93,3
+94,Hip Hug-Her,Booker T. & The MG's,-1,94,1
+95,Who Do You Love,The Woolies,97,95,3
+96,I Can't Make It Anymore,Spyder Turner,-1,96,1
+97,"Mercy, Mercy, Mercy",Larry Williams & Johnny Watson,-1,97,3
+98,She Took You For A Ride,Aaron Neville,-1,98,1
+99,The Whole World Is A Stage,The Fantastic Four,-1,99,1
+100,Nothing Takes The Place Of You,Toussaint McCall,-1,100,1

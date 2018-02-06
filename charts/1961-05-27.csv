@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Travelin' Man,Ricky Nelson,5,1,6
+2,Daddy's Home,Shep And The Limelites,3,2,10
+3,Running Scared,Roy Orbison,7,3,8
+4,Mama Said,The Shirelles,6,4,7
+5,Mother-In-Law,Ernie K-Doe,1,1,10
+6,Runaway,Del Shannon,2,1,13
+7,Breakin' In A Brand New Broken Heart,Connie Francis,8,7,7
+8,A Hundred Pounds Of Clay,Gene McDaniels,4,3,11
+9,I Feel So Bad,Elvis Presley,17,9,3
+10,Tragedy,The Fleetwoods,16,10,7
+11,Little Devil,Neil Sedaka,15,11,5
+12,Hello Walls,Faron Young,18,12,8
+13,Stand By Me,Ben E. King,28,13,4
+14,Moody River,Pat Boone,31,14,5
+15,Raindrops,Dee Clark,38,15,5
+16,Hello Mary Lou,Ricky Nelson,9,9,5
+17,I've Told Every Little Star,Linda Scott,10,3,12
+18,Portrait Of My Love,Steve Lawrence,13,9,13
+19,Girl Of My Best Friend,Ral Donner,22,19,7
+20,Barbara-Ann,The Regents,35,20,3
+21,That Old Black Magic,Bobby Rydell,25,21,5
+22,You Can Depend On Me,Brenda Lee,11,6,10
+23,Tonight I Fell In Love,The Tokens,19,15,13
+24,Lullaby Of Love,Frank Gari,33,24,8
+25,You Always Hurt The One You Love,Clarence Henry,48,25,3
+26,Blue Moon,The Marcels,12,1,13
+27,Just For Old Time's Sake,The McGuire Sisters,21,20,12
+28,Take Good Care Of Her,Adam Wade,14,7,12
+29,Triangle,Janie Grant,34,29,10
+30,Peanut Butter,The Marathons,36,30,6
+31,Bonanza,Al Caiola And His Orchestra,20,19,9
+32,The Writing On The Wall,Adam Wade,56,32,3
+33,Those Oldies But Goodies (Remind Me Of You),Little Caesar and The Romans,46,33,5
+34,Tossin' And Turnin',Bobby Lewis,44,34,6
+35,I'm A Fool To Care,Joe Barry,45,35,6
+36,What A Surprise,Johnny Maestro The Voice Of The Crests,39,36,6
+37,Exodus,Eddie Harris,41,37,8
+38,Little Egypt (Ying-Yang),The Coasters,57,38,6
+39,But I Do,Clarence Henry,24,4,15
+40,Halfway To Paradise,Tony Orlando,65,40,5
+41,Rama Lama Ding Dong,The Edsels,43,41,5
+42,The Boll Weevil Song,Brook Benton,71,42,3
+43,Every Beat Of My Heart,Pips,63,43,3
+44,The Bilbao Song,Andy Williams,59,44,6
+45,Never On Sunday,Don Costa And His Orchestra And Chorus,52,19,19
+46,(Dance The) Mess Around,Chubby Checker,32,24,6
+47,Flaming Star,Elvis Presley With The Jordanaires,27,14,7
+48,Some Kind Of Wonderful,The Drifters,37,32,11
+49,Glory Of Love,The Roommates,53,49,8
+50,You'd Better Come Home,Russell Byrd,55,50,4
+51,In My Heart,The Timetones,60,51,4
+52,Buzz Buzz A-Diddle-It,Freddy Cannon,54,52,5
+53,Count Every Star,Donnie and The Dreamers,58,53,5
+54,Better Tell Him No,The Starlets,64,54,6
+55,The Wayward Wind,Gogi Grant,62,55,6
+56,One Mint Julep,Ray Charles,26,8,13
+57,Every Beat Of My Heart,Gladys Knight And The Pips,67,57,3
+58,Big Big World,Johnny Burnette,66,58,5
+59,That's The Way With Love,Piero Soffici,61,59,6
+60,Bumble Boogie,B. Bumble & The Stingers,30,21,10
+61,Funny,Maxine Brown,29,25,10
+62,A Love Of My Own,Carla Thomas,68,62,4
+63,On The Rebound,Floyd Cramer,23,4,13
+64,It Keeps Rainin',Fats Domino,73,64,3
+65,Quarter To Three,U.S. Bonds,99,65,2
+66,Three Hearts In A Tangle,Roy Drusky,70,66,8
+67,Dance On Little Girl,Paul Anka,-1,67,1
+68,Tell Me Why,The Belmonts,81,68,2
+69,I Don't Mind,James Brown And The Famous Flames,77,69,3
+70,Anna,Jorgen Ingmann & His Guitar,82,70,2
+71,Yellow Bird,Arthur Lyman Group,-1,71,1
+72,The Touchables In Brooklyn,Dickie Goodman,42,42,6
+73,(I've Got) Spring Fever,Little Willie John,74,73,3
+74,Miss Fine,The New Yorkers,76,74,3
+75,Milord,Teresa Brewer,83,75,2
+76,Son-In-Law,Louise Brown,80,76,4
+77,How Many Tears,Bobby Vee,-1,77,1
+78,Heart And Soul,The Cleftones,98,78,2
+79,Son-In-Law,The Blossoms,84,79,4
+80,My Kind Of Girl,Matt Monro,-1,80,1
+81,Ronnie,Marcy Joe,92,81,2
+82,Nobody Cares (about me),Jeanette (Baby) Washington,97,82,5
+83,Jimmy Martinez,Marty Robbins,-1,83,1
+84,Brother-In-Law (He's A Moocher),Paul Peek,86,84,3
+85,Driving Wheel,Junior Parker,100,85,2
+86,"I Like It Like That, Part 1",Chris Kenner,-1,86,1
+87,Rainin' In My Heart,Slim Harpo,-1,87,1
+88,I Fall To Pieces,Patsy Cline,96,88,2
+89,Who Else But You,Frankie Avalon,-1,89,1
+90,Summertime,The Marcels,-1,90,1
+91,Lonesome Whistle Blues,Freddy King,94,91,2
+92,The Girl's A Devil,The Dukays,95,92,3
+93,Big Boss Man,Jimmy Reed,-1,93,1
+94,Temptation,The Everly Brothers,-1,94,1
+95,Sacred,The Castells,-1,95,1
+96,Tonight (Could Be The Night),The Velvets featuring Virgil Johnson,-1,96,1
+97,Here's My Confession,Wyatt (Earp) McPherson,-1,97,2
+98,Ring Of Fire,Duane Eddy,-1,98,1
+99,Jura (I Swear I Love You),Les Paul And Mary Ford,-1,85,4
+100,A Little Feeling (Called Love),Jack Scott,-1,100,1

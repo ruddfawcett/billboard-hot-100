@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Daydream Believer,The Monkees,1,1,6
+2,I Heard It Through The Grapevine,Gladys Knight And The Pips,2,2,10
+3,Hello Goodbye,The Beatles,3,3,4
+4,I Second That Emotion,Smokey Robinson & The Miracles,4,4,8
+5,"Woman, Woman",The Union Gap Featuring Gary Puckett,12,5,6
+6,"The Rain, The Park & Other Things",The Cowsills,5,2,13
+7,Boogaloo Down Broadway,The Fantastic Johnny C,8,7,12
+8,Incense And Peppermints,Strawberry Alarm Clock,6,1,13
+9,You Better Sit Down Kids,Cher,10,9,9
+10,I Say A Little Prayer,Dionne Warwick,7,4,10
+11,Judy In Disguise (With Glasses),John Fred And The Playboys,27,11,5
+12,In And Out Of Love,Diana Ross & The Supremes,9,9,7
+13,"Bend Me, Shape Me",The American Breed,23,13,4
+14,She's My Girl,The Turtles,16,14,7
+15,Skinny Legs And All,Joe Tex,15,15,9
+16,Honey Chile,Martha Reeves & The Vandellas,17,16,6
+17,Chain Of Fools,Aretha Franklin,29,17,3
+18,Summer Rain,Johnny Rivers,19,18,6
+19,Keep The Ball Rollin',Jay And The Techniques,14,14,10
+20,(The Lights Went Out In) Massachusetts,Bee Gees,11,11,7
+21,To Sir With Love,Lulu,13,1,16
+22,Next Plane To London,The Rose Garden,30,22,10
+23,If I Could Build My Whole World Around You,Marvin Gaye & Tammi Terrell,33,23,4
+24,Neon Rainbow,The Box Tops,24,24,7
+25,I Can See For Miles,The Who,21,9,11
+26,Different Drum,Stone Poneys Featuring Linda Ronstadt,28,26,7
+27,Please Love Me Forever,Bobby Vinton,20,6,13
+28,Wear Your Love Like Heaven,Donovan,36,28,5
+29,And Get Away,The Esquires,34,29,5
+30,By The Time I Get To Phoenix,Glen Campbell,26,26,9
+31,It's Wonderful,The Young Rascals,43,31,3
+32,Since You Showed Me How To Be Happy,Jackie Wilson,35,32,5
+33,Green Tambourine,The Lemon Pipers,68,33,2
+34,Susan,The Buckinghams,48,34,3
+35,Baby You Got It,Brenton Wood,40,35,5
+36,Come See About Me,Jr. Walker & The All Stars,46,36,5
+37,Beautiful People,Bobby Vee And The Strangers,37,37,6
+38,Beautiful People,Kenny O'Dell,38,38,6
+39,Too Much Of Nothing,"Peter, Paul & Mary",41,39,5
+40,Lazy Day,Spanky And Our Gang,18,14,11
+41,The Other Man's Grass Is Always Greener,Petula Clark,52,41,4
+42,Peace Of Mind,Paul Revere & The Raiders Featuring Mark Lindsay,42,42,6
+43,"Beg, Borrow And Steal",Ohio Express,31,29,12
+44,Windy,Wes Montgomery,55,44,5
+45,Chattanooga Choo Choo,Harpers Bizarre,45,45,6
+46,In The Misty Moonlight,Dean Martin,56,46,4
+47,Cover Me,Percy Sledge,49,47,5
+48,Love Me Two Times,The Doors,59,48,3
+49,What's It Gonna Be,Dusty Springfield,50,49,6
+50,Tell Mama,Etta James,51,50,7
+51,Who Will Answer?,Ed Ames,74,51,2
+52,Love Power,The Sandpebbles,53,52,5
+53,Itchycoo Park,Small Faces,66,53,7
+54,Yesterday,Ray Charles,25,25,7
+55,I Can't Stand Myself (When You Touch Me),James Brown And The Famous Flames,72,55,3
+56,I Am The Walrus,The Beatles,57,56,3
+57,I'm In Love,Wilson Pickett,64,57,4
+58,Best Of Both Worlds,Lulu,75,58,2
+59,Goin' Out Of My Head/Can't Take My Eyes Off You,The Lettermen,69,59,3
+60,Dear Eloise,The Hollies,60,60,4
+61,Watch Her Ride,Jefferson Airplane,76,61,2
+62,Dancing Bear,The Mamas & The Papas,77,62,3
+63,My Baby Must Be A Magician,The Marvelettes,78,63,2
+64,Monterey,Eric Burdon & The Animals,85,64,2
+65,Storybook Children,Billy Vera & Judy Clay,67,65,4
+66,"O-O, I Love You",The Dells,61,61,8
+67,Ooh Baby,Deon Jackson,65,65,6
+68,I'll Be Sweeter Tomorrow (Than I Was Today),The O'Jays,70,68,5
+69,Am I That Easy To Forget,Engelbert Humperdinck,89,69,2
+70,Everybody Knows,The Dave Clark Five,86,70,2
+71,Sockin' 1-2-3-4,John Roberts,71,71,4
+72,Hooray For The Salvation Army Band,Bill Cosby,73,72,4
+73,Piece Of My Heart,Erma Franklin,62,62,8
+74,Two Little Kids,Peaches & Herb,90,74,2
+75,Up-Up And Away,Hugh Masekela,84,75,3
+76,Good Combination,Sonny & Cher,79,76,2
+77,Nobody But Me,The Human Beinz,88,77,3
+78,Back Up Train,Al Greene & The Soul Mate's,80,78,3
+79,Explosion (In Your Soul),Soul Survivors,-1,79,1
+80,Foxey Lady,Jimi Hendrix,-1,80,1
+81,"Baby, Now That I've Found You",The Foundations,-1,81,1
+82,Darlin',The Beach Boys,-1,82,1
+83,Skip A Rope,Henson Cargill,-1,83,1
+84,The Lesson,Vikki Carr,-1,84,1
+85,Spooky,Classics IV,-1,85,1
+86,A Voice In The Choir,Al Martino,96,86,3
+87,I Wonder What She's Doing Tonite,Tommy Boyce & Bobby Hart,-1,87,1
+88,In Another Land,Bill Wyman,98,88,2
+89,Dancin' Out Of My Heart,Ronnie Dove,99,89,2
+90,Mr. Bus Driver,Bruce Channel,-1,90,1
+91,Here Comes Heaven,Eddy Arnold,91,91,4
+92,Something's Missing,5 Stairsteps and Cubie,92,92,4
+93,Cross My Heart,Billy Stewart,94,93,4
+94,Mockingbird,Aretha Franklin,-1,94,1
+95,Somebody's Sleeping In My Bed,Johnnie Taylor,95,95,2
+96,Shout,Lulu And The Luvers,97,94,6
+97,I Call It Love,The Manhattans,-1,97,1
+98,"Oh, How It Hurts",Barbara Mason,-1,98,1
+99,"Up Tight, Good Man",Laura Lee,-1,99,1
+100,A Little Rain Must Fall,The Epic Splendor,100,100,2

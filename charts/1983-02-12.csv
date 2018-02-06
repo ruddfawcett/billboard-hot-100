@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Down Under,Men At Work,2,1,15
+2,"Baby, Come To Me",Patti Austin With James Ingram,4,2,22
+3,Sexual Healing,Marvin Gaye,3,3,16
+4,Shame On The Moon,Bob Seger & The Silver Bullet Band,5,4,9
+5,Africa,Toto,1,1,16
+6,Maneater,Daryl Hall John Oates,6,1,18
+7,You And I,Eddie Rabbitt With Crystal Gayle,9,7,19
+8,Rock The Casbah,The Clash,8,8,20
+9,Stray Cat Strut,Stray Cats,12,9,8
+10,You Can't Hurry Love,Phil Collins,10,10,15
+11,The Other Guy,Little River Band,11,11,13
+12,Goody Two Shoes,Adam Ant,13,12,14
+13,Pass The Dutchie,Musical Youth,14,13,10
+14,Your Love Is Driving Me Crazy,Sammy Hagar,18,14,10
+15,Heart To Heart,Kenny Loggins,15,15,12
+16,All Right,Christopher Cross,19,16,4
+17,Allentown,Billy Joel,17,17,12
+18,Do You Really Want To Hurt Me,Culture Club,21,18,11
+19,Hungry Like The Wolf,Duran Duran,22,19,8
+20,You Got Lucky,Tom Petty And The Heartbreakers,20,20,14
+21,You Are,Lionel Richie,24,21,5
+22,Back On The Chain Gang,Pretenders,26,22,10
+23,Billie Jean,Michael Jackson,27,23,4
+24,We've Got Tonight,Kenny Rogers And Sheena Easton,28,24,3
+25,Heart Of The Night,Juice Newton,25,25,12
+26,Twilight Zone,Golden Earring,33,26,12
+27,Separate Ways (Worlds Apart),Journey,36,27,2
+28,One On One,Daryl Hall John Oates,37,28,3
+29,What About Me,Moving Pictures,30,29,22
+30,Space Age Love Song,A Flock Of Seagulls,31,30,14
+31,On The Loose,Saga,34,31,11
+32,Dirty Laundry,Don Henley,7,3,16
+33,Breaking Us In Two,Joe Jackson,39,33,5
+34,The Girl Is Mine,Michael Jackson And Paul McCartney,16,2,15
+35,Fall In Love With Me,"Earth, Wind & Fire",42,35,4
+36,I Know There's Something Going On,Frida,41,36,15
+37,I Knew You When,Linda Ronstadt,38,37,10
+38,The Clapping Song,Pia Zadora,43,38,10
+39,The Woman In Me,Donna Summer,40,39,9
+40,Mr. Roboto,Styx,-1,40,1
+41,Tied Up,Olivia Newton-John,45,41,5
+42,I'm Alive,Neil Diamond,46,42,5
+43,Dreamin' Is Easy,Steel Breeze,47,43,5
+44,My Kind Of Lady,Supertramp Featuring Rick Davies,50,44,3
+45,I've Got A Rock N' Roll Heart,Eric Clapton,51,45,3
+46,Don't Tell Me You Love Me,Night Ranger,52,46,5
+47,Come On Eileen,Dexy's Midnight Runners,58,47,4
+48,Mickey,Toni Basil,23,1,24
+49,Poison Arrow,ABC,61,49,3
+50,Burning Heart,Vandenberg,54,50,6
+51,The Blues,Randy Newman & Paul Simon ,55,51,4
+52,Winds Of Change,Jefferson Starship,59,52,3
+53,Shoot For The Moon,Poco,53,53,9
+54,I Can't Stand Still,Don Henley,56,54,5
+55,Lies,Thompson Twins,63,55,4
+56,Jeopardy, Greg Kihn Band,66,56,3
+57,Betcha She Don't Love You,Evelyn King,62,57,5
+58,I Like It,Debarge,70,58,2
+59,It's Raining Men,The Weather Girls,67,59,4
+60,So Close,Diana Ross,65,60,2
+61,Nice Girls,Melissa Manchester,69,61,2
+62,Little Too Late,Pat Benatar,73,62,2
+63,Windows,Missing Persons,68,63,5
+64,Love Me Again,The John Hall Band,72,64,4
+65,Shock The Monkey,Peter Gabriel,29,29,17
+66,It Might Be You,Stephen Bishop,74,66,3
+67,Hand To Hold On To,John Cougar,32,19,15
+68,Make Love Stay,Dan Fogelberg,80,68,2
+69,Too Much Love To Hide,"Crosby, Stills & Nash",79,69,3
+70,Always,Firefall,76,70,5
+71,Little Thing Called Love,Neil Young,77,71,3
+72,New Frontier,Donald Fagen,78,72,3
+73,Bad Boy,Ray Parker Jr.,35,35,11
+74,The One That Really Matters,Survivor,75,74,4
+75,Der Kommissar,After The Fire,-1,75,1
+76,Something To Grab For,Ric Ocasek,-1,76,1
+77,Heartbreaker,Dionne Warwick,44,10,19
+78,Voo Doo,Rachel Sweet,84,78,2
+79,Bread And Butter,Robert John,-1,79,1
+80,She's A Runner,Billy Squier,88,80,2
+81,Come Give Your Love To Me,Janet Jackson,89,81,2
+82,After I Cry Tonight,Lanier & Co.,48,48,11
+83,Love In Store,Fleetwood Mac,49,22,12
+84,Gloria,Laura Branigan,57,2,32
+85,Put It In A Magazine,Sonny Charles,60,40,14
+86,I Don't Care Anymore,Phil Collins,-1,86,1
+87,The Fanatic,Felony,-1,87,1
+88,All Those Lies,Glenn Frey,64,41,10
+89,What If (I Said I Love You),Unipop,71,71,8
+90,What You're Missing,Chicago,81,81,3
+91,Feet Don't Fail Me Now,Utopia,82,82,6
+92,The Look Of Love (Part One),ABC,83,18,23
+93,I Do,The J. Geils Band,85,24,13
+94,Steppin' Out,Joe Jackson,86,6,26
+95,Two Less Lonely People In The World,Air Supply,87,38,14
+96,Memory,Barry Manilow,90,39,13
+97,Forever,Little Steven,91,63,8
+98,Got To Be There,Chaka Khan,92,67,6
+99,Right Before Your Eyes,America,93,45,12
+100,Still Taking Chances,Michael Murphey ,94,76,6

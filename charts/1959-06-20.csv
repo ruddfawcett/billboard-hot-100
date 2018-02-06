@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Battle Of New Orleans,Johnny Horton,1,1,9
+2,Personality,Lloyd Price and His Orchestra,2,2,9
+3,Dream Lover,Bobby Darin,3,2,10
+4,Lonely Boy,Paul Anka,8,4,4
+5,Kansas City,Wilbert Harrison,5,1,11
+6,Quiet Village,The Exotic Sounds of Martin Denny,4,4,11
+7,Tallahassee Lassie,Freddy Cannon,7,7,7
+8,A Teenager In Love,Dion & The Belmonts,6,5,10
+9,Along Came Jones,The Coasters,13,9,6
+10,Lipstick On Your Collar,Connie Francis,15,10,6
+11,Frankie,Connie Francis,16,11,6
+12,Only You,Franck Pourcel's French Fiddles,10,9,12
+13,Bobby Sox To Stockings,Frankie Avalon,20,13,5
+14,"Kookie, Kookie (Lend Me Your Comb)",Edward Byrnes & Connie Stevens,9,4,10
+15,So Fine,The Fiestas,11,11,12
+16,Bongo Rock,Preston Epps,21,16,6
+17,Waterloo,Stonewall Jackson,24,17,5
+18,I'm Ready,Fats Domino,19,16,7
+19,I Only Have Eyes For You,The Flamingos,29,19,4
+20,Sorry (I Ran All The Way Home),The Impalas,12,2,15
+21,A Boy Without A Girl,Frankie Avalon,28,21,5
+22,Just Keep It Up,Dee Clark,22,20,8
+23,Endlessly,Brook Benton,17,12,10
+24,Crossfire,Johnny And The Hurricanes,23,23,9
+25,The Happy Organ,"Dave ""Baby"" Cortez",14,1,15
+26,My Heart Is An Open Book,"Carl Dobkins, Jr.",27,26,10
+27,"Goodbye Jimmy, Goodbye",Kathy Linden,18,11,11
+28,The Wonder Of You,Ray Peterson,38,28,6
+29,My Melancholy Baby,Tommy Edwards,26,26,6
+30,This I Swear,The Skyliners,36,30,4
+31,You're So Fine,The Falcons,25,25,10
+32,Little Dipper,The Mickey Mozart Quintet,35,32,5
+33,Hushabye,The Mystics,31,31,5
+34,Tiger,Fabian,55,34,2
+35,Ring-A-Ling-A-Lario,Jimmie Rodgers,37,35,4
+36,Tall Cool One,The Wailers,46,36,6
+37,I've Come Of Age,Billy Storm,34,28,11
+38,The Class,Chubby Checker,39,38,6
+39,Graduation's Here,The Fleetwoods,44,39,6
+40,What A Diff'rence A Day Makes,Dinah Washington,49,40,5
+41,There Goes My Baby,The Drifters,48,41,4
+42,I Waited Too Long,LaVern Baker,40,33,10
+43,Robbin' The Cradle,Tony Bellus,47,43,9
+44,Lonely For You,Gary Stites,33,24,11
+45,Enchanted,The Platters,32,12,14
+46,Mona Lisa,Carl Mann,51,46,4
+47,Turn Me Loose,Fabian,30,9,13
+48,Gidget,Jimmy Darren,41,41,9
+49,M.T.A.,The Kingston Trio,74,49,2
+50,Forty Miles Of Bad Road,Duane Eddy And The Rebels,96,50,2
+51,Only Sixteen,Sam Cooke,57,51,3
+52,Margie,Fats Domino,54,51,7
+53,I Can't Get You Out Of My Heart,Al Martino,75,53,6
+54,Twixt Twelve And Twenty,Pat Boone,61,54,2
+55,Since You've Been Gone,Clyde McPhatter,62,55,2
+56,Back In The U.S.A.,Chuck Berry,-1,56,1
+57,Velvet Waters,The Megatrons,65,57,4
+58,You Made Me Love You,Nat King Cole,53,45,8
+59,Danny Boy,Sil Austin,64,59,4
+60,Lavender-Blue,Sammy Turner,-1,60,1
+61,Rockin' Crickets,Hot-Toddys featuring Bill Pennell,60,57,9
+62,Wonderful You,Jimmie Rodgers,80,62,2
+63,I'll Be Satisfied,Jackie Wilson,-1,63,1
+64,Forty Days,Ronnie Hawkins,79,64,3
+65,I'm Gonna Change Him,Cathy Carr,63,63,3
+66,Guitar Boogie Shuffle,The Virtues,45,5,16
+67,Taboo,Arthur Lyman,92,67,2
+68,Remember When,The Platters,-1,68,1
+69,Guess Who,Jesse Belvin,52,31,13
+70,With My Eyes Wide Open I'm Dreaming,Patti Page,81,70,2
+71,(Now and Then There's) A Fool Such As I,Elvis Presley With The Jordanaires,43,2,14
+72,A String Of Trumpets,The Trumpeteers,68,64,9
+73,So Close,Brook Benton,58,38,6
+74,I Know,Perry Como,86,74,3
+75,Sweet Chile,Sheb Wooley,70,70,4
+76,I Need Your Love Tonight,Elvis Presley With The Jordanaires,59,4,13
+77,The Whistling Organ,"Dave ""Baby"" Cortez",89,77,3
+78,Cap And Gown,Marty Robbins,100,78,2
+79,There Is Something On Your Mind,Big Jay McNeely And Band,71,68,5
+80,Come To Me,Marv Johnson,56,30,15
+81,Flower Of Love,The Crests featuring Johnny Mastro,87,81,3
+82,Gotta New Girl,Bobby Day,-1,82,1
+83,Like Young,Andre Previn With David Rose,-1,83,2
+84,I Love An Angel,Little Bill and The Bluenotes,-1,84,1
+85,Cherrystone,Addrisi Brothers,-1,85,3
+86,I Must Be Dreaming,Nat King Cole,-1,69,4
+87,Almost Grown,Chuck Berry,76,32,13
+88,Small World,Johnny Mathis,97,88,2
+89,Kansas City,Hank Ballard And The Midnighters,84,72,7
+90,A Prayer And A Juke Box,Little Anthony And The Imperials,93,90,2
+91,Take A Message To Mary,The Everly Brothers,50,16,13
+92,High Hopes,"Frank Sinatra ""and a bunch of kids""",98,92,2
+93,Little Boy Blue,Huelyn Duvall,88,88,2
+94,Pink Shoe Laces,Dodie Stevens,42,3,19
+95,La Plume De Ma Tante,Hugo & Luigi,91,91,3
+96,Come Softly To Me,The Fleetwoods,66,1,16
+97,"Ciao, Ciao Bambina",Jacky Noguez And His Musette Orchestra,-1,97,1
+98,It Was I,Skip And Flip,-1,98,1
+99,Since I Don't Have You,The Skyliners,85,12,19
+100,"Oh, What A Fool",The Impalas,-1,100,1

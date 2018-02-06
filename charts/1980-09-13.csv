@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Upside Down,Diana Ross,1,1,10
+2,All Out Of Love,Air Supply,4,2,14
+3,Emotional Rescue,The Rolling Stones,3,3,11
+4,Fame,Irene Cara,5,4,14
+5,Sailing,Christopher Cross,2,1,14
+6,Give Me The Night,George Benson,7,6,11
+7,Late In The Evening,Paul Simon,9,7,6
+8,Lookin' For Love,Johnny Lee,10,8,10
+9,Another One Bites The Dust,Queen,23,9,5
+10,Drivin' My Life Away,Eddie Rabbitt,13,10,13
+11,Into The Night,Benny Mardones,11,11,14
+12,I'm Alright,Kenny Loggins,27,12,10
+13,Magic,Olivia Newton-John,6,1,17
+14,You're The Only Woman (You & I),Ambrosia,17,14,10
+15,One In A Million You,Larry Graham,16,15,12
+16,You'll Accomp'ny Me, Bob Seger,18,16,8
+17,Xanadu,Olivia Newton-John/Electric Light Orchestra,26,17,6
+18,All Over The World,Electric Light Orchestra,21,18,7
+19,Boulevard,Jackson Browne,19,19,11
+20,Hot Rod Hearts,Robbie Dupree,22,20,9
+21,Don't Ask Me Why,Billy Joel,24,21,7
+22,Take Your Time (Do It Right) Part 1,The S.O.S. Band,8,3,16
+23,Someone That I Used To Love,Natalie Cole,25,23,13
+24,Let My Love Open The Door,Pete Townshend,12,9,14
+25,Jesse,Carly Simon,29,25,7
+26,Never Knew Love Like This Before,Stephanie Mills,30,26,6
+27,He's So Shy,The Pointer Sisters,33,27,8
+28,Real Love,The Doobie Brothers,40,28,2
+29,Look What You've Done To Me,Boz Scaggs,39,29,4
+30,How Does It Feel To Be Back,Daryl Hall John Oates,31,30,9
+31,Hey There Lonely Girl,Robert John,32,31,9
+32,No Night So Long,Dionne Warwick,38,32,8
+33,Woman In Love,Barbra Streisand,49,33,2
+34,It's Still Rock And Roll To Me,Billy Joel,15,1,17
+35,You're Supposed To Keep Your Love For Me,Jermaine Jackson,37,35,10
+36,More Love,Kim Carnes,14,10,16
+37,Old-Fashion Love,Commodores,20,20,13
+38,How Do I Survive,Amy Holland,44,38,6
+39,First Time Love,Livingston Taylor,41,39,8
+40,Who'll Be The Fool Tonight,Larsen-Feiten Band,51,40,5
+41,Take A Little Rhythm,Ali Thomson,28,15,14
+42,JoJo,Boz Scaggs,34,17,14
+43,Make A Little Magic,The Dirt Band,36,25,13
+44,(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?,Elton John,50,44,6
+45,Why Not Me,Fred Knoblock,35,18,12
+46,Red Light,Linda Clifford,52,46,6
+47,You Better Run,Pat Benatar,42,42,8
+48,Out Here On My Own,Irene Cara,56,48,5
+49,Shining Star,The Manhattans,43,5,21
+50,Midnight Rocks,Al Stewart,60,50,3
+51,The Legend Of Wooley Swamp,The Charlie Daniels Band,58,51,5
+52,I'm Almost Ready,Pure Prairie League,59,52,4
+53,Fool For Your Loving,Whitesnake,54,53,7
+54,Games Without Frontiers,Peter Gabriel,62,54,5
+55,Misunderstanding,Genesis,45,14,17
+56,Let Me Be Your Angel,Stacy Lattisaw,63,56,6
+57,Late At Night,England Dan Seals,57,57,5
+58,I Hear You Now,Jon & Vangelis,61,58,5
+59,My Prayer,"Ray, Goodman & Brown",64,59,4
+60,Whip It,Devo,75,60,3
+61,Good Morning Girl/stay Awhile,Journey,67,61,4
+62,Thunder And Lightning,Chicago,68,62,4
+63,Rebels Are We,Chic,69,63,3
+64,I Got You,Split Enz,70,64,4
+65,Switchin' To Glide/This Beat Goes On,The Kings,72,65,4
+66,Can't We Try,Teddy Pendergrass,74,66,3
+67,Little Jeannie,Elton John,46,3,20
+68,"Girl, Don't Let It Get You Down",The O'Jays,71,68,4
+69,On The Road Again,Willie Nelson,78,69,2
+70,Touch And Go,The Cars,80,70,2
+71,Leaving L.A.,Deliverance,73,71,3
+72,Could I Have This Dance,Anne Murray,81,72,2
+73,Turn It On Again,Genesis,84,73,2
+74,Tulsa Time/Cocaine,Eric Clapton And His Band,47,30,13
+75,My Guy/My Girl,Amii Stewart & Johnny Bristol,79,75,3
+76,I'm Coming Out,Diana Ross,88,76,2
+77,Dreaming,Cliff Richard,-1,77,1
+78,Cupid/I've Loved You For A Long Time,The Spinners,48,4,18
+79,Don't Misunderstand Me,Rossington Collins Band,55,55,8
+80,You Shook Me All Night Long,AC/DC,89,80,2
+81,Without Your Love,Roger Daltrey,-1,81,1
+82,Walk Away,Donna Summer,-1,82,1
+83,Lola,The Kinks,85,9,17
+84,First...Be A Woman,Lenore O'malley,53,53,8
+85,Under The Gun,Poco,65,48,9
+86,Live Every Minute,Ali Thomson,-1,86,1
+87,True Love Ways,Mickey Gilley,66,66,5
+88,If You Should Sail,Nielsen/Pearson,-1,88,1
+89,Running Back,Eddie Money,-1,89,1
+90,Angeline,The Allman Brothers Band,-1,90,1
+91,Stand By Me,Mickey Gilley,77,22,18
+92,Empire Strikes Back (Medley),Meco,76,18,14
+93,Coming Up (Live At Glasgow),Paul McCartney And Wings,82,1,21
+94,The Breaks (Part 1),Kurtis Blow,98,94,2
+95,I Can't Let Go,Linda Ronstadt,95,31,12
+96,Rock It,"Lipps, Inc.",96,64,7
+97,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,-1,97,1
+98,Tired Of Toein' The Line,Rocky Burnette,83,8,19
+99,I've Just Begun To Love You,Dynasty,-1,99,1
+100,Steal Away,Robbie Dupree,90,6,23

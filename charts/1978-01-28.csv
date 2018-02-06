@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Baby Come Back,Player,1,1,18
+2,Short People,Randy Newman,5,2,12
+3,Stayin' Alive,Bee Gees,10,3,8
+4,You're In My Heart (The Final Acclaim),Rod Stewart,4,4,14
+5,Slip Slidin' Away,Paul Simon,6,5,16
+6,We Will Rock You/We Are The Champions,Queen,8,6,15
+7,How Deep Is Your Love,Bee Gees,2,1,19
+8,Come Sail Away,Styx,9,8,19
+9,Just The Way You Are,Billy Joel,11,9,12
+10,(Love Is) Thicker Than Water,Andy Gibb,14,10,13
+11,Sometimes When We Touch,Dan Hill,15,11,10
+12,Hey Deanie,Shaun Cassidy,7,7,12
+13,Here You Come Again,Dolly Parton,3,3,16
+14,Turn To Stone,Electric Light Orchestra,16,14,11
+15,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,18,15,14
+16,Serpentine Fire,"Earth, Wind & Fire",17,16,14
+17,Emotion,Samantha Sang,23,17,11
+18,I Go Crazy,Paul Davis,19,18,23
+19,Desiree,Neil Diamond,21,19,9
+20,(Every Time I Turn Around) Back In Love Again,LTD,12,4,16
+21,Don't Let Me Be Misunderstood,Santa Esmeralda Starring Leroy Gomez,24,21,13
+22,You Light Up My Life,Debby Boone,22,1,22
+23,What's Your Name,Lynyrd Skynyrd,27,23,9
+24,"Theme From ""Close Encounters Of The Third Kind""",John Williams,39,24,6
+25,Runaround Sue,Leif Garrett,13,13,12
+26,Native New Yorker,Odyssey,29,26,12
+27,"Long, Long Way From Home",Foreigner,30,27,8
+28,Peg,Steely Dan,32,28,11
+29,Too Hot Ta Trot,Commodores,33,29,7
+30,Ffun,ConFunkShun,34,30,7
+31,Sentimental Lady,Bob Welch,20,8,16
+32,Lovely Day,Bill Withers,35,32,8
+33,Theme From Close Encounters,Meco,40,33,4
+34,Happy Anniversary,Little River Band,37,34,7
+35,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,25,12,20
+36,Easy To Love,Leo Sayer,41,36,8
+37,Thunder Island,Jay Ferguson,45,37,7
+38,Street Corner Serenade,Wet Willie,42,38,9
+39,The Name Of The Game,ABBA,44,39,6
+40,I Love You,Donna Summer,47,40,7
+41,Blue Bayou,Linda Ronstadt,26,3,21
+42,Falling,LeBlanc & Carr,48,42,16
+43,Always And Forever,Heatwave,50,43,4
+44,Sweet Music Man,Kenny Rogers,46,44,7
+45,Lay Down Sally,Eric Clapton,51,45,4
+46,"Curious Mind (Um, Um, Um, Um, Um, Um)",Johnny Rivers,52,46,6
+47,Galaxy,War,54,47,4
+48,Breakdown,Tom Petty And The Heartbreakers,53,48,13
+49,Point Of Know Return,Kansas,28,28,12
+50,Cocomotion,El Coco,60,50,10
+51,Don't It Make My Brown Eyes Blue,Crystal Gayle,31,2,25
+52,Jack And Jill,Raydio,63,52,3
+53,Goodbye Girl,David Gates,64,53,7
+54,Mind Bender,Stillwater,58,54,9
+55,As,Stevie Wonder,36,36,13
+56,Reach For It,George Duke,56,56,4
+57,The Way I Feel Tonight,Bay City Rollers,49,24,16
+58,The Way You Do The Things You Do,Rita Coolidge,73,58,3
+59,It's So Easy,Linda Ronstadt,57,5,17
+60,So Long,Firefall,71,60,3
+61,God Only Knows,Marilyn Scott,61,61,8
+62,Our Love,Natalie Cole,76,62,3
+63,If You're Not Back In Love By Monday,Millie Jackson,43,43,11
+64,Crazy On You,Heart,68,35,17
+65,Take Me To The Kaptin,Prism,75,65,4
+66,Rockaway Beach,Ramones,66,66,9
+67,Gettin' Ready For Love,Diana Ross,55,27,13
+68,(What A) Wonderful World,Art Garfunkel With James Taylor & Paul Simon,81,68,2
+69,Shout It Out Loud,KISS,85,31,12
+70,The Next Hundred Years,Al Martino,72,49,8
+71,Lady Love,Lou Rawls,82,71,2
+72,Ooh Boy,Rose Royce,74,72,10
+73,"Let It Go, Let It Flow",Dave Mason,84,73,2
+74,Le Spank,Le Pamplemousse,78,74,10
+75,"If It Don't Fit, Don't Force It",Kellee Patterson,79,75,7
+76,"What's Your Name, What's Your Number",Andrea True Connection,80,76,3
+77,(You're My) Soul And Inspiration,Donny & Marie Osmond,38,38,11
+78,Poor Poor Pitiful Me,Linda Ronstadt,-1,78,1
+79,Supernature,Cerrone,90,79,2
+80,Touch And Gone,Gary Wright,86,80,2
+81,Dust In The Wind,Kansas,-1,81,1
+82,Everybody Loves A Rain Song,B.J. Thomas,87,82,2
+83,Belle,Al Green,83,83,4
+84,Until Now,Bobby Arvon,88,84,9
+85,Storybook Children (Daybreak),Bette Midler,89,85,3
+86,My Way,Elvis Presley,65,22,12
+87,How Can I Leave You Again,John Denver,67,44,10
+88,Ebony Eyes,Bob Welch,-1,88,1
+89,If I Can't Have You,Yvonne Elliman,-1,89,1
+90,Come Go With Me,Pockets,91,90,4
+91,You Really Got Me,Van Halen,-1,91,1
+92,Love Me Right,Denise LaSalle,93,92,3
+93,"1,000 Laughs",Eloise Laws,95,93,3
+94,Never Had A Love,Pablo Cruise,-1,94,1
+95,Girls' School,Wings,59,33,11
+96,Ain't Gonna' Hurt Nobody,Brick,-1,96,1
+97,"Theme Song From ""Which Way Is Up""",Stargard,-1,97,1
+98,You Make Me Crazy,Sammy Hagar,62,62,8
+99,We're All Alone,Rita Coolidge,77,7,20
+100,Tried To Love,Peter Frampton,69,41,8

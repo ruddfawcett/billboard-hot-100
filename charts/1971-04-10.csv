@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Just My Imagination (Running Away With Me),The Temptations,1,1,10
+2,What's Going On,Marvin Gaye,5,2,8
+3,Joy To The World,Three Dog Night,11,3,5
+4,She's A Lady,Tom Jones,4,2,10
+5,For All We Know,Carpenters,3,3,10
+6,Me And Bobby McGee,Janis Joplin,2,1,11
+7,Doesn't Somebody Want To Be Wanted,The Partridge Family Starring Shirley Jones Featuring David Cassidy,7,6,9
+8,Another Day/Oh Woman Oh Why,Paul McCartney,10,8,6
+9,Proud Mary,Ike & Tina Turner,6,4,11
+10,One Toke Over The Line,Brewer And Shipley,16,10,9
+11,Wild World,Cat Stevens,12,11,9
+12,Help Me Make It Through The Night,Sammi Smith,8,8,13
+13,(Where Do I Begin) Love Story,Andy Williams,9,9,10
+14,What Is Life,George Harrison,14,10,7
+15,Never Can Say Goodbye,Jackson 5,57,15,2
+16,Put Your Hand In The Hand,Ocean,31,16,5
+17,No Love At All,B.J. Thomas,21,17,7
+18,Oye Como Va,Santana,13,13,8
+19,I Am...I Said/Done Too Soon,Neil Diamond,26,19,3
+20,Temptation Eyes,The Grass Roots,15,15,16
+21,"Love's Lines, Angles And Rhymes",The 5th Dimension,25,21,7
+22,Eighteen,Alice Cooper,27,22,8
+23,Blue Money,Van Morrison,23,23,10
+24,We Can Work It Out,Stevie Wonder,32,24,5
+25,Stay Awhile,The Bells,33,25,6
+26,You're All I Need To Get By,Aretha Franklin,19,19,8
+27,Heavy Makes You Happy (Sha-Na-Boom Boom),The Staple Singers,28,27,10
+28,If,Bread,39,28,3
+29,Soul Power (Pt. 1),James Brown,29,29,7
+30,I Play And Sing,Dawn,41,30,3
+31,Cried Like A Baby,Bobby Sherman,22,16,9
+32,Dream Baby (How Long Must I Dream),Glen Campbell,34,32,5
+33,"Where Did They Go, Lord/Rags To Riches",Elvis Presley,35,33,5
+34,One Bad Apple,The Osmonds,18,1,15
+35,Baby Let Me Kiss You,King Floyd,38,35,5
+36,Amos Moses, Jerry Reed,17,8,24
+37,Free,Chicago,20,20,8
+38,Friends,Elton John,47,38,4
+39,Chick-A-Boom (Don't Ya Jes' Love It),Daddy Dewdrop,44,39,6
+40,Power To The People,John Lennon/Plastic Ono Band Yoko Ono/Plastic Ono Band,73,40,2
+41,Timothy,The Buoys,42,41,9
+42,Don't Change On Me,Ray Charles,43,42,5
+43,I Love You For All Seasons,The Fuzz,46,43,12
+44,I Don't Blame You At All,Smokey Robinson & The Miracles,50,44,4
+45,When There's No You,Engelbert Humperdinck,45,45,6
+46,Do Me Right,Detroit Emeralds,49,46,8
+47,Woodstock,Matthews' Southern Comfort,54,47,6
+48,Sit Yourself Down,Stephen Stills,37,37,5
+49,Ask Me No Questions,B.B. King,40,40,9
+50,I Won't Mention It Again,Ray Price,53,50,4
+51,Pushbike Song,The Mixtures,52,51,6
+52,Time And Love,Barbra Streisand,60,52,4
+53,Someone Who Cares,Kenny Rogers & The First Edition,69,53,3
+54,Hot Pants,Salvage,61,54,5
+55,Tongue In Cheek,Sugarloaf,55,55,6
+56,Lucky Man,"Emerson, Lake & Palmer",62,56,5
+57,Who Gets The Guy,Dionne Warwick,63,57,4
+58,Man In Black,Johnny Cash,58,58,4
+59,I Think Of You,Perry Como,65,59,4
+60,Snow Blind Friend,Steppenwolf,64,60,6
+61,Could I Forget You,Tyrone Davis,68,61,4
+62,I Don't Know How To Love Him,Helen Reddy,70,62,8
+63,I Wish I Were,Andy Kim,87,63,3
+64,Me And You And A Dog Named Boo,Lobo,82,64,2
+65,Sweet And Innocent,Donny Osmond of The Osmonds,74,65,3
+66,Here Comes The Sun,Richie Havens,75,66,4
+67,Me And My Arrow,Nilsson,79,67,4
+68,Cool Aid,Paul Humphrey & His Cool Aid Chemists,72,68,5
+69,Toast And Marmalade For Tea,Tin Tin,80,69,2
+70,Booty Butt,The Ray Charles Orchestra,77,70,4
+71,13 Questions,Seatrain,76,71,2
+72,Bad Water,The Raelettes,78,72,5
+73,Right On The Tip Of My Tongue,Brenda & The Tabulations,81,73,2
+74,Love Her Madly,The Doors,-1,74,1
+75,Freedom,Jimi Hendrix,99,75,2
+76,(For God's Sake) Give More Power To The People,The Chi-lites,-1,76,1
+77,Layla,Derek & The Dominos,84,77,3
+78,C'mon,Poco,85,78,3
+79,Want Ads,The Honey Cone,-1,79,1
+80,L.A. Goodbye,The Ides Of March,83,80,5
+81,Nickel Song,The New Seekers featuring Eve Graham,88,81,4
+82,Melting Pot,Booker T. & The MG's,91,82,4
+83,Love Makes The World Go Round,Odds & Ends,86,83,5
+84,The Animal Trainer And The Toad,Mountain,95,84,3
+85,"Oh, Singer",Jeannie C. Riley,96,85,2
+86,Superstar,Murray Head With The Trinidad Singers,-1,60,20
+87,Love Makes The World Go Round,Kiki Dee,89,87,3
+88,I'm Girl Scoutin',The Intruders,92,88,4
+89,1927 Kansas City,Mike Reilly,94,89,5
+90,Treat Her Like A Lady,Cornelius Brothers & Sister Rose,-1,90,1
+91,"You And Your Folks, Me And My Folks",Funkadelic,-1,91,1
+92,"Chirpy Chirpy, Cheep Cheep",Lally Stott,-1,92,1
+93,When You Dance I Can Really Love,Neil Young,-1,93,1
+94,Indian Reservation (The Lament Of The Cherokee Reservation Indian),The Raiders,-1,94,1
+95,Empty Arms,Sonny James,-1,95,1
+96,If It's Real What I Feel,Jerry Butler Featuring Brenda Lee Eager,98,69,5
+97,Stop! In The Name Of Love,Margie Joseph,97,97,2
+98,Can't Find The Time,Rose Colored Glass,-1,98,1
+99,"Take Me Home, Country Roads",John Denver,-1,99,1
+100,I Was Wondering,The Poppy Family,100,100,2

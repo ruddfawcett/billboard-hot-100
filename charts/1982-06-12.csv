@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Ebony And Ivory,Paul McCartney And Stevie Wonder,1,1,10
+2,Don't Talk To Strangers,Rick Springfield,2,2,15
+3,Don't You Want Me,The Human League,6,3,15
+4,The Other Woman,Ray Parker Jr.,5,4,13
+5,Always On My Mind,Willie Nelson,7,5,15
+6,Heat Of The Moment,Asia,8,6,9
+7,Rosanna,Toto,10,7,9
+8,Crimson And Clover,Joan Jett & the Blackhearts,11,8,7
+9,867-5309/jenny,Tommy Tutone,4,4,21
+10,It's Gonna Take A Miracle,Deniece Williams,12,10,11
+11,I've Never Been To Me,Charlene,3,3,18
+12,Body Language,Queen,17,12,7
+13,Making Love,Roberta Flack,16,13,15
+14,Man On Your Mind,Little River Band,14,14,11
+15,Love's Been A Little Bit Hard On Me,Juice Newton,18,15,6
+16,Let It Whip,Dazz Band,19,16,8
+17,Hurts So Good,John Cougar,20,17,8
+18,'65 Love Affair,Paul Davis,9,6,16
+19,Empty Garden (Hey Hey Johnny),Elton John,13,13,13
+20,Caught Up In You,38 Special,24,20,7
+21,Tainted Love,Soft Cell,29,21,22
+22,Did It In A Minute,Daryl Hall John Oates,15,9,13
+23,Run For The Roses,Dan Fogelberg,21,18,11
+24,Without You (Not Another Lonely Night), Franke & The Knockouts,26,24,11
+25,Any Day Now,Ronnie Milsap,31,25,7
+26,When It's Over,Loverboy,28,26,10
+27,Take Me Down,Alabama,33,27,4
+28,Play The Game Tonight,Kansas,32,28,6
+29,Only The Lonely,The Motels,34,29,8
+30,When He Shines,Sheena Easton,30,30,11
+31,Break It Up,Foreigner,35,31,5
+32,Fantasy,Aldo Nova,23,23,12
+33,Forget Me Nots,Patrice Rushen,37,33,7
+34,Still They Ride,Journey,49,34,4
+35,I Don't Know Where To Start,Eddie Rabbitt,36,35,10
+36,Personally,Karla Bonoff,40,36,7
+37,After The Glitter Fades,Stevie Nicks,41,37,5
+38,Friends In Love,Dionne Warwick & Johnny Mathis,38,38,9
+39,Murphy's Law,Cheri,39,39,10
+40,Hope You Love Me Like You Say You Do,Huey Lewis & The News,43,40,5
+41,Do I Do,Stevie Wonder,45,41,3
+42,Stone Cold,Rainbow,42,42,8
+43,This Man Is Mine,Heart,46,43,5
+44,Be Mine Tonight,Neil Diamond,51,44,4
+45,Dreamin',John Schneider,55,45,5
+46,Just Another Day In Paradise,Bertie Higgins ,48,46,7
+47,Dancing In The Street,Van Halen,50,47,4
+48,Angel In Blue,The J. Geils Band,52,48,4
+49,Island Of Lost Souls,Blondie,54,49,3
+50,Abracadabra,The Steve Miller Band,56,50,3
+51,What Kind Of Fool Am I,Rick Springfield,57,51,2
+52,Keep The Fire Burnin',REO Speedwagon,-1,52,1
+53,Love Plus One,Haircut One Hundred,58,53,5
+54,You Should Hear How She Talks About You,Melissa Manchester,59,54,4
+55,Nice Girls,Eye To Eye,60,55,4
+56,Kids In America,Kim Wilde,64,56,4
+57,Early In The Morning,The Gap Band,65,57,4
+58,I'll Find My Way Home,Jon & Vangelis,61,58,4
+59,Eye Of The Tiger,Survivor,73,59,2
+60,I Predict,Sparks,63,60,5
+61,If The Love Fits Wear It,Leslie Pearl,68,61,4
+62,Hooked On Big Bands,The Frank Barber Orch.,67,62,6
+63,Happy Man,Greg Kihn Band,69,63,4
+64,Right Kind Of Love,Quarterflash,70,64,3
+65,Hard To Say I'm Sorry,Chicago,75,65,2
+66,Going To A Go-Go,The Rolling Stones,-1,66,1
+67,Even The Nights Are Better,Air Supply,-1,67,1
+68,What Do All The People Know,The Monroes,74,68,3
+69,Out Of Work,Gary U.S. Bonds,-1,69,1
+70,I Found Somebody,Glenn Frey,77,70,2
+71,Dance Wit' Me - Part 1,Rick James,76,71,3
+72,I Want Candy,Bow Wow Wow,78,72,3
+73,Hooked On Swing,Larry Elgart And His Manhattan Swing Orchestra,83,73,2
+74,Cutie Pie,One Way,80,74,3
+75,If You Want My Love,Cheap Trick,81,75,2
+76,Standing On The Top-Part 1,The Temptations Featuring Rick James,66,66,6
+77,The Last Safe Place On Earth,Le Roux,79,77,3
+78,Route 66,The Manhattan Transfer,82,78,3
+79,Back To School Again,Four Tops,71,71,5
+80,Paperlate,Genesis,90,80,2
+81,Street Corner,Ashford & Simpson,85,81,2
+82,Landslide,Olivia Newton-John,-1,82,1
+83,Soup For One,Chic,87,83,2
+84,The Very Best In You,Change,84,84,3
+85,I Really Don't Need No Light,Jeffrey Osborne,88,85,2
+86,How Can You Love Me,Ambrosia,89,86,2
+87,(Sittin' On) The Dock Of The Bay,The Reddings,-1,87,1
+88,So Fine,The Oak Ridge Boys,-1,88,1
+89,Loveline,Dr. Hook,-1,89,1
+90,Still In Saigon,The Charlie Daniels Band,22,22,12
+91,My Girl,Donnie Iris,25,25,12
+92,Wake Up Little Susie,Simon & Garfunkel,27,27,11
+93,A Night To Remember,Shalamar,44,44,10
+94,Get Down On It,Kool & The Gang,47,10,16
+95,Chariots Of Fire - Titles,Vangelis,53,1,27
+96,I Know What Boys Like,The Waitresses,62,62,6
+97,How Long,Rod Stewart,72,49,8
+98,Cat People (Putting Out Fire),David Bowie,100,67,9
+99,I Love Rock 'N Roll,Joan Jett & the Blackhearts,93,1,19
+100,Old Fashioned Love,Smokey Robinson,91,60,9

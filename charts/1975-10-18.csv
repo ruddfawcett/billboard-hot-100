@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Bad Blood,Neil Sedaka,1,1,6
+2,I'm Sorry,John Denver,2,1,10
+3,Miracles,Jefferson Starship,5,3,9
+4,Lyin' Eyes,Eagles,10,4,6
+5,Ballroom Blitz,Sweet,6,5,19
+6,Dance With Me,Orleans,7,6,14
+7,Feelings,Morris Albert,11,7,18
+8,Ain't No Way To Treat A Lady,Helen Reddy,8,8,11
+9,They Just Can't Stop It the (Games People Play),The Spinners,13,9,11
+10,Who Loves You,The 4 Seasons,14,10,9
+11,It Only Takes A Minute,Tavares,12,11,13
+12,Fame,David Bowie,3,1,17
+13,Brazil,The Ritchie Family,16,13,12
+14,Heat Wave/love Is A Rose,Linda Ronstadt,18,14,5
+15,Rocky,Austin Roberts,9,9,14
+16,Mr. Jaws,Dickie Goodman,4,4,7
+17,Something Better To Do,Olivia Newton-John,19,17,5
+18,Do It Any Way You Wanna,Peoples Choice,21,18,9
+19,Lady Blue,Leon Russell,22,19,12
+20,This Will Be,Natalie Cole,26,20,8
+21,The Way I Want To Touch You,Captain & Tennille,25,21,4
+22,Carolina In The Pines, Michael Murphey,24,22,10
+23,Low Rider,War,27,23,5
+24,S.O.S.,ABBA,40,24,9
+25,You,George Harrison,33,25,5
+26,What A Diff'rence A Day Makes,Esther Phillips,29,26,10
+27,Rhinestone Cowboy,Glen Campbell,15,1,21
+28,Born To Run,Bruce Springsteen,30,28,5
+29,I Only Have Eyes For You,Art Garfunkel,32,29,9
+30,Rockin' All Over The World,John Fogerty,34,30,7
+31,Sky High,Jigsaw,36,31,8
+32,Run Joey Run,David Geddes,17,4,12
+33,Blue Eyes Crying In The Rain, Willie Nelson,37,33,8
+34,Sweet Sticky Thing,Ohio Players,38,34,5
+35,There Goes Another Love Song,The Outlaws,39,35,7
+36,Island Girl,Elton John,49,36,2
+37,Wasted Days And Wasted Nights,Freddy Fender,20,8,18
+38,Nights On Broadway,Bee Gees,62,38,3
+39,Just Too Many People,Melissa Manchester,48,39,5
+40,The Agony And The Ecstasy,Smokey Robinson,44,40,7
+41,Eighteen With A Bullet,Pete Wingfield,51,41,9
+42,Letting Go,Wings,54,42,3
+43,At Seventeen,Janis Ian,28,3,19
+44,Give It What You Got/Peace Pipe,B.T. Express,52,40,11
+45,Dreaming A Dream,Crown Heights Affair,55,45,10
+46,Operator,The Manhattan Transfer,56,46,5
+47,Could It Be Magic,Barry Manilow,31,6,17
+48,"Fly, Robin, Fly",Silver Convention,87,48,2
+49,How Long (Betcha' Got A Chick On The Side),The Pointer Sisters,35,20,14
+50,That's The Way Of The World,"Earth, Wind & Fire",45,12,16
+51,Diamonds And Rust,Joan Baez,61,51,5
+52,Every Day I Have To Cry Some,Arthur Alexander,63,52,6
+53,Mr. D.J. (5 For The D.J.),Aretha Franklin,53,53,5
+54,(I Believe) There's Nothing Stronger Than Our Love,Paul Anka/Odia Coates,41,15,13
+55,I Want'a Do Something Freaky To You,Leon Haywood,66,55,7
+56,I Get High On You,Sly Stone,58,56,7
+57,What's Happened To Blue Eyes/You Ain't Never Been Loved (Like I'm Gonna Lov,Jessi Colter,60,57,2
+58,Fight The Power Part 1,The Isley Brothers,42,4,18
+59,Katmandu,Bob Seger,43,43,11
+60,Gone At Last,Paul Simon/Phoebe Snow,23,23,10
+61,Hollywood Hot,The Eleventh Hour,67,61,8
+62,To Each His Own,"Faith, Hope And Charity",64,50,10
+63,Keep On Tryin',Poco,74,63,5
+64,Manhattan Spiritual,Mike Post,68,64,4
+65,Get Down Tonight,KC And The Sunshine Band,65,1,15
+66,Are You Sure Hank Done It This Way,Waylon Jennings,70,66,5
+67,Summer Of '42,Biddu Orchestra,77,67,3
+68,I Go To Pieces,"Cotton, Lloyd & Christian",73,68,4
+69,Help Me Make It (To My Rockin' Chair),B.J. Thomas,71,69,5
+70,Mexico,James Taylor,80,70,3
+71,Fancy Lady,Billy Preston,75,71,3
+72,Dear Prudence,Katfish,82,72,4
+73,Change With The Times,Van Mccoy,86,73,2
+74,Easy Evil,Travis Wammack,84,74,4
+75,Saturday Night,Bay City Rollers,85,75,2
+76,Salsoul Hustle,The Salsoul Orchestra,79,76,6
+77,So In Love,Curtis Mayfield,88,77,4
+78,Is It Love That We're Missin',Quincy Jones (feat. The Brothers Johnson),89,78,2
+79,Nothin' Heavy,David Bellamy,83,79,5
+80,Minstrel In The Gallery,Jethro Tull,90,80,2
+81,My Little Town,Simon & Garfunkel,-1,81,1
+82,Secret Love,Freddy Fender,-1,82,1
+83,Sailing,Rod Stewart,-1,83,1
+84,The Other Woman,Vicki Lawrence,-1,84,1
+85,Our Day Will Come,Frankie Valli,-1,85,1
+86,I'm On Fire,5000 Volts,-1,86,1
+87,Since I Met You Baby,Freddy Fender,-1,87,1
+88,Come And Get Your Love,Roger Daltrey,93,88,3
+89,Indian Love Call,Ray Stevens,95,89,2
+90,(How I Spent My Summer Vacation) Or A Day At The Beach With Pedro & Man - P,Cheech & Chong,-1,90,1
+91,A Lover's Question,Loggins & Messina,-1,91,1
+92,Just A Smile,Pilot,96,92,2
+93,Happy,Eddie Kendricks,97,93,2
+94,King Kong - Pt. I,The Jimmy Castor Bunch,-1,94,1
+95,Fire On The Mountain,The Marshall Tucker Band,-1,95,1
+96,Never Been Any Reason,Head East,-1,96,1
+97,More And More,Carly Simon,-1,97,1
+98,Hey There Little Firefly Part I,Firefly,-1,98,1
+99,I Don't Want To Be A Lone Ranger,Johnny Guitar Watson,100,99,3
+100,Machines,John Livigni,-1,100,1

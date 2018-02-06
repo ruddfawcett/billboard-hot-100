@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,You Light Up My Life,Debby Boone,1,1,14
+2,Don't It Make My Brown Eyes Blue,Crystal Gayle,2,2,17
+3,How Deep Is Your Love,Bee Gees,3,3,11
+4,"Baby, What A Big Surprise",Chicago,5,4,11
+5,Blue Bayou,Linda Ronstadt,8,5,13
+6,Heaven On The 7th Floor,Paul Nicholas,6,6,16
+7,We're All Alone,Rita Coolidge,7,7,12
+8,Boogie Nights,Heatwave,4,2,20
+9,It's So Easy,Linda Ronstadt,10,9,9
+10,(Every Time I Turn Around) Back In Love Again,LTD,11,10,8
+11,You Make Loving Fun,Fleetwood Mac,13,11,8
+12,We Just Disagree,Dave Mason,12,12,14
+13,Baby Come Back,Player,17,13,10
+14,It's Ecstasy When You Lay Down Next To Me,Barry White,9,4,16
+15,Here You Come Again,Dolly Parton,24,15,8
+16,Sentimental Lady,Bob Welch,21,16,8
+17,Slip Slidin' Away,Paul Simon,22,17,8
+18,Isn't It Time,The Babys,20,18,9
+19,Send In The Clowns,Judy Collins,19,19,22
+20,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,30,20,12
+21,Come Sail Away, Styx,23,21,11
+22,Swingtown,The Steve Miller Band,26,22,8
+23,Your Smiling Face,James Taylor,25,23,10
+24,Gone Too Far,England Dan & John Ford Coley,27,24,10
+25,I Go Crazy,Paul Davis,28,25,15
+26,Nobody Does It Better, Carly Simon,15,2,20
+27,Help Is On Its Way,Little River Band,14,14,18
+28,I Feel Love,Donna Summer,16,6,18
+29,She's Not There,Santana,33,29,9
+30,You're In My Heart (The Final Acclaim),Rod Stewart,38,30,6
+31,We Will Rock You/We Are The Champions,Queen,35,31,7
+32,Hey Deanie,Shaun Cassidy,40,32,4
+33,The Way I Feel Tonight,Bay City Rollers,36,33,8
+34,Dusic,Brick,18,18,14
+35,Serpentine Fire,"Earth, Wind & Fire",39,35,6
+36,Runaround Sue,Leif Garrett,45,36,4
+37,Just Remember I Love You,Firefall,29,11,17
+38,My Way,Elvis Presley,48,38,4
+39,Gettin' Ready For Love,Diana Ross,41,39,5
+40,As,Stevie Wonder,44,40,5
+41,"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",Chic,46,41,6
+42,Draw The Line,Aerosmith,42,42,7
+43,(Love Is) Thicker Than Water,Andy Gibb,53,43,5
+44,Point Of Know Return,Kansas,50,44,4
+45,Don't Ask My Neighbors,The Emotions,47,45,6
+46,Turn To Stone,Electric Light Orchestra,63,46,3
+47,Just The Way You Are,Billy Joel,58,47,4
+48,I Honestly Love You,Olivia Newton-John,52,1,20
+49,Native New Yorker,Odyssey,67,49,4
+50,Don't Let Me Be Misunderstood,Santa Esmeralda Starring Leroy Gomez,61,50,5
+51,That's Rock 'N' Roll,Shaun Cassidy,31,3,20
+52,Short People,Randy Newman,66,52,4
+53,Do Ya Wanna Get Funky With Me,Peter Brown,34,18,12
+54,Calling Occupants Of Interplanetary Craft,Carpenters,32,32,9
+55,Bloat On Featuring the Bloaters,Cheech & Chong,60,55,4
+56,Brick House,Commodores,37,5,15
+57,Star Wars Theme/Cantina Band,Meco,43,1,18
+58,From Graceland To The Promised Land,Merle Haggard,62,58,7
+59,My Fair Share,Seals & Crofts,51,28,14
+60,Girls' School,Wings,71,60,3
+61,Cold As Ice,Foreigner,54,6,20
+62,Keep It Comin' Love,KC And The Sunshine Band,55,2,19
+63,She Did It,Eric Carmen,56,23,15
+64,Emotion,Samantha Sang,75,64,3
+65,If You're Not Back In Love By Monday,Millie Jackson,79,65,3
+66,"Signed, Sealed, Delivered (I'm Yours)",Peter Frampton,59,18,15
+67,Sad Eyes,Brooklyn Dreams,77,67,4
+68,(You're My) Soul And Inspiration,Donny & Marie Osmond,78,68,3
+69,Daybreak,Barry Manilow,49,23,10
+70,Desiree,Neil Diamond,-1,70,1
+71,Peg,Steely Dan,83,71,3
+72,Heaven's Just A Sin Away,The Kendalls,76,72,5
+73,Swayin' To The Music (slow Dancin'),Johnny Rivers,73,10,24
+74,Don't Let The Flame Burn Out,Jackie DeShannon,74,74,6
+75,Sometimes When We Touch,Dan Hill,86,75,2
+76,Thunder In My Heart,Leo Sayer,57,38,9
+77,Still The Lovin' Is Fun,B.J. Thomas,85,77,4
+78,Closer To The Heart,Rush,89,78,2
+79,Kick It Out,Heart,84,79,2
+80,You Light Up My Life,Kacey Cisyk/Original Cast,80,80,4
+81,Mind Bender,Stillwater,82,81,3
+82,Wrap Your Arms Around Me,KC And The Sunshine Band,-1,82,1
+83,What's Your Name,Lynyrd Skynyrd,-1,83,1
+84,Was Dog A Doughnut,Cat Stevens,88,84,3
+85,Grandmother's Song,Steve Martin,-1,85,1
+86,How Can I Leave You Again,John Denver,90,86,2
+87,Street Corner Serenade,Wet Willie,-1,87,1
+88,Ooh Boy,Rose Royce,95,88,2
+89,More Than A Woman,Tavares,91,89,3
+90,Rockaway Beach,Ramones,-1,90,1
+91,Any Way You Want Me,The Sylvers,93,91,2
+92,Le Spank,Le Pamplemousse,92,92,2
+93,Cocomotion,El Coco,97,93,2
+94,Moondance,Van Morrison,94,94,3
+95,Falling,LeBlanc & Carr,100,68,8
+96,"Money, Money, Money",ABBA,64,56,7
+97,Devil's Gun,C.J. & Company,68,36,29
+98,Until Now,Bobby Arvon,-1,98,1
+99,Surfin' USA,Leif Garrett,69,20,15
+100,Breakdown,Tom Petty And The Heartbreakers,65,65,5

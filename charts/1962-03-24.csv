@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hey! Baby,Bruce Channel,1,1,9
+2,Don't Break The Heart That Loves You,Connie Francis,3,2,7
+3,Midnight In Moscow,Kenny Ball and his Jazzmen,2,2,8
+4,Let Me In,The Sensations,4,4,12
+5,Duke Of Earl,Gene Chandler,5,1,11
+6,Dream Baby (How Long Must I Dream),Roy Orbison,18,6,6
+7,Slow Twistin',Chubby Checker (with Dee Dee Sharp),14,7,4
+8,What's Your Name,Don & Juan,7,7,7
+9,Twistin' The Night Away,Sam Cooke,13,9,8
+10,Her Royal Majesty,James Darren,6,6,8
+11,Johnny Angel,Shelley Fabares,28,11,4
+12,Love Letters,Ketty Lester,23,12,5
+13,Crying In The Rain,The Everly Brothers,8,6,11
+14,Good Luck Charm,Elvis Presley With The Jordanaires,51,14,2
+15,She's Got You,Patsy Cline,16,15,9
+16,Young World,Rick Nelson,37,16,4
+17,Percolator (Twist),Billy Joe & The Checkmates,10,10,11
+18,Break It To Me Gently,Brenda Lee,9,4,11
+19,The Wanderer,Dion,11,2,16
+20,Smoky Places,"The Corsairs Featuring Jay ""Bird"" Uzzell",12,12,13
+21,Tuff,Ace Cannon,17,17,13
+22,Please Don't Ask About Barbara,Bobby Vee,35,22,5
+23,Love Me Warm And Tender,Paul Anka,36,23,5
+24,Come Back Silly Girl,The Lettermen,27,24,6
+25,Where Have All The Flowers Gone,The Kingston Trio,25,25,10
+26,Mashed Potato Time,Dee Dee Sharp,32,26,4
+27,Dear Lady Twist,Gary U.S. Bonds,15,9,15
+28,(I've Got) Bonnie,Bobby Rydell,22,22,6
+29,Chip Chip,Gene McDaniels,19,10,10
+30,Jamie,Eddie Holland,31,30,10
+31,My Boomerang Won't Come Back,Charlie Drake,21,21,11
+32,The Twist,Chubby Checker,24,1,37
+33,You Win Again,Fats Domino,39,33,5
+34,Drums Are My Beat,Sandy Nelson,29,29,7
+35,Lover Please,Clyde McPhatter,56,35,4
+36,Cotton Fields,The Highwaymen,30,13,17
+37,I'm Blue (The Gong-Gong Song),The Ikettes,33,19,11
+38,Norman,Sue Thompson,26,3,16
+39,When My Little Girl Is Smiling,The Drifters,52,39,5
+40,"Hey, Let's Twist",Joey Dee & the Starliters,20,20,6
+41,He Knows I Love Him Too Much,The Paris Sisters,34,34,9
+42,You Better Move On,Arthur Alexander,49,42,5
+43,Walk On The Wild Side,Brook Benton,47,43,6
+44,Something's Got A Hold On Me,Etta James,55,44,5
+45,If A Woman Answers (Hang Up The Phone),Leroy Van Dyke,59,45,3
+46,Baby It's You,The Shirelles,40,8,14
+47,Cry To Me,Solomon Burke,44,44,9
+48,Nut Rocker,B. Bumble & The Stingers,62,48,4
+49,She Can't Find Her Keys,Paul Petersen,61,49,4
+50,Dear One,Larry Finnegan,68,50,5
+51,The Alvin Twist,The Chipmunks With David Seville,63,51,4
+52,Cry Baby Cry,The Angels,57,52,6
+53,Pop-Eye,Huey Smith,53,53,6
+54,A Little Bitty Tear,Burl Ives,38,9,14
+55,Peppermint Twist - Part I,Joey Dee & the Starliters,41,1,18
+56,(Do The New) Continental,The Dovells,42,37,9
+57,Twistin' Postman,The Marvelettes,46,34,9
+58,Anything That's Part Of You,Elvis Presley With The Jordanaires,70,58,2
+59,Soul Twist,King Curtis And The Noble Knights,78,59,3
+60,Ginny Come Lately,Brian Hyland,73,60,3
+61,Patti Ann,Johnny Crawford,65,61,4
+62,Cinderella,Jack Ross,83,62,2
+63,Soldier Boy,The Shirelles,-1,63,1
+64,She Cried,Jay & The Americans,75,64,2
+65,I Know (You Don't Love Me No More),Barbara George,48,3,19
+66,Tell Me,Dick and DeeDee,72,66,2
+67,Afrikaan Beat,Bert Kaempfert And His Orchestra,50,42,10
+68,Shout - Part I,Joey Dee & the Starliters,-1,68,1
+69,Stranger On The Shore,Mr. Acker Bilk,80,69,2
+70,Lollipops And Roses,Jack Jones,71,70,4
+71,Our Anniversary,Shep And The Limelites,66,59,6
+72,La Paloma Twist,Chubby Checker,79,72,2
+73,The Jam - Part 1,Bobby Gregg and His Friends,85,73,2
+74,Annie Get Your Yo-Yo,Little Junior Parker,76,74,3
+75,Surfin,The Beach Boys,77,75,6
+76,Yes Indeed,Pete Fountain,69,69,5
+77,Yessiree,Linda Scott ,60,60,7
+78,Roly Poly,Joey Dee & the Starliters,74,74,3
+79,I'll See You In My Dreams,Pat Boone,45,32,9
+80,"Midnight Special, Part 1",Jimmy Smith,82,80,4
+81,Johnny Jingo,Hayley Mills,95,81,2
+82,Two Of A Kind,Sue Thompson,91,82,2
+83,The Ballad Of Thunder Road,Robert Mitchum,86,62,16
+84,A Girl Has To Know,The G-Clefs,87,84,3
+85,Moments,Jennell Hawkins,-1,85,1
+86,The White Rose Of Athens,David Carroll And His Orchestra,88,86,3
+87,Memories Of Maria,Jerry Byrd,90,87,2
+88,Amor,Roger Williams,93,88,3
+89,Chapel By The Sea,Billy Vaughn And His Orchestra,94,89,2
+90,Tra La La La La,Ike & Tina Turner,-1,90,1
+91,What Am I Supposed To Do,Ann-Margret,-1,91,1
+92,The Rains Came,Big Sambo and The House Wreckers,97,92,3
+93,The One Who Really Loves You,Mary Wells,-1,93,1
+94,Shout - Part 1,The Isley Brothers,-1,47,10
+95,Smile,Ferrante & Teicher,98,95,2
+96,Guitar Boogie Shuffle Twist,The Virtues,-1,96,1
+97,(What A Sad Way) To Love Someone,Ral Donner,-1,97,1
+98,Stardust,Frank Sinatra,-1,98,1
+99,The Wonderful World Of The Young,Andy Williams,-1,99,1
+100,You Are Mine,Frankie Avalon,-1,100,1

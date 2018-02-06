@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Le Freak,Chic,2,1,13
+2,Too Much Heaven,Bee Gees,1,1,10
+3,My Life,Billy Joel,3,3,12
+4,Y.M.C.A.,Village People,7,4,14
+5,Hold The Line,Toto,5,5,16
+6,You Don't Bring Me Flowers,Barbra Streisand & Neil Diamond,4,1,13
+7,Ooh Baby Baby,Linda Ronstadt ,8,7,11
+8,A Little More Love,Olivia Newton-John,11,8,9
+9,Promises,Eric Clapton And His Band,10,9,15
+10,Da Ya Think I'm Sexy?,Rod Stewart,22,10,5
+11,Every 1's A Winner,Hot Chocolate,15,11,11
+12,September,"Earth, Wind & Fire",14,12,10
+13,We've Got Tonight,Bob Seger & The Silver Bullet Band,13,13,13
+14,Fire,The Pointer Sisters,19,14,11
+15,Lotta Love,Nicolette Larson,16,15,9
+16,New York Groove,Ace Frehley,17,16,15
+17,Somewhere In The Night,Barry Manilow,27,17,6
+18,I Was Made For Dancin',Leif Garrett,20,18,11
+19,Shake It,Ian Matthews,21,19,10
+20,Sharing The Night Together,Dr. Hook,6,6,19
+21,Soul Man,Blues Brothers,28,21,7
+22,(Our Love) Don't Throw It All Away,Andy Gibb,9,9,15
+23,Got To Be Real,Cheryl Lynn,36,23,8
+24,Don't Hold Back,Chanson,26,24,11
+25,How You Gonna See Me Now,Alice Cooper,12,12,14
+26,Please Come Home For Christmas,Eagles,18,18,7
+27,No Tell Lover,Chicago,38,27,5
+28,The Gambler,Kenny Rogers,32,28,12
+29,Don't Cry Out Loud,Melissa Manchester,33,29,10
+30,Take Me To The River,Talking Heads,34,30,12
+31,A Man I'll Never Be,Boston,31,31,10
+32,Home And Dry,Gerry Rafferty,35,32,8
+33,Shattered,The Rolling Stones,37,33,6
+34,Love Don't Live Here Anymore,Rose Royce,39,34,7
+35,I Will Survive,Gloria Gaynor,49,35,6
+36,Baby I'm Burnin',Dolly Parton,40,36,7
+37,"Blue Morning, Blue Day",Foreigner,46,37,5
+38,One Last Kiss,The J. Geils Band,43,38,10
+39,You Took The Words Right Out Of My Mouth,Meat Loaf,41,39,11
+40,Heaven Knows,Donna Summer With Brooklyn Dreams,77,40,2
+41,You Need A Woman Tonight,Captain & Tennille,44,41,7
+42,Dancin' Shoes,Nigel Olsson,48,42,6
+43,You Thrill Me,Exile,45,43,9
+44,Shake Your Groove Thing,Peaches & Herb,51,44,6
+45,I Don't Wanna Lose You,Daryl Hall John Oates,50,45,7
+46,The Football Card,Glenn Sutton,52,46,3
+47,Radioactive,Gene Simmons,47,47,8
+48,What You Won't Do For Love,Bobby Caldwell,57,48,5
+49,I Love The Nightlife (Disco 'round),Alicia Bridges,23,5,29
+50,Every Time I Think Of You,The Babys,70,50,3
+51,Dancing In The City,Marshall Hain,61,51,7
+52,Lady,Little River Band,78,52,3
+53,You Can Do It,Dobie Gray,63,53,5
+54,My Best Friend's Girl,The Cars,55,35,14
+55,Sing For The Day,Styx,66,55,3
+56,Lost In Your Love,John Paul Young,58,56,7
+57,Dancin' Shoes,Faith Band,59,57,6
+58,This Moment In Time,Engelbert Humperdinck,64,58,5
+59,Bicycle Race/Fat Bottomed Girls,Queen,24,24,11
+60,Stormy,Santana,67,60,3
+61,Moment By Moment,Yvonne Elliman,72,61,5
+62,Time Passages,Al Stewart,25,7,17
+63,Instant Replay,Dan Hartman,29,29,15
+64,I Will Be In Love With You,Livingston Taylor,30,30,14
+65,Haven't Stopped Dancing Yet,Gonzalez,75,65,3
+66,I Just Wanna Stop,Gino Vannelli,42,4,20
+67,I'm Every Woman,Chaka Khan,54,21,16
+68,Free Me From My Freedom/Tie Me To A Tree (Handcuff Me),Bonnie Pointer,79,68,10
+69,You Make Me Feel (Mighty Real),Sylvester,85,69,2
+70,Who Do Ya Love,KC And The Sunshine Band,81,70,6
+71,A Little Lovin' (Keeps The Doctor Away),The Raes,82,71,6
+72,Crazy Love,Poco,-1,72,1
+73,What A Fool Believes,The Doobie Brothers,-1,73,1
+74,Lonely Wind,Kansas,-1,74,1
+75,You Stepped Into My Life,Melba Moore,-1,75,1
+76,Get Down,Gene Chandler,80,76,3
+77,I Go To Rio,Pablo Cruise,88,77,2
+78,"Pops, We Love You (A Tribute To Father)","Diana Ross, Marvin Gaye, Smokey Robinson & Stevie Wonder",-1,78,1
+79,I Don't Know If It's Right,"Evelyn ""Champagne"" King",83,79,3
+80,Superman,Herbie Mann,90,80,2
+81,Chip Away The Stone,Aerosmith,-1,81,1
+82,Silver Lining,Player,62,62,6
+83,Take That To The Bank,Shalamar,87,83,2
+84,Not Fade Away,Tanya Tucker,-1,84,1
+85,Mary's Boy Child / Oh My Lord,Boney M,86,85,5
+86,Run Home Girl,Sad Cafe,89,86,2
+87,Every Which Way But Loose,Eddie Rabbitt,-1,87,1
+88,"Goodbye, I Love You",Firefall,-1,88,1
+89,Our Love Is Insane,Desmond Child And Rouge,-1,89,1
+90,Chase,Giorgio Moroder,-1,90,1
+91,The Dream Never Dies,Cooper Brothers,53,48,13
+92,Double Vision,Foreigner,65,2,18
+93,Mary Jane,Rick James,68,41,12
+94,Easy Driver,Kenny Loggins,60,60,8
+95,Strange Way,Firefall,69,11,17
+96,How Much I Feel,Ambrosia,71,3,21
+97,MacArthur Park,Donna Summer,56,1,20
+98,"Hold Me, Touch Me",Paul Stanley,97,46,12
+99,Animal House,Stephen Bishop,73,73,5
+100,Straight On,Heart,74,15,18

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Tighten Up,Archie Bell & The Drells,2,1,8
+2,Mrs. Robinson,Simon & Garfunkel,9,2,4
+3,Honey,Bobby Goldsboro,1,1,9
+4,"The Good, The Bad And The Ugly","Hugo Montenegro, His Orchestra And Chorus",4,4,14
+5,A Beautiful Morning,The Rascals,6,5,6
+6,Cowboys To Girls,The Intruders,7,6,9
+7,Love Is All Around,The Troggs,11,7,13
+8,The Unicorn,The Irish Rovers,8,8,9
+9,Young Girl,The Union Gap Featuring Gary Puckett,3,2,12
+10,Do You Know The Way To San José,Dionne Warwick,19,10,6
+11,Shoo-Be-Doo-Be-Doo-Da-Day,Stevie Wonder,20,11,7
+12,Cry Like A Baby,The Box Tops,5,2,12
+13,Take Time To Know Her,Percy Sledge,13,13,10
+14,Ain't Nothing Like The Real Thing,Marvin Gaye & Tammi Terrell,24,14,6
+15,Lady Madonna,The Beatles,10,4,9
+16,Summertime Blues, Blue Cheer,15,14,12
+17,I Got The Feelin',James Brown And The Famous Flames,12,6,10
+18,Funky Street,Arthur Conley,14,14,10
+19,Mony Mony,Tommy James And The Shondells,22,19,7
+20,Like To Get To Know You,Spanky And Our Gang,45,20,5
+21,Ain't No Way,Aretha Franklin,16,16,7
+22,She's Lookin' Good,Wilson Pickett,30,22,6
+23,Soul Serenade,Willie Mitchell,23,23,11
+24,Sweet Inspiration,The Sweet Inspirations,18,18,12
+25,I Could Never Love Another (After Loving You),The Temptations,56,25,3
+26,Delilah,Tom Jones,27,26,10
+27,The Happy Song (Dum-Dum),Otis Redding ,37,27,4
+28,I Will Always Think About You,The New Colony Six,29,28,8
+29,If I Were A Carpenter,Four Tops,36,29,4
+30,Does Your Mama Know About Me,Bobby Taylor & The Vancouvers,46,30,5
+31,Master Jack,Four Jacks And A Jill,43,31,8
+32,Yummy Yummy Yummy,Ohio Express,62,32,3
+33,Dance To The Music,Sly & The Family Stone,21,8,15
+34,The Ballad Of Bonnie And Clyde,Georgie Fame,17,7,14
+35,(Sweet Sweet Baby) Since You've Been Gone,Aretha Franklin,25,5,12
+36,My Girl/Hey Girl,Bobby Vee,48,36,5
+37,Take Good Care Of My Baby,Bobby Vinton,34,33,8
+38,Playboy,Gene And Debbe,26,17,14
+39,The Unknown Soldier,The Doors,39,39,8
+40,Jennifer Eccles,The Hollies,41,40,10
+41,U.S. Male,Elvis Presley With The Jordanaires,28,28,9
+42,Call Me Lightning,The Who,40,40,8
+43,The Son Of Hickory Holler's Tramp,O.C. Smith,42,40,13
+44,I Wanna Live,Glen Campbell,54,44,7
+45,Wear It On Our Face,The Dells,53,45,6
+46,I'm Sorry,The Delfonics,69,46,4
+47,Friends,The Beach Boys,55,47,5
+48,MacArthur Park,Richard Harris,79,48,2
+49,Look To Your Soul,Johnny Rivers,49,49,7
+50,I Love You,People,61,50,7
+51,I Can Remember,James & Bobby Purify,78,51,4
+52,Paying The Cost To Be The Boss,B.B. King,52,52,5
+53,A Man Without Love (Quando M'innamoro),Engelbert Humperdinck,87,53,2
+54,How'd We Ever Get This Way,Andy Kim,80,54,3
+55,Angel Of The Morning,Merrilee Rush & The Turnabouts,83,55,3
+56,Unwind,Ray Stevens,71,56,5
+57,If You Don't Want My Love,Robert John,64,57,6
+58,Loving You Has Made Me Bananas,Guy Marks,51,51,6
+59,Foggy Mountain Breakdown,Flatt & Scruggs,58,55,12
+60,The Look Of Love,Sergio Mendes & Brasil '66,77,60,2
+61,(You Keep Me) Hangin' On,Joe Simon,73,61,6
+62,Never Give You Up,Jerry Butler,85,62,3
+63,We're Rolling On (Part I),The Impressions,59,59,5
+64,Baby Make Your Own Sweet Music,Jay And The Techniques,65,64,6
+65,She's A Heartbreaker,Gene Pitney,100,65,2
+66,I Promise To Wait My Love,Martha Reeves & The Vandellas,66,66,5
+67,Think,Aretha Franklin,-1,67,1
+68,Impossible Mission (Mission Impossible),Soul Survivors,68,68,5
+69,May I Take A Giant Step (Into Your Heart),1910 Fruitgum Co.,75,69,5
+70,Jelly Jungle (Of Orange Marmalade),Lemon Pipers,-1,70,1
+71,Love In Every Room,Paul Mauriat And His Orchestra,81,71,2
+72,This Guy's In Love With You,Herb Alpert,-1,72,1
+73,Time For Livin',The Association,-1,73,1
+74,I Got A Sure Thing,Ollie & The Nightingales,74,74,7
+75,Brooklyn Roads,Neil Diamond,98,75,2
+76,Cabaret,Herb Alpert & The Tijuana Brass,76,76,5
+77,I Wish I Knew (How It Would Feel To Be Free),Solomon Burke,88,77,3
+78,You Ain't Going Nowhere,The Byrds,93,78,2
+79,Anyone For Tennis,Cream,99,79,2
+80,Sleepy Joe,Herman's Hermits,95,80,2
+81,I'll Never Do You Wrong,Joe Tex,-1,81,1
+82,Here's To You,Hamilton Camp,82,82,3
+83,Tip-Toe Thru' The Tulips With Me,Tiny Tim,-1,83,1
+84,My Shy Violet,The Mills Brothers,-1,84,1
+85,Chain Gang,Jackie Wilson & Count Basie,86,85,4
+86,A Tribute To A King,William Bell,89,86,4
+87,Gentle On My Mind,Patti Page,84,66,15
+88,I Got You Babe,Etta James,-1,88,1
+89,United,Peaches & Herb,-1,89,1
+90,Soul Train,Classics IV,90,90,3
+91,I Have A Dream,"Rev. Martin Luther King, Jr.",91,91,3
+92,He Don't Really Love You,The Delfonics,92,92,3
+93,Lili Marlene,Al Martino,94,93,4
+94,Apologize,Ed Ames,97,94,2
+95,"Face It Girl, It's Over",Nancy Wilson,96,95,2
+96,It's Over,Eddy Arnold,-1,96,1
+97,Reach Out Of The Darkness,Friend And Lover,-1,97,1
+98,I Can't Make It Alone,Bill Medley,-1,98,1
+99,Pictures Of Matchstick Men,The Status Quo,-1,99,1
+100,The Doctor,Mary Wells,-1,100,1

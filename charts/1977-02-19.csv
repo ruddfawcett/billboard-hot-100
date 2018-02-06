@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Blinded By The Light,Manfred Mann's Earth Band,3,1,14
+2,New Kid In Town,Eagles,2,2,10
+3,Torn Between Two Lovers,Mary Macgregor,1,1,14
+4,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,5,4,11
+5,I Like Dreamin',Kenny Nolan,9,5,16
+6,Enjoy Yourself,The Jacksons,7,6,15
+7,Car Wash,Rose Royce,4,1,18
+8,Fly Like An Eagle,Steve Miller,11,8,10
+9,Lost Without Your Love,Bread,10,9,13
+10,Night Moves,Bob Seger,14,10,11
+11,Weekend In New England,Barry Manilow,13,11,13
+12,I Wish,Stevie Wonder,8,1,12
+13,Year Of The Cat,Al Stewart,15,13,11
+14,Dancing Queen,ABBA,16,14,11
+15,Dazz,Brick,6,3,18
+16,Hard Luck Woman,KISS,17,16,10
+17,Go Your Own Way,Fleetwood Mac,20,17,7
+18,Boogie Child,Bee Gees,22,18,6
+19,Don't Leave Me This Way,Thelma Houston,24,19,10
+20,You Make Me Feel Like Dancing,Leo Sayer,19,1,18
+21,Rich Girl,Daryl Hall John Oates,28,21,5
+22,Save It For A Rainy Day,Stephen Bishop,25,22,11
+23,The Things We Do For Love,10cc,27,23,7
+24,Hot Line,The Sylvers,12,5,20
+25,Carry On Wayward Son,Kansas,30,25,9
+26,Walk This Way,Aerosmith,18,10,14
+27,Living Next Door To Alice,Smokie,29,27,12
+28,Long Time,Boston,32,28,4
+29,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",26,1,24
+30,Jeans On,David Dundas,23,17,20
+31,Don't Give Up On Us,David Soul,46,31,4
+32,Somebody To Love,Queen,31,13,13
+33,After The Lovin',Engelbert Humperdinck,33,8,18
+34,Crackerbox Palace,George Harrison,39,34,4
+35,Moody Blue/she Thinks I Still Care,Elvis Presley,37,35,9
+36,Say You'll Stay Until Tomorrow,Tom Jones,40,36,7
+37,Maybe I'm Amazed,Wings,59,37,2
+38,Here Come Those Tears Again,Jackson Browne,48,38,3
+39,Fancy Dancer,Commodores,42,39,7
+40,Sam,Olivia Newton-John,50,40,4
+41,Bite Your Lip (Get up and dance!),Elton John,56,41,2
+42,I Just Can't Say No To You,Parker McGee,52,42,5
+43,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,44,27,16
+44,Saturday Nite,"Earth, Wind & Fire ",34,21,14
+45,Tonight's The Night (Gonna Be Alright),Rod Stewart,35,1,21
+46,The First Cut Is The Deepest,Rod Stewart,77,46,2
+47,So In To You,Atlanta Rhythm Section,60,47,4
+48,Stand Tall,Burton Cummings,36,10,20
+49,Free,Deniece Williams,54,49,11
+50,I've Got Love On My Mind,Natalie Cole,62,50,4
+51,Ha Cha Cha (funktion),Brass Construction,53,51,9
+52,In The Mood,Henhouse Five Plus Too,41,40,7
+53,Livin' Thing,Electric Light Orchestra,38,13,18
+54,Right Time Of The Night,Jennifer Warnes,69,54,4
+55,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,66,55,7
+56,Reach,Orleans,63,56,4
+57,Do Ya,Electric Light Orchestra,72,57,3
+58,Baby Don't You Know,Wild Cherry,43,43,6
+59,Be My Girl,The Dramatics,61,59,7
+60,Gloria,Enchantment,71,60,4
+61,Feel The Beat (Everybody Disco),Ohio Players,68,61,4
+62,Kong,Dickie Goodman,73,62,3
+63,Love So Right,Bee Gees,57,3,23
+64,Spring Rain,Silvetti,75,64,5
+65,Daddy Cool,Boney M,65,65,5
+66,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,86,66,2
+67,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,21,21,13
+68,Somethin' 'bout 'cha,Latimore,78,68,3
+69,Dreamboat Annie,Heart,45,42,10
+70,I'll Always Call Your Name,Little River Band,80,70,3
+71,When Love Is New,Arthur Prysock,64,64,9
+72,All Strung Out On You,John Travolta,-1,72,1
+73,Dedication,Bay City Rollers,85,73,2
+74,I Don't Wanna Lose Your Love/Flowers,The Emotions,76,74,6
+75,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,-1,75,1
+76,Theme From King Kong (Pt. I),Love Unlimited Orchestra,82,76,5
+77,Spring Affair/Winter Melody,Donna Summer,88,47,10
+78,Sorry/That's The Trouble,Grace Jones,87,78,5
+79,Too Hot To Stop (Pt. 1),The Bar-Kays,89,79,2
+80,Reaching For The World,Harold Melvin And The Blue Notes,90,80,2
+81,Here Is Where Your Love Belongs,The Sons Of Champlin,81,81,3
+82,Look Into Your Heart,Aretha Franklin,84,82,3
+83,Race Among The Ruins,Gordon Lightfoot,-1,83,1
+84,I'm Scared,Burton Cummings,-1,84,1
+85,Tryin' To Love Two,William Bell,-1,85,1
+86,Southern Nights,Glen Campbell,96,86,2
+87,Welcome To Our World (Of Merry Music),Mass Production,-1,87,1
+88,"N.y., You Got Me Dancing",Andrea True Connection,-1,88,1
+89,I Like To Do It,KC And The Sunshine Band,47,37,12
+90,Angel In Your Arms,Hot,-1,90,1
+91,Dancin',Crown Heights Affair,-1,91,1
+92,You Know Like I Know,Ozark Mountain Daredevils,93,79,5
+93,Dreamin,Loleatta Holloway,95,93,3
+94,Couldn't Get It Right,Climax Blues Band,-1,94,1
+95,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,-1,95,1
+96,Ashes And Sand,Johnny Rivers,97,96,3
+97,My Pearl,Automatic Man,99,97,2
+98,What Can I Say,Boz Scaggs,55,42,14
+99,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",98,82,5
+100,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,67,56,6

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Shadow Dancing,Andy Gibb,1,1,16
+2,Baker Street,Gerry Rafferty,2,2,15
+3,Miss You,The Rolling Stones,3,3,10
+4,Last Dance,Donna Summer,5,4,12
+5,Grease,Frankie Valli,6,5,10
+6,Three Times A Lady,Commodores,10,6,7
+7,Still The Same,Bob Seger & The Silver Bullet Band,4,4,12
+8,Use Ta Be My Girl,The O'Jays,8,4,14
+9,The Groove Line,Heatwave,7,7,13
+10,Love Will Find A Way,Pablo Cruise,11,10,9
+11,Hot Blooded,Foreigner,14,11,5
+12,Runaway,Jefferson Starship,13,12,10
+13,Copacabana (at The Copa),Barry Manilow,15,13,8
+14,Life's Been Good,Joe Walsh,17,14,8
+15,My Angel Baby,Toby Beau,18,15,9
+16,Magnet And Steel,Walter Egan,20,16,10
+17,Take A Chance On Me,ABBA,9,3,15
+18,I'm Not Gonna Let It Bother Me Tonight,Atlanta Rhythm Section,21,18,8
+19,It's A Heartache,Bonnie Tyler,12,3,19
+20,Dance With Me,Peter Brown With Betty Wright,16,8,22
+21,Bluer Than Blue,Michael Johnson,19,12,15
+22,FM (No Static At All),Steely Dan,23,22,9
+23,Stay/The Load-Out,Jackson Browne,27,23,8
+24,King Tut,Steve Martin And The Toot Uncommons,26,24,10
+25,Songbird,Barbra Streisand,25,25,7
+26,Hopelessly Devoted To You,Olivia Newton-John,35,26,4
+27,I've Had Enough,Wings,30,27,7
+28,Boogie Oogie Oogie,A Taste Of Honey,36,28,6
+29,An Everlasting Love,Andy Gibb,40,29,3
+30,Can We Still Be Friends,Todd Rundgren,32,30,10
+31,Thank God It's Friday,Love And Kisses,22,22,13
+32,Love Or Something Like It,Kenny Rogers,34,32,9
+33,Shame,"Evelyn ""Champagne"" King",37,33,7
+34,Stuff Like That,Quincy Jones,38,34,8
+35,You,Rita Coolidge,43,35,5
+36,Fool If You Think It's Over,Chris Rea,49,36,4
+37,Rivers Of Babylon,Boney M,39,37,9
+38,Two Tickets To Paradise,Eddie Money,46,38,6
+39,Mr. Blue Sky,Electric Light Orchestra,44,39,6
+40,Macho Man,Village People,48,40,6
+41,You're A Part Of Me,Gene Cotton With Kim Carnes,41,41,7
+42,I Need To Know,Tom Petty And The Heartbreakers,45,42,7
+43,Kiss You All Over,Exile,55,43,4
+44,You're The One That I Want,John Travolta & Olivia Newton-John,31,1,18
+45,Hot Child In The City,Nick Gilder,52,45,8
+46,You And I,Rick James,56,46,5
+47,Two Out Of Three Ain't Bad,Meat Loaf,28,11,20
+48,Wonderful Tonight, Eric Clapton,29,16,12
+49,If Ever I See You Again,Roberta Flack,24,24,11
+50,Just What I Needed,The Cars,60,50,7
+51,Prove It All Night,Bruce Springsteen,33,33,8
+52,Close The Door,Teddy Pendergrass,63,52,4
+53,You Don't Love Me Anymore,Eddie Rabbitt,54,53,6
+54,Love Is In The Air,John Paul Young,66,54,3
+55,I Can't Stand The Rain,Eruption,42,18,21
+56,You Belong To Me,Carly Simon,50,6,16
+57,Love Is Like Oxygen,Sweet,51,8,24
+58,Only The Good Die Young,Billy Joel,58,24,12
+59,Follow You Follow Me,Genesis,53,23,15
+60,Will You Still Love Me Tomorrow,Dave Mason,62,39,9
+61,That Once In A Lifetime,Demis Roussos,47,47,9
+62,Because The Night,Patti Smith Group,61,13,17
+63,Only One Love In My Life,Ronnie Milsap,65,63,5
+64,I Love The Nightlife (Disco 'round),Alicia Bridges,74,64,4
+65,"Hot Love, Cold World",Bob Welch,57,31,9
+66,Chattanooga Choo Choo,Tuxedo Junction,64,32,15
+67,Never Let Her Slip Away,Andrew Gold,67,67,7
+68,You Needed Me,Anne Murray,78,68,3
+69,Got To Get You Into My Life,"Earth, Wind & Fire",80,69,2
+70,Time For Me To Fly,REO Speedwagon,81,70,2
+71,Think It Over,Cheryl Ladd,87,71,2
+72,Ain't Nothing Gonna Keep Me From You,Teri DeSario,77,72,5
+73,Surrender,Cheap Trick,84,73,2
+74,Ready Or Not,Helen Reddy,79,74,3
+75,A Rock 'N' Roll Fantasy,The Kinks,92,75,2
+76,Get Off,Foxy,86,76,2
+77,Runaway Love,Linda Clifford,76,76,5
+78,He's So Fine,Kristy And Jimmy McNichol,90,78,2
+79,"Love Theme From ""Eyes Of Laura Mars"" (Prisoner)",Barbra Streisand,-1,79,1
+80,I Can't Wait Any Longer,Bill Anderson,83,80,3
+81,Reminiscing,Little River Band,-1,81,1
+82,If You Wanna Do A Dance,The Spinners,-1,82,1
+83,Talking In Your Sleep,Crystal Gayle,-1,83,1
+84,You're All I Need To Get By,Johnny Mathis & Deniece Williams,-1,84,1
+85,Break It To Them Gently,Burton Cummings,88,85,3
+86,On The Strip,Paul Nicholas,-1,86,1
+87,Wild In The Streets,British Lions,89,87,2
+88,Steppin' In A Slide Zone,The Moody Blues,-1,88,1
+89,Rumor At The Honky Tonk,Spellbound,-1,89,1
+90,"Whenever I Call You ""Friend""",Kenny Loggins,-1,90,1
+91,Makin' Love,Climax Blues Band,91,91,4
+92,Daylight And Darkness,Smokey Robinson,75,75,8
+93,Flyin',Prism,93,93,2
+94,It's Really You,The Tarney/Spencer Band,94,94,2
+95,Dance Across The Floor,"Jimmy ""Bo"" Horne",95,38,18
+96,New Orleans Ladies,Louisiana's Le Roux,59,59,6
+97,You're The Love,Seals & Crofts,69,18,16
+98,Even Now,Barry Manilow,71,19,13
+99,"Too Much, Too Little, Too Late",Johnny Mathis/Deniece Williams,72,1,18
+100,Feels So Good,Chuck Mangione,73,4,25

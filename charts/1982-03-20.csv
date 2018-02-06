@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Love Rock 'N Roll,Joan Jett & the Blackhearts,3,1,7
+2,Open Arms,Journey,2,2,10
+3,Centerfold,The J. Geils Band,1,1,20
+4,That Girl,Stevie Wonder,5,4,10
+5,Sweet Dreams,Air Supply,6,5,15
+6,We Got The Beat,Go-Go's,7,6,8
+7,Make A Move On Me,Olivia Newton-John,17,7,6
+8,"Mirror, Mirror",Diana Ross,8,8,11
+9,Shake It Up,The Cars,4,4,18
+10,Pac-Man Fever,Buckner & Garcia,12,10,11
+11,Spirits In The Material World,The Police,11,11,10
+12,Bobbie Sue,The Oak Ridge Boys,14,12,10
+13,Key Largo,Bertie Higgins,16,13,19
+14,Chariots Of Fire - Titles,Vangelis,18,14,15
+15,Leader Of The Band,Dan Fogelberg,9,9,17
+16,Take It Easy On Me,Little River Band,10,10,16
+17,Should I Do It,The Pointer Sisters,19,17,9
+18,Freeze-frame,The J. Geils Band,29,18,5
+19,Take Off,Bob & Doug McKenzie ,22,19,8
+20,Tonight I'm Yours (Don't Hurt Me),Rod Stewart,21,20,9
+21,Do You Believe In Love,Huey Lewis & The News,23,21,7
+22,(oh) Pretty Woman,Van Halen,30,22,7
+23,Daddy's Home,Cliff Richard,24,23,10
+24,Don't Talk To Strangers,Rick Springfield,36,24,3
+25,Edge Of Seventeen (Just Like The White Winged Dove),Stevie Nicks,31,25,5
+26,One Hundred Ways,Quincy Jones Featuring James Ingram,28,26,14
+27,When All Is Said And Done,ABBA,27,27,11
+28,My Guy,Sister Sledge,32,28,8
+29,Through The Years,Kenny Rogers,13,13,13
+30,Find Another Fool,Quarterflash,40,30,6
+31,Juke Box Hero,Foreigner,35,31,6
+32,On The Way To The Sky,Neil Diamond,37,32,6
+33,Tell Me Tomorrow - Part I,Smokey Robinson,34,33,10
+34,867-5309/jenny,Tommy Tutone,38,34,9
+35,Nobody Said It Was Easy (Lookin' For The Lights),Le Roux,41,35,6
+36,'65 Love Affair,Paul Davis,47,36,4
+37,Love In The First Degree,Alabama,15,15,19
+38,Goin' Down,Greg Guidry,51,38,6
+39,Don't Let Him Know,Prism,39,39,8
+40,Just Can't Win 'em All,Stevie Woods,42,40,9
+41,Baby Makes Her Blue Jeans Talk,Dr. Hook,50,41,4
+42,Anyone Can See,Irene Cara,44,42,16
+43,I'll Fall In Love Again,Sammy Hagar,43,43,8
+44,Another Sleepless Night,Anne Murray,45,44,8
+45,Theme From Magnum P.i.,Mike Post,48,45,7
+46,Pop Goes The Movies Part I,Meco,49,46,6
+47,I Can't Go For That (No Can Do),Daryl Hall John Oates,20,1,19
+48,Harden My Heart,Quarterflash,25,3,23
+49,Mama Used To Say,Junior,55,49,6
+50,Call Me,Skyy,26,26,10
+51,Genius Of Love,Tom Tom Club,53,51,9
+52,You Could Have Been With Me,Sheena Easton,52,15,17
+53,Shine On,George Duke,59,53,5
+54,Memory,Barbra Streisand,62,54,5
+55,I Believe,Chilliwack,33,33,10
+56,Physical,Olivia Newton-John,46,1,25
+57,Apache,Sugarhill Gang,58,57,6
+58,Get Down On It,Kool & The Gang,68,58,4
+59,I've Never Been To Me,Charlene,75,59,6
+60,Making Love,Roberta Flack,70,60,3
+61,Never Give Up On A Good Thing,George Benson,65,61,5
+62,Somewhere Down The Road,Barry Manilow,54,21,14
+63,Don't Let Me In,Sneaker,73,63,4
+64,Summer Nights,Survivor,67,64,5
+65,The Sweetest Thing (I've Ever Known),Juice Newton,56,7,23
+66,Did It In A Minute,Daryl Hall John Oates,-1,66,1
+67,Don't You Want Me,The Human League,77,67,3
+68,Shanghai Breezes,John Denver,78,68,3
+69,Always On My Mind,Willie Nelson,79,69,3
+70,I'll Try Something New,A Taste Of Honey,80,70,2
+71,Abacab,Genesis,57,26,13
+72,Memories Of Days Gone By,Fred Parris & The Five Satins,72,72,4
+73,If I Had My Wish Tonight,David Lasley,82,73,2
+74,All Our Tomorrows,Eddie Schwartz,60,28,15
+75,On A Carousel,Glass Moon,83,75,2
+76,Turn Your Love Around,George Benson,61,5,22
+77,The Other Woman,Ray Parker Jr.,-1,77,1
+78,Hang Fire,The Rolling Stones,-1,78,1
+79,Empty Garden (Hey Hey Johnny),Elton John,-1,79,1
+80,Tainted Love,Soft Cell,90,64,10
+81,Let's Hang On,Barry Manilow,-1,81,1
+82,Man On The Corner,Genesis,-1,82,1
+83,Don't Stop Me Baby (I'm On Fire),The Boys Band,87,83,3
+84,Lonely Nights,Bryan Adams,88,84,2
+85,If Looks Could Kill,Player,63,48,9
+86,Let The Feeling Flow,Peabo Bryson,64,42,11
+87,Working For The Weekend,Loverboy,66,29,19
+88,Only One You,T.G. Sheppard,69,68,8
+89,Sleepwalk,Larry Carlton,74,74,4
+90,Make Up Your Mind,Aurra,-1,90,1
+91,Our Lips Are Sealed,Go-Go's,86,20,30
+92,Over The Line,Eddie Schwartz,-1,92,1
+93,Sad Girl,GQ,93,93,2
+94,Love Is Alright Tonite,Rick Springfield,76,20,16
+95,If I Could Get You (into my Life),Gene Cotton,96,95,2
+96,All Night With Me,Laura Branigan,-1,96,1
+97,"You're My Latest, My Greatest Inspiration",Teddy Pendergrass,81,43,11
+98,Love Is Like A Rock,Donnie Iris,85,37,14
+99,The Longer You Wait,Gino Vannelli,89,89,3
+100,Running,Chubby Checker,91,91,5

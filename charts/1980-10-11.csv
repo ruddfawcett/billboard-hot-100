@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Another One Bites The Dust,Queen,1,1,9
+2,Woman In Love,Barbra Streisand,7,2,6
+3,Upside Down,Diana Ross,3,1,14
+4,All Out Of Love,Air Supply,2,2,18
+5,Drivin' My Life Away,Eddie Rabbitt,5,5,17
+6,Late In The Evening,Paul Simon,6,6,10
+7,I'm Alright,Kenny Loggins,8,7,14
+8,Xanadu,Olivia Newton-John/Electric Light Orchestra,10,8,10
+9,Real Love,The Doobie Brothers,11,9,6
+10,Give Me The Night,George Benson,4,4,15
+11,Lookin' For Love,Johnny Lee,9,5,14
+12,He's So Shy,The Pointer Sisters,15,12,12
+13,All Over The World,Electric Light Orchestra,13,13,11
+14,Never Knew Love Like This Before,Stephanie Mills,17,14,10
+15,Hot Rod Hearts,Robbie Dupree,16,15,13
+16,Jesse,Carly Simon,18,16,11
+17,Look What You've Done To Me,Boz Scaggs,20,17,8
+18,The Wanderer,Donna Summer,21,18,4
+19,Fame,Irene Cara,12,4,18
+20,Lady,Kenny Rogers,39,20,2
+21,I'm Coming Out,Diana Ross,34,21,6
+22,How Do I Survive,Amy Holland,24,22,10
+23,No Night So Long,Dionne Warwick,23,23,12
+24,Dreaming,Cliff Richard,26,24,5
+25,Midnight Rocks,Al Stewart,27,25,7
+26,Dreamer,Supertramp,33,26,4
+27,Master Blaster (Jammin'),Stevie Wonder,32,27,4
+28,On The Road Again,Willie Nelson,30,28,6
+29,Who'll Be The Fool Tonight, Larsen-Feiten Band,31,29,9
+30,You'll Accomp'ny Me,Bob Seger,14,14,12
+31,Whip It,Devo,37,31,7
+32,The Legend Of Wooley Swamp,The Charlie Daniels Band,35,32,9
+33,Out Here On My Own,Irene Cara,36,33,9
+34,You've Lost That Lovin' Feeling,Daryl Hall John Oates,41,34,3
+35,Don't Ask Me Why,Billy Joel,19,19,11
+36,I'm Almost Ready,Pure Prairie League,38,36,8
+37,Let Me Be Your Angel,Stacy Lattisaw,40,37,10
+38,Lovely One,The Jacksons,45,38,3
+39,Touch And Go,The Cars,43,39,6
+40,Walk Away,Donna Summer,42,40,5
+41,Could I Have This Dance,Anne Murray,44,41,6
+42,One In A Million You,Larry Graham,22,9,16
+43,She's So Cold,The Rolling Stones,48,43,3
+44,That Girl Could Sing,Jackson Browne,49,44,4
+45,More Than I Can Say,Leo Sayer,60,45,3
+46,Let Me Talk,"Earth, Wind & Fire",50,46,4
+47,You Shook Me All Night Long,AC/DC,51,47,6
+48,Without Your Love,Roger Daltrey,54,48,5
+49,Emotional Rescue,The Rolling Stones,29,3,15
+50,Someone That I Used To Love,Natalie Cole,28,21,17
+51,My Prayer,"Ray, Goodman & Brown",47,47,8
+52,Live Every Minute,Ali Thomson,57,52,5
+53,You're The Only Woman (You & I),Ambrosia,25,13,14
+54,Can't We Try,Teddy Pendergrass,52,52,7
+55,Hit Me With Your Best Shot,Pat Benatar,73,55,2
+56,Switchin' To Glide/This Beat Goes On,The Kings,56,56,8
+57,Hold On,Kansas,68,57,4
+58,Angeline,The Allman Brothers Band,59,58,5
+59,Heroes,Commodores,64,59,4
+60,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,67,60,5
+61,(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?,Elton John,46,39,10
+62,Cry Like A Baby,Kim Carnes,72,62,2
+63,If You Should Sail,Nielsen/Pearson,69,63,5
+64,This Time,John Cougar,74,64,3
+65,"Girl, Don't Let It Get You Down",The O'Jays,55,55,8
+66,Turning Japanese,The Vapors,76,66,3
+67,I Got You,Split Enz,53,53,8
+68,Turn It On Again,Genesis,58,58,6
+69,I'm Happy That Love Has Found You,Jimmy Hall,79,69,3
+70,Case Of You,Frank Stallone,80,70,3
+71,Magic,Olivia Newton-John,65,1,21
+72,Sailing,Christopher Cross,62,1,18
+73,Into The Night,Benny Mardones,66,11,18
+74,Games Without Frontiers,Peter Gabriel,61,48,9
+75,Never Be The Same,Christopher Cross,-1,75,1
+76,My Guy/My Girl,Amii Stewart & Johnny Bristol,63,63,7
+77,Take Your Time (Do It Right) Part 1,The S.O.S. Band,71,3,20
+78,Sometimes A Fantasy,Billy Joel,-1,78,1
+79,I Believe In You,Don Williams,89,79,3
+80,Boulevard,Jackson Browne,75,19,15
+81,Love Theme From Shogun (Mariko's Theme),Meco,-1,81,1
+82,A Little Is Enough,Pete Townshend,-1,82,1
+83,Who Were You Thinkin' Of,The Doolittle Band,-1,83,1
+84,Red Light,Linda Clifford,78,41,10
+85,Everybody's Got To Learn Sometime,The Korgis,-1,85,1
+86,I Could Be Good For You,707,-1,86,1
+87,I've Just Begun To Love You,Dynasty,88,87,5
+88,Midnight Rain,Poco,-1,88,1
+89,Let My Love Open The Door,Pete Townshend,70,9,18
+90,Thunder And Lightning,Chicago ,82,56,8
+91,Good Morning Girl/stay Awhile,Journey,81,55,8
+92,The Breaks (Part 1),Kurtis Blow,92,87,6
+93,One Life To Live,Wayne Massey,-1,93,1
+94,Hey There Lonely Girl,Robert John,91,31,13
+95,More Bounce To The Ounce Part I,Zapp,97,95,2
+96,Shining Star, The Manhattans,94,5,25
+97,It's Still Rock And Roll To Me,Billy Joel,77,1,21
+98,How Does It Feel To Be Back,Daryl Hall John Oates,84,30,13
+99,I Love Women,Jim Hurt,-1,99,1
+100,The Part Of Me That Needs You Most,Jay Black,98,98,4

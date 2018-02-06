@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,American Pie (Parts I & II),Don McLean,1,1,10
+2,Brand New Key,Melanie,2,1,14
+3,Let's Stay Together,Al Green,3,3,9
+4,Sunshine,Jonathan Edwards,4,4,12
+5,Day After Day,Badfinger,5,5,9
+6,Clean Up Woman,Betty Wright,8,6,10
+7,Scorpio,Dennis Coffey & The Detroit Guitar Band,6,6,14
+8,Never Been To Spain,Three Dog Night,11,8,6
+9,You Are Everything,The Stylistics,9,9,13
+10,Sugar Daddy,Jackson 5,10,10,8
+11,Drowning In The Sea Of Love,Joe Simon,12,11,10
+12,I'd Like To Teach The World To Sing (In Perfect Harmony),The New Seekers ,7,7,9
+13,Hurting Each Other,Carpenters,38,13,3
+14,Without You,Nilsson,21,14,7
+15,Joy,Apollo featuring Tom Parker,35,15,5
+16,Precious And Few,Climax,34,16,5
+17,Anticipation,Carly Simon,18,17,8
+18,Family Affair,Sly & The Family Stone,14,1,13
+19,I'd Like To Teach The World To Sing (In Perfect Harmony),The Hillside Singers,13,13,10
+20,It's One Of Those Nights (Yes Love),The Partridge Family Starring Shirley Jones Featuring David Cassidy,20,20,7
+21,Stay With Me,Faces,26,21,5
+22,Kiss An Angel Good Mornin',Charley Pride,22,22,11
+23,Black Dog,Led Zeppelin,27,23,6
+24,The Witch Queen Of New Orleans,Redbone,25,24,11
+25,Levon,Elton John,28,25,7
+26,Hey Girl/I Knew You When,Donny Osmond,16,9,10
+27,Fire And Water,Wilson Pickett,32,27,6
+28,Make Me The Woman That You Go Home To,Gladys Knight And The Pips,30,28,7
+29,That's The Way I Feel About Cha,Bobby Womack & Peace,29,29,8
+30,One Monkey Don't Stop No Show Part I,The Honey Cone,17,15,11
+31,Got To Be There,Michael Jackson,15,4,14
+32,Down By The Lazy River,The Osmonds,68,32,2
+33,Don't Say You Don't Remember,Beverly Bremers,37,33,7
+34,Hey Big Brother,Rare Earth,19,19,10
+35,Once You Understand,Think,23,23,9
+36,Feeling Alright,Joe Cocker,43,36,10
+37,Bang A Gong (Get It On),T. Rex,50,37,5
+38,The Lion Sleeps Tonight,Robert John,49,38,5
+39,Together Let's Find Love,The 5th Dimension,45,39,5
+40,Floy Joy,The Supremes,48,40,4
+41,Ain't Understanding Mellow,Jerry Butler & Brenda Lee Eager,53,41,8
+42,Daisy Mae,"Hamilton, Joe Frank & Reynolds",42,42,9
+43,Those Were The Days,Carroll O'Connor And Jean Stapleton (As The Bunkers),44,43,8
+44,"White Lies, Blue Eyes",Bullet,40,28,13
+45,Looking For A Love,The J. Geils Band,39,39,9
+46,My Boy,Richard Harris,41,41,11
+47,Do The Funky Penguin Part I,Rufus Thomas,51,47,6
+48,Footstompin' Music,Grand Funk Railroad,64,48,4
+49,Tupelo Honey,Van Morrison,62,49,5
+50,"You Want It, You Got It",Detroit Emeralds,55,50,4
+51,The Harder I Try (The Bluer I Get),Free Movement,56,51,8
+52,Way Back Home,Jr. Walker & The All Stars,52,52,8
+53,Me And Bobby McGee,Jerry Lee Lewis,47,40,10
+54,What Am I Living For,Ray Charles,61,54,6
+55,Son Of Shaft,The Bar-Kays,57,55,6
+56,Show Me How,The Emotions,59,56,10
+57,Jungle Fever,The Chakachas,73,57,3
+58,Ain't Nobody Home,B.B. King,46,46,12
+59,Under My Wheels,Alice Cooper,63,59,6
+60,Everything I Own,Bread,-1,60,1
+61,Softly Whispering I Love You,The English Congregation,77,61,2
+62,We've Got To Get It On Again,Addrisi Brothers,78,62,2
+63,Everybody Knows About My Good Thing Pt. 1,Little Johnny Taylor,60,60,8
+64,Baby Won't You Let Me Rock 'N Roll You,Ten Years After,69,64,3
+65,My World,Bee Gees,-1,65,1
+66,Pain (Part I),Ohio Players,67,66,6
+67,Another Puff,Jerry Reed,70,67,4
+68,Love Gonna Pack Up (And Walk Out),The Persuaders,81,68,6
+69,The Nickel Song,Melanie,87,69,2
+70,Move 'Em Out,Delaney & Bonnie,80,70,2
+71,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Donnie Elbert,-1,71,1
+72,I Gotcha,Joe Tex,90,72,2
+73,Oh Me Oh My (I'm A Fool For You Baby),Aretha Franklin,75,73,3
+74,Ajax Airlines,Hudson and Landry,83,74,3
+75,Slippin' Into Darkness,War,99,75,2
+76,Country Wine,The Raiders,-1,76,1
+77,Sweet Seasons,Carole King,-1,77,1
+78,Iron Man,Black Sabbath,-1,78,1
+79,Five Hundred Miles,Heaven Bound with Tony Scotti,82,79,8
+80,Until It's Time For You To Go,Elvis Presley,-1,80,1
+81,Keep Playin' That Rock 'N' Roll,Edgar Winter's White Trash,92,81,7
+82,The Way Of Love,Cher,-1,82,1
+83,Will You Still Love Me Tomorrow,Roberta Flack,84,83,2
+84,I Wrote A Simple Song,Billy Preston,86,84,2
+85,Music From Across The Way,James Last,85,85,3
+86,Cry,Lynn Anderson,-1,86,1
+87,If I Could See The Light,The 8th Day,79,79,4
+88,"Love Me, Love Me Love",Frank Mills,-1,88,1
+89,Ring The Living Bell,Melanie,-1,89,1
+90,Open The Door (Song For Judith),Judy Collins,91,90,7
+91,Crazy Mama,J.J. Cale,-1,91,1
+92,Brian's Song, Michel Legrand,-1,92,1
+93,Gimme Some More,The JB's,95,93,2
+94,Standing In For Jody,Johnnie Taylor (The Soul Philosopher),100,94,2
+95,Sweet Baby,Donnie Elbert,96,95,2
+96,(Oh Lord Won't You Buy Me A) Mercedes Benz,Goose Creek Symphony,-1,96,1
+97,Bedtime Story,Tammy Wynette,-1,97,1
+98,Every Day Of My Life,Bobby Vinton,-1,98,1
+99,Runaway/Happy Together,Dawn Featuring Tony Orlando,-1,99,1
+100,Diamonds Are Forever,Shirley Bassey,-1,100,1

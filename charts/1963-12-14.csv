@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Dominique,The Singing Nun (Soeur Sourire),1,1,6
+2,Louie Louie,The Kingsmen,4,2,6
+3,Everybody,Tommy Roe,3,3,10
+4,I'm Leaving It Up To You,Dale & Grace,2,1,11
+5,You Don't Have To Be A Baby To Cry,The Caravelles,7,5,7
+6,Since I Fell For You,Lenny Welch,14,6,8
+7,Be True To Your School,The Beach Boys,8,7,7
+8,Drip Drop,Dion Di Muci,15,8,5
+9,There! I've Said It Again,Bobby Vinton,22,9,3
+10,Walking The Dog,Rufus Thomas,10,10,11
+11,Little Red Rooster,Sam Cooke,12,11,8
+12,She's A Fool,Lesley Gore,5,5,12
+13,Sugar Shack,Jimmy Gilmer And The Fireballs,6,1,13
+14,Wonderful Summer,Robin Ward,19,14,7
+15,Loddy Lo,Chubby Checker,20,15,7
+16,Popsicles And Icicles,The Murmaids,32,16,4
+17,Washington Square,The Village Stompers,9,2,13
+18,Talk Back Trembling Lips,Johnny Tillotson,26,18,6
+19,It's All Right,The Impressions,16,4,12
+20,Have You Heard,The Duprees featuring Joey Vann,25,20,6
+21,Deep Purple,Nino Tempo & April Stevens,11,1,14
+22,Living A Lie,Al Martino,24,22,8
+23,Quicksand,Martha & The Vandellas,34,23,4
+24,Can I Get A Witness,Marvin Gaye,27,24,9
+25,Forget Him,Bobby Rydell,30,25,6
+26,Wives And Lovers,Jack Jones,31,26,7
+27,Midnight Mary,Joey Powers,36,27,6
+28,The Nitty Gritty,Shirley Ellis,38,28,5
+29,Hey Little Girl,Major Lance,13,13,9
+30,I Wonder What She's Doing Tonight,Barry & The Tamerlanes,21,21,9
+31,Kansas City,Trini Lopez,42,31,5
+32,Baby Don't You Weep,Garnet Mimms & The Enchanters,35,32,5
+33,In My Room,The Beach Boys,28,28,7
+34,Twenty Four Hours From Tulsa,Gene Pitney,17,17,9
+35,The Boy Next Door,The Secrets,39,35,6
+36,(Down At) Papa Joe's,The Dixiebelles,18,9,12
+37,Bossa Nova Baby,Elvis Presley With The Jordanaires,29,8,9
+38,Maria Elena,Los Indios Tabajaras,23,6,13
+39,Bad Girl,Neil Sedaka,40,39,5
+40,Tra La La La Suzy,Dean And Jean,45,40,7
+41,500 Miles Away From Home,Bobby Bare,33,10,11
+42,For Your Precious Love,Garnet Mimms & The Enchanters,66,42,4
+43,Walking Proud,Steve Lawrence,41,26,9
+44,Misery,The Dynamics,50,44,7
+45,Need To Belong,Jerry Butler,62,45,4
+46,I Have A Boyfriend,The Chiffons,52,46,5
+47,As Long As I Know He's Mine,The Marvelettes,56,47,6
+48,Turn Around,Dick and DeeDee,54,48,4
+49,You're Good For Me,Solomon Burke,53,49,7
+50,I Gotta Dance To Keep From Crying,The Miracles,60,50,4
+51,Rags To Riches,Sunny & The Sunliners,51,51,5
+52,Stewball,"Peter, Paul & Mary",55,52,3
+53,That Lucky Old Sun,Ray Charles,72,53,2
+54,Drag City,Jan & Dean,70,54,2
+55,Yesterday And You (Armen's Theme),Bobby Vee,59,55,6
+56,She's Got Everything,The Essex Featuring Anita Humes,57,56,5
+57,Long Tall Texan,Murry Kellum,65,57,6
+58,You're No Good,Betty Everett,68,58,4
+59,The Impossible Happened,Little Peggy March,63,59,4
+60,Pretty Paper,Roy Orbison,-1,60,1
+61,Ally Ally Oxen Free,The Kingston Trio,61,61,4
+62,Dawn,The David Rockingham Trio,64,62,6
+63,When The Lovelight Starts Shining Through His Eyes,The Supremes,75,63,3
+64,Be Mad Little Girl,Bobby Darin,67,64,4
+65,Girls Grow Up Faster Than Boys, The Cookies,69,65,3
+66,I Got A Woman,Freddie Scott,48,48,7
+67,Somewhere,The Tymes,82,67,2
+68,Young Wings Can Fly (Higher Than You Know),Ruby And The Romantics,47,47,8
+69,Out Of Limits,The Marketts,85,69,2
+70,Surfin' Bird,The Trashmen,97,70,2
+71,Hooka Tooka,Chubby Checker,83,71,2
+72,Sue's Gotta Be Mine,Del Shannon,73,71,7
+73,The Marvelous Toy,The Chad Mitchell Trio,77,73,3
+74,Baby I Do Love You,The Galens,76,74,4
+75,As Usual,Brenda Lee,-1,75,1
+76,Today's Teardrops,Rick Nelson,84,76,3
+77,Gotta Lotta Love,Steve Alaimo,79,77,5
+78,Begging To You,Marty Robbins,80,78,3
+79,That Boy John,The Raindrops,86,79,3
+80,Charade,Henry Mancini And His Orchestra,87,80,2
+81,Come Dance With Me,Jay & The Americans,81,81,3
+82,Watch Your Step,Brooks O'Dell,-1,82,1
+83,What Kind Of Fool (Do You Think I Am),The Tams,-1,83,1
+84,Hey Little Cobra,The Rip Chords,-1,84,1
+85,It's All In The Game,Cliff Richard,89,85,2
+86,Thank You And Goodnight,The Angels,90,86,2
+87,The Cheer Leader,Paul Petersen,91,87,3
+88,We Belong Together,Jimmy Velvet,-1,88,1
+89,Did You Have A Happy Birthday?,Paul Anka,-1,89,1
+90,Daisy Petal Pickin',Jimmy Gilmer And The Fireballs,-1,90,1
+91,Dumb Head,Ginny Arnell,93,91,4
+92,Crossfire Time,Dee Clark,94,92,5
+93,Surfer Street,The Allisons,-1,93,1
+94,Please,Frank Ifield,-1,94,1
+95,I'll Search My Heart,Johnny Mathis,-1,95,1
+96,Anyone Who Had A Heart,Dionne Warwick,100,96,2
+97,Hootenanny Saturday Night,The Brothers Four,-1,97,1
+98,Bon-Doo-Wah,The Orlons,-1,98,1
+99,Why Do Kids Grow Up,Randy & The Rainbows,-1,99,1
+100,Cold Cold Winter,The Pixies Three,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Lovin' You,Minnie Riperton,2,1,12
+2,Philadelphia Freedom,The Elton John Band,3,2,5
+3,No No Song/snookeroo,Ringo Starr,6,3,9
+4,Express,B.T. Express,4,4,11
+5,You Are So Beautiful/It's A Sin When You Love Somebody,Joe Cocker,5,5,13
+6,Poetry Man,Phoebe Snow,7,6,14
+7,Lady Marmalade,Labelle,1,1,14
+8,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,B.J. Thomas,11,8,10
+9,Have You Never Been Mellow,Olivia Newton-John,10,1,11
+10,My Eyes Adored You,Frankie Valli,8,1,20
+11,Once You Get Started,Rufus Featuring Chaka Khan,13,11,8
+12,Chevy Van,Sammy Johns,16,12,10
+13,Harry Truman,Chicago,17,13,7
+14,What Am I Gonna Do With You,Barry White,27,14,5
+15,Emma,Hot Chocolate,19,15,9
+16,Supernatural Thing - Part I,Ben E. King,20,16,9
+17,Before The Next Teardrop Falls,Freddy Fender,21,17,10
+18,Walking In Rhythm,The Blackbyrds,22,18,9
+19,L-O-V-E (Love),Al Green,24,19,6
+20,Shining Star,"Earth, Wind & Fire",25,20,8
+21,"Don't Call Us, We'll Call You",Sugarloaf/Jerry Corbetta,9,9,18
+22,Satin Soul,Love Unlimited Orchestra,26,22,9
+23,Long Tall Glasses (I Can Dance),Leo Sayer,28,23,7
+24,"Shame, Shame, Shame",Shirley And Company,12,12,13
+25,The Bertha Butt Boogie-Part 1,The Jimmy Castor Bunch,31,25,7
+26,Jackie Blue,Ozark Mountain Daredevils,32,26,9
+27,He Don't Love You (Like I Love You),Tony Orlando & Dawn,33,27,4
+28,It's A Miracle,Barry Manilow,34,28,6
+29,Butter Boy,Fanny,30,29,10
+30,Sad Sweet Dreamer,Sweet Sensation,14,14,13
+31,Tangled Up In Blue,Bob Dylan,39,31,5
+32,Killer Queen,Queen,40,32,9
+33,I Am Love (Parts I & II),Jackson 5,15,15,12
+34,Shoeshine Boy,Eddie Kendricks,42,34,8
+35,How Long,Ace,48,35,5
+36,Stand By Me,John Lennon,52,36,4
+37,"Living A Little, Laughing A Little",The Spinners,45,37,5
+38,I Don't Like To Sleep Alone,Paul Anka with Odia Coates,46,38,4
+39,Thank God I'm A Country Boy,John Denver,60,39,3
+40,Who's Sorry Now,Marie Osmond,49,40,5
+41,Black Water,The Doobie Brothers,18,1,16
+42,Lady,Styx,23,6,17
+43,The South's Gonna Do It,The Charlie Daniels Band,29,29,9
+44,Amie,Pure Prairie League,54,44,6
+45,Shaving Cream, Benny Bell,55,45,5
+46,Autobahn,Kraftwerk,64,46,4
+47,Only Yesterday,Carpenters,74,47,2
+48,Love Finds It's Own Way,Gladys Knight And The Pips,51,48,7
+49,Wolf Creek Pass,C.W. McCall,41,40,10
+50,Emotion,Helen Reddy,35,22,9
+51,Young Americans,David Bowie,61,51,4
+52,Beer Barrel Polka/Dick And Jane,Bobby Vinton,63,52,4
+53,I'm Her Fool,Billy Swan,53,53,4
+54,We're Almost There,Michael Jackson,58,54,6
+55,Sneaky Snake,Tom T. Hall,65,55,4
+56,I Wanna Learn A Love Song,Harry Chapin,44,44,8
+57,Can't Get It Out Of My Head,Electric Light Orchestra,36,9,16
+58,Shakey Ground,The Temptations,69,58,3
+59,Best Of My Love,Eagles,38,1,19
+60,My Boy,Elvis Presley,57,20,11
+61,Linda On My Mind,Conway Twitty,62,61,7
+62,Love Won't Let Me Wait,Major Harris,81,62,2
+63,Runaway,Charlie Kulis,73,63,4
+64,"Reach Out, I'll Be There",Gloria Gaynor,75,64,3
+65,To The Door Of The Sun (Alle Porte Del Sole),Al Martino,37,17,16
+66,Sun Goddess,"Ramsey Lewis And Earth, Wind & Fire",77,66,3
+67,Swing Your Daddy,Jim Gilstrap,79,67,5
+68,Fire,Ohio Players,59,1,17
+69,Bad Time,Grand Funk,-1,69,1
+70,My Little Lady,Bloodstone,80,70,2
+71,Sister Golden Hair,America,-1,71,1
+72,The Immigrant,Neil Sedaka,83,72,2
+73,Rainy Day People,Gordon Lightfoot,84,73,2
+74,The Pill,Loretta Lynn,70,70,6
+75,Don't Tell Me Goodnight,Lobo,86,75,2
+76,Hijack,Herbie Mann,87,76,6
+77,Cry To Me,Loleatta Holloway,85,77,4
+78,Bad Luck (Part 1),Harold Melvin And The Blue Notes,88,78,3
+79,You Brought The Woman Out Of Me,Evie Sands,89,79,2
+80,(if You Add) All The Love In The World,Mac Davis,-1,80,1
+81,I'll Play For You,Seals & Crofts,-1,81,1
+82,Toby/that's How Long,The Chi-lites,82,82,6
+83,Only Women,Alice Cooper,-1,83,1
+84,Magic,Pilot,-1,84,1
+85,One Beautiful Day,"Ecstasy, Passion & Pain",90,85,2
+86,Growin',Loggins & Messina,-1,86,1
+87,Touch Me Baby (reaching Out For Your Love),Tamiko Jones,-1,87,1
+88,I'm Not Lisa,Jessi Colter,-1,88,1
+89,"Black Superman - ""Muhammad Ali""",Johnny Wakelin & The Kinshasa Band,95,89,5
+90,Pinball,Brian Protheroe,100,90,2
+91,Live Your Life Before You Die,The Pointer Sisters,97,89,5
+92,Spirit Of The Boogie/Summer Madness,Kool & The Gang,-1,92,1
+93,Showdown,Odia Coates,71,71,6
+94,Wildfire,Michael Murphey,99,94,2
+95,"Get Down, Get Down (Get On The Floor)",Joe Simon,-1,95,1
+96,Where Is The Love,Betty Wright,-1,96,1
+97,The Last Farewell,Roger Whittaker,-1,97,1
+98,My First Day Without Her,Dennis Yost And The Classics IV,-1,98,1
+99,Hang On Sloopy,Rick Derringer,-1,99,1
+100,You're A Part Of Me,Susan Jacks,93,90,5

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Roses Are Red (My Love),Bobby Vinton,1,1,9
+2,Breaking Up Is Hard To Do,Neil Sedaka,8,2,6
+3,Sealed With A Kiss,Brian Hyland,3,3,9
+4,The Wah Watusi,The Orlons,2,2,9
+5,"Ahab, The Arab",Ray Stevens,10,5,6
+6,Speedy Gonzales,Pat Boone,6,6,8
+7,I Can't Stop Loving You,Ray Charles,4,1,14
+8,The Loco-Motion,Little Eva,14,8,6
+9,The Stripper,David Rose and His Orchestra,5,1,13
+10,Theme From Dr. Kildare (Three Stars Will Shine Tonight),Richard Chamberlain,13,10,10
+11,Wolverton Mountain,Claude King,7,6,11
+12,Dancin' Party,Chubby Checker,12,12,7
+13,You'll Lose A Good Thing,Barbara Lynn,15,13,8
+14,Johnny Get Angry,Joanie Sommers,11,7,11
+15,Gravy (For My Mashed Potatoes),Dee Dee Sharp,9,9,8
+16,Things,Bobby Darin,24,16,5
+17,"(Girls, Girls, Girls) Made To Love",Eddie Hodges,18,17,7
+18,Twist And Shout,The Isley Brothers,19,18,10
+19,Little Diane,Dion,27,19,5
+20,I Need Your Loving,Don Gardner And Dee Dee Ford,20,20,10
+21,Party Lights,Claudine Clark,23,21,6
+22,Heart In Hand,Brenda Lee,26,22,5
+23,Palisades Park,Freddy Cannon,16,3,13
+24,Al Di La',Emilio Pericoli,17,6,12
+25,Little Red Rented Rowboat,Joe Dowell,34,25,7
+26,Having A Party,Sam Cooke,21,17,11
+27,You Don't Know Me,Ray Charles,56,27,2
+28,Welcome Home Baby,The Shirelles,22,22,7
+29,I'll Never Dance Again,Bobby Rydell,25,14,10
+30,It Keeps Right On A-Hurtin',Johnny Tillotson,28,3,13
+31,Route 66 Theme,Nelson Riddle,42,31,10
+32,Bring It On Home To Me,Sam Cooke,44,32,5
+33,It Started All Over Again,Brenda Lee,29,29,6
+34,Johnny Loves Me,Shelley Fabares,30,21,9
+35,Bongo Stomp,Little Joey And The Flips,33,33,8
+36,Snap Your Fingers,Joe Henderson,31,8,12
+37,Have A Good Time,Sue Thompson,35,35,8
+38,"Summertime, Summertime",The Jamies,45,26,18
+39,Mary's Little Lamb,James Darren,47,39,6
+40,Playboy,The Marvelettes,36,7,14
+41,Steel Men,Jimmy Dean,43,41,7
+42,Call Me Mr. In-Between,Burl Ives,76,42,3
+43,Sheila,Tommy Roe,73,43,2
+44,Rinky Dink,Baby Cortez,60,44,4
+45,The Ballad Of Paladin,Duane Eddy,55,45,5
+46,What's A Matter Baby (Is It Hurting You),Timi Yuro,52,46,4
+47,I Don't Love You No More (I Don't Care About You),Jimmy Norman,49,47,8
+48,A Swingin' Safari,Billy Vaughn And His Orchestra,64,48,3
+49,But Not For Me,Ketty Lester,41,41,7
+50,Baby Elephant Walk,Lawrence Welk And His Orchestra,57,50,9
+51,Ben Crazy,Dickie Goodman,59,51,4
+52,Make It Easy On Yourself,Jerry Butler,68,52,5
+53,Little Bitty Pretty One,Clyde McPhatter,32,25,8
+54,Vacation,Connie Francis,78,54,2
+55,Walk On The Wild Side (Part 1),Jimmy Smith And The Big Band,46,21,13
+56,Never In A Million Years, Linda Scott,58,56,8
+57,She's Not You,Elvis Presley With The Jordanaires,-1,57,1
+58,The Crowd,Roy Orbison,37,26,10
+59,Shame On Me,Bobby Bare,72,59,3
+60,Limbo Rock,The Champs,50,40,11
+61,A Taste Of Honey,Martin Denny and His Orchestra,67,61,4
+62,Fortuneteller,Bobby Curtola,51,41,14
+63,West Of The Wall,Toni Fisher,48,37,11
+64,Cindy's Birthday,Johnny Crawford,38,8,13
+65,Seven Day Weekend,Gary U.S. Bonds,40,27,7
+66,Alley Cat,Bent Fabric and His Piano,84,66,2
+67,My Daddy Is President,Little Jo Ann,69,67,5
+68,Stranger On The Shore,Mr. Acker Bilk,53,1,21
+69,Above The Stars,Mr. Acker Bilk,82,69,4
+70,Devil Woman,Marty Robbins,86,70,2
+71,Till Death Do Us Part,Bob Braun,93,71,3
+72,The Bird Man,The Highwaymen,81,72,4
+73,Where Are You,Dinah Washington,61,36,12
+74,Why Did You Leave Me?,Vince Edwards,74,68,5
+75,Careless Love,Ray Charles,88,75,2
+76,Worried Mind,Ray Anthony,83,76,6
+77,Swingin' Gently,Earl Grant,71,44,11
+78,Beach Party,King Curtis And The Noble Knights,80,78,3
+79,Mr. Songwriter,Connie Stevens,-1,79,1
+80,Stop The Wedding,Etta James,90,80,2
+81,A Miracle,Frankie Avalon,87,81,4
+82,Point Of No Return,Gene McDaniels,-1,82,1
+83,Let's Dance,Chris Montez,-1,83,1
+84,Right String But The Wrong Yo-Yo,Dr. Feelgood And The Interns,-1,84,1
+85,La Bomba,The Tokens,85,85,5
+86,Come On Little Angel,The Belmonts,89,86,3
+87,Lolita Ya-Ya,The Ventures,-1,87,1
+88,Callin' Doctor Casey,John D. Loudermilk,91,88,2
+89,The Boys' Night Out,Patti Page,-1,89,1
+90,(Theme from) A Summer Place,Dick Roman,-1,90,1
+91,Ramblin' Rose,Nat King Cole,-1,91,1
+92,Life's Too Short,The Lafayettes,94,87,3
+93,You Belong To Me,The Duprees,-1,93,1
+94,Silver Threads And Golden Needles,The Springfields,-1,94,1
+95,"Theme From ""Hatari!""",Henry Mancini And His Orchestra,97,95,4
+96,Poor Little Puppet,Cathy Carroll,-1,96,1
+97,Sugar Plum,Ike Clanton,-1,97,1
+98,Come On Baby,Bruce Channel,100,98,2
+99,Love Me As I Love You,George Maharis,-1,99,1
+100,Houdini,Walter Brennan,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Call Me,Blondie,1,1,12
+2,Ride Like The Wind,Christopher Cross,2,2,12
+3,Lost In Love,Air Supply,6,3,13
+4,With You I'm Born Again,Billy Preston & Syreeta,4,4,22
+5,Another Brick In The Wall (Part II),Pink Floyd,3,1,16
+6,Fire Lake,Bob Seger,7,6,11
+7,You May Be Right,Billy Joel,9,7,8
+8,I Can't Tell You Why,Eagles,8,8,11
+9,Sexy Eyes,Dr. Hook,10,9,12
+10,Hold On To My Love,Jimmy Ruffin,12,10,10
+11,Don't Fall In Love With A Dreamer,Kenny Rogers with Kim Carnes,13,11,6
+12,Special Lady,"Ray, Goodman & Brown ",5,5,15
+13,Pilot Of The Airwaves,Charlie Dore,15,13,11
+14,Biggest Part Of Me,Ambrosia,17,14,5
+15,Hurt So Bad,Linda Ronstadt,18,15,4
+16,"Working My Way Back To You/Forgive Me, Girl",The Spinners,11,2,21
+17,I Can't Help It,Andy Gibb & Olivia Newton-John,21,17,6
+18,Cars,Gary Numan,22,18,12
+19,Breakdown Dead Ahead,Boz Scaggs,26,19,6
+20,Think About Me,Fleetwood Mac,20,20,9
+21,Stomp!,The Brothers Johnson,24,21,8
+22,Brass In Pocket (I'm Special),Pretenders,25,22,12
+23,Any Way You Want It,Journey,23,23,10
+24,Funkytown,"Lipps, Inc.",29,24,6
+25,Too Hot,Kool & The Gang,14,5,16
+26,Do Right,Paul Davis,31,26,9
+27,Heart Hotels,Dan Fogelberg,33,27,7
+28,I Pledge My Love,Peaches & Herb,19,19,16
+29,The Rose,Bette Midler,39,29,7
+30,Off The Wall,Michael Jackson,16,10,12
+31,And The Beat Goes On,The Whispers,28,19,13
+32,Fire In The Morning,Melissa Manchester,32,32,11
+33,Steal Away,Robbie Dupree,59,33,4
+34,Train In Vain (Stand By Me),The Clash,38,34,7
+35,The Seduction (Love Theme),James Last Band,40,35,6
+36,Crazy Little Thing Called Love,Queen,27,1,20
+37,Let Me Be The Clock,Smokey Robinson,41,37,8
+38,Wondering Where The Lions Are,Bruce Cockburn,42,38,7
+39,Let's Get Serious,Jermaine Jackson,46,39,6
+40,Starting Over Again,Dolly Parton,48,40,6
+41,She's Out Of My Life,Michael Jackson,49,41,3
+42,Gee Whiz,Bernadette Peters,50,42,6
+43,It's Hard To Be Humble,Mac Davis,45,43,7
+44,Should've Never Let You Go,Neil Sedaka & Dara Sedaka,52,44,6
+45,Headed For A Fall,Firefall,54,45,4
+46,Lucky Me,Anne Murray,53,46,5
+47,We Were Meant To Be Lovers,Photoglo,56,47,6
+48,How Do I Make You,Linda Ronstadt,30,10,14
+49,When The Feeling Comes Around,Jennifer Warnes,55,49,5
+50,White Hot,Red Rider,58,50,5
+51,We Live For Love,Pat Benatar,60,51,5
+52,I Don't Want To Walk Without You,Barry Manilow,61,52,4
+53,Coming Up (Live At Glasgow),Paul McCartney And Wings,73,53,2
+54,Against The Wind,Bob Seger,-1,54,1
+55,Solitaire,Peter McIan,63,55,5
+56,Love Stinks,The J. Geils Band,64,56,4
+57,Don't Say Goodnight (It's Time For Love) (Parts 1 & 2),The Isley Brothers,66,57,3
+58,Lady,The Whispers,68,58,3
+59,Him,Rupert Holmes,34,6,16
+60,Don't Push It Don't Force It,Leon Haywood,70,60,5
+61,New Romance (It's A Mystery),Spider,75,61,3
+62,Can't Put A Price On Love,The Knack,62,62,5
+63,Only A Lonely Heart Sees,Felix Cavaliere,37,36,10
+64,Twilight Zone/Twilight Tone,The Manhattan Transfer,74,64,3
+65,Little Jeannie,Elton John,-1,65,1
+66,Two Places At The Same Time,Ray Parker Jr. & Raydio,77,66,3
+67,It's A Night For Beautiful Girls,The Fools,69,67,3
+68,Rock Lobster,The B-52s,78,68,3
+69,Coming Down From Love,Bobby Caldwell,79,69,3
+70,Somewhere In America,Survivor,71,70,11
+71,Here Comes My Girl,Tom Petty And The Heartbreakers,80,71,2
+72,Catching The Sun,Spyro Gyra,72,72,3
+73,Let Me Be,Korona,43,43,7
+74,Set Me Free,Utopia,36,27,11
+75,Fool For A Pretty Face (Hurt By Love),Humble Pie,85,75,2
+76,"Theme From New York, New York",Frank Sinatra,-1,76,1
+77,Keep The Fire,Kenny Loggins,57,36,11
+78,You're My Blessing,Lou Rawls,88,78,2
+79,It Takes Time,The Marshall Tucker Band,89,79,2
+80,I Was Looking For Someone To Love,Leif Garrett,84,80,4
+81,Shining Star,The Manhattans,90,81,2
+82,Answering Machine,Rupert Holmes,-1,82,1
+83,The Second Time Around,Shalamar,35,8,22
+84,It's Not A Wonder,Little River Band,-1,84,1
+85,Stay In Time,Off Broadway USA,51,51,7
+86,Carrie,Cliff Richard,47,34,11
+87,Midnight Rendezvous,The Babys,-1,87,1
+88,Gone Too Far,Eddie Rabbitt,-1,88,1
+89,Just For The Moment,Ray Kennedy,-1,89,1
+90,You've Got What I Need,Shooting Star,76,76,4
+91,Three Times In Love,Tommy James,44,19,15
+92,The Good Lord Loves You,Neil Diamond,67,67,5
+93,After You,Dionne Warwick,65,65,6
+94,Longer,Dan Fogelberg,82,2,21
+95,On The Radio, Donna Summer,86,5,17
+96,What's Your Hurry Darlin',Ironhorse,98,96,2
+97,Give It All You Got,Chuck Mangione,87,18,16
+98,Real Love,The Cretones,-1,98,1
+99,Desire,Andy Gibb,83,4,15
+100,Borrowed Time,Styx,91,64,6

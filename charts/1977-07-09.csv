@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Undercover Angel,Alan O'Day,2,1,15
+2,Da Doo Ron Ron,Shaun Cassidy,4,2,9
+3,Looks Like We Made It,Barry Manilow,5,3,10
+4,Gonna Fly Now,Bill Conti,1,1,12
+5,I Just Want To Be Your Everything,Andy Gibb,7,5,12
+6,Got To Give It Up (Pt. I),Marvin Gaye,3,1,13
+7,Angel In Your Arms,Hot,8,7,21
+8,Jet Airliner,The Steve Miller Band,9,8,11
+9,Margaritaville,Jimmy Buffett,10,9,15
+10,My Heart Belongs To Me,Barbra Streisand,12,10,8
+11,I'm In You,Peter Frampton,15,11,7
+12,Do You Wanna Make Love,Peter Mccann,13,12,12
+13,Dreams,Fleetwood Mac,6,1,13
+14,Best Of My Love,The Emotions,30,14,5
+15,(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,18,15,10
+16,Whatcha Gonna Do?,Pablo Cruise,20,16,13
+17,You And Me,Alice Cooper,22,17,11
+18,High School Dance,The Sylvers,19,18,12
+19,"Knowing Me, Knowing You",ABBA,24,19,9
+20,Love's Grown Deep,Kenny Nolan,21,20,15
+21,Life In The Fast Lane,Eagles,11,11,9
+22,You Made Me Believe In Magic,Bay City Rollers,26,22,6
+23,Feels Like The First Time,Foreigner,14,4,16
+24,You're My World,Helen Reddy,27,24,11
+25,Lucille,Kenny Rogers,17,5,16
+26,It's Sad To Belong,England Dan & John Ford Coley,31,26,10
+27,"Luckenbach, Texas (Back To The Basics Of Love)",Waylon Jennings,28,27,10
+28,Easy,Commodores,32,28,6
+29,I'm Your Boogie Man,KC And The Sunshine Band,29,1,20
+30,Barracuda,Heart,34,30,7
+31,Lonely Boy,Andrew Gold,16,7,17
+32,Heard It In A Love Song,The Marshall Tucker Band,23,14,18
+33,Just A Song Before I Go,"Crosby, Stills & Nash",37,33,7
+34,Telephone Man,Meri Wilson,38,34,6
+35,Give A Little Bit,Supertramp,39,35,6
+36,The Killing Of Georgie (Part I And II),Rod Stewart,40,36,6
+37,Sir Duke,Stevie Wonder,25,1,15
+38,Devil's Gun,C.J. & Company,41,38,8
+39,Telephone Line,Electric Light Orchestra,45,39,5
+40,Handy Man,James Taylor,50,40,4
+41,Ariel,Dean Friedman,47,26,13
+42,Neon Nites,Atlanta Rhythm Section,42,42,6
+43,I Don't Love You Anymore,Teddy Pendergrass,43,43,8
+44,Way Down,Elvis Presley,49,44,3
+45,Smoke From A Distant Fire,The Sanford/Townsend Band,54,45,4
+46,Slow Dancin' Don't Turn Me On,Addrisi Brothers,33,20,14
+47,Black Betty,Ram Jam,60,47,5
+48,Superman,Celi Bee & The Buzzy Bunch,51,48,5
+49,Here Comes Summer,Wildfire,59,49,4
+50,Amarillo,Neil Sedaka,44,44,7
+51,If It's The Last Thing I Do,Thelma Houston,53,51,6
+52,Baby Don't Change Your Mind,Gladys Knight And The Pips,55,52,5
+53,On And On,Stephen Bishop,63,53,9
+54,Slide,Slave,64,54,4
+55,Save Me,Merrilee Rush,56,55,5
+56,(Remember The Days Of The) Old Schoolyard,Cat Stevens,66,56,3
+57,Livin' In The Life,The Isley Brothers,67,57,3
+58,Lady (put The Light On Me),Brownsville Station,68,58,6
+59,Runaway,Bonnie Raitt,69,59,8
+60,Strawberry Letter 23,The Brothers Johnson,71,60,2
+61,Come In From The Rain,Captain & Tennille,61,61,5
+62,Seaside Woman,Suzy And The Red Stripes,62,62,4
+63,Walk Right In,Dr. Hook,73,63,3
+64,Swayin' To The Music (slow Dancin'),Johnny Rivers,77,64,3
+65,It Was Almost Like A Song,Ronnie Milsap,70,65,4
+66,"Sing It, Shout It",Starz,72,66,3
+67,All You Get From Love Is A Love Song,Carpenters,35,35,8
+68,"Gonna Fly Now (Theme From ""Rocky"")",Maynard Ferguson,36,28,12
+69,Couldn't Get It Right,Climax Blues Band,58,3,21
+70,Something About You,LeBlanc & Carr,81,70,2
+71,The Doodle Song,Frankie Miller,74,71,3
+72,Don't Stop,Fleetwood Mac,-1,72,1
+73,I'm Going Down,Rose Royce,75,73,6
+74,Platinum Heroes,Bruce Foster,85,74,2
+75,Don't Worry Baby,B.J. Thomas,86,75,2
+76,Don't Turn The Light Out,Cliff Richard,57,57,6
+77,How Much Love,Leo Sayer,-1,77,1
+78,Gonna Love You More,George Benson,82,78,2
+79,Ain't Gonna Bump No More (with No Big Fat Woman),Joe Tex,48,12,15
+80,Back Together Again,Daryl Hall John Oates,80,28,10
+81,Float On,The Floaters,-1,81,1
+82,Only The Lucky,Walter Egan,84,82,5
+83,It's A Crazy World,Mac McAnally,-1,83,1
+84,L.a. Sunshine,War,-1,84,1
+85,Rock And Roll Never Forgets,Bob Seger,-1,85,1
+86,Sunflower,Glen Campbell,-1,86,1
+87,Light Of A Clear Blue Morning,Dolly Parton,89,87,4
+88,It Feels So Good To Be Loved So Bad,The Manhattans,88,66,16
+89,Star Wars (Main Title),London Symphony Orchestra,-1,89,1
+90,A Real Mother For Ya,Johnny Guitar Watson,-1,90,1
+91,While I'm Alone,Maze Featuring Frankie Beverly,91,91,7
+92,Save Me,Donna McDaniel,93,92,2
+93,I Can't Help Myself,Eddie Rabbitt,95,93,3
+94,Good Thing Man,Frank Lucas,92,92,3
+95,Sheena Is A Punk Rocker,The Ramones,99,95,2
+96,Making A Good Thing Better,Olivia Newton-John,87,87,4
+97,Since I Fell For You/I'm Falling In Love,"Hodges, James And Smith",-1,97,1
+98,Goodbye My Friend,Engelbert Humperdinck,-1,98,1
+99,When I Need You,Leo Sayer,52,1,20
+100,You're Movin' Out Today,Bette Midler,46,42,14

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Upside Down,Diana Ross,2,1,9
+2,Sailing,Christopher Cross,1,1,13
+3,Emotional Rescue,The Rolling Stones,4,3,10
+4,All Out Of Love,Air Supply,7,4,13
+5,Fame,Irene Cara,6,5,13
+6,Magic,Olivia Newton-John,3,1,16
+7,Give Me The Night,George Benson,8,7,10
+8,Take Your Time (Do It Right) Part 1,The S.O.S. Band,5,3,15
+9,Late In The Evening,Paul Simon,11,9,5
+10,Lookin' For Love,Johnny Lee,13,10,9
+11,Into The Night,Benny Mardones,12,11,13
+12,Let My Love Open The Door,Pete Townshend,9,9,13
+13,Drivin' My Life Away,Eddie Rabbitt,16,13,12
+14,More Love,Kim Carnes,10,10,15
+15,It's Still Rock And Roll To Me,Billy Joel,14,1,16
+16,One In A Million You,Larry Graham,26,16,11
+17,You're The Only Woman (You & I),Ambrosia,19,17,9
+18,You'll Accomp'ny Me,Bob Seger,22,18,7
+19,Boulevard,Jackson Browne,21,19,10
+20,Old-Fashion Love,Commodores,20,20,12
+21,All Over The World,Electric Light Orchestra,23,21,6
+22,Hot Rod Hearts,Robbie Dupree,24,22,8
+23,Another One Bites The Dust,Queen,28,23,4
+24,Don't Ask Me Why,Billy Joel,30,24,6
+25,Someone That I Used To Love,Natalie Cole,29,25,12
+26,Xanadu,Olivia Newton-John/Electric Light Orchestra,31,26,5
+27,I'm Alright,Kenny Loggins,32,27,9
+28,Take A Little Rhythm,Ali Thomson,15,15,13
+29,Jesse,Carly Simon,36,29,6
+30,Never Knew Love Like This Before,Stephanie Mills,37,30,5
+31,How Does It Feel To Be Back,Daryl Hall John Oates,34,31,8
+32,Hey There Lonely Girl,Robert John,35,32,8
+33,He's So Shy,The Pointer Sisters,39,33,7
+34,JoJo,Boz Scaggs,17,17,13
+35,Why Not Me,Fred Knoblock,18,18,11
+36,Make A Little Magic,The Dirt Band,25,25,12
+37,You're Supposed To Keep Your Love For Me,Jermaine Jackson,40,37,9
+38,No Night So Long,Dionne Warwick,43,38,7
+39,Look What You've Done To Me,Boz Scaggs,45,39,3
+40,Real Love,The Doobie Brothers,-1,40,1
+41,First Time Love,Livingston Taylor,46,41,7
+42,You Better Run,Pat Benatar,42,42,7
+43,Shining Star,The Manhattans,27,5,20
+44,How Do I Survive,Amy Holland,50,44,5
+45,Misunderstanding,Genesis,33,14,16
+46,Little Jeannie,Elton John,38,3,19
+47,Tulsa Time/Cocaine,Eric Clapton And His Band,41,30,12
+48,Cupid/I've Loved You For A Long Time,The Spinners,44,4,17
+49,Woman In Love,Barbra Streisand,-1,49,1
+50,(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?,Elton John,56,50,5
+51,Who'll Be The Fool Tonight,Larsen-Feiten Band,64,51,4
+52,Red Light,Linda Clifford,60,52,5
+53,First...Be A Woman,Lenore O'malley,53,53,7
+54,Fool For Your Loving,Whitesnake,54,54,6
+55,Don't Misunderstand Me,Rossington Collins Band,55,55,7
+56,Out Here On My Own,Irene Cara,65,56,4
+57,Late At Night,England Dan Seals,62,57,4
+58,The Legend Of Wooley Swamp,The Charlie Daniels Band,63,58,4
+59,I'm Almost Ready,Pure Prairie League,68,59,3
+60,Midnight Rocks,Al Stewart,69,60,2
+61,I Hear You Now,Jon & Vangelis,61,61,4
+62,Games Without Frontiers,Peter Gabriel,70,62,4
+63,Let Me Be Your Angel,Stacy Lattisaw,71,63,5
+64,My Prayer,"Ray, Goodman & Brown",72,64,3
+65,Under The Gun,Poco,48,48,8
+66,True Love Ways,Mickey Gilley,66,66,4
+67,Good Morning Girl/stay Awhile,Journey,75,67,3
+68,Thunder And Lightning,Chicago,76,68,3
+69,Rebels Are We,Chic,77,69,2
+70,I Got You,Split Enz,78,70,3
+71,"Girl, Don't Let It Get You Down",The O'Jays,74,71,3
+72,Switchin' To Glide/This Beat Goes On,The Kings,80,72,3
+73,Leaving L.A.,Deliverance,81,73,2
+74,Can't We Try,Teddy Pendergrass ,82,74,2
+75,Whip It,Devo,85,75,2
+76,Empire Strikes Back (Medley),Meco,58,18,13
+77,Stand By Me,Mickey Gilley,49,22,17
+78,On The Road Again,Willie Nelson,-1,78,1
+79,My Guy/My Girl,Amii Stewart & Johnny Bristol,89,79,2
+80,Touch And Go,The Cars,-1,80,1
+81,Could I Have This Dance,Anne Murray,-1,81,1
+82,Coming Up (Live At Glasgow),Paul McCartney And Wings,47,1,20
+83,Tired Of Toein' The Line,Rocky Burnette,52,8,18
+84,Turn It On Again,Genesis,-1,84,1
+85,Lola,The Kinks,88,9,16
+86,You Can Call Me Blue,Michael Johnson,87,86,3
+87,Treasure,The Brothers Johnson,73,73,4
+88,I'm Coming Out,Diana Ross,-1,88,1
+89,You Shook Me All Night Long,AC/DC,-1,89,1
+90,Steal Away,Robbie Dupree,86,6,22
+91,In America,The Charlie Daniels Band,57,11,15
+92,One Fine Day,Carole King,67,12,17
+93,Love The World Away,Kenny Rogers,51,14,12
+94,The Rose,Bette Midler,83,3,25
+95,I Can't Let Go,Linda Ronstadt,84,31,11
+96,Rock It,"Lipps, Inc.",90,64,6
+97,Free Me,Roger Daltrey,92,53,10
+98,The Breaks (Part 1),Kurtis Blow,-1,98,1
+99,The Royal Mile (Sweet Darlin'),Gerry Rafferty,79,54,8
+100,"Honey, Honey",David Hudson,59,59,11

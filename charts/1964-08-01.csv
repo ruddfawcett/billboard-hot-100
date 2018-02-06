@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,A Hard Day's Night,The Beatles,2,1,3
+2,Rag Doll,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",1,1,7
+3,The Little Old Lady (From Pasadena),Jan & Dean,6,3,6
+4,Everybody Loves Somebody,Dean Martin,11,4,6
+5,Where Did Our Love Go,The Supremes,18,5,4
+6,Wishin' And Hopin',Dusty Springfield,9,6,7
+7,Dang Me,Roger Miller,8,7,8
+8,I Get Around,The Beach Boys,3,1,11
+9,Memphis,Johnny Rivers,4,2,10
+10,The Girl From Ipanema,Stan Getz/Astrud Gilberto,5,5,9
+11,Under The Boardwalk,The Drifters,13,11,6
+12,Nobody I Know,Peter And Gordon,14,12,6
+13,Can't You See That She's Mine,The Dave Clark Five,7,4,8
+14,Keep On Pushing,The Impressions,10,10,9
+15,I Wanna Love Him So Bad,The Jelly Beans,20,15,7
+16,Good Times,Sam Cooke,12,11,9
+17,(You Don't Know) How Glad I Am,Nancy Wilson,22,17,6
+18,Try It Baby,Marvin Gaye,15,15,9
+19,Farmer John,The Premiers,23,19,7
+20,Steal Away,Jimmy Hughes,25,20,7
+21,My Boy Lollipop,Millie Small,16,2,11
+22,Don't Let The Sun Catch You Crying,Gerry And The Pacemakers,17,4,11
+23,People,Barbra Streisand,19,5,18
+24,C'mon And Swim,Bobby Freeman,36,24,4
+25,Don't Throw Your Love Away,The Searchers,21,16,10
+26,You're My World,Cilla Black,31,26,5
+27,Handy Man,Del Shannon,34,27,5
+28,I Like It Like That,The Miracles,35,28,6
+29,Walk-Don't Run '64,The Ventures,48,29,4
+30,Don't Worry Baby,The Beach Boys,27,24,10
+31,People Say,The Dixie Cups,47,31,3
+32,Al-Di-La,The Ray Charles Singers,38,32,4
+33,Just Be True,Gene Chandler,46,33,4
+34,Do I Love You?,The Ronettes,37,34,7
+35,Bad To Me,Billy J. Kramer With The Dakotas,24,9,10
+36,Tell Me (You're Coming Back),The Rolling Stones,49,36,5
+37,Hey Harmonica Man,Stevie Wonder,29,29,8
+38,Sugar Lips,Al (He's the King) Hirt,44,38,4
+39,I Believe,The Bachelors,50,39,6
+40,Ain't She Sweet,The Beatles,67,40,3
+41,Alone,The 4 Seasons,33,28,9
+42,"Mixed-Up, Shook-Up, Girl",Patty & The Emblems,54,42,7
+43,How Do You Do It?,Gerry And The Pacemakers,53,43,4
+44,Angelito,Rene & Rene,52,44,4
+45,I'm Into Somethin' Good,Earl-Jean,57,45,6
+46,What Have I Got Of My Own,Trini Lopez,43,43,13
+47,Tennessee Waltz,Sam Cooke,39,35,8
+48,No Particular Place To Go,Chuck Berry,26,10,11
+49,Share Your Love With Me,Bobby Bland,42,42,8
+50,She's The One,The Chartbusters,63,50,4
+51,You're My Remedy,The Marvelettes,56,51,5
+52,Anyone Who Knows What Love Is (will understand),Irma Thomas,55,52,5
+53,I Still Get Jealous,Louis Armstrong And The All Stars,45,45,7
+54,I'll Keep You Satisfied,Billy J. Kramer With The Dakotas,85,54,2
+55,I Want To Hold Your Hand,Boston Pops Orchestra Arthur Fiedler,61,55,5
+56,Such A Night,Elvis Presley With The Jordanaires,82,56,2
+57,Little Latin Lupe Lu,The Kingsmen,65,57,4
+58,Looking For Love,Connie Francis,69,58,3
+59,Remember Me,Rita Pavone,30,26,9
+60,Because,The Dave Clark Five,-1,60,1
+61,Love Is All We Need,Vic Dana,70,61,4
+62,I'll Cry Instead,The Beatles,-1,62,1
+63,In The Misty Moonlight,Jerry Wallace,83,63,2
+64,Maybe I Know,Lesley Gore,88,64,2
+65,And I Love Her,The Beatles,80,65,2
+66,I Should Have Known Better,The Beatles,75,66,2
+67,Hey Girl Don't Bother Me,The Tams,74,67,3
+68,No One To Cry To,Ray Charles,76,68,3
+69,Oh! Baby (We Got A Good Thing Goin'),Barbara Lynn,71,69,7
+70,Sole Sole Sole,Siw Malmkvist-Umberto Marcato,77,70,3
+71,Thank You Baby,The Shirelles,78,71,3
+72,Everybody Needs Somebody To Love,Solomon Burke,79,72,3
+73,I Want You To Meet My Baby,Eydie Gorme,89,73,2
+74,A Tear Fell,Ray Charles,-1,74,1
+75,Baby Come Home,Ruby And The Romantics,81,75,3
+76,Invisible Tears,The Ray Conniff Singers,86,76,3
+77,"Hello Mudduh, Hello Fadduh! (A Letter From Camp) (New 1964 Version)",Allan Sherman,90,77,2
+78,Worry,Johnny Tillotson,84,78,3
+79,Girls,Major Lance,68,68,6
+80,It Hurts To Be In Love,Gene Pitney,87,80,3
+81,It's All Over Now,The Rolling Stones,100,81,2
+82,Summer Means Fun,Bruce & Terry,95,82,2
+83,You Never Can Tell,Chuck Berry,-1,83,1
+84,I Stand Accused,Jerry Butler,-1,84,1
+85,I've Got No Time To Lose,Carla Thomas,-1,85,1
+86,Frankie And Johnny,The Greenwood County Singers,-1,86,1
+87,Sunny,Neil Sedaka,99,87,2
+88,Selfish One,Jackie Ross,-1,88,1
+89,G.T.O.,Ronny And The Daytonas,-1,89,1
+90,Sailor Boy,The Chiffons,-1,90,1
+91,A House Is Not A Home,Brook Benton,92,91,3
+92,If I Fell,The Beatles,-1,92,1
+93,Bama Lama Bama Loo,Little Richard,93,92,3
+94,Say You,Ronnie Dove,98,94,3
+95,I'm Happy Just To Dance With You,The Beatles,-1,95,1
+96,A House Is Not A Home,Dionne Warwick,-1,96,1
+97,Shout,Lulu And The Luvers,-1,97,1
+98,All Grown Up,The Crystals,-1,98,1
+99,Bachelor Boy,Cliff Richard And The Shadows,-1,99,1
+100,You're No Good,The Swinging Blue Jeans,-1,100,1

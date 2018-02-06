@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Brown Sugar,The Rolling Stones,1,1,6
+2,Joy To The World,Three Dog Night,2,1,13
+3,Want Ads,The Honey Cone,4,3,9
+4,It Don't Come Easy,Ringo Starr,5,4,6
+5,Rainy Days And Mondays,Carpenters,11,5,4
+6,Bridge Over Troubled Water/Brand New Me,Aretha Franklin,7,6,8
+7,Sweet And Innocent,Donny Osmond of The Osmonds,8,7,11
+8,Never Can Say Goodbye,Jackson 5,3,2,10
+9,It's Too Late/I Feel The Earth Move,Carole King,21,9,5
+10,Me And You And A Dog Named Boo,Lobo,9,5,10
+11,I'll Meet You Halfway,The Partridge Family Starring Shirley Jones Featuring David Cassidy,18,11,5
+12,Put Your Hand In The Hand,Ocean,6,2,13
+13,I Don't Know How To Love Him,Helen Reddy,15,13,16
+14,Superstar,Murray Head With The Trinidad Singers,14,14,28
+15,Treat Her Like A Lady,Cornelius Brothers & Sister Rose,19,15,9
+16,Here Comes The Sun,Richie Havens,16,16,12
+17,Chick-A-Boom (Don't Ya Jes' Love It),Daddy Dewdrop,10,9,14
+18,If,Bread,13,4,11
+19,Love Her Madly,The Doors,12,11,9
+20,Don't Knock My Love - Pt. 1,Wilson Pickett,22,20,7
+21,Nathan Jones,The Supremes,27,21,5
+22,Double Lovin',The Osmonds,39,22,4
+23,Right On The Tip Of My Tongue,Brenda & The Tabulations,24,23,10
+24,Stay Awhile,The Bells,17,7,14
+25,Indian Reservation (The Lament Of The Cherokee Reservation Indian),The Raiders,38,25,9
+26,(For God's Sake) Give More Power To The People,The Chi-lites,26,26,9
+27,Woodstock,Matthews' Southern Comfort,23,23,14
+28,"When You're Hot, You're Hot",Jerry Reed,32,28,5
+29,The Drum,Bobby Sherman,31,29,6
+30,Cool Aid,Paul Humphrey & His Cool Aid Chemists,33,30,13
+31,I Don't Know How To Love Him,Yvonne Elliman,35,31,7
+32,Timothy,The Buoys,30,17,17
+33,I Love You For All Seasons,The Fuzz,28,21,20
+34,Toast And Marmalade For Tea,Tin Tin,20,20,10
+35,That's The Way I've Always Heard It Should Be,Carly Simon,43,35,8
+36,She's Not Just Another Woman,The 8th Day,45,36,4
+37,Lowdown,Chicago,40,37,5
+38,I Don't Blame You At All,Smokey Robinson & The Miracles,25,18,12
+39,Reach Out I'll Be There,Diana Ross,29,29,6
+40,Funky Nassau-Part I,The Beginning Of The End ,44,40,5
+41,Albert Flasher/Broken,The Guess Who,42,41,8
+42,Puppet Man/Resurrection Shuffle,Tom Jones,57,42,3
+43,Me And My Arrow,Nilsson,34,34,12
+44,Cry Baby,Janis Joplin,46,44,4
+45,Never Can Say Goodbye,Isaac Hayes,51,45,4
+46,I Won't Mention It Again,Ray Price,48,42,12
+47,Don't Pull Your Love,"Hamilton, Joe Frank & Reynolds",72,47,3
+48,High Time We Went/Black-Eyed Blues,Joe Cocker,58,48,3
+49,13 Questions,Seatrain,49,49,10
+50,I Cried,James Brown,50,50,5
+51,Light Sings,The 5th Dimension,62,51,3
+52,Booty Butt,The Ray Charles Orchestra,47,36,12
+53,Ajax Liquor Store,Hudson and Landry,53,53,7
+54,L.A. International Airport,Susan Raye,55,54,8
+55,House At Pooh Corner,Nitty Gritty Dirt Band,56,55,7
+56,Spinning Around (I Must Be Falling In Love),The Main Ingredient,59,56,5
+57,Life/Only Believe,Elvis Presley,60,57,4
+58,Here Comes That Rainy Day Feeling Again,The Fortunes,68,58,4
+59,Melting Pot,Booker T. & The MG's,52,45,12
+60,Tarkio Road,Brewer And Shipley,64,60,4
+61,The Court Room,Clarence Carter,61,61,5
+62,"Take Me Home, Country Roads",John Denver,70,62,7
+63,Feelin' Alright,Grand Funk Railroad,54,54,6
+64,Mr. Big Stuff,Jean Knight,92,64,2
+65,Ooh Poo Pah Doo,Ike & Tina Turner,81,65,4
+66,Bring The Boys Home,Freda Payne,-1,66,1
+67,Brownsville,Joy Of Cooking,66,66,7
+68,Bad Water,The Raelettes,67,58,13
+69,Help Me Make It Through The Night,Joe Simon,69,69,4
+70,Can't Find The Time,Rose Colored Glass,74,70,9
+71,You're My Man,Lynn Anderson,75,71,4
+72,Hot Love,T. Rex,82,72,5
+73,Your Love (Means Everything to Me),Charles Wright And The Watts 103rd Street Rhythm Band,76,73,4
+74,What You See Is What You Get,Stoney & Meatloaf,79,74,3
+75,Wholesale Love,Buddy Miles,80,75,4
+76,Get It On,Chase,83,76,3
+77,Sooner Or Later,The Grass Roots,-1,77,1
+78,I Am...I Said/Done Too Soon,Neil Diamond,41,4,11
+79,Chicago,Graham Nash,-1,79,1
+80,You've Got A Friend,James Taylor,-1,80,1
+81,I Know I'm In Love,Chee-Chee & Peppy,93,81,2
+82,Flim Flam Man,Barbra Streisand,85,82,4
+83,And I Love You So,Bobby Goldsboro,86,83,5
+84,Never Ending Song Of Love,Delaney & Bonnie & Friends,87,84,3
+85,Follow Me,Mary Travers,88,85,3
+86,I Don't Wanna Lose You,Johnnie Taylor,91,86,3
+87,Walk Away,The James Gang,89,87,2
+88,Signs,Five Man Electrical Band,96,88,2
+89,If Not For You,Olivia Newton-John,98,89,2
+90,It's So Hard For Me To Say Good-Bye,Eddie Kendricks,90,90,2
+91,I Don't Want To Do Wrong,Gladys Knight And The Pips,-1,91,1
+92,Love Means (You Never Have To Say You're Sorry),Sounds Of Sunshine,100,92,2
+93,Your Love Is So Doggone Good,The Whispers,94,93,2
+94,California Earthquake,Norman Greenbaum,95,94,4
+95,I've Found Someone Of My Own,The Free Movement,97,95,3
+96,Mandrill,Mandrill,-1,96,1
+97,Love's Made A Fool Of You,Cochise,99,97,2
+98,Call Me Up In Dreamland,Van Morrison,-1,98,1
+99,"Stop, Look, Listen (To Your Heart)",The Stylistics,-1,99,1
+100,You Gotta Have Love In Your Heart,The Supremes & Four Tops,-1,100,1

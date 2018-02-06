@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Moody River,Pat Boone,2,1,8
+2,Travelin' Man,Ricky Nelson,1,1,9
+3,Quarter To Three,U.S. Bonds,9,3,5
+4,Stand By Me,Ben E. King,4,4,7
+5,Raindrops,Dee Clark,5,5,8
+6,The Writing On The Wall,Adam Wade,6,6,6
+7,Tossin' And Turnin',Bobby Lewis,17,7,9
+8,Every Beat Of My Heart,Pips,8,8,6
+9,The Boll Weevil Song,Brook Benton,10,9,6
+10,Those Oldies But Goodies (Remind Me Of You),Little Caesar and The Romans,11,10,8
+11,Running Scared,Roy Orbison,3,1,11
+12,You Always Hurt The One You Love,Clarence Henry,14,12,6
+13,Barbara-Ann,The Regents,13,13,6
+14,I Feel So Bad,Elvis Presley,7,5,6
+15,Yellow Bird,Arthur Lyman Group,23,15,4
+16,Dance On Little Girl,Paul Anka,21,16,4
+17,Hello Mary Lou,Ricky Nelson,15,9,8
+18,Heart And Soul,The Cleftones,43,18,5
+19,Hello Walls,Faron Young,18,12,11
+20,Peanut Butter,The Marathons,24,20,9
+21,Rama Lama Ding Dong,The Edsels,26,21,8
+22,Mama Said,The Shirelles,12,4,10
+23,Little Egypt (Ying-Yang),The Coasters,25,23,9
+24,Daddy's Home,Shep And The Limelites,16,2,13
+25,I'm A Fool To Care,Joe Barry,27,25,9
+26,A Hundred Pounds Of Clay,Gene McDaniels,19,3,14
+27,Wild In The Country,Elvis Presley With The Jordanaires,48,27,3
+28,Mother-In-Law,Ernie K-Doe,22,1,13
+29,Temptation,The Everly Brothers,32,29,4
+30,Tell Me Why,The Belmonts,41,30,5
+31,Tragedy,The Fleetwoods,20,10,10
+32,Little Devil,Neil Sedaka,30,11,8
+33,Hats Off To Larry,Del Shannon,70,33,3
+34,Breakin' In A Brand New Broken Heart,Connie Francis,28,7,10
+35,Count Every Star,Donnie and The Dreamers,38,35,8
+36,Girl Of My Best Friend,Ral Donner,34,19,10
+37,Lullaby Of Love,Frank Gari,31,23,11
+38,Better Tell Him No,The Starlets,40,38,9
+39,Never On Sunday,Don Costa And His Orchestra And Chorus,37,19,22
+40,It Keeps Rainin',Fats Domino,44,40,6
+41,Stick With Me Baby,The Everly Brothers,50,41,3
+42,Runaway,Del Shannon,29,1,16
+43,San Antonio Rose,Floyd Cramer,74,43,3
+44,The Bilbao Song,Andy Williams,39,37,9
+45,Triangle,Janie Grant,35,29,13
+46,My Kind Of Girl,Matt Monro,51,46,4
+47,Cupid,Sam Cooke,64,47,3
+48,Three Hearts In A Tangle,Roy Drusky,61,48,11
+49,I'm Comin' On On Back To You,Jackie Wilson,72,49,2
+50,What A Surprise,Johnny Maestro The Voice Of The Crests,33,33,9
+51,Jimmy Martinez,Marty Robbins,53,51,4
+52,I Don't Mind,James Brown And The Famous Flames,55,52,6
+53,Please Stay,The Drifters,65,53,3
+54,Halfway To Paradise,Tony Orlando,42,39,8
+55,Ole Buttermilk Sky,Bill Black's Combo,77,55,3
+56,Exodus,Eddie Harris,36,36,11
+57,Tonight (Could Be The Night),The Velvets featuring Virgil Johnson,67,57,4
+58,Every Beat Of My Heart,Gladys Knight And The Pips,45,45,6
+59,Anna,Jorgen Ingmann & His Guitar,54,54,5
+60,Nobody Cares (about me),Jeanette (Baby) Washington,62,60,8
+61,Sacred,The Castells,71,61,4
+62,Jura (I Swear I Love You),Les Paul And Mary Ford,66,62,7
+63,Portrait Of My Love,Steve Lawrence,46,9,16
+64,I Fall To Pieces,Patsy Cline,68,64,5
+65,The Wayward Wind,Gogi Grant,52,50,9
+66,Nature Boy,Bobby Darin,84,66,2
+67,That Old Black Magic,Bobby Rydell,47,21,8
+68,You Can't Sit Down Part 2,Philip Upchurch Combo,-1,68,1
+69,Dum Dum,Brenda Lee,-1,69,1
+70,Fool That I Am,Etta James,83,70,2
+71,"I Like It Like That, Part 1",Chris Kenner,75,71,4
+72,Yellow Bird,Lawrence Welk And His Orchestra,79,72,2
+73,The Girl's A Devil,The Dukays,76,73,6
+74,How Many Tears,Bobby Vee,63,63,4
+75,Should I,The String-A-Longs,98,75,2
+76,Right Or Wrong,Wanda Jackson,82,76,3
+77,Watch Your Step,Bobby Parker,92,77,2
+78,Buzz Buzz A-Diddle-It,Freddy Cannon,58,51,8
+79,The Lonely Crowd,Teddy Vann,87,79,3
+80,Daydreams,Johnny Crawford,88,80,2
+81,Mom And Dad's Waltz,Patti Page,94,81,2
+82,Hold Back The Tears,The Delacardos,86,82,3
+83,A Scottish Soldier (Green Hills of Tyrol),Andy Stewart,-1,83,4
+84,I've Got News For You,Ray Charles,-1,84,1
+85,Let's Twist Again,Chubby Checker,-1,85,1
+86,Bobby,Neil Scott,100,86,2
+87,I'm Gonna Move To The Outskirts Of Town,Ray Charles,-1,87,1
+88,"(Theme From) ""Goodbye Again""",Ferrante & Teicher,91,88,2
+89,Sad Eyes (Don't You Cry),The Echoes,95,89,2
+90,Blue Tomorrow,Billy Vaughn And His Orchestra,99,90,2
+91,I'm Gonna Knock On Your Door,Eddie Hodges,-1,91,1
+92,The Float,Hank Ballard And The Midnighters,-1,92,1
+93,Point Of No Return,Adam Wade,-1,93,1
+94,Dooley,The Olympics,-1,94,1
+95,Sea Of Heartbreak,Don Gibson,-1,95,1
+96,Joanie,Frankie Calen,97,96,2
+97,The Charleston,Ernie Fields,-1,97,1
+98,Never On Sunday,The Chordettes,-1,98,1
+99,"No, No, No",The Chanters,-1,99,1
+100,I'll Never Be Free,Kay Starr,-1,100,1

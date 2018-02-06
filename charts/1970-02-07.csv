@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Venus,The Shocking Blue,2,1,9
+2,I Want You Back,Jackson 5,1,1,13
+3,Raindrops Keep Fallin' On My Head,B.J. Thomas,3,1,15
+4,Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star,Sly & The Family Stone,8,4,6
+5,Without Love (There Is Nothing),Tom Jones,5,5,7
+6,I'll Never Fall In Love Again,Dionne Warwick,7,6,7
+7,Hey There Lonely Girl,Eddie Holman,13,7,7
+8,Whole Lotta Love,Led Zeppelin,4,4,12
+9,No Time,The Guess Who,17,9,8
+10,Jingle Jangle,The Archies,11,10,11
+11,Psychedelic Shack,The Temptations,21,11,4
+12,Leaving On A Jet Plane,"Peter, Paul & Mary",10,1,16
+13,Arizona,Mark Lindsay,14,13,10
+14,Don't Cry Daddy/Rubberneckin',Elvis Presley,6,6,11
+15,Someday We'll Be Together,Diana Ross & The Supremes,9,1,14
+16,Walk A Mile In My Shoes,Joe South and The Believers,19,16,6
+17,Jam Up Jelly Tight,Tommy Roe,15,8,13
+18,Travelin' Band/Who'll Stop The Rain,Creedence Clearwater Revival,50,18,2
+19,Walkin' In The Rain,Jay & The Americans,20,19,12
+20,Early In The Morning,Vanity Fare,12,12,12
+21,Blowing Away,The 5th Dimension,22,21,6
+22,Winter World Of Love,Engelbert Humperdinck,16,16,10
+23,Midnight Cowboy,Ferrante & Teicher,18,10,15
+24,Baby Take Me In Your Arms,Jefferson,25,24,8
+25,Honey Come Back,Glen Campbell,30,25,4
+26,Rainy Night In Georgia/Rubberneckin',Brook Benton,34,26,5
+27,The Thrill Is Gone,B.B. King,32,27,7
+28,Didn't I (Blow Your Mind This Time),The Delfonics,45,28,5
+29,"Wonderful World, Beautiful People",Jimmy Cliff,26,25,10
+30,She Came In Through The Bathroom Window,Joe Cocker,31,30,10
+31,Fancy,Bobbie Gentry,39,31,12
+32,Let's Work Together (Part 1),Wilbert Harrison,36,32,10
+33,Ma Belle Amie,The Tee Set,71,33,3
+34,Oh Me Oh My (I'm A Fool For You Baby),Lulu,52,34,7
+35,"He Ain't Heavy, He's My Brother",The Hollies,57,35,8
+36,One Tin Soldier,The Original Caste,48,36,13
+37,Give Me Just A Little More Time,Chairman Of The Board,60,37,4
+38,She Belongs To Me,Rick Nelson,37,33,17
+39,Monster,Steppenwolf,43,39,7
+40,Evil Ways,Santana,61,40,3
+41,How Can I Forget/Gonna Give Her All The Love I've Got,Marvin Gaye,42,41,5
+42,Let A Man Come In And Do The Popcorn (Part Two),James Brown,40,40,8
+43,Breaking Up Is Hard To Do,Lenny Welch,54,43,5
+44,Love Bones,Johnnie Taylor,49,44,8
+45,Tonight I'll Say A Prayer,Eydie Gorme,51,45,11
+46,Always Something There To Remind Me,R.B. Greaves,73,46,3
+47,Cupid,Johnny Nash,44,39,14
+48,When Julie Comes Around,The Cuff Links,41,41,9
+49,Bridge Over Troubled Water,Simon & Garfunkel,-1,49,1
+50,The Rapper,The Jaggerz,79,50,2
+51,Hold On,The Rascals,53,51,6
+52,Traces/Memories Medley,The Lettermen,47,47,7
+53,Jennifer Tomkins,Street People,66,53,6
+54,You Got Me Hummin,Cold Blood,87,54,3
+55,If I Were A Carpenter,Johnny Cash & June Carter,67,55,3
+56,Moon Walk Part 1,Joe Simon,62,56,6
+57,Oh What A Day,The Dells,77,57,3
+58,The Touch Of You,Brenda & The Tabulations,63,58,4
+59,My Honey And Me,Luther Ingram,64,59,5
+60,Won't Find Better (Than Me),The New Hope,69,60,6
+61,I'm Just A Prisoner (Of Your Good Lovin'),Candi Staton,65,61,6
+62,Do The Funky Chicken,Rufus Thomas,-1,62,1
+63,Bold Soul Sister,Ike & Tina Turner,59,59,8
+64,New World Coming,Mama Cass Elliot,82,64,2
+65,I've Gotta Make You Love Me,Steam,80,65,3
+66,Look-Ka Py Py,The Meters,56,56,10
+67,Never Had A Dream Come True,Stevie Wonder,-1,67,1
+68,Hello It's Me,Nazz,76,68,11
+69,Je T'Aime...Moi Non Plus,Jane Birkin Serge Gainsbourg,92,69,4
+70,Got To See If I Can't Get Mommy (To Come Back Home),Jerry Butler,72,70,3
+71,If Walls Could Talk,Little Milton,75,71,4
+72,How Can I Tell My Mom & Dad,The Lovelites,74,72,5
+73,House Of The Rising Sun,Frijid Pink,-1,73,1
+74,Good Guys Only Win In The Movies,Mel And Tim,-1,74,1
+75,"Easy Come, Easy Go",Bobby Sherman,-1,75,1
+76,Save The Country,Thelma Houston,98,76,2
+77,Oh Well - Pt. I,Fleetwood Mac,81,77,2
+78,Mornin Mornin,Bobby Goldsboro,84,78,5
+79,Down In The Alley,Ronnie Hawkins,83,79,2
+80,"Barbara, I Love You",New Colony Six,78,78,5
+81,The Court Of The Crimson King - Part 1,King Crimson,96,81,2
+82,Shilo,Neil Diamond,-1,82,1
+83,Why Should I Cry,The Gentrys,-1,83,1
+84,Superstar,Murray Head With The Trinidad Singers,99,84,2
+85,If I Never Knew Your Name,Vic Dana,91,85,5
+86,My Elusive Dreams,Bobby Vinton,-1,86,1
+87,The Ghetto-Part 1,Donny Hathaway,94,87,4
+88,It's Just A Matter Of Time,Sonny James,90,88,3
+89,Come Saturday Morning,The Sandpipers,89,83,8
+90,Welfare Cadilac,Guy Drake,93,90,2
+91,Victoria,The Kinks,97,91,2
+92,Come And Get It,Badfinger,-1,92,1
+93,Can't Help Falling In Love,Al Martino,-1,93,1
+94,Then She's A Lover,Roy Clark,95,94,3
+95,She's Ready,Spiral Starecase Featuring: Pat Upton,-1,95,1
+96,1984,Spirit,-1,96,1
+97,Jesus Is Just Alright,The Byrds,-1,97,1
+98,The Bells,The Originals,-1,98,1
+99,Call Me/Son Of A Preacher Man,Aretha Franklin,-1,99,1
+100,I'll See Him Through,Tammy Wynette,100,100,2

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Ballad Of The Green Berets,SSgt Barry Sadler,1,1,9
+2,19th Nervous Breakdown,The Rolling Stones,2,2,6
+3,(You're My) Soul And Inspiration,The Righteous Brothers,8,3,5
+4,Daydream,The Lovin' Spoonful ,6,4,6
+5,Homeward Bound,Simon & Garfunkel,5,5,8
+6,Nowhere Man,The Beatles,3,3,5
+7,California Dreamin',The Mamas & The Papas,7,4,13
+8,These Boots Are Made For Walkin',Nancy Sinatra,4,1,11
+9,Bang Bang (My Baby Shot Me Down),Cher,17,9,4
+10,Sure Gonna Miss Her,Gary Lewis And The Playboys,14,10,5
+11,I'm So Lonesome I Could Cry,B.J. Thomas And The Triumphs,12,11,7
+12,Love Makes The World Go Round,Deon Jackson,11,11,11
+13,"634-5789 (Soulsville, U.S.A.)",Wilson Pickett,13,13,8
+14,Woman,Peter And Gordon,15,14,8
+15,Secret Agent Man,Johnny Rivers,22,15,3
+16,Time Won't Let Me,The Outsiders,21,16,7
+17,Listen People,Herman's Hermits,10,3,7
+18,Elusive Butterfly,Bob Lind,9,5,11
+19,Baby Scratch My Back,Slim Harpo,16,16,10
+20,This Old Heart Of Mine (Is Weak For You),The Isley Brothers,25,20,7
+21,Magic Town,The Vogues,26,21,6
+22,Little Latin Lupe Lu,Mitch Ryder And The Detroit Wheels,27,22,5
+23,"Shake Me, Wake Me (When It's Over)",Four Tops,18,18,7
+24,You Baby,The Turtles,20,20,9
+25,Walkin' My Cat Named Dog,Norma Tanega,30,25,6
+26,It's Too Late,Bobby Goldsboro,23,23,7
+27,Good Lovin',The Young Rascals,40,27,4
+28,Kicks,Paul Revere & The Raiders Featuring Mark Lindsay,39,28,3
+29,Get Ready,The Temptations,32,29,6
+30,I Fought The Law,Bobby Fuller Four,19,9,10
+31,The Cheater,Bob Kuban And The In-Men,28,12,10
+32,The Rains Came,Sir Douglas Quintet,31,31,10
+33,One More Heartache,Marvin Gaye,29,29,7
+34,Inside-Looking Out,The Animals,41,34,6
+35,Satisfaction,Otis Redding,43,35,5
+36,A Sign Of The Times,Petula Clark,70,36,2
+37,Think I'll Go Somewhere And Cry Myself To Sleep,Al Martino,45,37,4
+38,I Want To Go With You,Eddy Arnold,36,36,9
+39,My Baby Loves Me,Martha & The Vandellas,24,22,11
+40,Husbands And Wives,Roger Miller,37,26,7
+41,Spanish Flea,Herb Alpert & The Tijuana Brass,55,41,3
+42,Shapes Of Things,The Yardbirds,52,42,3
+43,What Now My Love,Herb Alpert & The Tijuana Brass,53,43,3
+44,Ain't That A Groove (Part 1),James Brown And The Famous Flames,44,44,5
+45,Somewhere There's A Someone,Dean Martin,34,32,8
+46,Lightnin' Strikes,Lou Christie,33,1,15
+47,Time,Pozo Seco Singers,50,47,6
+48,Somewhere,Len Barry,59,48,3
+49,Outside The Gates Of Heaven,Lou Christie,57,49,5
+50,Frankie And Johnny,Elvis Presley,60,50,3
+51,I Hear Trumpets Blow,The Tokens ,58,51,3
+52,Batman Theme,The Marketts,35,17,9
+53,Batman Theme,Neal Hefti,38,35,8
+54,The Phoenix Love Theme (Senza Fine),The Brass Ring featuring Phil Bodner,64,54,4
+55,The One On The Right Is On The Left,Johnny Cash,46,46,6
+56,Lullaby Of Love,The Poppies,56,56,5
+57,Helpless,Kim Weston,63,57,4
+58,Please Don't Stop Loving Me,Elvis Presley,69,58,3
+59,Juanita Banana,The Peels,65,59,4
+60,Gloria,Shadows Of Knight,75,60,3
+61,The Love You Save (May Be Your Own),Joe Tex,61,61,5
+62,One Track Mind,The Knickerbockers,67,62,3
+63,Secret Agent Man,The Ventures,54,54,6
+64,Stop Her On Sight (S.O.S.),Edwin Starr,48,48,7
+65,"Caroline, No",Brian Wilson,80,65,2
+66,Together Again,Ray Charles,86,66,2
+67,Rhapsody In The Rain,Lou Christie,83,67,2
+68,Sloop John B,The Beach Boys,-1,68,1
+69,Young Love,Lesley Gore,78,69,2
+70,Memories Are Made Of This,The Drifters,71,70,3
+71,Tippy Toeing,The Harden Trio,72,71,4
+72,Dear Lover,Mary Wells,51,51,8
+73,Follow Me,Lyme & Cybelle,73,73,3
+74,I Can't Grow Peaches On A Cherry Tree,Just Us,85,74,4
+75,Till The End Of The Day,The Kinks,81,75,2
+76,Hi Heel Sneakers - Pt. 1,Ramsey Lewis Trio,82,76,2
+77,I Want Someone,The Mad Lads,74,74,5
+78,Wait A Minute,Tim Tam And The Turn-Ons,76,76,5
+79,Message To Michael,Dionne Warwick,-1,79,1
+80,Got My Mojo Working (Part I),Jimmy Smith,-1,80,1
+81,She Blew A Good Thing,The Poets,89,81,3
+82,I Surrender,Fontella Bass,84,82,2
+83,"Love Is Me, Love Is You",Connie Francis,92,83,3
+84,I Can't Let Go,The Hollies,91,84,3
+85,Sippin' 'N Chippin',The T-Bones,90,85,2
+86,Try Too Hard,The Dave Clark Five,-1,86,1
+87,A Lover's Concerto,Sarah Vaughan,-1,87,1
+88,Killer Joe,The Kingsmen,-1,88,1
+89,He Wore The Green Beret,Nancy Ames,95,89,3
+90,I'll Take Good Care Of You,Garnet Mimms,94,90,2
+91,You're Just About To Lose Your Clown,Ray Charles,99,91,2
+92,La La La,Gerry And The Pacemakers,-1,92,1
+93,Philly Dog,The Mar-Keys,-1,93,3
+94,Too Slow,The Impressions,-1,94,1
+95,Uptight (Everything's Alright),The Jazz Crusaders,-1,95,1
+96,May My Heart Be Cast Into Stone,The Toys,-1,96,1
+97,No Man Is An Island,The Van Dykes,-1,97,1
+98,Stop!,The Moody Blues,-1,98,1
+99,For Your Precious Love,Jerry Butler,100,99,2
+100,I'm Living In Two Worlds,Bonnie Guitar,-1,100,1

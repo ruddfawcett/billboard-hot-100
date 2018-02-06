@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Are You Lonesome To-night?,Elvis Presley With The Jordanaires,1,1,4
+2,Last Date,Floyd Cramer,2,2,9
+3,Poetry In Motion,Johnny Tillotson,4,2,9
+4,Stay,Maurice Williams & The Zodiacs,3,1,10
+5,A Thousand Stars,Kathy Young With The Innocents,5,5,7
+6,North To Alaska,Johnny Horton,7,6,12
+7,He Will Break Your Heart,Jerry Butler,11,7,6
+8,New Orleans,U.S. Bonds,6,6,8
+9,Sailor (Your Home Is The Sea),Lolita,12,9,7
+10,"Let's Go, Let's Go, Let's Go",Hank Ballard And The Midnighters,9,6,12
+11,Many Tears Ago,Connie Francis,14,11,5
+12,Alone At Last,Jackie Wilson,8,8,9
+13,Wonderland By Night,Bert Kaempfert And His Orchestra,20,13,4
+14,My Girl Josephine,Fats Domino,24,14,7
+15,Georgia On My Mind,Ray Charles,10,1,11
+16,Sway,Bobby Rydell,16,16,5
+17,You're Sixteen,Johnny Burnette,21,17,6
+18,Save The Last Dance For Me,The Drifters,13,1,14
+19,Perfidia,The Ventures,18,18,6
+20,The Hucklebuck,Chubby Checker,15,14,9
+21,Lonely Teenager,Dion,32,21,8
+22,I'll Save The Last Dance For You,Damita Jo,29,22,7
+23,Like Strangers,The Everly Brothers,22,22,6
+24,Fools Rush In (Where Angels Fear To Tread),Brook Benton,31,24,4
+25,I Want To Be Wanted,Brenda Lee,17,1,13
+26,To Each His Own,The Platters,28,21,9
+27,I Gotta Know,Elvis Presley With The Jordanaires,34,27,4
+28,You Talk Too Much,Joe Jones,19,3,12
+29,Sleep,Little Willie John,23,13,14
+30,Exodus,Ferrante & Teicher,40,30,4
+31,Ol' Mac Donald,Frank Sinatra,25,25,5
+32,Am I The Man,Jackie Wilson,37,32,7
+33,Artificial Flowers,Bobby Darin,38,20,11
+34,My Dearest Darling,Etta James,42,34,12
+35,Ruby Duby Du,Tobin Mathews & Co.,30,30,6
+36,Blue Angel,Roy Orbison,27,9,12
+37,Am I Losing You,Jim Reeves,33,33,7
+38,Natural Born Lover,Fats Domino,50,38,6
+39,Last Date,Lawrence Welk And His Orchestra,70,39,4
+40,Ballad Of The Alamo,Marty Robbins,48,40,8
+41,Blue Tango,Bill Black's Combo,75,41,2
+42,Togetherness,Frankie Avalon,36,26,12
+43,Gonzo,James Booker,49,43,5
+44,Wait For Me,The Playmates,39,37,7
+45,Ruby,Ray Charles,61,45,3
+46,Dear John,Pat Boone,44,44,7
+47,Alabam,Pat Boone,54,47,7
+48,Devil Or Angel,Bobby Vee,26,6,19
+49,I Missed Me,Jim Reeves,53,49,4
+50,Ruby Duby Du From Key Witness,Charles Wolcott,41,41,6
+51,Wonderland By Night,Louis Prima,78,51,4
+52,Don't Be Cruel,Bill Black's Combo,35,11,13
+53,Rubber Ball,Bobby Vee,67,53,2
+54,Main Theme from Exodus (Ari's Theme),Mantovani & His Orch.,62,54,3
+55,Hardhearted Hannah,Ray Charles,66,55,3
+56,Gee Whiz,The Innocents,59,56,3
+57,Peter Gunn,Duane Eddy His Twangy Guitar And The Rebels,52,27,9
+58,Will You Love Me Tomorrow,The Shirelles,73,58,3
+59,Once In Awhile,The Chimes,64,59,6
+60,My Heart Has A Mind Of Its Own,Connie Francis,45,1,17
+61,Summer's Gone,Paul Anka,51,11,11
+62,Wings Of A Dove,Ferlin Husky,79,62,2
+63,Let's Think About Living,Bob Luman,43,7,14
+64,Love Walked In,Dinah Washington,47,30,10
+65,The Green Leaves Of Summer,The Brothers Four,65,65,6
+66,The Sundowners,Billy Vaughn And His Orchestra,68,51,10
+67,Walk Slow,Little Willie John,81,67,2
+68,Send Me The Pillow You Dream On,The Browns Featuring Jim Edward Brown,76,68,4
+69,Sad Mood,Sam Cooke,-1,69,1
+70,The Bells,James Brown,74,70,4
+71,"Corinna, Corinna",Ray Peterson,84,71,3
+72,Doll House,Donnie Brooks,86,72,2
+73,Alabam,Cowboy Copas,69,63,11
+74,Don't Go To Strangers,Etta Jones,72,72,5
+75,The Big Time Spender (Parts I & II),Cornbread & Biscuits,77,75,4
+76,Cry Cry Cry,Bobby Bland,71,71,5
+77,Ballad Of The Alamo,Bud & Travis,85,64,8
+78,Theme From The Apartment,Ferrante & Teicher,58,10,20
+79,Groovy Tonight,Bobby Rydell,-1,79,1
+80,Ramona,The Blue Diamonds,87,80,2
+81,Gee,Jan & Dean,89,81,4
+82,Bumble Bee,LaVern Baker,93,82,4
+83,Come Rain Or Come Shine,Ray Charles,95,83,2
+84,The Hoochi Coochi Coo,Hank Ballard And The Midnighters,-1,84,1
+85,Serenata,Sarah Vaughan,91,82,6
+86,Gloria's Theme,Adam Wade,94,86,3
+87,The Magnificent Seven,Al Caiola And His Orchestra,-1,87,1
+88,Rambling,The Ramblers,-1,88,1
+89,Wonderland By Night,Anita Bryant,-1,89,1
+90,Dance By The Light Of The Moon,The Olympics,-1,90,1
+91,You Are My Sunshine,Johnny And The Hurricanes,-1,91,1
+92,Have You Ever Been Lonely (Have You Ever Been Blue),Teresa Brewer,100,92,2
+93,Sweet Dreams,Don Gibson,96,93,4
+94,Psycho,Bobby Hendricks,97,73,4
+95,Diamonds And Pearls,The Paradons,57,18,16
+96,Little Miss Blue,Dion,-1,96,1
+97,The Age For Love,Jimmy Charles,-1,97,1
+98,(You Better) Know What You're Doin',Lloyd Price and His Orchestra,-1,98,1
+99,Wabash Blues,The Viscounts,-1,99,1
+100,"Rockin', Rollin' Ocean",Hank Snow,-1,100,1

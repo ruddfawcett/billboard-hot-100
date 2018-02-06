@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I'm A Believer,The Monkees,1,1,10
+2,Georgy Girl,The Seekers,2,2,11
+3,Kind Of A Drag,The Buckinghams,5,3,7
+4,Ruby Tuesday,The Rolling Stones,11,4,4
+5,(We Ain't Got) Nothin' Yet,Blues Magoos,7,5,10
+6,Tell It Like It Is,Aaron Neville,4,2,11
+7,98.6,Keith,8,7,10
+8,Snoopy Vs. The Red Baron,The Royal Guardsmen,3,2,9
+9,Love Is Here And Now You're Gone,The Supremes,27,9,3
+10,The Beat Goes On,Sonny & Cher,16,10,5
+11,I Had Too Much To Dream (Last Night),The Electric Prunes,18,11,10
+12,Stand By Me,Spyder Turner,14,12,9
+13,"Green, Green Grass Of Home",Tom Jones,13,13,8
+14,Words Of Love,The Mamas & The Papas,6,5,11
+15,Music To Watch Girls By,Bob Crewe Generation,17,15,7
+16,Then You Can Tell Me Goodbye,The Casinos,23,16,5
+17,Gimme Some Lovin',The Spencer Davis Group,26,17,7
+18,Standing In The Shadows Of Love,Four Tops,10,6,9
+19,Good Thing,Paul Revere & The Raiders Featuring Mark Lindsay,9,4,11
+20,Wild Thing,Senator Bobby Featuring Bill Minkin,20,20,6
+21,"Mercy, Mercy, Mercy",Cannonball Adderley,29,21,6
+22,Nashville Cats,The Lovin' Spoonful,12,8,9
+23,Knight In Rusty Armour,Peter And Gordon,15,15,8
+24,It's Now Winters Day,Tommy Roe,24,24,8
+25,Pretty Ballerina,The Left Banke,34,25,6
+26,Hello Hello,"The Sopwith ""Camel""",31,26,8
+27,Go Where You Wanna Go,The 5th Dimension,36,27,5
+28,Color My World,Petula Clark,19,16,8
+29,It Takes Two,Marvin Gaye & Kim Weston,35,29,6
+30,Bring It Up,James Brown And The Famous Flames,30,30,6
+31,Tell It To The Rain,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",21,10,10
+32,You Got To Me,Neil Diamond,54,32,3
+33,I've Passed This Way Before,Jimmy Ruffin,28,17,11
+34,Where Will The Words Come From,Gary Lewis And The Playboys,25,21,9
+35,Lovin' You,Bobby Darin,48,35,5
+36,My Cup Runneth Over,Ed Ames,50,36,4
+37,"Ride, Ride, Ride",Brenda Lee,43,37,5
+38,"Hey, Leroy, Your Mama's Callin' You",Jimmy Castor,38,38,7
+39,How Do You Catch A Girl,Sam The Sham and the Pharaohs,33,27,8
+40,Pushin' Too Hard,The Seeds,41,40,8
+41,Sugar Town,Nancy Sinatra,22,5,13
+42,It May Be Winter Outside (But In My Heart It's Spring),Felice Taylor,42,42,5
+43,All,James Darren,49,43,5
+44,I've Got To Have A Reason,The Dave Clark Five,45,44,6
+45,Are You Lonely For Me,Freddy Scott,46,45,8
+46,The Hunter Gets Captured By The Game,The Marvelettes,56,46,4
+47,Indescribably Blue,Elvis Presley With The Jordanaires and The Imperials Quartet,58,47,3
+48,Wish You Didn't Have To Go,James & Bobby Purify,51,48,3
+49,Baby I Need Your Lovin',Johnny Rivers,81,49,2
+50,Look What You've Done,Pozo Seco Singers,32,32,9
+51,So You Want To Be A Rock 'N' Roll Star,The Byrds,61,51,3
+52,Grizzly Bear,The Youngbloods,53,52,9
+53,I've Been Lonely Too Long,The Young Rascals,63,53,3
+54,Tramp,Lowell Fulsom,60,54,5
+55,Niki Hoeky,P.J. Proby,65,55,3
+56,"For What It's Worth (Stop, Hey What's That Sound)",The Buffalo Springfield,70,56,3
+57,Let's Spend The Night Together,The Rolling Stones,59,57,4
+58,Sock It To Me-Baby!,Mitch Ryder And The Detroit Wheels,82,58,2
+59,Everybody Needs Somebody To Love,Wilson Pickett,77,59,2
+60,Let's Fall In Love,Peaches & Herb,71,60,5
+61,I'll Take Care Of Your Cares,Frankie Laine,66,61,4
+62,I'm Gonna Miss You,The Artistics,55,55,9
+63,Wish Me A Rainbow,The Gunter Kallmann Chorus,64,63,8
+64,The Dis-Advantages Of You,The Brass Ring featuring Phil Bodner,79,64,2
+65,No Fair At All,The Association,80,65,2
+66,Daddy's Little Girl,Al Martino,84,66,3
+67,Lady,Jack Jones,72,67,4
+68,If You Go Away,Damita Jo,68,68,10
+69,Epistle To Dippy,Donovan,-1,69,1
+70,Tiny Bubbles,Don Ho and the Aliis,75,70,10
+71,California Nights,Lesley Gore,94,71,2
+72,There Goes My Everything,Jack Greene,74,72,6
+73,Spooky,Mike Sharpe,73,73,3
+74,Our Winter Love,The Lettermen,76,74,3
+75,Pucker Up Buttercup,Jr. Walker & The All Stars,-1,75,1
+76,I Dig You Baby,Jerry Butler,86,76,4
+77,I Wish You Could Be Here,The Cyrkle,95,77,2
+78,Something Good (Is Going To Happen To You),Carla Thomas,78,78,5
+79,Happy Together,The Turtles,-1,79,1
+80,"Sit Down, I Think I Love You",The Mojo Men,90,80,2
+81,Keep A Light In The Window Till I Come Home,Solomon Burke,-1,81,1
+82,I Think We're Alone Now,Tommy James And The Shondells,-1,82,1
+83,The People In Me,The Music Machine,98,83,3
+84,Darling Be Home Soon,The Lovin' Spoonful,-1,84,1
+85,The Little Black Egg,The Nightcrawlers,85,85,4
+86,Skate Now,Lou Courtney,87,86,3
+87,"Sunrise, Sunset",Roger Williams,92,87,3
+88,Ooh Baby,Bo Diddley,89,88,4
+89,Danger! She's A Stranger,The Five Stairsteps,91,89,5
+90,There's A Kind Of Hush,Herman's Hermits,-1,90,1
+91,Feel So Bad,Little Milton,97,91,2
+92,Trouble Down Here Below,Lou Rawls,93,92,3
+93,Just Be Sincere,Jackie Wilson,-1,93,1
+94,My Special Prayer,Joe Simon,96,94,2
+95,"One, Two, Three",Ramsey Lewis,-1,95,1
+96,Every Day I Have The Blues,Billy Stewart,-1,96,1
+97,Ten Commandments,Prince Buster,99,97,2
+98,Raise Your Hand,Eddie Floyd,100,98,2
+99,People Like You,Eddie Fisher,-1,99,1
+100,Girls Are Out To Get You,The Fascinations,-1,100,1

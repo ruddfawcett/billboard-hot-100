@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Can't Help Myself (Sugar Pie Honey Bunch),Four Tops,4,1,6
+2,Mr. Tambourine Man,The Byrds,6,2,6
+3,Wooly Bully,Sam The Sham and the Pharaohs,2,2,12
+4,Crying In The Chapel,Elvis Presley With The Jordanaires,3,3,9
+5,Back In My Arms Again,The Supremes,1,1,8
+6,Wonderful World,Herman's Hermits,8,6,4
+7,"Help Me, Rhonda",The Beach Boys,5,1,10
+8,Engine Engine #9,Roger Miller,7,7,7
+9,For Your Love,The Yardbirds,13,9,6
+10,"Hush, Hush, Sweet Charlotte",Patti Page,14,10,9
+11,Ticket To Ride,The Beatles,9,1,9
+12,Just A Little,The Beau Brummels,10,8,10
+13,Last Chance To Turn Around,Gene Pitney,16,13,7
+14,Mrs. Brown You've Got A Lovely Daughter,Herman's Hermits,11,1,10
+15,Seventh Son,Johnny Rivers,43,15,3
+16,A Walk In The Black Forest,Horst Jankowski,29,16,7
+17,Before And After,Chad & Jeremy,25,17,6
+18,Nothing Can Stop Me,Gene Chandler,24,18,10
+19,True Love Ways,Peter And Gordon,19,14,10
+20,It's Not Unusual,Tom Jones,12,10,11
+21,You Turn Me On (Turn On Song),Ian Whitcomb And Bluesville,51,21,5
+22,What The World Needs Now Is Love,Jackie DeShannon,41,22,5
+23,"Yes, I'm Ready",Barbara Mason,40,23,6
+24,Shakin' All Over,The Guess Who,27,24,7
+25,Catch The Wind,Donovan,31,25,6
+26,(I Can't Get No) Satisfaction,The Rolling Stones,67,26,2
+27,L-O-N-E-L-Y,Bobby Vinton,22,22,7
+28,"Cara, Mia",Jay & The Americans,54,28,3
+29,Laurie (Strange Things Happen),Dickey Lee,47,29,6
+30,Voodoo Woman,Bobby Goldsboro,37,30,8
+31,Silhouettes,Herman's Hermits,18,5,12
+32,(Remember Me) I'm The One Who Loves You,Dean Martin,34,32,5
+33,Just Once In My Life,The Righteous Brothers,21,9,11
+34,You Were Only Fooling (While I Was Falling In Love),Vic Damone,30,30,10
+35,Give Us Your Blessings,The Shangri-Las,42,35,4
+36,I've Been Loving You Too Long (To Stop Now),Otis Redding,46,36,6
+37,Concrete And Clay,Unit Four plus Two,28,28,8
+38,"Oo Wee Baby, I Love You",Fred Hughes,45,38,4
+39,Cast Your Fate To The Wind,Sounds Orchestral,36,10,14
+40,Bring It On Home To Me,The Animals,32,32,6
+41,You Really Know How To Hurt A Guy,Jan & Dean,44,41,5
+42,Three O'Clock In The Morning,Bert Kaempfert And His Orchestra,33,33,8
+43,Queen Of The House,Jody Miller,20,12,9
+44,A World Of Our Own,The Seekers,57,44,4
+45,Here Comes The Night,Them,53,45,4
+46,Concrete And Clay,Eddie Rambeau,35,35,8
+47,A Little Bit Of Heaven,Ronnie Dove,68,47,3
+48,I Do,The Marvelows,58,48,6
+49,This Little Bird,Marianne Faithfull,59,49,3
+50,I'll Never Find Another You,The Seekers,17,4,13
+51,I'll Keep Holding On,The Marvelettes,61,51,4
+52,I'll Be With You In Apple Blossom Time,Wayne Newton,52,52,5
+53,Too Many Rivers,Brenda Lee,63,53,4
+54,Tonight's The Night, Solomon Burke,70,54,4
+55,And I Love Him,Esther Phillips,56,55,7
+56,She's About A Mover,Sir Douglas Quintet,15,13,12
+57,Lipstick Traces (On A Cigarette),The O'Jays,48,48,7
+58,Little Lonely One,Tom Jones,60,58,4
+59,Something You Got,Chuck Jackson & Maxine Brown,55,55,9
+60,Do The Boomerang,Jr. Walker & The All Stars,72,60,3
+61,It's Wonderful To Be In Love,The Ovations (Featuring Louis Williams),66,61,5
+62,When A Boy Falls In Love,Sam Cooke,74,62,3
+63,You'll Never Walk Alone,Gerry And The Pacemakers,76,63,3
+64,Tell Her (You Love Her Every Day),Frank Sinatra,64,64,5
+65,Boo-Ga-Loo,Tom and Jerrio,62,47,8
+66,Love Is A 5-Letter Word,James Phelps,71,66,7
+67,Bring A Little Sunshine (To My Heart),Vic Dana,69,67,5
+68,Set Me Free,The Kinks,83,68,2
+69,What's He Doing In My World,Eddy Arnold,73,69,6
+70,(Such An) Easy Question,Elvis Presley With The Jordanaires,-1,70,1
+71,Marie,The Bachelors,89,71,2
+72,Who's Cheating Who?,Little Milton,84,72,2
+73,Meeting Over Yonder,The Impressions,79,73,3
+74,I Love You So,Bobbi Martin,77,74,4
+75,Is This What I Get For Loving You?,The Ronettes Featuring Veronica,75,75,4
+76,Summer Sounds,Robert Goulet,78,76,3
+77,Temptation 'Bout To Get Me,The Knight Bros.,82,77,2
+78,The Puzzle Song (A Puzzle In Song),Shirley Ellis,80,78,4
+79,What's New Pussycat?,Tom Jones,-1,79,1
+80,It's Just A Little Bit Too Late,Wayne Fontana & The Mindbenders,88,80,2
+81,It Feels So Right,Elvis Presley With The Jordanaires,-1,81,1
+82,Girl Come Running,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",-1,82,1
+83,I Like It Like That,The Dave Clark Five,-1,83,1
+84,Lip Sync (To The Tongue Twisters),Len Barry,86,84,4
+85,Boot-Leg,Booker T. & The MG's,85,85,3
+86,Seein' The Right Love Go Wrong,Jack Jones,95,86,2
+87,Operator,Brenda Holloway,87,87,3
+88,Then I'll Count Again,Johnny Tillotson,92,88,3
+89,My Cherie,Al Martino,90,89,2
+90,He's A Lover,Mary Wells,-1,90,1
+91,Ain't It A Shame,Major Lance,91,91,3
+92,Sitting In The Park,Billy Stewart,-1,92,1
+93,From The Bottom Of My Heart (I Love You),The Moody Blues,97,93,3
+94,Soul Sauce (Guacha Guaro),Cal Tjader ,94,94,3
+95,Welcome Home,Walter Jackson,99,95,2
+96,Are You Sincere,Trini Lopez,98,96,2
+97,"Baby, I'm Yours",Barbara Lewis,-1,97,1
+98,"Sunshine, Lollipops And Rainbows",Lesley Gore,-1,98,1
+99,Long Live Love,Sandie Shaw,100,99,2
+100,Nobody Knows What's Goin' On (In My Mind But Me),The Chiffons,-1,100,1

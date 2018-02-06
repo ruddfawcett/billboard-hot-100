@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Get Off Of My Cloud,The Rolling Stones,1,1,6
+2,A Lover's Concerto,The Toys,2,2,10
+3,1-2-3,Len Barry,8,3,8
+4,You're The One,The Vogues,6,4,9
+5,I Hear A Symphony,The Supremes,12,5,3
+6,Rescue Me,Fontella Bass,9,6,7
+7,Everybody Loves A Clown,Gary Lewis And The Playboys,4,4,8
+8,Let's Hang On!,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",13,8,6
+9,Taste Of Honey,Herb Alpert & The Tijuana Brass,10,9,8
+10,Ain't That Peculiar,Marvin Gaye,15,10,6
+11,Yesterday,The Beatles,3,1,8
+12,Turn! Turn! Turn! (To Everything There Is A Season),The Byrds,31,12,4
+13,Positively 4th Street,Bob Dylan,7,7,7
+14,I Knew You When,Billy Joe Royal,14,14,9
+15,But You're Mine,Sonny & Cher,16,15,6
+16,"Run, Baby Run (Back Into My Arms)",The Newbeats,21,16,7
+17,Everyone's Gone To The Moon,Jonathan King,17,17,8
+18,Keep On Dancing,The Gentrys,5,4,10
+19,Make Me Your Baby,Barbara Lewis,11,11,10
+20,You've Got To Hide Your Love Away,The Silkie,39,20,5
+21,Round Every Corner,Petula Clark,24,21,6
+22,Say Something Funny,Patty Duke,25,22,7
+23,My Baby,The Temptations,36,23,4
+24,I Want To (Do Everything For You),Joe Tex,23,23,12
+25,Where Do You Go,Cher,32,25,5
+26,Where Have All The Flowers Gone,Johnny Rivers,30,26,7
+27,My Girl Has Gone,The Miracles,38,27,6
+28,Just A Little Bit Better,Herman's Hermits,22,7,9
+29,May The Bird Of Paradise Fly Up Your Nose,"""Little"" Jimmy Dickens",43,29,5
+30,Treat Her Right,Roy Head And The Traits,18,2,11
+31,Hang On Sloopy,The McCoys,20,1,14
+32,Chapel In The Moonlight,The Bachelors,37,32,6
+33,I Found A Girl,Jan & Dean,44,33,5
+34,Ring Dang Doo,Sam The Sham and the Pharaohs,45,34,6
+35,Make It Easy On Yourself,The Walker Bros.,48,35,5
+36,Rusty Bells,Brenda Lee,42,36,6
+37,"Liar, Liar",The Castaways,19,12,14
+38,Make The World Go Away,Eddy Arnold,49,38,5
+39,I Will,Dean Martin,58,39,3
+40,Not The Lovin' Kind,"Dino, Desi & Billy",26,25,9
+41,Respect,Otis Redding,35,35,11
+42,"The ""In"" Crowd",Ramsey Lewis Trio,29,5,16
+43,I Miss You So,Little Anthony And The Imperials,34,34,7
+44,Let Me Be,The Turtles,61,44,3
+45,I'm A Man,The Yardbirds,62,45,3
+46,Cleo's Back,Jr. Walker & The All Stars,56,46,6
+47,Road Runner,The Gants,51,47,8
+48,Do You Believe In Magic,The Lovin' Spoonful,28,9,13
+49,(All Of A Sudden) My Heart Sings,Mel Carter,66,49,3
+50,Take Me In Your Arms (Rock Me A Little While),Kim Weston,53,50,7
+51,I Can Never Go Home Anymore,The Shangri-Las,88,51,2
+52,Hungry For Love,San Remo Golden Strings,27,27,10
+53,Kiss Away,Ronnie Dove,74,53,2
+54,He Touched Me,Barbra Streisand,59,54,7
+55,Don't Talk To Strangers,The Beau Brummels,65,55,6
+56,Just A Little Bit,Roy Head,67,56,3
+57,England Swings,Roger Miller,81,57,2
+58,Something About You,Four Tops,-1,58,1
+59,Mystic Eyes,Them,72,59,3
+60,If You've Got A Heart,Bobby Goldsboro,60,60,8
+61,Forgive Me,Al Martino,63,61,5
+62,Sinner Man,Trini Lopez,70,62,5
+63,Over And Over,The Dave Clark Five,-1,63,1
+64,Here It Comes Again,The Fortunes,80,64,2
+65,Looking With My Eyes,Dionne Warwick,68,65,7
+66,Misty,The Vibrations,75,66,4
+67,Steppin' Out,Paul Revere & The Raiders,46,46,9
+68,I Got You (I Feel Good),James Brown And The Famous Flames,-1,68,1
+69,Don't Think Twice,The Wonder Who?,90,69,2
+70,Crawling Back,Roy Orbison,89,70,2
+71,Harlem Nocturne,The Viscounts,77,52,19
+72,Fever,The McCoys,-1,72,1
+73,Roses And Rainbows, Danny Hutton,78,73,5
+74,I'm So Thankful,The Ikettes,76,74,6
+75,One Has My Name (The Other Has My Heart),Barry Young,92,75,2
+76,Dance With Me,The Mojo Men,79,76,3
+77,Child Of Our Times,Barry McGuire,82,77,2
+78,It's My Life,The Animals,87,78,2
+79,The Letter,Sonny & Cher,83,79,4
+80,Puppet On A String,Elvis Presley With The Jordanaires,-1,80,1
+81,A Time To Love-A Time To Cry (Petite Fleur),Lou Johnson,-1,81,1
+82,Hole In The Wall,The Packers,-1,82,1
+83,"Mother Nature, Father Time",Brook Benton,-1,83,1
+84,I Still Love You,The Vejtables,85,84,4
+85,Let The Good Times Roll,Roy Orbison,-1,85,1
+86,Don't Pity Me,Peter And Gordon,98,86,2
+87,I Want To Meet Him,The Royalettes,95,87,2
+88,Honky Tonk '65,Lonnie Mack,94,88,3
+89,I Really Love You,Dee Dee Sharp,96,89,2
+90,Let's Get Together,We Five,-1,90,1
+91,Don't Fight It,Wilson Pickett,97,91,2
+92,Seesaw,Don Covay & The Goodtimers,-1,92,1
+93,Pied Piper,The Changin' Times,-1,93,1
+94,Try To Remember,The Brothers Four,100,94,2
+95,"If You Don't (Love Me, Tell Me So)",Barbara Mason,99,95,2
+96,Flowers On The Wall,The Statler Brothers,-1,96,1
+97,Stand By Me,Earl Grant,-1,91,3
+98,Let's Move & Groove (Together),Johnny Nash,-1,97,4
+99,Buckaroo,Buck Owens and The Buckaroos,-1,99,1
+100,"Love Theme From ""The Sandpiper"" (The Shadow Of Your Smile)",Tony Bennett,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Surrender,Elvis Presley With The Jordanaires,2,1,5
+2,Pony Time,Chubby Checker,1,1,9
+3,Don't Worry,Marty Robbins,4,3,8
+4,Where The Boys Are,Connie Francis,5,4,10
+5,Dedicated To The One I Love,The Shirelles,7,5,13
+6,Apache,Jorgen Ingmann & His Guitar,11,6,9
+7,Wheels,The String-A-Longs,3,3,11
+8,Ebony Eyes,The Everly Brothers,9,8,8
+9,Walk Right Back,The Everly Brothers,13,9,7
+10,Baby Sittin' Boogie,Buzz Clifford,6,6,11
+11,Spanish Harlem,Ben E. King,10,10,12
+12,Gee Whiz (Look At His Eyes),Carla Thomas,15,12,8
+13,Think Twice,Brook Benton,20,13,6
+14,Calcutta,Lawrence Welk And His Orchestra,8,1,15
+15,On The Rebound,Floyd Cramer,24,15,3
+16,Good Time Baby,Bobby Rydell,12,11,9
+17,Little Boy Sad,Johnny Burnette,17,17,7
+18,Lazy River,Bobby Darin,25,18,7
+19,There's A Moon Out Tonight,The Capris,14,3,12
+20,Hearts Of Stone,Bill Black's Combo,21,20,5
+21,Blue Moon,The Marcels,59,21,3
+22,Please Love Me Forever,Cathy Jean and The Roommates,22,22,4
+23,You Can Have Her,Roy Hamilton,16,12,8
+24,Will You Love Me Tomorrow,The Shirelles,18,1,18
+25,The Watusi,The Vibrations,39,25,5
+26,Shop Around,"The Miracles (featuring Bill ""Smokey"" Robinson)",23,2,15
+27,Exodus,Ferrante & Teicher,19,2,19
+28,For My Baby,Brook Benton,49,28,7
+29,Model Girl,Johnny Maestro,41,29,7
+30,Happy Birthday Blues,Kathy Young With The Innocents,32,30,5
+31,Wheels,Billy Vaughn And His Orchestra,28,28,7
+32,Lonely Man,Elvis Presley With The Jordanaires,35,32,4
+33,Asia Minor,Kokomo,36,33,5
+34,Your Friends,Dee Clark,38,34,7
+35,Calendar Girl,Neil Sedaka,26,4,14
+36,I Don't Want To Cry,Chuck Jackson,40,36,5
+37,That's It - I Quit - I'm Movin' On,Sam Cooke,47,37,3
+38,Wings Of A Dove,Ferlin Husky,30,12,17
+39,Let's Go Again (Where We Went Last Night),Hank Ballard And The Midnighters,50,39,5
+40,But I Do,Clarence Henry,52,40,5
+41,Baby Blue,The Echoes,51,41,3
+42,Once Upon A Time,Rochell And The Candles With Johnny Wyatt,45,42,7
+43,Take Good Care Of Her,Adam Wade,63,43,2
+44,One Mint Julep,Ray Charles,54,44,3
+45,"Tonight My Love, Tonight",Paul Anka,56,45,2
+46,What A Price,Fats Domino,29,22,9
+47,Runaway,Del Shannon,57,47,3
+48,I Pity The Fool,Bobby Bland,46,46,5
+49,Stayin' In,Bobby Vee,33,33,6
+50,Find Another Girl,Jerry Butler,55,50,3
+51,Ram-Bunk-Shush,The Ventures,31,29,9
+52,Please Tell Me Why,Jackie Wilson,77,52,2
+53,Hide Away,Freddy King,68,53,3
+54,Portrait Of My Love,Steve Lawrence,62,54,3
+55,Blue Moon,Herb Lance & The Classics,65,55,3
+56,To Be Loved (Forever),The Pentagons,58,56,5
+57,Honky Tonk (Part 2),Bill Doggett,61,57,8
+58,Emotions,Brenda Lee,34,7,12
+59,Bewildered,James Brown And The Famous Flames,72,59,4
+60,Pony Time,The Goodtimers,66,60,9
+61,More Than I Can Say,Bobby Vee,80,61,4
+62,The Touchables,Dickie Goodman,64,62,5
+63,Orange Blossom Special,Billy Vaughn And His Orchestra,74,63,5
+64,Your One And Only Love,Jackie Wilson,100,64,2
+65,I've Told Every Little Star,Linda Scott,86,65,2
+66,Lonely Blue Nights,Rosie,84,66,2
+67,Trust In Me,Etta James,78,67,2
+68,Ginnie Bell,Paul Dino,75,63,8
+69,It's Unbelievable,The Larks,69,69,3
+70,Pony Express,Danny & The Juniors,60,60,5
+71,Theme from Tunes Of Glory,The Cambridge Strings And Singers,71,60,6
+72,Jimmy's Girl,Johnny Tillotson,48,25,11
+73,All In My Mind,Maxine Brown,44,19,12
+74,All Of Everything,Frankie Avalon,70,70,4
+75,(Love Theme From) One Eyed Jacks,Ferrante & Teicher,-1,75,1
+76,Utopia,Frank Gari,27,27,14
+77,Tonight I Fell In Love,The Tokens,79,77,3
+78,Little Miss Stuck-Up,The Playmates,83,78,3
+79,Bye Bye Baby,Mary Wells,-1,70,7
+80,The Second Time Around,Frank Sinatra,85,80,3
+81,Ling-Ting-Tong,Buddy Knox,82,81,3
+82,Wait A Minute,The Coasters,43,37,8
+83,The Very Thought Of You,Little Willie John,93,83,2
+84,Fell In Love On Monday,Fats Domino,-1,84,1
+85,"Top Forty, News, Weather And Sports",Mark Dinning,81,81,5
+86,(I Wanna) Love My Life Away,Gene Pitney,53,39,8
+87,Merry-Go-Round,Marv Johnson,90,87,2
+88,Just For Old Time's Sake,The McGuire Sisters,89,88,2
+89,Foolin' Around,Kay Starr,-1,89,1
+90,Memphis,Donnie Brooks,92,90,2
+91,A Hundred Pounds Of Clay,Gene McDaniels,-1,91,1
+92,Milord,Edith Piaf,88,88,3
+93,Theme From Dixie,Duane Eddy,-1,93,1
+94,(Theme from) My Three Sons,Lawrence Welk And His Orchestra,-1,94,1
+95,Some Kind Of Wonderful,The Drifters,-1,95,1
+96,Kokomo,The Flamingos,98,96,2
+97,Shu Rah,Fats Domino,-1,97,1
+98,Little Turtle Dove,Otis Williams And His Charms,99,98,2
+99,Seventeen,Frankie Ford,-1,99,1
+100,The Blizzard,Jim Reeves,-1,100,1

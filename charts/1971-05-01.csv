@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Joy To The World,Three Dog Night,1,1,8
+2,Put Your Hand In The Hand,Ocean,3,2,8
+3,Never Can Say Goodbye,Jackson 5,4,3,5
+4,What's Going On,Marvin Gaye,2,2,11
+5,I Am...I Said/Done Too Soon,Neil Diamond,6,5,6
+6,If,Bread,8,6,6
+7,Stay Awhile,The Bells,10,7,9
+8,Another Day/Oh Woman Oh Why,Paul McCartney,5,5,9
+9,Just My Imagination (Running Away With Me),The Temptations,7,1,13
+10,Chick-A-Boom (Don't Ya Jes' Love It),Daddy Dewdrop,17,10,9
+11,Power To The People,John Lennon/Plastic Ono Band Yoko Ono/Plastic Ono Band,15,11,5
+12,Bridge Over Troubled Water/Brand New Me,Aretha Franklin,24,12,3
+13,We Can Work It Out,Stevie Wonder,14,13,8
+14,One Toke Over The Line,Brewer And Shipley,11,10,12
+15,She's A Lady,Tom Jones,9,2,13
+16,Me And You And A Dog Named Boo,Lobo,30,16,5
+17,Timothy,The Buoys,26,17,12
+18,Me And Bobby McGee,Janis Joplin,12,1,14
+19,Love Her Madly,The Doors,37,19,4
+20,Doesn't Somebody Want To Be Wanted,The Partridge Family Starring Shirley Jones Featuring David Cassidy,16,6,12
+21,Wild World,Cat Stevens,19,11,12
+22,Sweet And Innocent,Donny Osmond of The Osmonds,46,22,6
+23,I Love You For All Seasons,The Fuzz,35,23,15
+24,(Where Do I Begin) Love Story,Andy Williams,20,9,13
+25,I Don't Blame You At All,Smokey Robinson & The Miracles,27,25,7
+26,No Love At All,B.J. Thomas,22,16,10
+27,For All We Know,Carpenters,13,3,13
+28,Help Me Make It Through The Night,Sammi Smith,18,8,16
+29,Baby Let Me Kiss You,King Floyd,31,29,8
+30,I Play And Sing,Dawn,25,25,6
+31,Eighteen,Alice Cooper,21,21,11
+32,Want Ads,The Honey Cone,59,32,4
+33,Right On The Tip Of My Tongue,Brenda & The Tabulations,45,33,5
+34,Friends,Elton John,34,34,7
+35,Here Comes The Sun,Richie Havens,39,35,7
+36,Don't Change On Me,Ray Charles,36,36,8
+37,Battle Hymn Of Lt. Calley,C Company Featuring Terry Nelson,41,37,2
+38,Woodstock,Matthews' Southern Comfort,40,38,9
+39,"Love's Lines, Angles And Rhymes",The 5th Dimension,29,19,10
+40,Brown Sugar,The Rolling Stones,-1,40,1
+41,Superstar,Murray Head With The Trinidad Singers ,63,41,23
+42,I Won't Mention It Again,Ray Price,42,42,7
+43,Me And My Arrow,Nilsson,52,43,7
+44,Pushbike Song,The Mixtures,47,44,9
+45,Toast And Marmalade For Tea,Tin Tin,56,45,5
+46,(For God's Sake) Give More Power To The People,The Chi-lites,65,46,4
+47,I Don't Know How To Love Him,Helen Reddy,58,47,11
+48,Lucky Man,"Emerson, Lake & Palmer",49,48,8
+49,It Don't Come Easy,Ringo Starr,-1,49,1
+50,Cool Aid,Paul Humphrey & His Cool Aid Chemists,57,50,8
+51,Layla,Derek & The Dominos,55,51,6
+52,Booty Butt,The Ray Charles Orchestra,64,52,7
+53,Do Me Right,Detroit Emeralds,43,43,11
+54,Someone Who Cares,Kenny Rogers & The First Edition,51,51,6
+55,I Don't Know How To Love Him,Yvonne Elliman,80,55,2
+56,Time And Love,Barbra Streisand,54,51,7
+57,I Think Of You,Perry Como,53,53,7
+58,Treat Her Like A Lady,Cornelius Brothers & Sister Rose,72,58,4
+59,Albert Flasher/Broken,The Guess Who,74,59,3
+60,13 Questions, Seatrain,66,60,5
+61,Don't Knock My Love - Pt. 1,Wilson Pickett,96,61,2
+62,Bad Water,The Raelettes,68,62,8
+63,I Wish I Were,Andy Kim,62,62,6
+64,Could I Forget You,Tyrone Davis,60,60,7
+65,Freedom,Jimi Hendrix,67,65,5
+66,Reach Out I'll Be There,Diana Ross,-1,66,1
+67,Gotta See Jane,R. Dean Taylor,76,67,3
+68,Melting Pot,Booker T. & The MG's,69,68,7
+69,C'mon,Poco,73,69,6
+70,We Were Always Sweethearts,Boz Scaggs,82,70,3
+71,That's The Way I've Always Heard It Should Be,Carly Simon,95,71,3
+72,Indian Reservation (The Lament Of The Cherokee Reservation Indian),The Raiders,83,72,4
+73,L.A. Goodbye,The Ides Of March,78,73,8
+74,"Oh, Singer",Jeannie C. Riley,77,74,5
+75,Funky Music Sho Nuff Turns Me On,Edwin Starr,87,75,2
+76,L.A. International Airport,Susan Raye,81,76,3
+77,The Animal Trainer And The Toad,Mountain,79,77,6
+78,Feelin' Alright,Grand Funk Railroad,-1,78,1
+79,Nevada Fighter,Michael Nesmith & The First National Band,85,79,3
+80,Reach Out Your Hand,The Brotherhood Of Man,-1,80,1
+81,I'll Erase Away Your Pain,Whatnauts,91,81,3
+82,Be Nice To Me,Runt-Todd Rundgren,84,82,2
+83,If It's Real What I Feel,Jerry Butler Featuring Brenda Lee Eager,86,69,8
+84,Brownsville, Joy Of Cooking,88,84,2
+85,House At Pooh Corner,Nitty Gritty Dirt Band,89,85,2
+86,Ajax Liquor Store,Hudson and Landry,90,86,2
+87,I'm Comin' Home,Dave Edmunds,-1,87,1
+88,A Mama And A Papa,Ray Stevens,-1,88,1
+89,Jumpin' Jack Flash,Johnny Winter,-1,89,1
+90,The Drum,Bobby Sherman,-1,90,1
+91,"Take Me Home, Country Roads",John Denver,-1,91,2
+92,Be My Baby,Cissy Houston,92,92,2
+93,Can't Find The Time,Rose Colored Glass,97,93,4
+94,I Wanna Be Free,Loretta Lynn,94,94,2
+95,Music Is Love,David Crosby,-1,95,1
+96,"The Electronic Magnetism (That's Heavy, Baby)",Solomon Burke,-1,96,1
+97,That Evil Child,B.B. King,98,97,2
+98,Happy,Hog Heaven,100,98,2
+99,Red Eye Blues,Red Eye,99,99,2
+100,Be Good To Me Baby,Luther Ingram,-1,100,1

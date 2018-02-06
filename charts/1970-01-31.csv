@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Want You Back,Jackson 5,3,1,12
+2,Venus,The Shocking Blue,2,2,8
+3,Raindrops Keep Fallin' On My Head,B.J. Thomas,1,1,14
+4,Whole Lotta Love,Led Zeppelin,5,4,11
+5,Without Love (There Is Nothing),Tom Jones,8,5,6
+6,Don't Cry Daddy/Rubberneckin',Elvis Presley,7,6,10
+7,I'll Never Fall In Love Again,Dionne Warwick,10,7,6
+8,Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star,Sly & The Family Stone,15,8,5
+9,Someday We'll Be Together,Diana Ross & The Supremes,4,1,13
+10,Leaving On A Jet Plane,"Peter, Paul & Mary",6,1,15
+11,Jingle Jangle,The Archies,11,11,10
+12,Early In The Morning,Vanity Fare,13,12,11
+13,Hey There Lonely Girl,Eddie Holman,20,13,6
+14,Arizona,Mark Lindsay,19,14,9
+15,Jam Up Jelly Tight,Tommy Roe,9,8,12
+16,Winter World Of Love,Engelbert Humperdinck,17,16,9
+17,No Time,The Guess Who,29,17,7
+18,Midnight Cowboy,Ferrante & Teicher,12,10,14
+19,Walk A Mile In My Shoes,Joe South and The Believers,26,19,5
+20,Walkin' In The Rain,Jay & The Americans,28,20,11
+21,Psychedelic Shack,The Temptations,38,21,3
+22,Blowing Away,The 5th Dimension,31,22,5
+23,La La La (If I Had You),Bobby Sherman,14,9,11
+24,Na Na Hey Hey Kiss Him Goodbye,Steam,18,1,16
+25,Baby Take Me In Your Arms,Jefferson,36,25,7
+26,"Wonderful World, Beautiful People",Jimmy Cliff,25,25,9
+27,Holly Holy,Neil Diamond,16,6,14
+28,Down On The Corner/Fortunate Son,Creedence Clearwater Revival,21,3,15
+29,Come Together/Something,The Beatles,22,1,16
+30,Honey Come Back,Glen Campbell,55,30,3
+31,She Came In Through The Bathroom Window,Joe Cocker,35,31,9
+32,The Thrill Is Gone,B.B. King,48,32,6
+33,She,Tommy James And The Shondells,23,23,8
+34,Rainy Night In Georgia/Rubberneckin',Brook Benton,63,34,4
+35,Evil Woman Don't Play Your Games With Me,CROW,27,19,15
+36,Let's Work Together (Part 1),Wilbert Harrison,37,36,9
+37,She Belongs To Me,Rick Nelson,33,33,16
+38,Ain't It Funky Now (Part 1),James Brown,24,24,11
+39,Fancy,Bobbie Gentry,42,39,11
+40,Let A Man Come In And Do The Popcorn (Part Two),James Brown,40,40,7
+41,When Julie Comes Around,The Cuff Links,41,41,8
+42,How Can I Forget/Gonna Give Her All The Love I've Got,Marvin Gaye,47,42,4
+43,Monster,Steppenwolf,46,43,6
+44,Cupid,Johnny Nash,39,39,13
+45,Didn't I (Blow Your Mind This Time),The Delfonics,59,45,4
+46,Cold Turkey,Plastic Ono Band,32,30,12
+47,Traces/Memories Medley,The Lettermen,49,47,6
+48,One Tin Soldier,The Original Caste,50,48,12
+49,Love Bones,Johnnie Taylor,58,49,7
+50,Travelin' Band/Who'll Stop The Rain,Creedence Clearwater Revival,-1,50,1
+51,Tonight I'll Say A Prayer,Eydie Gorme,54,51,10
+52,Oh Me Oh My (I'm A Fool For You Baby),Lulu,52,52,6
+53,Hold On,The Rascals,56,53,5
+54,Breaking Up Is Hard To Do,Lenny Welch,60,54,4
+55,Point It Out,Smokey Robinson & The Miracles,44,37,8
+56,Look-Ka Py Py,The Meters,57,56,9
+57,"He Ain't Heavy, He's My Brother",The Hollies,62,57,7
+58,Up On Cripple Creek,The Band,45,25,14
+59,Bold Soul Sister,Ike & Tina Turner,61,59,7
+60,Give Me Just A Little More Time,Chairman Of The Board,72,60,3
+61,Evil Ways,Santana,71,61,2
+62,Moon Walk Part 1,Joe Simon,64,62,5
+63,The Touch Of You,Brenda & The Tabulations,78,63,3
+64,My Honey And Me,Luther Ingram,65,64,4
+65,I'm Just A Prisoner (Of Your Good Lovin'),Candi Staton,68,65,5
+66,Jennifer Tomkins,Street People,69,66,5
+67,If I Were A Carpenter,Johnny Cash & June Carter,80,67,2
+68,Okie From Muskogee,Merle Haggard And The Strangers,66,41,14
+69,Won't Find Better (Than Me),The New Hope,73,69,5
+70,I'm So Glad I Fell For You,David Ruffin,53,53,7
+71,Ma Belle Amie,The Tee Set,83,71,2
+72,Got To See If I Can't Get Mommy (To Come Back Home),Jerry Butler,98,72,2
+73,Always Something There To Remind Me,R.B. Greaves,97,73,2
+74,How Can I Tell My Mom & Dad,The Lovelites,74,74,4
+75,If Walls Could Talk,Little Milton,76,75,3
+76,Hello It's Me,Nazz,77,71,10
+77,Oh What A Day,The Dells,82,77,2
+78,"Barbara, I Love You",New Colony Six,81,78,4
+79,The Rapper,The Jaggerz,-1,79,1
+80,I've Gotta Make You Love Me,Steam,100,80,2
+81,Oh Well - Pt. I,Fleetwood Mac,-1,81,1
+82,New World Coming,Mama Cass Elliot,-1,82,1
+83,Down In The Alley,Ronnie Hawkins,-1,83,1
+84,Mornin Mornin,Bobby Goldsboro,86,84,4
+85,Compared To What,Les McCann & Eddie Harris,88,85,4
+86,Country Preacher,Cannonball Adderley,87,86,3
+87,You Got Me Hummin,Cold Blood,99,87,2
+88,Shades Of Green,The Flaming Ember,93,88,3
+89,Come Saturday Morning,The Sandpipers,84,83,7
+90,It's Just A Matter Of Time,Sonny James,94,90,2
+91,If I Never Knew Your Name,Vic Dana,91,91,4
+92,Je T'Aime...Moi Non Plus,Jane Birkin Serge Gainsbourg,-1,87,3
+93,Welfare Cadilac,Guy Drake,-1,93,1
+94,The Ghetto-Part 1,Donny Hathaway,96,94,3
+95,Then She's A Lover,Roy Clark,95,95,2
+96,The Court Of The Crimson King - Part 1,King Crimson,-1,96,1
+97,Victoria,The Kinks,-1,97,1
+98,Save The Country,Thelma Houston,-1,98,1
+99,Superstar,Murray Head With The Trinidad Singers,-1,99,1
+100,I'll See Him Through,Tammy Wynette,-1,100,1

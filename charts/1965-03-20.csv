@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Eight Days A Week,The Beatles,1,1,5
+2,Stop! In The Name Of Love,The Supremes,3,2,5
+3,The Birds And The Bees,Jewel Akens,5,3,9
+4,King Of The Road,Roger Miller,6,4,8
+5,Can't You Hear My Heartbeat,Herman's Hermits,8,5,8
+6,Ferry Cross The Mersey,Gerry And The Pacemakers,7,6,7
+7,My Girl,The Temptations,2,1,10
+8,This Diamond Ring,Gary Lewis And The Playboys,4,1,10
+9,Goldfinger,Shirley Bassey,11,9,8
+10,Shotgun,Jr. Walker & The All Stars,14,10,6
+11,Red Roses For A Blue Lady,Bert Kaempfert And His Orchestra,13,11,9
+12,Hurt So Bad,Little Anthony And The Imperials,10,10,7
+13,The Jolly Green Giant,The Kingsmen,9,4,11
+14,Come Home,The Dave Clark Five,19,14,7
+15,You've Lost That Lovin' Feelin',The Righteous Brothers,12,1,15
+16,People Get Ready,The Impressions,21,16,6
+17,Red Roses For A Blue Lady,Vic Dana,23,17,7
+18,Little Things,Bobby Goldsboro,18,18,9
+19,Do You Wanna Dance?,The Beach Boys,29,19,4
+20,Midnight Special,Johnny Rivers,20,20,7
+21,Goodnight,Roy Orbison,22,21,6
+22,Don't Let Me Be Misunderstood,The Animals,26,22,7
+23,"Yeh, Yeh",Georgie Fame And The Blue Flames,27,23,6
+24,Nowhere To Run,Martha & The Vandellas,35,24,4
+25,Send Me The Pillow You Dream On,Dean Martin,30,25,5
+26,If I Loved You,Chad & Jeremy,31,26,5
+27,Downtown,Petula Clark,15,1,14
+28,Do The Clam,"Elvis Presley With The Jordanaires, Jubilee Four & Carol Lombard Trio",39,28,4
+29,The Boy From New York City,The Ad Libs,16,8,10
+30,Stranger In Town,Del Shannon,37,30,4
+31,Tell Her No,The Zombies,17,6,11
+32,Ask The Lonely,Four Tops,24,24,7
+33,I Must Be Seeing Things,Gene Pitney,43,33,4
+34,Long Lonely Nights,Bobby Vinton,48,34,3
+35,"Laugh, Laugh",The Beau Brummels,28,15,12
+36,I Go To Pieces,Peter And Gordon,25,9,11
+37,New York's A Lonely Town,The Trade Winds,32,32,7
+38,If I Ruled The World,Tony Bennett,49,38,6
+39,I Don't Want To Spoil The Party,The Beatles,44,39,5
+40,The Race Is On,Jack Jones,47,40,4
+41,Don't Mess Up A Good Thing,Fontella Bass & Bobby McClure,45,41,7
+42,I'm Telling You Now,Freddie And The Dreamers,71,42,2
+43,Tired Of Waiting For You,The Kinks,62,43,2
+44,When I'm Gone,Brenda Holloway,59,44,3
+45,Red Roses For A Blue Lady,Wayne Newton,50,45,4
+46,Go Now!,The Moody Blues,56,46,5
+47,Shake,Sam Cooke,38,7,11
+48,You Better Get It,Joe Tex,51,48,5
+49,Come And Stay With Me,Marianne Faithfull,57,49,4
+50,Come Tomorrow,Manfred Mann,52,50,5
+51,Angel,Johnny Tillotson,53,51,6
+52,I've Got A Tiger By The Tail,Buck Owens,36,25,9
+53,Come See,Major Lance,65,53,3
+54,Mr. Pitiful,Otis Redding,61,54,5
+55,Got To Get You Off My Mind,Solomon Burke,78,55,3
+56,It's Gonna Be Alright,Maxine Brown,63,56,6
+57,For Mama (La Mamma),Connie Francis,68,57,3
+58,Goldfinger,Billy Strange,55,55,9
+59,You Got What It Takes,Joe Tex,60,59,4
+60,For Mama,Jerry Vale,70,60,3
+61,Please Let Me Wonder,The Beach Boys,72,61,3
+62,"Peaches ""N"" Cream",The Ikettes,79,62,2
+63,Game Of Love,Wayne Fontana & The Mindbenders,-1,63,1
+64,Apache '65,The Arrows Featuring Davie Allan,69,64,6
+65,Who Can I Turn To,Dionne Warwick,66,65,4
+66,Anytime At All,Frank Sinatra,87,66,2
+67,Poor Man's Son,The Reflections,83,67,2
+68,Cry,Ray Charles,58,58,7
+69,Good Times,Jerry Butler,64,64,3
+70,4 - By The Beatles,The Beatles,73,70,4
+71,Land Of 1000 Dances,Cannibal And The Headhunters,82,71,4
+72,This Is My Prayer,The Ray Charles Singers,75,72,4
+73,(Here They Come) From All Over The World,Jan & Dean,81,73,2
+74,Did You Ever,The Hullaballoos,74,74,6
+75,The Clapping Song (Clap Pat Clap Slap),Shirley Ellis,-1,75,1
+76,Goldfinger,John Barry and His Orchestra,84,76,2
+77,Girl Don't Come,Sandie Shaw,86,77,3
+78,I Understand (Just How You Feel),Freddie And The Dreamers,85,78,2
+79,Cast Your Fate To The Wind,Sounds Orchestral,-1,79,1
+80,I'll Be Doggone,Marvin Gaye,-1,80,1
+81,Land Of A Thousand Dances (Part I),Thee Midniters,89,81,2
+82,One Kiss For Old Times' Sake,Ronnie Dove,92,82,2
+83,Bumble Bee,The Searchers,-1,83,1
+84,"Never, Never Leave Me",Mary Wells,-1,84,1
+85,10 Little Bottles,Johnny Bond,96,85,2
+86,Orange Blossom Special,Johnny Cash,80,80,6
+87,Be My Baby,Dick and DeeDee,90,87,2
+88,I Can't Stop Thinking Of You,Bobbi Martin,91,88,2
+89,Baby The Rain Must Fall,Glenn Yarbrough,98,89,2
+90,Come Back Baby,Roddie Joy,-1,90,1
+91,Not Too Long Ago,The Uniques Featuring Joe Stampley,-1,91,1
+92,You Can Have Him,Dionne Warwick,95,92,2
+93,Double-O-Seven,The Detergents,-1,93,1
+94,I Know A Place,Petula Clark,-1,94,1
+95,Losing You,Dusty Springfield,97,95,2
+96,Mean Old World,Rick Nelson,-1,96,1
+97,Whipped Cream,Herb Alpert's Tijuana Brass,-1,97,3
+98,Find My Way Back Home,The Nashville Teens,99,98,2
+99,Gee Baby (I'm Sorry),The Three Degrees,-1,99,2
+100,Teasin' You,Willie Tee,-1,100,1

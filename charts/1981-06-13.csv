@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Bette Davis Eyes,Kim Carnes,1,1,12
+2,Medley,Stars On 45,3,2,10
+3,Sukiyaki,A Taste Of Honey,4,3,15
+4,Being With You,Smokey Robinson,2,2,18
+5,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,7,5,15
+6,Living Inside Myself,Gino Vannelli,6,6,13
+7,All Those Years Ago, George Harrison,11,7,4
+8,America,Neil Diamond,9,8,8
+9,Take It On The Run,REO Speedwagon,5,5,13
+10,Sweetheart,Franke & The Knockouts,10,10,15
+11,Just The Two Of Us,"Grover Washington, Jr. (With Bill Withers)",8,2,18
+12,This Little Girl,Gary U.S. Bonds,14,12,8
+13,I Love You,Climax Blues Band,13,13,17
+14,The One That You Love,Air Supply,20,14,5
+15,What Are We Doin' In Love,Dottie West with Kenny Rogers,16,15,12
+16,How 'bout Us,Champaign,12,12,18
+17,You Make My Dreams,Daryl Hall John Oates,19,17,7
+18,Too Much Time On My Hands,Styx,15,9,13
+19,The Waiting,Tom Petty And The Heartbreakers,21,19,7
+20,Jessie's Girl,Rick Springfield,22,20,12
+21,Is It You,Lee Ritenour,24,21,8
+22,Angel Of The Morning,Juice Newton,18,4,17
+23,Nobody Wins,Elton John,27,23,6
+24,Hearts,Marty Balin,43,24,4
+25,Watching The Wheels,John Lennon,17,10,12
+26,Winning,Santana,29,26,10
+27,"Theme From ""Greatest American Hero"" (Believe It or Not)",Joey Scarbury,44,27,6
+28,Elvira,The Oak Ridge Boys,40,28,5
+29,Modern Girl,Sheena Easton,37,29,6
+30,Still Right Here In My Heart,Pure Prairie League,32,30,9
+31,Fool In Love With You,Jim Photoglo,34,31,9
+32,Say What,Jesse Winchester,35,32,8
+33,I Don't Need You,Kenny Rogers,-1,33,1
+34,Boy From New York City,The Manhattan Transfer,47,34,4
+35,Time,The Alan Parsons Project,38,35,9
+36,Seven Year Ache,Rosanne Cash,42,36,8
+37,Gemini Dream,The Moody Blues,66,37,2
+38,Sweet Baby,Stanley Clarke/George Duke,45,38,7
+39,I Can Take Care Of Myself,Billy & The Beaters,39,39,8
+40,Stronger Than Before,Carole Bayer Sager,50,40,5
+41,Give A Little Bit More,Cliff Richard,41,41,8
+42,Since I Don't Have You,Don McLean,23,23,10
+43,Queen Of Hearts,Juice Newton,64,43,3
+44,The Stroke,Billy Squier,55,44,5
+45,Morning Train (Nine To Five),Sheena Easton,25,1,18
+46,Lovin' The Night Away,The Dillman Band,51,46,6
+47,Jones Vs. Jones,Kool & The Gang,57,47,5
+48,Arc Of A Diver,Steve Winwood,48,48,6
+49,A Life Of Illusion,Joe Walsh,56,49,4
+50,Two Hearts,Stephanie Mills Featuring Teddy Pendergrass,59,50,5
+51,Double Dutch Bus,Frankie Smith,60,51,5
+52,Promises,Barbra Streisand,62,52,4
+53,I Missed Again,Phil Collins,26,19,13
+54,Almost Saturday Night,Dave Edmunds,54,54,6
+55,What Cha' Gonna Do For Me,Chaka Khan,61,55,5
+56,Brooklyn Girls,Robbie Dupree,67,56,4
+57,Slow Hand,The Pointer Sisters,73,57,3
+58,Ai No Corrida (I-No-Ko-ree-da),Quincy Jones,28,28,10
+59,Shaddap You Face,Joe Dolce,63,59,7
+60,The Breakup Song (They Don't Write 'Em),Greg Kihn Band,68,60,4
+61,Rock And Roll Dreams Come Through,Jim Steinman,70,61,3
+62,Yearning For Your Love,The Gap Band,69,62,4
+63,Say You'll Be Mine,Christopher Cross,30,20,12
+64,Kiss On My List,Daryl Hall John Oates,31,1,21
+65,It's Now Or Never,John Schneider,75,65,3
+66,Give It To Me Baby,Rick James,76,66,3
+67,Sign Of The Gypsy Queen,April Wine,77,67,3
+68,Find Your Way Back,Jefferson Starship,33,29,11
+69,In The Air Tonight,Phil Collins,79,69,3
+70,It Didn't Take Long,Spider,80,70,3
+71,Fantasy Girl,38 Special,82,71,2
+72,Don't Let Him Go,REO Speedwagon,-1,72,1
+73,You Better You Bet,The Who,36,18,13
+74,Tom Sawyer,Rush,85,74,2
+75,She Did It,Michael Damian,81,75,3
+76,I Can't Stand It,Eric Clapton And His Band,46,10,16
+77,Feels So Right,Alabama,87,77,2
+78,Ain't Even Done With The Night,John Cougar,49,17,20
+79,Love You Like I Never Loved Before,John O'Banion,53,24,12
+80,Paradise,Change,90,80,2
+81,Hard Times,James Taylor,-1,81,1
+82,You're So Easy To Love,Tommy James,58,58,6
+83,Hold On Loosely,38 Special,65,27,16
+84,Just So Lonely,Get Wet,71,39,8
+85,What She Does To Me (The Diana Song),The Producers,-1,85,1
+86,Another Ticket,Eric Clapton,-1,86,1
+87,Some Days Are Diamonds (Some Days Are Stone),John Denver,-1,87,1
+88,"Mercy, Mercy, Mercy",Phoebe Snow,52,52,7
+89,Blessed Are The Believers,Anne Murray,72,34,12
+90,Rain In May,Max Werner,74,74,5
+91,Somebody's Knockin',Terri Gibbs,78,13,22
+92,You Like Me Don't You,Jermaine Jackson,83,50,9
+93,I Loved 'em Every One,T.G. Sheppard,88,37,14
+94,Come To Me,Aretha Franklin,84,84,3
+95,Super Trouper,ABBA,86,45,11
+96,Make That Move,Shalamar,89,60,8
+97,Her Town Too,James Taylor & J.D. Souther,92,11,14
+98,I've Been Waiting For You All Of My Life,Paul Anka,91,48,9
+99,Wasn't That A Party,The Rovers,94,37,17
+100,Rapture,Blondie,93,1,20

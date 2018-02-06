@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Joy To The World,Three Dog Night,1,1,9
+2,Never Can Say Goodbye,Jackson 5,3,2,6
+3,Put Your Hand In The Hand,Ocean,2,2,9
+4,I Am...I Said/Done Too Soon,Neil Diamond,5,4,7
+5,If,Bread,6,5,7
+6,What's Going On,Marvin Gaye,4,2,12
+7,Stay Awhile,The Bells,7,7,10
+8,Bridge Over Troubled Water/Brand New Me,Aretha Franklin,12,8,4
+9,Chick-A-Boom (Don't Ya Jes' Love It),Daddy Dewdrop,10,9,10
+10,Me And You And A Dog Named Boo,Lobo,16,10,6
+11,Power To The People,John Lennon/Plastic Ono Band Yoko Ono/Plastic Ono Band,11,11,6
+12,Love Her Madly,The Doors,19,12,5
+13,Brown Sugar,The Rolling Stones,40,13,2
+14,Another Day/Oh Woman Oh Why,Paul McCartney,8,5,10
+15,Just My Imagination (Running Away With Me),The Temptations,9,1,14
+16,Sweet And Innocent,Donny Osmond of The Osmonds,22,16,7
+17,Timothy,The Buoys,17,17,13
+18,Want Ads,The Honey Cone,32,18,5
+19,We Can Work It Out,Stevie Wonder,13,13,9
+20,One Toke Over The Line,Brewer And Shipley,14,10,13
+21,I Don't Blame You At All,Smokey Robinson & The Miracles,25,21,8
+22,I Love You For All Seasons,The Fuzz,23,22,16
+23,Wild World,Cat Stevens,21,11,13
+24,It Don't Come Easy,Ringo Starr,49,24,2
+25,Here Comes The Sun,Richie Havens,35,25,8
+26,She's A Lady,Tom Jones,15,2,14
+27,Superstar,Murray Head With The Trinidad Singers,41,27,24
+28,I Don't Know How To Love Him,Helen Reddy,47,28,12
+29,Me And Bobby McGee,Janis Joplin,18,1,15
+30,Right On The Tip Of My Tongue,Brenda & The Tabulations,33,30,6
+31,No Love At All,B.J. Thomas,26,16,11
+32,Eighteen,Alice Cooper,31,21,12
+33,Toast And Marmalade For Tea,Tin Tin,45,33,6
+34,I Play And Sing,Dawn,30,25,7
+35,Baby Let Me Kiss You,King Floyd,29,29,9
+36,Woodstock,Matthews' Southern Comfort,38,36,10
+37,Battle Hymn Of Lt. Calley,C Company Featuring Terry Nelson,37,37,3
+38,(For God's Sake) Give More Power To The People,The Chi-lites,46,38,5
+39,Me And My Arrow,Nilsson,43,39,8
+40,Don't Change On Me,Ray Charles,36,36,9
+41,Don't Knock My Love - Pt. 1,Wilson Pickett,61,41,3
+42,Friends,Elton John,34,34,8
+43,Reach Out I'll Be There,Diana Ross,66,43,2
+44,Cool Aid,Paul Humphrey & His Cool Aid Chemists,50,44,9
+45,Treat Her Like A Lady,Cornelius Brothers & Sister Rose ,58,45,5
+46,Pushbike Song,The Mixtures,44,44,10
+47,Booty Butt,The Ray Charles Orchestra,52,47,8
+48,I Don't Know How To Love Him,Yvonne Elliman,55,48,3
+49,I Won't Mention It Again,Ray Price,42,42,8
+50,The Drum,Bobby Sherman,90,50,2
+51,Layla,Derek & The Dominos,51,51,7
+52,Lucky Man,"Emerson, Lake & Palmer",48,48,9
+53,Melting Pot,Booker T. & The MG's,68,53,8
+54,Do Me Right,Detroit Emeralds,53,43,12
+55,Albert Flasher/Broken,The Guess Who,59,55,4
+56,13 Questions,Seatrain,60,56,6
+57,I Think Of You,Perry Como,57,53,8
+58,Bad Water,The Raelettes,62,58,9
+59,Freedom,Jimi Hendrix,65,59,6
+60,Someone Who Cares,Kenny Rogers & The First Edition,54,51,7
+61,"When You're Hot, You're Hot",Jerry Reed,-1,61,1
+62,We Were Always Sweethearts,Boz Scaggs,70,62,4
+63,Indian Reservation (The Lament Of The Cherokee Reservation Indian),The Raiders,72,63,5
+64,That's The Way I've Always Heard It Should Be,Carly Simon,71,64,4
+65,L.A. International Airport,Susan Raye,76,65,4
+66,Feelin' Alright,Grand Funk Railroad,78,66,2
+67,Gotta See Jane,R. Dean Taylor,67,67,4
+68,Funky Music Sho Nuff Turns Me On,Edwin Starr,75,68,3
+69,I'll Meet You Halfway,The Partridge Family Starring Shirley Jones Featuring David Cassidy,-1,69,1
+70,Nevada Fighter,Michael Nesmith & The First National Band,79,70,4
+71,I Cried,James Brown,-1,71,1
+72,C'mon,Poco,69,69,7
+73,L.A. Goodbye,The Ides Of March,73,73,9
+74,"Oh, Singer",Jeannie C. Riley,74,74,6
+75,House At Pooh Corner,Nitty Gritty Dirt Band,85,75,3
+76,The Animal Trainer And The Toad,Mountain,77,76,7
+77,Reach Out Your Hand,The Brotherhood Of Man,80,77,2
+78,I'm Comin' Home,Dave Edmunds,87,78,2
+79,Ajax Liquor Store,Hudson and Landry,86,79,3
+80,I'll Erase Away Your Pain,Whatnauts,81,80,4
+81,Be Nice To Me,Runt-Todd Rundgren,82,81,3
+82,Brownsville,Joy Of Cooking,84,82,3
+83,Lowdown,Chicago,-1,83,1
+84,It's Too Late/I Feel The Earth Move,Carole King,-1,84,1
+85,A Mama And A Papa,Ray Stevens,88,85,2
+86,"Take Me Home, Country Roads",John Denver,91,86,3
+87,"Try Some, Buy Some",Ronnie Spector,-1,87,1
+88,Nathan Jones,The Supremes,-1,88,1
+89,Jumpin' Jack Flash,Johnny Winter,89,89,2
+90,The Court Room,Clarence Carter,-1,90,1
+91,Can't Find The Time,Rose Colored Glass,93,91,5
+92,Hot Love,T. Rex,-1,92,1
+93,Spinning Around (I Must Be Falling In Love),The Main Ingredient,-1,93,1
+94,Funky Nassau-Part I,The Beginning Of The End,-1,94,1
+95,Red Eye Blues,Red Eye,99,95,3
+96,"The Electronic Magnetism (That's Heavy, Baby)",Solomon Burke,96,96,2
+97,Be Good To Me Baby,Luther Ingram,100,97,2
+98,Sea Cruise,Johnny Rivers,-1,98,1
+99,And I Love You So,Bobby Goldsboro,-1,99,1
+100,There's So Much Love All Around Me,The Three Degrees,-1,100,1

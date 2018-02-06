@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Shadow Dancing,Andy Gibb,1,1,13
+2,Baker Street,Gerry Rafferty,2,2,12
+3,Take A Chance On Me,ABBA,4,3,12
+4,Use Ta Be My Girl,The O'Jays,5,4,11
+5,Still The Same,Bob Seger & The Silver Bullet Band,7,5,9
+6,It's A Heartache,Bonnie Tyler,3,3,16
+7,Miss You,The Rolling Stones,14,7,7
+8,Dance With Me,Peter Brown With Betty Wright,9,8,19
+9,The Groove Line,Heatwave,10,9,10
+10,You Belong To Me,Carly Simon,6,6,13
+11,Two Out Of Three Ain't Bad,Meat Loaf,12,11,17
+12,Bluer Than Blue,Michael Johnson,15,12,12
+13,Last Dance,Donna Summer,17,13,9
+14,You're The One That I Want,John Travolta & Olivia Newton-John,11,1,15
+15,Love Is Like Oxygen,Sweet,8,8,21
+16,Grease,Frankie Valli,26,16,7
+17,Wonderful Tonight,Eric Clapton,21,17,9
+18,I Can't Stand The Rain,Eruption,24,18,18
+19,Because The Night,Patti Smith Group,13,13,14
+20,Runaway,Jefferson Starship,28,20,7
+21,Love Will Find A Way,Pablo Cruise,30,21,6
+22,Copacabana (at The Copa),Barry Manilow,42,22,5
+23,Life's Been Good,Joe Walsh,31,23,5
+24,Only The Good Die Young,Billy Joel,25,24,9
+25,Thank God It's Friday,Love And Kisses,29,25,10
+26,Three Times A Lady,Commodores,49,26,4
+27,If Ever I See You Again,Roberta Flack,33,27,8
+28,FM (No Static At All),Steely Dan,34,28,6
+29,My Angel Baby,Toby Beau,37,29,6
+30,Hot Blooded,Foreigner,52,30,2
+31,Magnet And Steel,Walter Egan,39,31,7
+32,Chattanooga Choo Choo,Tuxedo Junction,32,32,12
+33,"Hot Love, Cold World",Bob Welch,38,33,6
+34,Songbird,Barbra Streisand,40,34,4
+35,King Tut,Steve Martin And The Toot Uncommons,41,35,7
+36,I'm Not Gonna Let It Bother Me Tonight,Atlanta Rhythm Section,43,36,5
+37,Can We Still Be Friends,Todd Rundgren,44,37,7
+38,Stay/The Load-Out,Jackson Browne,45,38,5
+39,Will You Still Love Me Tomorrow,Dave Mason,47,39,6
+40,You're The Love,Seals & Crofts,18,18,13
+41,Prove It All Night,Bruce Springsteen,51,41,5
+42,Every Kinda People,Robert Palmer,16,16,16
+43,Even Now,Barry Manilow,19,19,10
+44,I Don't Wanna Go,Joey Travolta,46,44,6
+45,Love Or Something Like It,Kenny Rogers,55,45,6
+46,Rivers Of Babylon,Boney M,48,46,6
+47,"Too Much, Too Little, Too Late",Johnny Mathis/Deniece Williams,20,1,15
+48,I've Had Enough,Wings,61,48,4
+49,You Can't Dance,England Dan & John Ford Coley,50,49,6
+50,Stuff Like That,Quincy Jones,60,50,5
+51,That Once In A Lifetime,Demis Roussos,53,51,6
+52,I Was Only Joking,Rod Stewart,22,22,11
+53,You're A Part Of Me,Gene Cotton With Kim Carnes,63,53,4
+54,Follow You Follow Me,Genesis,23,23,12
+55,I Need To Know,Tom Petty And The Heartbreakers,65,55,4
+56,Shame,"Evelyn ""Champagne"" King",66,56,4
+57,Feels So Good,Chuck Mangione,27,4,22
+58,Stone Blue,Foghat,36,36,8
+59,Mr. Blue Sky,Electric Light Orchestra,69,59,3
+60,It's The Same Old Song,KC And The Sunshine Band,35,35,9
+61,With A Little Luck,Wings,56,1,16
+62,Boogie Oogie Oogie,A Taste Of Honey,72,62,3
+63,Two Tickets To Paradise,Eddie Money,73,63,3
+64,Hot Child In The City,Nick Gilder,68,64,5
+65,This Night Won't Last Forever,Bill LaBounty,67,65,7
+66,Macho Man,Village People,76,66,3
+67,Just What I Needed,The Cars,70,67,4
+68,Hopelessly Devoted To You,Olivia Newton-John,-1,68,1
+69,You Don't Love Me Anymore,Eddie Rabbitt,79,69,3
+70,Dance Across The Floor,"Jimmy ""Bo"" Horne",54,38,15
+71,New Orleans Ladies,Louisiana's Le Roux,81,71,3
+72,Never Let Her Slip Away,Andrew Gold,75,72,4
+73,You,Rita Coolidge,83,73,2
+74,Portrait (He Knew),Kansas,64,64,5
+75,Dream Lover,The Marshall Tucker Band,78,75,3
+76,You And I,Rick James,86,76,2
+77,Deacon Blues,Steely Dan,59,19,15
+78,Only One Love In My Life,Ronnie Milsap,88,78,2
+79,Runaway Love,Linda Clifford,89,79,2
+80,Heartless,Heart,62,24,14
+81,Daylight And Darkness,Smokey Robinson,82,81,5
+82,On The Wrong Track,Kevin Lamb,84,82,3
+83,Anytime,Journey,85,83,2
+84,Close The Door,Teddy Pendergrass,-1,84,1
+85,Kiss You All Over,Exile,-1,85,1
+86,I Love The Nightlife (Disco 'round),Alicia Bridges,-1,86,1
+87,Almost Summer,Celebration featuring Mike Love,57,28,11
+88,Ain't Nothing Gonna Keep Me From You,Teri DeSario,91,88,2
+89,Fool If You Think It's Over,Chris Rea,-1,89,1
+90,"God Knows/Baby, I'm Yours",Debby Boone,74,74,7
+91,Roll With The Changes,REO Speedwagon,87,58,9
+92,Oh What A Night For Dancing,Barry White,71,24,11
+93,Trans-europe Express,Kraftwerk,80,67,5
+94,Warm Ride,Rare Earth,77,39,11
+95,Makin' Love,Climax Blues Band,-1,95,1
+96,Shaker Song,Spyro Gyra,90,90,4
+97,So Hard Livin' Without You,Airwaves,93,62,6
+98,He's So Fine,Jane Olivor,96,77,8
+99,Baby Hold On,Eddie Money,95,11,20
+100,On Broadway,George Benson,58,7,18

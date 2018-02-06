@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hey Jude,The Beatles,3,1,3
+2,Harper Valley P.T.A.,Jeannie C. Riley,1,1,6
+3,People Got To Be Free,The Rascals,2,1,11
+4,Hush,Deep Purple,4,4,7
+5,Fire,The Crazy World Of Arthur Brown,15,5,4
+6,The Fool On The Hill,Sergio Mendes & Brasil '66,8,6,8
+7,"1, 2, 3, Red Light",1910 Fruitgum Co.,5,5,10
+8,I've Gotta Get A Message To You,Bee Gees,9,8,7
+9,Girl Watcher,The O'Kaysions,16,9,7
+10,Slip Away,Clarence Carter,13,10,12
+11,Time Has Come Today,The Chambers Brothers,11,11,8
+12,Revolution,The Beatles,12,12,3
+13,The House That Jack Built,Aretha Franklin,10,6,7
+14,I Say A Little Prayer,Aretha Franklin,14,14,7
+15,Born To Be Wild,Steppenwolf,7,2,12
+16,On The Road Again,Canned Heat,18,16,8
+17,Light My Fire,Jose Feliciano,6,3,10
+18,Midnight Confessions,The Grass Roots,21,18,5
+19,My Special Angel,The Vogues,19,19,4
+20,Little Green Apples,O.C. Smith,27,20,7
+21,Say It Loud - I'm Black And I'm Proud (Part 1),James Brown,31,21,4
+22,You're All I Need To Get By,Marvin Gaye & Tammi Terrell,17,7,10
+23,You Keep Me Hangin' On,The Vanilla Fudge,22,6,17
+24,Piece Of My Heart,Big Brother And The Holding Company,45,24,5
+25,Magic Bus,The Who,26,25,8
+26,Special Occasion,Smokey Robinson & The Miracles,34,26,7
+27,Suzie Q. (Part One),Creedence Clearwater Revival,44,27,4
+28,(The Lament Of The Cherokee) Indian Reservation,Don Fardon,29,28,5
+29,Over You,Gary Puckett And The Union Gap,54,29,2
+30,The Snake,Al Wilson,40,30,7
+31,All Along The Watchtower,The Jimi Hendrix Experience,66,31,2
+32,Tuesday Afternoon (Forever Afternoon),The Moody Blues,24,24,11
+33,Who Is Gonna Love Me?,Dionne Warwick,39,33,6
+34,"Baby, Come Back",The Equals,47,34,4
+35,Hip City - Pt. 2,Jr. Walker & The All Stars,38,35,8
+36,Shape Of Things To Come,Max Frost And The Troopers,63,36,4
+37,Love Makes A Woman,Barbara Acklin,28,15,12
+38,In-A-Gadda-Da-Vida,Iron Butterfly,42,38,6
+39,Do It Again,The Beach Boys,20,20,10
+40,Down At Lulu's,Ohio Express,33,33,9
+41,I Wish It Would Rain,Gladys Knight And The Pips,59,41,6
+42,"Hey, Western Union Man",Jerry Butler,60,42,5
+43,I Met Her In Church,The Box Tops,68,43,3
+44,Break Your Promise,The Delfonics,64,44,5
+45,Listen Here,Eddie Harris,55,45,11
+46,Brown Eyed Woman,Bill Medley,46,46,9
+47,Down On Me,Big Brother And The Holding Company,61,47,5
+48,Help Yourself,Tom Jones,48,48,5
+49,I Found A True Love,Wilson Pickett,87,49,2
+50,I Can't Dance To That Music You're Playin',Martha Reeves & The Vandellas,50,42,8
+51,To Wait For Love,Herb Alpert,51,51,5
+52,Chained,Marvin Gaye,72,52,3
+53,Poor Baby,The Cowsills,86,53,3
+54,Elenore,The Turtles,97,54,2
+55,The Weight,Jackie DeShannon,56,55,6
+56,Street Fighting Man,The Rolling Stones,57,56,4
+57,Naturally Stoned,The Avant-Garde,80,57,5
+58,Morning Dew,Lulu,52,52,8
+59,Hold Me Tight,Johnny Nash,90,59,3
+60,Six Man Band,The Association,58,47,6
+61,Fool For You,The Impressions,77,61,4
+62,"Shoot'em Up, Baby",Andy Kim,85,62,4
+63,The Weight,The Band,70,63,5
+64,My Way Of Life,Frank Sinatra,71,64,5
+65,Workin' On A Groovy Thing,Patti Drew,62,62,9
+66,Fly Me To The Moon,Bobby Womack,73,66,7
+67,(There's) Always Something There To Remind Me,Dionne Warwick,65,65,5
+68,The Funky Judge,Bull & The Matadors,91,68,6
+69,I've Got Dreams To Remember,Otis Redding,-1,69,1
+70,Those Were The Days,Mary Hopkin,-1,70,1
+71,Bang-Shang-A-Lang,The Archies,-1,71,1
+72,Ice In The Sun,The Status Quo,-1,72,1
+73,Unchained Melody,The Sweet Inspirations,74,73,5
+74,Down Here On The Ground,Lou Rawls,69,69,5
+75,Don't Change Your Love,Five Stairsteps & Cubie,78,75,6
+76,Court Of Love,The Unifics,100,76,2
+77,Private Number,Judy Clay & William Bell,75,75,5
+78,That Kind Of Woman,Merrilee Rush & The Turnabouts,76,76,5
+79,Gentle On My Mind,Glen Campbell,79,62,10
+80,"Oh Lord, Why Lord",Los Pop Tops,-1,80,1
+81,For The Love Of Ivy,The Mamas & The Papas,81,81,3
+82,Message From Maria,Joe Simon,-1,82,1
+83,There Was A Time,Gene Chandler,94,83,2
+84,Horse Fever,Cliff Nobles & Co.,88,84,3
+85,Do The Choo Choo,Archie Bell & The Drells,-1,85,1
+86,Sweet Young Thing Like You,Ray Charles,-1,86,1
+87,Light My Fire,The Doors,89,1,22
+88,I Ain't Got To Love Nobody Else,The Masqueraders,-1,88,1
+89,Sweet Blindness,The 5th Dimension,-1,89,1
+90,Puffin' On Down The Track,Hugh Masekela,-1,90,1
+91,I Love You Madly,Fantastic Four,99,91,2
+92,"The Biplane, Ever More",The Irish Rovers,92,92,3
+93,San Francisco Girls (Return of the Native),Fever Tree,93,91,5
+94,Then You Can Tell Me Goodbye,Eddy Arnold,84,84,4
+95,Battle Of New Orleans,Harpers Bizarre,95,95,2
+96,The Choice,The O'Jays,96,96,2
+97,Tomboy,Ronnie Dove,98,97,2
+98,The B.B. Jones,B.B. King,-1,98,1
+99,Almost In Love,Elvis Presley With The Jordanaires,-1,99,1
+100,Peace Of Mind,Nancy Wilson,-1,100,1

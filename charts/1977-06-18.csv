@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Dreams,Fleetwood Mac,2,1,10
+2,Got To Give It Up (Pt. I),Marvin Gaye,3,2,10
+3,Gonna Fly Now,Bill Conti,4,3,9
+4,Feels Like The First Time,Foreigner,5,4,13
+5,Lucille,Kenny Rogers,6,5,13
+6,Undercover Angel,Alan O'Day,8,6,12
+7,Lonely Boy,Andrew Gold,7,7,14
+8,I'm Your Boogie Man,KC And The Sunshine Band,1,1,17
+9,Sir Duke,Stevie Wonder,9,1,12
+10,Angel In Your Arms,Hot,11,10,18
+11,Jet Airliner,The Steve Miller Band,13,11,8
+12,Ain't Gonna Bump No More (with No Big Fat Woman),Joe Tex,12,12,12
+13,Life In The Fast Lane,Eagles,15,13,6
+14,Heard It In A Love Song,The Marshall Tucker Band,14,14,15
+15,Looks Like We Made It,Barry Manilow,18,15,7
+16,Da Doo Ron Ron,Shaun Cassidy,20,16,6
+17,Margaritaville,Jimmy Buffett,19,17,12
+18,My Heart Belongs To Me,Barbra Streisand,22,18,5
+19,Do You Wanna Make Love,Peter Mccann,23,19,9
+20,Slow Dancin' Don't Turn Me On,Addrisi Brothers,21,20,11
+21,I Just Want To Be Your Everything,Andy Gibb,26,21,9
+22,Love's Grown Deep,Kenny Nolan,24,22,12
+23,High School Dance,The Sylvers,25,23,9
+24,Couldn't Get It Right,Climax Blues Band,10,3,18
+25,I'm In You,Peter Frampton,31,25,4
+26,When I Need You,Leo Sayer,16,1,17
+27,Ariel,Dean Friedman,27,27,10
+28,Back Together Again,Daryl Hall John Oates,28,28,7
+29,"Gonna Fly Now (Theme From ""Rocky"")",Maynard Ferguson,30,29,9
+30,Hotel California,Eagles,17,1,17
+31,"Knowing Me, Knowing You",ABBA,35,31,6
+32,Hollywood,Rufus Featuring Chaka Khan,33,32,7
+33,(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,37,33,7
+34,You're My World,Helen Reddy,36,34,8
+35,Whatcha Gonna Do?,Pablo Cruise,39,35,10
+36,"Luckenbach, Texas (Back To The Basics Of Love)",Waylon Jennings,38,36,7
+37,You And Me,Alice Cooper,40,37,8
+38,Peace Of Mind,Boston,42,38,6
+39,It's Sad To Belong,England Dan & John Ford Coley,41,39,7
+40,All You Get From Love Is A Love Song,Carpenters,44,40,5
+41,People In Love,10cc,53,41,5
+42,You Made Me Believe In Magic,Bay City Rollers,57,42,3
+43,You're Movin' Out Today,Bette Midler,47,43,11
+44,Slowdown,John Miles,34,34,13
+45,Uptown Festival (Part 1),Shalamar,45,25,15
+46,Do What You Wanna Do,T-Connection,46,46,15
+47,Easy,Commodores,64,47,3
+48,Barracuda,Heart,60,48,4
+49,Hello Stranger,Yvonne Elliman,29,15,14
+50,Amarillo,Neil Sedaka,62,50,4
+51,Just A Song Before I Go,"Crosby, Stills & Nash",61,51,4
+52,Watch Closely Now,Kris Kristofferson,52,52,5
+53,Southern Nights,Glen Campbell,32,1,19
+54,Mainstreet,Bob Seger,48,24,9
+55,Neon Nites,Atlanta Rhythm Section,67,55,3
+56,Whodunit,Tavares,43,22,13
+57,If It's The Last Thing I Do,Thelma Houston,70,57,3
+58,Lido Shuffle,Boz Scaggs,49,11,15
+59,The Killing Of Georgie (Part I And II),Rod Stewart,71,59,3
+60,Devil's Gun,C.J. & Company,73,60,5
+61,I Don't Love You Anymore,Teddy Pendergrass,72,61,5
+62,Telephone Man,Meri Wilson,74,62,3
+63,Give A Little Bit,Supertramp,66,63,3
+64,Runaway,Bonnie Raitt,68,64,5
+65,Telephone Line,Electric Light Orchestra,81,65,2
+66,Spirit In The Night,Manfred Mann's Earth Band,51,40,11
+67,Going In With My Eyes Open,David Soul,54,54,7
+68,Right Time Of The Night,Jennifer Warnes,55,6,21
+69,Come In From The Rain,Captain & Tennille,80,69,2
+70,Best Of My Love,The Emotions,82,70,2
+71,Don't Turn The Light Out,Cliff Richard,75,71,3
+72,The Pretender,Jackson Browne,58,58,5
+73,Superman,Celi Bee & The Buzzy Bunch,84,73,2
+74,Calling Dr. Love,KISS,63,16,14
+75,On And On,Stephen Bishop,85,75,6
+76,Baby Don't Change Your Mind,Gladys Knight And The Pips,87,76,2
+77,The Pride (Part I),The Isley Brothers,77,63,7
+78,Save Me,Merrilee Rush,90,78,2
+79,Lose Again,Linda Ronstadt,79,79,3
+80,Handy Man,James Taylor,-1,80,1
+81,Black Betty,Ram Jam,92,81,2
+82,Smoke From A Distant Fire,The Sanford/Townsend Band,-1,82,1
+83,Seaside Woman,Suzy And The Red Stripes,-1,83,1
+84,Here Comes Summer,Wildfire,-1,84,1
+85,Slide,Slave,-1,85,1
+86,Land Of Make Believe,Chuck Mangione With The Hamilton Philharmonic Orchestra,86,86,2
+87,I'm Going Down,Rose Royce,88,87,3
+88,Break It To Me Gently,Aretha Franklin,-1,88,1
+89,Making A Good Thing Better,Olivia Newton-John,-1,89,1
+90,It Was Almost Like A Song,Ronnie Milsap,-1,90,1
+91,Lady (put The Light On Me),Brownsville Station,98,91,3
+92,Light Of A Clear Blue Morning,Dolly Parton,-1,92,1
+93,While I'm Alone,Maze Featuring Frankie Beverly,95,93,4
+94,It Feels So Good To Be Loved So Bad,The Manhattans,97,66,13
+95,I Gotta Keep Dancin',Carrie,96,64,8
+96,Only The Lucky,Walter Egan,99,96,2
+97,Dance And Shake Your Tambourine,Universal Robot Band,93,93,6
+98,I Wanna Get Next To You,Rose Royce,65,10,17
+99,I've Got Love On My Mind,Natalie Cole,56,5,21
+100,On The Border,Al Stewart,59,42,9

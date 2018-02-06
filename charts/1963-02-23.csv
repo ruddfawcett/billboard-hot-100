@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hey Paula,Paul and Paula,1,1,9
+2,Ruby Baby,Dion,4,2,6
+3,Walk Like A Man,The 4 Seasons,3,3,5
+4,Walk Right In,The Rooftop Singers,2,1,8
+5,Rhythm Of The Rain,The Cascades,5,5,7
+6,From A Jack To A King,Ned Miller,6,6,9
+7,You're The Reason I'm Living,Bobby Darin,12,7,6
+8,Blame It On The Bossa Nova,Eydie Gorme,18,8,6
+9,You've Really Got A Hold On Me,The Miracles,8,8,12
+10,Wild Weekend,The Rebels,15,10,9
+11,He's Sure The Boy I Love,The Crystals,11,11,9
+12,Little Town Flirt,Del Shannon,13,12,10
+13,Send Me Some Lovin',Sam Cooke,20,13,5
+14,Fly Me To The Moon - Bossa Nova,Joe Harnell And His Orchestra,17,14,9
+15,The Night Has A Thousand Eyes,Bobby Vee,7,3,12
+16,Mama Didn't Lie,Jan Bradley,16,16,8
+17,What Will My Mary Say,Johnny Mathis,23,17,5
+18,Up On The Roof,The Drifters,10,5,17
+19,Loop De Loop,Johnny Thunder,9,4,10
+20,Go Away Little Girl,Steve Lawrence,14,1,16
+21,The End Of The World,Skeeter Davis,36,21,5
+22,Cast Your Fate To The Wind,Vince Guaraldi Trio,28,22,12
+23,In Dreams,Roy Orbison ,47,23,3
+24,Alice In Wonderland,Neil Sedaka,32,24,4
+25,One Broken Heart For Sale,Elvis Presley With The Mello Men,59,25,2
+26,Love (Makes the World Go 'round),Paul Anka,26,26,6
+27,Our Day Will Come,Ruby And The Romantics,53,27,3
+28,The Gypsy Cried,Lou Christie,30,28,8
+29,Call On Me,Bobby Bland,22,22,8
+30,Our Winter Love,Bill Pursell,38,30,4
+31,Greenback Dollar,The Kingston Trio,41,31,5
+32,Your Used To Be,Brenda Lee,34,32,5
+33,I Wanna Be Around,Tony Bennett,40,33,7
+34,Let's Turkey Trot,Little Eva,44,34,4
+35,It's Up To You,Rick Nelson,21,6,11
+36,Boss Guitar,Duane Eddy and the Rebelettes,51,36,3
+37,Butterfly Baby,Bobby Rydell,52,37,3
+38,Half Heaven - Half Heartache,Gene Pitney,19,12,11
+39,That's The Way Love Is,Bobby Bland,45,38,6
+40,Let's Limbo Some More,Chubby Checker,65,40,2
+41,The Cinnamon Cinder (It's A Very Nice Dance),The Pastel Six,27,25,9
+42,My Dad,Paul Petersen,24,6,15
+43,Hitch Hike,Marvin Gaye,54,43,7
+44,My Coloring Book,Sandy Stewart,37,20,9
+45,I Saw Linda Yesterday,Dickey Lee,25,14,12
+46,Days Of Wine And Roses,Henry Mancini And His Orchestra,55,46,5
+47,She'll Never Know,Brenda Lee,48,47,5
+48,"Puddin N' Tain (Ask Me Again, I'll Tell You The Same)",The Alley Cats,43,43,7
+49,Every Day I Have To Cry,Steve Alaimo,56,49,8
+50,South Street,The Orlons,76,50,2
+51,Tell Him,The Exciters,29,4,13
+52,Tell Him I'm Not Home,Chuck Jackson,60,52,4
+53,My Coloring Book,Kitty Kallen,33,18,10
+54,All About My Girl,Jimmy McGriff,64,54,8
+55,Who Stole The Keeshka?,The Matys Bros.,57,55,6
+56,Settle Down (Goin' Down That Highway),"Peter, Paul & Mary",58,56,6
+57,Java,Floyd Cramer,61,49,9
+58,I'm Gonna' Be Warm This Winter,Connie Francis,42,18,11
+59,All I Have To Do Is Dream,Richard Chamberlain,83,59,3
+60,Proud,Johnny Crawford,39,29,8
+61,Big Wide World,Teddy Randazzo,63,61,5
+62,As Long As She Needs Me,Sammy Davis Jr.,70,62,5
+63,I Really Don't Want To Know,Little Esther Phillips,68,63,3
+64,I'm A Woman,Peggy Lee,66,54,8
+65,Love For Sale,Arthur Lyman Group,77,65,4
+66,"Baby, Baby, Baby",Sam Cooke,71,66,4
+67,Don't Make Me Over,Dionne Warwick,35,21,12
+68,Strange I Know,The Marvelettes,72,49,13
+69,Pin A Medal On Joey,James Darren,75,69,3
+70,Two Lovers,Mary Wells,31,7,13
+71,Would It Make Any Difference To You,Etta James,73,64,7
+72,Chicken Feed,Bent Fabric and His Piano,74,63,7
+73,Why Do Lovers Break Each Other's Heart?,Bob B. Soxx And The Blue Jeans,81,73,2
+74,They Remind Me Too Much Of You,Elvis Presley With The Mello Men,-1,74,1
+75,Ridin' The Wind,The Tornadoes,80,75,2
+76,I'm The One Who Loves You,The Impressions,79,76,3
+77,Twenty Miles,Chubby Checker,-1,77,1
+78,Laughing Boy,Mary Wells,-1,78,1
+79,Let's Stomp,Bobby Comstock,89,79,2
+80,"Hi-Lili, Hi-Lo",Richard Chamberlain,97,80,2
+81,Ain't Gonna Kiss Ya,The Ribbons,82,81,4
+82,Mr. Bass Man,Johnny Cymbal,99,82,2
+83,Leavin' On Your Mind,Patsy Cline,84,83,5
+84,I'm In Love Again,Rick Nelson,-1,84,1
+85,Rainbow,Gene Chandler,-1,85,1
+86,Don't Set Me Free,Ray Charles and his Orchestra,-1,86,1
+87,He's So Fine,The Chiffons,-1,87,1
+88,Theme From Lawrence Of Arabia,Ferrante & Teicher,88,88,3
+89,Bossa Nova U.S.A.,The Dave Brubeck Quartet,96,83,4
+90,Linda,Jan & Dean,-1,90,1
+91,"The 2,000 Pound Bee (Part 2)",The Ventures,-1,91,2
+92,"From The Bottom Of My Heart (Dammi, Dammi, Dammi)",Dean Martin,-1,91,6
+93,Don't Fence Me In,George Maharis,-1,93,1
+94,Yakety Sax,Boots Randolph and his Combo,-1,94,1
+95,What Does A Girl Do?,Marcie Blane,-1,95,1
+96,Don't Be Cruel,Barbara Lynn,-1,96,1
+97,The Jive Samba,Cannonball Adderley,98,97,2
+98,Faded Love,Jackie DeShannon,-1,98,1
+99,Meditation (Meditacao),Charlie Byrd,-1,99,2
+100,Only You (And You Alone),Mr. Acker Bilk,-1,77,3

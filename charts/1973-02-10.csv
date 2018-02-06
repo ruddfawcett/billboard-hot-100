@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Crocodile Rock,Elton John,1,1,10
+2,You're So Vain,Carly Simon,2,1,11
+3,Why Can't We Live Together,Timmy Thomas,4,3,12
+4,"Oh, Babe, What Would You Say?",Hurricane Smith,6,4,11
+5,Superstition,Stevie Wonder,3,1,13
+6,Do It Again,Steely Dan,9,6,13
+7,The World Is A Ghetto,War,8,7,13
+8,Trouble Man,Marvin Gaye,7,7,9
+9,Don't Expect Me To Be Your Friend,Lobo,12,9,7
+10,Could It Be I'm Falling In Love,The Spinners,13,10,7
+11,Dueling Banjos,Deliverance/Eric Weissberg & Steve Mandell,18,11,5
+12,Rocky Mountain High,John Denver,14,12,12
+13,Your Mama Don't Dance,Kenny Loggins & Jim Messina,5,4,14
+14,Dancing In The Moonlight,King Harvest,15,14,16
+15,Killing Me Softly With His Song,Roberta Flack,34,15,3
+16,Love Jones,Brighter Side Of Darkness,16,16,10
+17,"Hi, Hi, Hi",Wings,10,10,9
+18,Daddy's Home,Jermaine Jackson,21,18,10
+19,Last Song,Edward Bear,24,19,9
+20,Me And Mrs. Jones,Billy Paul,11,1,15
+21,Jambalaya (On The Bayou),The Blue Ridge Rangers,22,21,11
+22,Love Train,The O'Jays,28,22,4
+23,Superfly,Curtis Mayfield,17,8,13
+24,Separate Ways,Elvis Presley,20,20,11
+25,"You Turn Me On, I'm A Radio",Joni Mitchell,25,25,14
+26,Do You Want To Dance?,Bette Midler,29,26,8
+27,Dreidel,Don McLean,27,27,8
+28,Clair,Gilbert O'Sullivan,23,2,16
+29,Reelin' & Rockin',Chuck Berry,32,29,11
+30,"The Cover Of ""Rolling Stone""",Dr. Hook And The Medicine Show,36,30,11
+31,Harry Hippie,Bobby Womack & Peace,33,31,10
+32,Rockin' Pneumonia - Boogie Woogie Flu,Johnny Rivers,19,6,19
+33,Peaceful Easy Feeling,Eagles,38,33,7
+34,"Living Together, Growing Together",The 5th Dimension,44,34,6
+35,Don't Let Me Be Lonely Tonight,James Taylor,26,14,11
+36,I Got Ants In My Pants (and i want to dance) (Part 1),James Brown,46,36,4
+37,I'm Never Gonna Be Alone Anymore,Cornelius Brothers & Sister Rose,40,37,8
+38,Big City Miss Ruth Ann,Gallery,42,38,7
+39,Funny Face,Donna Fargo,30,5,20
+40,Danny's Song,Anne Murray,49,40,6
+41,Jesus Is Just Alright,The Doobie Brothers,43,41,9
+42,I'm Just A Singer (In A Rock And Roll Band),The Moody Blues,58,42,2
+43,Pieces Of April,Three Dog Night,37,19,13
+44,Hummingbird,Seals & Crofts,50,44,4
+45,Give Me Your Love,Barbara Mason,52,45,5
+46,You've Got To Take It (If You Want It),The Main Ingredient,48,46,8
+47,Smoke Gets In Your Eyes,Blue Haze,35,27,14
+48,Don't Cross The River,America,57,48,3
+49,Good Morning Heartache,Diana Ross,53,49,5
+50,Also Sprach Zarathustra (2001),Deodato,74,50,2
+51,Daytime Night-Time,Keith Hampshire,54,51,8
+52,Don't Leave Me Starvin' For Your Love (Part 1),Holland-Dozier,55,52,6
+53,Space Oddity,David Bowie,60,53,3
+54,Neither One Of Us (Wants To Be The First To Say Goodbye),Gladys Knight And The Pips,62,54,3
+55,I'll Be Your Shelter (In Time Of Storm),Luther Ingram,47,40,11
+56,Aubrey,Bread,78,56,2
+57,Dead Skunk,Loudon Wainwright III,66,57,3
+58,Soul Song,Joe Stampley,65,58,6
+59,Lucky Man,"Emerson, Lake & Palmer",51,48,19
+60,Rosalie,Sam Neely,68,60,3
+61,Today I Started Loving You Again,Bettye Swann,71,61,3
+62,Songman,Cashman & West,59,59,7
+63,Tweedlee Dee,Little Jimmy Osmond,64,63,5
+64,Control Of Me,Les Emmerson,67,64,5
+65,Hello Hurray,Alice Cooper,72,65,2
+66,The Message,Cymande,69,66,4
+67,Kissing My Love,Bill Withers,88,67,2
+68,Ain't No Woman (Like The One I've Got),Four Tops,87,68,2
+69,I Never Said Goodbye,Engelbert Humperdinck,61,61,7
+70,Boogie Woogie Man,Paul Davis,70,70,8
+71,Love Is What You Make It,The Grass Roots,81,71,3
+72,Palace Guard,Rick Nelson And The Stone Canyon Band,75,72,2
+73,Happy,Bobby Darin,77,73,6
+74,One Less Set Of Footsteps,Jim Croce,80,74,2
+75,Hot Wire,Al Green,79,75,4
+76,Keep On Singing,Austin Roberts,86,76,2
+77,Master Of Eyes (The Deepness Of Your Eyes),Aretha Franklin,-1,77,1
+78,Peaceful,Helen Reddy,85,78,2
+79,Fever/My Crew,Rita Coolidge,76,76,7
+80,How Can I Tell You,Travis Wammack,84,80,4
+81,Follow Your Daughter Home,The Guess Who,90,81,2
+82,Slow Motion (Part 1),Johnny Williams,83,82,6
+83,Lost Horizon,Shawn Phillips,-1,83,1
+84,Stir It Up,Johnny Nash,-1,84,1
+85,A Letter To Myself,The Chi-lites,-1,85,1
+86,Little Willy,The Sweet,89,86,4
+87,Do It In The Name Of Love,Candi Staton,92,87,2
+88,Break Up To Make Up,The Stylistics,-1,88,1
+89,Don't Burn Me,Paul Kelly,93,89,3
+90,Cook With Honey,Judy Collins,-1,90,1
+91,Sugar Magnolia,Grateful Dead,94,91,2
+92,Magic Woman Touch,The Hollies,-1,92,1
+93,We're Gonna Have A Good Time,Rare Earth,99,93,3
+94,Somebody Loves You,The Whispers,96,94,3
+95,Wish That I Could Talk To You,The Sylvers,97,95,2
+96,Come Softly To Me,The New Seekers,95,95,3
+97,Good Morning,Michael Redway,-1,97,1
+98,Love Music,The Raiders,100,98,2
+99,Tossin' And Turnin',Bunny Sigler,-1,99,1
+100,The Night The Lights Went Out In Georgia,Vicki Lawrence,-1,100,1

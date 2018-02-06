@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Best Of My Love,The Emotions,3,1,16
+2,Float On,The Floaters,2,2,12
+3,Don't Stop,Fleetwood Mac,5,3,12
+4,Keep It Comin' Love,KC And The Sunshine Band,6,4,9
+5,Strawberry Letter 23,The Brothers Johnson,7,5,13
+6,I Just Want To Be Your Everything,Andy Gibb,1,1,23
+7,Telephone Line,Electric Light Orchestra,8,7,16
+8,Star Wars Theme/Cantina Band,Meco,13,8,8
+9,That's Rock 'N' Roll,Shaun Cassidy,14,9,10
+10,Cold As Ice,Foreigner,12,10,10
+11,Handy Man,James Taylor,4,4,15
+12,Nobody Does It Better,Carly Simon,20,12,10
+13,On And On,Stephen Bishop,15,13,20
+14,Swayin' To The Music (slow Dancin'),Johnny Rivers ,16,14,14
+15,Boogie Nights,Heatwave,18,15,10
+16,I Feel Love,Donna Summer,23,16,8
+17,Don't Worry Baby,B.J. Thomas,19,17,13
+18,Way Down,Elvis Presley,21,18,14
+19,Brick House,Commodores,28,19,5
+20,(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,11,2,21
+21,You Light Up My Life,Debby Boone,35,21,4
+22,It Was Almost Like A Song,Ronnie Milsap,24,22,15
+23,"Signed, Sealed, Delivered (I'm Yours)",Peter Frampton,27,23,5
+24,Jungle Love,The Steve Miller Band,26,24,8
+25,Smoke From A Distant Fire,The Sanford/Townsend Band,9,9,15
+26,Heaven On The 7th Floor,Paul Nicholas,33,26,6
+27,The Greatest Love Of All,George Benson,31,27,9
+28,The King Is Gone,Ronnie McDowell,40,28,3
+29,Daytime Friends,Kenny Rogers,32,29,8
+30,How Much Love,Leo Sayer,29,17,12
+31,Cat Scratch Fever,Ted Nugent,34,31,7
+32,Just Remember I Love You,Firefall,37,32,7
+33,Surfin' USA,Leif Garrett,39,33,5
+34,I Believe You,Dorothy Moore,36,34,8
+35,Another Star,Stevie Wonder,38,35,5
+36,Star Wars (Main Title),London Symphony Orchestra,10,10,12
+37,Help Is On Its Way,Little River Band,41,37,8
+38,Don't It Make My Brown Eyes Blue,Crystal Gayle,42,38,7
+39,She Did It,Eric Carmen,44,39,5
+40,I Wouldn't Want To Be Like You,Alan Parsons,43,40,6
+41,It's Ecstasy When You Lay Down Next To Me,Barry White,54,41,6
+42,Easy,Commodores,17,4,17
+43,Just A Song Before I Go,"Crosby, Stills & Nash",22,7,18
+44,Dusic,Brick,60,44,4
+45,Sunshine,Enchantment,45,45,8
+46,Barracuda,Heart,25,11,18
+47,I Go Crazy,Paul Davis,58,47,5
+48,Give A Little Bit,Supertramp,48,15,17
+49,We Just Disagree,Dave Mason,59,49,4
+50,Hard Rock Cafe,Carole King,30,30,10
+51,Christine Sixteen,KISS,46,25,11
+52,Black Betty,Ram Jam,49,18,16
+53,Do Ya Wanna Get Funky With Me,Peter Brown,76,53,2
+54,Look What You've Done To My Heart,"Marilyn McCoo & Billy Davis, Jr.",51,51,6
+55,It's In His Kiss (The Shoop Shoop Song),Kate Taylor,66,55,4
+56,Devil's Gun,C.J. & Company,56,36,19
+57,I Just Want To Make Love To You,Foghat,70,57,10
+58,Hound Dog Man (Play It Again),Lenny LeBlanc,65,58,4
+59,The Martian Boogie,Brownsville Station,64,59,6
+60,O-H-I-O,Ohio Players,62,45,10
+61,Hold On,Wild Cherry,63,61,4
+62,Silver Lady,David Soul,72,62,3
+63,Edge Of The Universe,Bee Gees,47,26,10
+64,Blue Bayou,Linda Ronstadt,74,64,3
+65,Dog Days,Atlanta Rhythm Section,69,65,4
+66,I Believe In Love,Kenny Loggins,68,66,9
+67,We're All Alone,Rita Coolidge,78,67,2
+68,My Fair Share,Seals & Crofts,73,68,4
+69,Good Morning Judge,10cc,71,69,8
+70,"Baby, What A Big Surprise",Chicago,-1,70,1
+71,"Changes In Latitudes, Changes In Attitudes",Jimmy Buffett,82,71,2
+72,Baby Love,Mother's Finest,85,72,3
+73,Do Your Dance - Part 1,Rose Royce,83,73,2
+74,My Own Way To Rock,Burton Cummings,79,74,3
+75,Can't You See,The Marshall Tucker Band,77,75,6
+76,Needles And Pins,Smokie,87,76,2
+77,A Place In The Sun,Pablo Cruise,88,77,2
+78,Little Queen,Heart,89,78,2
+79,Love Me One More Time (Just For Old Times Sake),Karen Nelson And Billy T,80,79,3
+80,Doctor Love,First Choice,90,80,2
+81,Sheena Is A Punk Rocker,The Ramones,81,81,13
+82,Does She Do It Like She Dances,Addrisi Brothers,86,82,2
+83,How Deep Is Your Love,Bee Gees,-1,83,1
+84,You Made Me Believe In Magic,Bay City Rollers,55,10,17
+85,Love Gun,KISS,-1,85,1
+86,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,91,86,2
+87,Whatcha Gonna Do?,Pablo Cruise,53,6,24
+88,Send In The Clowns,Judy Collins,-1,36,12
+89,Come Sail Away,Styx,-1,89,1
+90,Ten To Eight,David Castle,-1,90,1
+91,Some Enchanted Evening,Jane Olivor,92,91,3
+92,Hold Tight,Vicki Sue Robinson,94,67,8
+93,Indian Summer,Poco,50,50,8
+94,So You Win Again,Hot Chocolate,52,31,11
+95,A Real Mother For Ya,Johnny Guitar Watson,95,41,12
+96,I'm In You,Peter Frampton,57,2,18
+97,You're My World,Helen Reddy,61,18,22
+98,I've Never Been To Me,Charlene,-1,98,1
+99,The Right Feeling At The Wrong Time,Hot,67,65,5
+100,Da Doo Ron Ron,Shaun Cassidy,100,1,20

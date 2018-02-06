@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Alone Again (Naturally),Gilbert O'Sullivan,1,1,8
+2,Brandy (You're A Fine Girl),Looking Glass,2,2,8
+3,(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,4,3,10
+4,Daddy Don't You Walk So Fast,Wayne Newton,5,4,16
+5,Too Late To Turn Back Now,Cornelius Brothers & Sister Rose,3,2,11
+6,Where Is The Love,Roberta Flack & Donny Hathaway,6,6,9
+7,School's Out,Alice Cooper,7,7,10
+8,How Do You Do?,Mouth & MacNeal,8,8,15
+9,Long Cool Woman (In A Black Dress),The Hollies,10,9,7
+10,Layla,Derek & The Dominos,11,10,23
+11,Lean On Me,Bill Withers,9,1,16
+12,Coconut,Nilsson,15,12,9
+13,Day By Day,Godspell,13,13,12
+14,Hold Her Tight,The Osmonds,17,14,6
+15,I'm Still In Love With You,Al Green,18,15,5
+16,The Happiest Girl In The Whole U.S.A.,Donna Fargo,19,16,11
+17,Conquistador,Procol Harum,16,16,11
+18,Rocket Man,Elton John,14,6,14
+19,Take It Easy,Eagles,12,12,10
+20,Hold Your Head Up,Argent,23,20,8
+21,You Don't Mess Around With Jim,Jim Croce,27,21,6
+22,Goodbye To Love,Carpenters,30,22,4
+23,Sealed With A Kiss,Bobby Vinton,26,23,9
+24,Motorcycle Mama,Sailcat,28,24,9
+25,Gone,Joey Heatherton,29,25,11
+26,Too Young,Donny Osmond,20,13,9
+27,Outa-Space,Billy Preston,22,2,16
+28,Happy,The Rolling Stones,31,28,4
+29,Lookin' Through The Windows,Jackson 5,38,29,4
+30,People Make The World Go Round,The Stylistics,25,25,10
+31,Baby Let Me Take You (In My Arms),Detroit Emeralds,34,31,11
+32,Breaking Up Is Hard To Do,The Partridge Family Starring Shirley Jones Featuring David Cassidy,36,32,6
+33,Small Beginnings,Flash,37,33,7
+34,Rock And Roll Part 2,Gary Glitter,50,34,3
+35,Baby Don't Get Hooked On Me,Mac Davis,42,35,6
+36,When You Say Love,Sonny & Cher,47,36,5
+37,I Wanna Be Where You Are,Michael Jackson,24,16,11
+38,Join Together,The Who,49,38,3
+39,The Guitar Man,Bread,62,39,2
+40,Beautiful Sunday,Daniel Boone,45,40,10
+41,Sweet Inspiration/Where You Lead,Barbra Streisand,41,41,7
+42,Pop That Thang,The Isley Brothers,53,42,6
+43,I'm Coming Home,Stories,46,43,8
+44,Honky Tonk - Part 1,The James Brown Soul Train,44,44,7
+45,The Runway,The Grass Roots,39,39,8
+46,We've Come Too Far To End It Now,Smokey Robinson & The Miracles,48,46,7
+47,Popcorn,Hot Butter,52,47,5
+48,We're Free,Beverly Bremers,40,40,15
+49,In The Ghetto,Candi Staton,54,49,7
+50,Back Stabbers,The O'Jays,55,50,3
+51,Power Of Love,Joe Simon,60,51,5
+52,You're Still A Young Man,Tower Of Power,63,52,4
+53,Duncan,Paul Simon,56,53,5
+54,The Coldest Days Of My Life (Part 1),The Chi-lites,68,54,4
+55,Put It Where You Want It,The Crusaders,65,55,4
+56,Starting All Over Again,Mel And Tim,73,56,5
+57,Go All The Way,Raspberries,66,57,6
+58,I Miss You (Part I),Harold Melvin And The Blue Notes,59,58,6
+59,A Simple Man,Lobo,64,59,5
+60,Saturday In The Park,Chicago,-1,60,1
+61,Run To Me,Bee Gees,83,61,2
+62,Beautiful,Gordon Lightfoot,58,58,11
+63,The City Of New Orleans,Arlo Guthrie,86,63,2
+64,War Song,Neil Young & Graham Nash,61,61,6
+65,"Look What They've Done To My Song, Ma",Ray Charles,67,65,5
+66,Everybody Plays The Fool,The Main Ingredient,72,66,4
+67,Zing Went The Strings Of My Heart,The Trammps,75,67,5
+68,Rip Off,Laura Lee,69,68,9
+69,Starman,David Bowie,74,69,6
+70,Alabama Wild Man,Jerry Reed,84,70,4
+71,This World,The Staple Singers,-1,71,1
+72,Delta Dawn,Tanya Tucker ,79,72,6
+73,Rock Me On The Water,Jackson Browne,-1,73,1
+74,That's What Friends Are For,B.J. Thomas,81,74,4
+75,Easy Livin,Uriah Heep,82,75,2
+76,My Guy,Petula Clark,77,76,9
+77,If I Were A Carpenter,Bob Seger,80,77,6
+78,That's The Way God Planned It,Billy Preston,95,62,11
+79,"My Man, A Sweet Man",Millie Jackson,-1,79,1
+80,"Your Wonderful, Sweet Sweet Love",The Supremes,-1,80,1
+81,Beat Me Daddy Eight To The Bar,Commander Cody,85,81,3
+82,In The Quiet Morning,Joan Baez,90,82,2
+83,Get On The Good Foot-Part 1,James Brown,-1,83,1
+84,What A Wonderful Thing We Have,The Fabulous Rhinestones,-1,84,1
+85,Ben,Michael Jackson,-1,85,1
+86,In Time,Engelbert Humperdinck,-1,86,1
+87,Circles,The New Seekers,87,87,4
+88,Butterfly,Danyel Gerard,89,78,9
+89,Speak To The Sky,Rick Springfield,-1,89,1
+90,Geronimo's Cadillac,Michael Murphey,-1,90,1
+91,Down On Me,Janis Joplin,91,91,4
+92,Goodbye Again,John Denver,93,92,3
+93,Couldn't I Just Tell You,Todd Rundgren,96,93,2
+94,I Could Never Be Happy,The Emotions,94,94,3
+95,Turn On Your Love Light,Jerry Lee Lewis,98,95,3
+96,Garden Party,Rick Nelson And The Stone Canyon Band,99,96,2
+97,Down By The River,Albert Hammond,97,97,3
+98,Sittin' On A Time Bomb (Waitin' For The Hurt To Come),The Honey Cone,100,98,2
+99,My Ding-A-Ling,Chuck Berry,-1,99,1
+100,Nights In White Satin,The Moody Blues,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Please Mr. Postman,Carpenters,2,1,10
+2,Laughter In The Rain,Neil Sedaka,3,2,15
+3,Mandy,Barry Manilow,1,1,11
+4,Fire,Ohio Players,11,4,7
+5,Boogie On Reggae Woman,Stevie Wonder,6,5,11
+6,You're No Good,Linda Ronstadt,21,6,8
+7,One Man Woman/One Woman Man,Paul Anka with Odia Coates,8,7,12
+8,Morning Side Of The Mountain,Donny & Marie Osmond,9,8,11
+9,Never Can Say Goodbye,Gloria Gaynor,10,9,13
+10,Pick Up The Pieces,AWB,14,10,8
+11,Lucy In The Sky With Diamonds,Elton John,5,1,9
+12,Some Kind Of Wonderful,Grand Funk,15,12,7
+13,Doctor's Orders,Carol Douglas,13,13,9
+14,Get Dancin',Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III,17,14,10
+15,Best Of My Love,Eagles,19,15,9
+16,Rock N' Roll (I Gave You The Best Years Of My Life),Mac Davis,16,16,8
+17,Junior's Farm/Sally G,Paul McCartney And Wings,7,3,12
+18,"You're The First, The Last, My Everything",Barry White,4,2,13
+19,Free Bird,Lynyrd Skynyrd,25,19,10
+20,Black Water,The Doobie Brothers,24,20,6
+21,#9 Dream,John Lennon,29,21,6
+22,Struttin',Billy Preston,26,22,7
+23,Look In My Eyes Pretty Woman,Tony Orlando & Dawn,27,23,6
+24,Bungle In The Jungle, Jethro Tull,18,12,13
+25,Sweet Surrender,John Denver,30,25,5
+26,Ready,Cat Stevens,32,26,8
+27,Only You,Ringo Starr,12,6,11
+28,Nightingale,Carole King,36,28,4
+29,Lonely People,America,37,29,5
+30,Your Bulldog Drinks Champagne,Jim Stafford,38,30,6
+31,Lady,Styx,39,31,7
+32,My Eyes Adored You,Frankie Valli,40,32,10
+33,Can't Get It Out Of My Head,Electric Light Orchestra,41,33,6
+34,I Belong To You,Love Unlimited,31,31,9
+35,The Entertainer,Billy Joel,34,34,9
+36,Angie Baby,Helen Reddy,22,1,15
+37,Ride 'em Cowboy,Paul Davis,23,23,16
+38,Kung Fu Fighting,Carl Douglas,20,1,16
+39,I'm A Woman,Maria Muldaur,55,39,5
+40,Big Yellow Taxi,Joni Mitchell,51,40,11
+41,Happy People,The Temptations,43,41,6
+42,From His Woman To You,Barbara Mason,28,28,9
+43,Changes,David Bowie,45,42,15
+44,Cat's In The Cradle,Harry Chapin,35,1,17
+45,I Feel A Song (In My Heart)/Don't Burn Down The Bridge,Gladys Knight And The Pips,47,21,16
+46,Ding Dong; Ding Dong,George Harrison,59,46,3
+47,"Don't Call Us, We'll Call You",Sugarloaf/Jerry Corbetta,58,47,8
+48,You Got The Love,Rufus Featuring Chaka Khan,42,11,16
+49,Dark Horse,George Harrison,33,15,10
+50,"Baby, Hang Up The Phone",Carl Graves,50,50,8
+51,As Long As He Takes Care Of Home,Candi Staton,52,51,5
+52,Dancin' Fool,The Guess Who,56,28,10
+53,When A Child Is Born,Michael Holm,60,53,7
+54,Woman To Woman,Shirley Brown,62,22,13
+55,Roll On Down The Highway,Bachman-Turner Overdrive,67,55,2
+56,I Am I Am,Smokey Robinson,65,56,7
+57,To The Door Of The Sun (Alle Porte Del Sole),Al Martino,69,57,6
+58,Movin' On,Bad Company,70,58,2
+59,Day Tripper,Anne Murray,63,59,6
+60,Poetry Man,Phoebe Snow,72,60,4
+61,Lady Marmalade,Labelle,84,61,4
+62,Up In A Puff Of Smoke,Polly Brown,86,62,4
+63,Have You Never Been Mellow,Olivia Newton-John,-1,63,1
+64,You Are So Beautiful/It's A Sin When You Love Somebody,Joe Cocker,74,64,3
+65,Ain't That Peculiar,Diamond Reo,75,65,3
+66,"Hoppy, Gene And Me",Roy Rogers,68,66,6
+67,Don't Take Your Love,The Manhattans,76,67,4
+68,Sad Sweet Dreamer,Sweet Sensation,78,68,3
+69,Do It ('til You're Satisfied),B.T. Express,57,2,18
+70,Lovin' You,Minnie Riperton,80,70,2
+71,Sha-La-La (Make Me Happy),Al Green,46,7,18
+72,I've Got The Music In Me,The Kiki Dee Band,66,12,20
+73,Midnight Sky (Part 1),The Isley Brothers,77,73,4
+74,I Am Love (Parts I & II),Jackson 5,87,74,2
+75,Rhyme Tyme People,Kool & The Gang,79,75,4
+76,"Shame, Shame, Shame",Shirley And Company,88,76,3
+77,Costafine Town,Splinter,82,77,7
+78,Star On A TV Show,The Stylistics,89,78,2
+79,When Will I See You Again,The Three Degrees,54,2,18
+80,Hot Dawgit,"Ramsey Lewis And Earth, Wind & Fire",90,80,2
+81,Never Let Her Go,David Gates,94,81,2
+82,My Boy,Elvis Presley,-1,82,1
+83,Future Shock,Hello People,83,83,2
+84,I Can Help,Billy Swan,61,1,18
+85,Express,B.T. Express,-1,85,1
+86,Thanks For The Smiles,Charlie Ross,97,86,2
+87,Let Me Start Tonite,Lamont Dozier,91,87,4
+88,It's All Right,Jim Capaldi,100,88,2
+89,If Loving You Is Wrong I Don't Want To Be Right,Millie Jackson,-1,89,1
+90,I Get Lifted,George McCrae,-1,90,1
+91,One Tear,Eddie Kendricks,85,71,8
+92,Wishing You Were Here,Chicago,71,11,15
+93,I Won't Last A Day Without You/Let Me Be The One,Al Wilson,96,93,3
+94,We May Never Love Like This Again,Maureen McGovern,-1,94,1
+95,Devil In The Bottle,T.G. Sheppard,-1,95,1
+96,Gee Baby,Peter Shelley,81,81,6
+97,Chico And The Man,Jose Feliciano,-1,97,1
+98,Crazy Talk,Chilliwack,98,98,5
+99,Isn't It Lonely Together,Stark & McBrien,-1,99,1
+100,I'll Still Love You,Jim Weatherly,-1,100,1

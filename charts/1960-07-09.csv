@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Alley-Oop,Hollywood Argyles,2,1,7
+2,I'm Sorry,Brenda Lee,3,2,7
+3,Everybody's Somebody's Fool,Connie Francis,1,1,10
+4,Because They're Young,Duane Eddy And The Rebels,4,4,8
+5,Mule Skinner Blues,The Fendermen,9,5,8
+6,Only The Lonely (Know How I Feel),Roy Orbison,11,6,6
+7,That's All You Gotta Do,Brenda Lee,6,6,6
+8,My Home Town,Paul Anka,8,8,8
+9,A Rockin' Good Way (To Mess Around And Fall In Love),Dinah Washington & Brook Benton,10,7,8
+10,When Will I Be Loved,The Everly Brothers,20,10,7
+11,Burning Bridges,Jack Scott,7,3,13
+12,Tell Laura I Love Her,Ray Peterson,22,12,5
+13,Cathy's Clown,The Everly Brothers,5,1,13
+14,"Please Help Me, I'm Falling",Hank Locklin,16,14,8
+15,Alley-Oop,Dante and the Evergreens,15,15,7
+16,Paper Roses,Anita Bryant,13,5,14
+17,Image Of A Girl,Safaris with The Phantom's Band,43,17,6
+18,Wonderful World,Sam Cooke,12,12,10
+19,Happy-Go-Lucky-Me,Paul Evans,14,10,11
+20,Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini,Brian Hyland,59,20,2
+21,Walking To New Orleans,Fats Domino,31,21,4
+22,Love You So,Ron Holden with The Thunderbirds,24,7,15
+23,Runaround,The Fleetwoods,25,23,8
+24,Jealous Of You (Tango Della Gelosia),Connie Francis,23,19,8
+25,Look For A Star,Garry Miles,35,25,4
+26,Pennies From Heaven,The Skyliners,29,26,10
+27,"Theme From ""The Unforgiven"" (The Need For Love)",Don Costa And His Orchestra And Chorus,27,27,11
+28,Josephine,Bill Black's Combo,33,28,3
+29,I Really Don't Want To Know,Tommy Edwards,18,18,8
+30,Won't You Come Home Bill Bailey,Bobby Darin,19,19,8
+31,One Of Us (Will Weep Tonight),Patti Page,34,31,6
+32,Look For A Star,Deane Hawley,37,32,4
+33,There's Something On Your Mind (Part 2),Bobby Marchan,46,33,5
+34,Mission Bell,Donnie Brooks,79,34,5
+35,Good Timin',Jimmy Jones,17,3,13
+36,Train Of Love,Annette With The Afterbeats,38,36,6
+37,I'm Gettin' Better,Jim Reeves,42,37,4
+38,Swingin' School,Bobby Rydell,21,5,10
+39,Mack The Knife,Ella Fitzgerald,28,27,11
+40,Is A Blue Bird Blue,Conway Twitty,50,40,5
+41,Young Emotions,Ricky Nelson,26,12,12
+42,This Bitter Earth,Dinah Washington,75,42,4
+43,Ding-A-Ling,Bobby Rydell,32,18,10
+44,Another Sleepless Night,Jimmy Clanton,36,22,12
+45,Clap Your Hands,The Beau-Marks,49,45,9
+46,Look For A Star,Billy Vaughn And His Orchestra,56,46,4
+47,Doggin' Around,Jackie Wilson,55,15,15
+48,All I Could Do Was Cry,Etta James,51,33,11
+49,He'll Have To Stay,Jeanne Black,30,4,11
+50,Stuck On You,Elvis Presley With The Jordanaires,39,1,15
+51,Something Happened,Paul Anka,41,41,7
+52,Don't Come Knockin',Fats Domino,90,52,3
+53,Finger Poppin' Time,Hank Ballard And The Midnighters,60,53,9
+54,Spring Rain,Pat Boone,63,50,7
+55,Hey Little One,Dorsey Burnette,61,55,6
+56,Look For A Star - Part I,Garry Mills,62,56,4
+57,Trouble In Paradise,The Crests,68,57,5
+58,Question,Lloyd Price and His Orchestra,80,58,3
+59,Banjo Boy,Jan And Kjeld,58,58,6
+60,Where Are You,Frankie Avalon,67,60,5
+61,Sixteen Reasons,Connie Stevens,40,3,24
+62,Down Yonder,Johnny And The Hurricanes,48,48,7
+63,All The Love I've Got,Marv Johnson,65,63,5
+64,Bad Man Blunder,The Kingston Trio,66,64,4
+65,Lonely Weekends,Charlie Rich,47,22,18
+66,Sticks And Stones,Ray Charles and his Orchestra,86,66,3
+67,Lonely Winds,The Drifters,54,54,8
+68,I Can't Help It,Adam Wade,69,68,4
+69,"Wake Me, Shake Me",The Coasters,71,69,4
+70,Night,Jackie Wilson,44,4,17
+71,Is There Any Chance,Marty Robbins,76,71,4
+72,Theme For Young Lovers,Percy Faith And His Orchestra,52,35,10
+73,Feel So Fine,Johnny Preston,92,73,4
+74,Johnny Freedom,Johnny Horton,82,74,2
+75,My Tani,The Brothers Four,78,75,2
+76,There's A Star Spangled Banner Waving #2 (The Ballad Of Francis Powers),Red River Dave,81,76,3
+77,Heartbreak (It's Hurtin' Me),Little Willie John,83,77,6
+78,Maria,Johnny Mathis,84,78,4
+79,I'll Be There,Bobby Darin,-1,79,1
+80,(You Were Made For) All My Love,Jackie Wilson,-1,80,1
+81,Do You Mind?,Andy Williams,93,81,2
+82,Be Bop A-Lula,The Everly Brothers,-1,82,1
+83,Ooh Poo Pah Doo - Part II,Jessie Hill,64,28,16
+84,Walking The Floor Over You,Pat Boone,53,44,8
+85,One Boy,Joanie Sommers,91,85,2
+86,Second Honeymoon,Johnny Cash,96,86,2
+87,Too Young To Go Steady,Connie Stevens,98,87,2
+88,I Shot Mr. Lee,The Bobbettes,95,88,2
+89,Down The Street To 301,Johnny Cash And The Tennessee Two,-1,89,1
+90,"A Woman, A Lover, A Friend",Jackie Wilson,-1,90,1
+91,Jump Over,Freddy Cannon,77,28,10
+92,Hot Rod Lincoln,Charlie Ryan and the Timberline Riders,-1,78,7
+93,Dutchman's Gold,Walter Brennan With Billy Vaughn and his Orchestra,70,30,12
+94,In My Little Corner Of The World,Anita Bryant,-1,94,1
+95,Ain't Gonna Be That Way,Marv Johnson,74,74,7
+96,I've Been Loved Before,Shirley and Lee,-1,96,2
+97,Over The Rainbow,The Demensions,100,97,2
+98,That's When I Cried,Jimmy Jones,-1,98,1
+99,Cherry Pie,Skip And Flip,57,11,15
+100,My Shoes Keep Walking Back To You,Guy Mitchell,-1,100,1

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Le Freak,Chic,1,1,15
+2,Y.M.C.A.,Village People,3,2,16
+3,Da Ya Think I'm Sexy?,Rod Stewart,4,3,7
+4,A Little More Love,Olivia Newton-John,6,4,11
+5,Too Much Heaven,Bee Gees,2,1,12
+6,My Life,Billy Joel,5,3,14
+7,Every 1's A Winner,Hot Chocolate,9,7,13
+8,Fire,The Pointer Sisters,11,8,13
+9,September,"Earth, Wind & Fire",10,9,12
+10,I Will Survive,Gloria Gaynor,20,10,8
+11,Lotta Love,Nicolette Larson,13,11,11
+12,I Was Made For Dancin',Leif Garrett,16,12,13
+13,New York Groove,Ace Frehley,14,13,17
+14,Somewhere In The Night,Barry Manilow,15,14,8
+15,Got To Be Real,Cheryl Lynn,17,15,10
+16,Shake It,Ian Matthews,18,16,12
+17,Soul Man,Blues Brothers,19,17,9
+18,Heaven Knows,Donna Summer With Brooklyn Dreams,26,18,4
+19,No Tell Lover,Chicago ,21,19,7
+20,Hold The Line,Toto,8,5,18
+21,Don't Hold Back,Chanson,22,21,13
+22,"Blue Morning, Blue Day",Foreigner,29,22,7
+23,The Gambler,Kenny Rogers,24,23,14
+24,Don't Cry Out Loud,Melissa Manchester,25,24,12
+25,Ooh Baby Baby,Linda Ronstadt,7,7,13
+26,You Don't Bring Me Flowers,Barbra Streisand & Neil Diamond,12,1,15
+27,Take Me To The River,Talking Heads,28,27,14
+28,Home And Dry,Gerry Rafferty,30,28,10
+29,Baby I'm Burnin',Dolly Parton,31,29,9
+30,Shake Your Groove Thing,Peaches & Herb,36,30,8
+31,Shattered,The Rolling Stones,32,31,8
+32,Love Don't Live Here Anymore,Rose Royce,33,32,9
+33,Dancin' Shoes,Nigel Olsson,38,33,8
+34,Promises,Eric Clapton And His Band,23,9,17
+35,One Last Kiss,The J. Geils Band,37,35,12
+36,Lady,Little River Band,39,36,5
+37,Every Time I Think Of You,The Babys,44,37,5
+38,What You Won't Do For Love,Bobby Caldwell,43,38,7
+39,We've Got Tonight,Bob Seger & The Silver Bullet Band,27,13,15
+40,You Thrill Me,Exile,41,40,11
+41,What A Fool Believes,The Doobie Brothers,62,41,3
+42,I Don't Wanna Lose You,Daryl Hall John Oates,42,42,9
+43,You Can Do It,Dobie Gray,47,43,7
+44,Dancing In The City,Marshall Hain,45,44,9
+45,Sing For The Day,Styx,48,45,5
+46,Stormy,Santana,50,46,5
+47,Haven't Stopped Dancing Yet,Gonzalez,54,47,5
+48,Crazy Love,Poco,61,48,3
+49,I Just Fall In Love Again,Anne Murray,57,49,2
+50,You Make Me Feel (Mighty Real),Sylvester,58,50,4
+51,You Need A Woman Tonight,Captain & Tennille,40,40,9
+52,Song On The Radio,Al Stewart,60,52,2
+53,(Our Love) Don't Throw It All Away,Andy Gibb,35,9,17
+54,Dancin' Shoes,Faith Band,56,54,8
+55,Forever In Blue Jeans,Neil Diamond,66,55,2
+56,You Stepped Into My Life,Melba Moore,67,56,3
+57,Sharing The Night Together,Dr. Hook,34,6,21
+58,Get Down,Gene Chandler,68,58,5
+59,I Go To Rio,Pablo Cruise,70,59,4
+60,Free Me From My Freedom/Tie Me To A Tree (Handcuff Me),Bonnie Pointer,63,60,12
+61,A Little Lovin' (Keeps The Doctor Away),The Raes,65,61,8
+62,Lonely Wind,Kansas,64,62,3
+63,"Pops, We Love You (A Tribute To Father)","Diana Ross, Marvin Gaye, Smokey Robinson & Stevie Wonder",71,63,3
+64,Every Which Way But Loose,Eddie Rabbitt,73,64,3
+65,I Don't Know If It's Right,"Evelyn ""Champagne"" King",74,65,5
+66,"Goodbye, I Love You",Firefall,76,66,3
+67,Maybe I'm A Fool,Eddie Money,81,67,2
+68,Who Do Ya Love,KC And The Sunshine Band,69,68,8
+69,Chase,Giorgio Moroder,80,69,3
+70,Not Fade Away,Tanya Tucker,72,70,3
+71,"Baby, I Need Your Lovin'",Eric Carmen,75,71,2
+72,Our Love Is Insane,Desmond Child And Rouge,77,72,3
+73,Music Box Dancer,Frank Mills,84,73,2
+74,Superman,Herbie Mann,78,74,4
+75,Knock On Wood,Amii Stewart,85,75,2
+76,Livin' It Up (Friday Night),Bell & James,88,76,2
+77,Chip Away The Stone,Aerosmith,79,77,3
+78,Stumblin' In,Suzi Quatro & Chris Norman,89,78,2
+79,Run Home Girl,Sad Cafe,82,79,4
+80,Fancy Dancer,Frankie Valli,90,80,2
+81,Take That To The Bank,Shalamar,83,81,4
+82,Dog + Butterfly,Heart,-1,82,1
+83,Theme From Superman (Main Title),The London Symphony Orchestra/John Williams,86,83,2
+84,All The Time In The World,Dr. Hook,-1,84,1
+85,Bad Brakes,Cat Stevens,87,85,2
+86,Four Strong Winds,Neil Young,-1,86,1
+87,For You And I,10cc,-1,87,1
+88,Bustin' Loose,Chuck Brown & The Soul Searchers,-1,88,1
+89,Oh Honey,Delegation,-1,89,1
+90,Survivor,Cindy Bullens,-1,90,1
+91,The Football Card,Glenn Sutton,46,46,5
+92,Double Vision,Foreigner,92,2,20
+93,I Love The Nightlife (Disco 'round),Alicia Bridges,93,5,31
+94,Shoot Me (With Your Love),Tasha Thomas,97,94,2
+95,Strange Way,Firefall,95,11,19
+96,Lost In Your Love,John Paul Young,55,55,9
+97,How You Gonna See Me Now,Alice Cooper,49,12,16
+98,A Man I'll Never Be,Boston,52,31,12
+99,Instant Replay,Dan Hartman,99,29,17
+100,You Took The Words Right Out Of My Mouth,Meat Loaf,53,39,13

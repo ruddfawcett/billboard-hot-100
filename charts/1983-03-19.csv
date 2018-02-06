@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Billie Jean,Michael Jackson,1,1,9
+2,Shame On The Moon,Bob Seger & The Silver Bullet Band,2,2,14
+3,Do You Really Want To Hurt Me,Culture Club,4,3,16
+4,Hungry Like The Wolf,Duran Duran,5,4,13
+5,Back On The Chain Gang,Pretenders,6,5,15
+6,You Are,Lionel Richie,7,6,10
+7,We've Got Tonight,Kenny Rogers And Sheena Easton,8,7,8
+8,Separate Ways (Worlds Apart),Journey,10,8,7
+9,One On One,Daryl Hall John Oates,11,9,8
+10,Mr. Roboto,Styx,13,10,6
+11,Stray Cat Strut,Stray Cats,3,3,13
+12,All Right,Christopher Cross,12,12,9
+13,Twilight Zone,Golden Earring,14,13,17
+14,Come On Eileen,Dexy's Midnight Runners,20,14,9
+15,I Know There's Something Going On,Frida,16,15,20
+16,Jeopardy,Greg Kihn Band,27,16,8
+17,Fall In Love With Me,"Earth, Wind & Fire",18,17,9
+18,Breaking Us In Two,Joe Jackson,19,18,10
+19,I've Got A Rock N' Roll Heart,Eric Clapton,21,19,8
+20,Der Kommissar,After The Fire,25,20,6
+21,"Baby, Come To Me",Patti Austin With James Ingram,9,1,27
+22,Down Under,Men At Work,15,1,20
+23,Allentown,Billy Joel,17,17,17
+24,Beat It,Michael Jackson,44,24,4
+25,Little Too Late,Pat Benatar,29,25,7
+26,You And I,Eddie Rabbitt With Crystal Gayle,22,7,24
+27,Poison Arrow,ABC,31,27,8
+28,Change Of Heart,Tom Petty And The Heartbreakers,38,28,4
+29,Make Love Stay,Dan Fogelberg,34,29,7
+30,Dreamin' Is Easy,Steel Breeze,30,30,10
+31,My Kind Of Lady,Supertramp Featuring Rick Davies,32,31,8
+32,Lies,Thompson Twins,36,32,9
+33,Pass The Dutchie,Musical Youth,23,10,15
+34,Your Love Is Driving Me Crazy,Sammy Hagar,24,13,15
+35,On The Loose,Saga,26,26,16
+36,She Blinded Me With Science,Thomas Dolby,52,36,5
+37,Little Red Corvette,Prince,54,37,4
+38,Winds Of Change,Jefferson Starship,41,38,8
+39,Burning Heart,Vandenberg,39,39,11
+40,So Close,Diana Ross,42,40,7
+41,I Like It,Debarge,43,41,7
+42,Nice Girls,Melissa Manchester,45,42,7
+43,I Don't Care Anymore,Phil Collins,47,43,6
+44,Whirly Girl,Oxo,51,44,5
+45,It Might Be You,Stephen Bishop,48,45,8
+46,It's Raining Men,The Weather Girls,46,46,9
+47,Something To Grab For,Ric Ocasek,50,47,6
+48,Take The Short Way Home,Dionne Warwick,56,48,4
+49,The Fanatic,Felony,55,49,6
+50,Even Now,Bob Seger & The Silver Bullet Band,74,50,2
+51,I Won't Hold You Back,Toto,67,51,2
+52,Should I Stay Or Should I Go,The Clash,57,45,18
+53,Welcome To Heartlight,Kenny Loggins,65,53,2
+54,Some Kind Of Friend,Barry Manilow,61,54,4
+55,Goody Two Shoes,Adam Ant,28,12,19
+56,Minimum Love,Mac McAnally,75,56,3
+57,Love My Way,Psychedelic Furs,64,57,3
+58,Come Give Your Love To Me,Janet Jackson,58,58,7
+59,Always,Firefall,59,59,10
+60,Land Of A Thousand Dances,The J. Geils Band,62,60,4
+61,Swingin',John Anderson,66,61,3
+62,The Woman In Me,Donna Summer,33,33,14
+63,I'm Alive,Neil Diamond,35,35,10
+64,You Can't Hurry Love,Phil Collins,37,10,20
+65,Solitaire,Laura Branigan,-1,65,1
+66,Sex (I'm A...),Berlin,72,66,3
+67,Only You,Yaz,73,67,4
+68,Escalator Of Life,Robert Hazard,76,68,3
+69,Straight From The Heart,Bryan Adams,81,69,2
+70,Outstanding,The Gap Band,79,70,2
+71,Goodnight Saigon,Billy Joel,-1,71,1
+72,So Wrong,Patrick Simmons,-1,72,1
+73,You Are In My System,The System,84,73,3
+74,Let Me Go,Heaven 17,80,74,2
+75,Desperate But Not Serious,Adam Ant ,86,75,2
+76,Walking In L.a.,Missing Persons,83,76,2
+77,Photograph,Def Leppard,87,77,2
+78,Keep It Tight,Single Bullet Theory,78,78,3
+79,Always Something There To Remind Me,Naked Eyes,85,79,2
+80,Mornin',Jarreau,-1,80,1
+81,Carrie's Gone,Le Roux,-1,81,1
+82,American Made,The Oak Ridge Boys,-1,82,1
+83,Eenie Meenie,Jeffrey Osborne,-1,83,1
+84,Smiling Islands,Robbie Patton,90,84,2
+85,Every Home Should Have One,Patti Austin,-1,62,9
+86,Don't Tell Me You Love Me,Night Ranger,40,40,10
+87,Betcha She Don't Love You,Evelyn King,49,49,10
+88,I Can't Stand Still,Don Henley,53,48,10
+89,Tied Up,Olivia Newton-John,60,38,10
+90,Mexican Radio,Wall Of Voodoo,-1,90,1
+91,What Love Is,Marty Balin,63,63,5
+92,Heart To Heart,Kenny Loggins,68,15,17
+93,Africa,Toto,69,1,21
+94,The Other Guy,Little River Band,71,11,18
+95,Shoppin' From A To Z,Toni Basil,77,77,4
+96,Please Mr. Postman,Gentle Persuasion,82,82,4
+97,Love Me Again,The John Hall Band,88,64,9
+98,Sexual Healing,Marvin Gaye,89,3,21
+99,Maneater,Daryl Hall John Oates,91,1,23
+100,The Clapping Song,Pia Zadora,70,36,15

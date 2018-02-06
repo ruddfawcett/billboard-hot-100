@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Let Your Love Flow,Bellamy Brothers,2,1,14
+2,Right Back Where We Started From,Maxine Nightingale,3,2,12
+3,Boogie Fever,The Sylvers,4,3,12
+4,Welcome Back,John Sebastian,7,4,6
+5,Sweet Love,Commodores,5,5,19
+6,Disco Lady,Johnnie Taylor,1,1,13
+7,Show Me The Way,Peter Frampton,8,7,11
+8,Fooled Around And Fell In Love,Elvin Bishop,10,8,9
+9,Bohemian Rhapsody,Queen,9,9,18
+10,Love Hangover,Diana Ross,29,10,5
+11,Only Sixteen,Dr. Hook,6,6,18
+12,Silly Love Songs,Wings,24,12,4
+13,Get Up And Boogie (That's Right),Silver Convention,28,13,8
+14,Shannon,Henry Gross,18,14,10
+15,"I Do, I Do, I Do, I Do, I Do",ABBA,17,15,12
+16,"December, 1963 (Oh, What a Night)",The 4 Seasons,14,1,19
+17,Tryin' To Get The Feeling Again,Barry Manilow,19,17,7
+18,Sara Smile,Daryl Hall John Oates,23,18,14
+19,Strange Magic,Electric Light Orchestra,22,19,8
+20,Livin' For The Weekend,The O'Jays,20,20,9
+21,Misty Blue,Dorothy Moore,25,21,7
+22,Rhiannon (will You Ever Win),Fleetwood Mac,26,22,9
+23,Lonely Night (angel Face),Captain & Tennille,11,3,15
+24,Dream Weaver,Gary Wright,13,2,18
+25,There's A Kind Of Hush (All Over The World),Carpenters,12,12,10
+26,Happy Days,Pratt & McClain with Brother Love,37,26,5
+27,Sweet Thing,Rufus Featuring Chaka Khan,15,5,18
+28,Don't Pull Your Love/then You Can Tell Me Goodbye,Glen Campbell,32,28,6
+29,Come On Over,Olivia Newton-John,35,29,8
+30,Happy Music,The Blackbyrds,34,30,9
+31,Shout It Out Loud,KISS,36,31,7
+32,Young Blood,Bad Company,38,32,7
+33,Union Man,Cate Bros.,33,33,13
+34,Love In The Shadows,Neil Sedaka,44,34,4
+35,Love Really Hurts Without You,Billy Ocean,45,35,5
+36,"More, More, More Pt. 1",Andrea True Connection,40,36,8
+37,I've Got A Feeling (We'll Be Seeing Each Other Again),Al Wilson,41,37,6
+38,Hurt/for The Heart,Elvis Presley,42,38,6
+39,Can't Hide Love,"Earth, Wind & Fire",39,39,6
+40,Anytime (i'll Be There),Paul Anka,46,40,5
+41,When Love Has Gone Away,Richard Cocciante,43,41,4
+42,Fallen Angel,Frankie Valli,48,42,5
+43,Movin',Brass Construction,49,43,5
+44,"Baretta's Theme (""Keep Your Eye On The Sparrow"")",Rhythm Heritage,54,44,4
+45,Dream On,Aerosmith,16,6,26
+46,Fool To Cry,The Rolling Stones,63,46,2
+47,One Piece At A Time,Johnny Cash And The Tennessee Three,58,47,3
+48,Takin' It To The Streets,The Doobie Brothers,61,48,3
+49,He's A Friend,Eddie Kendricks,52,36,12
+50,Falling Apart At The Seams,Marmalade,53,50,6
+51,Heavy Love,David Ruffin,47,47,7
+52,I Want You,Marvin Gaye,64,52,2
+53,Lorelei,Styx,27,27,12
+54,Deep Purple,Donny & Marie Osmond,50,14,21
+55,It's Over,Boz Scaggs,65,55,4
+56,Golden Years,David Bowie,31,10,21
+57,Action,Sweet,51,20,12
+58,Take It To The Limit,Eagles,55,4,20
+59,Don't Stop It Now,Hot Chocolate,69,59,3
+60,I'm Mandy Fly Me,10cc,60,60,4
+61,Money Honey,Bay City Rollers,21,9,13
+62,Shop Around,Captain & Tennille,-1,62,1
+63,Love Is Alive,Gary Wright,73,63,3
+64,Fopp,Ohio Players,30,30,11
+65,Crazy On You,Heart,76,65,3
+66,Everyday Without You,"Hamilton, Joe Frank & Reynolds",66,66,5
+67,Rock And Roll Love Letter,Bay City Rollers,-1,67,1
+68,Where Did Our Love Go,The J. Geils Band,70,68,3
+69,Jasper,Jim Stafford,71,69,5
+70,I Thought It Took A Little Time (But Today I Fell In Love),Diana Ross,74,47,7
+71,Love Machine (Part 1),The Miracles,56,1,28
+72,Lookin' Out For #1,Bachman-Turner Overdrive,84,72,2
+73,Jealousy,Major Harris,75,73,4
+74,Get Closer,Seals & Crofts (Featuring Carolyn Willis),78,74,3
+75,Still Crazy After All These Years,Paul Simon,-1,75,1
+76,Moonlight Feels Right,Starbuck,86,76,3
+77,Kiss And Say Goodbye,The Manhattans,96,77,3
+78,Never Gonna Fall In Love Again,Eric Carmen,-1,78,1
+79,Forever Lovers,Mac Davis,81,79,4
+80,Thinking Of You,Paul Davis,90,80,2
+81,Arms Of Mary,Sutherland Brothers And Quiver,85,81,4
+82,Love And Understanding (Come Together),Kool & The Gang,82,82,7
+83,Let's Make A Baby,Billy Paul,83,83,4
+84,Turn The Beat Around,Vicki Sue Robinson,88,84,4
+85,Could It Be Magic,Donna Summer,-1,85,1
+86,That's Where The Happy People Go,The Trammps,89,86,4
+87,Words (are Impossible),Donny Gerrard,87,87,6
+88,I'll Be Good To You,The Brothers Johnson,-1,88,1
+89,Better Days,Melissa Manchester,-1,89,1
+90,Dance Wit Me,Rufus Featuring Chaka Khan,-1,90,1
+91,Kentucky Moonrunner,Cledus Maggard And The Citizen's Band,93,91,2
+92,Sixteen Tons,The Don Harrison Band,99,92,2
+93,It Should Have Been Me,Yvonne Fair,98,93,2
+94,The Fonz Song,The Heyettes,95,94,4
+95,I Wanna Stay With You,Gallagher And Lyle,97,95,4
+96,You Got The Magic,John Fogerty,-1,96,1
+97,This Is It,Melba Moore,100,97,2
+98,Let Her In,John Travolta,-1,98,1
+99,Moonlight Serenade,Bobby Vinton,-1,99,1
+100,'til I Can Make It On My Own,Tammy Wynette,-1,100,1

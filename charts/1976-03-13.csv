@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"December, 1963 (Oh, What a Night)",The 4 Seasons,3,1,12
+2,All By Myself,Eric Carmen,2,2,13
+3,Love Machine (Part 1),The Miracles,1,1,21
+4,Take It To The Limit,Eagles,5,4,13
+5,Dream Weaver,Gary Wright,6,5,11
+6,Lonely Night (angel Face),Captain & Tennille,7,6,8
+7,Theme From S.W.A.T.,Rhythm Heritage,4,1,18
+8,Love Hurts,Nazareth,9,8,17
+9,Sweet Thing,Rufus Featuring Chaka Khan,11,9,11
+10,Junk Food Junkie,Larry Groce,13,10,10
+11,50 Ways To Leave Your Lover,Paul Simon,8,1,13
+12,Disco Lady,Johnnie Taylor,26,12,6
+13,Money Honey,Bay City Rollers,23,13,6
+14,Fanny (Be Tender With My Love),Bee Gees,16,14,12
+15,Golden Years,David Bowie,17,15,14
+16,Dream On,Aerosmith,19,16,19
+17,You Sexy Thing,Hot Chocolate,10,3,20
+18,Deep Purple,Donny & Marie Osmond,21,18,14
+19,The White Knight,Cledus Maggard And The Citizen's Band,20,19,12
+20,Slow Ride,Foghat,22,20,14
+21,Only Sixteen,Dr. Hook,24,21,11
+22,Bohemian Rhapsody,Queen,25,22,11
+23,Sweet Love,Commodores,31,23,12
+24,Cupid,Tony Orlando & Dawn,28,24,6
+25,Right Back Where We Started From,Maxine Nightingale,45,25,5
+26,Tangerine,The Salsoul Orchestra,29,26,8
+27,Just You And I,Melissa Manchester,30,27,6
+28,Let Your Love Flow,Bellamy Brothers,38,28,7
+29,Love To Love You Baby,Donna Summer,15,2,15
+30,Action,Sweet,40,30,5
+31,Love Is The Drug,Roxy Music,33,31,12
+32,Good Hearted Woman,Waylon & Willie,37,32,6
+33,Take It Like A Man,Bachman-Turner Overdrive,34,33,6
+34,Inseparable,Natalie Cole,36,34,14
+35,Hold Back The Night,The Trammps,35,35,9
+36,Only Love Is Real,Carole King,39,36,5
+37,Show Me The Way,Peter Frampton,59,37,4
+38,There's A Kind Of Hush (All Over The World),Carpenters,58,38,3
+39,Love Fire,Jigsaw,47,39,6
+40,Boogie Fever,The Sylvers,49,40,5
+41,He's A Friend,Eddie Kendricks,52,41,5
+42,Grow Some Funk Of Your Own/I Feel Like A Bullet (In The Gun Of Robert Ford),Elton John,42,14,8
+43,You'll Lose A Good Thing,Freddy Fender,55,43,5
+44,Wake Up Everybody (Part 1),Harold Melvin And The Blue Notes,12,12,17
+45,Baby Face,The Wing And A Prayer Fife & Drum Corps.,14,14,18
+46,"I Do, I Do, I Do, I Do, I Do",ABBA,57,46,5
+47,I Heard It Through The Grapevine,Creedence Clearwater Revival Featuring John Fogerty,53,47,7
+48,The Homecoming,Hagood Hardy,48,41,13
+49,Looking For Space,John Denver,61,49,2
+50,Lorelei,Styx,60,50,5
+51,Livin' For The Weekend,The O'Jays,79,51,2
+52,We Can't Hide It Anymore,Larry Santos,63,52,5
+53,Fopp,Ohio Players,65,53,4
+54,Love Me Tonight,Head East,56,54,6
+55,Breaking Up Is Hard To Do,Neil Sedaka,18,8,14
+56,Hit The Road Jack,Stampeders,67,56,3
+57,Sara Smile,Daryl Hall John Oates,72,57,7
+58,I Write The Songs,Barry Manilow,27,1,18
+59,Without Your Love (mr. Jordan),Charlie Ross,71,59,3
+60,If You Only Believe (Jesus For Tonite),Michel Polnareff,70,60,4
+61,Squeeze Box,The Who,32,16,16
+62,Tracks Of My Tears,Linda Ronstadt,43,25,13
+63,Union Man,Cate Bros.,74,63,6
+64,Locomotive Breath,Jethro Tull,66,64,5
+65,The Jam,Graham Central Station,69,65,4
+66,Shannon,Henry Gross,76,66,3
+67,Banapple Gas,Cat Stevens,41,41,6
+68,Sing A Song,"Earth, Wind & Fire",50,5,17
+69,Venus,Frankie Avalon,46,1,25
+70,Highfly,John Miles,75,70,5
+71,Strange Magic,Electric Light Orchestra,-1,71,1
+72,Convoy,C.W. McCall,62,1,15
+73,Street Talk,B.C.G. (B.C. Generation),84,73,2
+74,Mozambique,Bob Dylan,-1,74,1
+75,Fooled Around And Fell In Love,Elvin Bishop,88,75,2
+76,Mighty High,Mighty Clouds Of Joy,82,76,4
+77,Scotch On The Rocks,The Band Of The Black Watch,81,77,7
+78,Rhiannon (will You Ever Win),Fleetwood Mac,89,78,2
+79,The Game Is Over (What's The Matter With You),Brown Sugar,80,79,3
+80,New Orleans,The Staple Singers,86,80,3
+81,Uptown & Country,Tom Scott,83,81,2
+82,If Love Must Go,Dobie Gray,85,82,5
+83,Come On Over,Olivia Newton-John,-1,83,1
+84,Get Up And Boogie (That's Right),Silver Convention,-1,84,1
+85,Queen Of Clubs,KC And The Sunshine Band,-1,85,1
+86,Train Called Freedom,South Shore Commission,96,86,3
+87,Happy Music,The Blackbyrds,97,87,2
+88,Once A Fool,Kiki Dee,90,88,2
+89,Eh! Cumpari,Gaylord & Holiday,95,89,2
+90,Rattlesnake,Ohio Players,91,90,4
+91,The Call,Anne Murray,92,91,4
+92,Times Of Your Life,Paul Anka,73,7,18
+93,Keep Holding On,The Temptations,54,54,6
+94,You Are Beautiful,The Stylistics,-1,94,1
+95,"Here, There And Everywhere",Emmylou Harris,-1,95,1
+96,Make Me Smile (Come Up And See Me),Steve Harley And Cockney Rebel,98,96,3
+97,I'm So Lonesome I Could Cry,Terry Bradshaw,99,97,2
+98,"More, More, More Pt. 1",Andrea True Connection,-1,98,1
+99,Wow,The Disco Sound Of Andre Gagnon,100,99,2
+100,Love Lifted Me,Kenny Rogers,-1,100,1

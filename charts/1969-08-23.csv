@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Honky Tonk Women,The Rolling Stones,2,1,6
+2,A Boy Named Sue,Johnny Cash,5,2,5
+3,Crystal Blue Persuasion,Tommy James And The Shondells,3,2,12
+4,Sweet Caroline (Good Times Never Seemed So Good),Neil Diamond,4,4,9
+5,In The Year 2525,Zager & Evans,1,1,10
+6,Put A Little Love In Your Heart,Jackie DeShannon,6,6,9
+7,Green River,Creedence Clearwater Revival,15,7,4
+8,Polk Salad Annie,Tony Joe White,13,8,8
+9,Get Together,The Youngbloods,14,9,17
+10,Laughing,The Guess Who,12,10,7
+11,"Ruby, Don't Take Your Love To Town",Kenny Rogers & The First Edition,7,6,12
+12,Lay Lady Lay,Bob Dylan,16,12,7
+13,"Baby, I Love You", Andy Kim,10,9,14
+14,"Sugar, Sugar",The Archies,24,14,5
+15,Give Peace A Chance,Plastic Ono Band,20,15,5
+16,My Cherie Amour,Stevie Wonder,8,4,13
+17,What Does It Take (To Win Your Love),Jr. Walker & The All Stars,9,4,15
+18,Easy To Be Hard,Three Dog Night,40,18,3
+19,I'll Never Fall In Love Again,Tom Jones,25,19,12
+20,Workin' On A Groovy Thing,The 5th Dimension,22,20,6
+21,Choice Of Colors,The Impressions,21,21,9
+22,Quentin's Theme,The Charles Randolph Grean Sounde,18,13,11
+23,Mother Popcorn (You Got To Have A Mother For Me) Part 1,James Brown,17,11,11
+24,Soul Deep,The Box Tops,41,24,8
+25,Spinning Wheel,"Blood, Sweat & Tears",11,2,13
+26,I'd Wait A Million Years,The Grass Roots,27,26,8
+27,Birthday,Underground Sunshine,43,27,6
+28,Marrakesh Express,"Crosby, Stills & Nash",31,28,6
+29,Hurt So Bad,The Lettermen,37,29,13
+30,The Nitty Gritty,Gladys Knight And The Pips,39,30,6
+31,Share Your Love With Me,Aretha Franklin,32,31,4
+32,Commotion,Creedence Clearwater Revival,34,32,4
+33,My Pledge Of Love,The Joe Jeffrey Group,19,14,12
+34,It's Getting Better,Mama Cass,30,30,12
+35,True Grit,Glen Campbell,42,35,5
+36,Did You See Her Eyes,The Illusion,46,36,8
+37,I'm Free,The Who,48,37,6
+38,Clean Up Your Own Back Yard,Elvis Presley,35,35,8
+39,Keem-O-Sabe,The Electric Indian,51,39,4
+40,"Oh, What A Night",The Dells,65,40,2
+41,Muddy River,Johnny Rivers,45,41,9
+42,Hot Fun In The Summertime,Sly & The Family Stone,54,42,3
+43,Your Good Thing (Is About To End),Lou Rawls,44,43,6
+44,Jean,Oliver,72,44,2
+45,Goo Goo Barabajagal (Love Is Hot),Donovan/Jeff Beck Group,49,45,4
+46,Nobody But You Babe,Clarence Reid,58,46,4
+47,Abergavenny,Shannon,47,47,7
+48,I Can't Get Next To You,The Temptations,84,48,2
+49,Everybody's Talkin',Nilsson,79,49,2
+50,Your Husband - My Wife,Brooklyn Bridge,50,50,6
+51,Change Of Heart,Dennis Yost And The Classics IV,57,51,4
+52,Everybody Knows Matilda,Duke Baxter,52,52,5
+53,Odds And Ends,Dionne Warwick,59,53,5
+54,Jack And Jill,Tommy Roe,56,54,6
+55,When I Die,Motherlode,64,55,3
+56,"Out Of Sight, Out Of Mind",Little Anthony And The Imperials,68,56,5
+57,Simple Song Of Freedom,Tim Hardin,61,57,4
+58,Move Over,Steppenwolf,77,58,2
+59,I Could Never Be President,Johnnie Taylor,66,59,3
+60,I'm A Better Man,Engelbert Humperdinck,-1,60,1
+61,Ease Back,The Meters,69,61,5
+62,That's The Way God Planned It,Billy Preston,71,62,4
+63,In A Moment,The Intrigues,80,63,4
+64,Let Yourself Go,The Friends Of Distinction,63,63,5
+65,What Kind Of Fool Do You Think I Am,Bill Deal & The Rhondels,87,65,2
+66,I'm Gonna Make You Mine,Lou Christie,-1,66,1
+67,This Girl Is A Woman Now,Gary Puckett And The Union Gap,-1,67,1
+68,I Do,The Moments,76,68,2
+69,The Young Folks,Diana Ross & The Supremes,73,69,4
+70,Muddy Mississippi Line,Bobby Goldsboro,91,70,2
+71,Questions 67 And 68,Chicago,78,71,3
+72,One Night Affair,The O'Jays,82,72,3
+73,Little Woman,Bobby Sherman,-1,73,1
+74,Lowdown Popcorn,James Brown,-1,74,1
+75,That's The Way Love Is,Marvin Gaye,-1,75,1
+76,I Take A Lot Of Pride In What I Am,Dean Martin,88,76,3
+77,Rain,Jose Feliciano,-1,77,1
+78,Chelsea Morning,Judy Collins,83,78,3
+79,Maybe The Rain Will Fall,The Cascades,89,79,2
+80,Let Me Be The One,Peaches & Herb,85,80,2
+81,"You, I",The Rugbys,-1,81,1
+82,The Train,1910 Fruitgum Co.,-1,82,1
+83,Lodi,Al Wilson,-1,83,1
+84,Don't It Make You Want To Go Home,Joe South and The Believers,-1,84,1
+85,The Colour Of My Love,Jefferson,86,85,2
+86,Hook And Sling-Part I,Eddie Bo,93,86,4
+87,Farewell Love Scene,Romeo & Juliet Soundtrack,96,87,3
+88,Here I Go Again,Smokey Robinson & The Miracles,-1,88,1
+89,Look At Mine,Petula Clark,90,89,3
+90,Going In Circles,The Friends Of Distinction,92,90,2
+91,Who Do You Love,Quicksilver Messenger Service,95,91,3
+92,Oh How Happy,Blinky & Edwin Starr,99,92,2
+93,Can't Find The Time,Orpheus,-1,93,1
+94,Walk On By,Isaac Hayes,-1,94,1
+95,Goodbye Columbus,The Association,98,80,6
+96,Any Way That You Want Me,Evie Sands,100,96,2
+97,You Got Yours And I'll Get Mine,The Delfonics,97,97,2
+98,Green Fields,The Vogues,-1,98,1
+99,All I Have To Offer You (Is Me),Charley Pride,-1,99,1
+100,Memphis Train,Buddy Miles Express,-1,100,1

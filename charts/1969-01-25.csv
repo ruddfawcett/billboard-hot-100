@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Heard It Through The Grapevine,Marvin Gaye,1,1,10
+2,Crimson And Clover,Tommy James And The Shondells,4,2,7
+3,I'm Gonna Make You Love Me,Diana Ross And The Supremes & The Temptations,2,2,8
+4,Soulful Strut,Young-Holt Unlimited,3,3,9
+5,Everyday People,Sly & The Family Stone,15,5,9
+6,Hooked On A Feeling,B.J. Thomas,5,5,11
+7,Touch Me,The Doors,8,7,5
+8,Worst That Could Happen,Brooklyn Bridge,9,8,6
+9,I Started A Joke,Bee Gees,16,9,6
+10,Son-Of-A Preacher Man,Dusty Springfield,10,10,9
+11,Going Up The Country,Canned Heat,12,11,8
+12,Can I Change My Mind,Tyrone Davis,25,12,6
+13,Wichita Lineman,Glen Campbell,6,3,13
+14,For Once In My Life,Stevie Wonder,7,2,13
+15,Hang 'Em High,Booker T. & The MG's,27,15,12
+16,If I Can Dream,Elvis Presley,17,16,9
+17,Cloud Nine,The Temptations,13,6,11
+18,Cinnamon,Derek,11,11,14
+19,Love Child, Diana Ross & The Supremes,18,1,15
+20,I Love How You Love Me,Bobby Vinton,19,9,13
+21,There's Gonna Be A Showdown,Archie Bell & The Drells,34,21,7
+22,Stand By Your Man,Tammy Wynette,24,22,12
+23,Too Weak To Fight,Clarence Carter,23,13,12
+24,Lo Mucho Que Te Quiero (The More I Love You),Rene & Rene,14,14,10
+25,Hey Jude,Wilson Pickett,26,25,6
+26,Stormy,Classics IV Featuring Dennis Yost,20,5,14
+27,Who's Making Love,Johnnie Taylor,21,5,14
+28,Build Me Up Buttercup,The Foundations,31,28,4
+29,California Soul,The 5th Dimension,29,29,6
+30,This Is My Country,The Impressions,30,25,9
+31,"Baby, Baby Don't Cry",Smokey Robinson & The Miracles,42,31,4
+32,I've Gotta Be Me,Sammy Davis Jr.,37,32,7
+33,Ramblin' Gamblin' Man,Bob Seger System,48,33,6
+34,You Showed Me,The Turtles,46,34,4
+35,Ready Or Not Here I Come (Can't Hide From Love),The Delfonics,41,35,8
+36,Baby Let's Wait,The Royal Guardsmen,36,36,11
+37,This Magic Moment,Jay & The Americans,43,37,5
+38,The Beginning Of My End,The Unifics,39,38,7
+39,Are You Happy,Jerry Butler,40,39,8
+40,Take Care Of Your Homework,Johnnie Taylor,67,40,2
+41,Bella Linda,The Grass Roots,28,28,9
+42,"Abraham, Martin And John",Dion,22,4,14
+43,California Dreamin',Bobby Womack,45,43,8
+44,Papa's Got A Brand New Bag,Otis Redding,44,21,9
+45,Goodnight My Love, Paul Anka,47,45,4
+46,A Ray Of Hope,The Rascals,35,24,8
+47,I'm Livin' In Shame,Diana Ross & The Supremes,-1,47,1
+48,Does Anybody Know I'm Here,The Dells,49,48,5
+49,Rainbow Ride,Andy Kim,50,49,6
+50,"Soul Sister, Brown Sugar",Sam & Dave,52,50,6
+51,"Ob-La-Di, Ob-La-Da",Arthur Conley,51,51,4
+52,Games People Play,Joe South,62,52,3
+53,Daddy Sang Bass,Johnny Cash,53,53,5
+54,A Minute Of Your Time,Tom Jones,55,54,6
+55,Condition Red,The Goodees,57,55,6
+56,Things I'd Like To Say,New Colony Six,58,56,5
+57,Not On The Outside,The Moments,60,57,5
+58,You Got Soul,Johnny Nash,59,58,7
+59,Feelin' So Good (S.k.o.o.b.y-D.o.o),The Archies,61,59,5
+60,I Forgot To Be Your Lover,William Bell,69,60,4
+61,"Sweet Cream Ladies, Forward March",The Box Tops,64,61,5
+62,Proud Mary,Creedence Clearwater Revival,-1,62,1
+63,Give It Up Or Turnit A Loose,James Brown,-1,63,1
+64,Electric Stories,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",65,64,5
+65,Rain In My Heart,Frank Sinatra,66,65,4
+66,But You Know I Love You,The First Edition,71,66,2
+67,This Old Heart Of Mine (Is Weak For You),Tammi Terrell,97,67,2
+68,Home Cookin,Jr. Walker & The All Stars,77,68,2
+69,There'll Come A Time,Betty Everett,76,69,2
+70,Looking Back,Joe Simon,73,70,6
+71,Riot,Hugh Masekela,79,71,3
+72,River Deep-Mountain High,Deep Purple,-1,72,1
+73,I Got A Line On You,Spirit,74,73,2
+74,Tragedy,Brian Hyland,75,74,3
+75,Poor Side Of Town,Al Wilson,88,75,2
+76,I'm Gonna Hold On Long As I Can,The Marvelettes,94,76,2
+77,He Called Me Baby,Ella Washington,78,77,2
+78,Purple Haze,Dion,-1,78,1
+79,Almost Persuaded,Etta James,80,79,2
+80,If It Wasn't For Bad Luck,Ray Charles & Jimmy Lewis,81,80,4
+81,Getting The Corners,The T.S.U. Toronadoes,82,81,2
+82,The Greatest Love,Dorsey Burnette,-1,82,1
+83,Kay,"John Wesley Ryles, I",83,83,5
+84,She's A Lady,John Sebastian,85,84,4
+85,Indian Giver,1910 Fruitgum Co.,-1,85,1
+86,The Grooviest Girl In The World,The Fun And Games,90,86,2
+87,Bubble Gum Music,Rock & Roll Double Bubble,87,87,2
+88,That's Your Baby,Joe Tex,100,88,2
+89,May I,Bill Deal & The Rhondels,89,89,2
+90,Let It Be Me,Glen Campbell & Bobbie Gentry,-1,90,1
+91,You've Got The Power,The Esquires,92,91,5
+92,Kum Ba Yah,Tommy Leonetti,93,92,2
+93,The Carroll County Accident,Porter Wagoner,-1,93,1
+94,Ain't Got No; I Got Life,Nina Simone,95,94,4
+95,Will You Be Staying After Sunday,The Peppermint Rainbow,96,95,2
+96,Mendocino,Sir Douglas Quintet,99,96,2
+97,Fox On The Run,Manfred Mann,98,97,2
+98,Please Don't Desert Me Baby,Gloria Walker/Chevelles,-1,98,1
+99,Crossroads,Cream,-1,99,1
+100,Hey! Baby,Jose Feliciano,-1,100,1
