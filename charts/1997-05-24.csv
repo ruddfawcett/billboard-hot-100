@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,MMMBop,Hanson,2,1,4
+2,Hypnotize,The Notorious B.I.G.,1,1,5
+3,Return Of The Mack,Mark Morrison,3,3,13
+4,"For You I Will (From ""Space Jam"")",Monica,5,4,11
+5,Say You'll Be There,Spice Girls,-1,5,1
+6,Foolish Games/You Were Meant For Me,Jewel,4,2,26
+7,I Want You,Savage Garden,6,4,13
+8,Where Have All The Cowboys Gone?,Paula Cole,8,8,7
+9,I Belong To You (Every Time I See Your Face),Rome,10,9,11
+10,Can't Nobody Hold Me Down,Puff Daddy (Featuring Mase),7,1,18
+11,Hard To Say I'm Sorry,Az Yet Featuring Peter Cetera,9,8,14
+12,The Freshmen,The Verve Pipe,12,12,14
+13,G.H.E.T.T.O.U.T.,Changing Faces,16,13,3
+14,Cupid,112,14,13,13
+15,My Baby Daddy,B-Rock & The Bizz,11,10,6
+16,Da' Dip,Freak Nasty,15,15,21
+17,Barely Breathing,Duncan Sheik,17,16,26
+18,It's Your Love,Tim McGraw With Faith Hill,36,18,2
+19,Secret Garden,Bruce Springsteen,21,19,17
+20,Wannabe,Spice Girls,13,1,18
+21,I Love Me Some Him/I Don't Want To,Toni Braxton,22,21,9
+22,"Don't Wanna Be A Player (From ""Booty Call"")",Joe,29,22,4
+23,Your Woman,White Town,28,23,9
+24,Bitch,Meredith Brooks,32,24,5
+25,Every Time I Close My Eyes,Babyface,18,6,17
+26,Staring At The Sun,U2,26,26,5
+27,Un-Break My Heart,Toni Braxton,20,1,31
+28,"I Believe I Can Fly (From ""Space Jam"")",R. Kelly,25,2,24
+29,I'll Be,Foxy Brown Featuring Jay-Z,19,7,15
+30,In My Bed,Dru Hill,23,4,20
+31,Everyday Is A Winding Road,Sheryl Crow,27,11,9
+32,Don't Let Go (Love),En Vogue,31,2,29
+33,Thinking Of You,Tony Toni Tone,39,33,3
+34,All By Myself,Celine Dion,24,4,9
+35,Get It Together,702,30,10,15
+36,For You,Kenny Lattimore,37,36,9
+37,Ooh Aah... Just A Little Bit,Gina G,38,12,26
+38,Naked Eye,Luscious Jackson,41,36,23
+39,I Shot The Sheriff,Warren G,33,20,10
+40,Big Daddy,Hev-D,34,18,12
+41,One More Time,Real McCoy,35,27,9
+42,What's On Tonight,Montell Jordan,40,21,15
+43,Let Me Clear My Throat,DJ Kool,43,30,17
+44,Nobody,Keith Sweat Featuring Athena Cage,45,3,34
+45,Until I Find You Again,Richard Marx,50,45,6
+46,You Don't Have To Hurt No More,Mint Condition,42,32,9
+47,It's No Good,Depeche Mode,47,47,2
+48,Blood On The Dance Floor,Michael Jackson,44,42,3
+49,"Let It Go (From ""Set It Off"")",Ray J,49,25,12
+50,"Too Late, Too Soon",Jon Secada,46,41,11
+51,Come On,Billy Lawrence Featuring MC Lyte,52,51,7
+52,Here's Your Sign (Get The Picture),Bill Engvall With Special Guest Travis Tritt,48,43,14
+53,ESPN Presents The Jock Jam,Various Artists,54,53,3
+54,Call Me,Le Click,56,54,12
+55,In My Arms,Erasure,-1,55,1
+56,If Tomorrow Never Comes,Joose,53,51,10
+57,I Wanna Be There,Blessid Union Of Souls,63,57,3
+58,5 Miles To Empty,Brownstone,61,58,2
+59,Gangstas Make The World Go Round,Westside Connection,51,40,12
+60,"If I Could Change (From ""I'm Bout It"")","Master P Featuring Steady Mobb'n, Mia X, Mo B. Dick & O'Dell",64,60,2
+61,A Little Bit Of Ecstasy,Jocelyn Enriquez,70,61,8
+62,Ghetto Love,Da Brat Featuring T-Boz,55,16,10
+63,Head Over Heels,Allure Featuring NAS,57,35,11
+64,"The World Tonight (From ""Fathers' Day"")",Paul McCartney,-1,64,1
+65,"Step By Step (From ""The Preacher's Wife"")",Whitney Houston,60,15,11
+66,Can U Feel It,3rd Party,75,66,4
+67,Sweet Sexy Thing,Nu Flavor Featuring Roger,74,67,6
+68,One Night At A Time,George Strait,59,59,8
+69,Jazzy Belle,OutKast,58,52,7
+70,Just Another Day,John Mellencamp,67,46,14
+71,That's Right,DJ Taz Featuring Raheem The Dream,72,71,8
+72,Silent All These Years,Tori Amos,65,65,10
+73,Step Into A World (Rapture's Delight),KRS-One,73,73,8
+74,Firestarter,The Prodigy,69,30,19
+75,Insomnia,Faithless,62,62,9
+76,Havana,Kenny G,68,66,12
+77,Full Of Smoke,Christion,86,77,5
+78,The Theme (It's Party Time),Tracey Lee,71,55,15
+79,6 Underground,Sneaker Pimps,89,79,4
+80,On & On,Erykah Badu,80,12,18
+81,Please Don't Go,No Mercy,82,21,16
+82,Talk To Me,Wild Orchid,66,48,13
+83,"It's Alright, It's Ok",Leah Andreone,84,57,18
+84,Do G's Get To Go To Heaven?,Richie Rich,87,57,13
+85,Say... If You Feel Alright,Crystal Waters,85,40,14
+86,Precious Declaration,Collective Soul,81,65,8
+87,Stop The Gunfight,"Trapp Featuring 2pac, Notorious B.I.G.",88,77,5
+88,Don't Stop Movin',Livin' Joy,83,67,18
+89,"Don't Cry For Me Argentina (From ""Evita"")",Madonna,91,8,14
+90,The Old Apartment,Barenaked Ladies,92,90,3
+91,Sometimes,The Brand New Heavies,97,91,2
+92,Feelin' It,JAY-Z,79,79,4
+93,Falling In Love (Is Hard On The Knees),Aerosmith,76,35,13
+94,If U Stay Ready,Suga Free,-1,94,1
+95,Request Line,Zhane,78,39,11
+96,It Must Be Love,Robin S.,96,96,2
+97,Don't Keep Wasting My Time,Teddy Pendergrass ,93,90,6
+98,Without Your Love,Angelina,94,82,15
+99,I'm Not Feeling You,Yvette Michele,77,44,14
+100,"Call Me (From ""Booty Call"")",Too Short & Lil' Kim,90,90,3

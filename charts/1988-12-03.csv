@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Baby, I Love Your Way/Freebird Medley",Will To Power,2,1,13
+2,Look Away,Chicago,6,2,11
+3,How Can I Fall?,Breathe,4,3,13
+4,I Don't Want Your Love,Duran Duran,7,4,8
+5,Desire,U2,3,3,10
+6,Giving You The Best That I Got,Anita Baker,9,6,11
+7,Waiting For A Star To Fall,Boy Meets Girl,12,7,13
+8,Bad Medicine,Bon Jovi,1,1,11
+9,Kissing A Fool,George Michael,5,5,9
+10,Every Rose Has Its Thorn,Poison,16,10,6
+11,Welcome To The Jungle,Guns N' Roses,14,11,7
+12,Walk On Water,Eddie Money,15,12,10
+13,My Prerogative,Bobby Brown,18,13,7
+14,The Promise,When In Rome,17,14,14
+15,"Wild, Wild West",The Escape Club,8,1,16
+16,"Kokomo (From""Cocktail"" )",The Beach Boys,11,1,14
+17,Finish What Ya Started,Van Halen,22,17,10
+18,Domino Dancing,Pet Shop Boys,21,18,9
+19,The Loco-Motion, Kylie Minogue,10,3,15
+20,In Your Room,The Bangles,26,20,8
+21,Don't Know What You Got (Till It's Gone),Cinderella,13,12,14
+22,Spy In The House Of Love,Was (Not Was),24,22,10
+23,Early In The Morning,Robert Palmer,29,23,7
+24,Two Hearts,Phil Collins,35,24,3
+25,Till I Loved You,Barbra Streisand & Don Johnson,28,25,7
+26,Don't Rush Me,Taylor Dayne,33,26,5
+27,I Remember Holding You,Boys Club,31,27,7
+28,Silhouette,Kenny G,34,28,6
+29,Not Just Another Girl,Ivan Neville,30,29,9
+30,Groovy Kind Of Love,Phil Collins,23,1,14
+31,Small World,Huey Lewis & The News,25,25,9
+32,Smooth Criminal,Michael Jackson,38,32,4
+33,"Yeah, Yeah, Yeah",Judson Spence,36,33,8
+34,Put A Little Love In Your Heart,Annie Lennox & Al Green,42,34,5
+35,Another Lover,Giant Steps,19,13,16
+36,The Way You Love Me,Karyn White,37,36,8
+37,Armageddon It,Def Leppard,46,37,3
+38,Symptoms Of True Love,Tracie Spencer,39,38,10
+39,One Moment In Time,Whitney Houston,20,5,13
+40,All This Time,Tiffany,52,40,5
+41,Little Liar,Joan Jett & the Blackhearts,47,41,6
+42,Wild World,Maxi Priest,49,42,6
+43,Thanks For My Child,Cheryl Pepsii Riley,44,43,6
+44,Edge Of A Broken Heart,Vixen,27,26,12
+45,"Hippy Hippy Shake (From ""Cocktail"")",The Georgia Satellites,45,45,7
+46,Ghost Town,Cheap Trick,53,46,5
+47,Handle With Care,Traveling Wilburys,48,47,6
+48,Holding On,Steve Winwood,71,48,2
+49,When The Children Cry,White Lion,62,49,5
+50,I Wanna Have Some Fun,Samantha Fox,61,50,4
+51,Never Tear Us Apart,INXS,32,7,17
+52,Born To Be My Baby,Bon Jovi,78,52,2
+53,Peek-A-Boo,Siouxsie & The Banshees,58,53,8
+54,What's On Your Mind (Pure Energy),Information Society,40,3,21
+55,Red Red Wine,UB40,43,1,32
+56,Back On Holiday,Robbie Nevil,64,56,4
+57,Girls Ain't Nothing But Trouble,D.J. Jazzy Jeff & The Fresh Prince,59,57,6
+58,Baby Can I Hold You,Tracy Chapman,65,58,5
+59,Best Of Times,Peter Cetera,60,59,6
+60,It's Money That Matters,Randy Newman,66,60,5
+61,The Lover In Me, Sheena Easton,77,61,5
+62,Any Love,Luther Vandross,50,44,9
+63,"Boy, I've Been Told",SaFire,55,48,11
+64,Nobody's Perfect,Mike + The Mechanics,70,64,5
+65,Love Bites,Def Leppard,56,1,17
+66,Don't Be Cruel,Bobby Brown,51,8,20
+67,Forever Young,Rod Stewart,57,12,18
+68,When I'm With You,Sheriff,84,61,9
+69,You Got It (The Right Stuff),New Kids On The Block,79,69,3
+70,Forever Young,Alphaville,73,70,10
+71,Cars With The Boom,L'Trimm,69,54,11
+72,Don't You Know What The Night Can Do?,Steve Winwood,54,6,16
+73,"Don't Worry, Be Happy (From ""Cocktail"")",Bobby McFerrin,67,1,19
+74,Walking Away,Information Society,98,74,2
+75,I'll Always Love You,Taylor Dayne,68,3,26
+76,A Word In Spanish,Elton John,41,19,12
+77,Please Don't Go Girl,New Kids On The Block,76,10,24
+78,Cross My Heart,Eighth Wonder,86,78,3
+79,Straight Up,Paula Abdul,-1,79,1
+80,Kiss,The Art Of Noise Featuring Tom Jones,-1,80,1
+81,As Long As You Follow,Fleetwood Mac,-1,81,1
+82,Chains Of Love,Erasure,63,12,19
+83,Killing Me Softly,Al B. Sure!,80,80,3
+84,Dancing Under A Latin Moon,Candi,72,68,7
+85,Didn't Know It Was Love,Survivor,74,61,9
+86,I'm Gonna Miss You,Kenny Loggins,82,82,4
+87,What I Am,Edie Brickell & New Bohemians,96,87,2
+88,I Hate Myself For Loving You,Joan Jett & the Blackhearts,81,8,24
+89,"Love, Truth & Honesty",Bananarama,91,89,2
+90,(It's Just) The Way That You Love Me,Paula Abdul,92,88,4
+91,Rock & Roll Strategy,Thirty Eight Special,75,67,6
+92,Wild Thing, Tone-Loc,-1,92,1
+93,Sweet Child O' Mine,Guns N' Roses,85,1,24
+94,I Believe In You,Stryper,88,88,5
+95,Time And Tide,Basia,83,26,20
+96,The Only Way Is Up,Yazz And The Plastic Population,99,96,2
+97,It Takes Two,Rob Base & D.J. E-Z Rock,89,36,16
+98,You Make Me Work,Cameo,93,85,5
+99,Put This Love To The Test,Jon Astley,87,74,8
+100,You're Not My Kind Of Girl,New Edition,95,95,4

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Macarena (Bayside Boys Mix),Los Del Rio,1,1,35
+2,Twisted,Keith Sweat,4,2,9
+3,C'mon N' Ride It (The Train),Quad City DJ's,8,3,23
+4,You're Makin' Me High/Let It Flow,Toni Braxton,2,1,11
+5,Change The World,Eric Clapton,6,5,5
+6,Loungin,LL Cool J,10,6,7
+7,I Can't Sleep Baby (If I),R. Kelly,7,5,6
+8,How Do U Want It/California Love,2Pac Featuring K-Ci And JoJo,3,1,10
+9,I Love You Always Forever,Donna Lewis,12,9,9
+10,Give Me One Reason,Tracy Chapman,5,3,20
+11,You Learn/You Oughta Know,Alanis Morissette,9,6,4
+12,Who Will Save Your Soul,Jewel,11,11,12
+13,Elevators (Me & You),OutKast,13,12,4
+14,"Insensitive (From ""Bed Of Roses"")",Jann Arden,14,12,28
+15,Counting Blue Cars,Dishwalla,19,15,20
+16,Only You,112 Featuring The Notorious B.I.G.,16,16,12
+17,Why I Love You So Much/Ain't Nobody,Monica,17,9,11
+18,"Because You Loved Me (From ""Up Close & Personal"")",Celine Dion,15,1,24
+19,Kissin' You,Total,18,12,16
+20,Always Be My Baby,Mariah Carey,20,1,20
+21,That Girl,Maxi Priest Featuring Shaggy,26,21,8
+22,Where Do You Go,No Mercy,32,22,7
+23,Ironic,Alanis Morissette,24,4,23
+24,Nobody Knows,The Tony Rich Project,22,2,36
+25,Children,Robert Miles,21,21,15
+26,Sweet Dreams,La Bouche,23,13,21
+27,It's All Coming Back To Me Now,Celine Dion,-1,27,1
+28,Jealousy,Natalie Merchant,28,28,10
+29,Tha Crossroads,Bone Thugs-N-Harmony,25,1,15
+30,Follow You Down/Til I Hear It From You,Gin Blossoms,27,9,28
+31,"I Like (From ""The Nutty Professor"")",Montell Jordan Featuring Slick Rick,30,28,8
+32,"The Earth, The Sun, The Rain",Color Me Badd,29,21,16
+33,"Touch Me Tease Me (From ""The Nutty Professor"")",Case Featuring Foxxy Brown,31,14,15
+34,Stupid Girl,Garbage,35,34,4
+35,Who You Are,Pearl Jam,-1,35,1
+36,"Someday (From ""The Hunchback Of Notre Dame"")",All-4-One,33,30,8
+37,Hay,Crucial Conflict,34,18,15
+38,"Why Does It Hurt So Bad (From ""Waiting To Exhale"")",Whitney Houston,38,38,3
+39,"Tonight, Tonight",The Smashing Pumpkins,36,36,8
+40,Tucker's Town,Hootie & The Blowfish,42,40,6
+41,Macarena,Los Del Rio,49,41,7
+42,Like A Woman,The Tony Rich Project,45,42,4
+43,Missing,Everything But The Girl,40,2,54
+44,Wonder,Natalie Merchant,39,20,37
+45,My Boo,Ghost Town DJ's,48,45,7
+46,The Things That You Do,Gina Thompson,51,46,6
+47,Until It Sleeps,Metallica,37,10,11
+48,"It's All The Way Live (Now) (From ""Eddie"")",Coolio,41,29,12
+49,Where Do We Go From Here,Deborah Cox,50,49,7
+50,"Theme From Mission: Impossible (From ""Mission: Impossible"")",Adam Clayton & Larry Mullen,44,7,15
+51,Reach,Gloria Estefan,54,48,18
+52,Use Your Heart,SWV,-1,52,1
+53,If I Ruled The World,Nas,53,53,9
+54,This Is Your Night,Amber,60,54,10
+55,Po Pimp,Do Or Die (Featuring Twista),64,55,3
+56,"Touch Myself (From ""Fled"")",T-Boz,88,56,2
+57,Blue,LeAnn Rimes,43,26,9
+58,You're The One,SWV,47,5,18
+59,It's A Party,Busta Rhymes Featuring Zhane,52,52,6
+60,Blackberry Molasses,Mista,62,60,8
+61,Don't Look Back In Anger,Oasis,-1,61,1
+62,Flood,Jars Of Clay,58,37,14
+63,"Wu-Wear: The Garment Renaissance (From ""High School High"")",RZA Feat. Method Man & Cappadonna,-1,63,1
+64,Get On Up,Jodeci,56,22,14
+65,Fastlove,George Michael,55,8,15
+66,Baby Luv,Groove Theory,67,66,3
+67,Where It's At,Beck,61,61,8
+68,Angeline Is Coming Home,The Badlees,69,68,7
+69,Ain't No Nigga/Dead Presidents,Jay-Z Featuring Foxxy Brown,65,50,20
+70,All Along,Blessid Union Of Souls,70,70,6
+71,You, Monifah,63,32,15
+72,Old Man & Me (When I Get To Heaven),Hootie & The Blowfish,57,13,17
+73,Do You Miss Me,Jocelyn Enriquez,73,73,4
+74,One By One,Cher,59,52,10
+75,Macarena,Los Del Mar,75,75,9
+76,All I See,A+,76,76,3
+77,Tres Delinquentes,Delinquent Habits,68,35,17
+78,Ascension (Don't Ever Wonder),Maxwell,-1,78,1
+79,I'll Never Stop Loving You,J'Son,71,62,13
+80,Shake A Lil' Somethin'...,The 2 Live Crew,80,80,2
+81,Redneck Games,Jeff Foxworthy With Alan Jackson,66,66,8
+82,"Where Do We Go From Here (From ""Eraser"")",Vanessa Williams,74,71,6
+83,Paparazzi,Xzibit,92,83,5
+84,Tell Me (I'll Be Around),Shades,84,84,3
+85,One More Try,Kristine W,78,78,12
+86,They Don't Care About Us,Michael Jackson,72,30,11
+87,In The Hood,Donell Jones,81,79,7
+88,"Guilty (From ""Seven"")",Gravity Kills,90,86,19
+89,"Machinehead (From ""Fear"")",Bush,82,43,19
+90,Just Because I Love You,Lina Santiago,93,90,2
+91,As Long As It Matters,Gin Blossoms,-1,91,1
+92,Mint Car,The Cure,77,58,5
+93,Maria,Ricky Martin,91,90,5
+94,"So Many Ways (From ""High School High"")",The Braxtons,97,94,3
+95,In The Meantime,Spacehog,85,32,20
+96,Ready To Go,Republica,99,96,2
+97,Jellyhead,CRUSH,-1,97,1
+98,"Wishes (From ""Kazaam"")",Nathan Morris,86,86,4
+99,Back To The World,Tevin Campbell,79,47,9
+100,Waiting For Wednesday,Lisa Loeb & Nine Stories,83,83,5

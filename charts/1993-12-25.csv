@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hero,Mariah Carey,3,1,10
+2,Again,Janet Jackson,1,1,10
+3,All That She Wants,Ace Of Base,2,2,15
+4,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,4,1,15
+5,All For Love,Bryan Adams/Rod Stewart/Sting,7,5,5
+6,Gangsta Lean,DRS,6,4,11
+7,Shoop,Salt-N-Pepa,5,4,12
+8,Breathe Again,Toni Braxton,8,8,11
+9,What's My Name?,Snoop Dogg,15,9,4
+10,Said I Loved You...But I Lied,Michael Bolton,10,10,8
+11,Please Forgive Me,Bryan Adams,9,7,10
+12,Can We Talk,Tevin Campbell,12,10,11
+13,Whoomp! (There It Is),Tag Team,14,2,31
+14,Just Kickin' It,Xscape,11,2,15
+15,Keep Ya Head Up,2Pac,13,13,9
+16,Linger,The Cranberries,18,16,10
+17,Hey Mr. D.J.,Zhane,16,6,18
+18,Because The Night,"10,000 Maniacs",23,18,8
+19,Getto Jam,Domino,36,19,5
+20,Mr. Vain,Culture Beat,20,20,8
+21,Never Keeping Secrets,Babyface,21,21,10
+22,What Is Love,Haddaway,17,11,18
+23,Cry For You,Jodeci,25,23,5
+24,"I Can See Clearly Now (From ""Cool Runnings"")",Jimmy Cliff,26,24,8
+25,Come Baby Come,K7,22,18,17
+26,Dreamlover,Mariah Carey,19,1,21
+27,Sex Me (Parts I & II),R. Kelly,24,20,9
+28,The Power Of Love,Celine Dion,47,28,5
+29,All About Soul,Billy Joel,29,29,8
+30,"Never Should've Let You Go (From ""Sister Act 2"")",Hi-Five,31,30,11
+31,Time And Chance,Color Me Badd,27,23,9
+32,Dreams,Gabrielle,39,32,12
+33,Jessie,Joshua Kadison,42,33,12
+34,U.N.I.T.Y.,Queen Latifah,34,34,5
+35,Cryin',Aerosmith,43,12,22
+36,Anniversary,Tony Toni Tone,30,10,14
+37,Both Sides Of The Story,Phil Collins,28,25,9
+38,The River Of Dreams,Billy Joel,32,3,22
+39,(I Know I Got) Skillz,Shaquille O'Neal,35,35,10
+40,Sweat (A La La La La Long),Inner Circle,33,16,21
+41,No Rain,Blind Melon,38,20,19
+42,Understanding,Xscape,-1,42,1
+43,If,Janet Jackson,40,4,23
+44,Slow And Easy,Zapp & Roger,44,44,9
+45,Amazing,Aerosmith,54,45,4
+46,Found Out About You,Gin Blossoms,48,46,6
+47,Wild World,Mr. Big,37,27,12
+48,Another Sad Love Song,Toni Braxton,41,7,26
+49,Real Muthaphuckkin G's,Eazy-E,52,45,7
+50,"Two Steps Behind (From ""Last Action Hero"")",Def Leppard,45,12,16
+51,Higher Ground,UB40,46,46,12
+52,Reason To Believe,Rod Stewart,51,19,20
+53,Let It Snow,Boyz II Men,65,53,3
+54,Cantaloop (Flip Fantasia),US3,59,54,5
+55,Award Tour,A Tribe Called Quest,56,55,8
+56,True Love,Elton John & Kiki Dee,62,56,5
+57,Come Inside,Intro,53,33,17
+58,Goody Goody,Lisette Melendez,66,58,3
+59,Miss You In A Heartbeat,Def Leppard,67,59,3
+60,I'll Be Loving You,Collage,57,57,5
+61,"Soul To Squeeze (From ""Coneheads"")",Red Hot Chili Peppers,60,22,18
+62,Hopelessly,Rick Astley,61,28,17
+63,Freakit,Das EFX,58,43,7
+64,Everybody Hurts,R.E.M.,63,29,16
+65,God Blessed Texas,Little Texas,72,65,7
+66,"Stay (Faraway, So Close!)",U2,75,66,2
+67,Into Your Arms,The Lemonheads,71,67,7
+68,As Long As I Can Dream,Expose,64,55,11
+69,Cannonball,The Breeders,78,69,4
+70,Yours,Shai,84,70,3
+71,Give It Up,The Goodmen,76,71,5
+72,Sentimental,Kenny G,81,72,3
+73,"Indo Smoke (From ""Poetic Justice"")",Mista Grimm,68,56,14
+74,Really Doe,Ice Cube,55,54,3
+75,Method Man,Wu-Tang Clan,74,69,12
+76,Looking For Mr. Do Right,Jade,69,69,8
+77,Send Me A Lover,Taylor Dayne,73,50,13
+78,Let Me Ride,Dr. Dre,77,34,14
+79,Better Than You,Lisa Keith,70,36,19
+80,Fast As You,Dwight Yoakam,87,80,3
+81,93 'til Infinity,Souls Of Mischief,80,72,7
+82,I'm Looking For The One (To Be With Me),Jazzy Jeff & The Fresh Prince,79,79,4
+83,Life (Everybody Needs Somebody To Love),Haddaway,-1,83,1
+84,Betcha'll Never Find,Chantay Savage,89,84,2
+85,The Song Remembers When,Trisha Yearwood,90,85,5
+86,Mary Jane's Last Dance,Tom Petty And The Heartbreakers,-1,86,1
+87,Will You Be There (In The Morning),Heart,-1,87,1
+88,Rubberband Girl,Kate Bush,-1,88,1
+89,"I Love Music (From ""Carlito's Way"")",Rozalla ,-1,89,1
+90,Love For Love,Robin S.,86,53,19
+91,John Deere Green,Joe Diffie,-1,91,1
+92,I'm Real,Kris Kross,88,84,6
+93,Yolanda,Reality,85,72,9
+94,Foreplay,RAab,82,74,11
+95,Something In Your Eyes,Bell Biv DeVoe,83,38,19
+96,Push The Feeling On,Nightcrawlers,99,80,13
+97,What's It To You,Clay Walker,95,73,12
+98,Here Come The Lords,Lords Of The Underground,93,93,2
+99,Rock With You,Inner Circle,98,98,2
+100,Same Ol' Shit,MC Ren,94,90,4

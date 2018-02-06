@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,To Be With You,Mr. Big,2,1,11
+2,I'm Too Sexy,Right Said Fred,1,1,11
+3,I Love Your Smile,Shanice,3,2,15
+4,Remember The Time,Michael Jackson,5,4,6
+5,Diamonds And Pearls,Prince And The N.P.G.,4,3,13
+6,Tell Me What You Want Me To Do,Tevin Campbell,7,6,17
+7,Don't Let The Sun Go Down On Me,George Michael/Elton John,6,1,13
+8,Masterpiece,Atlantic Starr,15,8,5
+9,Smells Like Teen Spirit!,Nirvana,8,6,13
+10,All 4 Love,Color Me Badd,9,1,17
+11,Save The Best For Last,Vanessa Williams,20,11,5
+12,Tears In Heaven,Eric Clapton,22,12,4
+13,Good For Me,Amy Grant,14,13,7
+14,Finally,CeCe Peniston,10,5,23
+15,Missing You Now,Michael Bolton,19,15,6
+16,The Way I Feel About You,Karyn White,12,12,14
+17,Vibeology,Paula Abdul,16,16,7
+18,Uhh Ahh,Boyz II Men,18,18,12
+19,Mysterious Ways,U2,13,9,15
+20,Can't Let Go,Mariah Carey,11,2,16
+21,I Can't Dance,Genesis,27,21,5
+22,2 Legit 2 Quit,M.C. Hammer,17,5,17
+23,I'll Get By,Eddie Money,23,23,11
+24,Breakin' My Heart (Pretty Brown Eyes),Mint Condition,24,24,9
+25,Justified And Ancient,The KLF Featuring Tammy Wynette,26,25,5
+26,Keep It Comin',Keith Sweat,21,17,14
+27,I Can't Make You Love Me,Bonnie Raitt,25,18,15
+28,Thinkin' Back,Color Me Badd,30,28,5
+29,What Becomes Of The Brokenhearted,Paul Young,32,29,5
+30,Paper Doll,P.M. Dawn,28,28,7
+31,Until Your Love Comes Back Around,RTZ,31,31,7
+32,Beauty And The Beast,Celine Dion And Peabo Bryson,33,32,7
+33,Oochie Coochie,M.C. Brains,37,33,7
+34,We Got A Love Thang,CeCe Peniston,51,34,5
+35,Black Or White,Michael Jackson,29,1,15
+36,Is It Good To You,Heavy D & The Boyz,41,32,15
+37,Addams Groove,M.C. Hammer,36,7,13
+38,Move Any Mountain,The Shamen,39,38,12
+39,Again Tonight,John Mellencamp,50,39,5
+40,Live And Let Die,Guns N' Roses,34,33,11
+41,Stay, Jodeci,48,41,9
+42,Make It Happen,Mariah Carey,74,42,2
+43,On A Sunday Afternoon,Lighter Shade Of Brown,42,39,14
+44,There Will Never Be Another Tonight,Bryan Adams,35,31,11
+45,A Deeper Love/Pride In The Name Of Love,Clivilles & Cole,46,45,8
+46,No Son Of Mine,Genesis,38,12,18
+47,Too Blind To See It,Kym Sims,47,38,16
+48,Kiss You Back,Digital Underground,44,40,16
+49,Everything Changes,Kathy Troccoli,73,49,2
+50,Hazard,Richard Marx,57,50,3
+51,Set Adrift On Memory Bliss,P.M. Dawn,40,1,20
+52,If You Go Away,NKOTB,54,52,2
+53,You Showed Me,Salt-N-Pepa,53,53,5
+54,Stars,Simply Red,61,54,6
+55,Romeo & Juliet,Stacy Earl (Featuring The Wild Pair),85,55,2
+56,I've Got A Lot To Learn About Love,The Storm,49,26,19
+57,Broken Arrow,Rod Stewart,43,20,20
+58,Too Much Passion,The Smithereens,63,58,4
+59,"Mama, I'm Coming Home",Ozzy Osbourne,68,59,3
+60,Baby Hold On To Me,Gerald Levert (Duet With Eddie Levert),67,60,3
+61,I Wanna Be Your Girl,Icy Blu,52,46,18
+62,You Are The One,Chris Cuevas,62,62,5
+63,Hearts Don't Think (They Feel),Natural Selection,45,28,13
+64,Wildside,Marky Mark & The Funky Bunch,55,10,17
+65,What Goes Around Comes Around,Giggles,76,65,6
+66,Can't Cry Hard Enough,The Williams Brothers,78,66,4
+67,The Unforgiven,Metallica,59,35,13
+68,Everything's Gonna Be Alright,Naughty By Nature,65,65,4
+69,Right Now,Van Halen,79,69,4
+70,Church Of Your Heart,Roxette,-1,70,1
+71,Love Me All Up,Stacy Earl,58,26,16
+72,In Paradise,Laissez Faire,64,64,13
+73,Forever My Lady,Jodeci,60,25,19
+74,I Need Money,Marky Mark & The Funky Bunch,88,74,3
+75,Change,Lisa Stansfield,69,27,18
+76,Angel Baby,Angelica,70,29,20
+77,Ain't Gonna Hurt Nobody,Kid 'N Play,71,51,16
+78,Blowing Kisses In The Wind,Paula Abdul,72,6,20
+79,Keep Coming Back,Richard Marx,75,12,18
+80,Ain't 2 Proud 2 Beg,TLC,98,80,2
+81,Hold On (Tighter To Love),Clubland,84,79,9
+82,The Globe,Big Audio,93,82,3
+83,Tender Kisses,Tracie Spencer,82,42,20
+84,I Want You,Jody Watley,83,61,14
+85,How I Could Just Kill A Man/The Phuncky Feel One,Cypress Hill,94,85,3
+86,Spending My Time,Roxette,80,32,19
+87,Caribbean Blue,Enya,-1,87,1
+88,Kissing The Wind,Nia Peeples,97,88,2
+89,Boom! I Got Your Boyfriend,MC Luscious,92,89,4
+90,Send Me An Angel,Scorpions,81,44,17
+91,Nu Nu,Lidell Townsell,-1,91,1
+92,Everlasting Love,Tony Terry,95,85,6
+93,In My Dreams,The Party,77,34,16
+94,The Choice Is Yours,Black Sheep,-1,94,1
+95,You Think You Know Her,Cause And Effect,-1,95,1
+96,Don't Lose The Magic,Shawn Christopher,-1,96,1
+97,Home Sweet Home,Motley Crue,87,37,17
+98,Save Up All Your Tears,Cher,86,37,20
+99,Cold Shower,Erin Cruise,91,90,6
+100,Juice (Know The Ledge),Eric B. & Rakim,99,99,2

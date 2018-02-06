@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Informer,Snow,1,1,11
+2,"Nuthin' But A ""G"" Thang",Dr. Dre,3,2,8
+3,Freak Me,Silk,6,3,5
+4,A Whole New World (Aladdin's Theme),Peabo Bryson & Regina Belle,2,1,14
+5,"I'm Every Woman (From ""The Bodyguard"")",Whitney Houston,5,4,11
+6,Ordinary World,Duran Duran,4,3,11
+7,Don't Walk Away,Jade,9,7,14
+8,Mr. Wendal,Arrested Development,8,6,14
+9,I Have Nothing,Whitney Houston,11,9,4
+10,Bed Of Roses,Bon Jovi,10,10,9
+11,I Will Always Love You,Whitney Houston,7,1,19
+12,Hip Hop Hooray,Naughty By Nature,12,8,8
+13,Comforter,Shai,15,13,9
+14,I Got A Man,Positive K,19,14,14
+15,Two Princes,Spin Doctors,16,15,8
+16,"The Right Kind Of Love (From ""Beverly Hills, 90210"")",Jeremy Jordan,20,16,15
+17,Cat's In The Cradle,Ugly Kid Joe,25,17,6
+18,Forever In Love,Kenny G,22,18,14
+19,That's What Love Can Do,Boy Krazy,18,18,9
+20,7,Prince And The New Power Generation,13,7,17
+21,Here We Go Again!,Portrait,14,11,19
+22,Ditty,Paperboy,23,22,14
+23,I'm So Into You,SWV,26,23,7
+24,Get Away,Bobby Brown,17,14,10
+25,"Love Is (From ""Beverly Hills, 90210"")",Vanessa Williams/Brian McKnight,30,25,9
+26,Rebirth Of Slick (Cool Like Dat),Digable Planets,21,15,10
+27,Heal The World,Michael Jackson,28,27,15
+28,Angel,Jon Secada,33,28,8
+29,Sweet Thing,Mary J. Blige,29,28,6
+30,Hat 2 Da Back,TLC,34,30,7
+31,"Saving Forever For You (From ""Beverly Hills, 90210"")",Shanice,24,4,22
+32,If I Ever Fall In Love,Shai ,27,2,23
+33,Man On The Moon,R.E.M.,36,33,7
+34,Rhythm Is A Dancer,Snap!,32,5,32
+35,If I Ever Lose My Faith In You,Sting,42,35,5
+36,Rump Shaker,Wreckx-N-Effect,35,2,25
+37,"In The Still Of The Nite (From ""The Jacksons"")",Boyz II Men,31,3,17
+38,It Was A Good Day,Ice Cube,51,38,3
+39,Bad Girl,Madonna,43,39,5
+40,Nothin' My Love Can't Fix,Joey Lawrence,56,40,3
+41,Do You Believe In Us,Jon Secada,40,13,26
+42,I Feel You,Depeche Mode,37,37,3
+43,"Give It Up, Turn It Loose",En Vogue,39,15,16
+44,Dazzey Duks,Duice,46,44,11
+45,Good Enough,Bobby Brown,38,7,23
+46,So Alone,Men At Large,61,46,5
+47,"I'd Die Without You (From ""Boomerang"")",P.M. Dawn,41,3,28
+48,I'm Gonna Get You,Bizarre Inc,52,48,9
+49,Real Love,Mary J. Blige,47,7,30
+50,Simple Life,Elton John,58,50,4
+51,Supermodel (You Better Work),RuPaul,55,51,6
+52,Little Bird,Annie Lennox,49,49,9
+53,Everything's Gonna Be Alright,Father M.C.,54,37,16
+54,I See Your Smile,Gloria Estefan,59,54,5
+55,Looking Through Patient Eyes,P.M. Dawn,-1,55,1
+56,When She Cries,Restless Heart,48,11,19
+57,"The Crying Game (From ""The Crying Game"")",Boy George,70,57,2
+58,Walk On The Ocean,Toad The Wet Sprocket,45,18,19
+59,Beautiful Girl,INXS,62,59,5
+60,Faithful,Go West,53,14,20
+61,No Mistakes,Patty Smyth,44,33,13
+62,Love U More,Sunscreem,66,62,4
+63,Stand,Poison,50,50,8
+64,Tell The Truth,Jude Cole,57,57,9
+65,Passionate Kisses,Mary Chapin Carpenter,65,65,6
+66,Dedicated,R. Kelly & Public Announcement,69,66,4
+67,Down With The King,Run-D.M.C.,-1,67,1
+68,Murder She Wrote,Chaka Demus & Pliers,64,57,12
+69,Tap The Bottle,Young Black Teenagers,81,69,3
+70,I Got A Thang 4 Ya!,Lo-Key?,60,27,19
+71,Come In Out Of The Rain,Wendy Moten,74,71,5
+72,Never A Time,Genesis,71,21,20
+73,Homies,Lighter Shade Of Brown,75,57,15
+74,Shoop Shoop (Never Stop Givin' You Love),Michael Cooper,87,74,2
+75,Quality Time,Hi-Five,72,38,16
+76,"Love Shoulda Brought You Home (From ""Boomerang"")",Toni Braxton,68,33,19
+77,Easy,Faith No More,-1,77,1
+78,She's Not Cryin' Anymore,Billy Ray Cyrus,93,78,2
+79,Steam,Peter Gabriel,63,32,14
+80,Romeo,Dolly Parton & Friends,95,80,2
+81,Candy Everybody Wants,"10,000 Maniacs",85,81,3
+82,Deeper And Deeper,Madonna,67,7,16
+83,Understand This Groove,Sound Factory,73,58,13
+84,Knock-N-Boots,Wreckx-N-Effect,76,72,5
+85,What You Won't Do For Love,Go West,92,85,2
+86,Who Got The Props,Black Moon,88,86,4
+87,Hope Of Deliverance,Paul McCartney,83,83,5
+88,Gangsta Bitch,Apache,78,67,8
+89,Born 2 B.R.E.E.D.,Monie Love,89,89,2
+90,Somebody Love Me,Michael W. Smith,96,90,2
+91,Reminisce,Mary J. Blige,79,57,14
+92,Kiss Of Life,Sade,-1,92,1
+93,Save Your Love,Bad Boys Blue,86,86,2
+94,Good Ol' Days,Levert,-1,94,1
+95,No Ordinary Love,Sade,82,28,20
+96,Give It To You,Martha Wash,90,90,2
+97,Speed,Alpha Team,91,74,8
+98,I Love You Period,Dan Baird,84,26,16
+99,Stand Up (Kick Love Into Motion),Def Leppard,77,34,15
+100,Love Me The Right Way,Rapination & Kym Mazelle,-1,100,1

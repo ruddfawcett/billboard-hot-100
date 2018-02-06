@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Have You Ever Really Loved A Woman?,Bryan Adams,1,1,12
+2,Don't Take It Personal (Just One Of Dem Days),Monica,3,2,10
+3,One More Chance/Stay With Me,The Notorious B.I.G.,5,3,2
+4,Total Eclipse Of The Heart,Nicki French,2,2,14
+5,Scream/Childhood,Michael Jackson & Janet Jackson,6,5,3
+6,Water Runs Dry,Boyz II Men,4,2,10
+7,Waterfalls,TLC,8,7,4
+8,I'll Be There For You/You're All I Need To Get By,Method Man Featuring Mary J. Blige,9,3,9
+9,Freak Like Me,Adina Howard,10,2,21
+10,This Is How We Do It,Montell Jordan,7,1,19
+11,Let Her Cry,Hootie & The Blowfish,11,10,17
+12,I Can Love You Like That,All-4-One,18,12,3
+13,I Believe,Blessid Union Of Souls,13,8,20
+14,Someone To Love,Jon B. Featuring Babyface,14,14,10
+15,Run-Around,Blues Traveler,15,15,15
+16,"Shy Guy (From ""Bad Boys"")",Diana King,16,16,14
+17,I Know,Dionne Farris,12,4,23
+18,Freek'n You,Jodeci,17,17,3
+19,Every Little Thing I Do,Soul For Real,22,19,9
+20,Boombastic/In The Summertime,Shaggy,27,20,7
+21,"Hold Me, Thrill Me, Kiss Me, Kill Me (From ""Batman Forever"")",U2,23,21,2
+22,This Ain't A Love Song,Bon Jovi,24,22,4
+23,"Keep Their Heads Ringin' (From ""Friday"")",Dr. Dre,20,10,16
+24,Misery,Soul Asylum,-1,24,1
+25,"Can't You See (From ""New Jersey Drive"")",Total Featuring The Notorious B.I.G.,19,13,13
+26,Feel Me Flow,Naughty By Nature,38,26,4
+27,Red Light Special,TLC,21,2,18
+28,Run Away,Real McCoy,26,3,17
+29,Hold On,Jamie Walters,25,16,23
+30,Come And Get Your Love,Real McCoy,39,30,4
+31,In The House Of Stone And Light,Martin Page,29,14,29
+32,December,Collective Soul,32,32,8
+33,My Love Is For Real,Paula Abdul,36,33,3
+34,Good,Better Than Ezra,-1,34,1
+35,Best Friend,Brandy,41,35,5
+36,Hold My Hand,Hootie & The Blowfish,33,10,39
+37,"No More ""I Love You's""",Annie Lennox,30,23,17
+38,Give It 2 You,Da Brat,31,26,12
+39,Dear Mama/Old School,2Pac,28,9,17
+40,Believe,Elton John,35,13,17
+41,I Like,Kut Klose,34,34,12
+42,"Colors Of The Wind (From ""Pocahontas"")",Vanessa Williams,55,42,2
+43,Dream About You/Funky Melody,Stevie B,42,29,21
+44,Take A Bow,Madonna,37,1,29
+45,"Crazy Love (From ""Jason's Lyric"")",Brian McKnight,45,45,12
+46,You Used To Love Me,Faith Evans,-1,46,1
+47,Any Man Of Mine/Whose Bed Have Your Boots Been Under?,Shania Twain,58,47,6
+48,You Gotta Be,Des'ree,44,5,44
+49,Another Night,Real McCoy,46,3,45
+50,I Got 5 On It,Luniz,54,50,4
+51,Human Nature,Madonna,57,51,2
+52,Leave Virginia Alone,Rod Stewart,52,52,5
+53,"Ask Of You (From ""Higher Learning"")",Raphael Saadiq ,40,19,15
+54,Kiss From A Rose,Seal,87,54,2
+55,He's Mine,MoKenStef,80,55,3
+56,When You Say Nothing At All,Alison Krauss + Union Station,53,53,8
+57,Sprinkle Me,E-40 (Featuring Suga T),72,57,2
+58,Baby Baby,Corona,59,58,8
+59,Cotton Eye Joe,Rednex,47,25,17
+60,I Saw You Dancing,Yaki-Da,60,60,5
+61,Can't Stop Lovin' You,Van Halen,48,30,15
+62,Shimmy Shimmy Ya,Ol' Dirty Bastard,67,62,7
+63,Feels So Good,Xscape,75,63,2
+64,Wonderful,Adam Ant,51,39,14
+65,Somebody's Crying,Chris Isaak,65,65,4
+66,Like The Way I Do/If I Wanted To,Melissa Etheridge,56,16,20
+67,I Wanna Love Like That,Tony Thompson,69,67,6
+68,I Wish,Skee-Lo,74,65,10
+69,So In Love With You,U.N.V.,77,69,5
+70,I Kissed A Girl,Jill Sobule,70,70,6
+71,Sick Of Myself,Matthew Sweet,64,58,6
+72,Freak Me Baby,"Dis `N' Dat Feat. 95 South,69 Boyz & K-Nock",73,72,9
+73,Survival Of The Fittest,Mobb Deep,79,73,3
+74,Close To You,Fun Factory,61,46,16
+75,Grapevyne,Brownstone,66,49,10
+76,Mind Blowin',Smooth,88,76,2
+77,Brown Sugar,D'Angelo,-1,77,1
+78,Strange Currencies,R.E.M.,63,47,10
+79,Froggy Style,Nuttin' Nyce,85,78,6
+80,I Live My Life For You,Firehouse,62,26,19
+81,Big Yellow Taxi,Amy Grant ,90,81,3
+82,Connection,Elastica,76,53,15
+83,I Love You/You Bring Me Joy,Mary J. Blige,93,83,3
+84,I'd Rather Be Alone,IV Xample,68,44,17
+85,Foe Life,Mack 10,89,85,2
+86,Emotions,H-Town,86,51,11
+87,I'll Be Around,Rappin' 4-Tay Featuring The Spinners,82,39,15
+88,The I.N.C. Ride,Masta Ace Incorporated,78,73,10
+89,Thank You,Boyz II Men,84,21,19
+90,"Freedom (From ""Panther"")",Various Artists,71,45,11
+91,Fire,Subway,96,91,2
+92,I'm Goin' Down,Mary J. Blige,83,22,13
+93,Until The End Of Time,Foreigner,92,42,16
+94,So Many Tears,2Pac,-1,94,1
+95,Crimson And Clover,SF Spanish Fly,99,89,4
+96,The Bomb! (These Sounds Fall Into My Mind),The Bucketheads,-1,96,1
+97,Mr. Personality,Gillette,97,42,18
+98,I Like It (I Wanna Be Where You Are),Grand Puba,100,91,5
+99,Lick It,Roula,95,72,15
+100,As I Lay Me Down,Sophie B. Hawkins,98,96,5

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Black Or White,Michael Jackson,1,1,7
+2,It's So Hard To Say Goodbye To Yesterday,Boyz II Men,2,2,16
+3,All 4 Love,Color Me Badd,3,3,9
+4,Can't Let Go,Mariah Carey,6,4,8
+5,Set Adrift On Memory Bliss,P.M. Dawn,4,1,12
+6,Finally,CeCe Peniston,8,6,15
+7,When A Man Loves A Woman,Michael Bolton,5,1,13
+8,2 Legit 2 Quit,M.C. Hammer,9,8,9
+9,Blowing Kisses In The Wind,Paula Abdul,7,6,12
+10,Wildside,Marky Mark & The Funky Bunch,10,10,9
+11,Addams Groove,M.C. Hammer,20,11,5
+12,Don't Let The Sun Go Down On Me,George Michael/Elton John,19,12,5
+13,Smells Like Teen Spirit!,Nirvana,17,13,5
+14,No Son Of Mine,Genesis,13,13,10
+15,Keep Coming Back,Richard Marx,12,12,10
+16,That's What Love Is For,Amy Grant,11,7,15
+17,I Love Your Smile,Shanice,25,17,7
+18,O.P.P.,Naughty By Nature,15,6,18
+19,Diamonds And Pearls,Prince And The N.P.G.,30,19,5
+20,Don't Cry,Guns N' Roses,18,10,16
+21,Mysterious Ways,U2,26,21,7
+22,Live For Loving You,Gloria Estefan ,22,22,13
+23,Broken Arrow,Rod Stewart,24,23,12
+24,Can't Stop This Thing We Started,Bryan Adams,21,2,17
+25,Let's Talk About Sex,Salt-N-Pepa,16,13,20
+26,Cream,Prince And The N.P.G.,14,1,15
+27,The Way I Feel About You,Karyn White,35,27,6
+28,Tell Me What You Want Me To Do,Tevin Campbell,32,28,9
+29,Forever My Lady,Jodeci,28,25,11
+30,Change,Lisa Stansfield,31,30,10
+31,Set The Night To Music,Roberta Flack With Maxi Priest,23,6,16
+32,Spending My Time,Roxette,34,32,11
+33,Love Me All Up,Stacy Earl,36,33,8
+34,Angel Baby,Angelica,38,30,12
+35,Mind Playing Tricks On Me,Geto Boys,39,30,14
+36,Keep It Comin',Keith Sweat,41,36,6
+37,Save Up All Your Tears,Cher,40,37,12
+38,Emotions,Mariah Carey,37,1,19
+39,I've Got A Lot To Learn About Love,The Storm,45,39,11
+40,Home Sweet Home,Motley Crue,44,40,9
+41,Is It Good To You,Heavy D & The Boyz,50,41,7
+42,Tender Kisses,Tracie Spencer,42,42,12
+43,Street Of Dreams,Nia Peeples,33,12,13
+44,Enter Sandman,Metallica,47,16,20
+45,In My Dreams,The Party,55,45,8
+46,The Unforgiven,Metallica,53,46,5
+47,Too Blind To See It,Kym Sims,51,47,8
+48,I Can't Make You Love Me,Bonnie Raitt,56,48,7
+49,Ring My Bell,D.J. Jazzy Jeff & The Fresh Prince,52,20,13
+50,I Wonder Why,Curtis Stigers,46,9,18
+51,Housecall,Shabba Ranks (Featuring Maxi Priest),49,37,11
+52,Send Me An Angel,Scorpions,57,52,9
+53,Hearts Don't Think (They Feel),Natural Selection,59,53,5
+54,Ain't Gonna Hurt Nobody,Kid 'N Play,62,54,8
+55,Can't Truss It,Public Enemy,58,50,12
+56,Top Of The World,Van Halen,48,27,13
+57,Kiss You Back,Digital Underground,64,57,8
+58,I Wanna Be Your Girl,Icy Blu,61,58,10
+59,On A Sunday Afternoon,Lighter Shade Of Brown,63,59,6
+60,All She Wrote,Firehouse,60,60,8
+61,Shot Of Poison,Lita Ford,54,45,10
+62,I'm Too Sexy,Right Said Fred,67,62,3
+63,Uhh Ahh,Boyz II Men,78,63,4
+64,Live And Let Die,Guns N' Roses,95,64,3
+65,Just A Touch Of Love,C+C Music Factory Presents Zelma Davis,65,50,9
+66,The Comfort Zone,Vanessa Williams,70,66,5
+67,I Want You,Jody Watley,71,67,6
+68,Whispers,Corina,74,51,15
+69,Ain't No Future In Yo' Fronting,M.C. Breed & D.F.C.,69,67,17
+70,There Will Never Be Another Tonight,Bryan Adams,87,70,3
+71,No More Tears,Ozzy Osbourne ,73,71,6
+72,To Be With You,Mr. Big,82,72,3
+73,A Day In My Life (Without You),Lisette Melendez,68,49,15
+74,In Paradise,Laissez Faire,76,74,5
+75,I'll Get By,Eddie Money,85,75,3
+76,Pop That Coochie,The 2 Live Crew,72,58,10
+77,Groovy Train,The Farm,66,41,15
+78,Stay,Jodeci,-1,78,1
+79,Insatiable,Prince And The N.P.G.,88,79,4
+80,Within My Heart,Voyce,77,77,6
+81,Every Road Leads Back To You,Bette Midler,86,81,3
+82,Move Any Mountain,The Shamen,89,82,4
+83,Conviction Of The Heart,Kenny Loggins,81,65,11
+84,All Through The Night,Tone-Loc,80,80,4
+85,Love Crazy,Atlantic Starr,75,75,7
+86,Rush,Big Audio,83,32,16
+87,Give It Away,Red Hot Chili Peppers,93,87,3
+88,Get A Leg Up,John Mellencamp,79,14,14
+89,Real Real Real,Jesus Jones,84,4,20
+90,The Rush,Luther Vandross,-1,90,1
+91,The Fly,U2,91,61,9
+92,Right Down To It,Damian Dame,90,90,4
+93,Martika's Kitchen,Martika,-1,93,1
+94,Breakin' My Heart (Pretty Brown Eyes),Mint Condition,-1,94,1
+95,Wasted Time,Skid Row,-1,95,1
+96,I'll Take You There,BeBe & CeCe Winans Featuring Mavis Staples,-1,96,1
+97,Hold On (Tighter To Love),Clubland,-1,97,1
+98,Just Another Girlfriend,Hi-Five,98,88,7
+99,She Ain't Pretty,The Northern Pikes,-1,99,1
+100,What Time Is Love?,The KLF,92,57,11

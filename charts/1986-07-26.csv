@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sledgehammer,Peter Gabriel,2,1,12
+2,Danger Zone,Kenny Loggins,4,2,12
+3,Invisible Touch,Genesis,1,1,9
+4,Nasty,Janet Jackson,3,3,11
+5,"Glory Of Love (Theme From ""The Karate Kid Part II"")",Peter Cetera,7,5,8
+6,Papa Don't Preach,Madonna,12,6,5
+7,"Love Touch (Theme From ""Legal Eagles"")",Rod Stewart,10,7,9
+8,Mad About You,Belinda Carlisle,11,8,11
+9,Holding Back The Years,Simply Red,5,1,17
+10,"Modern Woman (From ""Ruthless People"")",Billy Joel,15,10,8
+11,Opportunities (Let's Make Lots Of Money),Pet Shop Boys,13,11,9
+12,We Don't Have To Take Our Clothes Off,Jermaine Stewart,17,12,11
+13,Your Wildest Dreams,The Moody Blues,9,9,15
+14,"Who's Johnny (""Short Circuit"" Theme)",El DeBarge,6,3,14
+15,Digging Your Scene,The Blow Monkeys,18,15,13
+16,There'll Be Sad Songs (To Make You Cry),Billy Ocean,8,1,15
+17,When The Heart Rules The Mind,GTR,14,14,12
+18,Higher Love,Steve Winwood,27,18,7
+19,Secret Separation,The Fixx,21,19,10
+20,Rumors,Timex Social Club,28,20,7
+21,You Should Be Mine (The Woo Woo Song),Jeffrey Osborne,25,21,10
+22,The Edge Of Heaven,Wham!,31,22,4
+23,Venus,Bananarama,34,23,5
+24,"Sweet Freedom (Theme From ""Running Scared"")",Michael McDonald,32,24,7
+25,No One Is To Blame,Howard Jones,19,4,16
+26,Take It Easy,Andy Taylor,29,26,9
+27,Suzanne,Journey,30,27,6
+28,Like A Rock,Bob Seger,16,12,10
+29,Tuff Enuff,The Fabulous Thunderbirds,20,10,15
+30,All The Love In The World,The Outfield,35,30,8
+31,One Step Closer To You,Gavin Christopher,36,31,10
+32,"Take My Breath Away (Love Theme From ""Top Gun"")",Berlin,38,32,6
+33,Dancing On The Ceiling,Lionel Richie,40,33,2
+34,Baby Love,Regina,39,34,6
+35,Hyperactive,Robert Palmer,33,33,8
+36,Crush On You,The Jets,24,3,16
+37,Words Get In The Way,Miami Sound Machine,42,37,7
+38,Dreams,Van Halen,22,22,10
+39,On My Own,Patti LaBelle & Michael McDonald,23,1,19
+40,Yankee Rose,David Lee Roth,47,40,4
+41,Friends And Lovers,Carl Anderson & Gloria Loring,50,41,4
+42,Hanging On A Heart Attack,Device,46,42,7
+43,Taken In,Mike + The Mechanics,48,43,5
+44,Like No Other Night,Thirty Eight Special,26,14,13
+45,Rumbleseat,John Mellencamp,49,45,5
+46,"That Was Then, This Is Now",The Monkees,57,46,4
+47,"Man Size Love (From ""Running Scared"")",Klymaxx,55,47,4
+48,A Kind Of Magic,Queen,51,48,6
+49,Don't Forget Me (When I'm Gone),Glass Tiger,59,49,3
+50,The Captain Of Her Heart,Double,61,50,5
+51,With You All The Way,New Edition,53,51,7
+52,Jungle Boy,John Eddie,52,52,8
+53,"Walk Like A Man (From ""A Fine Mess"")",Mary Jane Girls,62,53,3
+54,Mountains,Prince And The Revolution,37,23,10
+55,If She Knew What She Wants,The Bangles,43,29,12
+56,I Wanna Be A Cowboy,Boys Don't Cry,41,12,17
+57,Two Of Hearts,Stacey Q,73,57,3
+58,I Can't Wait, Nu Shooz,54,3,21
+59,Live To Tell,Madonna,45,1,16
+60,A Different Corner,George Michael,44,7,14
+61,Love Of A Lifetime,Chaka Khan,69,61,3
+62,Point Of No Return,Nu Shooz,74,62,4
+63,Touch And Go,"Emerson, Lake & Powell ",60,60,6
+64,Something About You,Level 42,56,7,24
+65,Love Zone,Billy Ocean,-1,65,1
+66,Somebody Like You,Thirty Eight Special,89,66,2
+67,If Looks Could Kill,Heart,81,67,2
+68,Before I Go,Starship,72,68,4
+69,Nothin' At All,Heart,58,10,15
+70,Money$ Too Tight (To Mention),Simply Red,87,70,2
+71,Do You Remember Me?,Jermaine Jackson,71,71,4
+72,Velcro Fly,ZZ Top,-1,72,1
+73,Walk This Way,Run-D.M.C.,-1,73,1
+74,Rock'N'roll To The Rescue,The Beach Boys,68,68,5
+75,Voice Of America's Sons,John Cafferty & The Beaver Brown Band,64,62,7
+76,Anotherloverholenyohead,Prince And The Revolution,86,76,2
+77,If Anybody Had A Heart,John Waite,76,76,5
+78,"Oh, People",Patti LaBelle,88,78,2
+79,Victory Line,Limited Warranty,80,79,5
+80,The Finest,The S.O.S. Band,65,44,11
+81,Missionary Man,Eurythmics,-1,81,1
+82,What Does It Take,Honeymoon Suite,90,82,3
+83,No Promises,Icehouse,85,83,4
+84,Feel The Heat,Jean Beauvoir,77,73,7
+85,You Don't Have To Cry,Rene & Angela,75,75,6
+86,I'm Your Man,Barry Manilow,91,86,3
+87,Greatest Love Of All,Whitney Houston,63,1,18
+88,Peter Gunn,The Art Of Noise Featuring Duane Eddy,70,50,11
+89,All I Need Is A Miracle,Mike + The Mechanics,67,5,19
+90,All Cried Out,Lisa Lisa And Cult Jam With Full Force Featuring Paul Anthony & Bow Legged Lou,-1,90,1
+91,Headlines,Midnight Star,84,69,7
+92,Headed For The Future,Neil Diamond,79,53,10
+93,Every Little Kiss,Bruce Hornsby & The Range,-1,93,1
+94,The Best Of Me,David Foster And Olivia Newton-John,92,80,7
+95,Nothing In Common,Thompson Twins,-1,95,1
+96,Hot Water,Level 42,-1,96,1
+97,One Way Love,TKA,83,75,8
+98,One Hit (To The Body),The Rolling Stones,66,28,11
+99,Vienna Calling,Falco,78,18,14
+100,Living On Video,Trans-X,82,61,12

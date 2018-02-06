@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Good Thing,Fine Young Cannibals,2,1,10
+2,Baby Don't Forget My Number,Milli Vanilli,1,1,11
+3,If You Don't Know Me By Now,Simply Red,5,3,10
+4,Express Yourself,Madonna,6,4,6
+5,Toy Soldiers,Martika,11,5,8
+6,I Drove All Night,Cyndi Lauper,8,6,10
+7,Miss You Like Crazy,Natalie Cole,9,7,13
+8,Satisfied,Richard Marx,3,1,10
+9,Buffalo Stance,Neneh Cherry,4,3,15
+10,What You Don't Know,Expose,13,10,8
+11,The Doctor,The Doobie Brothers,14,11,8
+12,"Batdance (From ""Batman"")",Prince,22,12,4
+13,I Won't Back Down,Tom Petty,12,12,11
+14,This Time I Know It's For Real,Donna Summer,7,7,12
+15,So Alive,Love And Rockets,19,15,8
+16,Lay Your Hands On Me,Bon Jovi,23,16,6
+17,Rooms On Fire,Stevie Nicks,16,16,10
+18,Crazy About Her,Rod Stewart,21,18,9
+19,"On Our Own (From ""Ghostbusters II"")",Bobby Brown,27,19,5
+20,Once Bitten Twice Shy,Great White,25,20,9
+21,I'll Be Loving You (Forever),New Kids On The Block,10,1,15
+22,Who Do You Give Your Love To?,Michael Morales,24,22,11
+23,I Like It,Dino,29,23,9
+24,"Wind Beneath My Wings (From ""Beaches"")",Bette Midler,15,1,19
+25,My Brave Face,Paul McCartney,26,25,7
+26,Into The Night,Benny Mardones,20,11,30
+27,Down Boys,Warrant,31,27,11
+28,Dressed For Success,Roxette,34,28,7
+29,Send Me An Angel '89,Real Life,32,29,9
+30,Every Little Step,Bobby Brown,18,3,16
+31,Hey Baby,Henry Lee Summer,38,31,8
+32,Secret Rendezvous,Karyn White,39,32,7
+33,No More Rhyme,Debbie Gibson,41,33,4
+34,Cry,Waterfront,17,10,14
+35,I'm That Type Of Guy,LL Cool J,45,35,5
+36,Cold Hearted,Paula Abdul,46,36,3
+37,Headed For A Heartbreak,Winger,47,37,6
+38,Close My Eyes Forever,Lita Ford (Duet With Ozzy Osbourne),30,8,19
+39,The End Of The Innocence,Don Henley,49,39,3
+40,Friends,Jody Watley With Eric B. & Rakim,54,40,4
+41,"In Your Eyes (Theme From ""Say Anything"")",Peter Gabriel,42,26,22
+42,Hooked On You,Sweet Sensation,51,42,18
+43,Sacred Emotion,Donny Osmond,48,43,4
+44,Right Here Waiting,Richard Marx,-1,44,1
+45,Me Myself And I,De La Soul,43,43,6
+46,Fire Woman,The Cult,50,46,7
+47,Forever Your Girl,Paula Abdul,37,1,18
+48,In My Eyes,Stevie B,52,48,7
+49,Be With You,The Bangles,33,30,10
+50,Coming Home,Cinderella,35,20,14
+51,Where Are You Now?,Jimmy Harnen With Synch,40,10,32
+52,Angel Eyes,The Jeff Healey Band,63,52,4
+53,"Rock On (From ""Dream A Little Dream"")",Michael Damian,36,1,17
+54,Cover Of Love,Michael Damian,61,54,4
+55,Don't Wanna Lose You,Gloria Estefan,-1,55,1
+56,Calling It Love,Animotion,60,56,5
+57,Veronica,Elvis Costello,28,19,12
+58,Patience,Guns N' Roses,44,4,14
+59,Keep On Movin',Soul II Soul (Featuring Caron Wheeler),69,59,3
+60,"It Isn't, It Wasn't, It Ain't Never Gonna Be",Aretha Franklin/Whitney Houston,73,60,2
+61,Right Next To Me,Whistle,65,61,6
+62,Fascination Street,The Cure,53,46,9
+63,We Can Last Forever,Chicago,59,55,9
+64,Talk It Over,Grayson Hugh,79,64,3
+65,Love Train,Holly Johnson,70,65,4
+66,Trouble Me,"10,000 Maniacs",74,66,4
+67,Soul Provider,Michael Bolton,76,67,2
+68,The Prisoner,Howard Jones,89,68,2
+69,Shower Me With Your Love,Surface,87,69,2
+70,Little Fighter,White Lion,80,70,3
+71,Joy And Pain,Rob Base & D.J. E-Z Rock,58,58,7
+72,Comin' Down Tonight,Thirty Eight Special,77,72,3
+73,Don't Say You Love Me,Billy Squier,85,73,3
+74,Soldier Of Love,Donny Osmond,55,2,16
+75,Moonlight On Water,Kevin Raleigh,68,60,8
+76,Real Love,Jody Watley,62,2,17
+77,Dancing In Heaven (Orbital Be-Bop),Q-feel,81,77,4
+78,Pop Singer,John Mellencamp,56,15,11
+79,Everlasting Love,Howard Jones,64,12,17
+80,Yo No Se,Pajama Party,75,75,8
+81,"After All (Love Theme From ""Chances Are"")",Cher & Peter Cetera,66,6,18
+82,Gonna Make It,SaFire,82,82,3
+83,I Want It All,Queen,71,50,9
+84,Tell Me I'm Not Dreaming,Robert Palmer,91,84,2
+85,Come Home With Me Baby,Dead Or Alive,90,85,2
+86,Thinking Of You,SaFire,72,12,23
+87,I'll Be There For You,Bon Jovi,67,1,19
+88,All I Want Is You,U2,93,88,2
+89,If I Could Turn Back Time,Cher,-1,89,1
+90,Cuddly Toy (Feel For Me),Roachford,57,25,13
+91,18 And Life,Skid Row,-1,91,1
+92,Open Letter (To A Landlord),Living Colour,-1,92,1
+93,Love Has Taken Its Toll,Saraya,-1,93,1
+94,You Are The One,TKA,95,91,6
+95,Turned Away,Chuckii Booker,-1,95,1
+96,Closer Than Friends,Surface,92,57,13
+97,(You're My One And Only) True Love,Seduction,-1,97,1
+98,Nothin (That Compares 2 U),The Jacksons,86,77,6
+99,My One Temptation, Mica Paris,97,97,3
+100,Praying To A New God,Wang Chung,78,63,7

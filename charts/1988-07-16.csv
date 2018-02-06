@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Flame,Cheap Trick,1,1,15
+2,Mercedes Boy,Pebbles,2,2,11
+3,Pour Some Sugar On Me,Def Leppard,3,3,13
+4,New Sensation,INXS,4,4,10
+5,Hold On To The Nights,Richard Marx,8,5,9
+6,Roll With It,Steve Winwood,12,6,6
+7,Nite And Day,Al B. Sure!,10,7,15
+8,Hands To Heaven,Breathe,14,8,14
+9,Make Me Lose Control,Eric Carmen,16,9,9
+10,Nothin' But A Good Time,Poison,6,6,13
+11,Rush Hour,Jane Wiedlin,15,11,11
+12,Lost In You,Rod Stewart,13,12,11
+13,Foolish Beat,Debbie Gibson,7,1,13
+14,Sign Your Name,Terence Trent D'Arby,17,14,8
+15,Dirty Diana,Michael Jackson,5,1,11
+16,The Valley Road,Bruce Hornsby & The Range,9,5,12
+17,Parents Just Don't Understand,D.J. Jazzy Jeff & The Fresh Prince,21,17,9
+18,Paradise,Sade,22,18,10
+19,1-2-3,Gloria Estefan & Miami Sound Machine,24,19,7
+20,Make It Real,The Jets,11,4,14
+21,I Don't Wanna Go On With You Like That,Elton John,27,21,5
+22,Just Got Paid,Johnny Kemp,25,22,10
+23,I Don't Wanna Live Without Your Love,Chicago,31,23,7
+24,Do You Love Me,The Contours,28,3,25
+25,The Colour Of Love,Billy Ocean,29,25,8
+26,I Still Believe,Brenda K. Starr,18,13,16
+27,Love Changes (Everything),Climie Fisher,34,27,10
+28,I Should Be So Lucky,Kylie Minogue,33,28,11
+29,The Twist,Fat Boys,36,29,5
+30,Together Forever,Rick Astley,19,1,14
+31,Beds Are Burning,Midnight Oil,23,17,16
+32,Kiss Me Deadly,Lita Ford,20,12,16
+33,Rag Doll,Aerosmith,38,33,7
+34,Tall Cool One,Robert Plant,26,25,14
+35,Love Will Save The Day,Whitney Houston,40,35,3
+36,Monkey, George Michael,42,36,2
+37,Fast Car,Tracy Chapman,43,37,7
+38,One More Try,George Michael,32,1,14
+39,Trouble,Nia Peeples,35,35,10
+40,Simply Irresistible,Robert Palmer,46,40,3
+41,Alphabet St.,Prince,30,8,12
+42,When It's Love,Van Halen,50,42,3
+43,I Know You're Out There Somewhere,The Moody Blues,45,43,7
+44,Tomorrow People,Ziggy Marley And The Melody Makers,39,39,10
+45,Supersonic,J.J. Fad,41,30,13
+46,Sweet Child O' Mine,Guns N' Roses,56,46,4
+47,I'll Always Love You,Taylor Dayne,53,47,6
+48,Circle In The Sand,Belinda Carlisle,37,7,14
+49,In Your Soul,Corey Hart,51,49,6
+50,Feelings Of Forever,Tiffany,54,50,6
+51,Perfect World,Huey Lewis & The News,-1,51,1
+52,Here With Me,REO Speedwagon,58,52,4
+53,All Fired Up,Pat Benatar,61,53,3
+54,Sayin' Sorry (Don't Make It Right),Denise Lopez,63,54,6
+55,Naughty Girls (Need Love Too),Samantha Fox,44,3,21
+56,Little Walter,Tony Toni Tone,47,47,8
+57,"Nobody's Fool (Theme From ""Caddyshack II"")",Kenny Loggins,68,57,2
+58,Say It's Gonna Rain,Will To Power,62,58,5
+59,Forgive Me For Dreaming,Elisa Fiorillo,52,49,11
+60,Anything For You,Gloria Estefan & Miami Sound Machine,49,1,19
+61,Boom! There She Was,Scritti Politti Featuring Roger,65,61,5
+62,Piano In The Dark,Brenda Russell Featuring Joe Esposito,57,6,22
+63,Knocked Out,Paula Abdul,66,63,5
+64,Missed Opportunity,Daryl Hall John Oates,75,64,2
+65,Everything Your Heart Desires,Daryl Hall John Oates,48,3,14
+66,If It Isn't Love, New Edition,83,66,3
+67,I Don't Want To Be A Hero,Johnny Hates Jazz,76,67,2
+68,I Hate Myself For Loving You,Joan Jett & the Blackhearts,70,68,4
+69,Shattered Dreams,Johnny Hates Jazz,55,2,18
+70,Hole In My Heart (All The Way To China),Cyndi Lauper,81,70,2
+71,Please Don't Go Girl,New Kids On The Block,73,71,4
+72,Should I Say Yes?,Nu Shooz,59,41,14
+73,Heart Of Mine,Boz Scaggs,60,35,12
+74,Tell Me,White Lion,78,74,3
+75,Better Be Home Soon,Crowded House,85,75,2
+76,Spring Love (Come Back To Me),Stevie B,89,76,2
+77,Black And Blue,Van Halen,67,34,9
+78,It Would Take A Strong Strong Man,Rick Astley,-1,78,1
+79,Promise Me,The Cover Girls,72,40,17
+80,Forever Yours,Tony Terry,82,80,4
+81,Wishing I Was Lucky,Wet Wet Wet,64,58,8
+82,Darlin' Danielle Don't,Henry Lee Summer,69,57,8
+83,When Will I Be Famous?,Bros,87,83,4
+84,Cecilia,Times Two,93,84,2
+85,Colors,Ice-T,84,70,6
+86,Joy,Teddy Pendergrass,77,77,5
+87,Angel,Aerosmith,80,3,25
+88,My Obsession,Icehouse,92,88,2
+89,Heart Turns To Stone,Foreigner,-1,89,1
+90,What's On Your Mind (Pure Energy),Information Society,-1,90,1
+91,Two Occasions,The Deele,74,10,21
+92,Summergirls,Dino,-1,92,1
+93,Coming To America,The System,96,93,2
+94,Theme From S-Express,S-Express,95,91,5
+95,Under The Milky Way,The Church,71,24,15
+96,Too Much Ain't Enough Love,Jimmy Barnes,91,91,2
+97,K.I.S.S.I.N.G.,Siedah Garrett,-1,97,1
+98,Route 66/Behind The Wheel,Depeche Mode,90,61,11
+99,Wait,White Lion,88,8,21
+100,We All Sleep Alone,Cher,79,14,15

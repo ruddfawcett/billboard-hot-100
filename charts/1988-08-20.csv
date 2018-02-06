@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Roll With It,Steve Winwood,1,1,11
+2,Monkey,George Michael,8,2,7
+3,1-2-3,Gloria Estefan & Miami Sound Machine,5,3,12
+4,I Don't Wanna Go On With You Like That,Elton John,6,4,10
+5,Make Me Lose Control,Eric Carmen,3,3,14
+6,I Don't Wanna Live Without Your Love,Chicago,7,6,12
+7,Hands To Heaven,Breathe,2,2,19
+8,Sign Your Name,Terence Trent D'Arby,4,4,13
+9,Sweet Child O' Mine,Guns N' Roses,13,9,9
+10,Fast Car,Tracy Chapman,12,10,12
+11,Love Will Save The Day,Whitney Houston,11,11,8
+12,Simply Irresistible, Robert Palmer,14,12,8
+13,Perfect World,Huey Lewis & The News,17,13,6
+14,Hold On To The Nights,Richard Marx,9,1,14
+15,Just Got Paid,Johnny Kemp,10,10,15
+16,When It's Love,Van Halen,21,16,8
+17,Rag Doll,Aerosmith,19,17,12
+18,If It Isn't Love,New Edition,22,18,8
+19,I'll Always Love You,Taylor Dayne,23,19,11
+20,Another Part Of Me,Michael Jackson,25,20,5
+21,The Twist,Fat Boys,16,16,10
+22,Do You Love Me,The Contours,15,3,30
+23,"Nobody's Fool (Theme From ""Caddyshack II"")",Kenny Loggins,28,23,7
+24,All Fired Up,Pat Benatar,27,24,8
+25,It Would Take A Strong Strong Man,Rick Astley,29,25,6
+26,Pour Some Sugar On Me,Def Leppard,18,2,18
+27,One Good Woman,Peter Cetera,32,27,5
+28,Here With Me,REO Speedwagon,31,28,9
+29,Parents Just Don't Understand,D.J. Jazzy Jeff & The Fresh Prince,20,12,14
+30,Missed Opportunity,Daryl Hall John Oates,36,30,7
+31,Sayin' Sorry (Don't Make It Right),Denise Lopez,35,31,11
+32,The Flame,Cheap Trick,26,1,20
+33,I Hate Myself For Loving You,Joan Jett & the Blackhearts,39,33,9
+34,Please Don't Go Girl,New Kids On The Block,37,34,9
+35,"Don't Worry, Be Happy (From ""Cocktail"")",Bobby McFerrin,40,35,4
+36,I Don't Want To Be A Hero,Johnny Hates Jazz,38,36,7
+37,Don't Be Cruel,Cheap Trick,48,37,4
+38,Don't Be Cruel,Bobby Brown,49,38,5
+39,Love Bites,Def Leppard,52,39,2
+40,A Nightmare On My Street,D.J. Jazzy Jeff & The Fresh Prince,47,40,4
+41,Fallen Angel,Poison,51,41,4
+42,Look Out Any Window,Bruce Hornsby & The Range,45,42,5
+43,Better Be Home Soon,Crowded House,42,42,7
+44,Spring Love (Come Back To Me),Stevie B,43,43,7
+45,The Right Stuff,Vanessa Williams,58,45,5
+46,The Colour Of Love,Billy Ocean,24,17,13
+47,Knocked Out,Paula Abdul,41,41,10
+48,Staying Together,Debbie Gibson,60,48,3
+49,What's On Your Mind (Pure Energy),Information Society,57,49,6
+50,Summergirls,Dino,53,50,6
+51,Rush Hour,Jane Wiedlin,30,9,16
+52,New Sensation,INXS,33,3,15
+53,Forever Young,Rod Stewart,65,53,3
+54,What You See Is What You Get,Brenda K. Starr,66,54,3
+55,Inside Outside,The Cover Girls,63,55,5
+56,I Know You're Out There Somewhere,The Moody Blues,34,30,12
+57,Chains Of Love,Erasure,68,57,4
+58,Tell Me,White Lion,59,58,8
+59,I Still Believe,Brenda K. Starr,50,13,21
+60,Heart Turns To Stone,Foreigner,56,56,6
+61,Don't You Know What The Night Can Do?,Steve Winwood,-1,61,1
+62,Say It's Gonna Rain,Will To Power,55,49,10
+63,True Love,Glenn Frey,-1,63,1
+64,Make It Last Forever,Keith Sweat (Duet With Jacci McGhee),69,64,5
+65,Time And Tide,Basia,75,65,5
+66,Mercedes Boy,Pebbles,44,2,16
+67,Red Red Wine,UB40,85,34,17
+68,Never Tear Us Apart,INXS,86,68,2
+69,The Dead Heart,Midnight Oil,77,69,3
+70,Superstitious,Europe,80,70,2
+71,Love Changes (Everything),Climie Fisher,46,23,15
+72,Off On Your Own (Girl),Al B. Sure!,84,72,3
+73,Foolish Beat,Debbie Gibson,54,1,18
+74,Always There For You,Stryper,73,73,5
+75,"Mary, Mary",Run-D.M.C.,76,75,4
+76,Boom! There She Was,Scritti Politti Featuring Roger,61,53,10
+77,Supersonic,J.J. Fad,70,30,18
+78,Nice 'N' Slow,Freddie Jackson,79,78,5
+79,Skin Deep,Cher,81,79,4
+80,Naughty Girls (Need Love Too),Samantha Fox,83,3,26
+81,Nite And Day,Al B. Sure!,62,7,20
+82,Lost In You,Rod Stewart,71,12,16
+83,Kiss Me Deadly,Lita Ford,78,12,21
+84,Jackie,Blue Zone U.K.,89,84,2
+85,Make It Real,The Jets,67,4,19
+86,Don't Walk Away,Toni Childs,92,86,2
+87,Hole In My Heart (All The Way To China),Cyndi Lauper,64,54,7
+88,Sendin' All My Love,The Jets,91,88,2
+89,Another Lover,Giant Steps,-1,89,1
+90,The Rumour,Olivia Newton-John,-1,90,1
+91,Indestructible,Four Tops,-1,91,1
+92,It Takes Two,Rob Base & D.J. E-Z Rock,-1,92,1
+93,Nothin' But A Good Time,Poison,72,6,18
+94,"Wild, Wild West",The Escape Club,-1,94,1
+95,She's On The Left,Jeffrey Osborne,-1,95,1
+96,Long And Lasting Love (Once In A Lifetime),Glenn Medeiros,97,96,2
+97,Beds Are Burning,Midnight Oil,82,17,21
+98,Trouble,Nia Peeples,87,35,15
+99,Paradise,Sade,74,16,15
+100,I Feel Free,Belinda Carlisle,88,88,4

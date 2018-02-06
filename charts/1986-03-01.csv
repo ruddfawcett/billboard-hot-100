@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Kyrie,Mr. Mister,2,1,11
+2,How Will I Know,Whitney Houston,1,1,13
+3,Sara,Starship,4,3,10
+4,Living In America,James Brown,5,4,13
+5,The Sweetest Taboo,Sade,6,5,15
+6,"When The Going Gets Tough, The Tough Get Going",Billy Ocean,3,2,14
+7,Life In A Northern Town,The Dream Academy,7,7,14
+8,Silent Running (On Dangerous Ground),Mike + The Mechanics,8,8,15
+9,Secret Lovers,Atlantic Starr,11,9,10
+10,These Dreams,Heart,14,10,7
+11,A Love Bizarre,Sheila E.,12,11,16
+12,King For A Day,Thompson Twins,17,12,7
+13,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",Baltimora,16,13,20
+14,Burning Heart,Survivor,9,2,18
+15,Conga,Miami Sound Machine,15,10,20
+16,Russians,Sting,19,16,7
+17,R.O.C.K. In The U.S.A. (A Salute to 60's Rock),John Mellencamp,26,17,5
+18,Day By Day,Hooters,18,18,12
+19,Nikita,Elton John,22,19,7
+20,That's What Friends Are For,Dionne & Friends,10,1,17
+21,Sanctify Yourself,Simple Minds,24,21,6
+22,Stages,ZZ Top,23,22,7
+23,What You Need,INXS,28,23,7
+24,I'm Your Man,Wham!,13,3,14
+25,This Could Be The Night,Loverboy,27,25,7
+26,Beat's So Lonely,Charlie Sexton,29,26,12
+27,(How To Be A) Millionaire,ABC,33,27,7
+28,Digital Display,Ready For The World,21,21,13
+29,Rock Me Amadeus,Falco,40,29,4
+30,Let's Go All The Way,Sly Fox,35,30,10
+31,Another Night,Aretha Franklin,34,31,7
+32,The Sun Always Shines on T.V.,a-ha,20,20,14
+33,Manic Monday,The Bangles,39,33,6
+34,Night Moves,Marilyn Martin,38,34,7
+35,He'll Never Love You (Like I Do),Freddie Jackson,25,25,12
+36,Goodbye Is Forever,Arcadia,43,36,5
+37,Needles And Pins,Tom Petty & The Heartbreakers With Stevie Nicks,46,37,5
+38,No Easy Way Out,Robert Tepper,44,38,6
+39,Tender Love,Force M.D.'s,47,39,5
+40,Calling America,Electric Light Orchestra,50,40,5
+41,Kiss,Prince And The Revolution,52,41,2
+42,Spies Like Us,Paul McCartney,30,7,15
+43,I'm Not The One,The Cars,49,43,5
+44,Bop,Dan Seals,48,44,6
+45,"Say You, Say Me",Lionel Richie,32,1,17
+46,Addicted To Love,Robert Palmer,57,46,4
+47,Walk Of Life,Dire Straits,37,7,18
+48,I Can't Wait,Stevie Nicks,60,48,2
+49,Talk To Me,Stevie Nicks,31,4,16
+50,I Miss You,Klymaxx,42,5,25
+51,Do Me Baby,Meli'sa Morgan,53,51,6
+52,I'd Do It All Again,Sam Harris,54,52,5
+53,Live Is Life,Opus,56,53,6
+54,Go Home,Stevie Wonder,36,10,15
+55,My Hometown,Bruce Springsteen,41,6,13
+56,I Think It's Love,Jermaine Jackson,74,56,2
+57,Sidewalk Talk,Jellybean Featuring Catherine Buchanan,45,18,16
+58,Le Bel Age (The Best Years),Pat Benatar,63,58,3
+59,Let Me Be The One,Five Star,72,59,4
+60,Your Love,The Outfield,79,60,3
+61,I Like You,Phyllis Nelson,64,61,4
+62,Overjoyed,Stevie Wonder,76,62,2
+63,The Super Bowl Shuffle,Chicago Bears Shufflin' Crew,51,41,8
+64,Goodbye,Night Ranger,55,17,17
+65,Jimmy Mack,Sheena Easton,70,65,4
+66,So Far Away,Dire Straits,-1,66,1
+67,The Power Of Love,Jennifer Rush,75,67,4
+68,Baby Talk,Alisha,68,68,11
+69,Saturday Love,Cherrelle With Alexander O'Neal,86,69,3
+70,Somewhere,Barbra Streisand,61,43,12
+71,West End Girls,Pet Shop Boys,-1,71,1
+72,For America,Jackson Browne,-1,72,1
+73,Something About You,Level 42,80,73,3
+74,Lying,Peter Frampton,77,74,5
+75,What Have You Done For Me Lately,Janet Jackson,95,75,2
+76,Pleasure And Pain,Divinyls,78,76,6
+77,All The Kings Horses,The Firm,88,77,3
+78,Everything In My Heart,Corey Hart,65,30,14
+79,Party All The Time,Eddie Murphy,58,2,22
+80,Secret,Orchestral Manoeuvres In The Dark,71,63,12
+81,It's All Right (Baby's Coming Back),Eurythmics,85,81,3
+82,Stereotomy,The Alan Parsons Project,83,82,3
+83,Caravan Of Love,"Isley, Jasper, Isley",67,51,13
+84,Small Town,John Mellencamp,69,6,18
+85,You're A Friend Of Mine,Clarence Clemons & Jackson Browne,62,18,19
+86,Alive & Kicking,Simple Minds,59,3,20
+87,The Men All Pause,Klymaxx,92,87,3
+88,Heart's On Fire,John Cafferty,-1,88,1
+89,A Little Bit Of Love (Is All It Takes),New Edition,94,89,2
+90,In My Dreams,Dokken,93,90,2
+91,Everybody Dance,Ta Mara & The Seen,73,24,21
+92,I Found Someone,Laura Branigan,-1,92,1
+93,Twist My Arm,The Pointer Sisters,-1,93,1
+94,Now And Forever (You And Me),Anne Murray,-1,94,1
+95,Where Are You Now?,Jimmy Harnen With Synch,-1,95,1
+96,Can You Feel The Beat,Lisa Lisa And Clult Jam With Full Force,84,69,16
+97,Object Of My Desire,Starpoint,81,25,23
+98,Wood Beez (Pray Like Aretha Franklin),Scritti Politti,91,91,4
+99,Strength,The Alarm,66,61,10
+100,One Sunny Day (From Quicksilver),"Ray Parker,Jr. & Helen Terry",96,96,3

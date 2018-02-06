@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Flame,Cheap Trick,3,1,14
+2,Mercedes Boy,Pebbles,6,2,10
+3,Pour Some Sugar On Me,Def Leppard,7,3,12
+4,New Sensation,INXS,9,4,9
+5,Dirty Diana,Michael Jackson,1,1,10
+6,Nothin' But A Good Time,Poison,8,6,12
+7,Foolish Beat,Debbie Gibson,2,1,12
+8,Hold On To The Nights,Richard Marx,15,8,8
+9,The Valley Road,Bruce Hornsby & The Range,5,5,11
+10,Nite And Day,Al B. Sure!,11,10,14
+11,Make It Real,The Jets,4,4,13
+12,Roll With It,Steve Winwood,21,12,5
+13,Lost In You,Rod Stewart,18,13,10
+14,Hands To Heaven,Breathe,20,14,13
+15,Rush Hour,Jane Wiedlin,19,15,10
+16,Make Me Lose Control,Eric Carmen,22,16,8
+17,Sign Your Name,Terence Trent D'Arby,27,17,7
+18,I Still Believe,Brenda K. Starr ,13,13,15
+19,Together Forever,Rick Astley,10,1,13
+20,Kiss Me Deadly,Lita Ford,14,12,15
+21,Parents Just Don't Understand,D.J. Jazzy Jeff & The Fresh Prince,26,21,8
+22,Paradise,Sade,24,22,9
+23,Beds Are Burning,Midnight Oil,17,17,15
+24,1-2-3,Gloria Estefan & Miami Sound Machine,28,24,6
+25,Just Got Paid,Johnny Kemp,31,25,9
+26,Tall Cool One,Robert Plant,25,25,13
+27,I Don't Wanna Go On With You Like That,Elton John,36,27,4
+28,Do You Love Me,The Contours,33,3,24
+29,The Colour Of Love,Billy Ocean,30,29,7
+30,Alphabet St.,Prince,12,8,11
+31,I Don't Wanna Live Without Your Love,Chicago,34,31,6
+32,One More Try,George Michael,16,1,13
+33,I Should Be So Lucky,Kylie Minogue,35,33,10
+34,Love Changes (Everything),Climie Fisher,38,34,9
+35,Trouble,Nia Peeples,39,35,9
+36,The Twist,Fat Boys,47,36,4
+37,Circle In The Sand,Belinda Carlisle,23,7,13
+38,Rag Doll,Aerosmith,45,38,6
+39,Tomorrow People,Ziggy Marley And The Melody Makers,43,39,9
+40,Love Will Save The Day,Whitney Houston,52,40,2
+41,Supersonic,J.J. Fad,32,30,12
+42,Monkey,George Michael,-1,42,1
+43,Fast Car,Tracy Chapman,55,43,6
+44,Naughty Girls (Need Love Too),Samantha Fox,37,3,20
+45,I Know You're Out There Somewhere,The Moody Blues,54,45,6
+46,Simply Irresistible,Robert Palmer,59,46,2
+47,Little Walter,Tony Toni Tone,53,47,7
+48,Everything Your Heart Desires,Daryl Hall John Oates,29,3,13
+49,Anything For You,Gloria Estefan & Miami Sound Machine,42,1,18
+50,When It's Love,Van Halen,69,50,2
+51,In Your Soul,Corey Hart,56,51,5
+52,Forgive Me For Dreaming,Elisa Fiorillo,51,49,10
+53,I'll Always Love You,Taylor Dayne,57,53,5
+54,Feelings Of Forever, Tiffany,60,54,5
+55,Shattered Dreams,Johnny Hates Jazz,41,2,17
+56,Sweet Child O' Mine,Guns N' Roses,63,56,3
+57,Piano In The Dark,Brenda Russell Featuring Joe Esposito,49,6,21
+58,Here With Me,REO Speedwagon,64,58,3
+59,Should I Say Yes?,Nu Shooz,46,41,13
+60,Heart Of Mine,Boz Scaggs,40,35,11
+61,All Fired Up,Pat Benatar,75,61,2
+62,Say It's Gonna Rain,Will To Power,68,62,4
+63,Sayin' Sorry (Don't Make It Right),Denise Lopez,66,63,5
+64,Wishing I Was Lucky,Wet Wet Wet,58,58,7
+65,Boom! There She Was,Scritti Politti Featuring Roger,73,65,4
+66,Knocked Out,Paula Abdul,74,66,4
+67,Black And Blue,Van Halen,50,34,8
+68,"Nobody's Fool (Theme From ""Caddyshack II"")",Kenny Loggins,-1,68,1
+69,Darlin' Danielle Don't,Henry Lee Summer,61,57,7
+70,I Hate Myself For Loving You,Joan Jett & the Blackhearts ,80,70,3
+71,Under The Milky Way,The Church,44,24,14
+72,Promise Me,The Cover Girls,71,40,16
+73,Please Don't Go Girl,New Kids On The Block,79,73,3
+74,Two Occasions,The Deele,62,10,20
+75,Missed Opportunity,Daryl Hall John Oates,-1,75,1
+76,I Don't Want To Be A Hero,Johnny Hates Jazz,-1,76,1
+77,Joy,Teddy Pendergrass,77,77,4
+78,Tell Me,White Lion,89,78,2
+79,We All Sleep Alone,Cher,48,14,14
+80,Angel,Aerosmith,72,3,24
+81,Hole In My Heart (All The Way To China),Cyndi Lauper,-1,81,1
+82,Forever Yours,Tony Terry,82,82,3
+83,If It Isn't Love,New Edition,93,83,2
+84,Colors,Ice-T,70,70,5
+85,Better Be Home Soon,Crowded House,-1,85,1
+86,You Have Placed A Chill In My Heart,Eurythmics,67,64,7
+87,When Will I Be Famous?,Bros,87,87,3
+88,Wait,White Lion,65,8,20
+89,Spring Love (Come Back To Me),Stevie B,-1,89,1
+90,Route 66/Behind The Wheel,Depeche Mode,84,61,10
+91,Too Much Ain't Enough Love,Jimmy Barnes,-1,91,1
+92,My Obsession,Icehouse,-1,92,1
+93,Cecilia,Times Two,-1,93,1
+94,Rhythm Of Love,Scorpions,86,75,6
+95,Theme From S-Express,S-Express,91,91,4
+96,Coming To America,The System,-1,96,1
+97,I Don't Want To Live Without You,Foreigner,76,5,17
+98,When We Kiss,Bardeux,81,36,13
+99,"Wild, Wild West",Kool Moe Dee,88,62,11
+100,Most Of All,Jody Watley,78,60,11

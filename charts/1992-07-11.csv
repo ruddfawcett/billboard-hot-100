@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Baby Got Back,Sir Mix-A-Lot,1,1,14
+2,I'll Be There,Mariah Carey,2,1,7
+3,Under The Bridge,Red Hot Chili Peppers,3,2,15
+4,If You Asked Me To,Celine Dion,5,4,12
+5,Damn I Wish I Was Your Lover,Sophie B. Hawkins,6,5,13
+6,Achy Breaky Heart,Billy Ray Cyrus,7,6,10
+7,Jump,Kris Kross,4,1,15
+8,Tennessee,Arrested Development,9,8,14
+9,My Lovin' (You're Never Gonna Get It),En Vogue,8,2,17
+10,Wishing On A Star,The Cover Girls,10,10,7
+11,Just Another Day,Jon Secada,13,11,13
+12,Life Is A Highway,Tom Cochrane,14,12,9
+13,Too Funky,George Michael,12,12,5
+14,The Best Things In Life Are Free,Luther Vandross And Janet Jackson With BBD And Ralph Tresvant,11,10,7
+15,Baby-Baby-Baby,TLC,16,15,6
+16,Hold On My Heart,Genesis,15,12,11
+17,This Used To Be My Playground,Madonna,35,17,2
+18,Come & Talk To Me,Jodeci,17,16,15
+19,Friday I'm In Love,The Cure,20,19,5
+20,November Rain,Guns N' Roses,26,20,3
+21,Warm It Up,Kris Kross,21,21,6
+22,Slow Motion,Color Me Badd,19,18,10
+23,Keep On Walkin',CeCe Peniston,23,23,8
+24,Giving Him Something He Can Feel,En Vogue,30,24,6
+25,Live And Learn,Joe Public,18,4,18
+26,Just For Tonight,Vanessa Williams,27,26,8
+27,They Want EFX,Das EFX,34,27,10
+28,Take This Heart,Richard Marx,33,28,5
+29,Do It To Me,Lionel Richie,25,21,11
+30,Good Stuff,The B-52s,36,30,4
+31,Move This,Technotronic Featuring Ya Kid K,38,31,5
+32,I Will Remember You,Amy Grant,31,20,12
+33,You Won't See Me Cry,Wilson Phillips,24,20,10
+34,Just Take My Heart,Mr. Big,29,16,14
+35,In The Closet,Michael Jackson,22,6,12
+36,Tears In Heaven,Eric Clapton,32,2,23
+37,Why,Annie Lennox,41,37,9
+38,Save The Best For Last,Vanessa Williams,39,1,24
+39,Ain't 2 Proud 2 Beg,TLC,28,6,21
+40,The One,Elton John,50,40,3
+41,One,U2,42,10,18
+42,Make Love Like A Man,Def Leppard,51,42,3
+43,Honey Love,R. Kelly & Public Announcement,44,43,8
+44,Sometimes I Rhyme Slow,Nice & Smooth,45,44,10
+45,Everything About You,Ugly Kid Joe,40,9,15
+46,T.L.C.,Linear,37,30,10
+47,Bohemian Rhapsody,Queen,43,2,41
+48,Remedy,The Black Crowes,49,48,5
+49,Nu Nu,Lidell Townsell,47,26,20
+50,Thought I'd Died And Gone To Heaven,Bryan Adams,46,13,18
+51,Everybody's Free (To Feel Good),Rozalla,79,51,3
+52,"Mr. Loverman (From ""Deep Cover"")",Shabba Ranks,52,52,5
+53,Strawberry Letter 23,Tevin Campbell,53,53,6
+54,Closer To Me,The Outfield,48,43,9
+55,"You Remind Me (From ""Strictly Business"")", Mary J. Blige,67,55,4
+56,All You've Got,RTZ,57,56,6
+57,All I Want,Toad The Wet Sprocket,75,57,3
+58,Jump Around,House Of Pain,80,58,3
+59,Scenario,A Tribe Called Quest,62,59,6
+60,Stay,Shakespear's Sister,77,60,2
+61,Helluva,Brotherhood Creed,56,53,13
+62,Twilight Zone,2 Unlimited,69,62,5
+63,They Reminisce Over You (T.R.O.Y.),Pete Rock & C.L. Smooth,72,63,3
+64,Jam,Michael Jackson,-1,64,1
+65,Silent Prayer,Shanice,54,31,12
+66,Slowly,Stacy Earl,78,66,4
+67,James Brown Is Dead,L.A. Style,59,59,13
+68,57 Channels (And Nothin' On),Bruce Springsteen,68,68,4
+69,Please Don't Go,Boyz II Men,66,49,15
+70,I Miss You,Joe Public,86,70,2
+71,Never Satisfied,Good 2 Go,64,64,10
+72,Even Better Than The Real Thing,U2,-1,72,1
+73,Maria,TKA,65,44,15
+74,Fall In Love Again,Eddie Money,63,54,9
+75,Brainstorming,M.C. Brains,82,75,2
+76,Let's Get Rocked,Def Leppard ,60,15,14
+77,Why Me Baby?,Keith Sweat,61,44,14
+78,Lift Me Up,Howard Jones,58,32,14
+79,Not The Only One,Bonnie Raitt,73,34,13
+80,Victim Of The Ghetto,The College Boyz,70,68,8
+81,Please Don't Go,K.W.S.,76,76,4
+82,Whatever It Takes (To Make You Stay),Troop,71,63,4
+83,The Way I Feel,Tag,96,83,2
+84,Back To The Hotel,N2Deep,-1,84,1
+85,Reach For The Sky,Firehouse,92,85,2
+86,Forever In Your Eyes,Mint Condition,81,81,4
+87,We Will Rock You/We Are The Champions,Queen,-1,4,28
+88,Faces Of Love,Nia Peeples,93,88,3
+89,If You Want It,2nd II None,88,64,15
+90,Take Time,Chris Walker,89,29,18
+91,"I Wanna Love You (From ""Class Act"")",Jade,-1,91,1
+92,Tequila,A.L.T. And The Lost Civilization,-1,92,1
+93,Come As You Are,Nirvana,87,32,17
+94,You Think You Know Her,Cause And Effect,98,38,20
+95,Who's Got Your Love,Nyasia,-1,95,1
+96,I Need Love,Olivia Newton-John,-1,96,1
+97,Strobelite Honey,Black Sheep,90,90,2
+98,Restless Heart,Peter Cetera,-1,98,1
+99,So What'cha Want,Beastie Boys,99,99,2
+100,Take Me In Your Arms,Lil Suzy,94,94,2

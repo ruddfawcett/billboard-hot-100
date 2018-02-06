@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Alone,Heart,1,1,10
+2,"Shakedown (From ""Beverly Hills Cop II"")",Bob Seger,3,2,9
+3,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston,2,1,10
+4,Don't Disturb This Groove,The System,5,4,15
+5,Point Of No Return,Expose,6,5,11
+6,Funkytown,Pseudo Echo,7,6,10
+7,I Still Haven't Found What I'm Looking For,U2,10,7,6
+8,Something So Strong,Crowded House,8,8,12
+9,"I Want Your Sex (From ""Beverly Hills Cop II"")",George Michael,11,9,7
+10,Rhythm Is Gonna Get You,Gloria Estefan & Miami Sound Machine,12,10,8
+11,Songbird,Kenny G,4,4,16
+12,Heart And Soul,T'Pau,15,12,12
+13,"Girls, Girls, Girls",Motley Crue,13,13,8
+14,Kiss Him Goodbye,The Nylons,18,14,10
+15,"Cross My Broken Heart (From ""Beverly Hills Cop II"")",The Jets,22,15,7
+16,Every Little Kiss,Bruce Hornsby & The Range,14,14,19
+17,The Pleasure Principle,Janet Jackson,20,17,9
+18,Head To Toe,Lisa Lisa And Cult Jam,9,1,15
+19,I'd Still Say Yes,Klymaxx,23,19,12
+20,Happy,Surface,24,20,9
+21,Wot's It To Ya,Robbie Nevil,25,21,8
+22,Luka,Suzanne Vega,29,22,7
+23,Moonlighting (Theme),Al Jarreau,27,23,8
+24,Only In My Dreams,Debbie Gibson,28,24,11
+25,Back In The High Life Again,Steve Winwood,31,25,8
+26,Rock Steady,The Whispers,32,26,7
+27,Just To See Her,Smokey Robinson,16,8,17
+28,Don't Mean Nothing,Richard Marx,33,28,6
+29,In Too Deep,Genesis,17,3,13
+30,Hearts On Fire,Bryan Adams,35,30,6
+31,Seven Wonders,Fleetwood Mac,34,31,5
+32,Always,Atlantic Starr,19,1,17
+33,Who's That Girl,Madonna,43,33,2
+34,It's Not Over ('til It's Over),Starship,41,34,4
+35,Lessons In Love,Level 42,21,12,16
+36,La Bamba,Los Lobos,48,36,4
+37,Flames Of Paradise,Jennifer Rush (Duet With Elton John),36,36,10
+38,Diamonds,Herb Alpert,26,5,15
+39,Why You Treat Me So Bad,Club Nouveau,44,39,8
+40,One For The Mockingbird,Cutting Crew,42,40,7
+41,"Hypnotize Me (From ""Innerspace"")",Wang Chung,45,41,7
+42,Living In A Box,Living In A Box,49,42,5
+43,Since You've Been Gone,The Outfield,50,43,6
+44,Can't We Try,Dan Hill (Duet With Vonda Shepard),51,44,7
+45,Give To Live,Sammy Hagar,52,45,5
+46,Endless Nights,Eddie Money,30,21,15
+47,Meet Me Half Way,Kenny Loggins,38,11,20
+48,You Keep Me Hangin' On,Kim Wilde ,39,1,17
+49,Love Power,Dionne Warwick & Jeffrey Osborne,66,49,2
+50,Mary's Prayer,Danny Wilson,54,50,7
+51,The Lady In Red,Chris de Burgh,46,3,23
+52,Wanted Dead Or Alive,Bon Jovi,37,7,15
+53,Lies,Jonathan Butler,61,53,4
+54,"Good Times (From ""The Lost Boys"")",INXS & Jimmy Barnes,57,54,5
+55,I Want Action,Poison,55,55,6
+56,Jam Tonight,Freddie Jackson,65,56,4
+57,When Smokey Sings,ABC,70,57,3
+58,These Times Are Hard For Lovers,John Waite,63,58,5
+59,Still A Thrill,Jody Watley,56,56,5
+60,Dreamin',Will To Power,60,60,4
+61,Here I Go Again,Whitesnake,71,61,3
+62,Who Found Who,Jellybean Featuring Elisa Fiorillo,73,62,2
+63,Doing It All For My Baby,Huey Lewis & The News,-1,63,1
+64,That's Freedom,Tom Kimmel,64,64,5
+65,Wipeout,Fat Boys & The Beach Boys,72,65,2
+66,Why Can't I Be You?,The Cure,67,66,5
+67,Nothing's Gonna Change My Love For You,Glenn Medeiros,53,12,23
+68,Sweet Sixteen,Billy Idol,40,20,13
+69,Under The Boardwalk,Bruce Willis,59,59,6
+70,Soul City,Partland Brothers,47,27,12
+71,Holiday,Kool & The Gang,76,71,4
+72,Shattered Glass,Laura Branigan,79,72,3
+73,In Love With Love,Debbie Harry,78,73,3
+74,"I Heard A Rumour (From ""Disorderlies"")",Bananarama,-1,74,1
+75,I'll Still Be Loving You,Restless Heart,62,33,15
+76,Rock The Night,Europe,58,30,12
+77,Stand Back,The Fabulous Thunderbirds,84,77,3
+78,If She Would Have Been Faithful. . .,Chicago,74,17,18
+79,Still Of The Night,Whitesnake,80,79,6
+80,Kiss And Tell,The Breakfast Club,93,80,2
+81,Give Me All Night,Carly Simon,82,61,9
+82,In My Dreams,REO Speedwagon,-1,82,1
+83,Jane's Getting Serious,Jon Astley,86,83,4
+84,I'm Bad,LL Cool J,89,84,2
+85,"Twistin' The Night Away (From ""Innerspace"")",Rod Stewart,-1,85,1
+86,One Heartbeat,Smokey Robinson,-1,86,1
+87,Johnny B,Hooters,-1,87,1
+88,Show Me The Way,Regina Belle,-1,88,1
+89,Say You Really Want Me,Kim Wilde,-1,89,1
+90,Making Love In The Rain,Herb Alpert,-1,90,1
+91,Niagara Falls,Chicago,94,91,2
+92,Want You For My Girlfriend,4 By Four,81,79,6
+93,Wild Horses,Gino Vannelli,75,55,14
+94,Shy Boys,Ana,96,94,2
+95,Ready Or Not,Lou Gramm,88,54,11
+96,Fascinated,Company B,85,21,18
+97,Why Should I Cry?,Nona Hendryx,83,58,9
+98,Hearts Away,Night Ranger,90,90,3
+99,With or Without You,U2,68,1,18
+100,Right On Track,The Breakfast Club,69,7,19

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,This Is How We Do It,Montell Jordan,1,1,10
+2,Red Light Special,TLC,2,2,9
+3,Freak Like Me,Adina Howard,4,3,12
+4,Candy Rain,Soul For Real,3,2,17
+5,Run Away,Real McCoy,5,3,8
+6,I Know,Dionne Farris,8,6,14
+7,Big Poppa/Warning,The Notorious B.I.G.,7,6,16
+8,Strong Enough,Sheryl Crow,9,5,18
+9,Dear Mama/Old School,2Pac,13,9,8
+10,I Believe,Blessid Union Of Souls,14,10,11
+11,Take A Bow,Madonna,6,1,20
+12,"Keep Their Heads Ringin' (From ""Friday"")",Dr. Dre,10,10,7
+13,Baby,Brandy,12,4,13
+14,Believe,Elton John,16,14,8
+15,Hold My Hand,Hootie & The Blowfish,20,10,30
+16,Hold On,Jamie Walters,21,16,14
+17,Creep,TLC,11,1,25
+18,You Gotta Be,Des'ree,15,5,35
+19,In The House Of Stone And Light,Martin Page,19,19,20
+20,This Lil' Game We Play,Subway (Featuring 702),18,15,13
+21,If You Love Me,Brownstone,17,8,21
+22,Have You Ever Really Loved A Woman?,Bryan Adams,33,22,3
+23,I'm Goin' Down,Mary J. Blige,22,22,4
+24,"Ask Of You (From ""Higher Learning"")",Raphael Saadiq,25,24,6
+25,Let Her Cry,Hootie & The Blowfish,30,25,8
+26,I Live My Life For You,Firehouse,26,26,10
+27,Like The Way I Do/If I Wanted To,Melissa Etheridge,23,16,11
+28,Cotton Eye Joe,Rednex,28,28,8
+29,Another Night,Real McCoy,24,3,36
+30,Thank You,Boyz II Men ,27,21,10
+31,"No More ""I Love You's""",Annie Lennox,32,31,8
+32,Give It 2 You,Da Brat,40,32,3
+33,On Bended Knee,Boyz II Men,29,1,24
+34,Dream About You/Funky Melody,Stevie B,34,34,12
+35,"Can't You See (From ""New Jersey Drive"")",Total Featuring The Notorious B.I.G.,36,35,4
+36,Tell Me When,The Human League,31,31,6
+37,Can't Stop Lovin' You,Van Halen,37,37,6
+38,Water Runs Dry,Boyz II Men,-1,38,1
+39,I'll Be Around,Rappin' 4-Tay Featuring The Spinners,41,39,6
+40,The Rhythm Of The Night,Corona,35,11,25
+41,Total Eclipse Of The Heart,Nicki French,59,41,5
+42,Bedtime Story,Madonna,74,42,2
+43,Joy,BLACKstreet,43,43,5
+44,I'd Rather Be Alone,IV Xample,45,44,8
+45,Always,Bon Jovi,38,4,31
+46,Everlasting Love,Gloria Estefan,39,27,14
+47,I'm The Only One,Melissa Etheridge,42,8,39
+48,Get Ready For This,2 Unlimited,44,38,33
+49,Run-Around,Blues Traveler,57,49,6
+50,You Don't Know How It Feels,Tom Petty,46,13,22
+51,Until The End Of Time,Foreigner,53,51,7
+52,Mr. Personality,Gillette,52,42,9
+53,Never Find Someone Like You,Keith Martin,55,53,9
+54,Wonderful,Adam Ant,60,54,5
+55,Craziest,Naughty By Nature,51,51,3
+56,"Shy Guy (From ""Bad Boys"")",Diana King,63,56,5
+57,Close To You,Fun Factory,62,57,7
+58,Think Of You,Usher,58,58,11
+59,"You Got It (From ""Boys On The Side"")",Bonnie Raitt,48,33,11
+60,Move It Like This,K7,54,54,12
+61,Here & Now,Letters To Cleo,65,61,6
+62,If You Think You're Lonely Now,K-Ci Hailey,56,17,11
+63,(She's Got) Skillz,All-4-One,64,57,17
+64,"Freedom (From ""Panther"")",Various Artists,72,64,2
+65,Connection,Elastica,69,65,6
+66,For Your Love,Stevie Wonder,61,53,9
+67,Feel So High,Des'ree,68,67,5
+68,The Keeper Of The Stars,Tracy Byrd,78,68,5
+69,Someone To Love,Jon B. Featuring Babyface,-1,69,1
+70,Brooklyn Zoo,Ol' Dirty Bastard,70,54,10
+71,"Crazy Love (From ""Jason's Lyric"")",Brian McKnight,79,71,3
+72,Lick It,Roula,77,72,6
+73,Foe Tha Love Of $,Bone Thugs-N-Harmony Featuring Eazy-E,66,41,10
+74,Fat Boy,Max-A-Million,76,69,13
+75,Grapevyne,Brownstone,-1,75,1
+76,1-Luv,E-40 (Featuring Leviti),73,71,10
+77,I Like,Kut Klose,81,77,3
+78,Get Down,Craig Mack,75,38,18
+79,Baby It's You,The Beatles,67,67,2
+80,Strange Currencies,R.E.M.,-1,80,1
+81,Safe + Sound,DJ Quik,83,81,5
+82,Don't Take It Personal (Just One Of Dem Days),Monica,-1,82,1
+83,Rodeo,95 South,82,77,12
+84,Secret Garden,Bruce Springsteen,-1,84,1
+85,Come Back,Londonbeat,71,62,3
+86,So Help Me Girl,Joe Diffie,84,84,4
+87,Tour,Capleton,80,57,13
+88,Let's Get It On,Shabba Ranks,91,81,8
+89,Your Loving Arms,Billie Ray Martin,89,89,5
+90,The I.N.C. Ride,Masta Ace Incorporated,-1,90,1
+91,Emotions,H-Town,92,91,2
+92,Move It To The Rhythm,Technotronic Featuring Ya Kid K,98,92,3
+93,Get Lifted,Keith Murray,86,71,9
+94,Universal Heart-Beat,Juliana Hatfield,85,85,2
+95,It's Good To Be King,Tom Petty,-1,95,1
+96,I Wish,Skee-Lo,-1,96,1
+97,She Don't Use Jelly,The Flaming Lips,93,55,20
+98,Shook Ones Part II,Mobb Deep,88,59,10
+99,Love The One You're With/Going In Circles,Luther Vandross,95,95,2
+100,Come On,Barry White,87,87,2

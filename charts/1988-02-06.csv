@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Could've Been,Tiffany,2,1,11
+2,Hazy Shade Of Winter,The Bangles,3,2,13
+3,Need You Tonight,INXS,1,1,16
+4,Seasons Change,Expose,5,4,11
+5,I Want To Be Your Man,Roger,6,5,13
+6,"Hungry Eyes (From ""Dirty Dancing"")",Eric Carmen,8,6,14
+7,What Have I Done To Deserve This?,Pet Shop Boys & Dusty Springfield,12,7,9
+8,Say You Will,Foreigner ,13,8,10
+9,Tunnel Of Love,Bruce Springsteen,14,9,10
+10,I Could Never Take The Place Of Your Man,Prince,11,10,13
+11,Don't Shed A Tear,Paul Carrack,15,11,13
+12,The Way You Make Me Feel,Michael Jackson,4,1,12
+13,I Live For Your Love,Natalie Cole,17,13,14
+14,Everywhere,Fleetwood Mac,18,14,11
+15,She's Like The Wind,Patrick Swayze (Featuring Wendy Fraser),21,15,8
+16,Never Gonna Give You Up,Rick Astley,24,16,8
+17,Tell It To My Heart(Dub),Taylor Dayne,10,7,18
+18,Got My Mind Set On You,George Harrison,7,1,16
+19,Father Figure,George Michael,30,19,4
+20,Pump Up The Volume,M/A/R/R/S,25,20,11
+21,Pop Goes The World,Men Without Hats,22,21,15
+22,Candle In The Wind,Elton John,9,6,14
+23,Can't Stay Away From You,Gloria Estefan & Miami Sound Machine,27,23,12
+24,Crazy,Icehouse,16,14,17
+25,Push It,Salt-N-Pepa,26,25,12
+26,I Found Someone,Cher,29,26,12
+27,I Get Weak,Belinda Carlisle,33,27,4
+28,Honestly,Stryper,23,23,14
+29,Just Like Paradise,David Lee Roth,37,29,4
+30,So Emotional,Whitney Houston,20,1,15
+31,Love Overboard,Gladys Knight And The Pips,39,31,5
+32,Endless Summer Nights,Richard Marx,40,32,3
+33,853-5937,Squeeze,35,33,8
+34,Be Still My Beating Heart,Sting,42,34,4
+35,Because Of You,The Cover Girls,36,35,11
+36,There's The Girl,Heart,19,12,14
+37,Faith,George Michael,28,1,16
+38,I Want Her,Keith Sweat,48,38,4
+39,Out Of The Blue,Debbie Gibson,57,39,2
+40,Rhythm Of Love,Yes,44,40,8
+41,Hysteria,Def Leppard,55,41,3
+42,Is This Love,Whitesnake,31,2,16
+43,Shake Your Love,Debbie Gibson,32,4,19
+44,(Sittin' On) The Dock Of The Bay,Michael Bolton,59,44,3
+45,Twilight World,Swing Out Sister,50,45,8
+46,"Live My Life (From The Film ""Hiding Out"")",Boy George,51,46,7
+47,Hot Hot Hot,Buster Poindexter & His Banshees Of Blue,49,47,9
+48,Man In The Mirror,Michael Jackson,-1,48,1
+49,Never Thought (That I Could Love),Dan Hill,54,49,9
+50,Rocket 2 U,The Jets,60,50,3
+51,"Catch Me (I'm Falling) (From The Film ""Hiding Out"")",Pretty Poison,38,8,20
+52,Don't You Want Me,Jody Watley,41,6,19
+53,Cherry Bomb,John Mellencamp,34,8,16
+54,I Need A Man,Eurythmics,46,46,8
+55,True Faith,New Order,43,32,16
+56,Wishing Well,Terence Trent D'Arby,63,56,4
+57,Girlfriend,Pebbles,74,57,2
+58,Angel,Aerosmith,81,58,2
+59,All I Want Is You,Carly Simon,72,59,3
+60,Never Can Say Goodbye,The Communards,68,60,2
+61,You Don't Know,Scarlett & Black,69,61,2
+62,Never Knew Love Like This,Alexander O'Neal Featuring Cherrelle,70,62,3
+63,When We Was Fab,George Harrison,-1,63,1
+64,Never Let Me Down Again,Depeche Mode,65,64,7
+65,How Can I Forget You,Elisa Fiorillo,71,65,3
+66,Check It Out,John Mellencamp,-1,66,1
+67,Power Of Love,Laura Branigan,45,26,16
+68,Some Kind Of Lover,Jody Watley,76,68,2
+69,Save Your Love,Great White,77,69,3
+70,In God's Country,U2,47,44,10
+71,Hot In The City,Billy Idol,58,23,26
+72,Rock Of Life,Rick Springfield,-1,72,1
+73,Valerie,Steve Winwood,53,9,22
+74,It's The End Of The World As We Know It (And I Feel Fine),R.E.M.,83,74,2
+75,Lonely Won't Leave Me Alone,Glenn Medeiros,67,67,8
+76,Just Like Heaven,The Cure,61,40,18
+77,(I've Had) The Time Of My Life,Bill Medley & Jennifer Warnes,56,1,20
+78,Lover's Lane,Georgio,75,59,10
+79,Heaven Is A Place On Earth,Belinda Carlisle,52,1,20
+80,Hot Thing,Prince,-1,80,1
+81,Coming Up You,The Cars,84,80,3
+82,That's What Love Is All About,Michael Bolton,66,19,23
+83,You Will Know,Stevie Wonder,-1,83,1
+84,Don't Look Any Further,The Kane Gang,-1,84,1
+85,Animal,Def Leppard,79,19,18
+86,Reason To Live,KISS,64,64,10
+87,I Can't Help It,Bananarama,80,47,12
+88,Dude (Looks Like A Lady),Aerosmith,62,14,19
+89,The Motion Of Love,Gene Loves Jezebel,-1,89,1
+90,I Heard It Through The Grapevine,The California Raisins,85,84,3
+91,Rain In The Summertime,The Alarm,78,71,8
+92,Should've Known Better,Richard Marx,73,3,20
+93,Without You,Peabo Bryson & Regina Belle,-1,93,1
+94,Burning Like A Flame,Dokken,82,72,8
+95,Stimulation,Wa Wa Nee,86,86,2
+96,We'll Be Together,Sting,88,7,18
+97,Love Will Find A Way,Yes,89,30,19
+98,In My Dreams,REO Speedwagon,95,19,30
+99,You And Me Tonight,Deja,87,54,12
+100,I Think We're Alone Now,Tiffany,96,1,24

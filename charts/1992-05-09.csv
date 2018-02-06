@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Jump,Kris Kross,1,1,6
+2,Bohemian Rhapsody,Queen,4,2,32
+3,Save The Best For Last,Vanessa Williams,2,1,15
+4,Tears In Heaven,Eric Clapton,3,2,14
+5,My Lovin' (You're Never Gonna Get It),En Vogue,5,5,8
+6,Live And Learn,Joe Public,8,6,9
+7,Ain't 2 Proud 2 Beg,TLC,6,6,12
+8,Under The Bridge,Red Hot Chili Peppers,12,8,6
+9,Everything About You,Ugly Kid Joe,9,9,6
+10,Make It Happen,Mariah Carey,7,5,12
+11,Hazard,Richard Marx,10,9,13
+12,One,U2,13,12,9
+13,Thought I'd Died And Gone To Heaven,Bryan Adams,17,13,9
+14,In The Closet,Michael Jackson,26,14,3
+15,Let's Get Rocked,Def Leppard,18,15,5
+16,Masterpiece,Atlantic Starr,11,3,15
+17,Everything Changes,Kathy Troccoli,16,14,12
+18,Beauty And The Beast,Celine Dion And Peabo Bryson ,14,9,17
+19,Will You Marry Me?,Paula Abdul,21,19,6
+20,Human Touch/Better Days,Bruce Springsteen,20,16,8
+21,I'm The One You Need,Jody Watley,22,21,10
+22,Breakin' My Heart (Pretty Brown Eyes),Mint Condition,15,6,19
+23,I Can't Dance,Genesis,19,7,15
+24,Baby Got Back,Sir Mix-A-Lot,31,24,5
+25,Damn I Wish I Was Your Lover,Sophie B. Hawkins,37,25,4
+26,Money Don't Matter 2 Night,Prince And The N.P.G.,28,26,7
+27,Remember The Time,Michael Jackson,23,3,16
+28,Nu Nu,Lidell Townsell,33,28,11
+29,Take Time,Chris Walker,30,29,9
+30,To Be With You,Mr. Big,27,1,21
+31,We Got A Love Thang,CeCe Peniston,24,20,15
+32,Come As You Are,Nirvana,32,32,8
+33,Just Take My Heart,Mr. Big,41,33,5
+34,Good For Me,Amy Grant,29,8,17
+35,I'm Too Sexy,Right Said Fred,25,1,21
+36,Tennessee,Arrested Development,39,36,5
+37,Smells Like Nirvana,"""Weird Al"" Yankovic",45,37,3
+38,If You Asked Me To,Celine Dion,53,38,3
+39,Nothing Else Matters,Metallica,34,34,7
+40,You Think You Know Her,Cause And Effect,46,40,11
+41,I Love Your Smile,Shanice,36,2,25
+42,Thinkin' Back,Color Me Badd,35,16,15
+43,All 4 Love,Color Me Badd,43,1,27
+44,Hold On My Heart,Genesis,79,44,2
+45,Come & Talk To Me,Jodeci,48,45,6
+46,High,The Cure,42,42,6
+47,Lift Me Up,Howard Jones,59,47,5
+48,Why Me Baby?,Keith Sweat,64,48,5
+49,Not The Only One,Bonnie Raitt,61,49,4
+50,Finally,CeCe Peniston,50,5,33
+51,Love Me,Tracie Spencer,56,48,7
+52,Please Don't Go,Boyz II Men,49,49,6
+53,I Will Remember You,Amy Grant,66,53,3
+54,3-2-1 Pump,Redhead Kingpin & The F.B.I.,52,52,7
+55,"Mama, I'm Coming Home",Ozzy Osbourne,40,28,13
+56,Don't Be Afraid,Aaron Hall,47,44,9
+57,The Choice Is Yours,Black Sheep,58,57,11
+58,Justified And Ancient,The KLF Featuring Tammy Wynette,38,11,15
+59,What Goes Around Comes Around,Giggles,51,47,16
+60,Everything's Gonna Be Alright,Naughty By Nature,55,53,14
+61,Do It To Me,Lionel Richie,95,61,2
+62,Silent Prayer,Shanice,72,62,3
+63,Just Another Day,Jon Secada,71,63,4
+64,If You Want It,2nd II None,74,64,6
+65,All Woman,Lisa Stansfield,57,56,10
+66,Missing You Now,Michael Bolton,44,12,16
+67,You Showed Me,Salt-N-Pepa,70,47,15
+68,She's Got That Vibe,R. Kelly & Public Announcement,63,59,9
+69,It's Over Now,L.A. Guns,62,62,9
+70,It's Not A Love Thing,Geoffrey Williams,80,70,8
+71,Oochie Coochie,M.C. Brains,54,21,17
+72,Baby Hold On To Me,Gerald Levert (Duet With Eddie Levert),68,37,13
+73,This Is The Last Time,Laura Enea,78,71,7
+74,Love You All My Lifetime,Chaka Khan,84,74,3
+75,Can't Cry Hard Enough,The Williams Brothers,69,42,14
+76,Don't Talk Just Kiss,Right Said Fred,81,76,4
+77,Your Song,Rod Stewart,87,77,3
+78,If You Go Away,NKOTB,65,16,12
+79,Helluva,Brotherhood Creed,82,79,4
+80,I Wanna Rock,Luke,73,73,8
+81,Romeo & Juliet,Stacy Earl (Featuring The Wild Pair),60,27,12
+82,Boom! I Got Your Boyfriend,MC Luscious,76,61,14
+83,Achy Breaky Heart,Billy Ray Cyrus,-1,83,1
+84,Too Much Passion,The Smithereens,67,37,14
+85,T.L.C.,Linear,-1,85,1
+86,Until Your Love Comes Back Around,RTZ,83,26,17
+87,Goodbye,Tevin Campbell,91,87,5
+88,They Want EFX,Das EFX,-1,88,1
+89,Anything At All,Mitch Malloy,94,89,2
+90,Maria,TKA,85,85,6
+91,What You Give,Tesla,86,86,4
+92,Take My Advice,Kym Sims,-1,92,1
+93,James Brown Is Dead,L.A. Style,92,92,4
+94,Innocent Child,Colourhaus,100,94,2
+95,Church Of Your Heart,Roxette,77,36,11
+96,You Won't See Me Cry,Wilson Phillips,-1,96,1
+97,Sometimes I Rhyme Slow,Nice & Smooth,-1,97,1
+98,White Men Can't Jump,Riff,93,93,2
+99,Never Satisfied,Good 2 Go,-1,99,1
+100,Slow Motion,Color Me Badd,-1,100,1

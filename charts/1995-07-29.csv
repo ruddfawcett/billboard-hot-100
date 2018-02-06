@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Waterfalls,TLC,1,1,8
+2,One More Chance/Stay With Me,The Notorious B.I.G.,2,2,6
+3,Don't Take It Personal (Just One Of Dem Days),Monica,3,2,14
+4,Boombastic/In The Summertime,Shaggy,8,4,11
+5,Kiss From A Rose,Seal,12,5,6
+6,I Can Love You Like That,All-4-One,7,6,7
+7,Water Runs Dry,Boyz II Men,4,2,14
+8,Total Eclipse Of The Heart,Nicki French,5,2,18
+9,Have You Ever Really Loved A Woman?,Bryan Adams,6,1,16
+10,Run-Around,Blues Traveler,10,10,19
+11,Someone To Love,Jon B. Featuring Babyface,11,11,14
+12,"Colors Of The Wind (From ""Pocahontas"")",Vanessa Williams,15,12,6
+13,Scream/Childhood,Michael Jackson & Janet Jackson ,9,5,7
+14,Freek'n You,Jodeci,14,14,7
+15,Let Her Cry,Hootie & The Blowfish,13,9,21
+16,"Hold Me, Thrill Me, Kiss Me, Kill Me (From ""Batman Forever"")",U2,16,16,6
+17,This Ain't A Love Song,Bon Jovi,21,17,8
+18,Every Little Thing I Do,Soul For Real,18,18,13
+19,He's Mine,MoKenStef,23,19,7
+20,"Shy Guy (From ""Bad Boys"")",Diana King,22,13,18
+21,Feel Me Flow,Naughty By Nature,17,17,8
+22,Come And Get Your Love,Real McCoy,27,22,8
+23,Misery,Soul Asylum,25,20,5
+24,Freak Like Me,Adina Howard,20,2,25
+25,I Believe,Blessid Union Of Souls,26,8,24
+26,I Know,Dionne Farris,28,4,27
+27,This Is How We Do It,Montell Jordan,24,1,23
+28,December,Collective Soul,29,26,12
+29,Player's Anthem,Junior M.A.F.I.A.,75,29,2
+30,Good,Better Than Ezra,30,30,5
+31,I Got 5 On It,Luniz,31,31,8
+32,Feels So Good,Xscape,32,32,6
+33,I'll Be There For You/You're All I Need To Get By,Method Man Featuring Mary J. Blige,19,3,13
+34,I Wish,Skee-Lo,41,34,14
+35,Best Friend,Brandy,34,34,9
+36,Any Man Of Mine/Whose Bed Have Your Boots Been Under?,Shania Twain,45,36,10
+37,In The House Of Stone And Light,Martin Page,35,14,33
+38,You Used To Love Me,Faith Evans,33,33,5
+39,Brown Sugar,D'Angelo,42,39,5
+40,Hold My Hand,Hootie & The Blowfish,40,10,43
+41,Hold On,Jamie Walters,39,16,27
+42,My Love Is For Real,Paula Abdul,36,28,7
+43,Can't Cry Anymore,Sheryl Crow,55,43,4
+44,Sprinkle Me,E-40 (Featuring Suga T),44,44,6
+45,"No More ""I Love You's""",Annie Lennox,47,23,21
+46,Human Nature,Madonna,46,46,6
+47,So Many Tears,2Pac,52,47,5
+48,Somebody's Crying,Chris Isaak,50,48,8
+49,"Keep Their Heads Ringin' (From ""Friday"")",Dr. Dre,38,10,20
+50,Red Light Special,TLC,48,2,22
+51,Glaciers Of Ice/Criminology,Chef Raekwon,43,43,3
+52,"Can't You See (From ""New Jersey Drive"")",Total Featuring The Notorious B.I.G.,37,13,17
+53,As I Lay Me Down,Sophie B. Hawkins,58,53,9
+54,Made In England,Elton John,65,54,3
+55,"Crazy Love (From ""Jason's Lyric"")",Brian McKnight,51,45,16
+56,'Til You Do Me Right,After 7,56,56,4
+57,Roll To Me,Del Amitri,67,57,4
+58,I Like,Kut Klose,49,34,16
+59,Sugar Hill,AZ,81,59,3
+60,The Bomb! (These Sounds Fall Into My Mind),The Bucketheads,73,60,5
+61,I Love You/You Bring Me Joy,Mary J. Blige,57,57,7
+62,Freak Me Baby,"Dis `N' Dat Feat. 95 South,69 Boyz & K-Nock",62,62,13
+63,Leave Virginia Alone,Rod Stewart,54,52,9
+64,I Wanna Love Like That,Tony Thompson,59,59,10
+65,Shimmy Shimmy Ya,Ol' Dirty Bastard,63,62,11
+66,So In Love With You,U.N.V.,71,65,9
+67,Big Yellow Taxi,Amy Grant,76,67,7
+68,My Up And Down,Adina Howard,74,68,3
+69,The I.N.C. Ride,Masta Ace Incorporated,69,69,14
+70,I Saw You Dancing,Yaki-Da,61,54,9
+71,I Wanna B With U,Fun Factory,82,71,2
+72,Baby Baby,Corona,68,57,12
+73,Sick Of Myself,Matthew Sweet,78,58,10
+74,When You Say Nothing At All,Alison Krauss + Union Station,88,53,12
+75,Can't Stop Lovin' You,Van Halen,77,30,19
+76,Froggy Style,Nuttin' Nyce,72,63,10
+77,Take Your Time (Do It Right),Max-A-Million,94,77,4
+78,Give It 2 You,Da Brat,66,26,16
+79,Survival Of The Fittest,Mobb Deep,80,69,7
+80,"Ask Of You (From ""Higher Learning"")",Raphael Saadiq,70,19,19
+81,Foe Life,Mack 10,84,81,6
+82,Wonderful,Adam Ant,79,39,18
+83,"Remember Me This Way (From ""Casper"")",Jordan Hill,86,83,4
+84,Close To You,Fun Factory,83,46,20
+85,I Can't Tell You Why,Brownstone,89,85,3
+86,Died In Your Arms,Intonation Featuring Joee,90,86,4
+87,Stutter,Elastica,95,87,2
+88,Mind Blowin',Smooth,87,75,6
+89,I Kissed A Girl,Jill Sobule,85,67,10
+90,Connection,Elastica,-1,53,18
+91,Grapevyne,Brownstone,93,49,14
+92,Emotions,H-Town,91,51,15
+93,Strange Currencies,R.E.M.,96,47,14
+94,How Deep Is Your Love,Portrait,100,94,3
+95,Tonight Is The Night,Le Click,99,95,2
+96,I Like It (I Wanna Be Where You Are),Grand Puba,-1,91,7
+97,Vow,Garbage,-1,97,1
+98,Listen Me Tic (Woyoi),Ini Kamoze,-1,98,1
+99,Can't Stop My Heart From Loving You (The Rain Song),Aaron Neville,-1,99,1
+100,Bizarre Love Triangle,New Order,98,98,2

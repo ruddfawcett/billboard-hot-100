@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Monkey,George Michael,2,1,8
+2,I Don't Wanna Go On With You Like That,Elton John,4,2,11
+3,I Don't Wanna Live Without Your Love,Chicago,6,3,13
+4,Sweet Child O' Mine,Guns N' Roses,9,4,10
+5,Simply Irresistible,Robert Palmer,12,5,9
+6,Fast Car,Tracy Chapman,10,6,13
+7,Roll With It,Steve Winwood,1,1,12
+8,Perfect World,Huey Lewis & The News,13,8,7
+9,Love Will Save The Day,Whitney Houston,11,9,9
+10,1-2-3,Gloria Estefan & Miami Sound Machine,3,3,13
+11,Make Me Lose Control,Eric Carmen,5,3,15
+12,Hands To Heaven,Breathe,7,2,20
+13,When It's Love,Van Halen,16,13,9
+14,Sign Your Name,Terence Trent D'Arby,8,4,14
+15,If It Isn't Love,New Edition,18,15,9
+16,I'll Always Love You,Taylor Dayne,19,16,12
+17,Another Part Of Me,Michael Jackson,20,17,6
+18,"Nobody's Fool (Theme From ""Caddyshack II"")",Kenny Loggins,23,18,8
+19,All Fired Up,Pat Benatar,24,19,9
+20,It Would Take A Strong Strong Man,Rick Astley,25,20,7
+21,Hold On To The Nights,Richard Marx,14,1,15
+22,One Good Woman,Peter Cetera,27,22,6
+23,Rag Doll,Aerosmith,17,17,13
+24,Here With Me,REO Speedwagon,28,24,10
+25,"Don't Worry, Be Happy (From ""Cocktail"")",Bobby McFerrin,35,25,5
+26,I Hate Myself For Loving You,Joan Jett & the Blackhearts,33,26,10
+27,Just Got Paid,Johnny Kemp,15,10,16
+28,Please Don't Go Girl,New Kids On The Block,34,28,10
+29,Missed Opportunity,Daryl Hall John Oates,30,29,8
+30,Love Bites,Def Leppard,39,30,3
+31,I Don't Want To Be A Hero, Johnny Hates Jazz,36,31,8
+32,Don't Be Cruel,Cheap Trick,37,32,5
+33,Sayin' Sorry (Don't Make It Right),Denise Lopez,31,31,12
+34,A Nightmare On My Street,D.J. Jazzy Jeff & The Fresh Prince,40,34,5
+35,Pour Some Sugar On Me,Def Leppard,26,2,19
+36,Don't Be Cruel,Bobby Brown,38,36,6
+37,The Twist,Fat Boys,21,16,11
+38,Fallen Angel,Poison,41,38,5
+39,Look Out Any Window,Bruce Hornsby & The Range,42,39,6
+40,What's On Your Mind (Pure Energy),Information Society,49,40,7
+41,Do You Love Me,The Contours,22,3,31
+42,Staying Together,Debbie Gibson,48,42,4
+43,Parents Just Don't Understand,D.J. Jazzy Jeff & The Fresh Prince,29,12,15
+44,The Right Stuff,Vanessa Williams,45,44,6
+45,The Flame,Cheap Trick,32,1,21
+46,Spring Love (Come Back To Me),Stevie B,44,43,8
+47,What You See Is What You Get,Brenda K. Starr,54,47,4
+48,Forever Young,Rod Stewart,53,48,4
+49,True Love,Glenn Frey,63,49,2
+50,Summergirls,Dino,50,50,7
+51,Don't You Know What The Night Can Do?,Steve Winwood,61,51,2
+52,Red Red Wine,UB40,67,34,18
+53,Chains Of Love,Erasure,57,53,5
+54,Better Be Home Soon,Crowded House,43,42,8
+55,Inside Outside,The Cover Girls,55,55,6
+56,Never Tear Us Apart,INXS,68,56,3
+57,Knocked Out,Paula Abdul,47,41,11
+58,Time And Tide,Basia,65,58,6
+59,Make It Last Forever,Keith Sweat (Duet With Jacci McGhee),64,59,6
+60,Off On Your Own (Girl),Al B. Sure!,72,60,4
+61,Superstitious,Europe,70,61,3
+62,The Dead Heart,Midnight Oil,69,62,4
+63,I Know You're Out There Somewhere,The Moody Blues,56,30,13
+64,Tell Me,White Lion,58,58,9
+65,Say It's Gonna Rain,Will To Power,62,49,11
+66,New Sensation,INXS,52,3,16
+67,I Still Believe,Brenda K. Starr,59,13,22
+68,Indestructible,Four Tops,91,68,2
+69,The Colour Of Love,Billy Ocean,46,17,14
+70,Rush Hour,Jane Wiedlin,51,9,17
+71,Always There For You,Stryper,74,71,6
+72,Nice 'N' Slow,Freddie Jackson,78,72,6
+73,Jackie,Blue Zone U.K.,84,73,3
+74,"Wild, Wild West",The Escape Club,94,74,2
+75,Heart Turns To Stone,Foreigner,60,56,7
+76,Mercedes Boy,Pebbles,66,2,17
+77,Love Changes (Everything),Climie Fisher,71,23,16
+78,Another Lover,Giant Steps,89,78,2
+79,Foolish Beat,Debbie Gibson,73,1,19
+80,The Loco-Motion,Kylie Minogue,-1,80,1
+81,Don't Walk Away,Toni Childs,86,81,3
+82,It Takes Two,Rob Base & D.J. E-Z Rock,92,82,2
+83,Supersonic,J.J. Fad,77,30,19
+84,The Rumour,Olivia Newton-John,90,84,2
+85,Naughty Girls (Need Love Too),Samantha Fox,80,3,27
+86,Kiss Me Deadly,Lita Ford,83,12,22
+87,"Mary, Mary",Run-D.M.C.,75,75,5
+88,Long And Lasting Love (Once In A Lifetime),Glenn Medeiros,96,88,3
+89,She's On The Left,Jeffrey Osborne,95,89,2
+90,Sendin' All My Love,The Jets,88,88,3
+91,Ship Of Fools,Robert Plant,-1,91,1
+92,Lost In You,Rod Stewart,82,12,17
+93,"Powerful Stuff (From ""Cocktail"")",The Fabulous Thunderbirds,-1,93,1
+94,Boom! There She Was,Scritti Politti Featuring Roger,76,53,11
+95,When I Fall In Love,Natalie Cole,-1,95,1
+96,Make It Real,The Jets,85,4,20
+97,Nite And Day,Al B. Sure!,81,7,21
+98,Beds Are Burning,Midnight Oil,97,17,22
+99,Nothin' But A Good Time,Poison,93,6,19
+100,Hole In My Heart (All The Way To China),Cyndi Lauper,87,54,8

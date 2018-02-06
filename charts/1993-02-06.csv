@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Will Always Love You,Whitney Houston,1,1,13
+2,If I Ever Fall In Love,Shai,2,2,17
+3,A Whole New World (Aladdin's Theme),Peabo Bryson & Regina Belle,6,3,8
+4,"In The Still Of The Nite (From ""The Jacksons"")",Boyz II Men,3,3,11
+5,"Saving Forever For You (From ""Beverly Hills, 90210"")",Shanice,4,4,16
+6,Rump Shaker,Wreckx-N-Effect,5,2,19
+7,Ordinary World,Duran Duran,21,7,5
+8,7,Prince And The New Power Generation,10,8,11
+9,Deeper And Deeper,Madonna,7,7,10
+10,Mr. Wendal,Arrested Development,13,10,8
+11,Rhythm Is A Dancer,Snap!,9,5,26
+12,When She Cries,Restless Heart,11,11,13
+13,Good Enough,Bobby Brown,8,7,17
+14,"I'm Every Woman (From ""The Bodyguard"")",Whitney Houston,22,14,5
+15,Here We Go Again!,Portrait,17,15,13
+16,"I'd Die Without You (From ""Boomerang"")",P.M. Dawn,12,3,22
+17,"Give It Up, Turn It Loose",En Vogue,15,15,10
+18,Walk On The Ocean,Toad The Wet Sprocket,18,18,13
+19,Faithful,Go West,14,14,14
+20,Rebirth Of Slick (Cool Like Dat),Digable Planets,30,20,4
+21,Don't Walk Away,Jade,27,21,8
+22,Real Love,Mary J. Blige,16,7,24
+23,Ditty,Paperboy,23,23,8
+24,Do You Believe In Us,Jon Secada,19,13,20
+25,Get Away,Bobby Brown,31,25,4
+26,What About Your Friends,TLC,20,7,23
+27,I Got A Thang 4 Ya!,Lo-Key?,29,27,13
+28,Hip Hop Hooray,Naughty By Nature,84,28,2
+29,Informer,Snow,43,29,5
+30,I Love You Period,Dan Baird,26,26,10
+31,No Ordinary Love,Sade,28,28,14
+32,Steam,Peter Gabriel,32,32,8
+33,To Love Somebody,Michael Bolton,24,11,17
+34,"End Of The Road (From ""Boomerang"")",Boyz II Men,33,1,30
+35,I Got A Man,Positive K,49,35,8
+36,Love Can Move Mountains,Celine Dion,36,36,12
+37,Stand Up (Kick Love Into Motion),Def Leppard,34,34,9
+38,Never A Time,Genesis,25,21,14
+39,Walking On Broken Glass,Annie Lennox,35,14,23
+40,Bed Of Roses,Bon Jovi,55,40,3
+41,No Mistakes,Patty Smyth,41,41,7
+42,Everything's Gonna Be Alright,Father M.C.,47,42,10
+43,Comforter,Shai,54,43,3
+44,Would I Lie To You?,Charles & Eddie,38,13,25
+45,That's What Love Can Do,Boy Krazy,59,45,3
+46,"Nuthin' But A ""G"" Thang",Dr. Dre,95,46,2
+47,Quality Time,Hi-Five,40,38,10
+48,Forever In Love,Kenny G,50,48,8
+49,Little Miss Can't Be Wrong,Spin Doctors,37,17,17
+50,The Last Song,Elton John,42,23,15
+51,"Love Shoulda Brought You Home (From ""Boomerang"")",Toni Braxton,45,33,13
+52,It's Gonna Be A Lovely Day,The S.O.U.L. S.Y.S.T.E.M.,39,34,11
+53,"The Right Kind Of Love (From ""Beverly Hills, 90210"")",Jeremy Jordan,56,53,9
+54,Gangsta,Bell Biv DeVoe,44,21,13
+55,Layla,Eric Clapton,53,12,19
+56,Heal The World,Michael Jackson,52,52,9
+57,Murder She Wrote,Chaka Demus & Pliers,60,57,6
+58,Understand This Groove,Sound Factory,62,58,7
+59,Dazzey Duks,Duice,67,59,5
+60,Stand,Poison,65,60,2
+61,Flex,Mad Cobra,51,13,17
+62,Irresistible,Cathy Dennis,70,62,7
+63,I'm Gonna Get You,Bizarre Inc,77,63,3
+64,Two Princes,Spin Doctors,85,64,2
+65,Angel,Jon Secada,83,65,2
+66,"Love Is (From ""Beverly Hills, 90210"")",Vanessa Williams/Brian McKnight,75,66,3
+67,Reminisce,Mary J. Blige ,66,57,8
+68,Homies,Lighter Shade Of Brown,64,57,9
+69,How Do You Talk To An Angel,The Heights,58,1,19
+70,Slow And Sexy,Shabba Ranks (Featuring Johnny Gill),63,33,16
+71,Little Bird,Annie Lennox,78,71,3
+72,Feels Like Heaven,Peter Cetera (Duet With Chaka Khan),79,72,3
+73,Where You Goin' Now,Damn Yankees,61,20,18
+74,I Don't Care,Shakespear's Sister,57,55,11
+75,Tell The Truth,Jude Cole,81,75,3
+76,Speed,Alpha Team,89,76,2
+77,Baby I'm For Real/Natural High,After 7,72,55,14
+78,Someone To Hold,Trey Lorenz,71,19,19
+79,Who's Gonna Ride Your Wild Horses,U2,68,35,14
+80,Gangsta Bitch,Apache,87,80,2
+81,Punks Jump Up To Get Beat Down,Brand Nubian,88,77,6
+82,Lights,Journey,74,68,14
+83,"It's Alright (From ""South Central"")",Classic Example,76,68,13
+84,Drive,R.E.M.,69,28,15
+85,Erotica,Madonna,86,3,17
+86,I Wish The Phone Would Ring,Expose,73,28,15
+87,Get Up (Move Boy Move),AB Logic,92,83,7
+88,Sleeping With You,Firehouse,80,78,7
+89,Love's Taken Over,Chante Moore,90,86,7
+90,Sexual,Goddess,82,74,9
+91,Shamrocks And Shenanigans (Boom Shalock Lock Boom),House Of Pain,93,65,9
+92,Hat 2 Da Back,TLC,-1,92,1
+93,Man On The Moon,R.E.M.,-1,93,1
+94,I'm So Into You,SWV,-1,94,1
+95,Happy Days,Silk,-1,95,1
+96,Losin' Myself,Debbie Gibson,-1,96,1
+97,These Are Days,"10,000 Maniacs",94,66,11
+98,Keep The Faith,Bon Jovi,91,29,16
+99,This Could Be The One,Bad Company,96,87,8
+100,Games,Chuckii Booker,97,68,12

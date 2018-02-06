@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Together Forever,Rick Astley,2,1,10
+2,One More Try,George Michael,1,1,10
+3,Foolish Beat,Debbie Gibson,6,3,9
+4,Dirty Diana,Michael Jackson,8,4,7
+5,Make It Real,The Jets,7,5,10
+6,Everything Your Heart Desires,Daryl Hall John Oates,3,3,10
+7,Circle In The Sand,Belinda Carlisle,9,7,10
+8,The Valley Road,Bruce Hornsby & The Range,10,8,8
+9,The Flame,Cheap Trick,13,9,11
+10,Alphabet St.,Prince,12,10,8
+11,Mercedes Boy,Pebbles,20,11,7
+12,Kiss Me Deadly,Lita Ford,16,12,12
+13,Nothin' But A Good Time,Poison,17,13,9
+14,I Still Believe,Brenda K. Starr,15,14,12
+15,We All Sleep Alone,Cher,14,14,11
+16,Shattered Dreams,Johnny Hates Jazz,4,2,14
+17,Nite And Day,Al B. Sure!,18,17,11
+18,Pour Some Sugar On Me,Def Leppard,21,18,9
+19,Naughty Girls (Need Love Too),Samantha Fox,5,3,17
+20,New Sensation,INXS,23,20,6
+21,Beds Are Burning,Midnight Oil,24,21,12
+22,Piano In The Dark,Brenda Russell Featuring Joe Esposito,11,6,18
+23,Anything For You,Gloria Estefan & Miami Sound Machine,19,1,15
+24,Under The Milky Way, The Church,27,24,11
+25,Hold On To The Nights,Richard Marx,31,25,5
+26,Lost In You,Rod Stewart,29,26,7
+27,Rush Hour,Jane Wiedlin,33,27,7
+28,Hands To Heaven,Breathe,34,28,10
+29,Tall Cool One,Robert Plant,32,29,10
+30,Supersonic,J.J. Fad,37,30,9
+31,Paradise,Sade,40,31,6
+32,Make Me Lose Control,Eric Carmen,41,32,5
+33,Roll With It,Steve Winwood,53,33,2
+34,Black And Blue,Van Halen,43,34,5
+35,Heart Of Mine,Boz Scaggs,39,35,8
+36,Parents Just Don't Understand,D.J. Jazzy Jeff & The Fresh Prince,46,36,5
+37,Two Occasions,The Deele,26,10,17
+38,Wait,White Lion,25,8,17
+39,I Don't Want To Live Without You,Foreigner,22,5,14
+40,Sign Your Name,Terence Trent D'Arby,49,40,4
+41,Should I Say Yes?,Nu Shooz,42,41,10
+42,The Colour Of Love,Billy Ocean,48,42,4
+43,Just Got Paid,Johnny Kemp,52,43,6
+44,I Should Be So Lucky,Kylie Minogue,50,44,7
+45,Love Changes (Everything), Climie Fisher,56,45,6
+46,1-2-3,Gloria Estefan & Miami Sound Machine,59,46,3
+47,I Don't Wanna Live Without Your Love,Chicago,58,47,3
+48,Trouble,Nia Peeples,55,48,6
+49,Angel,Aerosmith,45,3,21
+50,Tomorrow People,Ziggy Marley And The Melody Makers,60,50,6
+51,Forgive Me For Dreaming,Elisa Fiorillo,57,51,7
+52,Electric Blue,Icehouse,36,7,19
+53,Dreaming,Orchestral Manoeuvres In The Dark,30,16,15
+54,When We Kiss,Bardeux,38,36,10
+55,Promise Me,The Cover Girls,51,40,13
+56,"Da'Butt (From The ""School Daze"" Soundtrack)",E.U.,47,35,10
+57,Wishing Well,Terence Trent D'Arby,44,1,23
+58,Do You Love Me,The Contours,76,3,21
+59,Always On My Mind,Pet Shop Boys,28,4,13
+60,I Don't Wanna Go On With You Like That,Elton John,-1,60,1
+61,Rag Doll,Aerosmith,70,61,3
+62,Strange But True,Times Two,35,21,15
+63,Darlin' Danielle Don't,Henry Lee Summer,69,63,4
+64,Little Walter,Tony Toni Tone,72,64,4
+65,You Have Placed A Chill In My Heart,Eurythmics,73,65,4
+66,Rooty Toot Toot,John Mellencamp,61,61,6
+67,Pink Cadillac,Natalie Cole,54,5,16
+68,Route 66/Behind The Wheel,Depeche Mode,66,61,7
+69,Most Of All,Jody Watley,64,60,8
+70,Wishing I Was Lucky,Wet Wet Wet,77,70,4
+71,I Know You're Out There Somewhere,The Moody Blues,78,71,3
+72,In Your Soul,Corey Hart,79,72,2
+73,Fast Car,Tracy Chapman,91,73,3
+74,I'll Always Love You,Taylor Dayne,82,74,2
+75,Colors,Ice-T,86,75,2
+76,"Wild, Wild West",Kool Moe Dee,67,62,8
+77,Feelings Of Forever,Tiffany,90,77,2
+78,Take It While It's Hot,Sweet Sensation,74,57,11
+79,The Twist,Fat Boys,-1,79,1
+80,Wait On Love,Michael Bolton,84,80,4
+81,Rhythm Of Love,Scorpions,87,81,3
+82,Where Do Broken Hearts Go,Whitney Houston,63,1,17
+83,Like The Weather,"10,000 Maniacs",68,68,7
+84,Sayin' Sorry (Don't Make It Right),Denise Lopez,96,84,2
+85,Say It's Gonna Rain,Will To Power,-1,85,1
+86,My Girl,Suave,62,20,15
+87,"Get Outta My Dreams, Get Into My Car",Billy Ocean,71,1,19
+88,I'm Still Searching,Glass Tiger,65,31,11
+89,Dreamin' Of Love,Stevie B,88,80,9
+90,Blue Monday 1988,New Order,89,68,8
+91,Pamela,Toto,85,22,18
+92,When You Walk In The Room,Paul Carrack,-1,92,1
+93,Knocked Out,Paula Abdul,-1,93,1
+94,Nightime,Pretty Poison,75,36,12
+95,Boom! There She Was,Scritti Politti Featuring Roger,-1,95,1
+96,Joy,Teddy Pendergrass,-1,96,1
+97,Theme From S-Express,S-Express,-1,97,1
+98,My Love,Julio Iglesias Featuring Stevie Wonder,81,80,5
+99,Prove Your Love,Taylor Dayne,83,7,18
+100,Rocket 2 U,The Jets,80,6,22

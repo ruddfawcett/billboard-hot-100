@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Didn't We Almost Have It All,Whitney Houston,1,1,10
+2,Here I Go Again,Whitesnake,2,2,14
+3,Lost In Emotion,Lisa Lisa And Cult Jam,5,3,10
+4,"I Heard A Rumour (From ""Disorderlies"")",Bananarama,4,4,12
+5,Carrie,Europe,7,5,10
+6,U Got The Look,Prince,10,6,10
+7,Who Will You Run To,Heart,13,7,8
+8,When Smokey Sings,ABC,6,5,14
+9,Paper In Fire,John Mellencamp,14,9,8
+10,One Heartbeat,Smokey Robinson,16,10,12
+11,Casanova,Levert,17,11,8
+12,I Just Can't Stop Loving You,Michael Jackson With Siedah Garrett,3,1,9
+13,Jump Start,Natalie Cole,19,13,11
+14,Causing A Commotion,Madonna,23,14,4
+15,Let Me Be The One,Expose,22,15,8
+16,Bad,Michael Jackson,29,16,3
+17,Touch Of Grey,Grateful Dead,9,9,11
+18,Wipeout,Fat Boys & The Beach Boys,12,12,13
+19,Little Lies,Fleetwood Mac,24,19,6
+20,La Bamba,Los Lobos,8,1,15
+21,I Think We're Alone Now,Tiffany,28,21,6
+22,Can't We Try,Dan Hill (Duet With Vonda Shepard),15,6,18
+23,You Are The Girl,The Cars,26,23,6
+24,Mony Mony,Billy Idol,32,24,5
+25,Doing It All For My Baby,Huey Lewis & The News,11,6,12
+26,Breakout,Swing Out Sister,30,26,8
+27,Fake,Alexander O'Neal,25,25,11
+28,Never Let Me Down,David Bowie,27,27,9
+29,In My Dreams,REO Speedwagon,31,29,12
+30,It's A Sin,Pet Shop Boys,37,30,5
+31,Only In My Dreams,Debbie Gibson,21,4,22
+32,Victim Of Love,Bryan Adams,33,32,7
+33,I Need Love,LL Cool J,18,14,10
+34,Something Real (Inside Me/Inside You),Mr. Mister,36,34,7
+35,Where The Streets Have No Name,U2,43,35,4
+36,Don't Make Me Wait For Love,Kenny G. (Vocal By Lenny Williams),39,36,6
+37,Who Found Who,Jellybean Featuring Elisa Fiorillo,20,16,13
+38,I've Been In Love Before,Cutting Crew,45,38,5
+39,Don't Look Down - The Sequel,Go West,40,39,10
+40,Brilliant Disguise,Bruce Springsteen,-1,40,1
+41,Rock Steady,The Whispers,38,7,18
+42,Holiday,The Other Ones,47,42,10
+43,Notorious,Loverboy,46,43,7
+44,Don't Mean Nothing,Richard Marx,35,3,17
+45,Who's That Girl,Madonna,34,1,13
+46,Let's Work,Mick Jagger,56,46,4
+47,I Won't Forget You,Poison,53,47,5
+48,Dinner With Gershwin,Donna Summer,50,48,7
+49,Silent Morning,Noel,55,49,7
+50,Misfit,Curiosity Killed The Cat,42,42,10
+51,Should've Known Better,Richard Marx,64,51,2
+52,"Come On, Let's Go",Los Lobos,62,52,4
+53,Betcha Say That,Gloria Estefan & Miami Sound Machine,54,53,5
+54,(I've Had) The Time Of My Life,Bill Medley & Jennifer Warnes,73,54,2
+55,No One In The World,Anita Baker,57,55,7
+56,Heaven Is A Place On Earth,Belinda Carlisle,72,56,2
+57,The One I Love,R.E.M.,74,57,3
+58,Hourglass,Squeeze,66,58,3
+59,Heart And Soul,T'Pau,49,4,23
+60,Rock Me,Great White,60,60,7
+61,"I Want Your Sex (From ""Beverly Hills Cop II"")",George Michael,48,2,18
+62,Boys Night Out,Timothy B. Schmit,70,62,3
+63,Love Is Contagious,Taja Sevelle,65,63,4
+64,Sugar Free,Wa Wa Nee,67,64,4
+65,Mary's Prayer,Danny Wilson,44,23,18
+66,That's What Love Is All About,Michael Bolton,68,66,5
+67,Oh Yeah,Yello,51,51,9
+68,One Lover At A Time,Atlantic Starr,58,58,8
+69,Beat Patrol,Starship,83,69,2
+70,Love Power,Dionne Warwick & Jeffrey Osborne,41,12,13
+71,Making Love In The Rain,Herb Alpert,59,35,12
+72,I Don't Think That Man Should Sleep Alone,Ray Parker Jr.,69,68,6
+73,"Catch Me (I'm Falling) (From The Film ""Hiding Out"")",Pretty Poison,84,73,2
+74,Waterfall,Wendy And Lisa,76,74,3
+75,You Win Again,Bee Gees,78,75,3
+76,Love Will Find A Way,Yes,-1,76,1
+77,Shake Your Love,Debbie Gibson,-1,77,1
+78,Satellite,Hooters,-1,78,1
+79,Love Is A House,Force M.D.'s,81,78,6
+80,Don't You Want Me,Jody Watley,-1,80,1
+81,Follow You,Glen Burtnick,91,81,2
+82,Don't Lose Any Sleep,John Waite,85,82,2
+83,Dreamin',Will To Power,75,50,15
+84,Dude (Looks Like A Lady),Aerosmith,-1,84,1
+85,Luka,Suzanne Vega,52,3,18
+86,Back In The High Life Again,Steve Winwood,77,13,19
+87,Crazy Crazy Nights,KISS,94,87,2
+88,I Still Haven't Found What I'm Looking For,U2,63,1,17
+89,Heart And Soul,The Monkees,89,89,2
+90,It's Not Over ('til It's Over),Starship,61,9,15
+91,Give To Live,Sammy Hagar,71,23,16
+92,Happy Together,The Nylons,82,75,6
+93,Rev It Up,Newcity Rockers,86,86,4
+94,He's My Girl,David Hallyday,79,79,6
+95,We Should Be Sleeping,Eddie Money,90,90,3
+96,"Back To Paradise (From ""Revenge Of The Nerds II"")",Thirty Eight Special,80,41,11
+97,These Times Are Hard For Lovers,John Waite,93,53,16
+98,Heartache,Pepsi & Shirlie,95,78,8
+99,Alone,Heart,96,1,21
+100,"Be There (From ""Beverly Hills Cop II"")",The Pointer Sisters,87,42,9

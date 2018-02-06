@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Satisfied,Richard Marx,4,1,8
+2,I'll Be Loving You (Forever),New Kids On The Block,1,1,13
+3,Buffalo Stance,Neneh Cherry,5,3,13
+4,Baby Don't Forget My Number,Milli Vanilli,6,4,9
+5,Good Thing,Fine Young Cannibals,7,5,8
+6,"Wind Beneath My Wings (From ""Beaches"")",Bette Midler,2,1,17
+7,This Time I Know It's For Real,Donna Summer,9,7,10
+8,Every Little Step,Bobby Brown,3,3,14
+9,Miss You Like Crazy,Natalie Cole,12,9,11
+10,Cry,Waterfront,10,10,12
+11,If You Don't Know Me By Now,Simply Red,17,11,8
+12,I Drove All Night,Cyndi Lauper,13,12,8
+13,Express Yourself,Madonna,24,13,4
+14,I Won't Back Down,Tom Petty,18,14,9
+15,Toy Soldiers,Martika,26,15,6
+16,What You Don't Know,Expose,22,16,6
+17,The Doctor,The Doobie Brothers,25,17,6
+18,Close My Eyes Forever,Lita Ford (Duet With Ozzy Osbourne),8,8,17
+19,Veronica,Elvis Costello,23,19,10
+20,Coming Home,Cinderella,21,20,12
+21,"Rock On (From ""Dream A Little Dream"")",Michael Damian,11,1,15
+22,Rooms On Fire,Stevie Nicks,29,22,8
+23,Into The Night,Benny Mardones,27,11,28
+24,Crazy About Her,Rod Stewart,30,24,7
+25,Forever Your Girl,Paula Abdul,20,1,16
+26,So Alive,Love And Rockets,35,26,6
+27,Cuddly Toy (Feel For Me),Roachford,28,25,11
+28,Who Do You Give Your Love To?,Michael Morales,34,28,9
+29,Lay Your Hands On Me,Bon Jovi,37,29,4
+30,Be With You,The Bangles,31,30,8
+31,Pop Singer,John Mellencamp,15,15,9
+32,Where Are You Now?,Jimmy Harnen With Synch,16,10,30
+33,My Brave Face,Paul McCartney,36,33,5
+34,Patience,Guns N' Roses,14,4,12
+35,Once Bitten Twice Shy,Great White,40,35,7
+36,Send Me An Angel '89,Real Life,38,36,7
+37,Soldier Of Love,Donny Osmond,19,2,14
+38,Down Boys,Warrant,39,38,9
+39,I Like It,Dino,41,39,7
+40,Dressed For Success,Roxette,43,40,5
+41,"Batdance (From ""Batman"")",Prince,53,41,2
+42,"On Our Own (From ""Ghostbusters II"")",Bobby Brown,45,42,3
+43,Hey Baby,Henry Lee Summer,44,43,6
+44,Secret Rendezvous,Karyn White,51,44,5
+45,"In Your Eyes (Theme From ""Say Anything"")",Peter Gabriel,48,26,20
+46,Fascination Street,The Cure,46,46,7
+47,Real Love,Jody Watley,32,2,15
+48,Everlasting Love,Howard Jones,33,12,15
+49,Me Myself And I,De La Soul,49,49,4
+50,Fire Woman,The Cult,54,50,5
+51,No More Rhyme,Debbie Gibson,66,51,2
+52,I'll Be There For You,Bon Jovi,42,1,17
+53,Headed For A Heartbreak,Winger,60,53,4
+54,I'm That Type Of Guy,LL Cool J,63,54,3
+55,We Can Last Forever,Chicago,55,55,7
+56,Hooked On You,Sweet Sensation,62,56,16
+57,In My Eyes,Stevie B,61,57,5
+58,Sacred Emotion,Donny Osmond,70,58,2
+59,"After All (Love Theme From ""Chances Are"")",Cher & Peter Cetera,47,6,16
+60,Moonlight On Water,Kevin Raleigh,65,60,6
+61,I Want It All,Queen,50,50,7
+62,The End Of The Innocence,Don Henley,-1,62,1
+63,Praying To A New God,Wang Chung,64,63,5
+64,Joy And Pain,Rob Base & D.J. E-Z Rock,67,64,5
+65,Cold Hearted,Paula Abdul,-1,65,1
+66,Friends,Jody Watley With Eric B. & Rakim,76,66,2
+67,Thinking Of You,SaFire,58,12,21
+68,Second Chance,Thirty Eight Special,52,6,20
+69,"Iko Iko (From ""Rain Man"")",The Belle Stars,59,14,17
+70,Calling It Love,Animotion,79,70,3
+71,Right Next To Me,Whistle ,72,71,4
+72,Cover Of Love,Michael Damian,84,72,2
+73,Like A Prayer,Madonna,56,1,15
+74,Funky Cold Medina,Tone-Loc,68,3,17
+75,She Drives Me Crazy,Fine Young Cannibals,69,1,22
+76,Angel Eyes,The Jeff Healey Band,85,76,2
+77,Yo No Se,Pajama Party,78,77,6
+78,Love Train,Holly Johnson,82,78,2
+79,Nothin (That Compares 2 U),The Jacksons,77,77,4
+80,Girl You Know It's True,Milli Vanilli,73,2,25
+81,Trouble Me,"10,000 Maniacs",98,81,2
+82,Keep On Movin',Soul II Soul (Featuring Caron Wheeler),-1,82,1
+83,Comin' Down Tonight,Thirty Eight Special,-1,83,1
+84,I Wanna Be The One,Stevie B,74,32,19
+85,Closer Than Friends,Surface,80,57,11
+86,Pop Song 89,R.E.M.,87,86,3
+87,Dancing In Heaven (Orbital Be-Bop),Q-feel,96,87,2
+88,Talk It Over,Grayson Hugh,-1,88,1
+89,Through The Storm,Aretha Franklin & Elton John,57,16,11
+90,Gonna Make It,SaFire,-1,90,1
+91,Waiting Game,Swing Out Sister,86,86,4
+92,You Are The One,TKA,91,91,4
+93,Don't Say You Love Me,Billy Squier,-1,93,1
+94,Little Fighter,White Lion,-1,94,1
+95,Little Jackie Wants To Be A Star,Lisa Lisa And Cult Jam,75,29,11
+96,Electric Youth,Debbie Gibson,71,11,13
+97,My One Temptation,Mica Paris,-1,97,1
+98,A Shoulder To Cry On,Tommy Page,89,29,20
+99,Voices Of Babylon,The Outfield,81,25,14
+100,Darlin' I,Vanessa Williams,88,88,4

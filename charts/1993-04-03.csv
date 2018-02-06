@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Informer,Snow,1,1,13
+2,Freak Me,Silk,2,2,7
+3,"Nuthin' But A ""G"" Thang",Dr. Dre,3,2,10
+4,I Have Nothing,Whitney Houston,6,4,6
+5,Don't Walk Away,Jade,4,4,16
+6,"I'm Every Woman (From ""The Bodyguard"")",Whitney Houston,7,4,13
+7,Ordinary World,Duran Duran,5,3,13
+8,Mr. Wendal,Arrested Development,9,6,16
+9,Cat's In The Cradle,Ugly Kid Joe,13,9,8
+10,Bed Of Roses,Bon Jovi,10,10,11
+11,Two Princes,Spin Doctors,11,11,10
+12,A Whole New World (Aladdin's Theme),Peabo Bryson & Regina Belle,8,1,16
+13,Comforter,Shai,15,13,11
+14,Hip Hop Hooray,Naughty By Nature,12,8,10
+15,"Love Is (From ""Beverly Hills, 90210"")",Vanessa Williams/Brian McKnight,20,15,11
+16,I'm So Into You,SWV,19,16,9
+17,"The Right Kind Of Love (From ""Beverly Hills, 90210"")",Jeremy Jordan,14,14,17
+18,I Got A Man,Positive K,17,14,16
+19,Ditty,Paperboy,22,19,16
+20,Forever In Love,Kenny G,18,18,16
+21,That's What Love Can Do,Boy Krazy,21,18,11
+22,I Will Always Love You,Whitney Houston,16,1,21
+23,Angel,Jon Secada,26,23,10
+24,Looking Through Patient Eyes,P.M. Dawn,32,24,3
+25,Rebirth Of Slick (Cool Like Dat),Digable Planets,24,15,12
+26,If I Ever Lose My Faith In You,Sting,31,26,7
+27,7,Prince And The New Power Generation,23,7,19
+28,Sweet Thing,Mary J. Blige,28,28,8
+29,Here We Go Again!,Portrait,25,11,21
+30,Man On The Moon,R.E.M.,30,30,9
+31,It Was A Good Day,Ice Cube,34,31,5
+32,Heal The World,Michael Jackson,29,27,17
+33,Down With The King,Run-D.M.C.,52,33,3
+34,Nothin' My Love Can't Fix,Joey Lawrence,39,34,5
+35,"The Crying Game (From ""The Crying Game"")",Boy George,42,35,4
+36,Get Away,Bobby Brown,27,14,12
+37,If I Ever Fall In Love,Shai,33,2,25
+38,Rhythm Is A Dancer,Snap!,37,5,34
+39,Bad Girl,Madonna,36,36,7
+40,Simple Life,Elton John,45,40,6
+41,So Alone,Men At Large,46,41,7
+42,Hat 2 Da Back,TLC,35,30,9
+43,Dazzey Duks,Duice,47,43,13
+44,Do You Believe In Us,Jon Secada,41,13,28
+45,Rump Shaker,Wreckx-N-Effect,40,2,27
+46,I Feel You,Depeche Mode,44,37,5
+47,Love U More,Sunscreem,54,47,6
+48,I See Your Smile,Gloria Estefan,50,48,7
+49,"Saving Forever For You (From ""Beverly Hills, 90210"")",Shanice,38,4,24
+50,Beautiful Girl,INXS,51,50,7
+51,"In The Still Of The Nite (From ""The Jacksons"")",Boyz II Men,43,3,19
+52,I'm Gonna Get You,Bizarre Inc,48,48,11
+53,Supermodel (You Better Work),RuPaul,55,51,8
+54,Dedicated,R. Kelly & Public Announcement,56,54,6
+55,Romeo,Dolly Parton & Friends,63,55,4
+56,Tap The Bottle,Young Black Teenagers,64,56,5
+57,How I'm Comin',LL Cool J,-1,57,1
+58,Easy,Faith No More,60,58,3
+59,"Give It Up, Turn It Loose",En Vogue,53,15,18
+60,Come In Out Of The Rain,Wendy Moten,62,60,7
+61,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",Baltimora,68,13,28
+62,Passionate Kisses,Mary Chapin Carpenter,57,57,8
+63,What You Won't Do For Love,Go West,65,63,4
+64,Everything's Gonna Be Alright,Father M.C.,61,37,18
+65,Love Don't Love You,En Vogue,67,65,2
+66,Three Little Pigs,Green Jelly,79,66,2
+67,Shoop Shoop (Never Stop Givin' You Love),Michael Cooper,69,67,4
+68,Candy Everybody Wants,"10,000 Maniacs",78,68,5
+69,Connected,Stereo MC's,93,69,2
+70,She's Not Cryin' Anymore,Billy Ray Cyrus,74,70,4
+71,Tell Me What You Dream,Restless Heart Featuring Warren Hill,82,71,2
+72,Somebody Love Me,Michael W. Smith,76,72,4
+73,Buddy X,Neneh Cherry,90,73,2
+74,Homies,Lighter Shade Of Brown,80,57,17
+75,Murder She Wrote,Chaka Demus & Pliers,72,57,14
+76,Closer,Remedy,86,76,2
+77,The Morning Papers,Prince And The New Power Generation,-1,77,1
+78,Understand This Groove,Sound Factory,84,58,15
+79,Little Bird,Annie Lennox,66,49,11
+80,Good Ol' Days,Levert,100,80,3
+81,Throw Ya Gunz,Onyx,-1,81,1
+82,I'll Never Get Over You (Getting Over Me),Expose,92,82,2
+83,Kiss Of Life,Sade,83,83,3
+84,Funky Child,Lords Of The Underground,87,84,2
+85,Tell The Truth,Jude Cole,70,57,11
+86,Roll Wit Tha Flava,The Flavor Unit MC's,-1,86,1
+87,Knock-N-Boots,Wreckx-N-Effect,85,72,7
+88,No Mistakes,Patty Smyth,71,33,15
+89,Save Your Love,Bad Boys Blue,81,81,4
+90,Reminisce,Mary J. Blige,94,57,16
+91,Tonight,Def Leppard,-1,91,1
+92,Love Me Or Leave Me Alone,Brand Nubian,-1,92,1
+93,Born 2 B.R.E.E.D.,Monie Love,98,89,4
+94,Typical Reasons (Swing My Way),Prince Markie Dee And The Soul Convention,-1,94,1
+95,Show Me Love,Robin S.,-1,95,1
+96,Stand,Poison,77,50,10
+97,Who Got The Props,Black Moon,96,86,6
+98,If I Could,Regina Belle,-1,98,1
+99,Gangsta Bitch,Apache,99,67,10
+100,Love Me The Right Way,Rapination & Kym Mazelle,97,97,3

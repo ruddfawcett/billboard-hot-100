@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,La Bamba,Los Lobos,2,1,10
+2,Who's That Girl,Madonna,1,1,8
+3,Don't Mean Nothing,Richard Marx,4,3,12
+4,Luka,Suzanne Vega,3,3,13
+5,Only In My Dreams,Debbie Gibson,7,5,17
+6,I Just Can't Stop Loving You,Michael Jackson With Siedah Garrett,10,6,4
+7,Rock Steady,The Whispers,8,7,13
+8,Didn't We Almost Have It All,Whitney Houston,16,8,5
+9,It's Not Over ('til It's Over),Starship,11,9,10
+10,Can't We Try,Dan Hill (Duet With Vonda Shepard),12,10,13
+11,I Still Haven't Found What I'm Looking For,U2,6,1,12
+12,Love Power,Dionne Warwick & Jeffrey Osborne,13,12,8
+13,"I Want Your Sex (From ""Beverly Hills Cop II"")",George Michael,5,2,13
+14,Doing It All For My Baby,Huey Lewis & The News,19,14,7
+15,Here I Go Again,Whitesnake,20,15,9
+16,When Smokey Sings,ABC,18,16,9
+17,Living In A Box,Living In A Box,17,17,11
+18,Heart And Soul,T'Pau,9,4,18
+19,Touch Of Grey,Grateful Dead,25,19,6
+20,Wipeout,Fat Boys & The Beach Boys,23,20,8
+21,"I Heard A Rumour (From ""Disorderlies"")",Bananarama,26,21,7
+22,Back In The High Life Again,Steve Winwood,15,13,14
+23,Give To Live,Sammy Hagar,24,23,11
+24,I Need Love,LL Cool J,31,24,5
+25,Who Found Who,Jellybean Featuring Elisa Fiorillo,33,25,8
+26,Mary's Prayer,Danny Wilson,28,26,13
+27,Lies,Jonathan Butler,30,27,10
+28,"Cross My Broken Heart (From ""Beverly Hills Cop II"")",The Jets,14,7,13
+29,One Heartbeat,Smokey Robinson,36,29,7
+30,Lost In Emotion,Lisa Lisa And Cult Jam,37,30,5
+31,Carrie,Europe,38,31,5
+32,Jam Tonight,Freddie Jackson,35,32,10
+33,Jump Start,Natalie Cole,40,33,6
+34,"Shakedown (From ""Beverly Hills Cop II"")",Bob Seger,22,1,15
+35,U Got The Look, Prince,43,35,5
+36,Rhythm Is Gonna Get You,Gloria Estefan & Miami Sound Machine,21,5,14
+37,Paper In Fire,John Mellencamp,45,37,3
+38,Who Will You Run To,Heart,46,38,3
+39,Making Love In The Rain,Herb Alpert,44,39,7
+40,Alone,Heart,29,1,16
+41,Since You've Been Gone,The Outfield,32,31,12
+42,The Pleasure Principle,Janet Jackson,34,14,15
+43,"Back To Paradise (From ""Revenge Of The Nerds II"")",Thirty Eight Special,47,43,6
+44,Seven Wonders,Fleetwood Mac,27,19,11
+45,Casanova,Levert,63,45,3
+46,Fake,Alexander O'Neal,52,46,6
+47,Let Me Be The One,Expose,58,47,3
+48,Never Let Me Down,David Bowie,57,48,4
+49,"Be There (From ""Beverly Hills Cop II"")",The Pointer Sisters,59,49,4
+50,Wot's It To Ya,Robbie Nevil,39,10,14
+51,I'd Still Say Yes,Klymaxx,42,18,18
+52,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston,41,1,16
+53,Shattered Glass,Laura Branigan,48,48,9
+54,Victim Of Love,Bryan Adams,75,54,2
+55,In My Dreams,REO Speedwagon,62,55,7
+56,Dreamin',Will To Power,50,50,10
+57,Something Real (Inside Me/Inside You),Mr. Mister,73,57,2
+58,Don't Look Down - The Sequel,Go West,66,58,5
+59,Misfit,Curiosity Killed The Cat,65,59,5
+60,Oh Yeah,Yello,72,60,4
+61,Johnny B,Hooters,64,61,7
+62,"Good Times (From ""The Lost Boys"")",INXS & Jimmy Barnes,51,47,11
+63,Kiss Him Goodbye,The Nylons,49,12,16
+64,Something So Strong,Crowded House,56,7,18
+65,You Are The Girl,The Cars,-1,65,1
+66,Little Lies,Fleetwood Mac,-1,66,1
+67,Holiday,The Other Ones,74,67,5
+68,"Girls, Girls, Girls",Motley Crue,54,12,14
+69,Say You Really Want Me,Kim Wilde,53,44,7
+70,One Lover At A Time,Atlantic Starr,77,70,3
+71,Show Me The Way,Regina Belle,68,68,7
+72,Kiss And Tell,The Breakfast Club,55,48,8
+73,Breakout,Swing Out Sister,80,73,3
+74,World Where You Live,Crowded House,78,74,4
+75,Why Can't I Be You?,The Cure,61,54,11
+76,Dinner With Gershwin,Donna Summer,85,76,2
+77,Notorious,Loverboy,91,77,2
+78,Point Of No Return,Expose,60,5,17
+79,Don't Make Me Wait For Love,Kenny G. (Vocal By Lenny Williams),-1,79,1
+80,Hearts On Fire,Bryan Adams,67,26,12
+81,Silent Morning,Noel,82,81,2
+82,Heartache,Pepsi & Shirlie,86,82,3
+83,These Times Are Hard For Lovers,John Waite,79,53,11
+84,I Think We're Alone Now,Tiffany,-1,84,1
+85,Watching Over You,Glenn Medeiros,84,80,5
+86,Women,Def Leppard,94,86,2
+87,Rock Me,Great White,96,87,2
+88,I Don't Think That Man Should Sleep Alone,Ray Parker Jr.,-1,88,1
+89,Painted Moon,The Silencers,89,89,4
+90,Let's Dance,Chris Rea,-1,90,1
+91,Don't Disturb This Groove,The System,69,4,21
+92,Happy Together,The Nylons,-1,92,1
+93,No One In The World,Anita Baker,95,93,2
+94,Songbird,Kenny G,70,4,22
+95,Strangelove,Depeche Mode,76,76,6
+96,Tina Cherry,Georgio,-1,96,1
+97,Love Is A House,Force M.D.'s,-1,97,1
+98,He's My Girl,David Hallyday,-1,98,1
+99,Jane's Getting Serious,Jon Astley,81,77,10
+100,Running In The Family,Level 42,83,83,4

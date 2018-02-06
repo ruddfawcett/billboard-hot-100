@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,On Bended Knee,Boyz II Men,1,1,9
+2,Creep,TLC,2,2,10
+3,Another Night,Real McCoy,4,3,21
+4,Always,Bon Jovi,5,4,16
+5,"Here Comes The Hotstepper (From ""Ready To Wear"")",Ini Kamoze,3,1,18
+6,I Wanna Be Down,Brandy,6,6,16
+7,Before I Let You Go,BLACKstreet,7,7,13
+8,Take A Bow,Madonna,12,8,5
+9,Tootsee Roll,69 Boyz,8,8,28
+10,I'll Make Love To You,Boyz II Men,9,1,23
+11,Sukiyaki,4PM,13,11,18
+12,You Want This/70's Love Groove,Janet Jackson,10,8,13
+13,I'm The Only One,Melissa Etheridge,11,10,24
+14,Short Dick Man,20 Fingers Featuring Gillette,14,14,19
+15,Secret,Madonna,15,3,15
+16,You Gotta Be,Des'ree,16,16,20
+17,Constantly,Immature,19,17,8
+18,All I Wanna Do,Sheryl Crow,17,2,24
+19,The Rhythm Of The Night,Corona,21,19,10
+20,You Don't Know How It Feels,Tom Petty,22,20,7
+21,"Turn The Beat Around (From ""The Specialist"")",Gloria Estefan,20,13,17
+22,100% Pure Love,Crystal Waters,26,11,34
+23,Practice What You Preach,Barry White,18,18,15
+24,I'll Stand By You,Pretenders,23,16,23
+25,Hold My Hand,Hootie & The Blowfish,25,25,15
+26,The Sweetest Days,Vanessa Williams,24,23,10
+27,Every Day Of The Week,Jade,28,27,8
+28,"New Age Girl (From ""Dumb And Dumber"")",Deadeye Dick,27,27,21
+29,I Belong To You/How Many Ways,Toni Braxton,30,29,16
+30,"December 1963 (Oh, What A Night)",The 4 Seasons,29,14,23
+31,Flava In Ya Ear,Craig Mack,31,9,23
+32,If You Love Me,Brownstone,34,32,6
+33,When Can I See You,Babyface,39,4,31
+34,Wild Night,John Mellencamp With Me'Shell Ndegeocello,46,3,34
+35,Living In Danger,Ace Of Base,32,20,13
+36,Be Happy,Mary J. Blige,33,29,11
+37,Thuggish Ruggish Bone,Bone Thugs-N-Harmony,35,22,18
+38,Playaz Club,Rappin' 4-Tay,40,36,17
+39,"What's The Frequency, Kenneth?",R.E.M.,36,21,17
+40,I Never Seen A Man Cry (aka I Seen A Man Die),Scarface,37,37,9
+41,"Shame (From ""A Low Down Dirty Shame"")",Zhane,47,28,8
+42,I Miss You,N2U,44,42,7
+43,Foolin' Around,Changing Faces,43,43,9
+44,Never Lie,Immature,38,5,25
+45,Do You See,Warren G,42,42,7
+46,Far Behind,Candlebox,51,18,21
+47,Bring The Pain,Method Man,45,45,10
+48,Fa All Y'all,Da Brat,49,37,14
+49,When We Dance,Sting,50,38,12
+50,Mental Picture,Jon Secada,52,46,8
+51,Get Down,Craig Mack,67,51,3
+52,"U Will Know (From ""Jason's Lyric"")",B.M.U. (Black Men United),41,28,15
+53,House Of Love,Amy Grant With Vince Gill,53,53,8
+54,Blind Man,Aerosmith,48,48,10
+55,The Most Beautifullest Thing In This World,Keith Murray,54,50,13
+56,Candy Rain,Soul For Real,71,56,2
+57,Something's Always Wrong,Toad The Wet Sprocket,66,41,16
+58,Doll Parts,Hole,68,58,6
+59,Always And Forever,Luther Vandross,59,59,6
+60,Lucas With The Lid Off,Lucas,61,29,16
+61,Black Coffee,Heavy D & The Boyz,57,57,11
+62,Kitty Kitty,69 Boyz,58,58,6
+63,Get Ready For This,2 Unlimited,65,63,18
+64,Mishale,Andru Donalds,64,64,6
+65,"Sympathy For The Devil (""Interview With The Vampire"")",Guns N' Roses,55,55,3
+66,Dance Naked,John Mellencamp,62,41,12
+67,At Your Best (You Are Love),Aaliyah,69,6,20
+68,Strong Enough,Sheryl Crow,73,68,3
+69,Endless Love,Luther Vandross & Mariah Carey,70,2,19
+70,Fade Into You,Mazzy Star,79,44,20
+71,Get Up On It,Keith Sweat (Featuring Kut Klose),74,62,14
+72,In The House Of Stone And Light,Martin Page,82,72,5
+73,Tic Toc,Lords Of The Underground,84,73,12
+74,"I Can Go Deep (From ""A Low Down Dirty Shame"")",Silk,81,71,10
+75,"Girl, You'll Be A Woman Soon (From ""Pulp Fiction"")",Urge Overkill,76,59,9
+76,Whutcha Want?,Nine,89,76,4
+77,She Don't Use Jelly,The Flaming Lips,83,77,5
+78,Biological Didn't Bother,Shaquille O'Neal,80,78,8
+79,Pickup Man,Joe Diffie,60,60,4
+80,Age Ain't Nothing But A Number,Aaliyah,-1,80,1
+81,(I Could Only) Whisper Your Name,"Harry Connick, Jr.",77,70,13
+82,Big Poppa/Warning,The Notorious B.I.G.,-1,82,1
+83,Redneck Stomp,Jeff Foxworthy,75,75,6
+84,Don't Say Goodbye Girl,Tevin Campbell,85,84,3
+85,Till You Love Me,Reba McEntire,78,78,5
+86,I Apologize,Anita Baker,86,86,3
+87,(She's Got) Skillz,All-4-One,93,87,2
+88,Breakdown,Fu-Schnickens,88,67,13
+89,Pimp Of The Year,Dru Down,94,89,4
+90,Bad Reputation,Freedy Johnston,96,90,4
+91,Get Over It,Eagles,72,31,12
+92,Promise Me,Lil Suzy,90,90,4
+93,"Down 4 Whateva (From ""A Low Down Dirty Shame"")",Nuttin' Nyce,-1,93,1
+94,Out Of Tears,The Rolling Stones,92,60,14
+95,Supernova,Liz Phair,-1,78,13
+96,You Suck,The Murmurs,99,89,5
+97,Whoomp! (There It Went),"Tag Team, Mickey, Minnie, And Goofy",-1,97,1
+98,Undone - The Sweater Song,Weezer,97,57,16
+99,Nika,Vicious,-1,99,1
+100,Body & Soul,Anita Baker,95,36,20

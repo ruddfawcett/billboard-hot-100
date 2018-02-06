@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Sweet Child O' Mine,Guns N' Roses,2,1,12
+2,Simply Irresistible,Robert Palmer,3,2,11
+3,Perfect World,Huey Lewis & The News,6,3,9
+4,Monkey,George Michael,1,1,10
+5,When It's Love,Van Halen,8,5,11
+6,Fast Car,Tracy Chapman,7,6,15
+7,I'll Always Love You,Taylor Dayne,10,7,14
+8,If It Isn't Love,New Edition,9,8,11
+9,"Don't Worry, Be Happy (From ""Cocktail"")",Bobby McFerrin,15,9,7
+10,"Nobody's Fool (Theme From ""Caddyshack II"")",Kenny Loggins,13,10,10
+11,Another Part Of Me,Michael Jackson,12,11,8
+12,I Don't Wanna Go On With You Like That,Elton John,4,2,13
+13,It Would Take A Strong Strong Man,Rick Astley,14,13,9
+14,One Good Woman,Peter Cetera,17,14,8
+15,I Don't Wanna Live Without Your Love,Chicago,5,3,15
+16,Love Bites,Def Leppard,24,16,5
+17,I Hate Myself For Loving You,Joan Jett & the Blackhearts,21,17,12
+18,Don't Be Cruel,Cheap Trick,26,18,7
+19,A Nightmare On My Street,D.J. Jazzy Jeff & The Fresh Prince,28,19,7
+20,Here With Me,REO Speedwagon,23,20,12
+21,Please Don't Go Girl,New Kids On The Block,27,21,12
+22,All Fired Up,Pat Benatar,19,19,11
+23,Don't Be Cruel,Bobby Brown,29,23,8
+24,Love Will Save The Day,Whitney Houston,11,9,11
+25,Fallen Angel,Poison,32,25,7
+26,What's On Your Mind (Pure Energy),Information Society,33,26,9
+27,Hands To Heaven,Breathe,20,2,22
+28,Red Red Wine,UB40,36,28,20
+29,Roll With It,Steve Winwood,16,1,14
+30,Staying Together,Debbie Gibson,34,30,6
+31,1-2-3,Gloria Estefan & Miami Sound Machine,18,3,15
+32,I Don't Want To Be A Hero,Johnny Hates Jazz,31,31,10
+33,Make Me Lose Control,Eric Carmen,22,3,17
+34,What You See Is What You Get,Brenda K. Starr,40,34,6
+35,Forever Young,Rod Stewart,41,35,6
+36,Don't You Know What The Night Can Do?,Steve Winwood,42,36,4
+37,True Love,Glenn Frey,44,37,4
+38,Chains Of Love,Erasure,45,38,7
+39,Sign Your Name,Terence Trent D'Arby ,25,4,16
+40,Hold On To The Nights,Richard Marx,30,1,17
+41,Look Out Any Window,Bruce Hornsby & The Range,35,35,8
+42,Groovy Kind Of Love,Phil Collins,52,42,2
+43,Never Tear Us Apart,INXS,49,43,5
+44,Spring Love (Come Back To Me),Stevie B,47,43,10
+45,"Wild, Wild West",The Escape Club,58,45,4
+46,Time And Tide,Basia,54,46,8
+47,Just Got Paid,Johnny Kemp,39,10,18
+48,Sayin' Sorry (Don't Make It Right),Denise Lopez,38,31,14
+49,Off On Your Own (Girl),Al B. Sure!,55,49,6
+50,The Loco-Motion,Kylie Minogue,64,50,3
+51,Pour Some Sugar On Me,Def Leppard,46,2,21
+52,Superstitious,Europe,56,52,5
+53,Summergirls,Dino ,50,50,9
+54,Indestructible,Four Tops,63,54,4
+55,Rag Doll,Aerosmith,43,17,15
+56,The Dead Heart,Midnight Oil,61,56,6
+57,One Moment In Time,Whitney Houston,-1,57,1
+58,It Takes Two,Rob Base & D.J. E-Z Rock,69,58,4
+59,Another Lover,Giant Steps,66,59,4
+60,Inside Outside,The Cover Girls,57,55,8
+61,The Right Stuff,Vanessa Williams,48,44,8
+62,The Rumour,Olivia Newton-John,68,62,4
+63,Jackie,Blue Zone U.K.,67,63,5
+64,Nice 'N' Slow,Freddie Jackson,65,64,8
+65,Parents Just Don't Understand,D.J. Jazzy Jeff & The Fresh Prince,53,12,17
+66,Missed Opportunity,Daryl Hall John Oates,37,29,10
+67,Make It Last Forever,Keith Sweat (Duet With Jacci McGhee),59,59,8
+68,The Flame,Cheap Trick,51,1,23
+69,Don't Know What You Got (Till It's Gone),Cinderella,74,69,2
+70,She's On The Left,Jeffrey Osborne,73,70,4
+71,Do You Love Me,The Contours,60,3,33
+72,Don't Walk Away,Toni Childs,76,72,5
+73,The Promise,When In Rome,87,73,2
+74,Long And Lasting Love (Once In A Lifetime),Glenn Medeiros,75,74,5
+75,"Powerful Stuff (From ""Cocktail"")",The Fabulous Thunderbirds,79,75,3
+76,Inside A Dream,Jane Wiedlin,86,76,2
+77,The Twist,Fat Boys,62,16,13
+78,"Kokomo (From""Cocktail"" )",The Beach Boys,96,78,2
+79,How Can I Fall?,Breathe,-1,79,1
+80,I Still Believe,Brenda K. Starr,77,13,24
+81,Dance Little Sister,Terence Trent D'Arby,-1,81,1
+82,Better Be Home Soon,Crowded House,71,42,10
+83,Waiting For A Star To Fall,Boy Meets Girl,-1,83,1
+84,Say It's Gonna Rain,Will To Power,72,49,13
+85,Ship Of Fools,Robert Plant,84,84,3
+86,Heart Don't Fail Me Now,Holly Knight,93,86,2
+87,Heart Turns To Stone,Foreigner,80,56,9
+88,What's The Matter Here?,"10,000 Maniacs",94,88,2
+89,Supersonic,J.J. Fad,88,30,21
+90,The Colour Of Love,Billy Ocean,78,17,16
+91,I Know You're Out There Somewhere,The Moody Blues,81,30,15
+92,Knocked Out,Paula Abdul,70,41,13
+93,Pretty Boys And Pretty Girls,Book Of Love,90,90,2
+94,Tell Me,White Lion,82,58,11
+95,Strangelove,Depeche Mode,-1,76,7
+96,Love Changes (Everything),Climie Fisher,85,23,18
+97,"Baby, I Love Your Way/Freebird Medley",Will To Power,-1,97,1
+98,Button Off My Shirt,Paul Carrack,-1,98,1
+99,Always There For You,Stryper,83,71,8
+100,Rush Hour,Jane Wiedlin,89,9,19

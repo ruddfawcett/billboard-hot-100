@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,St. Elmo's Fire (Man In Motion),John Parr,2,1,12
+2,The Power Of Love,Huey Lewis & The News,1,1,11
+3,We Don't Need Another Hero (Thunderdome),Tina Turner,4,3,10
+4,Freeway Of Love,Aretha Franklin,3,3,12
+5,Summer Of '69,Bryan Adams,5,5,11
+6,Money For Nothing,Dire Straits,10,6,9
+7,Cherish,Kool & The Gang,8,7,10
+8,Don't Lose My Number,Phil Collins,11,8,8
+9,You're Only Human (Second Wind),Billy Joel,9,9,9
+10,Pop Life,Prince And The Revolution,13,10,7
+11,Invincible (Theme From The Legend Of Billie Jean),Pat Benatar,12,11,10
+12,Freedom,Wham!,14,12,7
+13,Shout,Tears For Fears,6,1,13
+14,Never Surrender,Corey Hart,7,3,14
+15,Dare Me,The Pointer Sisters,16,15,9
+16,Smokin' In The Boys Room,Motley Crue,17,16,9
+17,Dress You Up,Madonna,23,17,4
+18,Oh Sheila,Ready For The World,26,18,6
+19,Life In One Day,Howard Jones,20,19,10
+20,What About Love?,Heart,15,10,15
+21,Take On Me,a-ha,28,21,9
+22,Shame,The Motels,25,22,8
+23,Saving All My Love For You,Whitney Houston,31,23,4
+24,Cry,Godley & Creme,29,24,8
+25,Lonely Ol' Night,John Mellencamp,30,25,3
+26,There Must Be An Angel,Eurythmics,27,26,6
+27,Mystery Lady,Billy Ocean,24,24,10
+28,If You Love Somebody Set Them Free,Sting,18,3,14
+29,Everytime You Go Away,Paul Young,19,1,18
+30,Every Step Of The Way,John Waite,37,30,5
+31,Who's Holding Donna Now,Debarge,21,6,15
+32,Fortress Around Your Heart,Sting,42,32,3
+33,Dancing In The Street,David Bowie & Mick Jagger,47,33,2
+34,C-I-T-Y,John Cafferty & The Beaver Brown Band,39,34,5
+35,You Spin Me Round (Like A Record),Dead Or Alive,22,11,15
+36,No Lookin' Back,Michael McDonald,40,36,7
+37,Do You Want Crying,Katrina And The Waves,41,37,7
+38,I Got You Babe,UB40,44,38,7
+39,I Wonder If I Take You Home,Lisa Lisa And Clult Jam With Full Force,38,34,14
+40,Spanish Eddie,Laura Branigan,43,40,7
+41,When Your Heart Is Weak,Cock Robin,35,35,13
+42,Lovin' Every Minute Of It,Loverboy,48,42,3
+43,Part-Time Lover,Stevie Wonder,-1,43,1
+44,The Way You Do The Things You Do/My Girl,Daryl Hall John Oates,53,44,2
+45,Glory Days,Bruce Springsteen,32,5,15
+46,Four In The Morning (I Can't Take Anymore),Night Ranger,52,46,3
+47,And We Danced,Hooters,51,47,5
+48,I'm Goin' Down,Bruce Springsteen,-1,48,1
+49,Be Near Me,ABC,56,49,3
+50,Sunset Grill,Don Henley,60,50,2
+51,Rock Me Tonight,Freddie Jackson,33,18,16
+52,Live Every Moment,REO Speedwagon,36,34,9
+53,First Night,Survivor,54,53,4
+54,I'm Gonna Tear Your Playhouse Down,Paul Young,-1,54,1
+55,Love And Pride,King,57,55,8
+56,Down On Love,Foreigner,58,56,4
+57,People Are People,Depeche Mode,46,13,16
+58,Love Theme From St. Elmo's Fire (Instrumental),David Foster,69,58,3
+59,Miami Vice Theme,Jan Hammer,-1,59,1
+60,Tonight It's You,Cheap Trick,62,60,7
+61,Looking Over My Shoulder,'Til Tuesday,66,61,3
+62,Hangin' On A String,Loose Ends,49,43,8
+63,I'll Be Around,What Is This,70,63,4
+64,State Of the Heart,Rick Springfield,34,22,14
+65,Communication,The Power Station,-1,65,1
+66,You Wear It Well,El DeBarge With DeBarge,76,66,2
+67,You Give Good Love,Whitney Houston,50,3,18
+68,Dancin' In The Key Of Life,Steve Arrington,68,68,4
+69,Get It On (Bang A Gong),The Power Station,45,9,14
+70,All Of Me For All Of You,9.9,72,70,3
+71,Wise Up,Amy Grant,74,71,4
+72,You Look Marvelous,Billy Crystal,61,58,7
+73,We Built This City,Starship,-1,73,1
+74,Rebels,Tom Petty And The Heartbreakers,77,74,4
+75,Wild And Crazy Love,Mary Jane Girls,55,42,8
+76,Lay It Down,Ratt,59,40,10
+77,Sentimental Street,Night Ranger,63,8,16
+78,Summertime Girls,Y&T,65,55,9
+79,Test Of Time,The Romantics,90,79,2
+80,Forever,Kenny Loggins,79,40,16
+81,So In Love,Orchestral Manoeuvres In The Dark,86,81,2
+82,Weird Science,Oingo Boingo,93,82,2
+83,Stand By Me,Maurice White,88,83,2
+84,Jesse,Julian Lennon,64,54,6
+85,You Are My Lady,Freddie Jackson,-1,85,1
+86,Stir It Up,Patti LaBelle,78,41,13
+87,Perfect Way,Scritti Politti,-1,87,1
+88,The Search Is Over,Survivor,83,4,21
+89,Not Enough Love In The World,Don Henley,80,34,16
+90,A Little Bit of Heaven,Natalie Cole,-1,90,1
+91,I Want My Girl,Jesse Johnson's Revue,89,76,8
+92,Master & Servant/(Set Me Free) Remotivate Me,Depeche Mode,-1,92,1
+93,In And Out Of Love,Bon Jovi,81,69,6
+94,And She Was,Talking Heads,-1,94,1
+95,Running Up That Hill,Kate Bush,-1,95,1
+96,Power Of Love (You Are My Lady),Air Supply,82,68,5
+97,Raspberry Beret,Prince And The Revolution,67,2,17
+98,A View To A Kill,Duran Duran,71,1,17
+99,Running Back,Urgent,84,79,5
+100,Some People,Belouis Some,75,67,6

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,My Prerogative,Bobby Brown,2,1,13
+2,Two Hearts,Phil Collins,3,2,9
+3,Every Rose Has Its Thorn,Poison,1,1,12
+4,Don't Rush Me,Taylor Dayne,6,4,11
+5,Armageddon It,Def Leppard,9,5,9
+6,In Your Room,The Bangles,5,5,14
+7,Smooth Criminal,Michael Jackson,10,7,10
+8,I Remember Holding You,Boys Club,11,8,13
+9,Put A Little Love In Your Heart,Annie Lennox & Al Green,12,9,11
+10,The Way You Love Me,Karyn White,15,10,14
+11,Waiting For A Star To Fall,Boy Meets Girl,7,5,19
+12,When I'm With You,Sheriff,16,12,15
+13,Born To Be My Baby,Bon Jovi,17,13,8
+14,When The Children Cry,White Lion,19,14,11
+15,Silhouette,Kenny G,13,13,12
+16,Giving You The Best That I Got,Anita Baker,4,3,17
+17,All This Time,Tiffany,18,17,11
+18,Look Away,Chicago,8,1,17
+19,Holding On,Steve Winwood,23,19,8
+20,Little Liar,Joan Jett & the Blackhearts,22,20,12
+21,Straight Up,Paula Abdul,28,21,7
+22,Wild Thing,Tone-Loc,31,22,7
+23,I Wanna Have Some Fun,Samantha Fox,26,23,10
+24,The Lover In Me,Sheena Easton,30,24,11
+25,Welcome To The Jungle,Guns N' Roses,14,7,13
+26,Wild World,Maxi Priest,25,25,12
+27,Walk On Water,Eddie Money,20,9,16
+28,Walking Away,Information Society,34,28,8
+29,"Baby, I Love Your Way/Freebird Medley",Will To Power,21,1,19
+30,She Wants To Dance With Me,Rick Astley,40,30,5
+31,Kiss,The Art Of Noise Featuring Tom Jones,38,31,7
+32,What I Am,Edie Brickell & New Bohemians,41,32,8
+33,Angel Of Harlem,U2,42,33,5
+34,How Can I Fall?,Breathe,24,3,19
+35,Dial My Heart,The Boys,43,35,6
+36,The Promise,When In Rome,29,11,20
+37,You Got It (The Right Stuff),New Kids On The Block,45,37,9
+38,Back On Holiday,Robbie Nevil,39,38,10
+39,Ghost Town,Cheap Trick,33,33,11
+40,I Don't Want Your Love,Duran Duran,27,4,14
+41,Finish What Ya Started,Van Halen,32,13,16
+42,A Little Respect,Erasure,47,42,6
+43,Thanks For My Child,Cheryl Pepsii Riley,35,32,12
+44,Early In The Morning,Robert Palmer,36,19,13
+45,Shake For The Sheik,The Escape Club,50,45,6
+46,"Surrender To Me (From ""Tequila Sunrise"")",Ann Wilson & Robin Zander,53,46,4
+47,Spy In The House Of Love,Was (Not Was),37,16,16
+48,"Kokomo (From""Cocktail"" )",The Beach Boys,44,1,20
+49,As Long As You Follow,Fleetwood Mac,52,49,7
+50,My Heart Can't Tell You No,Rod Stewart,54,50,6
+51,"Wild, Wild West",The Escape Club,46,1,22
+52,Baby Can I Hold You,Tracy Chapman,48,48,11
+53,All She Wants Is,Duran Duran,62,53,4
+54,It's No Secret,Kylie Minogue,55,54,6
+55,The Living Years,Mike + The Mechanics,79,55,2
+56,Cross My Heart,Eighth Wonder,58,56,9
+57,Desire,U2,49,3,16
+58,Bad Medicine,Bon Jovi,51,1,17
+59,New Day For You,Basia,61,59,6
+60,I Beg Your Pardon,Kon Kan,71,60,4
+61,Roni,Bobby Brown,92,61,2
+62,The Loco-Motion,Kylie Minogue,56,3,21
+63,If We Never Meet Again,Tommy Conwell And The Young Rumblers,68,63,5
+64,Don't Know What You Got (Till It's Gone),Cinderella,57,12,20
+65,Not Just Another Girl,Ivan Neville,59,26,15
+66,Anchorage,Michelle Shocked,67,66,6
+67,Girl You Know It's True,Milli Vanilli,83,67,2
+68,Groovy Kind Of Love,Phil Collins,60,1,20
+69,"Don't Worry, Be Happy (From ""Cocktail"")",Bobby McFerrin,73,1,25
+70,Posse On Broadway,Sir Mix-A-Lot,78,70,5
+71,Edge Of A Broken Heart,Vixen,70,26,18
+72,Handle With Care,Traveling Wilburys,63,45,12
+73,"Wild Again (From ""Cocktail"")",Starship,76,73,5
+74,Forever Young,Alphaville,66,65,16
+75,More Than You Know,Martika,84,75,4
+76,"Hippy Hippy Shake (From ""Cocktail"")",The Georgia Satellites,72,45,13
+77,Doctorin' The Tardis,The Timelords,80,77,5
+78,Red Red Wine,UB40,69,1,38
+79,The Great Commandment,Camouflage,91,79,4
+80,Perfect,Fairground Attraction,86,80,5
+81,Dreamin',Vanessa Williams,98,81,2
+82,Kissing A Fool,George Michael,65,5,15
+83,It's Money That Matters,Randy Newman,77,60,11
+84,Symptoms Of True Love,Tracie Spencer,75,38,16
+85,Paradise City,Guns N' Roses,-1,85,1
+86,Way Cool Jr.,Ratt,96,86,2
+87,Killing Me Softly,Al B. Sure!,87,80,9
+88,The Love In Your Eyes,Eddie Money,-1,88,1
+89,"Yeah, Yeah, Yeah",Judson Spence,64,32,14
+90,I Wanna Be Loved,House Of Lords,97,90,2
+91,Forever Young,Rod Stewart,85,12,24
+92,Girls Ain't Nothing But Trouble,D.J. Jazzy Jeff & The Fresh Prince,82,57,12
+93,Never Tear Us Apart,INXS,95,7,23
+94,Love Bites,Def Leppard,94,1,23
+95,Peek-A-Boo,Siouxsie & The Banshees,74,53,14
+96,Don't Tell Me Lies,Breathe,-1,96,1
+97,Let's Put The X In Sex,KISS,-1,97,1
+98,Nobody's Perfect,Mike + The Mechanics,88,63,11
+99,Another Lover,Giant Steps,81,13,22
+100,Don't Be Cruel,Bobby Brown,90,8,26

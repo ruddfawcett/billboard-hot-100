@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Vogue,Madonna,2,1,6
+2,Nothing Compares 2 U,Sinead O'Connor,1,1,10
+3,All I Wanna Do Is Make Love To You,Heart,4,3,8
+4,Hold On,Wilson Phillips,6,4,10
+5,Sending All My Love,Linear,7,5,14
+6,Alright,Janet Jackson,8,6,7
+7,I Wanna Be Rich,Calloway,3,2,15
+8,Poison,Bell Biv DeVoe,10,8,7
+9,"It Must Have Been Love (From ""Pretty Woman"")",Roxette,16,9,7
+10,What It Takes,Aerosmith,9,9,10
+11,This Old Heart Of Mine,Rod Stewart With Ronald Isley,13,11,9
+12,How Can We Be Lovers,Michael Bolton,5,3,12
+13,Love Child,Sweet Sensation,15,13,10
+14,The Humpty Dance,Digital Underground,18,14,10
+15,U Can't Touch This,M.C. Hammer,19,15,4
+16,Ooh La La (I Can't Get Over You),Perfect Gentlemen,23,16,6
+17,Room At The Top,Adam Ant,17,17,11
+18,Your Baby Never Looked Good In Blue,Expose,21,18,8
+19,Don't Wanna Fall In Love,Jane Child,12,2,15
+20,Ready Or Not,After 7,24,20,8
+21,Whip Appeal,Babyface,11,6,13
+22,Turtle Power,Partners In Kryme,30,22,5
+23,All Around The World,Lisa Stansfield,14,3,16
+24,Hold On,En Vogue,32,24,3
+25,Do You Remember?,Phil Collins,36,25,4
+26,Expression,Salt-N-Pepa,27,26,11
+27,"Baby, It's Tonight",Jude Cole,33,27,6
+28,House Of Pain,Faster Pussycat,28,28,13
+29,Children Of The Night,Richard Marx,38,29,4
+30,I'll See You In My Dreams,Giant,37,30,9
+31,I'll Be Your Everything,Tommy Page,25,1,14
+32,Without You,Motley Crue,20,8,13
+33,Save Me,Fleetwood Mac,35,33,7
+34,I'll Be Your Shelter,Taylor Dayne,43,34,3
+35,Cruising For Bruising,Basia,40,35,7
+36,Here And Now,Luther Vandross,26,6,22
+37,Heartbeat,Seduction,22,13,13
+38,Getting Away With It,Electronic,41,38,8
+39,Always And Forever,Whistle,46,39,7
+40,Deadbeat Club,The B-52s,48,40,5
+41,Black Velvet,Alannah Myles,29,1,20
+42,Enjoy The Silence,Depeche Mode,47,42,6
+43,Nicety,Michel'le,51,43,6
+44,Rub You The Right Way,Johnny Gill,49,44,2
+45,Sittin' In The Lap Of Luxury,Louie Louie,54,45,4
+46,The Heart Of The Matter,Don Henley,31,21,14
+47,Love Will Lead You Back,Taylor Dayne,34,1,17
+48,Just A Friend,Biz Markie,42,9,18
+49,Up All Night,Slaughter,64,49,4
+50,She Ain't Worth It,Glenn Medeiros Featuring Bobby Brown,-1,50,1
+51,Notice Me,Nikki,58,51,4
+52,Dare To Fall In Love,Brent Bourgeois,59,52,4
+53,Time After Time,Timmy T.,52,40,11
+54,If U Were Mine,The U-Krew,44,24,17
+55,Get Up! (Before The Night Is Over),Technotronic,45,7,17
+56,"Whole Wide World (From ""True Love"")",A'me Lorain,39,9,18
+57,All That Glitters Isn't Gold,The Cover Girls,50,49,7
+58,Girls Nite Out,Tyler Collins,68,58,4
+59,That's The Way Of The World,D-Mob With Cathy Dennis,65,59,4
+60,Coming Of Age,Damn Yankees,61,60,5
+61,Love Is,Alannah Myles,69,61,3
+62,"Cradle Of Love (From ""Ford Fairlane"")",Billy Idol,70,62,3
+63,This & That,Michael Penn,72,63,4
+64,Get A Life,Soul II Soul,55,54,6
+65,Club At The End Of The Street,Elton John,74,65,4
+66,"The Downeaster ""Alexa""",Billy Joel,71,66,3
+67,The Ballad Of Jayne,L.A. Guns,67,67,7
+68,"""B"" Girls",Young And Restless,78,68,3
+69,When I Dream Of You,Tommy Page,87,69,2
+70,No More Lies,Michel'le,56,7,27
+71,Pictures Of You,The Cure,73,71,5
+72,Mentirosa,Mellow Man Ace,88,72,2
+73,Bad Of The Heart,George LaMond,84,73,2
+74,Forever,KISS,53,8,16
+75,The Power,Snap!,81,75,2
+76,I Wish It Would Rain Down,Phil Collins,57,3,16
+77,The Secret Garden,Quincy Jones,63,31,11
+78,Shake,Andrew Ridgeley,86,78,2
+79,Kiss This Thing Goodbye,Del Amitri,-1,79,1
+80,Heaven Is A 4 Letter Word,Bad English,77,66,6
+81,Try To Find Me,Gorky Park,83,81,4
+82,Moonlight On Water,Laura Branigan,66,59,8
+83,Jealous Again,The Black Crowes,95,83,2
+84,Oye Mi Canto (Hear My Voice),Gloria Estefan,60,48,7
+85,Cuts You Up,Peter Murphy,62,55,9
+86,"Doubleback (From ""Back To The Future Part III"")",ZZ Top,-1,86,1
+87,Pure,Lightning Seeds,-1,87,1
+88,When Something Is Wrong With My Baby,Linda Ronstadt (Featuring Aaron Neville),96,88,2
+89,Spin That Wheel,Hi Tek 3 Featuring Ya Kid K,79,69,6
+90,A Little Love,Corey Hart,75,37,10
+91,Hurting Kind (I've Got My Eyes On You),Robert Plant,80,46,9
+92,Counting The Days,Joey Kid,94,92,3
+93,Got To Tell Me Something,Ana,-1,93,1
+94,Nick Of Time,Bonnie Raitt,-1,94,1
+95,Opposites Attract,Paula Abdul (Duet With The Wild Pair),92,1,23
+96,"King Of Wishful Thinking (From ""Pretty Woman"")",Go West,-1,96,1
+97,The Way It Is,Tesla,85,55,11
+98,All My Life,Linda Ronstadt (Featuring Aaron Neville),76,11,15
+99,Lambada,Kaoma,89,46,12
+100,Drag My Bad Name Down,The 4 Of Us,82,77,5

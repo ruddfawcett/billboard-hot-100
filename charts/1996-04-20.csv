@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Because You Loved Me (From ""Up Close & Personal"")",Celine Dion,1,1,7
+2,Always Be My Baby,Mariah Carey,2,2,3
+3,Nobody Knows,The Tony Rich Project,3,2,19
+4,Ironic,Alanis Morissette,4,4,6
+5,Down Low (Nobody Has To Know),R. Kelly Featuring Ronald Isley,5,4,8
+6,"1, 2, 3, 4 (Sumpin' New)",Coolio,7,6,7
+7,"Sittin' Up In My Room (From ""Waiting To Exhale"")",Brandy,6,2,17
+8,Woo-Hah!! Got You All In Check/Everything Remains Raw,Busta Rhymes,16,8,7
+9,You're The One,SWV,-1,9,1
+10,"Count On Me (From ""Waiting To Exhale"")",Whitney Houston & CeCe Winans,14,10,5
+11,"Not Gon' Cry (From ""Waiting To Exhale"")",Mary J. Blige,8,2,13
+12,Doin It,LL Cool J,9,9,7
+13,Follow You Down/Til I Hear It From You,Gin Blossoms,10,9,11
+14,"All The Things (Your Man Won't Do) (From ""Don't Be A Menace..."")",Joe,11,11,11
+15,Lady,D'Angelo,13,10,8
+16,Missing,Everything But The Girl ,12,2,37
+17,One Sweet Day,Mariah Carey & Boyz II Men,15,1,21
+18,1979,The Smashing Pumpkins,17,12,11
+19,Who Do U Love,Deborah Cox,20,19,12
+20,Be My Lover,La Bouche,18,6,24
+21,"Closer To Free (From ""Party Of Five"")",BoDeans,19,19,7
+22,Wonder,Natalie Merchant,21,21,20
+23,Anything,3T,23,15,29
+24,I Will Survive,Chantay Savage,26,24,10
+25,The World I Know,Collective Soul,22,19,23
+26,I Want To Come Over,Melissa Etheridge,25,22,10
+27,Name,Goo Goo Dolls,27,5,28
+28,One Of Us,Joan Osborne,24,4,20
+29,5 O'Clock,Nonchalant,43,29,8
+30,Just A Girl,No Doubt,32,30,19
+31,Peaches,The Presidents Of The United States Of America,29,29,7
+32,Wonderwall,Oasis,28,8,13
+33,Give Me One Reason,Tracy Chapman,46,33,3
+34,In The Meantime,Spacehog,34,34,3
+35,"Insensitive (From ""Bed Of Roses"")",Jann Arden,38,35,11
+36,Renee,Lost Boyz,39,36,5
+37,Lucky Love,Ace Of Base,30,30,9
+38,"Gangsta's Paradise (From ""Dangerous Minds"")",Coolio Featuring L.V.,37,1,36
+39,Hook,Blues Traveler,36,23,29
+40,Don't Cry,Seal,35,33,10
+41,Before You Walk Out Of My Life/Like This And Like That,Monica,41,7,27
+42,Fu-Gee-La,Fugees,33,29,17
+43,Time,Hootie & The Blowfish,31,14,24
+44,Sweet Dreams,La Bouche,47,44,4
+45,Feels So Good (Show Me Your Love),Lina Santiago,40,35,13
+46,Breakfast At Tiffany's,Deep Blue Something,42,5,36
+47,Get Money,Junior M.A.F.I.A. Featuring The Notorious B.I.G.,48,30,11
+48,"Keep On, Keepin' On (From ""Sunset Park"")",MC Lyte Featuring Xscape,49,48,6
+49,"A Thin Line Between Love & Hate (From ""A Thin Line..."")",H-Town,55,49,10
+50,No One Else,Total,44,22,19
+51,Don't Wanna Lose You,Lionel Richie,56,51,2
+52,Chains,Tina Arena,-1,52,1
+53,Amish Paradise,"""Weird Al"" Yankovic",58,53,4
+54,Do You Want To/Can't Hang,Xscape Featuring MC Lyte,53,50,7
+55,Cumbersome,Seven Mary Three,52,39,14
+56,Glycerine,Bush,51,28,13
+57,"Machinehead (From ""Fear"")",Bush,63,57,2
+58,Only Happy When It Rains,Garbage,59,58,7
+59,Release Me,Angelina,61,59,5
+60,Real Love,The Beatles,54,11,5
+61,Tonite's Tha Night,Kris Kross,60,12,20
+62,Only Love (The Ballad Of Sleeping Beauty),Sophie B. Hawkins,57,49,8
+63,Ain't No Nigga/Dead Presidents,Jay-Z Featuring Foxxy Brown,68,63,3
+64,One For The Money,Horace Brown,67,64,4
+65,"Can't Be Wasting My Time (From ""Don't Be A Menace..."")",Mona Lisa Featuring Lost Boyz,65,65,10
+66,Reach,Gloria Estefan,-1,66,1
+67,Shadowboxin',Genius/GZA Featuring Method Man,72,67,3
+68,Jesus To A Child,George Michael,62,7,9
+69,Can't Get You Off My Mind,Lenny Kravitz,73,69,5
+70,Ain't Nobody/Kissing You,Faith Evans,71,70,2
+71,C'mon N' Ride It (The Train),Quad City DJ's,83,71,6
+72,Slow Jams,Quincy Jones Feat. Babyface & Tamia With Portrai,-1,72,1
+73,Ever Since You Went Away,Art N' Soul,78,73,6
+74,Take A Look,J'Son,74,74,9
+75,Esa Nena Linda,Artie The 1 Man Party,75,75,5
+76,Have I Never,A Few Good Men,77,76,5
+77,"Natural One (From ""Kids"")",Folk Implosion,66,29,20
+78,You'll See,Madonna,64,6,20
+79,Where Do U Want Me To Put It,Solo,69,50,16
+80,Soul Food,Goodie Mob,95,80,4
+81,I Got Id/Long Road,Pearl Jam,70,7,18
+82,We Got It,Immature (Featuring Smooth),81,37,20
+83,Counting Blue Cars,Dishwalla,89,83,3
+84,Stayin' Alive,N-Trance,79,62,14
+85,Envy/Firewater,Fat Joe,85,76,6
+86,Soon As I Get Home,Faith Evans,80,21,20
+87,Scent Of Attraction,Patra Duet With Aaron Hall,82,82,6
+88,Your Loving Arms,Billie Ray Martin,-1,87,11
+89,Keep Tryin',Groove Theory,76,64,11
+90,Give Me...A Reason,Buffy,84,78,6
+91,Love Don't Live Here Anymore,Madonna,-1,91,1
+92,High And Dry,Radiohead,87,78,6
+93,Drop,The Pharcyde,93,93,2
+94,La Familia,Frost,99,77,8
+95,"Visions Of A Sunset (From ""Mr. Holland's Opus"")",Shawn Stockman,86,45,15
+96,"Beware Of My Crew (From ""A Thin Line Between Love And Hate"")",L.B.C. Crew Feat. Tray D & South Sentrell,98,75,19
+97,Let's Play House,Tha Dogg Pound Featuring Michel'le,88,45,16
+98,"Guilty (From ""Seven"")",Gravity Kills,91,91,2
+99,Ain't No Playa,Rappin' 4-Tay,96,73,8
+100,Stairway To Heaven,Pure Soul,92,79,6

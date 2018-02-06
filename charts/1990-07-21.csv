@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,She Ain't Worth It,Glenn Medeiros Featuring Bobby Brown,2,1,10
+2,Hold On,En Vogue,3,2,12
+3,"Cradle Of Love (From ""Ford Fairlane"")",Billy Idol,5,3,12
+4,Rub You The Right Way,Johnny Gill,7,4,11
+5,Vision Of Love,Mariah Carey,14,5,8
+6,Step By Step,New Kids On The Block,1,1,9
+7,The Power,Snap!,9,7,11
+8,Girls Nite Out,Tyler Collins,11,8,13
+9,Enjoy The Silence,Depeche Mode,8,8,15
+10,When I'm Back On My Feet Again,Michael Bolton,13,10,9
+11,"It Must Have Been Love (From ""Pretty Woman"")",Roxette,6,1,16
+12,I'll Be Your Shelter,Taylor Dayne,4,4,12
+13,Poison,Bell Biv DeVoe,10,3,16
+14,Mentirosa,Mellow Man Ace,16,14,11
+15,You Can't Deny It,Lisa Stansfield,18,15,9
+16,"King Of Wishful Thinking (From ""Pretty Woman"")",Go West,19,16,10
+17,Hanky Panky,Madonna,25,17,4
+18,If Wishes Came True,Sweet Sensation,24,18,6
+19,Don't Go Away Mad (Just Go Away),Motley Crue,21,19,8
+20,Make You Sweat,Keith Sweat,20,20,8
+21,Do You Remember?,Phil Collins,12,4,13
+22,Hold On,Wilson Phillips,15,1,19
+23,Come Back To Me,Janet Jackson,30,23,4
+24,Unskinny Bop,Poison,36,24,3
+25,Bad Of The Heart,George LaMond,26,25,11
+26,Jerk Out,The Time,32,26,4
+27,Epic,Faith No More,31,27,5
+28,Could This Be Love,Seduction,29,28,7
+29,Do Me!,Bell Biv DeVoe,48,29,4
+30,Ready Or Not,After 7,17,7,17
+31,Have You Seen Her,M.C. Hammer,46,31,4
+32,Pure,Lightning Seeds,34,32,10
+33,Vogue,Madonna,23,1,15
+34,Possession,Bad English,37,34,7
+35,I Didn't Want To Need You,Heart ,40,35,5
+36,U Can't Touch This,M.C. Hammer,22,8,13
+37,Across The River,Bruce Hornsby & The Range,44,37,5
+38,The Other Side,Aerosmith,45,38,5
+39,Release Me,Wilson Phillips,50,39,4
+40,My Kinda Girl,Babyface,49,40,6
+41,Love And Emotion,Stevie B,51,41,4
+42,The Ballad Of Jayne,L.A. Guns,41,33,16
+43,Sending All My Love,Linear,35,5,23
+44,The Humpty Dance,Digital Underground,27,11,19
+45,The Girl I Used To Know,Brother Beyond,54,45,5
+46,We're All In the Same Gang,The West Coast Rap All-Stars,52,46,5
+47,Talk To Me,Anita Baker,59,47,5
+48,All I Do Is Think Of You,Troop,57,48,3
+49,Sittin' In The Lap Of Luxury,Louie Louie,28,19,13
+50,Tic-Tac-Toe,Kyper,66,50,4
+51,Bang Bang,Danger Danger,60,51,8
+52,Children Of The Night,Richard Marx,39,13,13
+53,All I Wanna Do Is Make Love To You,Heart,43,2,17
+54,The Right Combination,Seiko & Donnie Wahlberg,61,54,6
+55,"Baby, It's Tonight",Jude Cole,47,16,15
+56,Notice Me,Nikki,33,21,13
+57,Club At The End Of The Street,Elton John,42,28,13
+58,"Blaze Of Glory (From ""Young Guns II"")",Jon Bon Jovi,-1,58,1
+59,Cuts Both Ways,Gloria Estefan,67,59,4
+60,Close To You,Maxi Priest,71,60,4
+61,The Emperor's New Clothes,Sinead O'Connor,68,61,5
+62,La Raza,Kid Frost,72,62,3
+63,(Can't Live Without Your) Love And Affection,Nelson,80,63,3
+64,Nothing Compares 2 U,Sinead O'Connor,58,1,19
+65,How Bad Do You Want It?,Don Henley,75,65,3
+66,Oh Girl,Paul Young,88,66,2
+67,The Blues,Tony Toni Tone,63,46,8
+68,Stranger To Love,St. Paul,83,68,3
+69,Can't Stop Falling Into Love,Cheap Trick,-1,69,1
+70,Turtle Power,Partners In Kryme,62,13,14
+71,Love Is,Alannah Myles,56,36,12
+72,Up All Night,Slaughter,55,27,13
+73,Kiss This Thing Goodbye,Del Amitri,38,35,10
+74,I'm Never Gonna Give You Up,The Brat Pack,81,74,4
+75,Nicety,Michel'le,70,29,15
+76,I'll See You In My Dreams,Giant,64,20,18
+77,I Melt With You,Modern English,78,77,12
+78,Welcome To The Real World,Jane Child,53,49,8
+79,"""B"" Girls",Young And Restless,77,54,12
+80,Don't You Come Cryin',Linear,90,80,2
+81,Banned In The U.S.A.,Luke Featuring The 2 Live Crew,-1,81,1
+82,Alright,Janet Jackson,65,4,16
+83,Don't You Love Me,49-ers,82,78,6
+84,Let Me Be Your Lover,The U-Krew,73,68,7
+85,All Lips N' Hips,Electric Boys,92,85,2
+86,A Dreams A Dream,Soul II Soul,85,85,4
+87,All The Way,Calloway,-1,87,1
+88,Same Old Look,Jimmy Ryser,93,88,2
+89,Ooh La La (I Can't Get Over You),Perfect Gentlemen,69,10,15
+90,Summer Vacation,The Party,-1,90,1
+91,"Doubleback (From ""Back To The Future Part III"")",ZZ Top,79,50,10
+92,Dirty Cash (Money Talks),The Adventures Of Stevie V,-1,92,1
+93,Expression,Salt-N-Pepa,84,26,20
+94,Dare To Fall In Love,Brent Bourgeois,76,32,13
+95,First True Love,Tiana,96,95,2
+96,Holy Water,Bad Company,97,96,2
+97,Slow Love,Doc Box & B. Fresh,-1,97,1
+98,What Will I Do,Timmy T.,-1,98,1
+99,Counting The Days,Joey Kid,87,70,12
+100,Follow My Heartbeat,A'me Lorain,74,72,6

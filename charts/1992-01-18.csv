@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Black Or White,Michael Jackson,1,1,9
+2,All 4 Love,Color Me Badd,2,2,11
+3,Can't Let Go,Mariah Carey,3,3,10
+4,Don't Let The Sun Go Down On Me,George Michael/Elton John,8,4,7
+5,Finally,CeCe Peniston,9,5,17
+6,Diamonds And Pearls,Prince And The N.P.G.,13,6,7
+7,I Love Your Smile,Shanice,12,7,9
+8,It's So Hard To Say Goodbye To Yesterday,Boyz II Men,4,2,18
+9,Smells Like Teen Spirit!,Nirvana,6,6,7
+10,Addams Groove,M.C. Hammer,7,7,7
+11,2 Legit 2 Quit,M.C. Hammer,5,5,11
+12,No Son Of Mine,Genesis,16,12,12
+13,Set Adrift On Memory Bliss,P.M. Dawn,11,1,14
+14,Wildside,Marky Mark & The Funky Bunch,10,10,11
+15,Mysterious Ways,U2,20,15,9
+16,Tell Me What You Want Me To Do,Tevin Campbell,17,16,11
+17,The Way I Feel About You,Karyn White,24,17,8
+18,Blowing Kisses In The Wind,Paula Abdul,14,6,14
+19,When A Man Loves A Woman,Michael Bolton,15,1,15
+20,That's What Love Is For,Amy Grant,21,7,17
+21,Keep Coming Back,Richard Marx,22,12,12
+22,Broken Arrow,Rod Stewart,27,22,14
+23,Live For Loving You,Gloria Estefan,25,22,15
+24,Don't Cry,Guns N' Roses,19,10,18
+25,Can't Stop This Thing We Started,Bryan Adams,28,2,19
+26,Keep It Comin',Keith Sweat,31,26,8
+27,Change,Lisa Stansfield,33,27,12
+28,O.P.P.,Naughty By Nature,18,6,20
+29,Forever My Lady,Jodeci,26,25,13
+30,Love Me All Up, Stacy Earl,37,30,10
+31,I'm Too Sexy,Right Said Fred,45,31,5
+32,Is It Good To You,Heavy D & The Boyz,32,32,9
+33,Cream,Prince And The N.P.G.,30,1,17
+34,I've Got A Lot To Learn About Love,The Storm,42,34,13
+35,Uhh Ahh,Boyz II Men,47,35,6
+36,Set The Night To Music,Roberta Flack With Maxi Priest,34,6,18
+37,Home Sweet Home,Motley Crue,38,37,11
+38,Spending My Time,Roxette,36,32,13
+39,I Can't Make You Love Me,Bonnie Raitt,50,39,9
+40,Save Up All Your Tears,Cher,44,37,14
+41,Live And Let Die,Guns N' Roses,41,41,5
+42,Angel Baby,Angelica,29,29,14
+43,The Unforgiven,Metallica,35,35,7
+44,In My Dreams,The Party,53,44,10
+45,Mind Playing Tricks On Me,Geto Boys,23,23,16
+46,Hearts Don't Think (They Feel),Natural Selection,56,46,7
+47,Too Blind To See It,Kym Sims,54,47,10
+48,Send Me An Angel,Scorpions,55,48,11
+49,I Wanna Be Your Girl,Icy Blu,46,46,12
+50,To Be With You,Mr. Big,60,50,5
+51,Kiss You Back,Digital Underground,40,40,10
+52,On A Sunday Afternoon,Lighter Shade Of Brown,43,43,8
+53,Ain't Gonna Hurt Nobody,Kid 'N Play,51,51,10
+54,I'll Get By,Eddie Money,67,54,5
+55,There Will Never Be Another Tonight,Bryan Adams,63,55,5
+56,Ring My Bell,D.J. Jazzy Jeff & The Fresh Prince,49,20,15
+57,Tender Kisses,Tracie Spencer,48,42,14
+58,All She Wrote,Firehouse,59,58,10
+59,Street Of Dreams,Nia Peeples,58,12,15
+60,I Wonder Why,Curtis Stigers,57,9,20
+61,I Want You,Jody Watley,69,61,8
+62,The Comfort Zone,Vanessa Williams,68,62,7
+63,Top Of The World,Van Halen,65,27,15
+64,Housecall,Shabba Ranks (Featuring Maxi Priest),61,37,13
+65,Vibeology,Paula Abdul,-1,65,1
+66,Move Any Mountain,The Shamen,73,66,6
+67,Stay,Jodeci,62,62,3
+68,Can't Truss It,Public Enemy,52,50,14
+69,Good For Me,Amy Grant,-1,69,1
+70,In Paradise,Laissez Faire,74,70,7
+71,Whispers,Corina,75,51,17
+72,Shot Of Poison,Lita Ford,64,45,12
+73,Breakin' My Heart (Pretty Brown Eyes),Mint Condition,80,73,3
+74,Ain't No Future In Yo' Fronting,M.C. Breed & D.F.C.,66,66,19
+75,A Deeper Love/Pride In The Name Of Love,Clivilles & Cole,81,75,2
+76,Just A Touch Of Love,C+C Music Factory Presents Zelma Davis,72,50,11
+77,The Rush,Luther Vandross,83,77,3
+78,Every Road Leads Back To You,Bette Midler,82,78,5
+79,Paper Doll,P.M. Dawn,-1,79,1
+80,A Day In My Life (Without You),Lisette Melendez,79,49,17
+81,No More Tears,Ozzy Osbourne,71,71,8
+82,Within My Heart,Voyce,84,77,8
+83,Pop That Coochie,The 2 Live Crew,70,58,12
+84,Blinded By Love,Rhythm Syndicate,-1,84,1
+85,Give It Away,Red Hot Chili Peppers,76,76,5
+86,Insatiable,Prince And The N.P.G.,77,77,6
+87,Oochie Coochie,M.C. Brains,-1,87,1
+88,Beauty And The Beast,Celine Dion And Peabo Bryson,-1,88,1
+89,All Through The Night,Tone-Loc,85,80,6
+90,There's No Other Way,Blur,92,90,2
+91,Conviction Of The Heart,Kenny Loggins,86,65,13
+92,Butt Naked,Charm,-1,92,1
+93,Hold On (Tighter To Love),Clubland,97,93,3
+94,She Ain't Pretty,The Northern Pikes,99,94,3
+95,Be True To Yourself,2nd II None,78,78,2
+96,Until Your Love Comes Back Around,RTZ,-1,96,1
+97,The Fly,U2,91,61,11
+98,Right Down To It,Damian Dame,94,90,6
+99,I'll Take You There,BeBe & CeCe Winans Featuring Mavis Staples,90,90,3
+100,Wasted Time,Skid Row,88,88,3

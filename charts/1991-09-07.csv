@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,(Everything I Do) I Do It For You,Bryan Adams,1,1,11
+2,The Promise Of A New Day,Paula Abdul,5,2,8
+3,Motownphilly,Boyz II Men,9,3,13
+4,Things That Make You Go Hmmmm. . .,C+C Music Factory,10,4,8
+5,3 A.M. Eternal,The KLF,7,5,12
+6,I Adore Mi Amor,Color Me Badd,15,6,7
+7,Crazy,Seal,12,7,12
+8,Wind Of Change,Scorpions,4,4,15
+9,"Time, Love And Tenderness",Michael Bolton,13,9,9
+10,I Can't Wait Another Minute,Hi-Five,8,8,12
+11,Good Vibrations,Marky Mark & The Funky Bunch Featuring Loleatta Holloway,18,11,8
+12,Too Many Walls,Cathy Dennis,16,12,10
+13,Every Heartbeat,Amy Grant,6,2,13
+14,Unforgettable,Natalie Cole,14,14,9
+15,Fading Like A Flower (Every Time You Leave),Roxette,2,2,13
+16,The Motown Song,Rod Stewart,20,16,10
+17,Now That We Found Love,Heavy D & The Boyz,19,17,11
+18,Love Of A Lifetime,Firehouse ,21,18,11
+19,It Ain't Over 'til It's Over,Lenny Kravitz ,3,2,14
+20,My Name Is Not Susan,Whitney Houston,23,20,7
+21,Summertime,D.J. Jazzy Jeff & The Fresh Prince,11,4,13
+22,Shiny Happy People,R.E.M.,24,22,7
+23,It Hit Me Like A Hammer,Huey Lewis & The News,26,23,8
+24,Something To Talk About,Bonnie Raitt,28,24,8
+25,Temptation,Corina,17,6,17
+26,Emotions,Mariah Carey,35,26,2
+27,Romantic,Karyn White,31,27,4
+28,Do Anything,Natural Selection,34,28,5
+29,Hole Hearted,Extreme,32,29,6
+30,Everybody Plays The Fool,Aaron Neville,33,30,8
+31,Just Like You,Robbie Nevil,25,25,10
+32,I'll Be There,The Escape Club,22,8,16
+33,Pop Goes The Weasel,3rd Bass,29,29,9
+34,Love. . .Thy Will Be Done,Martika,42,34,5
+35,Enter Sandman,Metallica,38,35,3
+36,The Sound Of Your Voice, 38 Special,39,36,9
+37,You Could Be Mine,Guns N' Roses,36,29,9
+38,P.A.S.S.I.O.N.,Rhythm Syndicate,27,2,15
+39,The Truth,Tami Show,43,39,6
+40,The One And Only,Chesney Hawkes,45,40,6
+41,Got A Love For You,Jomanda,40,40,10
+42,Don't Want To Be A Fool,Luther Vandross,48,42,6
+43,Running Back To You,Vanessa Williams,53,43,5
+44,The Real Love,Bob Seger & The Silver Bullet Band,59,44,3
+45,Real Real Real,Jesus Jones,61,45,3
+46,With You,Tony Terry,47,46,11
+47,Learning To Fly,Tom Petty And The Heartbreakers,30,28,11
+48,"Right Here, Right Now",Jesus Jones,37,2,22
+49,There She Goes,The La's,49,49,8
+50,Walk Through Fire,Bad Company,63,50,3
+51,Kiss Them For Me,Siouxsie & The Banshees,58,51,4
+52,Till Somebody Loves You,Henry Lee Summer,57,52,5
+53,Hard To Handle,The Black Crowes,41,26,12
+54,Low Rider (On The Boulevard),Latin Alliance Featuring War,56,54,5
+55,Gett Off,Prince And The N.P.G.,71,55,4
+56,Just Want To Hold You,Jasmine Guy,64,56,6
+57,Face The Music,RTZ,65,57,4
+58,After The Summer's Gone,PC Quest,72,58,4
+59,Only Time Will Tell,Nelson,46,28,12
+60,Power Windows,Billy Falcon,66,60,4
+61,My Fallen Angel,Coro,55,54,9
+62,Place In This World,Michael W. Smith,52,6,19
+63,If I Say,Kingofthehill,69,63,5
+64,Silver Thunderbird,Marc Cohn,67,64,5
+65,Tonite,DJ Quik,70,65,3
+66,Straight To Your Heart,Bad English,90,66,2
+67,Latin Active,Lighter Shade Of Brown Featuring Teardrop & Shiro,62,59,8
+68,Let The Beat Hit 'Em,Lisa Lisa And Cult Jam,60,37,12
+69,Love And Understanding,Cher,44,17,13
+70,I'm Not Your Puppet,Hi-C,74,70,4
+71,Let's Talk About Sex,Salt-N-Pepa,82,71,3
+72,Can You Stop The Rain,Peabo Bryson,73,52,12
+73,Hey Donna,Rhythm Syndicate,-1,73,1
+74,The Devil Came Up To Michigan,K.M.C. KRU,97,74,2
+75,This Beat Is Hot,B.G. The Prince Of Rap,81,75,4
+76,Louder Than Love,TKA,79,76,5
+77,When Love Cries,Donna Summer,77,77,4
+78,Everyotherday,Or-N-More (Featuring Father M.C.),98,78,2
+79,That's The Way Love Goes,Young M.C.,54,54,6
+80,She's Gone (Lady),Steelheart,91,80,2
+81,Unbelievable,EMF,51,1,22
+82,Rush Rush,Paula Abdul,50,1,18
+83,Chorus,Erasure,86,83,5
+84,"Gonna Catch You (From ""Cool As Ice"")",Lonnie Gordon,96,84,2
+85,O.P.P.,Naughty By Nature,-1,85,1
+86,Sometimes (It's A Bitch),Stevie Nicks,-1,86,1
+87,Do You Want Me,Salt-N-Pepa,75,21,25
+88,Save Me,Lisa Fischer,-1,88,1
+89,I'll Never Let You Go,Steelheart,83,23,26
+90,Why Can't You Come Home,Ex-Girlfriend,-1,90,1
+91,Never Stop,The Brand New Heavies Featuring N'Dea Davenport,-1,91,1
+92,Get Serious,Cut 'N' Move,89,76,6
+93,Turn It Up,Oaktown's 3.5.7,76,66,6
+94,Here I Am (Come And Take Me),UB40,78,7,25
+95,"Just Ask Me To (From ""Boyz N The Hood"")",Tevin Campbell,94,88,5
+96,Wishing On The Same Star,Keedy,95,86,4
+97,I Wonder Why,Curtis Stigers,-1,97,1
+98,Piece Of My Heart,Tara Kemp,68,7,18
+99,"I Wanna Sex You Up (From ""New Jack City"")",Color Me Badd,85,2,23
+100,Love On A Rooftop,Desmond Child,80,40,12

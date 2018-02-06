@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,We Are The World,USA For Africa,1,1,5
+2,Crazy For You,Madonna,3,2,8
+3,Nightshift,Commodores,4,3,13
+4,One More Night,Phil Collins,2,1,11
+5,Rhythm Of The Night,Debarge,7,5,10
+6,I'm On Fire,Bruce Springsteen,6,6,10
+7,Obsession,Animotion,9,7,13
+8,Don't You (Forget About Me),Simple Minds,11,8,9
+9,One Night In Bangkok,Murray Head,12,9,9
+10,Missing You,Diana Ross,10,10,21
+11,All She Wants to Do Is Dance,Don Henley,15,11,9
+12,Some Like It Hot,The Power Station,17,12,6
+13,Material Girl,Madonna,5,2,11
+14,Along Comes A Woman,Chicago,18,14,9
+15,Lover Girl,Teena Marie,8,4,19
+16,Smooth Operator,Sade,22,16,8
+17,That Was Yesterday,Foreigner,21,17,6
+18,Somebody,Bryan Adams,14,11,12
+19,Everything She Wants,Wham!,30,19,5
+20,Don't Come Around Here No More,Tom Petty And The Heartbreakers,25,20,6
+21,Some Things Are Better Left Unsaid,Daryl Hall John Oates,26,21,6
+22,Rock And Roll Girls,John Fogerty,27,22,6
+23,Can't Fight This Feeling,REO Speedwagon,13,1,14
+24,New Attitude,Patti LaBelle,29,24,10
+25,Just Another Night,Mick Jagger,16,12,11
+26,Everybody Wants To Rule The World,Tears For Fears,34,26,6
+27,Forever Man,Eric Clapton,31,27,7
+28,Radioactive,The Firm,28,28,11
+29,Suddenly,Billy Ocean,38,29,5
+30,Axel F,Harold Faltermeyer,39,30,4
+31,High On You,Survivor,19,8,13
+32,Too Late For Goodbyes,Julian Lennon,20,5,13
+33,Vox Humana,Kenny Loggins,37,33,5
+34,Fresh,Kool & The Gang,41,34,5
+35,Just A Gigolo/I Ain't Got Nobody,David Lee Roth,43,35,5
+36,The Bird,The Time,36,36,9
+37,Things Can Only Get Better,Howard Jones,44,37,5
+38,One Lonely Night,REO Speedwagon,47,38,4
+39,Celebrate Youth,Rick Springfield,48,39,3
+40,Walking On Sunshine,Katrina And The Waves,50,40,5
+41,The Heat Is On,Glenn Frey,23,2,20
+42,In My House,Mary Jane Girls,53,42,7
+43,We Close Our Eyes,Go West,45,43,9
+44,Private Dancer,Tina Turner,24,7,14
+45,'Til My Baby Comes Home,Luther Vandross,56,45,6
+46,Lost In Love,New Edition,55,46,4
+47,Baby Come And Get It,The Pointer Sisters,52,47,5
+48,Invisible,Alison Moyet,57,48,7
+49,Smuggler's Blues,Glenn Frey,61,49,3
+50,Never Ending Story,Limahl,60,50,5
+51,Keeping The Faith,Billy Joel,32,18,13
+52,Heaven,Bryan Adams,-1,52,1
+53,Careless Whisper,Wham! Featuring George Michael,35,1,18
+54,Say You're Wrong,Julian Lennon,-1,54,1
+55,Can't Stop,Rick James,59,55,4
+56,Welcome To The Pleasure Dome,Frankie Goes To Hollywood,66,56,3
+57,Lonely In Love,Giuffria,64,57,5
+58,Only The Young,Journey,40,9,13
+59,Walking On The Chinese Wall,Philip Bailey,69,59,3
+60,Oh Girl,Boy Meets Girl,68,60,3
+61,Lucky,Greg Kihn,33,30,10
+62,Do You Wanna Get Away,Shannon,67,62,3
+63,Be Your Man,Jesse Johnson's Revue,70,63,6
+64,Relax,Frankie Goes To Hollywood,46,10,21
+65,Show Some Respect,Tina Turner,-1,65,1
+66,Take Me With U,Prince And The Revolution Duet With Apollonia,42,25,11
+67,Save A Prayer,Duran Duran,49,16,12
+68,Say It Again,Santana,51,46,9
+69,The Word Is Out,Jermaine Stewart,54,41,12
+70,The Search Is Over,Survivor,-1,70,1
+71,Voices Carry,'Til Tuesday,81,71,2
+72,Steady,Jules Shear,78,72,3
+73,Basketball,Kurtis Blow,85,73,2
+74,Magical,John Parr,79,74,3
+75,I Want To Know What Love Is,Foreigner,58,1,20
+76,Why Can't I Have You,The Cars,62,33,13
+77,California Girls,David Lee Roth,63,3,14
+78,Change,John Waite,75,54,8
+79,Misled,Kool & The Gang,74,10,22
+80,Neutron Dance,The Pointer Sisters,72,6,22
+81,Swear,Sheena Easton,80,80,5
+82,Turn Up The Radio,Autograph,76,29,18
+83,Easy Lover,Philip Bailey With Phil Collins,73,2,22
+84,Rain Forest,Paul Hardcastle,82,57,15
+85,Talk To Me,Fiona,90,85,2
+86,This Is Not America,David Bowie/Pat Metheny Group,71,32,12
+87,Beat Of A Heart,Scandal Featuring Patty Smyth,84,41,13
+88,Only Lonely,Bon Jovi,-1,88,1
+89,Naughty Naughty,John Parr,77,23,19
+90,Second Nature,Dan Hartman,65,39,11
+91,High School Nights,Dave Edmunds,-1,91,1
+92,Heartline,Robin George,93,92,2
+93,I'm Through With Love,Eric Carmen,-1,93,1
+94,Will The Wolf Survive,Los Lobos,87,78,5
+95,Solid,Ashford & Simpson,83,12,24
+96,Lover Boy,Billy Ocean,86,2,21
+97,Let's Talk About Me,The Alan Parsons Project,89,56,10
+98,The Old Man Down The Road,John Fogerty,91,10,18
+99,Method Of Modern Love,Daryl Hall John Oates,94,5,19
+100,Back In Stride,Maze Featuring Frankie Beverly,97,88,6

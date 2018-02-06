@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,The Way You Make Me Feel,Michael Jackson,3,1,10
+2,Need You Tonight,INXS,4,2,14
+3,Could've Been,Tiffany,5,3,9
+4,Got My Mind Set On You,George Harrison,1,1,14
+5,Hazy Shade Of Winter,The Bangles,6,5,11
+6,Candle In The Wind,Elton John,7,6,12
+7,Tell It To My Heart(Dub),Taylor Dayne,8,7,16
+8,Seasons Change, Expose,11,8,9
+9,So Emotional,Whitney Houston,2,1,13
+10,I Want To Be Your Man,Roger,15,10,11
+11,"Hungry Eyes (From ""Dirty Dancing"")",Eric Carmen,17,11,12
+12,There's The Girl,Heart,14,12,12
+13,I Could Never Take The Place Of Your Man,Prince,16,13,11
+14,Crazy,Icehouse,18,14,15
+15,Tunnel Of Love,Bruce Springsteen,21,15,8
+16,Faith,George Michael,9,1,14
+17,Say You Will,Foreigner,22,17,8
+18,What Have I Done To Deserve This?,Pet Shop Boys & Dusty Springfield ,24,18,7
+19,Is This Love,Whitesnake,10,2,14
+20,I Live For Your Love,Natalie Cole,23,20,12
+21,Don't Shed A Tear,Paul Carrack,25,21,11
+22,Cherry Bomb,John Mellencamp,12,8,14
+23,Everywhere,Fleetwood Mac,29,23,9
+24,Shake Your Love,Debbie Gibson,13,4,17
+25,Honestly,Stryper,27,25,12
+26,Pop Goes The World,Men Without Hats,30,26,13
+27,Push It,Salt-N-Pepa,32,27,10
+28,"Catch Me (I'm Falling) (From The Film ""Hiding Out"")",Pretty Poison,19,8,18
+29,Power Of Love,Laura Branigan,26,26,14
+30,Pump Up The Volume,M/A/R/R/S,37,30,9
+31,She's Like The Wind,Patrick Swayze (Featuring Wendy Fraser),39,31,6
+32,Can't Stay Away From You,Gloria Estefan & Miami Sound Machine,36,32,10
+33,Don't You Want Me,Jody Watley,20,6,17
+34,Never Gonna Give You Up,Rick Astley,41,34,6
+35,I Found Someone,Cher,38,35,10
+36,True Faith,New Order,34,32,14
+37,Father Figure,George Michael,49,37,2
+38,Valerie,Steve Winwood,28,9,20
+39,853-5937,Squeeze,46,39,6
+40,I Get Weak,Belinda Carlisle,54,40,2
+41,Heaven Is A Place On Earth,Belinda Carlisle,33,1,18
+42,Because Of You,The Cover Girls,45,42,9
+43,Dude (Looks Like A Lady),Aerosmith,31,14,17
+44,In God's Country,U2,47,44,8
+45,Just Like Paradise,David Lee Roth,56,45,2
+46,(I've Had) The Time Of My Life,Bill Medley & Jennifer Warnes,35,1,18
+47,Rhythm Of Love,Yes,53,47,6
+48,Hot In The City,Billy Idol,51,23,24
+49,Be Still My Beating Heart,Sting,64,49,2
+50,Just Like Heaven,The Cure,42,40,16
+51,I Need A Man,Eurythmics,55,51,6
+52,Love Overboard,Gladys Knight And The Pips,65,52,3
+53,Endless Summer Nights,Richard Marx,-1,53,1
+54,Hot Hot Hot,Buster Poindexter & His Banshees Of Blue,57,54,7
+55,"Live My Life (From The Film ""Hiding Out"")",Boy George,61,55,5
+56,Never Thought (That I Could Love),Dan Hill,60,56,7
+57,Twilight World,Swing Out Sister,63,57,6
+58,I Can't Help It,Bananarama,50,47,10
+59,Should've Known Better,Richard Marx,43,3,18
+60,That's What Love Is All About,Michael Bolton,44,19,21
+61,Animal,Def Leppard,40,19,16
+62,Lover's Lane,Georgio,59,59,8
+63,I Think We're Alone Now,Tiffany,52,1,22
+64,I Want Her,Keith Sweat,77,64,2
+65,We'll Be Together,Sting,48,7,16
+66,Hysteria,Def Leppard,-1,66,1
+67,Reason To Live,KISS,68,67,8
+68,Rocket 2 U,The Jets,-1,68,1
+69,Never Let Me Down Again,Depeche Mode,78,69,5
+70,Lonely Won't Leave Me Alone,Glenn Medeiros,73,70,6
+71,Rain In The Summertime,The Alarm,71,71,6
+72,(Sittin' On) The Dock Of The Bay,Michael Bolton,-1,72,1
+73,Burning Like A Flame,Dokken,72,72,6
+74,Wishing Well,Terence Trent D'Arby,79,74,2
+75,You And Me Tonight,Deja,66,54,10
+76,The One I Love,R.E.M.,58,9,19
+77,Motortown,The Kane Gang,62,36,15
+78,How Can I Forget You,Elisa Fiorillo,-1,78,1
+79,Dear Mr. Jesus,Powersource (Solo...Sharon),69,61,6
+80,Coming Up You,The Cars,-1,80,1
+81,Save Your Love,Great White,-1,81,1
+82,Never Knew Love Like This,Alexander O'Neal Featuring Cherrelle,-1,82,1
+83,Mony Mony,Billy Idol,75,1,21
+84,I Heard It Through The Grapevine,The California Raisins,-1,84,1
+85,All I Want Is You,Carly Simon,-1,85,1
+86,Skeletons,Stevie Wonder,67,19,15
+87,I Don't Mind At All,Bourgeois Tagg,70,38,16
+88,Love Will Find A Way,Yes,80,30,17
+89,In My Dreams,REO Speedwagon,82,19,28
+90,Cherokee,Europe,86,72,9
+91,We've Only Just Begun (The Romance Is Not Over),Glenn Jones,88,66,13
+92,I Do You,The Jets,74,20,15
+93,Throwaway,Mick Jagger,84,67,9
+94,System Of Survival,"Earth, Wind & Fire",87,60,13
+95,(Baby Tell Me) Can You Dance,Shanice Wilson,81,50,12
+96,I've Been In Love Before,Cutting Crew,76,9,21
+97,Criticize,Alexander O'Neal,83,70,11
+98,Hourglass,Squeeze,85,15,19
+99,I Won't Forget You,Poison,89,13,21
+100,She's Fly,Tony Terry,90,80,9

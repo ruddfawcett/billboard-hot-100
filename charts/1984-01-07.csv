@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Say Say Say,Paul McCartney And Michael Jackson,1,1,13
+2,Say It Isn't So,Daryl Hall John Oates,2,2,11
+3,Union Of The Snake,Duran Duran,3,3,10
+4,Owner Of A Lonely Heart,Yes,4,4,10
+5,Twist Of Fate,Olivia Newton-John,8,5,10
+6,Talking In Your Sleep,The Romantics,12,6,14
+7,Break My Stride,Matthew Wilder,10,7,17
+8,I Guess That's Why They Call It The Blues,Elton John,11,8,11
+9,Undercover Of The Night,The Rolling Stones,9,9,9
+10,All Night Long (All Night),Lionel Richie,5,1,17
+11,Uptown Girl,Billy Joel,6,3,16
+12,Love Is A Battlefield,Pat Benatar,7,5,16
+13,Karma Chameleon,Culture Club,17,13,6
+14,Major Tom (Coming Home),Peter Schilling,14,14,16
+15,Running With The Night,Lionel Richie,21,15,7
+16,Church Of The Poison Mind,Culture Club,13,10,12
+17,Joanna,Kool & The Gang,22,17,10
+18,Read 'Em And Weep,Barry Manilow,23,18,8
+19,Synchronicity II,The Police,16,16,10
+20,Cum On Feel The Noize, Quiet Riot,15,5,17
+21,The Curly Shuffle,Jump 'n The Saddle,32,21,6
+22,That's All,Genesis,27,22,7
+23,If I'd Been The One,Thirty Eight Special,25,23,9
+24,I Still Can't Get Over Loving You,Ray Parker Jr.,28,24,9
+25,Time Will Reveal,Debarge,26,25,13
+26,Pink Houses,John Mellencamp,29,26,5
+27,Holiday,Madonna,31,27,11
+28,Why Me?,Irene Cara,19,13,12
+29,Islands In The Stream,Kenny Rogers Duet With Dolly Parton,18,1,20
+30,Think Of Laura, Christopher Cross,38,30,5
+31,Stay With Me Tonight,Jeffrey Osborne,33,31,13
+32,Gold,Spandau Ballet,34,32,8
+33,The Sign Of Fire,The Fixx,35,33,7
+34,So Bad,Paul McCartney,49,34,3
+35,In A Big Country,Big Country,20,17,12
+36,Baby I Lied,Deborah Allen,39,36,13
+37,Middle Of The Road,Pretenders,43,37,4
+38,Let The Music Play,Shannon,42,38,9
+39,An Innocent Man,Billy Joel,44,39,4
+40,In The Mood,Robert Plant,40,40,8
+41,Remember The Night,The Motels,45,41,6
+42,Send Me An Angel,Real Life,46,42,9
+43,Nightbird,Stevie Nicks,48,43,4
+44,When The Lights Go Out,Naked Eyes,37,37,12
+45,Yah Mo B There,James Ingram With Michael McDonald,50,45,5
+46,Ebony Eyes,Rick James And Smokey Robinson,52,46,5
+47,The Dream,Irene Cara,58,47,5
+48,Take Me Back,Bonnie Tyler,51,48,6
+49,Ain't Nobody,Chaka Khan,30,22,15
+50,99 Luftballons,Nena,62,50,5
+51,Crumblin' Down,John Cougar Mellencamp,24,9,13
+52,Save The Last Dance For Me,Dolly Parton,60,52,5
+53,Heart And Soul,Huey Lewis & The News,36,8,18
+54,The Politics Of Dancing,Re-flex,59,54,7
+55,Big Crash,Eddie Money,55,55,8
+56,What's New,Linda Ronstadt & The Nelson Riddle Orchestra,53,53,11
+57,Almost Over You,Sheena Easton,63,57,5
+58,(You Can Still) Rock In America,Night Ranger,61,58,6
+59,Give It Up,KC,67,59,3
+60,You Don't Believe,The Alan Parsons Project,54,54,8
+61,Wrapped Around Your Finger,The Police,-1,61,1
+62,Girls Just Want To Have Fun,Cyndi Lauper,69,62,4
+63,Wet My Whistle,Midnight Star,64,63,7
+64,P.Y.T. (Pretty Young Thing),Michael Jackson,47,10,14
+65,Souls,Rick Springfield,41,23,13
+66,You're Looking Like Love To Me,Peabo Bryson & Roberta Flack,74,66,3
+67,I Won't Stand In Your Way,Stray Cats,56,35,11
+68,The Way He Makes Me Feel,Barbra Streisand,57,40,12
+69,Lick It Up,KISS,66,66,9
+70,Tell Me If You Still Care,The S.O.S. Band,79,70,8
+71,Gloria,The Doors ,73,71,6
+72,Bang Your Head (Metal Health),Quiet Riot,-1,72,1
+73,Total Eclipse Of The Heart,Bonnie Tyler,68,1,26
+74,"Tonight, I Celebrate My Love",Peabo Bryson/Roberta Flack,70,16,27
+75,LET's PRETEND WE'rE MARRIED,Prince,82,75,4
+76,Telefone (long Distance Love Affair),Sheena Easton,71,9,21
+77,Someone Like You,Michael Stanley Band,81,77,3
+78,This Must Be The Place (Naive Melody),Talking Heads,65,62,7
+79,Let's Go Up,Diana Ross,83,79,4
+80,Tender Is The Night,Jackson Browne,76,25,16
+81,Sweetheart Like You,Bob Dylan,85,81,4
+82,Suddenly Last Summer,The Motels,72,9,19
+83,Baby I'm Hooked,ConFunkShun,-1,83,1
+84,Rappin' Rodney,Rodney Dangerfield,86,84,6
+85,Just One More Time,The Headpins,89,85,3
+86,Electric Kingdom,Twilight 22,90,86,4
+87,Touch A Four Leaf Clover,Atlantic Starr,87,87,5
+88,Something's On Your Mind,D Train,-1,88,1
+89,Making Love Out Of Nothing At All,Air Supply,80,2,24
+90,If Only You Knew,Patti LaBelle,-1,90,1
+91,I Need You,The Pointer Sisters,88,48,14
+92,Street Of Dreams,Rainbow,75,60,10
+93,Action,"Evelyn ""Champagne"" King",-1,93,1
+94,The Smile Has Left Your Eyes,Asia,78,34,13
+95,The Sound Of Goodbye,Crystal Gayle,84,84,5
+96,Red Hot,Herb Alpert,77,77,5
+97,Invisible Hands,Kim Carnes,95,40,13
+98,Magnetic,"Earth, Wind & Fire",93,57,9
+99,State Of The Union,Industry,97,81,8
+100,Allergies,Paul Simon,96,44,10

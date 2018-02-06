@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,(Everything I Do) I Do It For You,Bryan Adams,1,1,10
+2,Fading Like A Flower (Every Time You Leave),Roxette,4,2,12
+3,It Ain't Over 'til It's Over,Lenny Kravitz,2,2,13
+4,Wind Of Change,Scorpions,7,4,14
+5,The Promise Of A New Day,Paula Abdul,8,5,7
+6,Every Heartbeat,Amy Grant,3,2,12
+7,3 A.M. Eternal,The KLF,9,7,11
+8,I Can't Wait Another Minute,Hi-Five,10,8,11
+9,Motownphilly,Boyz II Men,11,9,12
+10,Things That Make You Go Hmmmm. . .,C+C Music Factory,12,10,7
+11,Summertime,D.J. Jazzy Jeff & The Fresh Prince,5,4,12
+12,Crazy,Seal,13,12,11
+13,"Time, Love And Tenderness",Michael Bolton,16,13,8
+14,Unforgettable,Natalie Cole,14,14,8
+15,I Adore Mi Amor,Color Me Badd,18,15,6
+16,Too Many Walls,Cathy Dennis,17,16,9
+17,Temptation,Corina,6,6,16
+18,Good Vibrations,Marky Mark & The Funky Bunch Featuring Loleatta Holloway,22,18,7
+19,Now That We Found Love,Heavy D & The Boyz,21,19,10
+20,The Motown Song,Rod Stewart,20,20,9
+21,Love Of A Lifetime,Firehouse,23,21,10
+22,I'll Be There,The Escape Club,15,8,15
+23,My Name Is Not Susan,Whitney Houston,24,23,6
+24,Shiny Happy People,R.E.M.,27,24,6
+25,Just Like You,Robbie Nevil,25,25,9
+26,It Hit Me Like A Hammer,Huey Lewis & The News,29,26,7
+27,P.A.S.S.I.O.N.,Rhythm Syndicate,19,2,14
+28,Something To Talk About,Bonnie Raitt,34,28,7
+29,Pop Goes The Weasel, 3rd Bass,30,29,8
+30,Learning To Fly,Tom Petty And The Heartbreakers,28,28,10
+31,Romantic,Karyn White,36,31,3
+32,Hole Hearted,Extreme,37,32,5
+33,Everybody Plays The Fool,Aaron Neville,35,33,7
+34,Do Anything,Natural Selection,40,34,4
+35,Emotions,Mariah Carey,-1,35,1
+36,You Could Be Mine,Guns N' Roses,33,29,8
+37,"Right Here, Right Now",Jesus Jones,26,2,21
+38,Enter Sandman,Metallica,47,38,2
+39,The Sound Of Your Voice,38 Special,44,39,8
+40,Got A Love For You,Jomanda,41,40,9
+41,Hard To Handle,The Black Crowes,31,26,11
+42,Love. . .Thy Will Be Done,Martika,45,42,4
+43,The Truth,Tami Show,50,43,5
+44,Love And Understanding,Cher,32,17,12
+45,The One And Only,Chesney Hawkes,56,45,5
+46,Only Time Will Tell,Nelson,39,28,11
+47,With You,Tony Terry,49,47,10
+48,Don't Want To Be A Fool,Luther Vandross,55,48,5
+49,There She Goes,The La's,53,49,7
+50,Rush Rush,Paula Abdul,42,1,17
+51,Unbelievable,EMF,38,1,21
+52,Place In This World,Michael W. Smith,43,6,18
+53,Running Back To You,Vanessa Williams,60,53,4
+54,That's The Way Love Goes,Young M.C.,54,54,5
+55,My Fallen Angel,Coro,57,54,8
+56,Low Rider (On The Boulevard),Latin Alliance Featuring War,58,56,4
+57,Till Somebody Loves You,Henry Lee Summer,64,57,4
+58,Kiss Them For Me,Siouxsie & The Banshees,74,58,3
+59,The Real Love,Bob Seger & The Silver Bullet Band,77,59,2
+60,Let The Beat Hit 'Em,Lisa Lisa And Cult Jam,51,37,11
+61,Real Real Real,Jesus Jones,84,61,2
+62,Latin Active,Lighter Shade Of Brown Featuring Teardrop & Shiro,59,59,7
+63,Walk Through Fire,Bad Company,87,63,2
+64,Just Want To Hold You,Jasmine Guy,68,64,5
+65,Face The Music,RTZ,75,65,3
+66,Power Windows,Billy Falcon,72,66,3
+67,Silver Thunderbird,Marc Cohn,69,67,4
+68,Piece Of My Heart,Tara Kemp,46,7,17
+69,If I Say,Kingofthehill,71,69,4
+70,Tonite,DJ Quik,89,70,2
+71,Gett Off,Prince And The N.P.G.,78,66,3
+72,After The Summer's Gone,PC Quest,85,72,3
+73,Can You Stop The Rain,Peabo Bryson,67,52,11
+74,I'm Not Your Puppet,Hi-C,83,74,3
+75,Do You Want Me,Salt-N-Pepa,48,21,24
+76,Turn It Up,Oaktown's 3.5.7,66,66,5
+77,When Love Cries,Donna Summer,80,77,3
+78,Here I Am (Come And Take Me),UB40,61,7,24
+79,Louder Than Love,TKA,79,79,4
+80,Love On A Rooftop,Desmond Child,52,40,11
+81,This Beat Is Hot,B.G. The Prince Of Rap,88,81,3
+82,Let's Talk About Sex,Salt-N-Pepa,93,82,2
+83,I'll Never Let You Go,Steelheart,73,23,25
+84,"Nights Like This (From ""The Five Heartbeats"")",After 7,63,24,15
+85,"I Wanna Sex You Up (From ""New Jack City"")",Color Me Badd,65,2,22
+86,Chorus,Erasure,86,83,4
+87,The Dream Is Still Alive,Wilson Phillips,62,12,14
+88,More Than Words,Extreme,70,1,24
+89,Get Serious,Cut 'N' Move,76,76,5
+90,Straight To Your Heart,Bad English,-1,90,1
+91,She's Gone (Lady),Steelheart,-1,91,1
+92,Lily Was Here,David A. Stewart Introducing Candy Dulfer,81,11,16
+93,Can't Forget You,Gloria Estefan,82,43,13
+94,"Just Ask Me To (From ""Boyz N The Hood"")",Tevin Campbell,95,88,4
+95,Wishing On The Same Star,Keedy,91,86,3
+96,"Gonna Catch You (From ""Cool As Ice"")",Lonnie Gordon,-1,96,1
+97,The Devil Came Up To Michigan,K.M.C. KRU,-1,97,1
+98,Everyotherday,Or-N-More (Featuring Father M.C.),-1,98,1
+99,Walking In Memphis,Marc Cohn,90,13,23
+100,When The Lights Go Out,Gerardo,98,98,2

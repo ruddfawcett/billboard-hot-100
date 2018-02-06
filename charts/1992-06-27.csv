@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I'll Be There,Mariah Carey,1,1,5
+2,Baby Got Back,Sir Mix-A-Lot,2,2,12
+3,Under The Bridge,Red Hot Chili Peppers,4,2,13
+4,Jump,Kris Kross,3,1,13
+5,Damn I Wish I Was Your Lover,Sophie B. Hawkins,6,5,11
+6,My Lovin' (You're Never Gonna Get It),En Vogue,5,2,15
+7,If You Asked Me To,Celine Dion,7,7,10
+8,Achy Breaky Heart,Billy Ray Cyrus,8,8,8
+9,Tennessee,Arrested Development,9,9,12
+10,The Best Things In Life Are Free,Luther Vandross And Janet Jackson With BBD And Ralph Tresvant,10,10,5
+11,Wishing On A Star,The Cover Girls,14,11,5
+12,Hold On My Heart,Genesis,13,12,9
+13,Just Another Day,Jon Secada,15,13,11
+14,Live And Learn, Joe Public,11,4,16
+15,In The Closet,Michael Jackson,12,6,10
+16,Life Is A Highway,Tom Cochrane,19,16,7
+17,Too Funky,George Michael,30,17,3
+18,Come & Talk To Me,Jodeci,16,16,13
+19,Slow Motion,Color Me Badd,22,18,8
+20,You Won't See Me Cry,Wilson Phillips,21,20,8
+21,Do It To Me,Lionel Richie,23,21,9
+22,Just Take My Heart,Mr. Big,18,16,12
+23,I Will Remember You,Amy Grant,20,20,10
+24,Ain't 2 Proud 2 Beg,TLC,17,6,19
+25,Baby-Baby-Baby,TLC,45,25,4
+26,Tears In Heaven,Eric Clapton,24,2,21
+27,Just For Tonight,Vanessa Williams,32,27,6
+28,Friday I'm In Love,The Cure,39,28,3
+29,Keep On Walkin',CeCe Peniston,34,29,6
+30,T.L.C.,Linear,31,30,8
+31,Save The Best For Last,Vanessa Williams,26,1,22
+32,Everything About You,Ugly Kid Joe,27,9,13
+33,One,U2,25,10,16
+34,They Want EFX,Das EFX,35,34,8
+35,Bohemian Rhapsody,Queen,28,2,39
+36,Giving Him Something He Can Feel,En Vogue,51,36,4
+37,Thought I'd Died And Gone To Heaven,Bryan Adams,29,13,16
+38,Warm It Up,Kris Kross,75,38,4
+39,Take This Heart,Richard Marx,48,39,3
+40,November Rain,Guns N' Roses,-1,40,1
+41,Nu Nu,Lidell Townsell,37,26,18
+42,Why,Annie Lennox,46,42,7
+43,Closer To Me,The Outfield,43,43,7
+44,Move This,Technotronic Featuring Ya Kid K,57,44,3
+45,Good Stuff,The B-52s,59,45,2
+46,Lift Me Up,Howard Jones,33,32,12
+47,Sometimes I Rhyme Slow,Nice & Smooth,44,44,8
+48,Hazard,Richard Marx,36,9,20
+49,Silent Prayer,Shanice,41,31,10
+50,Make It Happen,Mariah Carey,40,5,19
+51,Honey Love,R. Kelly & Public Announcement,49,49,6
+52,Let's Get Rocked,Def Leppard,38,15,12
+53,Why Me Baby?,Keith Sweat,47,44,12
+54,Not The Only One,Bonnie Raitt,42,34,11
+55,Helluva,Brotherhood Creed,53,53,11
+56,Remedy,The Black Crowes,61,56,3
+57,Strawberry Letter 23,Tevin Campbell,58,57,4
+58,Fall In Love Again,Eddie Money,54,54,7
+59,Maria,TKA,55,44,13
+60,"Mr. Loverman (From ""Deep Cover"")",Shabba Ranks,56,56,3
+61,Everything Changes,Kathy Troccoli,50,14,19
+62,Please Don't Go,Boyz II Men,52,49,13
+63,Whatever It Takes (To Make You Stay),Troop,65,63,2
+64,Never Satisfied,Good 2 Go,64,64,8
+65,All You've Got,RTZ,76,65,4
+66,James Brown Is Dead,L.A. Style,63,63,11
+67,Make Love Like A Man,Def Leppard,-1,67,1
+68,57 Channels (And Nothin' On),Bruce Springsteen,78,68,2
+69,"You Remind Me (From ""Strictly Business"")",Mary J. Blige,77,69,2
+70,Scenario,A Tribe Called Quest,82,70,4
+71,Twilight Zone,2 Unlimited,89,71,3
+72,Love Me,Tracie Spencer,69,48,14
+73,Victim Of The Ghetto,The College Boyz,68,68,6
+74,3-2-1 Pump,Redhead Kingpin & The F.B.I.,66,52,14
+75,Smells Like Nirvana,"""Weird Al"" Yankovic",67,35,10
+76,They Reminisce Over You (T.R.O.Y.),Pete Rock & C.L. Smooth,-1,76,1
+77,The One,Elton John,-1,77,1
+78,Innocent Child,Colourhaus,60,50,9
+79,If You Want It,2nd II None,81,64,13
+80,You Think You Know Her,Cause And Effect,73,38,18
+81,Come As You Are,Nirvana,74,32,15
+82,All I Want,Toad The Wet Sprocket,-1,82,1
+83,Forever In Your Eyes,Mint Condition,98,83,2
+84,Anything At All,Mitch Malloy,62,49,9
+85,Take Time,Chris Walker,80,29,16
+86,The Choice Is Yours,Black Sheep,87,57,18
+87,Human Touch/Better Days,Bruce Springsteen,95,16,15
+88,Nothing Else Matters,Metallica,84,34,14
+89,I'm The One You Need,Jody Watley,72,19,17
+90,Don't Be Afraid,Aaron Hall,85,44,16
+91,Baby Hold On To Me,Gerald Levert (Duet With Eddie Levert),93,37,20
+92,Slowly,Stacy Earl,100,92,2
+93,All Woman,Lisa Stansfield,79,56,17
+94,This Is The Last Time,Laura Enea,86,70,14
+95,Faces Of Love,Nia Peeples,-1,95,1
+96,Will You Marry Me?,Paula Abdul,70,19,13
+97,Goodbye,Tevin Campbell,91,85,12
+98,Jump Around,House Of Pain,-1,98,1
+99,Please Don't Go,K.W.S.,99,99,2
+100,Everybody's Free (To Feel Good),Rozalla,-1,100,1

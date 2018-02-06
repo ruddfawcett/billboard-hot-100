@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Macarena (Bayside Boys Mix),Los Del Rio,1,1,40
+2,I Love You Always Forever,Donna Lewis,2,2,14
+3,Twisted,Keith Sweat,3,2,14
+4,It's All Coming Back To Me Now,Celine Dion,7,4,6
+5,C'mon N' Ride It (The Train),Quad City DJ's,6,3,28
+6,Change The World,Eric Clapton,5,5,10
+7,Loungin,LL Cool J,4,3,12
+8,You're Makin' Me High/Let It Flow,Toni Braxton,8,1,16
+9,You Learn/You Oughta Know,Alanis Morissette,10,6,9
+10,I Can't Sleep Baby (If I),R. Kelly,9,5,11
+11,Give Me One Reason,Tracy Chapman,11,3,25
+12,Where Do You Go,No Mercy,13,12,12
+13,Only You,112 Featuring The Notorious B.I.G.,14,13,17
+14,Who Will Save Your Soul,Jewel,15,11,17
+15,Hit Me Off,New Edition,12,3,4
+16,Counting Blue Cars,Dishwalla,16,15,25
+17,How Do U Want It/California Love,2Pac Featuring K-Ci And JoJo,17,1,15
+18,If Your Girl Only Knew,Aaliyah,19,18,4
+19,"Last Night (From ""The Nutty Professor"")",Az Yet,20,19,5
+20,Elevators (Me & You),OutKast,18,12,9
+21,Key West Intermezzo (I Saw You First),John Mellencamp,23,21,4
+22,Use Your Heart,SWV,24,22,6
+23,Macarena,Los Del Rio,36,23,12
+24,Stupid Girl,Garbage,27,24,9
+25,Po Pimp,Do Or Die (Featuring Twista),25,25,8
+26,"Insensitive (From ""Bed Of Roses"")",Jann Arden,21,12,33
+27,Sweet Dreams,La Bouche,26,13,26
+28,"Because You Loved Me (From ""Up Close & Personal"")",Celine Dion,29,1,29
+29,Jealousy,Natalie Merchant,28,23,15
+30,"Why Does It Hurt So Bad (From ""Waiting To Exhale"")",Whitney Houston,30,26,8
+31,Always Be My Baby,Mariah Carey,31,1,25
+32,That Girl,Maxi Priest Featuring Shaggy,22,20,13
+33,Why I Love You So Much/Ain't Nobody,Monica,32,9,16
+34,"Missing You (From ""Set It Off"")","Brandy, Tamia, Gladys Knight & Chaka Khan",34,34,5
+35,Nobody Knows,The Tony Rich Project,33,2,41
+36,Ironic,Alanis Morissette,37,4,28
+37,Let's Make A Night To Remember,Bryan Adams,45,37,4
+38,This Is Your Night,Amber,43,38,15
+39,My Boo,Ghost Town DJ's,42,39,12
+40,Kissin' You,Total,35,12,21
+41,Tucker's Town,Hootie & The Blowfish,40,38,11
+42,"The Earth, The Sun, The Rain",Color Me Badd,38,21,21
+43,Follow You Down/Til I Hear It From You,Gin Blossoms,39,9,33
+44,If It Makes You Happy,Sheryl Crow,-1,44,1
+45,Ascension (Don't Ever Wonder),Maxwell,46,45,6
+46,The Things That You Do,Gina Thompson,41,41,11
+47,Mouth,Merril Bainbridge,59,47,3
+48,Children,Robert Miles,44,21,20
+49,"Tell Me (From ""Eddie"")",Dru Hill,52,49,4
+50,Tell Me (I'll Be Around),Shades,50,50,8
+51,"Touch Myself (From ""Fled"")",T-Boz,47,40,7
+52,Like A Woman,The Tony Rich Project,48,41,9
+53,E-Bow The Letter,R.E.M.,49,49,3
+54,Pony,Ginuwine,63,54,3
+55,Don't Look Back In Anger,Oasis,55,55,6
+56,"Touch Me Tease Me (From ""The Nutty Professor"")",Case Featuring Foxxy Brown,51,14,20
+57,If I Ruled The World,Nas,58,53,14
+58,Tha Crossroads,Bone Thugs-N-Harmony,57,1,20
+59,"I Like (From ""The Nutty Professor"")",Montell Jordan Featuring Slick Rick,54,28,13
+60,Blackberry Molasses,Mista,53,53,13
+61,Do You Miss Me,Jocelyn Enriquez,61,61,9
+62,Who You Are,Pearl Jam,56,31,6
+63,"Someday (From ""The Hunchback Of Notre Dame"")",All-4-One,62,30,13
+64,Your Secret Love,Luther Vandross,-1,64,1
+65,"Wu-Wear: The Garment Renaissance (From ""High School High"")",RZA Feat. Method Man & Cappadonna,60,60,6
+66,All I See,A+,66,66,8
+67,"Tonight, Tonight",The Smashing Pumpkins,67,36,13
+68,Ready To Go,Republica,73,68,7
+69,Blue,LeAnn Rimes,64,26,14
+70,What Kind Of Man Would I Be,Mint Condition,71,70,3
+71,Steelo,702,74,71,2
+72,Guys Do It All The Time,Mindy McCready,77,72,4
+73,Baby Luv,Groove Theory,65,65,8
+74,Let's Get The Mood Right,Johnny Gill,-1,74,1
+75,It's A Party,Busta Rhymes Featuring Zhane,69,52,11
+76,Until It Sleeps,Metallica,70,10,16
+77,Gettin' It,Too Short Feat. Parliament Funkadelic,78,68,5
+78,Where It's At,Beck,79,61,13
+79,"What's Love Got To Do With It (From ""Supercop"")",Warren G Featuring Adina Howard,-1,79,1
+80,Shake A Lil' Somethin'...,The 2 Live Crew,72,72,7
+81,Where Do We Go From Here,Deborah Cox,68,48,12
+82,You'll Be Mine (Party Time),Gloria Estefan,82,82,3
+83,Movin' On,CeCe Peniston,83,83,5
+84,Jellyhead,CRUSH,84,84,6
+85,As Long As It Matters,Gin Blossoms,75,75,6
+86,All Along,Blessid Union Of Souls,76,70,11
+87,"Where Do We Go From Here (From ""Eraser"")",Vanessa Williams,80,71,11
+88,Just Because I Love You,Lina Santiago,86,78,7
+89,Can't Knock The Hustle,JAY-Z,94,89,2
+90,"So Many Ways (From ""High School High"")",The Braxtons,-1,90,5
+91,Macarena, Los Del Mar,81,71,14
+92,Can You Feel Me,Dru Down,92,92,4
+93,Flood,Jars Of Clay,85,37,19
+94,DJ Girl,Katalina,99,94,2
+95,"It's All The Way Live (Now) (From ""Eddie"")",Coolio,87,29,17
+96,Maria,Ricky Martin,93,90,10
+97,Jump On It,Sir Mix-A-Lot,97,97,2
+98,Superstar,Charm Farm,-1,98,1
+99,"Theme From Mission: Impossible (From ""Mission: Impossible"")",Adam Clayton & Larry Mullen,89,7,20
+100,Hay,Crucial Conflict,88,18,20

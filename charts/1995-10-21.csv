@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Fantasy,Mariah Carey,1,1,4
+2,"Gangsta's Paradise (From ""Dangerous Minds"")",Coolio Featuring L.V.,2,1,10
+3,Runaway,Janet Jackson,4,3,6
+4,Kiss From A Rose,Seal,5,1,18
+5,You Are Not Alone,Michael Jackson,3,1,8
+6,Only Wanna Be With You,Hootie & The Blowfish,7,6,12
+7,Waterfalls,TLC,6,1,20
+8,As I Lay Me Down,Sophie B. Hawkins,8,8,21
+9,Brokenhearted,Brandy,9,9,7
+10,Tell Me,Groove Theory,12,10,9
+11,Carnival,Natalie Merchant,11,11,12
+12,Back For Good,Take That,16,12,11
+13,Roll To Me,Del Amitri,13,13,16
+14,I Can Love You Like That,All-4-One,10,5,19
+15,Run-Around,Blues Traveler,14,8,31
+16,I Got 5 On It,Luniz,15,8,20
+17,I'll Be There For You/This House Is Not A Home,The Rembrandts,17,17,4
+18,Who Can I Run To,Xscape,27,18,2
+19,Name,Goo Goo Dolls,22,19,2
+20,Do You Sleep?,Lisa Loeb & Nine Stories,26,20,5
+21,Boombastic/In The Summertime,Shaggy,18,3,23
+22,"Colors Of The Wind (From ""Pocahontas"")",Vanessa Williams,36,4,18
+23,He's Mine,MoKenStef,20,7,19
+24,December,Collective Soul,24,20,24
+25,I Hate U,Prince,19,12,5
+26,1st Of Tha Month,Bone Thugs-N-Harmony,21,14,9
+27,Sugar Hill,AZ,25,25,15
+28,Don't Take It Personal (Just One Of Dem Days),Monica,23,2,26
+29,Breakfast At Tiffany's,Deep Blue Something,38,29,10
+30,Let Me Be The One,Blessid Union Of Souls,30,30,12
+31,'Til You Do Me Right,After 7,31,31,16
+32,Pretty Girl,Jon B,33,32,8
+33,Sentimental,Deborah Cox,44,33,7
+34,Comedown,Bush,35,34,8
+35,I'd Lie For You (And That's The Truth),Meat Loaf,-1,35,1
+36,"How High (From ""The Show"")",Redman/Method Man,29,13,9
+37,Someone To Love,Jon B. Featuring Babyface,34,10,26
+38,"I Like It, I Love It",Tim McGraw,41,25,9
+39,I Wish,Skee-Lo,32,13,26
+40,Every Little Thing I Do,Soul For Real,37,17,25
+41,One More Chance/Stay With Me,The Notorious B.I.G.,40,2,18
+42,Can I Touch You...There?,Michael Bolton,28,27,8
+43,Incarcerated Scarfaces/Ice Cream,Raekwon,64,43,2
+44,Water Runs Dry,Boyz II Men,39,2,26
+45,Throw Your Set In The Air,Cypress Hill,53,45,2
+46,"Feel The Funk (From ""Dangerous Minds"")",Immature,46,46,5
+47,Let Her Cry,Hootie & The Blowfish,47,9,33
+48,Anything,3T,60,48,3
+49,Macarena (Bayside Boys Mix),Los Del Rio,45,45,8
+50,Heaven,Solo,54,44,11
+51,Before You Walk Out Of My Life/Like This And Like That,Monica,-1,51,1
+52,Good,Better Than Ezra,52,30,17
+53,Player's Anthem,Junior M.A.F.I.A.,43,13,14
+54,Ain't Nuthin' But A She Thing,Salt-N-Pepa,-1,54,1
+55,I Wanna B With U,Fun Factory,58,45,14
+56,Brown Sugar,D'Angelo,42,27,17
+57,Downtown Venus,P.M. Dawn,48,48,5
+58,"Summertime In The LBC (From ""The Show"")",The Dove Shack,59,58,11
+59,You Used To Love Me,Faith Evans,51,24,17
+60,Vibin',Boyz II Men,56,56,8
+61,Freek'n You,Jodeci,55,14,19
+62,Missing,Everything But The Girl,69,62,11
+63,Cell Therapy,Goodie Mob,81,63,2
+64,MC's Act Like They Don't Know,KRS-One,57,57,7
+65,A Mover La Colita,Artie The 1 Man Party,65,65,4
+66,Somethin' 4 Da Honeyz,Montell Jordan,62,21,11
+67,Automatic Lover (Call For Love),Real McCoy,-1,67,1
+68,Danger,Blahzay Blahzay,72,68,3
+69,Come And Get Your Love,Real McCoy,63,19,20
+70,Hook,Blues Traveler,79,70,3
+71,Come With Me,Shai,71,71,6
+72,Boom Boom Boom,The Outhere Brothers,73,72,4
+73,Real Hip Hop,Das EFX,61,61,5
+74,Crazy Cool,Paula Abdul,66,58,7
+75,Scatman (Ski-Ba-Bop-Ba-Dop-Bop),Scatman John,70,60,10
+76,Runaway,The Corrs,83,76,2
+77,"Jeeps, Lex Coups, Bimaz & Benz",Lost Boyz,74,67,7
+78,Magic Carpet Ride,The Mighty Dub Katz,90,78,2
+79,Molly (Sixteen Candles),Sponge,78,55,11
+80,Already Missing You," Gerald Levert & Eddie Levert, Sr.",-1,80,1
+81,Runnin',The Pharcyde,-1,81,1
+82,Can't Cry Anymore,Sheryl Crow,68,36,16
+83,Temptations,2Pac,77,68,4
+84,Set U Free,Planet Soul,-1,84,1
+85,Solitude,Edwin McCain,94,85,3
+86,The Bomb! (These Sounds Fall Into My Mind),The Bucketheads,80,49,17
+87,I Love You/You Bring Me Joy,Mary J. Blige,86,57,19
+88,West Up!,WC & The Maad Circle,89,88,4
+89,Tonight's The Night,BLACKstreet,93,80,6
+90,This Ain't A Love Song,Bon Jovi,88,14,20
+91,Forever Tonight,Peter Cetera & Crystal Bernard,-1,91,1
+92,Feel Me Flow,Naughty By Nature,82,17,20
+93,"One Boy, One Girl",Collin Raye,98,87,6
+94,Walk In The Sun,Bruce Hornsby,85,54,9
+95,Lie To Me/Something For The Pain,Bon Jovi,76,76,5
+96,Feels So Good,Xscape,91,32,18
+97,Somebody's Crying,Chris Isaak,87,45,20
+98,The Hearts Filthy Lesson,David Bowie,92,92,2
+99,Sittin' On Chrome,Masta Ace Incorporated,84,84,6
+100,Rock And Roll Is Dead,Lenny Kravitz,75,75,2

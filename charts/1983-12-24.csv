@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Say Say Say,Paul McCartney And Michael Jackson,1,1,11
+2,Say It Isn't So,Daryl Hall John Oates,2,2,9
+3,Union Of The Snake,Duran Duran,5,3,8
+4,Owner Of A Lonely Heart,Yes,7,4,8
+5,All Night Long (All Night),Lionel Richie,3,1,15
+6,Uptown Girl,Billy Joel,4,3,14
+7,Love Is A Battlefield,Pat Benatar,6,5,14
+8,Twist Of Fate,Olivia Newton-John,9,8,8
+9,Undercover Of The Night,The Rolling Stones,11,9,7
+10,Break My Stride,Matthew Wilder,18,10,15
+11,I Guess That's Why They Call It The Blues,Elton John,19,11,9
+12,Talking In Your Sleep,The Romantics,20,12,12
+13,Church Of The Poison Mind,Culture Club,10,10,10
+14,Major Tom (Coming Home),Peter Schilling,15,14,14
+15,Cum On Feel The Noize,Quiet Riot,12,5,15
+16,Synchronicity II,The Police,16,16,8
+17,Karma Chameleon,Culture Club,27,17,4
+18,Islands In The Stream,Kenny Rogers Duet With Dolly Parton,8,1,18
+19,Why Me?,Irene Cara,13,13,10
+20,In A Big Country,Big Country,17,17,10
+21,Running With The Night,Lionel Richie,25,21,5
+22,Joanna,Kool & The Gang,29,22,8
+23,Read 'Em And Weep,Barry Manilow,24,23,6
+24,Crumblin' Down,John Cougar Mellencamp,14,9,11
+25,If I'd Been The One,Thirty Eight Special,28,25,7
+26,Time Will Reveal,Debarge,26,26,11
+27,That's All,Genesis,30,27,5
+28,I Still Can't Get Over Loving You,Ray Parker Jr.,31,28,7
+29,Pink Houses,John Mellencamp,32,29,3
+30,Ain't Nobody,Chaka Khan,22,22,13
+31,Holiday,Madonna,33,31,9
+32,The Curly Shuffle,Jump 'n The Saddle,44,32,4
+33,Stay With Me Tonight,Jeffrey Osborne,34,33,11
+34,Gold,Spandau Ballet,37,34,6
+35,The Sign Of Fire,The Fixx,38,35,5
+36,Heart And Soul,Huey Lewis & The News,21,8,16
+37,When The Lights Go Out,Naked Eyes,39,37,10
+38,Think Of Laura,Christopher Cross,47,38,3
+39,Baby I Lied,Deborah Allen,41,39,11
+40,In The Mood,Robert Plant,43,40,6
+41,Souls,Rick Springfield,23,23,11
+42,Let The Music Play,Shannon,45,42,7
+43,Middle Of The Road,Pretenders,50,43,2
+44,An Innocent Man,Billy Joel,51,44,2
+45,Remember The Night,The Motels,48,45,4
+46,Send Me An Angel,Real Life,49,46,7
+47,P.Y.T. (Pretty Young Thing),Michael Jackson,36,10,12
+48,Nightbird,Stevie Nicks,63,48,2
+49,So Bad,Paul McCartney,-1,49,1
+50,Yah Mo B There,James Ingram With Michael McDonald,73,50,3
+51,Take Me Back,Bonnie Tyler,56,51,4
+52,Ebony Eyes,Rick James And Smokey Robinson,64,52,3
+53,What's New,Linda Ronstadt & The Nelson Riddle Orchestra,53,53,9
+54,You Don't Believe,The Alan Parsons Project,54,54,6
+55,Big Crash,Eddie Money,57,55,6
+56,I Won't Stand In Your Way,Stray Cats,35,35,9
+57,The Way He Makes Me Feel,Barbra Streisand,40,40,10
+58,The Dream,Irene Cara,70,58,3
+59,The Politics Of Dancing,Re-flex,61,59,5
+60,Save The Last Dance For Me,Dolly Parton,72,60,3
+61,(You Can Still) Rock In America,Night Ranger,65,61,4
+62,99 Luftballons,Nena,68,62,3
+63,Almost Over You,Sheena Easton,75,63,3
+64,Wet My Whistle,Midnight Star,67,64,5
+65,This Must Be The Place (Naive Melody),Talking Heads,62,62,5
+66,Lick It Up,KISS,66,66,7
+67,Give It Up,KC,-1,67,1
+68,Total Eclipse Of The Heart,Bonnie Tyler,42,1,24
+69,Girls Just Want To Have Fun,Cyndi Lauper,80,69,2
+70,"Tonight, I Celebrate My Love",Peabo Bryson/Roberta Flack,46,16,25
+71,Telefone (long Distance Love Affair),Sheena Easton,55,9,19
+72,Suddenly Last Summer,The Motels,52,9,17
+73,Gloria,The Doors,74,73,4
+74,You're Looking Like Love To Me,Peabo Bryson & Roberta Flack,-1,74,1
+75,Street Of Dreams,Rainbow,60,60,8
+76,Tender Is The Night,Jackson Browne,59,25,14
+77,Red Hot,Herb Alpert,78,77,3
+78,The Smile Has Left Your Eyes,Asia,58,34,11
+79,Tell Me If You Still Care,The S.O.S. Band,84,79,6
+80,Making Love Out Of Nothing At All,Air Supply,71,2,22
+81,Someone Like You,Michael Stanley Band,-1,81,1
+82,LET's PRETEND WE'rE MARRIED,Prince,91,82,2
+83,Let's Go Up,Diana Ross,85,83,2
+84,The Sound Of Goodbye,Crystal Gayle,86,84,3
+85,Sweetheart Like You,Bob Dylan,90,85,2
+86,Rappin' Rodney,Rodney Dangerfield,89,86,4
+87,Touch A Four Leaf Clover,Atlantic Starr,88,87,3
+88,I Need You,The Pointer Sisters,76,48,12
+89,Just One More Time,The Headpins,-1,89,1
+90,Electric Kingdom,Twilight 22,95,90,2
+91,I Am Love,Jennifer Holliday,77,49,10
+92,Send Her My Love,Journey,69,23,14
+93,Magnetic,"Earth, Wind & Fire",83,57,7
+94,One Thing Leads To Another,The Fixx,82,4,18
+95,Invisible Hands,Kim Carnes,79,40,11
+96,Allergies,Paul Simon,92,44,8
+97,State Of The Union,Industry,81,81,6
+98,If Love Should Go,Streets,87,87,4
+99,Delirious,Prince,94,8,17
+100,How Many Times Can We Say Goodbye,Dionne Warwick & Luther Vandross,93,27,12

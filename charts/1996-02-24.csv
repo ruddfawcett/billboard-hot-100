@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,One Sweet Day,Mariah Carey & Boyz II Men,1,1,13
+2,"Not Gon' Cry (From ""Waiting To Exhale"")",Mary J. Blige,4,2,5
+3,Missing,Everything But The Girl,2,2,29
+4,Nobody Knows,The Tony Rich Project,5,4,11
+5,"Sittin' Up In My Room (From ""Waiting To Exhale"")",Brandy,6,5,9
+6,Be My Lover,La Bouche,8,6,16
+7,Jesus To A Child,George Michael,-1,7,1
+8,"Exhale (Shoop Shoop) (From ""Waiting To Exhale"")",Whitney Houston,3,1,14
+9,One Of Us,Joan Osborne,9,4,12
+10,Hey Lover,LL Cool J,7,3,15
+11,Follow You Down/Til I Hear It From You,Gin Blossoms,11,11,3
+12,Before You Walk Out Of My Life/Like This And Like That,Monica,13,7,19
+13,Wonderwall,Oasis,14,13,5
+14,Name,Goo Goo Dolls,10,5,20
+15,Tonite's Tha Night,Kris Kross,16,12,12
+16,1979,The Smashing Pumpkins,18,16,3
+17,Anything,3T,17,16,21
+18,Breakfast At Tiffany's,Deep Blue Something,12,5,28
+19,Time,Hootie & The Blowfish,15,14,16
+20,The World I Know,Collective Soul,20,20,15
+21,Wonder,Natalie Merchant,21,21,12
+22,No One Else,Total,29,22,11
+23,You'll See,Madonna,19,6,12
+24,Soon As I Get Home,Faith Evans,26,21,12
+25,Hook,Blues Traveler,25,25,21
+26,Tell Me,Groove Theory,24,5,27
+27,I Want To Come Over,Melissa Etheridge,32,27,2
+28,Glycerine,Bush,30,28,5
+29,Fantasy,Mariah Carey,23,1,22
+30,Diggin' On You,TLC,22,5,15
+31,"Gangsta's Paradise (From ""Dangerous Minds"")",Coolio Featuring L.V.,27,1,28
+32,Set U Free,Planet Soul,28,26,19
+33,Don't Cry,Seal,33,33,2
+34,Fu-Gee-La,Fugees,34,34,9
+35,Get Money,Junior M.A.F.I.A. Featuring The Notorious B.I.G.,49,35,3
+36,As I Lay Me Down,Sophie B. Hawkins,31,6,39
+37,We Got It,Immature (Featuring Smooth),41,37,12
+38,"Natural One (From ""Kids"")",Folk Implosion,38,29,12
+39,"All The Things (Your Man Won't Do) (From ""Don't Be A Menace..."")",Joe ,58,39,3
+40,Cumbersome,Seven Mary Three,46,40,6
+41,Carnival,Natalie Merchant,37,10,30
+42,Feels So Good (Show Me Your Love),Lina Santiago,42,42,5
+43,Only Wanna Be With You,Hootie & The Blowfish,36,6,30
+44,Roll To Me,Del Amitri,35,10,34
+45,"Visions Of A Sunset (From ""Mr. Holland's Opus"")",Shawn Stockman,48,45,7
+46,Let's Play House,Tha Dogg Pound Featuring Michel'le,52,45,8
+47,Back For Good,Take That,39,7,29
+48,Kiss From A Rose,Seal,44,1,36
+49,Runaway,Janet Jackson,43,3,24
+50,Run-Around,Blues Traveler,45,8,49
+51,Who Do U Love,Deborah Cox,59,51,4
+52,Where Do U Want Me To Put It,Solo,61,52,8
+53,Just A Girl,No Doubt,53,53,11
+54,Bullet With Butterfly Wings,The Smashing Pumpkins,51,22,16
+55,Blessed,Elton John,47,34,17
+56,I Got Id/Long Road,Pearl Jam,40,7,10
+57,Dreaming Of You,Selena,50,22,18
+58,Love U 4 Life,Jodeci,56,31,17
+59,Ridin' Low,L.A.D.,54,47,15
+60,Everyday & Everynight,Yvette Michele,60,60,4
+61,"I Miss You (Come Back Home) (From ""New York Undercover"")",Monifah,64,56,18
+62,Stayin' Alive,N-Trance,62,62,6
+63,Beautiful Life,Ace Of Base,55,15,16
+64,You Remind Me Of Something,R. Kelly,57,4,15
+65,"Can't Be Wasting My Time (From ""Don't Be A Menace..."")",Mona Lisa Featuring Lost Boyz,66,65,2
+66,Lucky Love,Ace Of Base,-1,66,1
+67,Promises Broken,Soul Asylum,63,63,2
+68,Too Hot,Coolio,65,24,12
+69,Keep Tryin',Groove Theory,69,69,3
+70,Caught A Lite Sneeze,Tori Amos,71,60,6
+71,Where Ever You Are,Terry Ellis,74,52,17
+72,Cell Therapy,Goodie Mob,77,39,20
+73,I Will Survive,Chantay Savage,90,73,2
+74,It Matters To Me,Faith Hill,80,74,10
+75,"Beware Of My Crew (From ""A Thin Line Between Love And Hate"")",L.B.C. Crew Feat. Tray D & South Sentrell,82,75,11
+76,"A Thin Line Between Love & Hate (From ""A Thin Line..."")",H-Town,97,76,2
+77,Sexual Healing,Max-A-Million,73,60,17
+78,Who Can I Run To,Xscape,67,8,20
+79,All Cried Out,Denine With Collage's Adam Marano,72,72,6
+80,I Will Remember You (Live),Sarah McLachlan,81,65,16
+81,Get Together,Big Mountain,68,44,11
+82,Energy,Devone,70,70,6
+83,Cruisin',D'Angelo,79,53,17
+84,Just Tah Let U Know,Eazy-E,83,45,10
+85,Not A Dry Eye In The House,Meat Loaf,93,85,2
+86,Throw Your Hands Up,L.V.,78,63,15
+87,"Insensitive (From ""Bed Of Roses"")",Jann Arden,94,87,3
+88,Everybody Be Somebody,Ruffneck Featuring Yavahn,85,82,5
+89,We've Got It Goin' On,Backstreet Boys,87,69,18
+90,When Love & Hate Collide,Def Leppard,84,58,13
+91,Leflaur Leflah Eshkushka,Heltah Skeltah And O.G.C. As The Fab 5,75,75,4
+92,Celebration/Take Your Chance,Fun Factory,95,88,7
+93,Hooked On You,Silk,96,54,17
+94,Take A Look,J'Son,-1,94,1
+95,Microphone Master,Das EFX (Featuring Mobb Deep),86,86,2
+96,Magic Carpet Ride,The Mighty Dub Katz,92,58,20
+97,East 1999,Bone Thugs-N-Harmony,99,62,12
+98,Free As A Bird,The Beatles,91,6,9
+99,Automatic Lover (Call For Love),Real McCoy,98,52,19
+100,I'd Lie For You (And That's The Truth),Meat Loaf,88,13,19

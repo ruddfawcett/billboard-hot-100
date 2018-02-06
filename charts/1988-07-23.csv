@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hold On To The Nights,Richard Marx,5,1,10
+2,Pour Some Sugar On Me,Def Leppard,3,2,14
+3,New Sensation,INXS,4,3,11
+4,Roll With It,Steve Winwood,6,4,7
+5,The Flame,Cheap Trick,1,1,16
+6,Hands To Heaven,Breathe,8,6,15
+7,Make Me Lose Control,Eric Carmen,9,7,10
+8,Mercedes Boy,Pebbles,2,2,12
+9,Sign Your Name,Terence Trent D'Arby,14,9,9
+10,Rush Hour,Jane Wiedlin,11,10,12
+11,1-2-3,Gloria Estefan & Miami Sound Machine,19,11,8
+12,Parents Just Don't Understand,D.J. Jazzy Jeff & The Fresh Prince,17,12,10
+13,Nite And Day,Al B. Sure!,7,7,16
+14,I Don't Wanna Go On With You Like That,Elton John,21,14,6
+15,Just Got Paid,Johnny Kemp,22,15,11
+16,Paradise,Sade,18,16,11
+17,Do You Love Me,The Contours,24,3,26
+18,I Don't Wanna Live Without Your Love,Chicago,23,18,8
+19,Lost In You,Rod Stewart,12,12,12
+20,The Colour Of Love,Billy Ocean,25,20,9
+21,Monkey,George Michael,36,21,3
+22,The Twist,Fat Boys,29,22,6
+23,Foolish Beat,Debbie Gibson,13,1,14
+24,Love Changes (Everything),Climie Fisher,27,24,11
+25,Nothin' But A Good Time,Poison,10,6,14
+26,Love Will Save The Day,Whitney Houston,35,26,4
+27,Fast Car,Tracy Chapman,37,27,8
+28,Rag Doll,Aerosmith,33,28,8
+29,Make It Real,The Jets,20,4,15
+30,Dirty Diana,Michael Jackson,15,1,12
+31,The Valley Road,Bruce Hornsby & The Range,16,5,13
+32,Simply Irresistible,Robert Palmer,40,32,4
+33,I Still Believe,Brenda K. Starr,26,13,17
+34,Sweet Child O' Mine,Guns N' Roses,46,34,5
+35,When It's Love,Van Halen,42,35,4
+36,Perfect World,Huey Lewis & The News,51,36,2
+37,I Should Be So Lucky,Kylie Minogue,28,28,12
+38,I Know You're Out There Somewhere,The Moody Blues,43,38,8
+39,I'll Always Love You,Taylor Dayne,47,39,7
+40,In Your Soul,Corey Hart,49,40,7
+41,Together Forever,Rick Astley,30,1,15
+42,All Fired Up,Pat Benatar,53,42,4
+43,"Nobody's Fool (Theme From ""Caddyshack II"")",Kenny Loggins,57,43,3
+44,Here With Me,REO Speedwagon,52,44,5
+45,If It Isn't Love,New Edition,66,45,4
+46,Kiss Me Deadly,Lita Ford,32,12,17
+47,Sayin' Sorry (Don't Make It Right),Denise Lopez,54,47,7
+48,One More Try,George Michael,38,1,15
+49,Missed Opportunity,Daryl Hall John Oates,64,49,3
+50,Beds Are Burning,Midnight Oil,31,17,17
+51,Trouble,Nia Peeples,39,35,11
+52,Tall Cool One,Robert Plant,34,25,15
+53,Say It's Gonna Rain,Will To Power,58,53,6
+54,Another Part Of Me,Michael Jackson,-1,54,1
+55,Supersonic,J.J. Fad,45,30,14
+56,It Would Take A Strong Strong Man,Rick Astley,78,56,2
+57,Knocked Out,Paula Abdul,63,57,6
+58,I Don't Want To Be A Hero,Johnny Hates Jazz,67,58,3
+59,Circle In The Sand, Belinda Carlisle,48,7,15
+60,Boom! There She Was,Scritti Politti Featuring Roger,61,60,6
+61,Hole In My Heart (All The Way To China),Cyndi Lauper,70,61,3
+62,Please Don't Go Girl,New Kids On The Block,71,62,5
+63,I Hate Myself For Loving You,Joan Jett & the Blackhearts,68,63,5
+64,Naughty Girls (Need Love Too),Samantha Fox,55,3,22
+65,Tomorrow People,Ziggy Marley And The Melody Makers,44,39,11
+66,Better Be Home Soon,Crowded House,75,66,3
+67,Spring Love (Come Back To Me),Stevie B,76,67,3
+68,Tell Me,White Lion,74,68,4
+69,Anything For You,Gloria Estefan & Miami Sound Machine,60,1,20
+70,Feelings Of Forever,Tiffany,50,50,7
+71,Alphabet St.,Prince,41,8,13
+72,One Good Woman,Peter Cetera,-1,72,1
+73,Heart Turns To Stone,Foreigner,89,73,2
+74,Little Walter,Tony Toni Tone,56,47,9
+75,Piano In The Dark,Brenda Russell Featuring Joe Esposito,62,6,23
+76,Everything Your Heart Desires,Daryl Hall John Oates,65,3,15
+77,Look Out Any Window,Bruce Hornsby & The Range,-1,77,1
+78,What's On Your Mind (Pure Energy),Information Society,90,78,2
+79,Should I Say Yes?,Nu Shooz,72,41,15
+80,Cecilia,Times Two,84,80,3
+81,Heart Of Mine,Boz Scaggs,73,35,13
+82,The Right Stuff,Vanessa Williams,-1,82,1
+83,Summergirls,Dino,92,83,2
+84,Always There For You,Stryper,-1,84,1
+85,Forgive Me For Dreaming,Elisa Fiorillo,59,49,12
+86,Don't Be Cruel,Bobby Brown,-1,86,1
+87,Inside Outside,The Cover Girls,-1,87,1
+88,Promise Me,The Cover Girls,79,40,18
+89,Shattered Dreams,Johnny Hates Jazz,69,2,19
+90,My Obsession,Icehouse,88,88,3
+91,Coming To America,The System,93,91,3
+92,Make It Last Forever,Keith Sweat (Duet With Jacci McGhee),-1,92,1
+93,Nice 'N' Slow,Freddie Jackson,-1,93,1
+94,Forever Yours,Tony Terry,80,80,5
+95,Joy,Teddy Pendergrass,86,77,6
+96,Time And Tide,Basia,-1,96,1
+97,Colors,Ice-T,85,70,7
+98,Black And Blue,Van Halen,77,34,10
+99,When Will I Be Famous?,Bros,83,83,5
+100,Theme From S-Express,S-Express,94,91,6

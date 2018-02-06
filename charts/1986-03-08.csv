@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Kyrie,Mr. Mister,1,1,12
+2,Sara,Starship,3,2,11
+3,How Will I Know,Whitney Houston,2,1,14
+4,These Dreams,Heart,10,4,8
+5,Secret Lovers,Atlantic Starr,9,5,11
+6,Silent Running (On Dangerous Ground),Mike + The Mechanics,8,6,16
+7,The Sweetest Taboo,Sade,5,5,16
+8,Living In America,James Brown,4,4,14
+9,Life In A Northern Town,The Dream Academy,7,7,15
+10,King For A Day,Thompson Twins,12,10,8
+11,R.O.C.K. In The U.S.A. (A Salute to 60's Rock),John Mellencamp,17,11,6
+12,"When The Going Gets Tough, The Tough Get Going",Billy Ocean,6,2,15
+13,Nikita,Elton John,19,13,8
+14,Rock Me Amadeus,Falco,29,14,5
+15,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",Baltimora,13,13,21
+16,Russians,Sting,16,16,8
+17,What You Need,INXS,23,17,8
+18,Day By Day,Hooters,18,18,13
+19,This Could Be The Night,Loverboy,25,19,8
+20,Sanctify Yourself,Simple Minds,21,20,7
+21,Stages,ZZ Top,22,21,8
+22,A Love Bizarre,Sheila E.,11,11,17
+23,Beat's So Lonely,Charlie Sexton,26,23,13
+24,Let's Go All The Way,Sly Fox,30,24,11
+25,(How To Be A) Millionaire,ABC,27,25,8
+26,Manic Monday,The Bangles,33,26,7
+27,Another Night,Aretha Franklin,31,27,8
+28,Kiss,Prince And The Revolution,41,28,3
+29,That's What Friends Are For,Dionne & Friends,20,1,18
+30,Conga,Miami Sound Machine,15,10,21
+31,Night Moves,Marilyn Martin,34,31,8
+32,Tender Love,Force M.D.'s,39,32,6
+33,Goodbye Is Forever,Arcadia,36,33,6
+34,Burning Heart,Survivor,14,2,19
+35,No Easy Way Out,Robert Tepper,38,35,7
+36,Calling America,Electric Light Orchestra,40,36,6
+37,Needles And Pins,Tom Petty & The Heartbreakers With Stevie Nicks,37,37,6
+38,Addicted To Love,Robert Palmer,46,38,5
+39,I'm Not The One,The Cars,43,39,6
+40,I Can't Wait,Stevie Nicks,48,40,3
+41,I'm Your Man,Wham!,24,3,15
+42,Digital Display,Ready For The World,28,21,14
+43,Bop,Dan Seals,44,43,7
+44,Live Is Life,Opus,53,44,7
+45,I Think It's Love,Jermaine Jackson,56,45,3
+46,The Sun Always Shines on T.V.,a-ha,32,20,15
+47,Do Me Baby,Meli'sa Morgan,51,47,7
+48,Your Love,The Outfield,60,48,4
+49,So Far Away,Dire Straits,66,49,2
+50,West End Girls,Pet Shop Boys,71,50,2
+51,Overjoyed,Stevie Wonder,62,51,3
+52,For America,Jackson Browne,72,52,2
+53,I'd Do It All Again,Sam Harris,52,52,6
+54,Le Bel Age (The Best Years),Pat Benatar,58,54,4
+55,He'll Never Love You (Like I Do),Freddie Jackson,35,25,13
+56,"Say You, Say Me",Lionel Richie,45,1,18
+57,Saturday Love,Cherrelle With Alexander O'Neal,69,57,4
+58,Spies Like Us,Paul McCartney,42,7,16
+59,Let Me Be The One,Five Star,59,59,5
+60,What Have You Done For Me Lately,Janet Jackson,75,60,3
+61,I Like You,Phyllis Nelson,61,61,5
+62,Something About You,Level 42,73,62,4
+63,I Miss You,Klymaxx,50,5,26
+64,The Power Of Love,Jennifer Rush,67,64,5
+65,Jimmy Mack,Sheena Easton,65,65,5
+66,Talk To Me,Stevie Nicks,49,4,17
+67,Walk Of Life,Dire Straits,47,7,19
+68,All The Kings Horses,The Firm,77,68,4
+69,Baby Talk,Alisha,68,68,12
+70,Sidewalk Talk,Jellybean Featuring Catherine Buchanan,57,18,17
+71,A Little Bit Of Love (Is All It Takes),New Edition,89,71,3
+72,Go Home,Stevie Wonder,54,10,16
+73,I Do What I Do... (Theme For 9 1/2 Weeks),John Taylor,-1,73,1
+74,Lying,Peter Frampton,74,74,6
+75,My Hometown,Bruce Springsteen,55,6,14
+76,Bad Boy,Miami Sound Machine ,-1,76,1
+77,Somewhere,Barbra Streisand,70,43,13
+78,It's All Right (Baby's Coming Back),Eurythmics,81,78,4
+79,The Super Bowl Shuffle,Chicago Bears Shufflin' Crew,63,41,9
+80,Heart's On Fire,John Cafferty,88,80,2
+81,If You Leave,Orchestral Manoeuvres In The Dark,-1,81,1
+82,The Men All Pause,Klymaxx,87,82,4
+83,Pleasure And Pain,Divinyls,76,76,7
+84,Caravan Of Love,"Isley, Jasper, Isley",83,51,14
+85,In My Dreams,Dokken,90,85,3
+86,Feel It Again,Honeymoon Suite,-1,86,1
+87,Great Gosh A'mighty (Down & Out In Bev. Hills Theme),Little Richard,-1,87,1
+88,Twist My Arm,The Pointer Sisters,93,88,2
+89,Goodbye,Night Ranger,64,17,18
+90,Where Are You Now?,Jimmy Harnen With Synch,95,90,2
+91,I Found Someone,Laura Branigan,92,91,2
+92,I Can't Wait,Nu Shooz,-1,92,1
+93,Now And Forever (You And Me),Anne Murray,94,93,2
+94,Stereotomy,The Alan Parsons Project,82,82,4
+95,Shelter Me,Joe Cocker,-1,95,1
+96,Can You Feel The Beat,Lisa Lisa And Clult Jam With Full Force,96,69,17
+97,Object Of My Desire,Starpoint,97,25,24
+98,I Engineer,Animotion,-1,98,1
+99,Everything In My Heart,Corey Hart,78,30,15
+100,Secret,Orchestral Manoeuvres In The Dark,80,63,13

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Still Haven't Found What I'm Looking For,U2,2,1,9
+2,"I Want Your Sex (From ""Beverly Hills Cop II"")",George Michael,4,2,10
+3,"Shakedown (From ""Beverly Hills Cop II"")",Bob Seger,1,1,12
+4,Heart And Soul,T'Pau,6,4,15
+5,Luka,Suzanne Vega,8,5,10
+6,Rhythm Is Gonna Get You,Gloria Estefan & Miami Sound Machine,5,5,11
+7,Who's That Girl,Madonna,11,7,5
+8,"Cross My Broken Heart (From ""Beverly Hills Cop II"")",The Jets,7,7,10
+9,Alone,Heart,3,1,13
+10,Wot's It To Ya,Robbie Nevil,10,10,11
+11,La Bamba,Los Lobos,24,11,7
+12,Don't Mean Nothing,Richard Marx,16,12,9
+13,Only In My Dreams,Debbie Gibson,15,13,14
+14,Rock Steady,The Whispers,17,14,10
+15,The Pleasure Principle,Janet Jackson,14,14,12
+16,Back In The High Life Again,Steve Winwood,21,16,11
+17,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston,9,1,13
+18,Kiss Him Goodbye,The Nylons,12,12,13
+19,It's Not Over ('til It's Over),Starship,27,19,7
+20,Seven Wonders,Fleetwood Mac,26,20,8
+21,Love Power,Dionne Warwick & Jeffrey Osborne,31,21,5
+22,I'd Still Say Yes,Klymaxx,19,18,15
+23,Can't We Try,Dan Hill (Duet With Vonda Shepard),33,23,10
+24,"Girls, Girls, Girls",Motley Crue,13,12,11
+25,Living In A Box,Living In A Box,32,25,8
+26,Hearts On Fire,Bryan Adams,28,26,9
+27,Something So Strong,Crowded House,20,7,15
+28,Doing It All For My Baby,Huey Lewis & The News,35,28,4
+29,When Smokey Sings,ABC,39,29,6
+30,Point Of No Return,Expose,18,5,14
+31,Don't Disturb This Groove,The System,22,4,18
+32,Give To Live,Sammy Hagar,34,32,8
+33,Since You've Been Gone,The Outfield,36,33,9
+34,Here I Go Again,Whitesnake,41,34,6
+35,Happy,Surface,25,20,12
+36,Mary's Prayer,Danny Wilson,40,36,10
+37,I Just Can't Stop Loving You,Michael Jackson With Siedah Garrett,-1,37,1
+38,Funkytown,Pseudo Echo,23,6,13
+39,Wipeout,Fat Boys & The Beach Boys,45,39,5
+40,Didn't We Almost Have It All,Whitney Houston,50,40,2
+41,Jam Tonight,Freddie Jackson,42,41,7
+42,Who Found Who,Jellybean Featuring Elisa Fiorillo,48,42,5
+43,Lies,Jonathan Butler,44,43,7
+44,"I Heard A Rumour (From ""Disorderlies"")",Bananarama,54,44,4
+45,Songbird,Kenny G,30,4,19
+46,Moonlighting (Theme),Al Jarreau,29,23,11
+47,Touch Of Grey,Grateful Dead,61,47,3
+48,One Heartbeat,Smokey Robinson,56,48,4
+49,I Need Love,LL Cool J,52,49,2
+50,"Good Times (From ""The Lost Boys"")",INXS & Jimmy Barnes,47,47,8
+51,"Hypnotize Me (From ""Innerspace"")",Wang Chung,37,36,10
+52,Head To Toe,Lisa Lisa And Cult Jam,38,1,18
+53,Dreamin',Will To Power,59,53,7
+54,Why Can't I Be You?,The Cure,55,54,8
+55,Say You Really Want Me,Kim Wilde,65,55,4
+56,Shattered Glass,Laura Branigan,58,56,6
+57,Kiss And Tell,The Breakfast Club,70,57,5
+58,Making Love In The Rain,Herb Alpert,63,58,4
+59,Jump Start, Natalie Cole,66,59,3
+60,Carrie,Europe,72,60,2
+61,U Got The Look,Prince,67,61,2
+62,Why You Treat Me So Bad,Club Nouveau,49,39,11
+63,"Back To Paradise (From ""Revenge Of The Nerds II"")",Thirty Eight Special,68,63,3
+64,These Times Are Hard For Lovers,John Waite,53,53,8
+65,Always,Atlantic Starr,51,1,20
+66,One For The Mockingbird,Cutting Crew,46,38,10
+67,Lost In Emotion,Lisa Lisa And Cult Jam,76,67,2
+68,Fake,Alexander O'Neal,71,68,3
+69,Every Little Kiss,Bruce Hornsby & The Range,43,14,22
+70,Johnny B,Hooters,73,70,4
+71,Show Me The Way,Regina Belle,78,71,4
+72,Meet Me Half Way,Kenny Loggins,64,11,23
+73,In My Dreams,REO Speedwagon,75,73,4
+74,In Too Deep,Genesis,60,3,16
+75,Never Let Me Down,David Bowie,-1,75,1
+76,Misfit,Curiosity Killed The Cat,93,76,2
+77,Jane's Getting Serious,Jon Astley,83,77,7
+78,Strangelove,Depeche Mode,84,78,3
+79,Holiday,The Other Ones,90,79,2
+80,Don't Look Down - The Sequel,Go West,94,80,2
+81,"Be There (From ""Beverly Hills Cop II"")",The Pointer Sisters,-1,81,1
+82,Endless Nights,Eddie Money,69,21,18
+83,Watching Over You,Glenn Medeiros,88,83,2
+84,In Love With Love,Debbie Harry,74,70,6
+85,You Keep Me Hangin' On,Kim Wilde,80,1,20
+86,Just To See Her,Smokey Robinson,62,8,20
+87,Running In The Family,Level 42,-1,87,1
+88,Oh Yeah,Yello,-1,88,1
+89,I Want Action,Poison,57,50,9
+90,Montego Bay,Amazulu,96,90,3
+91,Diamonds,Herb Alpert,79,5,18
+92,"Twistin' The Night Away (From ""Innerspace"")",Rod Stewart,82,80,4
+93,I'll Still Be Loving You,Restless Heart,86,33,18
+94,Give Me All Night,Carly Simon,91,61,12
+95,The Lady In Red,Chris de Burgh,85,3,26
+96,World Where You Live,Crowded House,-1,96,1
+97,Painted Moon,The Silencers,-1,97,1
+98,Holiday,Kool & The Gang,77,66,7
+99,That's Freedom,Tom Kimmel,92,64,8
+100,Flames Of Paradise,Jennifer Rush (Duet With Elton John),81,36,13

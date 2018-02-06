@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Say Say Say,Paul McCartney And Michael Jackson,1,1,14
+2,Owner Of A Lonely Heart,Yes,4,2,11
+3,Say It Isn't So,Daryl Hall John Oates,2,2,12
+4,Union Of The Snake,Duran Duran,3,3,11
+5,Twist Of Fate,Olivia Newton-John,5,5,11
+6,Talking In Your Sleep,The Romantics,6,6,15
+7,Break My Stride,Matthew Wilder,7,7,18
+8,I Guess That's Why They Call It The Blues,Elton John,8,8,12
+9,Karma Chameleon,Culture Club,13,9,7
+10,Running With The Night,Lionel Richie,15,10,8
+11,All Night Long (All Night),Lionel Richie,10,1,18
+12,Undercover Of The Night,The Rolling Stones,9,9,10
+13,Joanna,Kool & The Gang,17,13,11
+14,Uptown Girl,Billy Joel,11,3,17
+15,Love Is A Battlefield,Pat Benatar,12,5,17
+16,The Curly Shuffle,Jump 'n The Saddle,21,16,7
+17,That's All,Genesis,22,17,8
+18,Read 'Em And Weep,Barry Manilow,18,18,9
+19,Major Tom (Coming Home),Peter Schilling,14,14,17
+20,I Still Can't Get Over Loving You,Ray Parker Jr.,24,20,10
+21,Think Of Laura,Christopher Cross,30,21,6
+22,Pink Houses,John Mellencamp,26,22,6
+23,If I'd Been The One,Thirty Eight Special,23,23,10
+24,Time Will Reveal,Debarge,25,24,14
+25,Holiday,Madonna,27,25,12
+26,Let The Music Play,Shannon,38,26,10
+27,Church Of The Poison Mind,Culture Club,16,10,13
+28,An Innocent Man,Billy Joel,39,28,5
+29,Gold,Spandau Ballet,32,29,9
+30,Stay With Me Tonight,Jeffrey Osborne,31,30,14
+31,So Bad,Paul McCartney,34,31,4
+32,The Sign Of Fire,The Fixx,33,32,8
+33,Cum On Feel The Noize,Quiet Riot,20,5,18
+34,Middle Of The Road,Pretenders,37,34,5
+35,Yah Mo B There,James Ingram With Michael McDonald,45,35,6
+36,Baby I Lied,Deborah Allen,36,36,14
+37,Synchronicity II,The Police,19,16,11
+38,Remember The Night,The Motels,41,38,7
+39,In The Mood,Robert Plant,40,39,9
+40,Send Me An Angel,Real Life,42,40,10
+41,Nightbird,Stevie Nicks,43,41,5
+42,99 Luftballons,Nena,50,42,6
+43,The Dream,Irene Cara,47,43,6
+44,Wrapped Around Your Finger,The Police,61,44,2
+45,Ebony Eyes,Rick James And Smokey Robinson,46,45,6
+46,Take Me Back,Bonnie Tyler,48,46,7
+47,Jump,Van Halen,-1,47,1
+48,Islands In The Stream,Kenny Rogers Duet With Dolly Parton,29,1,21
+49,Save The Last Dance For Me,Dolly Parton,52,49,6
+50,Give It Up,KC,59,50,4
+51,Almost Over You,Sheena Easton,57,51,6
+52,The Politics Of Dancing,Re-flex,54,52,8
+53,Why Me?,Irene Cara,28,13,13
+54,Big Crash,Eddie Money,55,54,9
+55,(You Can Still) Rock In America,Night Ranger,58,55,7
+56,Girls Just Want To Have Fun,Cyndi Lauper,62,56,5
+57,In A Big Country,Big Country,35,17,13
+58,New Moon On Monday,Duran Duran,-1,58,1
+59,Ain't Nobody,Chaka Khan,49,22,16
+60,Bang Your Head (Metal Health),Quiet Riot,72,60,2
+61,Wet My Whistle,Midnight Star,63,61,8
+62,You're Looking Like Love To Me,Peabo Bryson & Roberta Flack,66,62,4
+63,Crumblin' Down,John Cougar Mellencamp,51,9,14
+64,This Woman,Kenny Rogers,-1,64,1
+65,Heart And Soul,Huey Lewis & The News,53,8,19
+66,Tell Me If You Still Care,The S.O.S. Band,70,66,9
+67,LET's PRETEND WE'rE MARRIED,Prince,75,67,5
+68,I Want A New Drug,Huey Lewis & The News,-1,68,1
+69,What's New,Linda Ronstadt & The Nelson Riddle Orchestra,56,53,12
+70,Sweetheart Like You,Bob Dylan,81,70,5
+71,P.Y.T. (Pretty Young Thing),Michael Jackson,64,10,15
+72,The Way He Makes Me Feel,Barbra Streisand,68,40,13
+73,I Won't Stand In Your Way,Stray Cats,67,35,12
+74,Souls,Rick Springfield,65,23,14
+75,Someone Like You,Michael Stanley Band,77,75,4
+76,Baby I'm Hooked,ConFunkShun,83,76,2
+77,Let's Go Up,Diana Ross,79,77,5
+78,When The Lights Go Out,Naked Eyes,44,37,13
+79,You Don't Believe,The Alan Parsons Project,60,54,9
+80,Total Eclipse Of The Heart,Bonnie Tyler,73,1,27
+81,Electric Kingdom,Twilight 22,86,81,5
+82,Just One More Time,The Headpins,85,82,4
+83,Rappin' Rodney,Rodney Dangerfield,84,83,7
+84,She's Trouble,Musical Youth,-1,84,1
+85,If Only You Knew,Patti LaBelle,90,85,2
+86,Love Has A Mind Of Its Own,Donna Summer,-1,86,1
+87,Something's On Your Mind,D Train,88,87,2
+88,Action,"Evelyn ""Champagne"" King",93,88,2
+89,For A Rocker,Jackson Browne,-1,89,1
+90,I Will Follow,U2,-1,90,1
+91,Touch A Four Leaf Clover,Atlantic Starr,87,87,6
+92,Making Love Out Of Nothing At All,Air Supply,89,2,25
+93,Lick It Up,KISS,69,66,10
+94,Telefone (long Distance Love Affair),Sheena Easton,76,9,22
+95,"Tonight, I Celebrate My Love",Peabo Bryson/Roberta Flack,74,16,28
+96,Tender Is The Night,Jackson Browne,80,25,17
+97,This Must Be The Place (Naive Melody),Talking Heads,78,62,8
+98,Gloria,The Doors,71,71,7
+99,I Need You,The Pointer Sisters,91,48,15
+100,Suddenly Last Summer,The Motels,82,9,20

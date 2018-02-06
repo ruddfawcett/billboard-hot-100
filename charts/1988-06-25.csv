@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Foolish Beat,Debbie Gibson,3,1,10
+2,Dirty Diana,Michael Jackson,4,2,8
+3,Together Forever,Rick Astley,1,1,11
+4,Make It Real,The Jets,5,4,11
+5,The Flame,Cheap Trick,9,5,12
+6,The Valley Road,Bruce Hornsby & The Range,8,6,9
+7,One More Try,George Michael,2,1,11
+8,Alphabet St.,Prince,10,8,9
+9,Mercedes Boy,Pebbles,11,9,8
+10,Pour Some Sugar On Me,Def Leppard,18,10,10
+11,Nothin' But A Good Time,Poison,13,11,10
+12,Kiss Me Deadly,Lita Ford,12,12,13
+13,Circle In The Sand,Belinda Carlisle,7,7,11
+14,I Still Believe,Brenda K. Starr,14,14,13
+15,Nite And Day,Al B. Sure!,17,15,12
+16,New Sensation,INXS,20,16,7
+17,Everything Your Heart Desires,Daryl Hall John Oates,6,3,11
+18,Beds Are Burning,Midnight Oil,21,18,13
+19,Hold On To The Nights,Richard Marx,25,19,6
+20,Lost In You,Rod Stewart,26,20,8
+21,Rush Hour,Jane Wiedlin,27,21,8
+22,We All Sleep Alone,Cher,15,14,12
+23,Hands To Heaven,Breathe,28,23,11
+24,Shattered Dreams,Johnny Hates Jazz,16,2,15
+25,Naughty Girls (Need Love Too),Samantha Fox,19,3,18
+26,Under The Milky Way,The Church,24,24,12
+27,Tall Cool One,Robert Plant,29,27,11
+28,Make Me Lose Control,Eric Carmen,32,28,6
+29,Roll With It, Steve Winwood,33,29,3
+30,Paradise,Sade,31,30,7
+31,Supersonic,J.J. Fad,30,30,10
+32,Parents Just Don't Understand,D.J. Jazzy Jeff & The Fresh Prince,36,32,6
+33,Piano In The Dark,Brenda Russell Featuring Joe Esposito,22,6,19
+34,Sign Your Name,Terence Trent D'Arby,40,34,5
+35,Heart Of Mine,Boz Scaggs,35,35,9
+36,Anything For You,Gloria Estefan & Miami Sound Machine,23,1,16
+37,Black And Blue,Van Halen,34,34,6
+38,The Colour Of Love,Billy Ocean,42,38,5
+39,Just Got Paid,Johnny Kemp,43,39,7
+40,1-2-3,Gloria Estefan & Miami Sound Machine,46,40,4
+41,I Don't Wanna Live Without Your Love,Chicago,47,41,4
+42,I Should Be So Lucky,Kylie Minogue,44,42,8
+43,Trouble,Nia Peeples,48,43,7
+44,Love Changes (Everything),Climie Fisher,45,44,7
+45,Do You Love Me,The Contours,58,3,22
+46,Should I Say Yes?,Nu Shooz,41,41,11
+47,I Don't Wanna Go On With You Like That,Elton John,60,47,2
+48,Tomorrow People,Ziggy Marley And The Melody Makers,50,48,7
+49,Forgive Me For Dreaming,Elisa Fiorillo,51,49,8
+50,Rag Doll, Aerosmith,61,50,4
+51,Two Occasions,The Deele,37,10,18
+52,Wait,White Lion,38,8,18
+53,Little Walter,Tony Toni Tone,64,53,5
+54,I Don't Want To Live Without You,Foreigner,39,5,15
+55,The Twist,Fat Boys,79,55,2
+56,I Know You're Out There Somewhere,The Moody Blues,71,56,4
+57,Darlin' Danielle Don't,Henry Lee Summer,63,57,5
+58,Wishing I Was Lucky,Wet Wet Wet,70,58,5
+59,Angel,Aerosmith,49,3,22
+60,In Your Soul,Corey Hart,72,60,3
+61,Fast Car,Tracy Chapman,73,61,4
+62,Promise Me,The Cover Girls,55,40,14
+63,I'll Always Love You,Taylor Dayne,74,63,3
+64,You Have Placed A Chill In My Heart,Eurythmics,65,64,5
+65,Electric Blue,Icehouse,52,7,20
+66,Wishing Well,Terence Trent D'Arby,57,1,24
+67,Feelings Of Forever,Tiffany,77,67,3
+68,Sayin' Sorry (Don't Make It Right),Denise Lopez,84,68,3
+69,Dreaming,Orchestral Manoeuvres In The Dark,53,16,16
+70,Colors,Ice-T,75,70,3
+71,When We Kiss,Bardeux,54,36,11
+72,Route 66/Behind The Wheel,Depeche Mode,68,61,8
+73,Most Of All,Jody Watley,69,60,9
+74,Say It's Gonna Rain,Will To Power,85,74,2
+75,Rhythm Of Love,Scorpions,81,75,4
+76,Sweet Child O' Mine,Guns N' Roses,-1,76,1
+77,Always On My Mind,Pet Shop Boys,59,4,14
+78,"Da'Butt (From The ""School Daze"" Soundtrack)",E.U.,56,35,11
+79,Wait On Love,Michael Bolton,80,79,5
+80,Here With Me,REO Speedwagon,-1,80,1
+81,Strange But True,Times Two,62,21,16
+82,Boom! There She Was,Scritti Politti Featuring Roger,95,82,2
+83,Pink Cadillac,Natalie Cole,67,5,17
+84,Knocked Out,Paula Abdul,93,84,2
+85,"Wild, Wild West",Kool Moe Dee,76,62,9
+86,Rooty Toot Toot,John Mellencamp,66,61,7
+87,Take It While It's Hot,Sweet Sensation,78,57,12
+88,Joy,Teddy Pendergrass,96,88,2
+89,Forever Yours,Tony Terry,-1,89,1
+90,When You Walk In The Room,Paul Carrack,92,90,2
+91,I Hate Myself For Loving You,Joan Jett & the Blackhearts,-1,91,1
+92,Please Don't Go Girl,New Kids On The Block,-1,92,1
+93,Theme From S-Express,S-Express,97,93,2
+94,Blue Monday 1988,New Order,90,68,9
+95,Dreamin' Of Love,Stevie B,89,80,10
+96,When Will I Be Famous?,Bros,-1,96,1
+97,"Get Outta My Dreams, Get Into My Car",Billy Ocean,87,1,20
+98,Where Do Broken Hearts Go,Whitney Houston,82,1,18
+99,Pamela,Toto,91,22,19
+100,Like The Weather,"10,000 Maniacs",83,68,8

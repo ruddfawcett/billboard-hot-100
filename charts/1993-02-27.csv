@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Will Always Love You,Whitney Houston,1,1,16
+2,A Whole New World (Aladdin's Theme),Peabo Bryson & Regina Belle,2,2,11
+3,Ordinary World,Duran Duran,3,3,8
+4,"I'm Every Woman (From ""The Bodyguard"")",Whitney Houston,4,4,8
+5,"Nuthin' But A ""G"" Thang",Dr. Dre,12,5,5
+6,Mr. Wendal,Arrested Development,6,6,11
+7,7,Prince And The New Power Generation,8,7,14
+8,"Saving Forever For You (From ""Beverly Hills, 90210"")",Shanice,5,4,19
+9,Hip Hop Hooray,Naughty By Nature,10,9,5
+10,Informer,Snow,15,10,8
+11,If I Ever Fall In Love,Shai,7,2,20
+12,Here We Go Again!,Portrait,11,11,16
+13,Don't Walk Away,Jade,13,13,11
+14,Bed Of Roses,Bon Jovi,18,14,6
+15,"In The Still Of The Nite (From ""The Jacksons"")",Boyz II Men,9,3,14
+16,Get Away,Bobby Brown,14,14,7
+17,Rebirth Of Slick (Cool Like Dat),Digable Planets,16,16,7
+18,That's What Love Can Do,Boy Krazy,25,18,6
+19,"Give It Up, Turn It Loose",En Vogue,20,15,13
+20,Comforter,Shai,26,20,6
+21,I Got A Man,Positive K,27,21,11
+22,Rhythm Is A Dancer,Snap!,19,5,29
+23,Rump Shaker,Wreckx-N-Effect,17,2,22
+24,Forever In Love,Kenny G,30,24,11
+25,Ditty,Paperboy,24,23,11
+26,"The Right Kind Of Love (From ""Beverly Hills, 90210"")",Jeremy Jordan,36,26,12
+27,Good Enough,Bobby Brown,22,7,20
+28,Sweet Thing,Mary J. Blige,40,28,3
+29,When She Cries,Restless Heart,21,11,16
+30,Two Princes,Spin Doctors,39,30,5
+31,Walk On The Ocean,Toad The Wet Sprocket,29,18,16
+32,"I'd Die Without You (From ""Boomerang"")",P.M. Dawn,28,3,25
+33,No Mistakes,Patty Smyth,34,33,10
+34,Do You Believe In Us,Jon Secada,31,13,23
+35,Deeper And Deeper,Madonna,23,7,13
+36,Heal The World,Michael Jackson,54,36,12
+37,Hat 2 Da Back,TLC,51,37,4
+38,Faithful,Go West,32,14,17
+39,Real Love,Mary J. Blige,35,7,27
+40,Freak Me,Silk,42,40,2
+41,Cat's In The Cradle,Ugly Kid Joe,73,41,3
+42,I Have Nothing,Whitney Houston,-1,42,1
+43,Steam,Peter Gabriel,33,32,11
+44,What About Your Friends,TLC,38,7,26
+45,Angel,Jon Secada,50,45,5
+46,I Got A Thang 4 Ya!,Lo-Key?,37,27,16
+47,Dazzey Duks,Duice,47,47,8
+48,I'm So Into You,SWV,61,48,4
+49,Quality Time,Hi-Five,43,38,13
+50,Everything's Gonna Be Alright,Father M.C.,41,37,13
+51,"Love Is (From ""Beverly Hills, 90210"")",Vanessa Williams/Brian McKnight,56,51,6
+52,Man On The Moon,R.E.M.,62,52,4
+53,Stand Up (Kick Love Into Motion),Def Leppard,46,34,12
+54,Little Bird,Annie Lennox,59,54,6
+55,I'm Gonna Get You,Bizarre Inc,63,55,6
+56,No Ordinary Love,Sade,44,28,17
+57,Stand,Poison,60,57,5
+58,"Love Shoulda Brought You Home (From ""Boomerang"")",Toni Braxton,52,33,16
+59,To Love Somebody,Michael Bolton,48,11,20
+60,Bad Girl,Madonna,75,60,2
+61,Murder She Wrote,Chaka Demus & Pliers,58,57,9
+62,If I Ever Lose My Faith In You,Sting,77,62,2
+63,Tell The Truth,Jude Cole,65,63,6
+64,Supermodel (You Better Work),RuPaul,83,64,3
+65,I Love You Period,Dan Baird,53,26,13
+66,Understand This Groove,Sound Factory,66,58,10
+67,The Last Song,Elton John,64,23,18
+68,Never A Time,Genesis,57,21,17
+69,It's Gonna Be A Lovely Day,The S.O.U.L. S.Y.S.T.E.M.,55,34,14
+70,I See Your Smile,Gloria Estefan,76,70,2
+71,Homies,Lighter Shade Of Brown,68,57,12
+72,Knock-N-Boots,Wreckx-N-Effect,89,72,2
+73,Passionate Kisses,Mary Chapin Carpenter,80,73,3
+74,Irresistible,Cathy Dennis,67,61,10
+75,Little Miss Can't Be Wrong,Spin Doctors,70,17,20
+76,Gangsta Bitch,Apache,72,72,5
+77,Feels Like Heaven,Peter Cetera (Duet With Chaka Khan),71,71,6
+78,So Alone,Men At Large,86,78,2
+79,Love Can Move Mountains,Celine Dion,69,36,15
+80,Come In Out Of The Rain,Wendy Moten,82,80,2
+81,Beautiful Girl,INXS,93,81,2
+82,Reminisce,Mary J. Blige,74,57,11
+83,Speed,Alpha Team,85,74,5
+84,Hope Of Deliverance,Paul McCartney,88,84,2
+85,Love U More,Sunscreem,-1,85,1
+86,Happy Days,Silk,87,86,4
+87,Baby I'm For Real/Natural High,After 7,79,55,17
+88,Sweet Thing,Mick Jagger,84,84,3
+89,Losin' Myself,Debbie Gibson,91,86,4
+90,Simple Life,Elton John ,-1,90,1
+91,Dedicated,R. Kelly & Public Announcement,-1,91,1
+92,Punks Jump Up To Get Beat Down,Brand Nubian,92,77,9
+93,Gangsta,Bell Biv DeVoe,78,21,16
+94,Who Got The Props,Black Moon,-1,94,1
+95,Stop The World,Extreme,95,95,2
+96,Love's Taken Over,Chante Moore,90,86,10
+97,Get Up (Move Boy Move),AB Logic,98,83,10
+98,Slow And Sexy,Shabba Ranks (Featuring Johnny Gill),81,33,19
+99,Lights,Journey,96,68,17
+100,Toss-Up,N2Deep,97,92,3

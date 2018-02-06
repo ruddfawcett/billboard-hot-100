@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,One Sweet Day,Mariah Carey & Boyz II Men,1,1,7
+2,"Exhale (Shoop Shoop) (From ""Waiting To Exhale"")",Whitney Houston,2,1,8
+3,Hey Lover,LL Cool J,3,3,9
+4,"Gangsta's Paradise (From ""Dangerous Minds"")",Coolio Featuring L.V.,4,1,22
+5,Diggin' On You,TLC,5,5,9
+6,Breakfast At Tiffany's,Deep Blue Something,7,6,22
+7,Fantasy,Mariah Carey,8,1,16
+8,Before You Walk Out Of My Life/Like This And Like That,Monica,9,7,13
+9,Name,Goo Goo Dolls,10,8,14
+10,Missing,Everything But The Girl,11,10,23
+11,You'll See,Madonna,12,6,6
+12,One Of Us,Joan Osborne,13,12,6
+13,Runaway,Janet Jackson,16,3,18
+14,You Remind Me Of Something,R. Kelly,15,4,9
+15,Free As A Bird,The Beatles,6,6,3
+16,I Got Id/Long Road,Pearl Jam,14,7,4
+17,Beautiful Life,Ace Of Base,17,15,10
+18,Tell Me,Groove Theory,18,5,21
+19,Tonite's Tha Night,Kris Kross,19,19,6
+20,Anything,3T,20,20,15
+21,Soon As I Get Home,Faith Evans,21,21,6
+22,Back For Good,Take That,23,7,23
+23,Only Wanna Be With You,Hootie & The Blowfish,28,6,24
+24,Too Hot,Coolio,24,24,6
+25,Be My Lover,La Bouche,26,25,10
+26,As I Lay Me Down,Sophie B. Hawkins,25,6,33
+27,Time,Hootie & The Blowfish,27,27,10
+28,Bullet With Butterfly Wings,The Smashing Pumpkins,22,22,10
+29,Kiss From A Rose,Seal,30,1,30
+30,Set U Free,Planet Soul,33,29,13
+31,Love U 4 Life,Jodeci,31,31,11
+32,"Sittin' Up In My Room (From ""Waiting To Exhale"")",Brandy,34,32,3
+33,Carnival,Natalie Merchant,35,10,24
+34,Roll To Me,Del Amitri,36,10,28
+35,Dreaming Of You,Selena,32,22,12
+36,Who Can I Run To,Xscape,29,8,14
+37,No One Else,Total,37,37,5
+38,Nobody Knows,The Tony Rich Project ,47,38,5
+39,The World I Know,Collective Soul,40,39,9
+40,"Natural One (From ""Kids"")",Folk Implosion,42,40,6
+41,Wonder,Natalie Merchant,41,41,6
+42,Run-Around,Blues Traveler,43,8,43
+43,Hook,Blues Traveler,39,39,15
+44,Blessed,Elton John,38,34,11
+45,Just Tah Let U Know,Eazy-E,45,45,4
+46,I Remember,Boyz II Men,46,46,7
+47,I'd Lie For You (And That's The Truth),Meat Loaf,44,13,13
+48,December,Collective Soul,49,20,36
+49,Waterfalls,TLC,48,1,32
+50,Get Together,Big Mountain,50,50,5
+51,Let's Play House,Tha Dogg Pound Featuring Michel'le,63,51,2
+52,We Got It,Immature (Featuring Smooth),52,52,6
+53,Cruisin',D'Angelo,53,53,11
+54,Cell Therapy,Goodie Mob,51,39,14
+55,Ridin' Low,L.A.D.,59,55,9
+56,I'll Be There For You/This House Is Not A Home,The Rembrandts,62,17,16
+57,Danger, Blahzay Blahzay,54,46,15
+58,Comedown,Bush,60,30,20
+59,You Are Not Alone,Michael Jackson,56,1,20
+60,Pretty Girl,Jon B,57,25,20
+61,Brokenhearted,Brandy,61,9,19
+62,East 1999,Bone Thugs-N-Harmony,64,62,6
+63,Do You Sleep?,Lisa Loeb & Nine Stories,65,18,17
+64,When Love & Hate Collide,Def Leppard,67,59,7
+65,Where Ever You Are,Terry Ellis,58,52,11
+66,Come With Me,Shai,68,43,18
+67,"I Miss You (Come Back Home) (From ""New York Undercover"")",Monifah,70,66,12
+68,I Will Remember You (Live),Sarah McLachlan,66,66,10
+69,Throw Your Hands Up,L.V.,72,65,9
+70,"Visions Of A Sunset (From ""Mr. Holland's Opus"")",Shawn Stockman,-1,70,1
+71,Macarena (Bayside Boys Mix),Los Del Rio,69,45,20
+72,Hooked On You,Silk,73,54,11
+73,Just A Girl,No Doubt,78,73,5
+74,(If You're Not In It For Love) I'm Outta Here!/The Woman In Me,Shania Twain,74,74,11
+75,Hurricane,The Click,75,63,10
+76,Sexual Healing,Max-A-Million,71,60,11
+77,It Matters To Me,Faith Hill,77,77,4
+78,Incarcerated Scarfaces/Ice Cream,Raekwon,76,37,14
+79,Ain't Nuthin' But A She Thing,Salt-N-Pepa,80,38,13
+80,Runnin',The Pharcyde,79,55,13
+81,Throw Your Set In The Air,Cypress Hill,85,45,14
+82,Rosealia,Better Than Ezra,83,71,8
+83,Magic Carpet Ride,The Mighty Dub Katz,82,58,14
+84,Where Do U Want Me To Put It,Solo,86,84,2
+85,Fu-Gee-La,Fugees,87,85,3
+86,"Beware Of My Crew (From ""A Thin Line Between Love And Hate"")",L.B.C. Crew Feat. Tray D & South Sentrell,93,82,5
+87,Can't Be Really Gone,Tim McGraw,94,87,2
+88,Boom Boom Boom,The Outhere Brothers,81,65,16
+89,Automatic Lover (Call For Love),Real McCoy,92,52,13
+90,We've Got It Goin' On,Backstreet Boys,91,69,12
+91,Sentimental,Deborah Cox,90,27,19
+92,Solitude,Edwin McCain,89,72,15
+93,"The Riddler (From ""Batman Forever"")",Method Man,96,56,10
+94,A Mover La Colita,Artie The 1 Man Party,88,65,16
+95,Fast Life,Kool G Rap,84,74,7
+96,East Side Rendezvous,Frost,99,73,11
+97,Sometimes I Miss You So Much (Dedicated To The Christ Consciousness),P.M. Dawn,95,95,4
+98,You Put A Move On My Heart,Quincy Jones Introducing Tamia,98,98,3
+99,Celebration/Take Your Chance,Fun Factory,-1,99,1
+100,Cold World,Genius/GZA Featuring Inspektah Deck,100,97,3

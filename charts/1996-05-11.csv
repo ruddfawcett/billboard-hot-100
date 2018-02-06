@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Always Be My Baby,Mariah Carey,1,1,6
+2,Tha Crossroads,Bone Thugs-N-Harmony,-1,2,1
+3,"Because You Loved Me (From ""Up Close & Personal"")",Celine Dion,2,1,10
+4,Nobody Knows,The Tony Rich Project,3,2,22
+5,Ironic,Alanis Morissette,4,4,9
+6,You're The One,SWV,6,6,4
+7,"1, 2, 3, 4 (Sumpin' New)",Coolio,5,5,10
+8,"Count On Me (From ""Waiting To Exhale"")",Whitney Houston & CeCe Winans,8,8,8
+9,Down Low (Nobody Has To Know),R. Kelly Featuring Ronald Isley,7,4,11
+10,Give Me One Reason,Tracy Chapman,14,10,6
+11,Woo-Hah!! Got You All In Check/Everything Remains Raw,Busta Rhymes,9,8,10
+12,Follow You Down/Til I Hear It From You,Gin Blossoms,10,9,14
+13,"Sittin' Up In My Room (From ""Waiting To Exhale"")",Brandy,11,2,20
+14,Doin It,LL Cool J,12,9,10
+15,"Keep On, Keepin' On (From ""Sunset Park"")",MC Lyte Featuring Xscape,28,15,9
+16,Missing,Everything But The Girl,13,2,40
+17,Old Man & Me (When I Get To Heaven),Hootie & The Blowfish,22,17,3
+18,"Insensitive (From ""Bed Of Roses"")",Jann Arden,19,18,14
+19,"All The Things (Your Man Won't Do) (From ""Don't Be A Menace..."")",Joe,15,11,14
+20,"Closer To Free (From ""Party Of Five"")",BoDeans,16,16,10
+21,Sweet Dreams,La Bouche,30,21,7
+22,Who Do U Love,Deborah Cox,17,17,15
+23,Lady,D'Angelo,18,10,11
+24,5 O'Clock,Nonchalant,24,24,11
+25,1979,The Smashing Pumpkins,21,12,14
+26,Be My Lover,La Bouche,26,6,27
+27,Wonder,Natalie Merchant,27,21,23
+28,Just A Girl,No Doubt,23,23,22
+29,"Not Gon' Cry (From ""Waiting To Exhale"")",Mary J. Blige,20,2,16
+30,Name,Goo Goo Dolls,29,5,31
+31,The World I Know,Collective Soul,31,19,26
+32,One Sweet Day,Mariah Carey & Boyz II Men,25,1,24
+33,Renee,Lost Boyz,33,33,8
+34,Fastlove,George Michael,-1,34,1
+35,I Want To Come Over,Melissa Etheridge,32,22,13
+36,I Will Survive,Chantay Savage,34,24,13
+37,"The Earth, The Sun, The Rain",Color Me Badd,46,37,2
+38,Chains,Tina Arena,38,38,4
+39,You,Monifah,-1,39,1
+40,Anything,3T,35,15,32
+41,Don't Wanna Lose You,Lionel Richie,39,39,5
+42,In The Meantime,Spacehog,36,32,6
+43,"Machinehead (From ""Fear"")",Bush,43,43,5
+44,The 13th,The Cure,-1,44,1
+45,"A Thin Line Between Love & Hate (From ""A Thin Line..."")",H-Town,37,37,13
+46,Hook,Blues Traveler,40,23,32
+47,Macarena (Bayside Boys Mix),Los Del Rio,-1,45,21
+48,Don't Cry,Seal,41,33,13
+49,Kissin' You,Total,59,49,2
+50,Get Money,Junior M.A.F.I.A. Featuring The Notorious B.I.G.,47,30,14
+51,Please Don't Go,Immature,57,51,2
+52,Release Me,Angelina ,52,52,8
+53,Wonderwall,Oasis,45,8,16
+54,Feels So Good (Show Me Your Love),Lina Santiago,48,35,16
+55,Amish Paradise,"""Weird Al"" Yankovic",53,53,7
+56,Fu-Gee-La,Fugees,51,29,20
+57,Tres Delinquentes,Delinquent Habits,61,57,3
+58,Reach,Gloria Estefan,58,58,4
+59,C'mon N' Ride It (The Train),Quad City DJ's,60,59,9
+60,Lucky Love,Ace Of Base,49,30,12
+61,Only Happy When It Rains,Garbage,55,55,10
+62,Can't Get You Off My Mind,Lenny Kravitz,62,62,8
+63,Ain't No Nigga/Dead Presidents,Jay-Z Featuring Foxxy Brown,63,63,6
+64,Glycerine,Bush,66,28,16
+65,Peaches,The Presidents Of The United States Of America,54,29,10
+66,Cumbersome,Seven Mary Three,65,39,17
+67,"Scarred (From ""Eddie"")",Luke,67,67,3
+68,Ain't Nobody/Kissing You,Faith Evans,68,68,5
+69,Do You Want To/Can't Hang,Xscape Featuring MC Lyte,56,50,10
+70,Counting Blue Cars,Dishwalla,70,70,6
+71,Your Loving Arms,Billie Ray Martin,71,71,14
+72,Ever Since You Went Away,Art N' Soul,75,72,9
+73,Live And Die For Hip Hop,Kris Kross,73,73,3
+74,Esa Nena Linda,Artie The 1 Man Party,74,74,8
+75,Children,Robert Miles,-1,75,1
+76,Shadowboxin',Genius/GZA Featuring Method Man,72,67,6
+77,Feel The Music,Planet Soul Featuring Brenda Dee,77,77,3
+78,"Theme From Mission: Impossible (From ""Mission: Impossible"")",Adam Clayton & Larry Mullen,-1,78,1
+79,Love Don't Live Here Anymore,Madonna,79,79,4
+80,One For The Money,Horace Brown,69,62,7
+81,Soul Food,Goodie Mob,64,64,7
+82,The World Is A Ghetto,Geto Boys Featuring Flaj,94,82,2
+83,Slow Jams,Quincy Jones Feat. Babyface & Tamia With Portrai,76,68,4
+84,"Touch Me Tease Me (From ""The Nutty Professor"")",Case Featuring Foxxy Brown,-1,84,1
+85,My Maria,Brooks & Dunn,89,85,3
+86,Jesus To A Child,George Michael,80,7,12
+87,Have I Never,A Few Good Men,78,76,8
+88,Scary Kisses,Voice Of The Beehive,93,88,2
+89,I Don't Wanna Be Alone,Shai,96,89,2
+90,Hay,Crucial Conflict,-1,90,1
+91,Don't Rush,Silk,91,91,2
+92,"Guilty (From ""Seven"")",Gravity Kills,97,91,5
+93,Take A Look,J'Son,81,74,12
+94,Stayin' Alive,N-Trance,87,62,17
+95,Mr. Ice Cream Man,Master P,90,90,3
+96,No More Games,Skin Deep Featuring Li'l Kim Of Junior M.A.F.I.A.,92,92,3
+97,Ain't No Playa,Rappin' 4-Tay,84,73,11
+98,"Can't Be Wasting My Time (From ""Don't Be A Menace..."")",Mona Lisa Featuring Lost Boyz,86,65,13
+99,Give Me...A Reason,Buffy,85,78,9
+100,Only Love (The Ballad Of Sleeping Beauty),Sophie B. Hawkins,83,49,11

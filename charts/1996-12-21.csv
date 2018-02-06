@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Un-Break My Heart,Toni Braxton,1,1,9
+2,"I Believe I Can Fly (From ""Space Jam"")",R. Kelly,26,2,2
+3,No Diggity,BLACKstreet (Featuring Dr. Dre),2,1,11
+4,Don't Let Go (Love),En Vogue,4,4,7
+5,Nobody,Keith Sweat Featuring Athena Cage,3,3,12
+6,Mouth,Merril Bainbridge,5,4,16
+7,It's All Coming Back To Me Now,Celine Dion,6,2,19
+8,"I Finally Found Someone (From ""The Mirror Has Two Faces"")",Barbra Streisand & Bryan Adams,8,8,5
+9,Pony,Ginuwine,7,6,16
+10,I'm Still In Love With You,New Edition,9,9,7
+11,Macarena (Bayside Boys Mix),Los Del Rio,13,1,53
+12,Where Do You Go,No Mercy,10,5,25
+13,If It Makes You Happy,Sheryl Crow,11,11,14
+14,When You Love A Woman,Journey,12,12,9
+15,I Love You Always Forever,Donna Lewis,14,2,27
+16,"Last Night (From ""The Nutty Professor"")",Az Yet,15,9,18
+17,"Fly Like An Eagle (From ""Space Jam"")",Seal,-1,17,1
+18,This Is For The Lover In You,"Babyface Featuring LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels",16,6,9
+19,What Kind Of Man Would I Be,Mint Condition,17,17,16
+20,Falling,Montell Jordan,18,18,12
+21,Twisted,Keith Sweat,19,2,27
+22,No Time,Lil' Kim Featuring Puff Daddy,23,22,7
+23,"Tell Me (From ""Eddie"")",Dru Hill,20,18,17
+24,Change The World,Eric Clapton,21,5,23
+25,This Is Your Night,Amber,25,25,28
+26,You're Makin' Me High/Let It Flow,Toni Braxton,22,1,29
+27,Street Dreams,Nas,27,27,7
+28,Counting Blue Cars,Dishwalla,28,15,38
+29,Between You And Me,dc Talk,29,29,6
+30,"You Must Love Me (From ""Evita"")",Madonna,24,18,6
+31,Key West Intermezzo (I Saw You First),John Mellencamp,30,14,17
+32,Steelo,702,32,32,15
+33,You Learn/You Oughta Know,Alanis Morissette,31,6,22
+34,My Boo,Ghost Town DJ's,36,31,25
+35,Let's Make A Night To Remember,Bryan Adams,35,24,17
+36,Foolish Games/You Were Meant For Me,Jewel,41,36,4
+37,Never Leave Me Alone,Nate Dogg Featuring Snoop Doggy Dogg,33,33,7
+38,Ooh Aah... Just A Little Bit,Gina G,50,38,4
+39,Come See Me,112,39,39,7
+40,Cold Rock A Party,MC Lyte,42,40,4
+41,C'mon N' Ride It (The Train),Quad City DJ's,34,3,41
+42,Loungin,LL Cool J,37,3,25
+43,ATLiens,OutKast,43,43,4
+44,Follow You Down/Til I Hear It From You,Gin Blossoms,45,9,46
+45,When You're Gone/Free To Decide,The Cranberries,48,45,5
+46,Who Will Save Your Soul,Jewel,40,11,30
+47,Bow Down,Westside Connection,38,21,13
+48,Give Me One Reason,Tracy Chapman,44,3,38
+49,Do You Miss Me,Jocelyn Enriquez,49,49,22
+50,Thirty-Three,The Smashing Pumpkins,55,50,4
+51,Knocks Me Off My Feet,Donell Jones,51,51,8
+52,If Your Girl Only Knew,Aaliyah,46,11,17
+53,"Missing You (From ""Set It Off"")","Brandy, Tamia, Gladys Knight & Chaka Khan",47,25,18
+54,"Nothin' But The Cavi Hit (From ""Rhyme & Reason"")",Mack 10 & Tha Dogg Pound,65,54,2
+55,If We Fall In Love Tonight,Rod Stewart,57,55,6
+56,Without Love,Donna Lewis,60,56,2
+57,"How Could You (From ""Bulletproof"")",K-Ci & JoJo,58,53,6
+58,When Boy Meets Girl,Total,54,50,9
+59,I'm Not Giving You Up,Gloria Estefan,61,59,3
+60,Sittin' On Top Of The World,Da Brat ,56,30,11
+61,"Bohemian Rhapsody (From ""High School High"")",The Braids,53,42,10
+62,Bittersweet Me,R.E.M.,59,46,6
+63,The Moment,Kenny G,63,63,6
+64,Little Bitty,Alan Jackson,67,64,6
+65,I Fell In Love, Rockell,70,65,7
+66,Barely Breathing,Duncan Sheik,71,66,4
+67,"Space Jam (From ""Space Jam"")",Quad City DJ's,-1,67,1
+68,I Like It,The Blackout Allstars,76,68,3
+69,Floatin' On Your Love,The Isley Brothers Featuring Angela Winbush,64,47,13
+70,Desperately Wanting,Better Than Ezra,-1,70,1
+71,It's Your Body,Johnny Gill Featuring Roger Troutman,83,71,2
+72,Jellyhead,CRUSH,77,72,19
+73,I Luv U Baby,The Original,66,66,10
+74,Let's Ride,Richie Rich,74,74,4
+75,Nowhere To Go,Melissa Etheridge,72,40,11
+76,Hero Of The Day,Metallica,79,73,7
+77,Dance Into The Light,Phil Collins,68,45,9
+78,"That Thing You Do! (From ""That Thing You Do!"")",The Wonders,62,41,11
+79,Tonight Is The Night,Le Click,81,75,16
+80,Ready To Go,Republica,73,56,20
+81,You Can Make History (Young Again),Elton John,75,70,9
+82,All I Want,Susanna Hoffs,82,82,4
+83,Macarena Christmas,Los Del Rio,-1,83,1
+84,At Night I Pray,Wild Orchid,80,63,13
+85,One And One,Robert Miles Featuring Maria Nayler,78,54,12
+86,Sugar Honey Ice Tea,Goodfellaz,88,86,2
+87,Hit Me Off,New Edition,85,3,17
+88,Every Light In The House,Trace Adkins,90,88,5
+89,Birmingham,Amanda Marshall,87,43,13
+90,I Can Make It Better,Luther Vandross,-1,90,1
+91,Let's Get The Mood Right,Johnny Gill,89,53,14
+92,Leavin',The Tony Rich Project,95,92,3
+93,"Touch Myself (From ""Fled"")",T-Boz,96,40,20
+94,"What's Love Got To Do With It (From ""Supercop"")",Warren G Featuring Adina Howard,86,32,14
+95,I Don't Need Your Love,Angelina,69,69,10
+96,Naked Eye,Luscious Jackson,-1,96,1
+97,Music Makes Me High,Lost Boyz,94,51,12
+98,Use Your Heart,SWV,91,22,19
+99,Everything Falls Apart/Small Wonders,dog's eye view,97,66,13
+100,Just The Way (Playas Play),Alfonzo Hunter,93,85,8

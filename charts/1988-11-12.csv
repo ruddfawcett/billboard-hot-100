@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,"Wild, Wild West",The Escape Club,2,1,13
+2,"Kokomo (From""Cocktail"" )",The Beach Boys,1,1,11
+3,The Loco-Motion,Kylie Minogue,4,3,12
+4,Bad Medicine,Bon Jovi,5,4,8
+5,One Moment In Time,Whitney Houston,6,5,10
+6,Desire,U2,8,6,7
+7,Groovy Kind Of Love,Phil Collins,3,1,11
+8,"Baby, I Love Your Way/Freebird Medley",Will To Power,13,8,10
+9,Kissing A Fool,George Michael,15,9,6
+10,Never Tear Us Apart,INXS,7,7,14
+11,How Can I Fall?,Breathe,12,11,10
+12,Look Away,Chicago,17,12,8
+13,Another Lover,Giant Steps,16,13,13
+14,Don't Know What You Got (Till It's Gone),Cinderella,18,14,11
+15,I Don't Want Your Love,Duran Duran,20,15,5
+16,Giving You The Best That I Got,Anita Baker,22,16,8
+17,Waiting For A Star To Fall,Boy Meets Girl,23,17,10
+18,What's On Your Mind (Pure Energy),Information Society,10,3,18
+19,A Word In Spanish,Elton John,24,19,9
+20,Red Red Wine,UB40,9,1,29
+21,Walk On Water,Eddie Money,26,21,7
+22,The Promise,When In Rome,27,22,11
+23,Don't You Know What The Night Can Do?,Steve Winwood,11,6,13
+24,Welcome To The Jungle,Guns N' Roses,33,24,4
+25,Chains Of Love,Erasure,14,12,16
+26,Domino Dancing,Pet Shop Boys,32,26,6
+27,Edge Of A Broken Heart,Vixen,30,27,9
+28,Love Bites,Def Leppard,21,1,14
+29,Finish What Ya Started,Van Halen,35,29,7
+30,Don't Be Cruel,Bobby Brown,19,8,17
+31,Small World,Huey Lewis & The News,37,31,6
+32,Every Rose Has Its Thorn,Poison,42,32,3
+33,My Prerogative,Bobby Brown,45,33,4
+34,Forever Young,Rod Stewart,25,12,15
+35,Spy In The House Of Love,Was (Not Was),40,35,7
+36,In Your Room,The Bangles,41,36,5
+37,Downtown Life,Daryl Hall John Oates,31,31,7
+38,Till I Loved You,Barbra Streisand & Don Johnson,43,38,4
+39,Early In The Morning,Robert Palmer,48,39,4
+40,Not Just Another Girl,Ivan Neville,47,40,6
+41,"Don't Worry, Be Happy (From ""Cocktail"")",Bobby McFerrin,29,1,16
+42,Symptoms Of True Love,Tracie Spencer,49,42,7
+43,I Remember Holding You,Boys Club,58,43,4
+44,Any Love,Luther Vandross,50,44,6
+45,I'll Always Love You,Taylor Dayne,39,3,23
+46,"Yeah, Yeah, Yeah",Judson Spence,55,46,5
+47,The Way You Love Me,Karyn White,61,47,5
+48,"Boy, I've Been Told",SaFire,51,48,8
+49,Silhouette,Kenny G,60,49,3
+50,Time And Tide,Basia,38,26,17
+51,Don't Be Cruel,Cheap Trick,28,4,16
+52,It Takes Two,Rob Base & D.J. E-Z Rock,46,36,13
+53,True Love,Glenn Frey,36,13,13
+54,Cars With The Boom,L'Trimm,56,54,8
+55,Please Don't Go Girl,New Kids On The Block,44,10,21
+56,Don't Rush Me,Taylor Dayne,81,56,2
+57,"Hippy Hippy Shake (From ""Cocktail"")",The Georgia Satellites,65,57,4
+58,Little Liar,Joan Jett & the Blackhearts,64,58,3
+59,Thanks For My Child,Cheryl Pepsii Riley,67,59,3
+60,I Hate Myself For Loving You,Joan Jett & the Blackhearts,52,8,21
+61,Didn't Know It Was Love,Survivor,62,61,6
+62,Handle With Care,Traveling Wilburys,66,62,3
+63,Peek-A-Boo,Siouxsie & The Banshees,71,63,5
+64,Ghost Town,Cheap Trick,83,64,2
+65,Wild World,Maxi Priest,78,65,3
+66,Smooth Criminal,Michael Jackson,-1,66,1
+67,Best Of Times,Peter Cetera,73,67,3
+68,Rock & Roll Strategy,Thirty Eight Special,70,68,3
+69,Dancing Under A Latin Moon,Candi,69,69,4
+70,Sweet Child O' Mine,Guns N' Roses,54,1,21
+71,Put A Little Love In Your Heart,Annie Lennox & Al Green,96,71,2
+72,Girls Ain't Nothing But Trouble,D.J. Jazzy Jeff & The Fresh Prince,79,72,3
+73,Don't Break My Heart,Romeo's Daughter,74,73,5
+74,Dance Little Sister,Terence Trent D'Arby,34,30,10
+75,Baby Can I Hold You,Tracy Chapman,84,75,2
+76,Put This Love To The Test,Jon Astley,76,76,5
+77,You Came,Kim Wilde,57,41,9
+78,It's Money That Matters,Randy Newman,85,78,2
+79,If It Isn't Love,New Edition,63,7,20
+80,One Good Woman,Peter Cetera,53,4,17
+81,All This Time,Tiffany,90,81,2
+82,Forever Young,Alphaville,82,82,7
+83,When The Children Cry,White Lion,92,83,2
+84,Nobody's Perfect,Mike + The Mechanics,98,84,2
+85,Never Let You Go,Sweet Sensation,59,58,9
+86,You Make Me Work,Cameo,89,86,2
+87,Back On Holiday,Robbie Nevil,-1,87,1
+88,(It's Just) The Way That You Love Me,Paula Abdul,-1,88,1
+89,I Wanna Have Some Fun,Samantha Fox,-1,89,1
+90,I'm Gonna Miss You,Kenny Loggins,-1,90,1
+91,The Lover In Me,Sheena Easton,99,91,2
+92,Got A New Love,Good Question,86,86,4
+93,Simply Irresistible,Robert Palmer,72,2,20
+94,I Can't Wait,Deniece Williams,68,66,8
+95,Fallen Angel,Poison,77,12,16
+96,If You Feel It,Denise Lopez,-1,96,1
+97,I Believe In You,Stryper,97,97,2
+98,A Nightmare On My Street,D.J. Jazzy Jeff & The Fresh Prince,80,15,16
+99,Way Out,J.J. Fad,87,61,9
+100,You're Not My Kind Of Girl,New Edition,-1,100,1

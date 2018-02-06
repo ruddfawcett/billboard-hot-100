@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Jump,Kris Kross,1,1,9
+2,My Lovin' (You're Never Gonna Get It),En Vogue,2,2,11
+3,Under The Bridge,Red Hot Chili Peppers,3,3,9
+4,Live And Learn,Joe Public,4,4,12
+5,Baby Got Back,Sir Mix-A-Lot,12,5,8
+6,In The Closet,Michael Jackson,10,6,6
+7,Damn I Wish I Was Your Lover,Sophie B. Hawkins,14,7,7
+8,Ain't 2 Proud 2 Beg,TLC,8,6,15
+9,Bohemian Rhapsody,Queen,5,2,35
+10,Save The Best For Last,Vanessa Williams,7,1,18
+11,Tears In Heaven,Eric Clapton,6,2,17
+12,If You Asked Me To,Celine Dion,18,12,6
+13,I'll Be There,Mariah Carey,-1,13,1
+14,Everything About You,Ugly Kid Joe,9,9,9
+15,One,U2,11,10,12
+16,Thought I'd Died And Gone To Heaven,Bryan Adams,13,13,12
+17,Hold On My Heart,Genesis,19,17,5
+18,Achy Breaky Heart,Billy Ray Cyrus,24,18,4
+19,Tennessee,Arrested Development,20,19,8
+20,Let's Get Rocked,Def Leppard,17,15,8
+21,Hazard,Richard Marx,16,9,16
+22,Just Take My Heart,Mr. Big,22,22,8
+23,Make It Happen,Mariah Carey,15,5,15
+24,The Best Things In Life Are Free,Luther Vandross And Janet Jackson With BBD And Ralph Tresvant,-1,24,1
+25,You Won't See Me Cry,Wilson Phillips,30,25,4
+26,I Will Remember You,Amy Grant,29,26,6
+27,Will You Marry Me?,Paula Abdul ,21,19,9
+28,Slow Motion,Color Me Badd,37,28,4
+29,Do It To Me,Lionel Richie,34,29,5
+30,Just Another Day,Jon Secada,40,30,7
+31,Nu Nu,Lidell Townsell,26,26,14
+32,Come & Talk To Me,Jodeci,32,32,9
+33,Lift Me Up,Howard Jones,35,33,8
+34,Silent Prayer,Shanice,31,31,6
+35,Not The Only One,Bonnie Raitt,39,35,7
+36,Everything Changes,Kathy Troccoli,28,14,15
+37,Money Don't Matter 2 Night,Prince And The N.P.G.,25,23,10
+38,I'm The One You Need,Jody Watley,23,19,13
+39,T.L.C.,Linear,44,39,4
+40,Masterpiece,Atlantic Starr,27,3,18
+41,Wishing On A Star,The Cover Girls,-1,41,1
+42,Breakin' My Heart (Pretty Brown Eyes),Mint Condition,33,6,22
+43,High,The Cure,49,42,9
+44,Life Is A Highway,Tom Cochrane,61,44,3
+45,I Can't Dance,Genesis,41,7,18
+46,Why Me Baby?,Keith Sweat,50,46,8
+47,Beauty And The Beast,Celine Dion And Peabo Bryson,38,9,20
+48,To Be With You,Mr. Big,43,1,24
+49,Remember The Time,Michael Jackson,45,3,19
+50,Good For Me,Amy Grant,48,8,20
+51,Take Time,Chris Walker,36,29,12
+52,Your Song,Rod Stewart,54,52,6
+53,Smells Like Nirvana,"""Weird Al"" Yankovic",42,35,6
+54,Come As You Are,Nirvana,51,32,11
+55,They Want EFX,Das EFX,63,55,4
+56,Please Don't Go,Boyz II Men,60,49,9
+57,Innocent Child,Colourhaus,66,57,5
+58,Anything At All,Mitch Malloy,65,58,5
+59,You Think You Know Her,Cause And Effect,46,38,14
+60,Maria,TKA,70,60,9
+61,Human Touch/Better Days,Bruce Springsteen,47,16,11
+62,Love Me,Tracie Spencer,53,48,10
+63,3-2-1 Pump,Redhead Kingpin & The F.B.I.,55,52,10
+64,Just For Tonight,Vanessa Williams,93,64,2
+65,The Choice Is Yours,Black Sheep,57,57,14
+66,What Goes Around Comes Around,Giggles,64,47,19
+67,Closer To Me,The Outfield,72,67,3
+68,We Got A Love Thang,CeCe Peniston,52,20,18
+69,Never Satisfied,Good 2 Go,75,69,4
+70,Helluva,Brotherhood Creed,67,67,7
+71,Nothing Else Matters,Metallica,58,34,10
+72,Don't Be Afraid,Aaron Hall,59,44,12
+73,Fall In Love Again,Eddie Money,81,73,3
+74,All Woman,Lisa Stansfield,56,56,13
+75,This Is The Last Time,Laura Enea,71,71,10
+76,Everything's Gonna Be Alright,Naughty By Nature,73,53,17
+77,Why,Annie Lennox,87,77,3
+78,Love You All My Lifetime,Chaka Khan,68,68,6
+79,Sometimes I Rhyme Slow,Nice & Smooth,89,79,4
+80,Keep On Walkin',CeCe Peniston,97,80,2
+81,Thinkin' Back,Color Me Badd,62,16,18
+82,If You Want It,2nd II None,69,64,9
+83,Boom! I Got Your Boyfriend,MC Luscious,76,61,17
+84,Baby Hold On To Me,Gerald Levert (Duet With Eddie Levert),74,37,16
+85,Goodbye,Tevin Campbell,85,85,8
+86,Take My Advice,Kym Sims,88,86,4
+87,This Is The Way We Roll,M.C. Hammer,86,86,2
+88,Missing You Now,Michael Bolton,77,12,19
+89,Don't Talk Just Kiss,Right Said Fred,78,76,7
+90,She's Got That Vibe,R. Kelly & Public Announcement,83,59,12
+91,I Wanna Rock,Luke,80,73,11
+92,James Brown Is Dead,L.A. Style,90,88,7
+93,"Mama, I'm Coming Home",Ozzy Osbourne,82,28,16
+94,Set Me Free,Clubland Featuring Zemya Hamilton,94,94,2
+95,Justified And Ancient,The KLF Featuring Tammy Wynette,79,11,18
+96,You Showed Me,Salt-N-Pepa,84,47,18
+97,Victim Of The Ghetto,The College Boyz,99,97,2
+98,Honey Love,R. Kelly & Public Announcement,98,98,2
+99,Can't Cry Hard Enough, The Williams Brothers,91,42,17
+100,Bad Bad Boys,Midi Maxi & Efti,-1,100,1

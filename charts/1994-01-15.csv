@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hero,Mariah Carey,1,1,13
+2,All For Love,Bryan Adams/Rod Stewart/Sting,2,2,8
+3,All That She Wants,Ace Of Base,3,2,18
+4,Again,Janet Jackson,4,1,13
+5,Breathe Again,Toni Braxton,6,5,14
+6,Gangsta Lean,DRS,5,4,14
+7,Said I Loved You...But I Lied,Michael Bolton,10,7,11
+8,Whoomp! (There It Is),Tag Team,7,2,34
+9,Can We Talk,Tevin Campbell,11,9,14
+10,What's My Name?,Snoop Dogg,8,8,7
+11,Shoop,Salt-N-Pepa,13,4,15
+12,Keep Ya Head Up,2Pac,12,12,12
+13,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,9,1,18
+14,Please Forgive Me,Bryan Adams,14,7,13
+15,Getto Jam,Domino,17,15,8
+16,Linger,The Cranberries,16,16,13
+17,The Power Of Love,Celine Dion,19,17,8
+18,Just Kickin' It,Xscape,15,2,18
+19,Mr. Vain,Culture Beat,20,19,11
+20,Cry For You,Jodeci,18,18,8
+21,Because The Night,"10,000 Maniacs",22,18,11
+22,Understanding,Xscape,23,22,4
+23,Never Keeping Secrets,Babyface,21,21,13
+24,"I Can See Clearly Now (From ""Cool Runnings"")",Jimmy Cliff,24,23,11
+25,U.N.I.T.Y.,Queen Latifah,25,25,8
+26,Dreamlover,Mariah Carey,30,1,24
+27,Come Baby Come,K7,26,18,20
+28,Dreams,Gabrielle,28,28,15
+29,What Is Love,Haddaway,27,11,21
+30,Amazing,Aerosmith,36,30,7
+31,Jessie,Joshua Kadison,35,31,15
+32,Sex Me (Parts I & II),R. Kelly,29,20,12
+33,Cryin',Aerosmith,34,12,25
+34,"Never Should've Let You Go (From ""Sister Act 2"")",Hi-Five,33,30,14
+35,Time And Chance,Color Me Badd,31,23,12
+36,Hey Mr. D.J.,Zhane,38,6,21
+37,(I Know I Got) Skillz,Shaquille O'Neal,37,35,13
+38,All About Soul,Billy Joel,39,29,11
+39,The River Of Dreams,Billy Joel,43,3,25
+40,Found Out About You,Gin Blossoms,44,39,9
+41,Sweat (A La La La La Long),Inner Circle,41,16,24
+42,Cantaloop (Flip Fantasia),US3,48,42,8
+43,No Rain,Blind Melon,46,20,22
+44,If,Janet Jackson,47,4,26
+45,Slow And Easy,Zapp & Roger,45,44,12
+46,The Sign,Ace Of Base,64,46,3
+47,Award Tour,A Tribe Called Quest,50,47,11
+48,Anniversary,Tony Toni Tone,40,10,17
+49,Choose,Color Me Badd,-1,49,1
+50,Higher Ground,UB40,51,45,15
+51,Wild World,Mr. Big,49,27,15
+52,Miss You In A Heartbeat,Def Leppard,53,52,6
+53,Real Muthaphuckkin G's,Eazy-E,42,42,10
+54,"Two Steps Behind (From ""Last Action Hero"")",Def Leppard,52,12,19
+55,So Much In Love,All-4-One,74,55,3
+56,Life (Everybody Needs Somebody To Love),Haddaway,62,56,4
+57,Goody Goody,Lisette Melendez,59,55,6
+58,Always On My Mind,SWV,65,58,2
+59,I'm In The Mood,CeCe Peniston,63,59,3
+60,Let It Snow,Boyz II Men,32,32,6
+61,"Stay (Faraway, So Close!)",U2,61,61,5
+62,Come Inside,Intro,58,33,20
+63,I'll Be Loving You,Collage,56,56,8
+64,Will You Be There (In The Morning),Heart,73,64,4
+65,We Ain't Goin' Out Like That,Cypress Hill,85,65,2
+66,Having A Party,Rod Stewart,76,66,3
+67,Both Sides Of The Story,Phil Collins,54,25,12
+68,Mary Jane's Last Dance,Tom Petty And The Heartbreakers,75,68,4
+69,Cannonball,The Breeders,71,69,7
+70,God Blessed Texas,Little Texas,55,55,10
+71,Groove Thang,Zhane,-1,71,1
+72,Freakit,Das EFX,67,43,10
+73,Yours,Shai,66,63,6
+74,Everybody Hurts,R.E.M.,68,29,19
+75,True Love,Elton John & Kiki Dee,60,56,8
+76,Let Me Ride,Dr. Dre,72,34,17
+77,Into Your Arms,The Lemonheads,80,67,10
+78,John Deere Green,Joe Diffie,69,69,4
+79,Hopelessly,Rick Astley,78,28,20
+80,"Indo Smoke (From ""Poetic Justice"")",Mista Grimm,86,56,17
+81,Sentimental,Kenny G,79,72,6
+82,Fast As You,Dwight Yoakam,70,70,6
+83,Give It Up,The Goodmen,83,71,8
+84,Betcha'll Never Find,Chantay Savage,92,84,5
+85,You Don't Have To Worry,Mary J. Blige,90,85,3
+86,Looking For Mr. Do Right,Jade,77,69,11
+87,Stay,Eternal,-1,87,1
+88,Funk Dat/Why Is It?,Sagat,89,88,3
+89,I Never Knew Love,Doug Stone,81,81,3
+90,The Song Remembers When,Trisha Yearwood,82,82,8
+91,Really Doe,Ice Cube,88,54,6
+92,"I Love Music (From ""Carlito's Way"")",Rozalla,98,89,4
+93,(Lay Your Head On My) Pillow,Tony Toni Tone,-1,93,1
+94,Here Come The Lords,Lords Of The Underground,100,93,5
+95,Rubberband Girl,Kate Bush,97,88,4
+96,Addams Family (Whoomp!),Tag Team,84,84,3
+97,What's It To You,Clay Walker,91,73,15
+98,I'm Looking For The One (To Be With Me),Jazzy Jeff & The Fresh Prince,93,79,7
+99,As Long As I Can Dream,Expose,94,55,14
+100,Dunkie Butt (Please Please Please),12 Gauge,95,95,2

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,What's Love Got To Do With It,Tina Turner,1,1,18
+2,Missing You,John Waite,2,2,13
+3,She Bop,Cyndi Lauper,3,3,9
+4,Let's Go Crazy,Prince And The Revolution,6,4,7
+5,Stuck On You,Lionel Richie,5,3,13
+6,If This Is It,Huey Lewis & The News,7,6,9
+7,Drive,The Cars,10,7,7
+8,The Warrior,Scandal Featuring Patty Smyth,8,8,12
+9,Ghostbusters,Ray Parker Jr.,4,1,14
+10,The Glamorous Life,Sheila E.,13,10,14
+11,Sunglasses At Night,Corey Hart,9,7,17
+12,Lights Out,Peter Wolf,12,12,10
+13,Cruel Summer,Bananarama,18,13,9
+14,Cover Me,Bruce Springsteen,17,14,6
+15,Dynamite,Jermaine Jackson,20,15,9
+16,Rock Me Tonite,Billy Squier,15,15,11
+17,When Doves Cry,Prince,11,1,16
+18,I Just Called To Say I Love You,Stevie Wonder,26,18,5
+19,When You Close Your Eyes,Night Ranger,21,19,10
+20,Hard Habit To Break,Chicago,24,20,7
+21,If Ever You're In My Arms Again,Peabo Bryson,14,10,19
+22,Torture,The Jacksons,25,22,5
+23,We're Not Gonna Take It,Twisted Sister,23,23,8
+24,Lucky Star,Madonna,27,24,4
+25,All Of You,Julio Iglesias & Diana Ross,19,19,11
+26,Round and Round,Ratt,16,12,14
+27,I Can Dream About You,Dan Hartman,22,6,20
+28,Caribbean Queen (No More Love On The Run),Billy Ocean,36,28,6
+29,The Lucky One,Laura Branigan,31,29,7
+30,There Goes My Baby,Donna Summer,33,30,6
+31,Go Insane,Lindsey Buckingham,34,31,8
+32,Are We Ourselves?,The Fixx,39,32,5
+33,I'm So Excited,The Pointer Sisters,37,30,23
+34,Only When You Leave,Spandau Ballet,38,34,8
+35,Bop 'til You Drop,Rick Springfield,40,35,5
+36,Some Guys Have All The Luck,Rod Stewart,41,36,4
+37,On The Dark Side,John Cafferty & The Beaver Brown Band,43,37,14
+38,Leave A Tender Moment Alone,Billy Joel,28,27,11
+39,Flesh For Fantasy,Billy Idol,44,39,4
+40,Who Wears These Shoes?,Elton John,54,40,2
+41,Swept Away,Diana Ross,48,41,3
+42,Sad Songs (say So Much),Elton John,32,5,15
+43,(what) In The Name Of Love,Naked Eyes,46,43,6
+44,Right By Your Side,Eurythmics,29,29,9
+45,Strut,Sheena Easton,49,45,4
+46,Shine Shine,Barry Gibb,51,46,3
+47,You Take Me Up,Thompson Twins,50,47,4
+48,The Last Time I Made Love,Joyce Kennedy & Jeffrey Osborne,52,48,5
+49,Desert Moon,Dennis DeYoung,61,49,2
+50,Dancing In The Dark, Bruce Springsteen,42,2,17
+51,State of Shock,The Jacksons,30,3,12
+52,Sexy Girl,Glenn Frey,35,20,12
+53,What The Big Girls Do,Van Stephenson,45,45,7
+54,Blue Jean,David Bowie,-1,54,1
+55,17,Rick James,47,36,10
+56,"The More You Live, The More You Love",A Flock Of Seagulls,56,56,6
+57,A Girl In Trouble (Is A Temporary Thing),Romeo Void,67,57,3
+58,I Feel For You,Chaka Khan,73,58,2
+59,Wake Me Up Before You Go-Go,Wham!,80,59,2
+60,What About Me?,Kenny Rogers With Kim Carnes & James Ingram,-1,60,1
+61,Stranger,Stephen Stills,63,61,6
+62,High On Emotion,Chris de Burgh,57,44,12
+63,Better Be Good To Me,Tina Turner,-1,63,1
+64,Just The Way You Like It,The S.O.S. Band,65,64,6
+65,Two Sides Of Love,Sammy Hagar,55,38,10
+66,Straight From The Heart (Into Your Life),Coyote Sisters,66,66,8
+67,On The Wings Of A Nightingale,The Everly Brothers,74,67,3
+68,Strung Out,Steve Perry,79,68,2
+69,Panama,Van Halen,53,13,13
+70,Turn Around,Neil Diamond,62,62,5
+71,Breakin'...there's No Stopping Us,Ollie And Jerry,59,9,16
+72,Alibis,Sergio Mendes,60,29,17
+73,In The Name Of Love,Ralph MacDonald With Bill Withers,77,73,3
+74,Layin' It On The Line,Jefferson Starship,82,74,2
+75,Infatuation,Rod Stewart,58,6,17
+76,She's Mine,Steve Perry,68,21,12
+77,Satisfy Me,Billy Satellite,64,64,5
+78,Jump (for My Love),The Pointer Sisters,75,3,21
+79,Hold Me,Teddy Pendergrass And Whitney Houston,78,46,15
+80,New Girl Now,Honeymoon Suite,85,80,2
+81,Body Rock,Maria Vidal,89,81,2
+82,Sugar Don't Bite,Sam Harris,-1,82,1
+83,Pretty Mess,Vanity,87,83,2
+84,Self Control,Laura Branigan,76,4,23
+85,I Can't Hold Back,Survivor,-1,85,1
+86,Anywhere With You,Rubber Rodeo,86,86,4
+87,Legs,ZZ Top,72,8,18
+88,"Mama, Weer All Crazee Now",Quiet Riot,70,51,11
+89,"You, Me And He",Mtume,-1,89,1
+90,Bullish,Herb Alpert's Tijuana Brass,-1,90,1
+91,Borderline,Madonna,88,10,28
+92,Eyes Without A Face,Billy Idol,81,4,20
+93,"My, Oh My",Slade,69,37,11
+94,Midnite Maniac,Krokus,-1,94,1
+95,Almost Paradise...Love Theme From Footloose,Mike Reno And Ann Wilson,83,7,19
+96,The Only Flame In Town,Elvis Costello & The Atrractions,71,56,8
+97,Turn To You,Go-Go's,90,32,14
+98,Can't Wait All Night,Juice Newton,84,66,6
+99,Dance Hall Days,Wang Chung,91,16,22
+100,I'm Free (Heaven Helps The Man),Kenny Loggins,96,22,14

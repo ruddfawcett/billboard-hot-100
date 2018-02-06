@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hypnotize,The Notorious B.I.G.,2,1,2
+2,Can't Nobody Hold Me Down,Puff Daddy (Featuring Mase),1,1,15
+3,Foolish Games/You Were Meant For Me,Jewel,3,2,23
+4,"For You I Will (From ""Space Jam"")",Monica,4,4,8
+5,I Want You,Savage Garden,6,5,10
+6,Wannabe,Spice Girls,5,1,15
+7,Return Of The Mack,Mark Morrison,8,7,10
+8,Hard To Say I'm Sorry,Az Yet Featuring Peter Cetera,9,8,11
+9,Where Have All The Cowboys Gone?,Paula Cole,10,9,4
+10,My Baby Daddy,B-Rock & The Bizz,15,10,3
+11,All By Myself,Celine Dion,7,4,6
+12,I'll Be,Foxy Brown Featuring Jay-Z,11,7,12
+13,Every Time I Close My Eyes,Babyface,13,6,14
+14,Un-Break My Heart,Toni Braxton,12,1,28
+15,I Belong To You (Every Time I See Your Face),Rome,18,15,8
+16,MMMBop,Hanson,-1,16,1
+17,In My Bed,Dru Hill,14,4,17
+18,Everyday Is A Winding Road,Sheryl Crow,16,11,6
+19,Barely Breathing,Duncan Sheik,20,18,23
+20,Cupid,112,21,20,10
+21,"I Believe I Can Fly (From ""Space Jam"")",R. Kelly,17,2,21
+22,Secret Garden,Bruce Springsteen,23,22,14
+23,Your Woman,White Town,25,23,6
+24,I Shot The Sheriff,Warren G,29,20,7
+25,Da' Dip,Freak Nasty,26,19,18
+26,Big Daddy,Hev-D,22,18,9
+27,Get It Together,702,19,10,12
+28,I Love Me Some Him/I Don't Want To,Toni Braxton,28,28,6
+29,Don't Let Go (Love),En Vogue,24,2,26
+30,Staring At The Sun,U2,30,30,2
+31,The Freshmen,The Verve Pipe,33,31,11
+32,You Don't Have To Hurt No More,Mint Condition,32,32,6
+33,One More Time,Real McCoy,27,27,6
+34,What's On Tonight,Montell Jordan,31,21,12
+35,Ooh Aah... Just A Little Bit,Gina G,34,12,23
+36,Let Me Clear My Throat,DJ Kool,38,30,14
+37,Naked Eye,Luscious Jackson,36,36,20
+38,"Let It Go (From ""Set It Off"")",Ray J,35,25,9
+39,Nobody,Keith Sweat Featuring Athena Cage,39,3,31
+40,For You,Kenny Lattimore,46,40,6
+41,"Too Late, Too Soon",Jon Secada,44,41,8
+42,No Diggity,BLACKstreet (Featuring Dr. Dre),41,1,30
+43,"Step By Step (From ""The Preacher's Wife"")",Whitney Houston,37,15,8
+44,Gangstas Make The World Go Round,Westside Connection,40,40,9
+45,"Don't Wanna Be A Player (From ""Booty Call"")",Joe,-1,45,1
+46,Ghetto Love,Da Brat Featuring T-Boz,42,16,7
+47,Here's Your Sign (Get The Picture),Bill Engvall With Special Guest Travis Tritt,43,43,11
+48,Change The World,Eric Clapton,50,5,42
+49,I Like It,The Blackout Allstars,49,25,22
+50,Bitch,Meredith Brooks,57,50,2
+51,Head Over Heels,Allure Featuring NAS,45,35,8
+52,Jazzy Belle,OutKast,53,52,4
+53,If Tomorrow Never Comes,Joose,59,53,7
+54,Falling In Love (Is Hard On The Knees),Aerosmith,47,35,10
+55,I'm Not Feeling You,Yvette Michele,48,44,11
+56,Request Line,Zhane,55,39,8
+57,Talk To Me,Wild Orchid,51,48,10
+58,Call Me,Le Click,64,58,9
+59,"I Believe In You And Me (From ""The Preacher's Wife"")",Whitney Houston,54,4,19
+60,Firestarter,The Prodigy,60,30,16
+61,Just Another Day,John Mellencamp,62,46,11
+62,Say... If You Feel Alright,Crystal Waters,56,40,11
+63,Please Don't Go,No Mercy,52,21,13
+64,The Theme (It's Party Time),Tracey Lee,61,55,12
+65,Insomnia,Faithless,70,65,6
+66,Havana,Kenny G,66,66,9
+67,Come On,Billy Lawrence Featuring MC Lyte,67,67,4
+68,Until I Find You Again,Richard Marx,73,68,3
+69,On & On,Erykah Badu,63,12,15
+70,Sho Nuff,Tela Featuring Eightball & MJG,58,58,6
+71,"It's Alright, It's Ok",Leah Andreone,69,57,15
+72,Precious Declaration,Collective Soul,65,65,5
+73,"Don't Cry For Me Argentina (From ""Evita"")",Madonna,68,8,11
+74,A Little Bit Of Ecstasy,Jocelyn Enriquez,79,74,5
+75,Desperately Wanting,Better Than Ezra,78,48,20
+76,Don't Stop Movin',Livin' Joy,71,67,15
+77,Sweet Sexy Thing,Nu Flavor Featuring Roger,83,77,3
+78,Silent All These Years,Tori Amos,80,70,7
+79,"Space Jam (From ""Space Jam"")",Quad City DJ's,74,37,20
+80,Step Into A World (Rapture's Delight),KRS-One,82,80,5
+81,Runnin',"2Pac, Notorious B.I.G., Radio, Dramacydal & Stretch",81,81,13
+82,Do G's Get To Go To Heaven?,Richie Rich,72,57,10
+83,That's Right,DJ Taz Featuring Raheem The Dream,86,83,5
+84,Stop The Gunfight,"Trapp Featuring 2pac, Notorious B.I.G.",89,84,2
+85,Feelin' It,JAY-Z,-1,85,1
+86,Whateva Man,Redman,75,42,14
+87,One Night At A Time,George Strait,76,76,5
+88,Full Of Smoke,Christion,88,88,2
+89,It's In Your Eyes,Phil Collins,77,77,12
+90,I Always Feel Like (Somebody's Watching Me),Tru Featuring Ice Cream Man (Master P),85,71,13
+91,"Fly Like An Eagle (From ""Space Jam"")",Seal,84,10,20
+92,Without Your Love,Angelina,87,82,12
+93,Just The Way You Like It,Tasha Holiday,93,93,3
+94,6 Underground,Sneaker Pimps,-1,94,1
+95,Fired Up!,Funky Green Dogs,91,80,13
+96,Can U Feel It,3rd Party,-1,96,1
+97,Don't Keep Wasting My Time,Teddy Pendergrass,90,90,3
+98,Discotheque,U2,96,10,11
+99,Things'll Never Change/Rapper's Ball,E-40 Featuring Bo-Rock,97,29,14
+100,"Watch Me Do My Thing (From ""All That"")",Immature Featuring Smooth And Ed From Good Burger,92,32,14

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Jump,Kris Kross,1,1,8
+2,My Lovin' (You're Never Gonna Get It),En Vogue,2,2,10
+3,Under The Bridge,Red Hot Chili Peppers,6,3,8
+4,Live And Learn,Joe Public,5,4,11
+5,Bohemian Rhapsody,Queen,3,2,34
+6,Tears In Heaven,Eric Clapton,7,2,16
+7,Save The Best For Last,Vanessa Williams,4,1,17
+8,Ain't 2 Proud 2 Beg,TLC,8,6,14
+9,Everything About You,Ugly Kid Joe,9,9,8
+10,In The Closet,Michael Jackson,12,10,5
+11,One,U2,10,10,11
+12,Baby Got Back,Sir Mix-A-Lot,17,12,7
+13,Thought I'd Died And Gone To Heaven,Bryan Adams,13,13,11
+14,Damn I Wish I Was Your Lover,Sophie B. Hawkins,16,14,6
+15,Make It Happen,Mariah Carey,11,5,14
+16,Hazard,Richard Marx,14,9,15
+17,Let's Get Rocked,Def Leppard,15,15,7
+18,If You Asked Me To,Celine Dion,22,18,5
+19,Hold On My Heart,Genesis,31,19,4
+20,Tennessee,Arrested Development,26,20,7
+21,Will You Marry Me?,Paula Abdul,20,19,8
+22,Just Take My Heart,Mr. Big,27,22,7
+23,I'm The One You Need,Jody Watley,19,19,12
+24,Achy Breaky Heart, Billy Ray Cyrus,47,24,3
+25,Money Don't Matter 2 Night,Prince And The N.P.G.,23,23,9
+26,Nu Nu,Lidell Townsell,28,26,13
+27,Masterpiece,Atlantic Starr,18,3,17
+28,Everything Changes,Kathy Troccoli,21,14,14
+29,I Will Remember You,Amy Grant,36,29,5
+30,You Won't See Me Cry,Wilson Phillips,45,30,3
+31,Silent Prayer,Shanice,40,31,5
+32,Come & Talk To Me,Jodeci,44,32,8
+33,Breakin' My Heart (Pretty Brown Eyes),Mint Condition,24,6,21
+34,Do It To Me,Lionel Richie,41,34,4
+35,Lift Me Up,Howard Jones,42,35,7
+36,Take Time,Chris Walker,29,29,11
+37,Slow Motion,Color Me Badd,51,37,3
+38,Beauty And The Beast,Celine Dion And Peabo Bryson,25,9,19
+39,Not The Only One,Bonnie Raitt,43,39,6
+40,Just Another Day,Jon Secada,52,40,6
+41,I Can't Dance,Genesis,32,7,17
+42,Smells Like Nirvana,"""Weird Al"" Yankovic",35,35,5
+43,To Be With You,Mr. Big,33,1,23
+44,T.L.C.,Linear,57,44,3
+45,Remember The Time,Michael Jackson,34,3,18
+46,You Think You Know Her,Cause And Effect,38,38,13
+47,Human Touch/Better Days,Bruce Springsteen,30,16,10
+48,Good For Me,Amy Grant,39,8,19
+49,High,The Cure,49,42,8
+50,Why Me Baby?,Keith Sweat,46,46,7
+51,Come As You Are,Nirvana,37,32,10
+52,We Got A Love Thang,CeCe Peniston,54,20,17
+53,Love Me,Tracie Spencer,56,48,9
+54,Your Song,Rod Stewart,65,54,5
+55,3-2-1 Pump,Redhead Kingpin & The F.B.I.,63,52,9
+56,All Woman, Lisa Stansfield,59,56,12
+57,The Choice Is Yours,Black Sheep,64,57,13
+58,Nothing Else Matters,Metallica,53,34,9
+59,Don't Be Afraid,Aaron Hall,58,44,11
+60,Please Don't Go,Boyz II Men,61,49,8
+61,Life Is A Highway,Tom Cochrane,83,61,2
+62,Thinkin' Back,Color Me Badd,55,16,17
+63,They Want EFX,Das EFX,77,63,3
+64,What Goes Around Comes Around,Giggles,60,47,18
+65,Anything At All,Mitch Malloy,71,65,4
+66,Innocent Child,Colourhaus,79,66,4
+67,Helluva,Brotherhood Creed,74,67,6
+68,Love You All My Lifetime,Chaka Khan,72,68,5
+69,If You Want It,2nd II None,66,64,8
+70,Maria,TKA,92,70,8
+71,This Is The Last Time,Laura Enea,73,71,9
+72,Closer To Me,The Outfield,84,72,2
+73,Everything's Gonna Be Alright,Naughty By Nature,62,53,16
+74,Baby Hold On To Me,Gerald Levert (Duet With Eddie Levert),76,37,15
+75,Never Satisfied,Good 2 Go,86,75,3
+76,Boom! I Got Your Boyfriend,MC Luscious,80,61,16
+77,Missing You Now,Michael Bolton,69,12,18
+78,Don't Talk Just Kiss,Right Said Fred,78,76,6
+79,Justified And Ancient,The KLF Featuring Tammy Wynette,75,11,17
+80,I Wanna Rock,Luke,82,73,10
+81,Fall In Love Again,Eddie Money,93,81,2
+82,"Mama, I'm Coming Home",Ozzy Osbourne,68,28,15
+83,She's Got That Vibe,R. Kelly & Public Announcement,70,59,11
+84,You Showed Me,Salt-N-Pepa,67,47,17
+85,Goodbye,Tevin Campbell,85,85,7
+86,This Is The Way We Roll,M.C. Hammer,-1,86,1
+87,Why,Annie Lennox,100,87,2
+88,Take My Advice,Kym Sims,87,87,3
+89,Sometimes I Rhyme Slow,Nice & Smooth,97,89,3
+90,James Brown Is Dead,L.A. Style,88,88,6
+91,Can't Cry Hard Enough,The Williams Brothers,91,42,16
+92,White Men Can't Jump,Riff,90,90,4
+93,Just For Tonight,Vanessa Williams,-1,93,1
+94,Set Me Free,Clubland Featuring Zemya Hamilton,-1,94,1
+95,What You Give,Tesla,89,86,6
+96,It's Over Now,L.A. Guns,81,62,11
+97,Keep On Walkin',CeCe Peniston,-1,97,1
+98,Honey Love,R. Kelly & Public Announcement,-1,98,1
+99,Victim Of The Ghetto,The College Boyz,-1,99,1
+100,Losing You,Mocca Soul,99,99,2

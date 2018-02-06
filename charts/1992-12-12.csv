@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,I Will Always Love You,Whitney Houston,1,1,5
+2,If I Ever Fall In Love,Shai,2,2,9
+3,Rump Shaker,Wreckx-N-Effect,3,3,11
+4,"In The Still Of The Nite (From ""The Jacksons"")",Boyz II Men,11,4,3
+5,How Do You Talk To An Angel,The Heights,4,1,11
+6,"I'd Die Without You (From ""Boomerang"")",P.M. Dawn,5,3,14
+7,Rhythm Is A Dancer,Snap!,6,6,18
+8,Good Enough,Bobby Brown,8,8,9
+9,Real Love,Mary J. Blige,7,7,16
+10,What About Your Friends,TLC,9,7,15
+11,To Love Somebody,Michael Bolton,12,11,9
+12,Love Is On The Way,Saigon Kick,14,12,15
+13,"Saving Forever For You (From ""Beverly Hills, 90210"")",Shanice,19,13,8
+14,"End Of The Road (From ""Boomerang"")",Boyz II Men,10,1,22
+15,Layla,Eric Clapton,13,12,11
+16,Do You Believe In Us,Jon Secada,16,16,12
+17,Walking On Broken Glass,Annie Lennox,18,14,15
+18,Sometimes Love Just Ain't Enough,Patty Smyth With Don Henley,15,2,18
+19,Jump Around,House Of Pain,17,3,25
+20,Little Miss Can't Be Wrong,Spin Doctors,21,20,9
+21,Where You Goin' Now,Damn Yankees ,24,21,10
+22,Would I Lie To You?,Charles & Eddie,20,13,17
+23,Back To The Hotel,N2Deep,26,23,23
+24,Deeper And Deeper,Madonna,38,24,2
+25,Faithful,Go West,33,25,6
+26,Flex,Mad Cobra,29,26,9
+27,The Last Song,Elton John,32,27,7
+28,I Wish The Phone Would Ring,Expose,28,28,7
+29,Free Your Mind,En Vogue,23,8,14
+30,Drive,R.E.M.,35,30,7
+31,Keep The Faith,Bon Jovi,31,29,8
+32,When She Cries,Restless Heart,37,32,5
+33,Someone To Hold,Trey Lorenz,22,19,11
+34,People Everyday,Arrested Development,27,8,18
+35,Never A Time,Genesis ,46,35,6
+36,Gangsta,Bell Biv DeVoe,30,30,5
+37,Who's Gonna Ride Your Wild Horses,U2,39,37,6
+38,Erotica,Madonna,25,3,9
+39,Have You Ever Needed Someone So Bad,Def Leppard,34,12,17
+40,Just Another Day,Jon Secada,36,5,35
+41,Baby-Baby-Baby,TLC,40,2,28
+42,Slow And Sexy,Shabba Ranks (Featuring Johnny Gill),42,41,8
+43,Humpin' Around,Bobby Brown,41,3,19
+44,7,Prince And The New Power Generation,57,44,3
+45,Walk On The Ocean,Toad The Wet Sprocket,52,45,5
+46,All I Want,Toad The Wet Sprocket,44,15,25
+47,She's Playing Hard To Get,Hi-Five,45,5,20
+48,I Got A Thang 4 Ya!,Lo-Key?,51,48,5
+49,It's Gonna Be A Lovely Day,The S.O.U.L. S.Y.S.T.E.M.,58,49,3
+50,Please Don't Go,K.W.S.,50,6,26
+51,I Will Be Here For You,Michael W. Smith,43,27,13
+52,"Love Shoulda Brought You Home (From ""Boomerang"")",Toni Braxton,53,52,5
+53,Here We Go Again!,Portrait,55,53,5
+54,Chains Around My Heart,Richard Marx,47,44,8
+55,"Forever Love (From ""Mo' Money"")",Color Me Badd,48,15,12
+56,"Give It Up, Turn It Loose",En Vogue,63,56,2
+57,Do I Have To Say The Words?,Bryan Adams,49,11,20
+58,When I Look Into Your Eyes,Firehouse,54,8,18
+59,Love Can Move Mountains,Celine Dion,60,59,4
+60,Baby I'm For Real/Natural High,After 7,61,59,6
+61,No Ordinary Love,Sade,62,61,6
+62,Right Now,Al B. Sure!,56,47,16
+63,Sesame's Treet,Smart E's,67,60,10
+64,I Don't Care,Shakespear's Sister,69,64,3
+65,Quality Time,Hi-Five,96,65,2
+66,"Baby, I Believe In You",George LaMond,80,66,2
+67,I Love You Period,Dan Baird,86,67,2
+68,Everything's Gonna Be Alright,Father M.C.,77,68,2
+69,Slow Dance (Hey Mr. DJ),R. Kelly & Public Announcement,65,43,17
+70,These Are Days,"10,000 Maniacs",82,70,3
+71,Games,Chuckii Booker,75,71,4
+72,The Hitman,AB Logic,64,60,20
+73,Jump!,The Movement,72,53,19
+74,Heal The World,Michael Jackson,-1,74,1
+75,Johnny Have You Seen Her?,The Rembrandts,59,54,7
+76,360 Degrees (What Goes Around),Grand Puba,79,68,9
+77,Sweet November,Troop,70,58,12
+78,Symphony Of Destruction,Megadeth,71,71,9
+79,"It's Alright (From ""South Central"")",Classic Example,68,68,5
+80,Groovin' In The Midnight,Maxi Priest,66,63,7
+81,Wicked,Ice Cube,84,55,4
+82,Yesterdays,Guns N' Roses,73,72,4
+83,Homies,Lighter Shade Of Brown,-1,83,1
+84,Where Does That Leave Love,George LaMond,98,59,19
+85,Pleasure,The Soup Dragons,-1,85,1
+86,Stand Up (Kick Love Into Motion),Def Leppard,-1,86,1
+87,Shamrocks And Shenanigans (Boom Shalock Lock Boom),House Of Pain,-1,87,1
+88,"The Right Kind Of Love (From ""Beverly Hills, 90210"")",Jeremy Jordan,-1,88,1
+89,Jesus He Knows Me,Genesis,81,23,20
+90,I Missed The Bus,Kris Kross,85,63,11
+91,Alone With You,Tevin Campbell,89,72,9
+92,Sexual,Goddess,-1,92,1
+93,Here It Comes, MC Serch,74,71,9
+94,No One Else On Earth,Wynonna,83,83,8
+95,"Revolution (From ""Malcolm X"")",Arrested Development,-1,95,1
+96,Nothing Broken But My Heart,Celine Dion,87,29,20
+97,My Name Is Prince,Prince And The New Power Generation,78,36,10
+98,Ain't Nobody Like You,Miki Howard,88,84,4
+99,I'm Still Waiting,Jodeci,97,85,7
+100,Digging In The Dirt,Peter Gabriel,76,52,11

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak
+1,Hero,Mariah Carey,1,1,11
+2,Again,Janet Jackson,2,1,11
+3,All That She Wants,Ace Of Base,3,2,16
+4,All For Love,Bryan Adams/Rod Stewart/Sting,5,4,6
+5,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,4,1,16
+6,Breathe Again,Toni Braxton,8,6,12
+7,Gangsta Lean, DRS,6,4,12
+8,What's My Name?,Snoop Dogg,9,8,5
+9,Said I Loved You...But I Lied,Michael Bolton,10,9,9
+10,Shoop,Salt-N-Pepa,7,4,13
+11,Whoomp! (There It Is),Tag Team,13,2,32
+12,Please Forgive Me,Bryan Adams,11,7,11
+13,Can We Talk,Tevin Campbell,12,10,12
+14,Keep Ya Head Up,2Pac,15,13,10
+15,Just Kickin' It,Xscape,14,2,16
+16,Linger,The Cranberries,16,16,11
+17,Getto Jam,Domino,19,17,6
+18,Cry For You,Jodeci,23,18,6
+19,Because The Night,"10,000 Maniacs",18,18,9
+20,Mr. Vain,Culture Beat,20,20,9
+21,Never Keeping Secrets,Babyface,21,21,11
+22,The Power Of Love,Celine Dion,28,22,6
+23,"I Can See Clearly Now (From ""Cool Runnings"")",Jimmy Cliff,24,23,9
+24,What Is Love,Haddaway,22,11,19
+25,Hey Mr. D.J.,Zhane,17,6,19
+26,Come Baby Come,K7,25,18,18
+27,Sex Me (Parts I & II),R. Kelly,27,20,10
+28,U.N.I.T.Y.,Queen Latifah,34,28,6
+29,Dreams,Gabrielle,32,29,13
+30,Dreamlover,Mariah Carey,26,1,22
+31,"Never Should've Let You Go (From ""Sister Act 2"")",Hi-Five,30,30,12
+32,All About Soul,Billy Joel,29,29,9
+33,Time And Chance,Color Me Badd,31,23,10
+34,Cryin',Aerosmith,35,12,23
+35,Jessie,Joshua Kadison,33,33,13
+36,Amazing,Aerosmith,45,36,5
+37,(I Know I Got) Skillz,Shaquille O'Neal,39,35,11
+38,Anniversary,Tony Toni Tone,36,10,15
+39,Found Out About You,Gin Blossoms,46,39,7
+40,The River Of Dreams,Billy Joel,38,3,23
+41,Sweat (A La La La La Long),Inner Circle,40,16,22
+42,Real Muthaphuckkin G's,Eazy-E,49,42,8
+43,Let It Snow,Boyz II Men,53,43,4
+44,Wild World,Mr. Big,47,27,13
+45,Higher Ground,UB40,51,45,13
+46,Understanding,Xscape,42,42,2
+47,Slow And Easy,Zapp & Roger,44,44,10
+48,If,Janet Jackson,43,4,24
+49,No Rain,Blind Melon,41,20,20
+50,Both Sides Of The Story,Phil Collins,37,25,10
+51,Cantaloop (Flip Fantasia),US3,54,51,6
+52,"Two Steps Behind (From ""Last Action Hero"")",Def Leppard,50,12,17
+53,Award Tour,A Tribe Called Quest,55,53,9
+54,Miss You In A Heartbeat,Def Leppard,59,54,4
+55,Goody Goody,Lisette Melendez,58,55,4
+56,True Love,Elton John & Kiki Dee,56,56,6
+57,God Blessed Texas,Little Texas,65,57,8
+58,I'll Be Loving You,Collage,60,57,6
+59,Come Inside,Intro,57,33,18
+60,"Soul To Squeeze (From ""Coneheads"")",Red Hot Chili Peppers,61,22,19
+61,"Stay (Faraway, So Close!)",U2,66,61,3
+62,Life (Everybody Needs Somebody To Love),Haddaway,83,62,2
+63,Yours,Shai,70,63,4
+64,Freakit,Das EFX,63,43,8
+65,Hopelessly,Rick Astley,62,28,18
+66,So Much In Love,All-4-One,-1,66,1
+67,Everybody Hurts,R.E.M.,64,29,17
+68,The Sign,Ace Of Base,-1,68,1
+69,Cannonball,The Breeders,69,69,5
+70,Fast As You,Dwight Yoakam,80,70,4
+71,Into Your Arms,The Lemonheads,67,67,8
+72,Let Me Ride,Dr. Dre,78,34,15
+73,Will You Be There (In The Morning),Heart,87,73,2
+74,Sentimental,Kenny G,72,72,4
+75,Looking For Mr. Do Right,Jade,76,69,9
+76,As Long As I Can Dream,Expose,68,55,12
+77,Give It Up,The Goodmen,71,71,6
+78,Method Man,Wu-Tang Clan,75,69,13
+79,Mary Jane's Last Dance,Tom Petty And The Heartbreakers,86,79,2
+80,Really Doe,Ice Cube,74,54,4
+81,I'm In The Mood,CeCe Peniston,-1,81,1
+82,The Song Remembers When,Trisha Yearwood,85,82,6
+83,John Deere Green,Joe Diffie,91,83,2
+84,Addams Family (Whoomp!),Tag Team,-1,84,1
+85,93 'til Infinity,Souls Of Mischief,81,72,8
+86,"Indo Smoke (From ""Poetic Justice"")",Mista Grimm,73,56,15
+87,I Never Knew Love,Doug Stone,-1,87,1
+88,Send Me A Lover,Taylor Dayne,77,50,14
+89,"I Love Music (From ""Carlito's Way"")",Rozalla,89,89,2
+90,Better Than You,Lisa Keith,79,36,20
+91,Having A Party,Rod Stewart,-1,91,1
+92,What's It To You,Clay Walker,97,73,13
+93,I'm Looking For The One (To Be With Me),Jazzy Jeff & The Fresh Prince,82,79,5
+94,Betcha'll Never Find,Chantay Savage,84,84,3
+95,You Don't Have To Worry,Mary J. Blige,-1,95,1
+96,Push The Feeling On,Nightcrawlers,96,80,14
+97,Funk Dat/Why Is It?,Sagat,-1,97,1
+98,Here Come The Lords,Lords Of The Underground,98,93,3
+99,Rubberband Girl,Kate Bush,88,88,2
+100,Yolanda,Reality,93,72,10
